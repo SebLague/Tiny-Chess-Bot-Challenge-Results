@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "53"]
+[White "GoblinArmy (by: TheChroniclerDelta)"]
+[Black "simpleval (portmonteau of simple eval) (by: hokurou)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a4 h5 2. h3 g5 3. d4 f5 4. e3 h4 5. f3 d5 6. b4 e6 7. g4 Bxb4+ 8. Bd2 Ba5 9. gxf5 Bb6 10. e4 Bxd4 11. fxe6 Bxa1 12. e7 Qxe7 13. Bxg5 Qxg5 14. exd5 Qe7+ 15. Qe2 c5 16. Qxe7+ Kxe7 17. Kd2 a5 18. Bd3 b6 19. Ba6 Bxa6 20. Ke3 c4 21. Ke4 Nf6+ 22. Kf5 Nxd5 23. Na3 c3 24. Ke4 Nb4 25. Ke3 Nd5+ 26. Ke4 Nb4 27. Ke5 Nd7+ 28. Kf4 Nd5+ 29. Kg4 N7f6+ 30. Kf5 Nh5 31. Ke4 Nb4 32. Ke5 Nc6+ 33. Ke4 Nf6+ 34. Kf5 Nd5 35. Nc4 Bxc4 36. Kg4 Ne5+ 37. Kf5 Nc6 38. Kg4 Nf6+ 39. Kg5 Nd5 40. Kf5 Nd4+ 41. Kg5 Rag8# 0-1

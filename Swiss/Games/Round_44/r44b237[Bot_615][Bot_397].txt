@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "43"]
+[White "Anty (by: Emanuele Sorce)"]
+[Black "TinyLispChessBot (by: tr00)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. c4 Na6 2. d3 Nb4 3. a4 c5 4. Qd2 Rb8 5. a5 Ra8 6. g4 Rb8 7. Qxb4 cxb4 8. Bh6 Nxh6 9. Nd2 Nxg4 10. Rc1 Qxa5 11. Kd1 Nxf2+ 12. Ke1 Qc5 13. b3 Nxh1 14. Ne4 Qxg1 15. Rc3 bxc3 16. Nd6+ exd6 17. e4 c2 18. Kd2 Qxf1 19. Kxc2 Ke7 20. Kc3 Ke6 21. Kc2 Ke5 22. Kc3 Kf4 23. Kc2 Ke3 24. Kb2 Kxd3 25. b4 Kxe4 26. Kc2 Qxc4+ 27. Kb1 Kd3 28. b5 Kd2 29. Kb2 Kd1 30. Kb1 Ke1 31. b6 Qb4+ 32. Kc1 Qc4+ 33. Kb1 Qb4+ 34. Kc1 Qc4+ 35. Kb1 1/2-1/2

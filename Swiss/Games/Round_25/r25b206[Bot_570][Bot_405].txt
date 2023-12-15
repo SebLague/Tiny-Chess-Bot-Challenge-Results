@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "24"]
+[White "Shadow's Unfinished Bot (by: shadowcage72)"]
+[Black "noobot v1 (by: Arshia)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e6 2. Nc3 Qh4 3. g4 h5 4. Be2 hxg4 5. Bxg4 Nf6 6. h3 Be7 7. Nf3 Qh6 8. O-O Nxg4 9. hxg4 Qh1# 0-1

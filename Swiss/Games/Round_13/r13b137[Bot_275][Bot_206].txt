@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "12"]
+[White "Simple Minimax (by: Sidewinder7)"]
+[Black "Maple (by: Austin)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. h4 Nxe4 3. d4 Nc6 4. d5 Nb4 5. Bg5 Nxd5 6. Qxd5 f5 7. g4 c6 8. Qxf5 d5 9. Qe5 Qa5+ 10. Nd2 Bxg4 11. b4 Qxb4 12. Bg2 Nxd2 13. Bxd2 Qa3 14. Qc7 Qb2 15. Rd1 Bxd1 16. Ne2 Bxc2 17. Nc1 Be4 18. Bxe4 dxe4 19. Qa5 e6 20. Rg1 Rd8 21. Kf1 Rxd2 22. Qxd2 Qxd2 23. Kg2 e3 24. Kh3 exf2 25. Rf1 Qe1 26. Rxe1 fxe1=Q 27. Kg2 Qxc1 28. Kf3 Qc4 29. h5 Qxa2 30. h6 gxh6 31. Ke3 Qb2 32. Kf3 Qg7 33. Ke3 c5 34. Kd3 Qb2 35. Ke3 a6 36. Kf3 Qh2 37. Ke3 b5 38. Kf3 c4 39. Ke3 c3 40. Kf3 Bc5 41. Ke4 Qe2+ 42. Kf4 Bd6# 0-1

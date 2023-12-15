@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "37"]
+[White "HikuBot (by: Hikushii)"]
+[Black "Susolly (by: Rookie)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. c4 O-O 5. d4 c6 6. O-O d5 7. cxd5 cxd5 8. Nc3 Nc6 9. Be3 Re8 10. Rc1 Bf5 11. Re1 e5 12. dxe5 Ng4 13. Nxd5 Be4 14. Rc5 Nxe3 15. Nxe3 Qb6 16. Qc1 Bxf3 17. Bxf3 Bxe5 18. Bxc6 Bxb2 19. Qc2 bxc6 20. Rb1 Rab8 21. Nd1 Rxe2 22. Qxe2 Qxc5 23. Rxb2 Rxb2 24. Nxb2 Kg7 25. Nd3 Qb5 26. Qe3 Qb1+ 27. Kg2 Qxa2 28. Qe5+ Kh6 29. Nf4 Qc2 30. Qe7 f5 31. Qf8+ Kg5 32. Qg7 Qe4+ 33. Kh3 Qc4 34. Ne6+ Qxe6 35. f4+ Kh5 36. Qxh7# 1-0

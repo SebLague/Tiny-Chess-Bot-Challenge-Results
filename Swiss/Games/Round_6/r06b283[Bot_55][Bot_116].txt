@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "5"]
+[White "GoodBot (by: Fiera42)"]
+[Black "MirrorBot (by: Jackk)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c3 c6 2. a4 a5 3. b4 axb4 4. Ra3 bxa3 5. Bb2 axb2 6. Qc1 bxc1=Q# 0-1

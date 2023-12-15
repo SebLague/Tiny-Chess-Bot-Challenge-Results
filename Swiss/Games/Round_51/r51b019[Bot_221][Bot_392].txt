@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "50"]
+[White "Spaghetto (by: Skae (Francesco))"]
+[Black "Uranium (by: iudwgerte)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. Nc3 d5 3. g3 d4 4. Nb1 Nc6 5. Bg2 e5 6. c3 d3 7. exd3 Qxd3 8. Rf1 e4 9. Ng5 h6 10. Nxf7 Kxf7 11. f3 Ne5 12. fxe4 Bg4 13. Qb3+ Kg6 14. Rf2 Nxe4 15. Qxb7 Nxf2 16. Bf1 Nf3+ 17. Qxf3 Qxf3 18. Bb5 Nd1 19. Bd3+ Qxd3 20. Na3 Qe2# 0-1

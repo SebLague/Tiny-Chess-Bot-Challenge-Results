@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "20"]
+[White "NameGoesThere's bot (by: NameGoesThere)"]
+[Black "EvilerBot (by: Noah)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 f5 2. Qh5+ g6 3. Qe2 Bh6 4. d4 a6 5. e5 Bxc1 6. b4 Bb2 7. d5 Bxa1 8. Nd2 b5 9. Qd3 Bb7 10. Ne2 Qc8 11. f4 Kd8 12. Nc1 d6 13. exd6 Kd7 14. dxe7 Kxe7 15. Qe2+ Kd8 16. Nd3 Bd4 17. Qd1 Bg1 18. h4 Bxd5 19. g3 Bxh1 20. Ne5 g5 21. Nf7+ Ke8 22. Nxh8 Kd8 23. Nf7+ Kd7 24. Ne5+ Kd6 25. Nf7+ Kd5 26. Nb3+ Kc6 27. Ne5+ Kb6 28. fxg5 a5 29. bxa5+ Kb7 30. a6+ Ka7 31. Nc6+ Nxc6 32. Bxb5 Nge7 33. Nd2 Be3 34. Nc4 Ng6 35. Nxe3 Kb6 36. Nc4+ Kxb5 37. Na3+ Ka4 38. c4+ Kxa3 39. Qb3# 1-0

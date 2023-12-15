@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "16"]
+[White "SimpleBearSearch (by: PizzasBear)"]
+[Black "Ragdoll's Ragdoll (by: Ragdoll)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 c5 2. Nf3 Qa5 3. e4 g6 4. e5 e6 5. Ne4 Na6 6. Bc4 Nb8 7. O-O g5 8. d3 d5 9. exd6 Qd8 10. Bxg5 Qa5 11. Nf6+ Nxf6 12. Bxf6 Rg8 13. Bc3 Qd8 14. Bb5+ Nd7 15. d4 cxd4 16. Qxd4 Bg7 17. Qxg7 Rf8 18. Qxh7 f5 19. Qh5+ Rf7 20. Ne5 Qb6 21. Qxf7+ Kd8 22. Qe7# 1-0

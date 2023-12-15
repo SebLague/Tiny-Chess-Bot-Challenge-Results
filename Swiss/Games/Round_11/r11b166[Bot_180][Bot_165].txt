@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "10"]
+[White "Sørensen's Minimax (by: Victor)"]
+[Black "The Terminator (by: Ryan Murphy)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. e3 Nc6 2. Qg4 d5 3. Qh5 e5 4. Bb5 Bd7 5. Bxc6 Bxc6 6. Qxe5+ Ne7 7. Ne2 Qd6 8. Qxd6 cxd6 9. Nd4 O-O-O 10. Nc3 Bd7 11. Ncb5 Nc6 12. Nxc6 bxc6 13. Nd4 Kb8 14. b4 Be7 15. Rb1 Rc8 16. Ke2 Rc7 17. Ba3 Rb7 18. b5 cxb5 19. Bb4 Rb6 20. Ba5 Ra6 21. Bc3 Rxa2 22. Nxb5 Bg4+ 23. f3 Bxf3+ 24. Kxf3 Kb7 25. Bxg7 Ra8 26. Nc3+ Kc7 27. Nxa2 Rg8 28. Bd4 Rg5 29. Bxa7 Rf5+ 30. Ke2 Rg5 31. Bb6+ Kc8 32. Rhg1 Rh5 33. Rgf1 Rxh2 34. Rf2 Bh4 35. g3 Rxf2+ 36. Kxf2 Bf6 37. Nb4 Kb8 38. Nxd5 Ba1 39. Rxa1 h6 40. Bc7+ Kb7 41. Bb6 h5 42. Rh1 h4 43. gxh4 Kc6 44. c4 Kb7 45. Ra1 Kb8 46. Bc7+ Kb7 47. Bxd6 Kc6 48. Be5 Kb7 49. Kg2 f5 50. Ne7 Kb6 51. Nxf5 Kc5 52. d3 Kc6 53. h5 Kb7 54. Rb1+ Kc6 55. h6 Kd7 56. h7 Ke6 57. Bd6 Kxf5 58. h8=Q Kg6 59. Qg8+ Kh6 60. Kf2 Kh5 61. Ke2 Kh6 62. Kd2 Kh5 63. Kc2 Kh6 64. Kb2 Kh5 65. Ka1 Kh6 66. Ka2 Kh5 67. Ka1 Kh6 68. Ka2 Kh5 69. Ka1 1/2-1/2

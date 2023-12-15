@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "24"]
+[White "Plumbo (by: Luca Voros)"]
+[Black "Miluva v2 [2550] (by: Möhrchen (Thilo M.))"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 d5 2. e3 Nc6 3. Bb5 Bg4 4. O-O e5 5. h3 Bxf3 6. Qxf3 e4 7. Qe2 Nf6 8. Bxc6+ bxc6 9. Qa6 Kd7 10. g4 Bb4 11. Re1 Re8 12. a3 Bc5 13. Nc3 Bb6 14. g5 Ng8 15. h4 Ne7 16. d3 Nf5 17. Rd1 Nxh4 18. Nxe4 Nf5 19. Nc3 Qxg5+ 20. Kf1 Rad8 21. Qa4 Qh6 22. Qg4 Qe6 23. Qa4 Kc8 24. Bd2 d4 25. Qa6+ Kb8 26. Ne4 dxe3 27. Ba5 Nd4 28. Ke1 Nxc2+ 29. Kf1 Qh3+ 30. Kg1 exf2+ 31. Nxf2 Bxf2+ 32. Kxf2 Re2+ 33. Kxe2 Qg2# 0-1

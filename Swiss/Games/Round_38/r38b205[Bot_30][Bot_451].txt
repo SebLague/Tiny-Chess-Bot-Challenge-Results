@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "37"]
+[White "WhyAmIABot (by: Levi)"]
+[Black "GreGory (by: Kokken)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nc6 2. d5 Nb4 3. Nf3 Nf6 4. Na3 Ng4 5. Bf4 d6 6. Qc1 h6 7. Qd2 Na6 8. O-O-O e5 9. dxe6 Bxe6 10. Kb1 d5 11. Nb5 Nxf2 12. Nxc7+ Nxc7 13. Bxc7 Qxc7 14. Kc1 a5 15. Kb1 Nxh1 16. Nh4 g5 17. Nf3 Be7 18. Kc1 a4 19. Kb1 Bf5 20. Qxd5 Qxc2+ 21. Ka1 Bc8 22. Qb5+ Kf8 23. Re1 f5 24. e3 f4 25. exf4 Bf6 26. fxg5 Bd8 27. gxh6 Rxh6 28. Re8+ Kg7 29. Qe5+ Bf6 30. Re7+ Kf8 31. Re8+ Kf7 32. Ng5+ Kg7 33. Re7+ Kg6 34. Bd3+ Qxd3 35. b4 Qd1+ 36. Kb2 a3+ 37. Kc3 Qc1+ 38. Kb3 Qd1+ 39. Kc3 Qa1+ 40. Kd3 Nf2+ 41. Ke3 Qe1+ 42. Kf3 Bg4+ 43. Kg3 Bxe5+ 44. Rxe5 Qd2 45. b5 Qxa2 46. b6 Qb2 47. Rd5 Qxb6 48. h4 Qe3+ 49. Kh2 Rxh4+ 50. Nh3 Qf4+ 51. g3 Rxh3+ 52. Kg2 Qxg3+ 53. Kf1 Rh1# 0-1

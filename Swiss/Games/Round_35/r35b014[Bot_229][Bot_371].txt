@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "34"]
+[White "Leonidas (by: DeveloperPaul123)"]
+[Black "Onion (by: Nathan Woloshyn)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. c4 Nf6 5. Nf3 Bg4 6. Be2 Nc6 7. Be3 Bxf3 8. Bxf3 Qd7 9. Nc3 O-O-O 10. d5 Ne5 11. Be2 Qf5 12. O-O Kb8 13. h3 b6 14. g4 Qc8 15. g5 Qxh3 16. gxf6 gxf6 17. Bf4 Rg8+ 18. Bg3 Rxg3+ 19. fxg3 Qxg3+ 20. Kh1 Qh3+ 21. Kg1 Bh6 22. Ne4 Rg8+ 23. Bg4 Be3+ 24. Nf2 Nxg4 25. c5 Qh2# 0-1

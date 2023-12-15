@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "58"]
+[White "HikuBot (by: Hikushii)"]
+[Black "Kinglet (by: Skolin + World + Abyss)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Nf6 4. Bc4 Nxe4 5. Nxe4 d5 6. Bd3 dxe4 7. Bxe4 Bd6 8. c3 O-O 9. O-O Bg4 10. h3 Bh5 11. Re1 Qf6 12. Qa4 Bg6 13. Bd5 Rae8 14. Bxc6 bxc6 15. Qxc6 Bd3 16. b4 a6 17. a4 Re6 18. Qd5 e4 19. Nd4 Re5 20. Qc6 Rg5 21. g3 h5 22. h4 Rg4 23. Qd7 Bxg3 24. Nf5 Bf4+ 25. Kh1 Rxh4+ 26. Kg2 Rh2+ 27. Kg1 Qg6+ 28. Ng3 Bxg3 29. Qxd3 exd3 30. Re3 Bxf2+ 31. Kxh2 Qg1+ 32. Kh3 Qh1# 0-1

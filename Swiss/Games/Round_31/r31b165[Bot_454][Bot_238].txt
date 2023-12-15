@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "30"]
+[White "The Mad King (by: Coding With Avaclava)"]
+[Black "AUR Chessbot (by: Soul Senshi)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 Nc6 2. d3 Nb4 3. c4 Na6 4. Kd2 e5 5. h3 Bb4+ 6. Ke2 Qh4 7. f3 Nc5 8. Rh2 Qg3 9. Rh1 Nf6 10. d4 exd4 11. exd4 Ne6 12. a4 Ke7 13. b3 Kd6 14. Kd3 c5 15. dxc5+ Kxc5 16. Be3+ Kc6 17. Qc2 Qg6+ 18. Ke2 Qxc2+ 19. Nd2 Bxd2 20. g3 Bc3+ 21. Bd2 Qxd2# 0-1

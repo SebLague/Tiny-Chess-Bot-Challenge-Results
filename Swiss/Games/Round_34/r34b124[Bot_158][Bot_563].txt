@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "33"]
+[White "Turochamp (Faithful) (by: P Rivero)"]
+[Black "Anarchy Bot (by: Malcolm)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. e4 e5 2. d4 Qh4 3. Nc3 Bb4 4. Qd3 b6 5. Nf3 Qh5 6. a3 Ba6 7. axb4 Bxd3 8. Bxd3 exd4 9. Nd5 Kd8 10. Bf4 d6 11. O-O Nc6 12. h4 Qg4 13. Ne5 Nxe5 14. g3 Nf3+ 15. Kg2 Nxh4+ 16. Kh2 Nf3+ 17. Kg2 Nh4+ 18. Kh2 Nf3+ 19. Kg2 Nh4+ 1/2-1/2

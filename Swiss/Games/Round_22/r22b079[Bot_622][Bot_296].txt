@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "21"]
+[White "R2D2 (by: Andrei Taropa)"]
+[Black "Black Magic (by: Josh Odom)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. d4 Nf6 3. d5 Ne5 4. Qd4 d6 5. Bb5+ c6 6. f4 cxb5 7. fxe5 dxe5 8. Qxe5 Ng4 9. Qf4 e5 10. Qg3 Bc5 11. Nh3 O-O 12. Nc3 b4 13. Ne2 Qf6 14. Rb1 Bd7 15. Rf1 Qg6 16. Ng5 h6 17. h3 hxg5 18. hxg4 Qxe4 19. Bxg5 Bxg4 20. Qd3 Qxg2 21. Ng3 e4 22. Nxe4 Rae8 23. Rf4 Bh5 24. Bh4 Bd6 25. Bg3 Bxf4 26. Bxf4 Rxe4+ 27. Qxe4 Qxe4+ 28. Kf2 Qxf4+ 29. Kg1 Qg3+ 30. Kf1 Re8 31. Ra1 Be2# 0-1

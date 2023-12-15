@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "62"]
+[White "Astolfo (by: Illuminate)"]
+[Black "Tyrant's V9 (by: Tyrant)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Bb4 4. Nxe5 O-O 5. Nd5 Nxd5 6. exd5 Re8 7. f4 d6 8. Bb5 c6 9. dxc6 bxc6 10. a3 dxe5 11. Be2 Bc5 12. c3 exf4 13. d4 Bg4 14. dxc5 Qh4+ 15. Kd2 Rxe2+ 16. Qxe2 Bxe2 17. Kxe2 Nd7 18. Kf3 Ne5+ 19. Ke4 f3+ 20. Kxe5 fxg2 21. Bd2 Qf6+ 22. Ke4 Re8+ 23. Kd3 Qf5+ 24. Kc4 Qd5+ 25. Kb4 Rb8+ 26. Ka4 Qb3+ 27. Ka5 Qb5# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "9"]
+[White "bLouBot (by: cmdrsigsegv)"]
+[Black "maff-chess (by: Filip)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Illegal move"]
+
+1. d4 e6 2. Bf4 Qh4 3. Bxc7 Na6 4. Ba5 Nf6 5. e3 Bb4+ 6. Bxb4 Nxb4 7. Nc3 Nbd5 8. Qd3 Nxc3 9. bxc3 Ne4 10. g3 Qh5 11. Qxe4 d5 12. Qf3 Qg6 13. Bd3 f5 14. h4 Bd7 15. a4 Bc8 16. h5 Qf6 17. Ne2 Qh6 18. Qf4 Bd7 19. Qxh6 gxh6 20. Bb5 Bxb5 21. axb5 Rg8 22. b6 a5 23. Nf4 Kd7 24. Nd3 Kd8 25. Nc5 Ke7 26. Nxb7 Rgc8 27. Ra3 Ra6 28. Nxa5 Rxb6 29. Rb3 Ra6 30. Rb7+ Kf6 31. Rxh7 Rxa5 32. Rxh6+ Kf7 33. Kd2 Ra3 34. f4 Raxc3 35. Rc1 Ke7 36. Rh8 Rxc2+ 37. Rxc2 Rxh8 38. Rc7+ Kf8 39. Rc8+ Kg7 40. Rxh8 Kxh8 41. Kd3 Kg7 42. Kc3 Kh6 43. Kd2 Kxh5 44. Ke2 Kg4 45. Kf2 Kh3 46. Kf3 Kh2 47. g4 fxg4+ 48. Kxg4 Kg2 49. f5 exf5+ 50. Kxf5 Kf3 51. Kf6 Kxe3 52. Ke5 Kd2 53. Kxd5 Kd3 54. Ke5 Kc4 55. d5 Kb3 56. d6 Ka2 57. d7 Ka1 58. d8=Q 1-0

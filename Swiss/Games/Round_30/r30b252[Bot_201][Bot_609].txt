@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "29"]
+[White "charge forward v1 (by: steel chair)"]
+[Black "Lol! Wont Win (by: Sanjay)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 Na6 2. g4 Rb8 3. f4 Ra8 4. e4 Rb8 5. Bxa6 bxa6 6. d4 Rb4 7. c4 Rxc4 8. b4 Rxb4 9. a4 Rc4 10. h5 Bb7 11. h6 Nxh6 12. Rxh6 gxh6 13. g5 Bxe4 14. gxh6 Bxh6 15. f5 Rxc1 16. f6 Rg8 17. fxe7 Qxe7 18. d5 Bxd5+ 19. Ne2 Rg1+ 20. Kf2 Rg2+ 21. Kf1 Qxe2# 0-1

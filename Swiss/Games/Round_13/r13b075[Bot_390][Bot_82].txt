@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "12"]
+[White "BuiltCleverBot (by: Scott Ward)"]
+[Black "Bruteforcer (by: SiestaGuru)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe6+ 4. Be2 Bd7 5. d4 Nf6 6. Nf3 Qg4 7. Ne5 Qf5 8. g4 Qe6 9. Bc4 Qd6 10. g5 Be6 11. gxf6 exf6 12. Ne4 Qb6 13. d5 fxe5 14. dxe6 Qb4+ 15. Nd2 f5 16. Qf3 g6 17. Qd5 Bg7 18. e7 Kxe7 19. Qf7+ Kd8 20. Qxg7 Qf8 21. Qxe5 Nd7 22. Qd4 Qf6 23. Qxf6+ Nxf6 24. O-O a5 25. Nb3 h6 26. Bf4 Nh5 27. Bd2 a4 28. Nc5 b6 29. Bc3 Rh7 30. Ne6+ Kd7 31. Rad1+ Kc6 32. Bd5+ Kd6 33. Rfe1 Rb8 34. Bb4+ c5 35. Bf3+ Ke7 36. Ng5+ Kf8 37. Nxh7+ Kg8 38. Bxh5 Kxh7 39. Rd7+ Kg8 40. Bxg6 cxb4 41. Bxf5 a3 42. Be6+ Kh8 43. Rd4 axb2 44. Rxb4 Rb7 45. Rxb2 Kg7 46. Re4 Rc7 47. Reb4 h5 48. Rxb6 Kf8 49. Rb8+ Ke7 50. Bh3 Kf6 51. Bg2 Ke5 52. Rh8 Kf4 53. Rxh5 Kg4 54. Rbb5 Rc3 55. h3+ Rxh3 56. Rxh3 Kf4 57. Rh4# 1-0

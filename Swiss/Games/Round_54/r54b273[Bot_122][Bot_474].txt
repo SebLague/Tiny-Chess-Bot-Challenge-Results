@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "53"]
+[White "TeacherBot (by: qumquat)"]
+[Black "Good Bot Bad Bot (But Really, Both Are Terrible Bots, Also This In The Parenthesis Is Part Of The Name) (by: Legend)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 f5 2. Bc4 fxe4 3. Qh5+ g6 4. Qe2 d5 5. Qd1 dxc4 6. Nf3 Qxd2+ 7. Nfxd2 h5 8. b3 cxb3 9. h3 bxc2 10. Rg1 cxd1=Q+ 11. Kxd1 Bxh3 12. Nf3 Bxg2 13. Nc3 Bxf3+ 14. Kc2 h4 15. Rd1 Bxd1+ 16. Kb1 Be2 17. Nb5 Bxb5 18. f4 exf3 19. Kb2 Ba4 20. Bg5 Bh6 21. Rc1 Bxg5 22. Rc6 bxc6 23. Ka3 Kd8 24. Kb4 Nd7 25. Kxa4 Nb8 26. Ka5 Bf4 27. Kb4 g5 28. Kb3 Nf6 29. Ka3 Nh5 30. Ka4 Rh7 31. a3 Ng3 32. Kb3 Be3 33. Kc3 Bf2 34. Kd2 Nh1 35. Kc2 Ng3 36. Kc3 Nh5 37. a4 Nf6 38. Kb2 Bb6 39. Kc3 g4 40. Kb3 Nd5 41. Kb2 Nf6 42. Ka2 c5 43. Kb3 f2 44. Kb2 f1=Q 45. a5 Bxa5 46. Ka3 Be1 47. Kb2 e5 48. Kc2 Nh5 49. Kb2 Qf3 50. Ka1 Bd2 51. Ka2 Qf2 52. Ka1 Qg3 53. Kb1 Nc6 54. Kb2 Bf4 55. Kc2 Rf7 56. Kd1 c4 57. Kc2 Qb3# 0-1

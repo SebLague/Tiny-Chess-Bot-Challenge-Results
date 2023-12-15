@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "6"]
+[White "FunBot (by: Paul Spooner AKA Dudecon)"]
+[Black "3D.Opening Bot (by: Mark Grennan)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f4 d5 2. a4 Nc6 3. d3 Nf6 4. b3 Nd4 5. h4 Qd6 6. a5 Qa6 7. b4 Qb5 8. c3 Nc6 9. g3 Nh5 10. Qa4 Qa6 11. Qb5 Qxb5 12. Kd1 Nxg3 13. Nh3 Nxh1 14. e3 Bg4+ 15. Kc2 Ng3 16. Nd2 e6 17. Ng1 Bd6 18. Ra2 Kd7 19. Ndf3 Nxf1 20. Ng5 d4 21. Nxf7 Nxb4+ 22. cxb4 Qc6+ 23. Kb1 Rhf8 24. f5 Rxf7 25. exd4 Rxf5 26. Rb2 Qc3 27. Ka2 Qxc1 28. Ne2 Qe3 29. Nc1 Qxc1 30. Rb3 Ng3 31. Rc3 Qxc3 32. Kb1 Qxd4 33. Ka2 Bxb4 34. Kb3 Bd1+ 35. Ka2 Bd2 36. h5 Ke7 37. Ka3 Rxa5# 0-1

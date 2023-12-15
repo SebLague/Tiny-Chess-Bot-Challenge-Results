@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "59"]
+[White "Jack (by: Antonio P)"]
+[Black "devi1.02 (by: )"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 c6 2. d5 Qa5+ 3. b4 Qxd5 4. Qxd5 cxd5 5. Kd1 e6 6. b5 a6 7. Kd2 Nf6 8. bxa6 Ne4+ 9. Ke1 Bb4+ 10. c3 Ba5 11. axb7 Bxb7 12. h4 Nxc3 13. Bd2 Nxb1 14. Rxb1 Bxd2+ 15. Kxd2 Rxa2+ 16. Kc1 Ke7 17. Rxb7 Rc8+ 18. Kb1 Rd2 19. Nf3 Rd1+ 20. Ka2 Rc2+ 21. Kb3 Rc6 22. Rxb8 Rb1+ 23. Ka2 Rxb8 24. e3 Rc5 25. Ka1 Ra5# 0-1

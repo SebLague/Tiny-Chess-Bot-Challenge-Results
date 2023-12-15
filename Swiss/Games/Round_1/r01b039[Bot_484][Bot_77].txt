@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "Zui Bot (by: Zui)"]
+[Black "OrionChessEngine (by: Maarten Peels)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 f5 2. d4 e6 3. Qd3 Nf6 4. Nc3 Bd6 5. a4 Nc6 6. h4 Ng8 7. Nb5 Nf6 8. Nxd6+ cxd6 9. Bd2 Qb6 10. Ra2 Kf7 11. Rh2 Nd8 12. b4 Kg6 13. g4 Nxg4 14. Rg2 Nc6 15. a5 Nxa5 16. Rxg4+ Kf7 17. Rg2 Nc6 18. c3 Ne7 19. e4 f4 20. Bxf4 Nc6 21. Bxd6 Ne5 22. Nxe5+ Kf6 23. Qf3# 1-0

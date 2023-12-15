@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "38"]
+[White "EvilMirror (by: Hagan Gray)"]
+[Black "Caissa Alexander (by: Ephraim225)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. d4 Qf6 3. dxe5 Qh4 4. Qxd7+ Kxd7 5. Kd1 Nc6 6. Nf3 Qg4 7. b4 Nxb4 8. e6+ Kxe6 9. a3 Nc6 10. Ba6 bxa6 11. Ra2 Rb8 12. Rg1 Bc5 13. Bf4 Qxf4 14. Rf1 Rxb1+ 15. Ke2 Rb5 16. c3 Rb3 17. Rb2 Rxb2+ 18. Kd3 Nf6 19. Rg1 Qxe4# 0-1

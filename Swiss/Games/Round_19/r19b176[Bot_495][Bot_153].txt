@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "18"]
+[White "Albertron (by: Vadim and Yazeed)"]
+[Black "WhateverBot (by: Alec Holden)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. d4 e6 3. Qd3 Bb4+ 4. c3 Bd6 5. Bg5 O-O 6. e4 Nc6 7. e5 Be7 8. exf6 Bxf6 9. Bf4 d6 10. Be2 Bd7 11. O-O h6 12. d5 Ne5 13. Bxe5 dxe5 14. Qe3 exd5 15. h3 Ba4 16. Qc5 Bc2 17. c4 Bxb1 18. Raxb1 dxc4 19. Qxc4 Qd7 20. g4 Qc6 21. Qxc6 bxc6 22. g5 hxg5 23. Bd3 a5 24. Be4 a4 25. Bxc6 Ra5 26. Rbe1 Rc5 27. Bxa4 Rb8 28. Re2 Rb6 29. Rc2 Rxc2 30. Bxc2 Rxb2 31. Bd3 Rxa2 32. Rb1 c5 33. Rb8+ Bd8 34. Rxd8# 1-0

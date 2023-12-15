@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "35"]
+[White "Annihilator (by: Wiechciu)"]
+[Black "StallerBot (by: Ean)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. b3 c5 2. Ba3 c4 3. bxc4 d5 4. cxd5 Bf5 5. h3 Bxc2 6. Qxc2 Nf6 7. Rh2 g5 8. Bb2 Rg8 9. Bxf6 exf6 10. Qe4+ Be7 11. Qxh7 Rg6 12. e4 Qd6 13. Rh1 Qe5 14. Nc3 a6 15. Ke2 b5 16. Qh8+ Bf8 17. Kd1 Rh6 18. Qg8 Rg6 19. Qh8 Rh6 20. Qg8 Rg6 21. Qh8 1/2-1/2

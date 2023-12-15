@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "59"]
+[White "StockShrimp (by: Diplomancer)"]
+[Black "Stale (by: Noah)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 b6 2. Qf3 c6 3. Qf4 b5 4. c4 bxc4 5. Bxc4 a6 6. Qxf7# 1-0

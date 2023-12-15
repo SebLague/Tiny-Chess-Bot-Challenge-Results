@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "16"]
+[White "NameGoesThere's bot (by: NameGoesThere)"]
+[Black "Poisoned_Offerings (by: N8)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. Bb5+ c6 3. Bd3 dxe4 4. Bxe4 Nf6 5. Bf3 c5 6. Bc6+ bxc6 7. Ne2 Qb6 8. d3 Qa5+ 9. Kf1 c4 10. dxc4 Qc5 11. f4 Ne4 12. Qd3 Qf2# 0-1

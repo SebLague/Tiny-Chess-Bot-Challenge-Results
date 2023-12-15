@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "15"]
+[White "LesMoutons (by: Beaud Rémi and Mechulam Antoine)"]
+[Black "HubertusChess (by: Oristur)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nc6 2. Ng5 h6 3. Ne4 Nf6 4. Nc5 d6 5. Nd3 Qd7 6. Nc3 Qf5 7. e4 Qa5 8. Qf3 Nd4 9. Qd1 Bg4 10. Ne2 Nxe4 11. b4 Qh5 12. Ndf4 Qh4 13. Nd3 Ng5 14. h3 Ndf3+ 15. gxf3 Nxf3# 0-1

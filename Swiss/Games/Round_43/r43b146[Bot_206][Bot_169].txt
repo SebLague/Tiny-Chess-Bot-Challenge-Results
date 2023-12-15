@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "42"]
+[White "Maple (by: Austin)"]
+[Black "TalkChess (by: Thomas Jahn, Mike Sherwin, Dmitry Shechtman)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nc6 2. Bg5 Nf6 3. d5 Ne5 4. f4 Nc4 5. e4 Nxb2 6. Qd4 c5 7. Qxc5 Nxe4 8. Bxe7 Bxe7 9. Qd4 Qa5+ 10. c3 Bh4+ 11. g3 Nxg3 12. Qe5+ Kd8 13. hxg3 Bxg3+ 14. Kd2 Qc5 15. Qg5+ Ke8 16. Nh3 Bf2 17. Qe5+ Kf8 18. Nxf2 Qxf2+ 19. Kc1 Qf3 20. Qd6+ Ke8 21. Qe5+ Kd8 22. Qg5+ Ke8 23. Qh4 Nd3+ 24. Bxd3 Qxd3 25. Re1+ Qe3+ 26. Rxe3+ Kf8 27. Qe7+ Kg8 28. Qe8# 1-0

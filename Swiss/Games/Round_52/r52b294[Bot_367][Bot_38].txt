@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "51"]
+[White "TeddyBearBot (by: mathabs)"]
+[Black "Asymptotically optimal (by: Graham Gayler)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Na3 Na6 2. Rb1 Rb8 3. Ra1 h6 4. Rb1 Nc5 5. Ra1 f5 6. Rb1 b5 7. Ra1 g6 8. Rb1 Na6 9. Ra1 Kf7 10. Rb1 b4 11. Ra1 bxa3 12. Rb1 Rxb2 13. Ra1 Rxc2 14. Rb1 Ke6 15. Ra1 Rc3 16. Rb1 Kd5 17. Ra1 Rxc1 18. Rb1 Rxb1 19. Qxb1 Ke5 20. Kd1 Kd4 21. Kc1 Kc4 22. Kd1 Kd4 23. Kc1 Kc4 24. Kd1 Kd4 1/2-1/2

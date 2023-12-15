@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "21"]
+[White "ScholarsBot (by: magic216)"]
+[Black "Betelchess (by: VY Canis Majoris (also special thanks to Gurren Lagann))"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. Bc4 dxe4 3. Qh5 e5 4. Qxf7# 1-0

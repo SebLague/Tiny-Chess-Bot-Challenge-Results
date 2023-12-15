@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "55"]
+[White "Lundqvision (by: paper98)"]
+[Black "Simple Minimax (by: Sidewinder7)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 b5 2. Qd3 e5 3. Nf3 Bb7 4. Bg5 Bxf3 5. Bxd8 Bc6 6. dxe5 Kxd8 7. Nc3 Nh6 8. Kd2 Ng4 9. g3 Nxe5 10. Qd4 f6 11. Bh3 Bb4 12. Qxb4 Bxh1 13. Qxb5 a6 14. Qc5 Nbc6 15. Rxh1 d6 16. Qd5 Rb8 17. Qe6 Nd4 18. Nb5 Nxe6 19. Bxe6 Rxb5 20. f4 Rb7 21. fxe5 fxe5 22. Rf1 c6 23. h4 Rxb2 24. Bb3 Re8 25. Kc3 Rxb3+ 26. axb3 d5 27. Rf7 Rg8 28. Kb2 a5 29. e3 Ke8 30. Rc7 Kd8 31. Rxc6 Kd7 32. Ra6 Rc8 33. Ra7+ Kd6 34. Rxg7 h5 35. Rf7 Ke6 36. Rg7 Kd6 37. c3 Ke6 38. Rb7 Kf6 39. Rb6+ Kf5 40. c4 dxc4 41. e4+ Kxe4 42. bxc4 Kd4 43. Re6 Rxc4 44. Rd6+ Kc5 45. Kb3 a4+ 46. Ka2 Kxd6 47. Kb1 Rc7 48. Kb2 Kd7 49. g4 hxg4 50. h5 g3 51. h6 g2 52. h7 g1=Q 53. h8=Q Qc1+ 54. Ka2 Rc2# 0-1

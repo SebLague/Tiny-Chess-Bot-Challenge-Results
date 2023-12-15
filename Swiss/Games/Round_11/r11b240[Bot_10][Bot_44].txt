@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "10"]
+[White "nadjBot (by: Arman N)"]
+[Black "SimpleBot (by: :LMProgramming)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 e6 2. Rb1 Qh4 3. Ra1 Bb4 4. Rb1 Nc6 5. Ra1 Bc5 6. Rb1 Qxf2# 0-1

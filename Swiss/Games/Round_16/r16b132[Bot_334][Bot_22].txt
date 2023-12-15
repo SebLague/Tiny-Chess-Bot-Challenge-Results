@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "15"]
+[White "StackFish (by: battlecoder)"]
+[Black "BigBrainBot (by: Leo)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 c5 2. Nb5 d5 3. g3 Qa5 4. e3 Nf6 5. Qf3 e5 6. Bd3 e4 7. Nd6+ Bxd6 8. Bxe4 dxe4 9. Qg2 Bg4 10. h3 Bh5 11. g4 Bg6 12. g5 Nd5 13. c4 Nb4 14. Kf1 Nc2 15. b4 Qxb4 16. a3 Qxc4+ 17. d3 Qxd3+ 18. Ne2 Qd1# 0-1

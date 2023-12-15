@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "13"]
+[White "Matey (by: Conor)"]
+[Black "Goldibot (by: Ben)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 c5 2. Nd5 e5 3. Nf3 e4 4. Ne5 Bd6 5. Nf4 Bxe5 6. Nd5 Bd4 7. Nf4 c4 8. Nd5 Nf6 9. Nf4 Be5 10. Nh3 d5 11. Ng5 d4 12. b4 d3 13. Rb1 dxc2 14. Qxc2 Bf4 15. Qxc4 Bxg5 16. Qb5+ Nfd7 17. Qd5 Bxd2+ 18. Kxd2 Ne5 19. Qd4 Qxd4+ 20. Kc2 Qc4+ 21. Kb2 Qxb4+ 22. Kc2 Qa4+ 23. Kc3 Qc4+ 24. Kb2 Qd4+ 25. Kb3 Qxf2 26. Kb4 Qb6+ 27. Kc3 Qxb1 28. Kd4 Nec6+ 29. Kc4 Qxc1+ 30. Kb5 Be6 31. Ka4 Bxa2 32. Kb5 Qb2+ 33. Kc5 Qe5# 0-1

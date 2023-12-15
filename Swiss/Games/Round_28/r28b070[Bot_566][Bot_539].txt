@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "27"]
+[White "LazyBot (by: Tim de Jong)"]
+[Black "Nautilus (by: Sherlock)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 d5 2. Bf4 c5 3. dxc5 Nc6 4. Qd2 e5 5. Be3 d4 6. Bg5 f6 7. Bh4 Be6 8. b4 b6 9. b5 Nce7 10. e4 Ng6 11. Bg3 bxc5 12. Na3 f5 13. exf5 Bxf5 14. Nc4 e4 15. Ne5 Nxe5 16. Bxe5 Be6 17. Qf4 Bd5 18. Be2 Nf6 19. O-O-O Qa5 20. Bxf6 Qa3+ 21. Kd2 gxf6 22. Bh5+ Ke7 23. Qc7+ Ke6 24. Bf7+ Kf5 25. Qd7+ Be6 26. Qxe6+ Kg5 27. h4+ Kf4 28. Ne2# 1-0

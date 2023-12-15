@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "61"]
+[White "Strikeeaglechess (by: Strikeeaglechase)"]
+[Black "GulcarBot (by: Gulcar)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 c6 2. Nf3 Qa5 3. Bd3 e5 4. O-O Nf6 5. c4 Na6 6. Bc2 Nb4 7. Nc3 b5 8. cxb5 cxb5 9. Nxe5 Nxc2 10. Qxc2 b4 11. Nc4 Qa6 12. Nd5 Nxd5 13. exd5 Bb7 14. Re1+ Kd8 15. Qe4 Qg6 16. Qh4+ Qf6 17. Qxf6+ gxf6 18. Ne3 Rc8 19. b3 Bd6 20. Bb2 Be5 21. Bxe5 fxe5 22. a3 bxa3 23. Rxa3 a6 24. d6 Rg8 25. g3 Rc6 26. Nc4 Kc8 27. Rxe5 Kb8 28. Re7 Rd8 29. Rxf7 h5 30. Ra5 Re8 31. Kf1 h4 32. gxh4 Rh8 33. h5 Rcc8 34. Ne5 Ka7 35. Nxd7 Rc1+ 36. Ke2 Bc6 37. Ne5+ Kb6 38. Nxc6 Rxc6 39. Rd5 Rd8 40. d7 Re6+ 41. Kf3 Ka7 42. Kg4 Rb6 43. Rd3 Rb5 44. h6 Rb4+ 45. Kg5 Rg8+ 46. Kf6 Rb6+ 47. Ke7 Rb7 48. Rf6 Rh8 49. Rdd6 a5 50. Rf8 Rh7+ 51. Ke8 Rb5 52. d4 Rb8+ 53. d8=Q Rxd8+ 54. Kxd8 a4 55. Rd7+ Rxd7+ 56. Kxd7 axb3 57. h7 Kb6 58. Rb8+ Ka6 59. h8=Q b2 60. Rb3 Ka7 61. Rxb2 Ka6 62. Qa8# 1-0

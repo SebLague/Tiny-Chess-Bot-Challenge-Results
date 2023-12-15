@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "53"]
+[White "BetterThanRandom (by: Frederik)"]
+[Black "ThinkerBot5000 (by: Bear)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g4 h5 2. gxh5 e6 3. e4 Nf6 4. e5 Nxh5 5. Bh3 Nf4 6. Qf3 Qg5 7. Qc3 Nxh3 8. Qxc7 Nc6 9. Nxh3 Rxh3 10. Kd1 Qg4+ 11. Ke1 Qe4+ 12. Kf1 Qxh1+ 13. Ke2 Nd4# 0-1

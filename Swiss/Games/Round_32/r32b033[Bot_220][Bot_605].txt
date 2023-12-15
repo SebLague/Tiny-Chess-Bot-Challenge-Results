@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "31"]
+[White "The Grandma (by: TimFW)"]
+[Black "The Grandiloquent Intelligentsia of Magnanimous Strategem: A Prodigiously Resplendent Embodiment of Erudite Chess Esotericism, Exuding Enigmatic Brilliance and Sublime Eloquence Whilst Enchantingly Tempering the Hallowed Battlefield of Intellectual Duels, Endeavoring to Transcend Acumen and Ascend to the Pantheon of Learned Peregrinations with an Efficacious Arsenal of Foresight and Sagacity, Humbling Opponents with Refined Gallantry, and Beckoning Discerning Disciples to Witness the Manifest Veracity of its Ascent to a Formidable Elo Quintessence (by: Giles Corey)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. h4 g6 3. b3 Bg7 4. c4 c5 5. Nc3 Qa5 6. Qd2 cxd4 7. Nb5 Qd8 8. Nxd4 Ne4 9. Qb2 Nc6 10. e3 Qa5+ 11. Ke2 O-O 12. a3 d5 13. b4 Nxd4+ 14. exd4 Qa6 15. b5 Qb6 16. Nf3 dxc4 17. g3 Bg4 18. Be3 a6 19. Rc1 c3 20. Qb4 Qxb5+ 21. Qxb5 axb5 22. Bh3 Bxf3+ 23. Kxf3 Nd2+ 24. Bxd2 cxd2 25. Rc7 Bxd4 26. Rxe7 Rxa3+ 27. Ke2 b6 28. Bd7 Ra7 29. Kxd2 Bc5 30. Re5 Rxd7+ 31. Ke2 Rfd8 32. f4 Rd2+ 33. Kf1 Ra8 34. Re1 Rf2+ 35. Kg1 Raa2 36. Rh3 Rh2+ 37. Kf1 Raf2+ 38. Kg1 Rfg2+ 39. Kf1 Rg1# 0-1

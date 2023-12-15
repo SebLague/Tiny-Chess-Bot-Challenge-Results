@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "19"]
+[White "SWaP (Stucked With a Piece) (by: Esprit Orgue)"]
+[Black "CopyCat (by: ADI)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. b4 g5 2. b5 g4 3. b6 g3 4. bxa7 gxh2 5. axb8=Q hxg1=Q 6. Qa7 Qh2 7. Qxa8 Qxh1 8. Qa7 Qh2 9. Qa5 Qh4 10. Qa8 Qh1 11. Qxb7 Qxg2 12. Qa8 Qh1 13. Qe4 Qxe4 14. d3 e6 15. d4 e5 16. d5 Qxd5 17. f4 c5 18. f5 c4 19. f6 c3 20. Kf2 Nxf6 21. Ke3 Ng4# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "54"]
+[White "SimpleBot (by: :LMProgramming)"]
+[Black "Anty (by: Emanuele Sorce)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. e3 e5 2. Qg4 a6 3. Nc3 Qe7 4. Bd3 d5 5. Nxd5 b6 6. Nxe7 Kxe7 7. Qxc8 e4 8. Bxe4 a5 9. Bxa8 f6 10. Qxb8 Kd7 11. Qxf8 Nh6 12. Qxh8 g6 13. Qxf6 Nf7 14. Qxf7+ Kd6 15. Qxh7 Ke6 16. Qxc7 g5 17. Qc4+ Kd6 18. Qd4+ Ke6 19. Qc4+ Kd6 20. Qd4+ Ke6 21. Qc4+ 1/2-1/2

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "31"]
+[White "Bobobot (by: Lino)"]
+[Black "Knightmare (by: Miguel Piedrafita)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g3 Na6 2. f3 Rb8 3. h4 Ra8 4. a4 Rb8 5. c3 Ra8 6. Qc2 Rb8 7. b3 Ra8 8. Nh3 Rb8 9. Nf2 Ra8 10. Ne4 Rb8 11. Nd6+ cxd6 12. Qg6 hxg6 13. Na3 Rxh4 14. Nb5 Rxh1 15. Nc7+ Qxc7 16. Ba3 Rxf1+ 17. Kxf1 Qxc3 18. Bc5 Qxa1+ 19. Kg2 dxc5 20. Kh3 Qh1+ 21. Kg4 Qh6 22. e4 d5# 0-1

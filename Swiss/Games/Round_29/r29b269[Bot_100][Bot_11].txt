@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "28"]
+[White "PrayForMeBot (by: João)"]
+[Black "The Soggy Biscuit (by: Brandon Curington)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g3 e5 2. h4 Bd6 3. b4 Bc5 4. bxc5 Qf6 5. Nf3 Qe6 6. Nxe5 Qd5 7. c4 Qxd2+ 8. Kxd2 d6 9. Nxf7 dxc5 10. Nxh8 Nf6 11. Qe1 Nd5 12. cxd5 Bf5 13. e4 Bxe4 14. Qxe4+ Kd7 15. Rg1 Kd6 16. Qe6# 1-0

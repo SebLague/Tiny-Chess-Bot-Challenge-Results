@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "19"]
+[White "Rubber Ducky (by: Joël)"]
+[Black "Negative Depth (by: Zoltán Kürti)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 Nc6 2. Nf3 f5 3. Nb1 e5 4. Ng1 Nf6 5. e3 Ng4 6. Ne2 d5 7. a4 d4 8. Ng3 f4 9. exf4 exf4 10. Qe2+ Nge5 11. Qe4 d3 12. Bxd3 Qd4 13. Qxd4 Nxd4 14. Ne4 Nxd3+ 15. cxd3 Be7 16. Kf1 Nb3 17. Nbc3 Nxa1 18. Nd5 Bd8 19. Nxf4 Nb3 20. Nh5 O-O 21. Ke2 Bg4+ 22. Ke3 Bxh5 23. g4 Bxg4 24. f4 Be7 25. Nf2 Bc5+ 26. Ke4 Bxf2 27. h3 Nc5+ 28. Kd5 Be6+ 29. Ke5 Rf5# 0-1

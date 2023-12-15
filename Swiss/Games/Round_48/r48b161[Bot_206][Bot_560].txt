@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "47"]
+[White "Maple (by: Austin)"]
+[Black "MiaKBotv4.4 (by: Mia Kellett)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nc6 2. Bg5 Nf6 3. d5 Ne5 4. f4 Nc4 5. e4 Nxb2 6. Qd4 h6 7. Qxb2 hxg5 8. fxg5 Nxe4 9. Qe5 Nc5 10. Qd4 Na6 11. d6 Rb8 12. Qxa7 cxd6 13. c3 Rh4 14. Bxa6 Re4+ 15. Kd1 Qc7 16. a4 Rg4 17. h3 Rxg2 18. Nf3 Rb2 19. Nbd2 d5 20. Rb1 Ra2 21. g6 Rxa4 22. gxf7+ Kd8 23. Rb6 bxa6 24. Qxb8 Ra1+ 25. Nb1 Qxc3 26. Nd2 Qa3 27. Qa8 Qa4+ 28. Ke2 Qa2 29. Rb8 Qa5 30. Rxc8# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "47"]
+[White "Zambroni V.4.1.4 (by: JoeyZeeeeeee)"]
+[Black "NNBot (by: Jamie Whiting)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. Nc3 d5 3. e3 e6 4. d4 Be7 5. Rb1 O-O 6. Bd3 Nbd7 7. O-O c5 8. b3 b6 9. Bb2 Bb7 10. Qe2 Ne4 11. Rbd1 Qc8 12. Nd2 Nxc3 13. Bxc3 g6 14. Nf3 cxd4 15. Bxd4 Qc7 16. e4 dxe4 17. Bxe4 Bxe4 18. Qxe4 Rad8 19. c3 Rfe8 20. Rfe1 Nf6 21. Qe5 Rd7 22. b4 Red8 23. a4 h6 24. a5 Qc4 25. Qf4 g5 26. Qc1 Rd6 27. h4 Ng4 28. hxg5 hxg5 29. Re4 f5 30. Ree1 bxa5 31. bxa5 Qa2 32. Nxg5 e5 33. f3 Rxd4 34. cxd4 Qf2+ 35. Kh1 Qh4+ 36. Nh3 Nf2+ 37. Kg1 Nxh3+ 38. gxh3 Qg3+ 39. Kf1 Qxf3+ 40. Kg1 Qg3+ 41. Kf1 Qxh3+ 42. Kg1 Kh8 43. Kf2 Bh4+ 44. Ke2 Qg4+ 45. Kd3 Qxd4+ 46. Kc2 Qc4+ 47. Kb1 Rb8+ 48. Qb2 Rxb2+ 49. Kxb2 Bxe1 50. Rd8+ Kg7 51. Rd7+ Kg6 52. Rb7 Qd4+ 53. Ka2 Qd5+ 54. Rb3 Bc3 55. a6 Bd4 56. Kb1 Qxb3+ 57. Kc1 Be3# 0-1

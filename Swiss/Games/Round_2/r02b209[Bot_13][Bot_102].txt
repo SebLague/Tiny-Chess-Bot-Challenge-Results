@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "ScholarsBot (by: magic216)"]
+[Black "Single Player (by: Loeka)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 c5 2. Bc4 Qa5 3. Qh5 Nf6 4. Qxf7+ Kd8 5. Qxf8+ Rxf8 6. f3 Qb4 7. Nh3 Nh5 8. Ng5 h6 9. Rg1 Rf4 10. a3 Qa5 11. c3 g6 12. Be2 Qa4 13. Ne6+ dxe6 14. Rf1 Nc6 15. Bd1 Qa5 16. e5 a6 17. Ra2 Ng7 18. Rh1 g5 19. Bb3 Nxe5 20. h3 Rf6 21. Kf1 Qb5+ 22. Kg1 Nxf3+ 23. gxf3 e5 24. h4 Rxf3 25. a4 Qxb3 26. Kh2 Qxa2 27. Na3 Rf2+ 28. Kg1 Qf7 29. d4 Rf1+ 30. Kh2 Qf2# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "14"]
+[White "James (by: Aedan Smith)"]
+[Black "NostradamusChessNN (by: _Mus)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. exd5 Nf6 3. Nc3 Nxd5 4. Nxd5 Qxd5 5. Nf3 Bg4 6. Be2 Nc6 7. h3 Bxf3 8. Bxf3 Qe5+ 9. Kf1 O-O-O 10. Bxc6 bxc6 11. d3 Rg8 12. Be3 Qxb2 13. Bxa7 g6 14. Qb1 Qc3 15. d4 Bg7 16. Kg1 Bxd4 17. Bxd4 Rxd4 18. Qe1 Qxe1+ 19. Rxe1 e6 20. Re3 Rc4 21. Re2 c5 22. Kh2 Rc3 23. Rc1 Rd8 24. Re3 Rxe3 25. fxe3 Rd2 26. e4 h5 27. Kg3 c4 28. Kf3 c3 29. e5 Rd4 30. Rf1 h4 31. Ke3 Rd2 32. Rf2 Rd7 33. Kf4 Rd5 34. Ke4 c5 35. Rxf7 Rd2 36. Kf3 Rxc2 37. Rf6 Rxa2 38. Rxe6 Kb7 39. Re7+ Kb8 40. Re8+ Kc7 41. Re7+ Kd8 42. Re6 c2 43. Rd6+ Ke7 44. Rxg6 c1=Q 45. Rg4 Ke6 46. Rg7 Qf1+ 47. Kg4 Qxg2+ 48. Kxh4 Qxg7 49. Kh5 Rg2 50. Kh4 Qg5# 0-1

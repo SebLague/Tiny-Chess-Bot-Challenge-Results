@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "37"]
+[White "Rubber Ducky (by: Joël)"]
+[Black "AUR Chessbot (by: Soul Senshi)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 c6 2. Nf3 Qa5 3. Nb1 Kd8 4. b4 Qa4 5. c3 Qxd1+ 6. Kxd1 a5 7. bxa5 Rxa5 8. d4 c5 9. dxc5 Rxc5 10. Rg1 Nf6 11. Nfd2 Rf5 12. f3 Rh5 13. h3 Nd5 14. e4 Ne3+ 15. Ke2 Nxf1 16. Kxf1 e6 17. Rh1 Nc6 18. a4 Kc7 19. f4 Kb6 20. Nc4+ Kc5 21. Nbd2 b5 22. Ba3+ b4 23. Rb1 bxa3 24. Rb5# 1-0

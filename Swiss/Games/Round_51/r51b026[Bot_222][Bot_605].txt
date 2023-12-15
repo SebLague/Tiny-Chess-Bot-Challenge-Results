@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "50"]
+[White "PecanPie (by: PecanPie)"]
+[Black "The Grandiloquent Intelligentsia of Magnanimous Strategem: A Prodigiously Resplendent Embodiment of Erudite Chess Esotericism, Exuding Enigmatic Brilliance and Sublime Eloquence Whilst Enchantingly Tempering the Hallowed Battlefield of Intellectual Duels, Endeavoring to Transcend Acumen and Ascend to the Pantheon of Learned Peregrinations with an Efficacious Arsenal of Foresight and Sagacity, Humbling Opponents with Refined Gallantry, and Beckoning Discerning Disciples to Witness the Manifest Veracity of its Ascent to a Formidable Elo Quintessence (by: Giles Corey)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. Bf4 c5 3. e3 cxd4 4. exd4 Qb6 5. Nc3 Qxb2 6. Nge2 d5 7. Rb1 Qa3 8. Nb5 Qa5+ 9. Qd2 Qxd2+ 10. Kxd2 Na6 11. Nec3 Bf5 12. Na3 O-O-O 13. Nab5 b6 14. Nxa7+ Kb7 15. Bxa6+ Kxa6 16. Bc7 Re8 17. Bxb6 g6 18. Bc5 Bh6+ 19. Ke2 Ne4 20. Nxe4 Rb8 21. Nc6 Bg4+ 22. f3 Rb7 23. Nc3 Be6 24. Nb4+ Rxb4 25. Rxb4 Rc8 26. Rhb1 Bd7 27. Rb6+ Ka5 28. Rb7 Ra8 29. R1b6 Bg7 30. Bb4# 1-0

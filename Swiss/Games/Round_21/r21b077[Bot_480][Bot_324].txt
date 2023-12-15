@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "20"]
+[White "Look Ma, No Piece Square Table (by: DegaLaman)"]
+[Black "RayBot (by: Shahriar Rayed)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 d5 2. Rb1 e6 3. Nf3 Qf6 4. Rg1 Nc6 5. Nb5 Qe7 6. Rh1 a6 7. Nc3 d4 8. Ne4 f5 9. Ng3 f4 10. Ne4 Qb4 11. Neg5 h6 12. Nh3 Qa5 13. Ra1 e5 14. Nh4 Be6 15. Ng6 Rh7 16. Nxf8 Kxf8 17. a3 Nf6 18. Ng1 g6 19. Nf3 e4 20. Ng1 Ng4 21. Nh3 Rf7 22. c3 dxc3 23. bxc3 Rd8 24. Qc2 Qe5 25. a4 Kg7 26. Ra3 b6 27. Qb2 e3 28. d4 Nxf2 29. Nxf2 exf2+ 30. Kxf2 Qg5 31. Kg1 Qh4 32. Qb1 Qe1 33. Qa1 Bg4 34. Bb2 Qd2 35. Qc1 Qxc1 36. Bxc1 Re8 37. Kf2 Rf6 38. Ke1 Na5 39. h3 Bc8 40. Ra2 Be6 41. Ra3 Nb3 42. Bb2 Bc4 43. Kd1 Na5 44. Bc1 h5 45. h4 Bd5 46. Rh3 Nc4 47. Ra1 Ne3+ 48. Bxe3 fxe3 49. Rh1 Rf2 50. Rg1 Ref8 51. Ke1 a5 52. g3 R8f6 53. Ra3 Bc4 54. Ra1 R6f5 55. Rc1 b5 56. axb5 a4 57. b6 cxb6 58. Ra1 b5 59. Rd1 a3 60. Ra1 a2 61. Rc1 Rf6 62. Ra1 Rh2 63. Bg2 Rf2 64. Bf1 Kh7 65. Rc1 Bxe2 66. d5 Rxf1+ 67. Rxf1 Bxf1 68. Kxf1 Rh1+ 69. Ke2 Rxc1 70. Kxe3 Rxc3+ 71. Kd4 a1=Q 72. d6 Rc4+ 73. Ke3 Qe1+ 74. Kf3 Rc3+ 75. Kg2 Rxg3+ 76. Kh2 Qg1# 0-1

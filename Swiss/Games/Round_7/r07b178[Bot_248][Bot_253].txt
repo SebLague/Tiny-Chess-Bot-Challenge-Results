@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "6"]
+[White "SimpleMinds (by: Karl Jungtow)"]
+[Black "Squeedo (by: David Giesegh)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. Qf3 Nc6 3. e5 Nxe5 4. Qf5 d6 5. Qf4 Nd5 6. Bb5+ c6 7. Qd4 Be6 8. Be2 Qb6 9. Qe4 f5 10. Bh5+ g6 11. Bxg6+ hxg6 12. Qe2 Nb4 13. d3 Qa6 14. a4 Kd7 15. c3 Nbxd3+ 16. Kd1 Ng4 17. Nh3 Bb3+ 18. Kd2 Bh6+ 19. f4 Bxf4+ 20. Nxf4 Nxf4 21. Qf3 Nd5 22. Ra3 Ne5 23. Qe2 Nc4+ 24. Ke1 Nxa3 25. Qxa6 Nc2+ 26. Kf2 bxa6 27. Rd1 Rxh2 28. Kg1 Rah8 29. Kf2 Na3 30. Rxd5 Rxg2+ 31. Kf1 Bxd5 32. Be3 Rh1+ 33. Bg1 Rhxg1# 0-1

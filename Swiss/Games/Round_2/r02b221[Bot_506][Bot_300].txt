@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "maff-chess (by: Filip)"]
+[Black "Bob (Looser) (by: Flo)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 b6 2. Bc4 f5 3. Qf3 b5 4. Bxg8 h5 5. Qxf5 Na6 6. Kd1 g5 7. Bf7# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "33"]
+[White "StallerBot (by: Ean)"]
+[Black "No Brain but Hungry (by: Pete)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d3 b5 2. Bf4 c5 3. Kd2 Na6 4. Bg5 e5 5. Bxd8 Kxd8 6. d4 cxd4 7. a3 Bd6 8. f4 exf4 9. Nh3 Bb7 10. b4 Bc6 11. Kc1 Rb8 12. Qxd4 Bc7 13. c4 g6 14. Qxh8 bxc4 15. Qxg8+ Ke7 16. Qxh7 Rb6 17. Qh4+ Kf8 18. Qh8+ Ke7 19. Qh6 f6 20. Nxf4 Ba8 21. Qg7+ Ke8 22. Qxg6+ Kf8 23. Qh6+ Kg8 24. Nh5 f5 25. Qg7# 1-0

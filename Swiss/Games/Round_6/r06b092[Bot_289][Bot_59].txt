@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "5"]
+[White "Foresight (by: Saihaj)"]
+[Black "Generic Chess Bot #1000000 (by: Anthony)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. e5 Nd5 3. Qf3 e6 4. Bc4 Nb4 5. a3 Nxc2+ 6. Kd1 Nxa1 7. a4 Qh4 8. d4 Qxd4+ 9. Ke2 Qxc4+ 10. Kd2 Nb3+ 11. Ke1 Qxc1+ 12. Ke2 Nd4+ 13. Kd3 Nxf3 14. gxf3 Qxb1+ 15. Kd2 Qf1 16. h3 Qg2 17. Rh2 Qxh2 18. Ne2 Qxf2 19. b4 Bxb4+ 20. Kd3 Qxf3+ 21. Kc4 c5 22. Ng1 Qd5+ 23. Kb5 Qd3# 0-1

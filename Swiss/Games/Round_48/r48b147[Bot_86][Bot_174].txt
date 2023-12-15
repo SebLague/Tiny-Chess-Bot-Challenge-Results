@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "47"]
+[White "Blitztron (by: Cameron Dugan)"]
+[Black "Annihilator (by: Wiechciu)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 g6 2. a4 a5 3. Na3 Nc6 4. Nb1 Nf6 5. h3 d6 6. d5 Nb4 7. e3 Bf5 8. Bb5+ Bd7 9. Qe2 Nfxd5 10. c3 c6 11. Bc4 Qb6 12. Kd1 Na6 13. g4 Nc5 14. Qf3 Be6 15. Ra2 Nxe3+ 16. Bxe3 Bxc4 17. Bxc5 dxc5 18. Ra3 Qxb2 19. Qe3 O-O-O 20. Qd4 cxd4 21. cxd4 Rxd4+ 22. Rd3 Qxb1+ 23. Kd2 Rxd3+ 24. Ke2 Qd1# 0-1

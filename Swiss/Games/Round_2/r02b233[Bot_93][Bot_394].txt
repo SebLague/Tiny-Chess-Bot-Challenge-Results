@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "AIsaac (by: Isaac Ellwood)"]
+[Black "Why Use Full Brain (by: JustAdy)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. h4 e5 2. g4 d5 3. d4 exd4 4. Qxd4 Ne7 5. Kd1 Nd7 6. Ke1 Ng8 7. Kd1 Ne7 8. Ke1 Ng8 9. Kd1 Ne7 1/2-1/2

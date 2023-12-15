@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "40"]
+[White "GreGory (by: Kokken)"]
+[Black "CapivaraBot (by: Danilo Luiz Rheinheimer)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 h5 2. Nf3 f5 3. g3 d5 4. b4 e5 5. b5 e4 6. Nd4 g5 7. Na4 c5 8. Nb3 b6 9. Rg1 a5 10. e3 h4 11. Ba3 hxg3 12. hxg3 g4 13. Rb1 c4 14. Nd4 Bxa3 15. Bg2 Ne7 16. c3 Nd7 17. Qc2 Nf8 18. Rf1 Nh7 19. Rh1 Ng8 20. Nc6 Qc7 21. f4 gxf3 22. Nb4 fxg2 23. Nc6 gxh1=Q+ 24. Kf2 Qf3+ 25. Kg1 Qcxg3# 0-1

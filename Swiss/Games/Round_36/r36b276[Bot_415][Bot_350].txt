@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "35"]
+[White "SYSMER (by: YannM)"]
+[Black "InsufficientBot (by: Sep)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 c5 2. Nf3 Nf6 3. Nc4 a5 4. Nxa5 Rxa5 5. Nh4 Rxa2 6. Rxa2 Ng4 7. Ra3 Nxh2 8. Rxh2 d5 9. Rhh3 Bxh3 10. Rxh3 Kd7 11. b3 f5 12. Nxf5 Rg8 13. Rxh7 Na6 14. Nxg7 Bxg7 15. Rxg7 Rxg7 16. Bb2 Rxg2 17. Bxg2 Qa8 18. Bxd5 Qd8 19. Bxb7 Nb4 20. Ba3 Nxc2+ 21. Qxc2 c4 22. Qxc4 Qg8 23. Qc6+ Kd8 24. Qc8# 1-0

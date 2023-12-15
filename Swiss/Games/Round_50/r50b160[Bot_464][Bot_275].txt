@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "49"]
+[White "Indian_Liver (by: MDM)"]
+[Black "Simple Minimax (by: Sidewinder7)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. e4 b5 2. Nf3 e6 3. d4 a6 4. Bd3 Bb7 5. Nc3 Ba3 6. bxa3 Qf6 7. g3 Nc6 8. e5 Nxe5 9. dxe5 Qxf3 10. Qxf3 Bxf3 11. Rf1 c6 12. Rb1 h6 13. h3 a5 14. Ne4 Kd8 15. Nd6 Kc7 16. Nxf7 Ne7 17. Nxh8 Nd5 18. Nf7 Nb4 19. axb4 axb4 20. Rb2 b3 21. cxb3 Kb8 22. Rg1 c5 23. Nd6 Ra5 24. Bd2 c4 25. Bxa5 c3 26. Bxc3 g5 27. Bxb5 Be4 28. Nxe4 d5 29. exd6 Kc8 30. Ba5 Kb7 31. d7 g4 32. d8=Q Ka7 33. hxg4 Kb7 34. Kd1 Ka7 35. Kc1 Kb7 36. Kb1 Ka7 37. Ka1 Kb7 38. Kb1 Ka7 39. Ka1 Kb7 40. Nc5+ Ka7 41. Nxe6 Kb7 42. Kb1 Ka7 43. Ka1 Kb7 44. Kb1 Ka7 45. Bc7 Kb7 46. Ka1 Ka7 47. Kb1 Kb7 48. Ka1 Ka7 49. Kb1 1/2-1/2

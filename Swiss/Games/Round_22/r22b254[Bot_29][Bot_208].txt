@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "21"]
+[White "SmoothBrainBot (by: zeqzero)"]
+[Black "HekMate (by: Maddisch)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. d3 d5 2. Be3 Bg4 3. d4 Qd6 4. c3 Qd7 5. a3 Qb5 6. Bf4 Qxb2 7. Bxc7 Qxa1 8. Qa4+ Nc6 9. e3 Qxb1+ 10. Kd2 Qxf1 11. g3 Qxf2+ 12. Kc1 Qxe3+ 13. Kb1 Qe1+ 14. Ka2 Qd2+ 15. Ka1 Qxc3+ 16. Ka2 Qd2+ 17. Ka1 Qc1+ 18. Ka2 Qd2+ 19. Ka1 Qc1+ 20. Ka2 Qd2+ 1/2-1/2

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "18"]
+[White "Toribot (by: Yujan Subedi)"]
+[Black "Shenanigator (by: Gary Wawn)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c4 e5 2. g3 Nc6 3. Qb3 Qf6 4. Qf3 Qg6 5. d3 Nd4 6. Qd5 Nc2+ 7. Kd2 Nxa1 8. Qxe5+ Be7 9. Qxc7 Qa6 10. Qe5 Qxa2 11. Qxg7 Qxb1 12. Qxh8 Nb3+ 13. Ke3 Qxc1+ 14. Ke4 Qg5 15. Bh3 Bf6 16. Qxg8+ Qxg8 17. d4 Qg6+ 18. Kf3 Bxd4 19. g4 Qf6+ 20. Kg3 Qxf2# 0-1

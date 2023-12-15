@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "35"]
+[White "Marreco (by: Tutz)"]
+[Black "Guppy (by: Steven He)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 Nf6 2. d4 d5 3. Bf4 c5 4. dxc5 d4 5. Na4 Qa5+ 6. c3 Bd7 7. Nf3 Bxa4 8. b4 Bxd1 9. bxa5 Ba4 10. cxd4 Nc6 11. e3 Nh5 12. Be5 f6 13. Bc7 Rc8 14. Bg3 Nxa5 15. Bd3 b6 16. Rb1 bxc5 17. Bf5 Nxg3 18. hxg3 Bd7 19. Bxh7 Bf5 20. Rb5 Bxh7 21. Rxa5 cxd4 22. exd4 Rc1+ 23. Kd2 Rxh1 24. Rxa7 Bg6 25. Ne1 Rg1 26. g4 Rhh1 27. Ra8+ Kf7 28. Ra5 Rxe1 29. Kc3 Re2 30. f4 Rc2+ 31. Kb4 Rb1+ 32. Ka3 Rc3+ 33. Ka4 Bc2# 0-1

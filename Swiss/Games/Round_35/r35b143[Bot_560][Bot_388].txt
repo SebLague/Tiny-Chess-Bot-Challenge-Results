@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "34"]
+[White "MiaKBotv4.4 (by: Mia Kellett)"]
+[Black "British Sandstorm (by: britboy3456)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 c5 2. Ne4 c4 3. Nf3 a5 4. Ne5 d5 5. Nc3 a4 6. Nf3 d4 7. Ne4 Bg4 8. Ne5 Qd5 9. Nxg4 Qxe4 10. e3 Qd5 11. Rb1 h5 12. Qf3 Qxf3 13. gxf3 hxg4 14. fxg4 c3 15. exd4 cxd2+ 16. Kxd2 Nf6 17. Bb5+ Nbd7 18. f3 Ra5 19. Bf1 e5 20. b4 axb3 21. Rxb3 exd4 22. Rb5 Rxb5 23. Bxb5 Rh3 24. Re1+ Be7 25. Rh1 Rxf3 26. Ke2 Rc3 27. Bd2 Rc5 28. g5 Rxb5 29. gxf6 Bxf6 30. Bf4 Rb2 31. Rc1 Rxa2 32. Bd2 Ra6 33. Rb1 Rb6 34. Ra1 d3+ 35. cxd3 Bxa1 36. Bc1 Nc5 37. Bd2 Kd7 38. Bc1 Kc7 39. Bf4+ Kc8 40. Bc1 Kd7 41. Bd2 Ke7 42. Bg5+ Kf8 43. Bc1 Kg8 44. Bd2 Kh7 45. Bc1 Kg6 46. Bd2 Kh5 47. Bc1 Kh4 48. Bd2 g5 49. Be1+ Kh3 50. Bd2 Ne6 51. Be3 Rb2+ 52. Kd1 g4 53. Bd2 Rb3 54. d4 Bxd4 55. Bc1 Kxh2 56. Bh6 g3 57. Bc1 g2 58. Bd2 b5 59. Be1 g1=Q 60. Kc2 Qxe1 61. Kxb3 Qb1+ 62. Ka3 Qb2# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "Terrible Bot (by: readerbij)"]
+[Black "Traderino (by: BenLS)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 g6 2. Ne5 Nh6 3. d4 Ng4 4. Nxg4 d5 5. Ne3 Nd7 6. Nxd5 c6 7. Ne3 Bh6 8. Kd2 Rb8 9. b4 g5 10. Nf5 Bf8 11. e3 b6 12. Ng3 f5 13. Qh5# 1-0

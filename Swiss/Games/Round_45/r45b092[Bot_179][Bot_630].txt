@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "44"]
+[White "Beancounting_pawnpusher (by: Arnt Veenstra)"]
+[Black "josh-chess (by: )"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. f4 e5 3. fxe5 Qh4+ 4. Ke2 Qxe4+ 5. Kf2 Bc5+ 6. Kg3 Qxe5+ 7. Kh3 d6+ 8. g4 Qe4 9. Bg2 Qf4 10. a4 Ne5 11. d3 Bxg4+ 12. Kh4 g5# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "50"]
+[White "'Knight'mare (by: AGentW29)"]
+[Black "letmeout (by: randomtestfive)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c3 e5 2. Qc2 Qh4 3. Qg6 hxg6 4. a3 d5 5. b3 Bc5 6. e4 Bg4 7. exd5 Qxf2# 0-1

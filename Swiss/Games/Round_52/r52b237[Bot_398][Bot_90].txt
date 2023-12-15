@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "51"]
+[White "ChessGPT (by: DeepGoldenCrown)"]
+[Black "Hungry For Mates (by: Bisque)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. h3 Na6 2. Nf3 Rb8 3. c4 Ra8 4. Ng5 Rb8 5. Nxf7 d6 6. Nxd8 Kd7 7. Nxb7 Kc6 8. Nxd6 Kc5 9. Nxc8 Kb4 10. Nxa7 Ka5 11. d4 Kb6 12. Qc2 Ka5 13. Kd1 Kb6 14. Ke1 Ka5 15. Kd1 Kb6 16. Ke1 Ka5 17. Kd1 1/2-1/2

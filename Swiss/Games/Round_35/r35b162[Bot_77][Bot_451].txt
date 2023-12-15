@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "34"]
+[White "OrionChessEngine (by: Maarten Peels)"]
+[Black "GreGory (by: Kokken)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e6 2. Nf3 Bc5 3. d4 Bb4+ 4. Ke2 Qf6 5. Bg5 Qg6 6. Qd3 Qh5 7. Ke3 b6 8. Kf4 Bb7 9. Nh4 Nc6 10. d5 e5+ 11. Kg3 Qxg5+ 12. Kh3 Na5 13. Rg1 Qe7 14. Nf5 Qg5 15. Nh4 Bc5 16. g3 Bxf2 17. Kg2 Bc5 18. Kh1 h5 19. Nf5 g6 20. h4 Qd8 21. Qc3 a6 22. Qxe5+ Be7 23. Qxh8 b5 24. Nxe7 f6 25. Nxg6 Bxd5 26. exd5 Qb8 27. Qxg8# 1-0

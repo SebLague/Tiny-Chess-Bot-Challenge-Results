@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "33"]
+[White "Hippo (by: MonteDegro)"]
+[Black "The Chotic bot (by: EV3L1N)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nh6 2. e4 Nf5 3. exf5 Nc6 4. d5 Na5 5. Qd4 b5 6. Nf3 c6 7. b4 c5 8. bxc5 Qc7 9. Bxb5 Rg8 10. Bf4 Nc6 11. Bxc6 Rb8 12. Bxc7 dxc6 13. dxc6 Rb6 14. Qd8# 1-0

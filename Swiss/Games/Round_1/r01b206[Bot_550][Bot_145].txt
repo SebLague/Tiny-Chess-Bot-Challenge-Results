@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "Octobot (by: Andrea Colognese)"]
+[Black "Astolfo (by: Illuminate)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e6 2. Qf3 Nf6 3. Bb5 a6 4. Bd3 Nc6 5. Nc3 d5 6. e4 d4 7. Nce2 Bd6 8. e5 Nxe5 9. Qg3 Nxd3+ 10. Qxd3 e5 11. Qf3 Be6 12. Qxb7 Bd5 13. Qxa8 Qxa8 14. Nf3 Bxf3 15. gxf3 Qxf3 16. Rg1 Ng4 17. Kd1 e4 18. c3 d3 19. a3 Qxe2# 0-1

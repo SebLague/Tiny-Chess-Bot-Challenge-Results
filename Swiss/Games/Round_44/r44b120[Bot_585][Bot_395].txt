@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "43"]
+[White "Negative Depth (by: Zoltán Kürti)"]
+[Black "MattWBot (by: Matt W)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. Nc3 d5 3. d4 e6 4. Qd3 Qe7 5. e4 Nxe4 6. Nxe4 dxe4 7. Qxe4 Qd6 8. Bc4 Qd8 9. Bg5 Be7 10. Bxe7 Qxe7 11. O-O O-O 12. Ne5 Rd8 13. Bd3 c5 14. Qxh7+ Kf8 15. Qh8# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "44"]
+[White "Squeedo (by: David Giesegh)"]
+[Black "KunoVonHagenBot (by: Jakob)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Nf3 d5 3. Nc3 d4 4. Na4 e5 5. Bb5 Bd7 6. O-O a6 7. Bxc6 Bxc6 8. b3 Bxe4 9. Nxe5 Qd5 10. f4 Bxg2 11. Re1 Ne7 12. Qg4 Bh1 13. Qh3 Rd8 14. Nc4 Be4 15. d3 Bf5 16. Qg2 Qxg2+ 17. Kxg2 b5 18. Nc5 bxc4 19. bxc4 Rd6 20. Bb2 h5 21. a4 h4 22. Kf2 h3 23. a5 Rh4 24. Kf3 g6 25. Nb7 Rd7 26. Nc5 Rd8 27. Nxa6 c6 28. Re5 Bg7 29. Ree1 Bh6 30. Kg3 Rg4+ 31. Kxh3 Bxf4 32. Rxe7+ Kxe7 33. Re1+ Kd7 34. Re7+ Kc8 35. Rc7+ Bxc7 36. Bxd4 Rg1+ 37. Kh4 Rxd4# 0-1

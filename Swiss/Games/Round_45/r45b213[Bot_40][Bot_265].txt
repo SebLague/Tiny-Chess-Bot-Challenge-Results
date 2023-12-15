@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "44"]
+[White "holcak-bot (by: Petr Holčák)"]
+[Black "SimpleBot (by: Tim Zollner)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. h4 d6 2. f4 Nf6 3. d4 Be6 4. a4 g6 5. b4 Bg7 6. b5 1-0

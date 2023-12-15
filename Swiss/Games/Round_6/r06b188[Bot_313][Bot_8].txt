@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "5"]
+[White "Minerva (by: Leo)"]
+[Black "ScaredyBot (by: Jacob Sweeten)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. b3 Nc6 2. e3 Nf6 3. Bb2 b6 4. Qf3 g6 5. Bd3 Rb8 6. Bxf6 exf6 7. Ne2 Ke7 8. Qd5 Ke8 9. O-O Ke7 10. Bc4 Ke8 11. Qxf7# 1-0

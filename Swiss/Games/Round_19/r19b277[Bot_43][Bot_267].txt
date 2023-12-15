@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "18"]
+[White "UncatchableSpaghettiMonster (by: drlundberg)"]
+[Black "TimsBot (by: Thomas Dvorak)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 h5 2. f3 Rh6 3. g3 Re6 4. f4 g5 5. hxg5 c5 6. a4 b5 7. axb5 a5 8. f5 h4 9. gxh4 c4 10. Ra2 a4 11. Bh3 c3 12. bxc3 a3 13. Bg4 f6 14. Bh5# 1-0

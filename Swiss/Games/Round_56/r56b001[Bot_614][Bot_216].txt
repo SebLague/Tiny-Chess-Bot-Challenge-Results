@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "55"]
+[White "Boychesser (by: MinusKelvin, Analog Hors, Anonymous Contributor (wishes to be unnamed), Algorhythm, and Daniel Ke (DkeRee))"]
+[Black "Average Chess bot (by: )"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 dxc4 4. e3 b5 5. a4 c6 6. axb5 cxb5 7. Nc3 Qd7 8. Ne5 Qb7 9. Nxb5 Qxb5 10. Bxc4 Qb7 11. Bxf7+ Kd8 12. Bd2 Nc6 13. Nxc6+ Qxc6 14. Ba5+ Kd7 15. Rc1 Qb5 16. Rc5 Ba6 17. Rxb5 Rc8 18. Qb3 Rc1+ 19. Kd2 Rc4 20. Rb7+ Bxb7 21. Qb5+ Kd6 22. Qe5+ Kc6 23. Qc7+ Kb5 24. Bxc4+ Ka4 25. Ra1# 1-0

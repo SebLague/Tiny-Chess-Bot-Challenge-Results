@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "10"]
+[White "Wyrm (by: Finian P.)"]
+[Black "KBot (by: Kristian Mischke)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 b5 2. e3 c6 3. Bd2 Nf6 4. Be2 a6 5. a4 bxa4 6. Rxa4 Qb6 7. b3 g6 8. Ba5 Qa7 9. Nc3 d6 10. Ra1 e6 11. g4 Kd7 12. Na4 Bh6 13. h4 Nd5 14. g5 Bf8 15. c4 Ne7 16. Nb6+ Ke8 17. Nxa8 Qxa8 18. Bf3 Ng8 19. Kd2 e5 20. dxe5 dxe5 21. Kc2 Be7 22. Ne2 f6 23. Rg1 fxg5 24. hxg5 Be6 25. Bc3 Nd7 26. Nf4 Bf7 27. Bg4 Qd8 28. Bxd7+ Qxd7 29. Qxd7+ Kxd7 30. Bxe5 Nf6 31. gxf6 Bb4 32. Rxa6 Rc8 33. Rh1 Bg8 34. Rxh7+ Ke8 35. Rh8 Bf8 36. Ra7 Rd8 37. Ne6 Rd7 38. Ra8+ Rd8 39. Rxd8+ Kf7 40. Ng5# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "13"]
+[White "Annihilator (by: Wiechciu)"]
+[Black "Anarchy Bot (by: Malcolm)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g4 e5 2. Nf3 Qf6 3. Ng1 Qc6 4. e4 Qxe4+ 5. Be2 Qxh1 6. Kf1 Qxh2 7. Bb5 a6 8. Bd3 Nc6 9. g5 Bc5 10. Qe2 Nd4 11. Qe1 Qxg1+ 12. Kxg1 Nf3+ 13. Kf1 Nxe1 14. Kxe1 Be7 15. Be2 Bxg5 16. Bg4 Ke7 17. Bh5 Ke6 18. Kd1 Bh4 19. Ke2 Nf6 20. Bf3 Ke7 21. a4 Kd8 22. b3 Ke8 23. Ra2 Kd8 24. c3 Ke8 25. a5 Kd8 26. Rc2 d5 27. c4 e4 28. Bg2 Nh5 29. cxd5 Nf4+ 30. Kf1 Bf5 31. Rc4 Re8 32. Na3 Nd3 33. Nb1 Re5 34. Rc3 Rxd5 35. b4 Kd7 36. f4 exf3 37. Bxf3 Bh3+ 38. Kg1 Rd4 39. Bxb7 Rb8 40. Bxa6 Bf2+ 41. Kh2 Bf1 42. Rc4 Rd5 43. Rh4 Bxh4 44. Bc4 Rf5 45. Kg1 Nxc1 46. Bxf1 Rxb4 47. Bh3 Ne2+ 48. Kh2 Bg3+ 49. Kg2 Nf4+ 50. Kf3 Nxh3+ 51. Kxg3 Nf2 52. d4 Rxb1 53. Kg2 Ra1 54. Kg3 Rg1+ 55. Kh2 Rg4 56. d5 Kd6 57. a6 Kc5 58. d6 Kb4 59. a7 Kb3 60. dxc7 Kb2 61. c8=R Rh5# 0-1

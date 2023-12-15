@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "28"]
+[White "MapBot (by: Map)"]
+[Black "Kinglet (by: Skolin + World + Abyss)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. Nc3 d5 3. Nf3 c5 4. dxc5 Nc6 5. Be3 e5 6. Bg5 e4 7. Bxf6 gxf6 8. Nd4 Bxc5 9. e3 O-O 10. Nxc6 bxc6 11. Qh5 f5 12. O-O-O Qf6 13. Rg1 Rb8 14. Na4 Bd6 15. Be2 f4 16. c4 fxe3 17. fxe3 Bc5 18. Kb1 Bxe3 19. Rgf1 Qg7 20. cxd5 Rb4 21. d6 Bd7 22. b3 Rxa4 23. Rde1 Rd4 24. Qh4 Bg5 25. Rxf7 Rxf7 26. Qh5 Rd2 27. Qxg5 Qxg5 28. Bd1 Qc5 29. b4 Qc3 30. Bc2 Qxc2+ 31. Ka1 Qxa2# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "Shadow (by: Zaid Alas4)"]
+[Black "DarnBot (by: Darn)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. h3 d5 3. exd5 Qxd5 4. c4 Qd6 5. f3 Qg3+ 6. Ke2 Bf5 7. Qe1 Nd4+ 8. Kd1 Bc2# 0-1

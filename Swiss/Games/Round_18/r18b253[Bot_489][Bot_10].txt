@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "17"]
+[White "NoTimeLeft (by: F&F)"]
+[Black "nadjBot (by: Arman N)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 a5 2. Bf4 a4 3. Bxc7 Qxc7 4. Kd2 Qxc2+ 5. Qxc2 a3 6. Qxc8# 1-0

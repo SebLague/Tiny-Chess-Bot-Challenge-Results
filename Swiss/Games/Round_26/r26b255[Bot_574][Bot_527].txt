@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "25"]
+[White "Holy hell (by: Tyler Branscombe & Austin Daniel)"]
+[Black "Stickleback (by: Brent Mardell)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g4 e5 2. b4 d5 3. g5 Bxb4 4. Bg2 Qxg5 5. Bf3 Qxg1+ 6. Rxg1 Nf6 7. Bh1 Be7 8. Rg6 hxg6 9. Na3 Rxh2 10. Bb2 Rxh1# 0-1

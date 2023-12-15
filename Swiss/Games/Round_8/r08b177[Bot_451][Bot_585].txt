@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "7"]
+[White "GreGory (by: Kokken)"]
+[Black "Negative Depth (by: Zoltán Kürti)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 Nc6 2. Qf3 f5 3. Qxf5 d5 4. Qh5+ g6 5. Qd1 Nf6 6. Qf3 Ne5 7. Bb5+ c6 8. Qf4 Bg7 9. Ba4 O-O 10. Qxe5 Ne4 11. f3 Bh8 12. f4 Bxe5 13. c3 Bh8 14. d4 b5 15. Bc2 Bf6 16. h4 e5 17. dxe5 Bxh4+ 18. Kf1 Ng3+ 19. Ke1 Nxh1+ 20. Kf1 Bg4 21. Nd2 Ng3+ 22. Ke1 Nf5+ 23. g3 Bxg3+ 24. Kf1 Nxe3# 0-1

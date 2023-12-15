@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "34"]
+[White "WingBot (by: Benjamin Iserman)"]
+[Black "TBbot (by: TBMPFW)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Bc4 Bc5 3. Qf3 f6 4. Qh5+ g6 5. Qh3 d6 6. Bb5+ Kf8 7. Qb3 d5 8. Nc3 Bh3 9. Nxh3 Nh6 10. d3 a6 11. Bxh6+ Kg8 12. O-O axb5 13. Qxb5 Bd4 14. Qxb7 Ra5 15. g3 Ra7 16. Qb3 c6 17. Kh1 Qc8 18. Kg2 Qxh3+ 19. Kxh3 Kf7 20. f3 g5 21. Kg2 Rd8 22. h3 Rxa2 23. Rxa2 Ke8 24. g4 Rc8 25. Ra3 Bc5 26. Raa1 Bd4 27. Ra4 Bxc3 28. Qxc3 dxe4 29. Rxe4 c5 30. b3 c4 31. b4 Kd7 32. b5 Rc5 33. b6 Rc8 34. b7 Rc5 35. Kg3 f5 36. gxf5 Kc7 37. Bxg5 Kxb7 38. Rb1+ Kc8 39. h4 cxd3 40. Qxc5+ Kd7 41. Rxb8 h5 42. Rd8# 1-0

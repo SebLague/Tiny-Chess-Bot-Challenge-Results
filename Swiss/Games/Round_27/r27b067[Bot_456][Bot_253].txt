@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "26"]
+[White "HikuBot (by: Hikushii)"]
+[Black "Squeedo (by: David Giesegh)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. e5 Ne4 3. d3 Nc5 4. d4 Ne6 5. d5 Nc5 6. Nf3 c6 7. Nc3 Qa5 8. Qd4 Nca6 9. a3 cxd5 10. b4 Qc7 11. b5 Nc5 12. Nxd5 Qa5+ 13. Bd2 Qd8 14. Qxc5 d6 15. Qc3 Kd7 16. Ng5 Rg8 17. Nxf7 Qe8 18. e6+ Kxe6 19. Ng5+ Kxd5 20. Bc4+ Kc5 21. Be3# 1-0

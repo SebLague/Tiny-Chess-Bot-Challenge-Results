@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "49"]
+[White "Obi (by: Carson Ouckama)"]
+[Black "AchillesAlpha (by: Achilles)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nc6 2. d5 Nb4 3. Qd4 Nxc2+ 4. Kd2 Nxd4 5. e4 Nb3+ 6. Kd3 Nxa1 7. h4 Nf6 8. e5 e6 9. exf6 Qxf6 10. dxe6 Qf5+ 11. Kc4 Qc5+ 12. Kd3 Qxc1 13. exf7+ Kxf7 14. Be2 Qc2+ 15. Kd4 Bc5+ 16. Ke5 Re8+ 17. Kf4 Qxe2 18. Nxe2 Bxf2 19. Nec3 Be3+ 20. Kg4 g6 21. b4 d6+ 22. Kg3 Bd4 23. Nd5 Be5+ 24. Kf3 Bd7 25. Nxc7 Bc6+ 26. Kg4 h5+ 27. Kg5 Bf6+ 28. Kf4 Re4+ 29. Kg3 Rg4+ 30. Kh3 Bxg2+ 31. Kh2 Be5+ 32. Kg1 Rc8 33. Nb5 Rc1+ 34. Kf2 Bxh1 35. Nd2 Rxb4 36. Nxa7 Rxh4 37. a3 Rh2+ 38. Ke3 Rc3# 0-1

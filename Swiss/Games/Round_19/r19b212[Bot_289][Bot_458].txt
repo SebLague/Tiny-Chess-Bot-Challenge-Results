@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "18"]
+[White "Foresight (by: Saihaj)"]
+[Black "Mischievous bot (by: Guigui)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 f6 2. Bc4 Nh6 3. Qh5+ g6 4. Qh3 c6 5. d4 g5 6. Qh5+ Nf7 7. Bxf7# 1-0

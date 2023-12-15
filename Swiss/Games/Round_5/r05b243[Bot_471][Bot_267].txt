@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "4"]
+[White "ABadBot (by: Lucas)"]
+[Black "TimsBot (by: Thomas Dvorak)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 h5 2. Rb1 Rh6 3. e3 h4 4. Nf3 h3 5. gxh3 Rg6 6. Ra1 f5 7. Bc4 Rh6 8. Bxg8 g5 9. Nxg5 c5 10. Qh5+ Rg6 11. Qxg6# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "47"]
+[White "InfuehrDaniel MCTS (by: Daniel Infuehr)"]
+[Black "DoesTheBotNameHasACharacterLimitBecauseIAmSureThisCanGetInterestingAndIAmNotTalkingAboutTheBotIMeanSeriouslyTheBotIsBasicalyUselessButThatWasFunnyThanksSmileyFace (by: zappynou)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. e3 Na6 2. Qh5 Rb8 3. Be2 Ra8 4. Nc3 Rb8 5. a3 Ra8 6. Qe5 Rb8 7. Qxc7 Qxc7 8. Nh3 Qxc3 9. f3 Qxd2+ 10. Bxd2 Kd8 11. Kf2 Kc7 12. Ng5 Kb6 13. Nxf7 Kc5 14. Bd3 Kd5 15. Be4+ Kc4 16. Bf5 Kb5 17. Bd3+ Ka4 18. c4 Kb3 19. Bb1 Kxb2 20. Ra2+ Kb3 21. Rc1 Ka4 22. Ke2 Kb3 23. Rc3+ Ka4 24. Bc2+ Ka5 25. Rb3+ Ka4 26. Rc3+ Ka5 27. Rb2 Ra8 28. Rd3+ Nb4 29. Ra2 Ka6 30. axb4+ Kb6 31. Ra5 Kc6 32. Ba4+ Kb6 33. Ra3 Kc7 34. Rc5+ Kb6 35. Rb5+ Ka6 36. Nxh8 Rb8 37. Rf5 Kb6 0-1

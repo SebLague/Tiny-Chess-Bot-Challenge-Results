@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "15"]
+[White "Paradox Bot (by: Kekz)"]
+[Black "timecat-mini (by: Gourab Ghosh)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. Nf3 d5 3. Bg5 Nc6 4. Bxf6 exf6 5. Qc1 Bf5 6. Kd1 Nb4 7. Qe3+ Be7 8. Ne1 O-O 9. Nd2 Re8 10. Qb3 Qd7 11. Ndf3 c5 12. dxc5 Bxc5 13. e3 d4 14. exd4 Bxd4 15. Bd3 Nxd3 16. Nxd3 Bxf2 17. Rf1 Be3 18. Rh1 Rad8 19. Ke1 Be6 20. Qb4 Bxa2 21. Kf1 Bd5 22. Nde1 Re4 23. Qa3 f5 24. Rd1 Qb5+ 25. Nd3 Rc8 26. c3 Bc4 27. Qd6 Bc5 28. b3 Qxb3 29. Rc1 Qb2 30. Qxc5 Bxd3+ 31. Kg1 Qxc1+ 32. Kf2 Qc2+ 33. Kg1 Qd1+ 34. Kf2 Qe2+ 35. Kg3 Rg4+ 36. Kh3 Qxg2# 0-1

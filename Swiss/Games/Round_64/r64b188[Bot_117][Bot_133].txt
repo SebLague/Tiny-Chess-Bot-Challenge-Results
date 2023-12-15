@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "63"]
+[White "BettyBot (by: Thomas / TGhost)"]
+[Black "MinimaxAttackerBot5000 (by: ChrisCat123)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Na3 Na6 2. Nc4 Nb4 3. Ne3 Rb8 4. Nf3 Ra8 5. Rg1 Rb8 6. Rh1 Ra8 7. Rg1 Rb8 8. Rh1 Ra8 9. Rg1 1/2-1/2

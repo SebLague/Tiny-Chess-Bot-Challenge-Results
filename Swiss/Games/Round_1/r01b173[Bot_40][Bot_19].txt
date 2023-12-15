@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "holcak-bot (by: Petr Holčák)"]
+[Black "AttackBot (by: Kai Tabuchi (9 Years Old))"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. h4 b5 2. g4 Bb7 3. Rh3 Bh1 4. Rxh1 Qc8 5. f4 Qb7 6. Rh3 Kd8 7. d4 Ke8 8. b4 Kd8 9. h5 Ke8 10. g5 Kd8 11. f5 Ke8 12. e3 Kd8 13. c3 Ke8 14. a3 Kd8 15. Ne2 Ke8 16. Nf4 Kd8 17. Nd3 Ke8 18. Ne5 Kd8 19. Nxf7+ Ke8 20. Nxh8 Kd8 21. Nf7+ Ke8 22. Nh8 Kd8 23. Nf7+ Ke8 24. Nh8 1/2-1/2

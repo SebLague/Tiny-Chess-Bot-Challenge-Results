@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "31"]
+[White "Clyde (by: Evan)"]
+[Black "DumBot (by: Viruj)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f4 c5 2. a4 d6 3. e4 Kd7 4. Qg4+ Kc7 5. Qf3 Kb6 6. Qb3+ Ka5 7. Qb5# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "Cosmos (by: Gonumen)"]
+[Black "Optimus (by: Adt)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. e5 Ne4 3. d3 Nxf2 4. Kxf2 e6 5. Nf3 d5 6. Nc3 Bb4 7. d4 Bxc3 8. bxc3 f6 9. exf6 Qxf6 10. Bg5 Qf5 11. Bd3 Qg4 12. h3 Qh5 13. Bf4 Rf8 14. Bxc7 Nc6 15. Rb1 a6 16. Re1 e5 17. Bxe5 Kd8 18. Bxg7 Rf7 19. Be5 Nxe5 20. Rxe5 Qh4+ 21. Kg1 Qg3 22. Rxd5+ Ke8 23. Ng5 Qe3+ 24. Kh1 Re7 25. Qh5+ Kf8 26. Rd8+ Kg7 27. Qxh7+ Kf6 28. Qh6# 1-0

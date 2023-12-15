@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "18"]
+[White "AUR Chessbot (by: Soul Senshi)"]
+[Black "KnightMare (by: Dom)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Nc3 c6 2. Nf3 Qa5 3. Rg1 Nf6 4. Rh1 d6 5. h3 Nbd7 6. Rg1 Qh5 7. Rb1 Ne5 8. d4 Nxf3+ 9. gxf3 e5 10. Ra1 h6 11. Rb1 Be6 12. Ra1 O-O-O 13. Rb1 Kb8 14. Ra1 Re8 15. Rb1 Rg8 16. Ra1 Be7 17. Rb1 a6 18. Ra1 g6 19. Rb1 Rg7 20. Ra1 Rgg8 21. Rb1 Rg7 22. Ra1 Rgg8 1/2-1/2

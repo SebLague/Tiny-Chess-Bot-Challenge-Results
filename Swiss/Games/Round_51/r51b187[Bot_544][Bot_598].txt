@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "50"]
+[White "Saint Charles Bot (by: DATA USP)"]
+[Black "WingBot (by: Benjamin Iserman)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 e5 2. Nc4 Nc6 3. Rb1 Qf6 4. Ra1 Bb4 5. a3 Bc5 6. Nf3 Nh6 7. d4 O-O 8. dxc5 a6 9. Bg5 Qf5 10. Ne3 Qe4 11. Nd2 Qa4 12. b3 Qd4 13. Rb1 Qxc5 14. Ra1 b6 15. Ra2 d6 16. Qa1 Be6 17. b4 Qb5 18. a4 Qxb4 19. Rb2 Qd4 20. Nb1 Kh8 21. c3 Qe4 22. Nd2 Qg6 23. Nf3 e4 24. Bxh6 Qxh6 25. Ng1 a5 26. Nd1 d5 27. Qa3 f6 28. Rb5 f5 29. g4 fxg4 30. c4 dxc4 31. Qa2 Ra6 32. Qc2 Rf4 33. Qd2 Kg8 34. Bg2 g6 35. Bxe4 Kf7 36. Bxc6 Ke7 37. Bb7 Ra7 38. Bg2 Ra6 39. Bb7 Kf6 40. Bxa6 Ke7 41. Kf1 Kf7 42. Ke1 Ke7 43. Kf1 Ke8 44. Ke1 Kf7 45. Kf1 Ke7 46. Ke1 Ke8 47. Kf1 Qf8 48. Bc8 Bxc8 49. Qe3+ Kd7 50. Rd5+ Kc6 51. Rb5 h6 52. Qe5 Qf7 53. Rb1 Ba6 54. Ke1 Kb7 55. f3 c6 56. Kf1 Ka7 57. Ke1 Bb7 58. Kf1 Ka6 59. Qe3 Ka7 60. Qe5 Qf8 61. Ke1 Ka6 62. Qe3 Ka7 63. Qxb6+ Ka8 64. Qxb7# 1-0

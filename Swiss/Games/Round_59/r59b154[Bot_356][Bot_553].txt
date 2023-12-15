@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "58"]
+[White "AlaskaBot (by: Arttu Halonen)"]
+[Black "Jack (by: Antonio P)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 f5 2. Ne5 d5 3. d4 Qd6 4. Bd2 Qb6 5. e3 h5 6. c3 Qxb2 7. Qa4+ c6 8. Nxc6 Nxc6 9. Be2 Qxa1 10. Bxh5+ Rxh5 11. Qc2 Kd7 12. f4 Rh6 13. Qxf5+ Kd6 14. Qxf8 Qxb1+ 15. Ke2 Qxh1 16. Qxg7 Rxh2 17. Qxg8 Rxg2+ 18. Qxg2 Qxg2+ 19. Ke1 Qg1+ 20. Ke2 Bg4+ 21. Kd3 Qb1# 0-1

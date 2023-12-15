@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "Smiley (by: Orniflyer)"]
+[Black "GulcarBot (by: Gulcar)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 b6 2. Nh3 e5 3. d3 d5 4. e3 d4 5. c4 dxe3 6. f4 Bb4+ 7. Ke2 Bg4+ 8. Kxe3 Qd4# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "48"]
+[White "Blind Bot (by: Moonwalker3)"]
+[Black "NotSoEvilBot (by: AntVil)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 a6 2. Nf3 a5 3. Ne4 a4 4. Nd4 a3 5. bxa3 b6 6. Nf3 b5 7. Nd4 b4 8. axb4 c6 9. Nf3 c5 10. bxc5 d6 11. cxd6 exd6 12. Nd4 d5 13. Nc3 f6 14. Nf3 d4 15. Ne4 d3 16. exd3 f5 17. Nc3 f4 18. Ne4 g6 19. Ne5 f3 20. gxf3 g5 21. Nc3 g4 22. fxg4 h6 23. Ne4 h5 24. gxh5 Rxa2 25. Rxa2 Rxh5 26. Qxh5+ Ke7 27. Qf7# 1-0

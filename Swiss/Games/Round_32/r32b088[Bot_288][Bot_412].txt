@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "31"]
+[White "Running Bot (by: Chris Pontius)"]
+[Black "MilkMindV1 (by: Josiah Jordan )"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c3 e5 2. d4 e4 3. h4 Nf6 4. a4 Nc6 5. d5 Ne7 6. c4 Nf5 7. Bg5 Bb4+ 8. Nd2 d6 9. g4 e3 10. fxe3 Ng3 11. Bg2 Nxh1 12. Bxh1 h6 13. Bxf6 Qxf6 14. Nf3 Bxg4 15. Qc2 Bxf3 16. Bxf3 Qxh4+ 17. Kd1 Qf2 18. Qe4+ Kf8 19. Kc2 Re8 20. Qd4 Qxe3 21. Qxe3 Rxe3 22. Nf1 Re5 23. e4 Bc5 24. Nd2 Ke7 25. Nb3 Rg5 26. Nxc5 dxc5 27. Rf1 h5 28. Bh1 h4 29. Kd2 h3 30. Ke3 h2 31. b4 Rg1 32. Kf2 Rxf1+ 33. Kxf1 cxb4 34. Ke2 Kd6 35. Kf3 b3 36. Kf4 Kc5 37. e5 b2 38. Be4 h1=Q 39. Bxh1 Rxh1 40. e6 fxe6 41. dxe6 b1=Q 42. e7 Qe1 43. e8=Q Qxe8 44. Kf3 Qxa4 45. Kg4 Rf1 46. Kg5 Qe8 47. Kg4 Qg6+ 48. Kh3 Rh1# 0-1

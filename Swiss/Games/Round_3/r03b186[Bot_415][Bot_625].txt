@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "SYSMER (by: YannM)"]
+[Black "Bongcloud Bot (by: lurendrei)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 e5 2. Nf3 Ke7 3. Nxe5 Nf6 4. Nxd7 Bxd7 5. Nc4 Nc6 6. a3 Ke8 7. Rb1 Be6 8. b3 b5 9. Rb2 bxc4 10. bxc4 Bxa3 11. Rb3 Bxc1 12. Qxc1 Bxc4 13. Rd3 Bxd3 14. exd3 Qd6 15. Ke2 Qe5+ 16. Kf3 Nd4# 0-1

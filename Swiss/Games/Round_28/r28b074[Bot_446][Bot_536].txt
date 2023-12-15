@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "27"]
+[White "Quinn (by: Pierre Girardeau)"]
+[Black "SSComp1 (by: ShadowStar019)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e6 2. e3 Qh4 3. g3 Qg5 4. Nf3 Qa5 5. Bb5 b6 6. Ke2 Bb7 7. Qf1 h5 8. Qh3 g5 9. g4 a6 10. Bd3 hxg4 11. Qxg4 Nf6 12. Qd4 g4 13. Ke1 e5 14. Qc4 Bxf3 15. Rg1 b5 16. Qb3 Rxh2 17. Be2 Bxe2 18. Kxe2 b4 19. Qa4 Qc5 20. Nb1 Qd5 21. Ke1 Qf3 22. Rf1 g3 23. d4 Ne4 24. Rg1 Qxf2+ 25. Kd1 Qxg1# 0-1

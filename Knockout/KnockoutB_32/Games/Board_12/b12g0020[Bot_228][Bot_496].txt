@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Knockout 32"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "Buildabot (by: Buildasaurus)"]
+[Black "Ace V1.0.0 (by: Atad)"]
+[Result "0-1"]
+[TimeControl "30+0.1"]
+[Termination "Checkmate"]
+
+1. c4 e5 2. Nc3 Nf6 3. g3 Bb4 4. Bg2 O-O 5. Nf3 Re8 6. a3 Bxc3 7. dxc3 Nc6 8. Be3 d6 9. O-O e4 10. Nd2 Bf5 11. Qb3 Rb8 12. h3 h6 13. Qc2 Qd7 14. Rfe1 Rbd8 15. b4 Ne5 16. Qb3 Bxh3 17. Nxe4 Nxe4 18. Bxe4 Ng4 19. Bf3 Nxe3 20. fxe3 Rxe3 21. Qd1 Rde8 22. Qd4 g5 23. c5 g4 24. Bxb7 Rxg3+ 25. Kh2 Rge3 26. Kg1 Qe7 27. Bc6 Rg3+ 28. Bg2 Rxg2+ 29. Kh1 Rxe2 30. Qf2 Rxf2 31. Rxe7 Rxe7 32. Rg1 Ree2 33. Rg3 Rf1+ 34. Rg1 Rxg1+ 35. Kxg1 g3 36. c6 Re1# 0-1

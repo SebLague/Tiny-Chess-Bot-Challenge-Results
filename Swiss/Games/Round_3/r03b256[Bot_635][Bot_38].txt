@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "BotTheBuilder (by: Stelio Dalakas)"]
+[Black "Asymptotically optimal (by: Graham Gayler)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g3 d5 2. Bg2 Nh6 3. d3 c6 4. Bxd5 Kd7 5. Bxh6 cxd5 6. Bxg7 Bxg7 7. e4 Kc6 8. Nc3 dxe4 9. dxe4 Kc5 10. Qh5+ Be5 11. Qxf7 Bxc3+ 12. bxc3 Bh3 13. Nxh3 Kb5 14. Qxe7 Qxe7 15. Rb1+ Ka4 16. Rb4+ Qxb4 17. Rg1 Qxe4+ 18. Kd1 Qxc2+ 19. Kxc2 Na6 20. Rf1 Ka3 21. Re1 Kxa2 22. Re4 Ka1 23. Ra4# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "9"]
+[White "lowEloBrain (by: bbb908)"]
+[Black "TinyLispChessBot (by: tr00)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. e4 Na6 2. Qe2 Nb4 3. d4 Rb8 4. Qe3 Nxc2+ 5. Kd1 Nxe3+ 6. fxe3 Ra8 7. Be2 Rb8 8. b4 Ra8 9. Nc3 Rb8 10. Na4 Ra8 11. Nc3 Rb8 12. Na4 Ra8 13. Nc3 1/2-1/2

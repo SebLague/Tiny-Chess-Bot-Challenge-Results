@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "50"]
+[White "BigBrainBot (by: Leo)"]
+[Black "LazyBot (by: Tim de Jong)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 e6 2. d4 Nc6 3. e4 d5 4. Bb5 dxe4 5. Nfd2 Qg5 6. Bxc6+ bxc6 7. O-O Qf5 8. Re1 Nf6 9. Nc3 Bb4 10. Ncxe4 Nxe4 11. Rxe4 O-O 12. Rh4 Rb8 13. Nc4 Ba6 14. Ne5 Qf6 15. Rf4 Qd8 16. a3 Bd6 17. Nxc6 Qd7 18. Nxb8 Rxb8 19. Rh4 Qc6 20. Qd2 Qc4 21. Qd1 Qc6 22. Rg4 f5 23. Rg5 Qe4 24. a4 Qh4 25. g3 Qe4 26. f3 Qc6 27. f4 Qe4 28. Qd2 Be7 29. Rh5 Bf6 30. c3 Bxd4+ 31. Qxd4 Qe1+ 32. Kg2 Qf1# 0-1

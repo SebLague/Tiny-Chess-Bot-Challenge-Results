@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "19"]
+[White "OppToss (by: Jan Stachurski)"]
+[Black "Plumbo (by: Luca Voros)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. d4 Nc6 3. d5 Nb4 4. c4 c6 5. a3 Na6 6. Be3 cxd5 7. cxd5 b6 8. Bg5 Nc5 9. Bxf6 exf6 10. Nc3 Bd6 11. b4 Na6 12. Ne4 Bf4 13. e3 Bb8 14. Be2 O-O 15. Rf1 Bb7 16. Bc4 f5 17. Ng3 f4 18. Nf5 Qf6 19. N3d4 Be5 20. b5 Nc7 21. exf4 Bxf4 22. g3 Rae8+ 23. Be2 Be5 24. d6 Ne6 25. Rc1 Nxd4 26. Ne7+ Kh8 27. Rc7 Bf3 28. Bxf3 Nxf3+ 29. Ke2 Bxd6 30. Rxd7 Bxe7 31. Kd3 Qf5+ 32. Kc3 Bf6+ 33. Rd4 Bxd4+ 34. Qxd4 Nxd4 35. Rc1 Qf3+ 36. Kxd4 Re4+ 37. Kd5 Rd8+ 38. Kc6 Rc4# 0-1

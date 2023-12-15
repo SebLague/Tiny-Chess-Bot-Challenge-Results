@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "57"]
+[White "No Brain but Hungry (by: Pete)"]
+[Black "Freedom_Fighter v.83 (by: Kongo Landwalker)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f3 e6 2. d3 Bb4+ 3. c3 Qh4+ 4. g3 Qd4 5. cxb4 Qxb4+ 6. Bd2 Qxb2 7. Be3 Ne7 8. a4 Nf5 9. Bg5 Nc6 10. g4 Qb4+ 11. Bd2 Qd4 12. gxf5 Qh4# 0-1

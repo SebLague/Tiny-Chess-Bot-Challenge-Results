@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "30"]
+[White "roboleon v4.1 bugfixed (by: CLEC)"]
+[Black "FetaCheese_Bot (by: Dimitris Dallas)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. Nc3 d5 3. e3 Nc6 4. Bb5 a6 5. Bxc6+ bxc6 6. h3 c5 7. d4 cxd4 8. Qxd4 Bf5 9. Kd1 Bc8 10. Ne5 Be6 11. Qc5 Qd6 12. Qxd6 cxd6 13. Nd3 g5 14. Ne2 h5 15. Nd4 Bd7 16. f4 Rg8 17. fxg5 Rxg5 18. e4 Rxg2 19. Ne1 Nxe4 20. Nxg2 Nf2+ 21. Ke2 Nxh1 22. Bf4 e5 23. Rxh1 exd4 24. Kd3 Rc8 25. Re1+ Be6 26. a3 Kd7 27. Rh1 Bg7 28. Kd2 Bf5 29. Ne1 Be5 30. Bxe5 dxe5 31. Rf1 Ke6 32. Nd3 f6 33. h4 Be4 34. Nb4 a5 35. Nd3 Rc4 36. b3 Rc3 37. Re1 Bxd3 38. cxd3 Rxb3 39. a4 Ra3 40. Kc2 Rxa4 41. Kb3 Rb4+ 42. Ka3 Rb7 43. Rd1 Rb6 44. Re1 Rb8 45. Ka4 Rg8 46. Kxa5 Rg3 47. Rb1 Rxd3 48. Rb7 Rc3 49. Rh7 d3 50. Rb7 d2 51. Rb6+ Kf5 52. Kb4 Rc7 53. Kb3 d1=Q+ 54. Ka2 Ra7+ 55. Kb2 Qd4+ 56. Kc2 Qxb6 57. Kd3 Qb2 58. Ke3 Ra3# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "GOYO Bot v1.1.2 (by: Goyo)"]
+[Black "ReturnOfTheQueen (by: Staicu Ciprian)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. e4 Nc6 2. Nc3 Nf6 3. Nf3 a6 4. Ng5 e6 5. Qf3 h6 6. Qf4 hxg5 7. Qxg5 Rh5 8. Qe3 Bc5 9. Qf4 Bd6 10. Qe3 Bc5 11. Qe2 Qe7 12. Qd3 Nb4 13. Qf3 Nxc2+ 14. Kd1 Nxa1 15. Qd3 Ng4 16. Qf3 Nf6 17. Qd3 Ng4 18. Qf3 Nf6 1/2-1/2

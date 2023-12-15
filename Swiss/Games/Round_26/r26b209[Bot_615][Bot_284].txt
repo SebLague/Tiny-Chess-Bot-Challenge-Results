@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "25"]
+[White "Anty (by: Emanuele Sorce)"]
+[Black "Arctiform's Bot (by: Arctiform)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f4 e6 2. c4 h5 3. Kf2 a5 4. d4 g6 5. Be3 c6 6. Bd2 Qh4+ 7. Ke3 f5 8. c5 d5 9. Nh3 b5 10. Be1 Qg4 11. Bg3 b4 12. Kf2 Nh6 13. Qc1 a4 14. Nd2 Na6 15. Nb1 Ng8 16. Qc2 Nh6 17. Qxf5 Qxf5 18. Ke3 Ng4+ 19. Kd2 Nb8 20. Bf2 Na6 21. b3 Nb8 22. bxa4 Rxa4 23. Bg3 Nf6 24. Nc3 Ra8 25. Re1 Nbd7 26. Bh4 Ng8 27. Nxd5 exd5 28. a3 bxa3 29. Kd1 a2 30. Bf6 a1=N 31. e4 Qxf6 32. exd5+ Kf7 33. Re6 Qxd4+ 34. Ke1 Nb3 35. d6 Qd2# 0-1

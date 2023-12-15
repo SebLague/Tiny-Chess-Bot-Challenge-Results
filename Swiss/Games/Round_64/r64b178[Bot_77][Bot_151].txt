@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "63"]
+[White "OrionChessEngine (by: Maarten Peels)"]
+[Black "CompressTable (by: JacobAndSam)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nh3 a5 4. Ng5 h6 5. Ne4 Nf4 6. Qf3 Nd5 7. Bb5 c6 8. Bd3 Nb4 9. Ng3 Qc7 10. Kd1 Qxe5 11. a3 Nxd3 12. Qxd3 Qd5 13. Qxd5 cxd5 14. Nc3 d4 15. Nb5 Na6 16. c4 dxc3 17. bxc3 d5 18. Ke1 Bd7 19. Rf1 Bxb5 20. Rg1 Bd3 21. Kd1 Bb5 22. Ke1 Bd3 23. Kd1 Bb5 24. Ke1 1/2-1/2

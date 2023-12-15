@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "33"]
+[White "CosmoDMBot (by: CosmoDM)"]
+[Black "Chemibot (by: Mike Chemi)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Ne2 Qh4 3. Nec3 b6 4. h3 f6 5. Bc4 Nh6 6. d3 c5 7. Nd5 Bd6 8. g3 b5 9. gxh4 bxc4 10. Bxh6 O-O 11. Rg1 Rf7 12. dxc4 g6 13. Ndc3 Bb7 14. f4 Bc7 15. f5 a6 16. fxg6 hxg6 17. Qg4 g5 18. Qh5 a5 19. Qg6+ Kh8 20. Qxf7 gxh4 21. Qg7# 1-0

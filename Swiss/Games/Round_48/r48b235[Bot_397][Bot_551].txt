@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "47"]
+[White "TinyLispChessBot (by: tr00)"]
+[Black "AchillesAlpha (by: Achilles)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 c6 2. Rb1 Na6 3. Ra1 Nb4 4. Nf3 Nxc2+ 5. Qxc2 Qa5 6. Kd1 Qd5 7. Ke1 e6 8. Nb1 Kd8 9. Kd1 Kc7 10. Ke1 Kd8 11. Kd1 Qc5 12. Rg1 Qxc2+ 13. Kxc2 Bc5 14. Ne5 Bxf2 15. Nxf7+ Ke7 16. Nxh8 Bxg1 17. h3 b6 18. Kd1 Ba6 19. Ke1 Rf8 20. Na3 Bf2+ 21. Kd1 Kd8 22. Kc2 Bg1 23. Nc4 Rxf1 24. Kb3 Re1 25. Nf7+ Kc7 26. Kc3 Rxe2 27. Kb3 Rxg2 28. Kc3 Rg3+ 29. Kb4 Bc5+ 30. Ka4 Bb5# 0-1

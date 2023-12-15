@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "8"]
+[White "Toribot (by: Yujan Subedi)"]
+[Black "Poisoned_Offerings (by: N8)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 e5 2. d4 Bb4+ 3. c3 Bxc3+ 4. bxc3 exd4 5. Qxd4 Qf6 6. Bd2 Qxd4 7. cxd4 c5 8. dxc5 d6 9. cxd6 Bf5 10. Nc3 Bc2 11. a3 Nd7 12. Bf4 g5 13. hxg5 Rd8 14. Kd2 Bf5 15. Be3 Ne5 16. Bxa7 Nc4+ 17. Kc1 Ra8 18. e4 Rxa7 19. Bxc4 Be6 20. Nb5 Ra4 21. Nc7+ Kd8 22. Bxe6 fxe6 23. Nxe6+ Kc8 24. f3 Ra6 25. Kb1 Rxd6 26. Ra2 Rxe6 27. Rd2 Rb6+ 28. Ka1 Rb3 29. a4 Ra3+ 30. Ra2 Rd3 31. Ne2 Ne7 32. Rc2+ Kb8 33. Rb1 Ra3+ 34. Kb2 Rxa4 35. Rf1 Rb4+ 36. Ka3 Rb6 37. Rfc1 Ra6+ 38. Kb3 Rb6+ 39. Ka4 Ra6+ 40. Kb4 Rb6+ 41. Ka5 Ra6+ 42. Kb5 Ka7 43. Rc7 Rb6+ 44. Kc4 Ng6 45. Ra1+ Kb8 46. Rc5 Rd8 47. Rca5 Rc6+ 48. Kb5 Rdd6 49. g3 Rb6+ 50. Kc4 Rbc6+ 51. Kb4 Rb6+ 52. Kc3 Rdc6+ 53. Kd4 Rd6+ 54. Ke3 Rb3+ 55. Kf2 h5 56. gxh6 Rdd3 57. Ra8+ Kc7 58. Ke1 Ne5 59. f4 Nf3+ 60. Kf2 Nd2 61. R8a4 b5 62. Ra7+ Kc8 63. Ra8+ Kc7 64. R1a7+ Kb6 65. Ra6+ Kc7 66. Re8 Rf3+ 67. Kg2 Kb7 68. Rf6 Kc7 69. h7 Rbe3 70. Rf7+ Kb6 71. Rb8+ Ka6 72. Rf6+ Ka7 73. h8=Q Rxe2+ 74. Kh3 Rh2+ 75. Kxh2 Nf1+ 76. Kg2 Rxg3+ 77. Kxf1 Rf3+ 78. Kg1 Rg3+ 79. Kh1 Rh3+ 80. Qxh3 Kxb8 81. Qd7 b4 82. Qe7 b3 83. Kg2 b2 84. Qg7 b1=Q 85. Rf8# 1-0

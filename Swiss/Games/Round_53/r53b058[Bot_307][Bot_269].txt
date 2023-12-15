@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "52"]
+[White "Stephanee (by: Elijah Bradshaw)"]
+[Black "AugsBot (by: Augs)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. f4 exf4 3. h4 Nf6 4. e5 Ne4 5. Rh2 Ng3 6. d4 Nxf1 7. Kxf1 d6 8. Qe1 Be6 9. Bxf4 dxe5 10. Bxe5 Nc6 11. d5 Qxd5 12. Bc3 Nd4 13. Bxd4 Qxd4 14. c3 Qf4+ 15. Nf3 Bd6 16. Na3 O-O-O 17. Rh1 Rhe8 18. Qb1 Bc5 19. b3 Bf5 20. Qc2 Bd3+ 21. Qxd3 Rxd3 22. Rh3 Rxc3 23. Nb5 Rc1+ 24. Rxc1 Qxc1+ 25. Ne1 Rxe1# 0-1

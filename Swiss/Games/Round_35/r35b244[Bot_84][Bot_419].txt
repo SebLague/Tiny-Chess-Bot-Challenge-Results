@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "34"]
+[White "tom (by: Christopher Hosken & Thomas Lower)"]
+[Black "PrincessAtta (by: Bowser Bowering and Allyn Lloyd)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f4 e6 2. h4 Qxh4+ 3. Rxh4 g5 4. fxg5 d5 5. g4 e5 6. e4 d4 7. c4 b6 8. b4 d3 9. a4 a5 10. bxa5 b5 11. axb5 h5 12. gxh6 f5 13. exf5 e4 14. h7 Nf6 15. b6 e3 16. bxc7 e2 17. cxb8=Q Rxb8 18. a6 Rxh7 19. Rxh7 Bxf5 20. gxf5 Bc5 21. a7 Rxb1 22. a8=Q+ Rb8 23. Qxb8# 1-0

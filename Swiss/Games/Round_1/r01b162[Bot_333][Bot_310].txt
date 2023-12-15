@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "Rules_Of_Thumb (by: Goose)"]
+[Black "LynchBot (by: Gary Lynch)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 d5 2. e4 d4 3. Bb5+ c6 4. Nge2 cxb5 5. Nxb5 e5 6. f4 Bd7 7. a4 a6 8. Na3 exf4 9. Nxd4 Qh4+ 10. g3 fxg3 11. Kf1 Bh3+ 12. Kg1 Bc5 13. Nb5 Qxe4 14. Nc7+ Kd7 15. Qg4+ Bxg4 16. Nxa8 Bxd4+ 17. Kf1 Qxh1# 0-1

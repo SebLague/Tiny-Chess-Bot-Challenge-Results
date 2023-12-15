@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "LynchBot (by: Gary Lynch)"]
+[Black "noobot v1 (by: Arshia)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e6 2. Nf3 f5 3. exf5 exf5 4. Bd3 Qe7+ 5. Be2 Nc6 6. O-O b6 7. Re1 Ne5 8. Nxe5 d5 9. Bb5+ c6 10. Bxc6+ Kd8 11. Bxa8 Qc7 12. Bxd5 Nh6 13. d4 f4 14. Bxf4 Bd6 15. Bg5+ Be7 16. Nc6+ Ke8 17. Qh5+ g6 18. Qxh6 Be6 19. Rxe6 Rf8 20. Qxh7 Rf7 21. Qxf7+ Kd7 22. Rxe7+ Kd6 23. Qxg6+ Kxd5 24. Qe6# 1-0

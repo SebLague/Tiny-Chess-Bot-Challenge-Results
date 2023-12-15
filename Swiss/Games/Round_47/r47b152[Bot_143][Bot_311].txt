@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "46"]
+[White "abariba (by: abariba)"]
+[Black "MyFirstChessEngine (by: Jake Forsey)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a4 Nc6 2. c4 Nd4 3. e3 Nc6 4. h4 Rb8 5. f4 Nf6 6. d3 e5 7. Kf2 exf4 8. g3 fxg3+ 9. Kg2 Ne5 10. d4 Ng6 11. Bd3 Ng8 12. h5 Qf6 13. hxg6 Qf2+ 14. Kh3 hxg6+ 15. Kg4 Rxh1 16. Qf3 Nh6+ 17. Kf4 Rh4+ 18. Ke5 d6+ 19. Kd5 Be6# 0-1

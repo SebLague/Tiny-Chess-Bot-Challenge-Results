@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "7"]
+[White "The Grandiloquent Intelligentsia of Magnanimous Strategem: A Prodigiously Resplendent Embodiment of Erudite Chess Esotericism, Exuding Enigmatic Brilliance and Sublime Eloquence Whilst Enchantingly Tempering the Hallowed Battlefield of Intellectual Duels, Endeavoring to Transcend Acumen and Ascend to the Pantheon of Learned Peregrinations with an Efficacious Arsenal of Foresight and Sagacity, Humbling Opponents with Refined Gallantry, and Beckoning Discerning Disciples to Witness the Manifest Veracity of its Ascent to a Formidable Elo Quintessence (by: Giles Corey)"]
+[Black "BuiltCleverBot (by: Scott Ward)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. Nc3 d5 3. g3 d4 4. Nb1 Nc6 5. c3 e5 6. Bg2 Bg4 7. cxd4 exd4 8. O-O Bc5 9. h3 Bxf3 10. exf3 O-O 11. d3 Nd5 12. Nd2 Qd7 13. Ne4 Bb6 14. Rb1 f5 15. Nd2 f4 16. Ne4 fxg3 17. Nxg3 h6 18. Qb3 Qe6 19. Bd2 Rae8 20. Rbe1 Qf7 21. f4 Rxe1 22. Bxd5 Rxf1+ 23. Kxf1 Qxd5 24. Qxd5+ Kh8 25. Nf5 Kh7 26. Qd7 Rg8 27. b4 a6 28. a4 Nb8 29. Qf7 Nc6 30. Nxh6 Rf8 31. Qxf8 gxh6 32. f5 Bc5 33. Qf7+ Kh8 34. f6 Bf8 35. Qxf8+ Kh7 36. Qg7# 1-0

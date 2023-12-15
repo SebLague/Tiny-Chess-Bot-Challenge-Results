@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "30"]
+[White "Chip (by: Evan)"]
+[Black "MiniMagnus (by: Erik Fast)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nc6 5. Bc4 e5 6. Ng5 Nh6 7. O-O Be7 8. d3 O-O 9. Nge4 Qg6 10. Nd5 Bd8 11. Bxh6 Qxh6 12. c3 Kh8 13. Qb3 f5 14. Qa3 g5 15. Ng3 f4 16. Ne4 a5 17. b4 f3 18. gxf3 Rxf3 19. Nd2 Rh3 20. Nxc7 Rxh2 21. Bd5 Bxc7 22. b5 e4 23. Qf8+ Qxf8 24. bxc6 Qf4 25. Nxe4 Rh1+ 26. Kg2 Bh3+ 27. Kxh1 Qh2# 0-1

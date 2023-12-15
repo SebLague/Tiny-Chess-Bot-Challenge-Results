@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "7"]
+[White "Good Bot Bad Bot (But Really, Both Are Terrible Bots, Also This In The Parenthesis Is Part Of The Name) (by: Legend)"]
+[Black "BitBlunderer (by: Till Zemann (GitHub: https://github.com/till2 :D))"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d3 e5 2. f4 exf4 3. Bxf4 Qh4+ 4. Bg3 Qf6 5. Bxc7 Qxb2 6. Bxb8 Rxb8 7. Nd2 Bb4 8. Qb1 Qd4 9. Qxb4 Qxb4 10. Rb1 Qe7 11. Rxb7 Bxb7 12. Nc4 Qb4+ 13. Kf2 Qc5+ 14. Ke1 Bd5 15. Nb6 Qc3+ 16. Kf2 axb6 17. Nf3 Qf6 18. Ke3 Nh6 19. h3 Nf5+ 20. Kd2 Ng3 21. Rh2 Nxf1+ 22. Ke1 Nxh2 23. Nxh2 Qd4 24. a3 Qc3+ 25. Kd1 Qe5 26. Kc1 Qxh2 27. Kd2 Qe5 28. h4 Qd4 29. c4 Bxc4 30. e4 Qxd3+ 31. Kc1 Qxe4 32. Kd2 Ke7 33. g3 Ke6 34. a4 Qd4+ 35. Kc2 Kd5 36. Kc1 Ba2 37. Kc2 f5 38. g4 fxg4 39. a5 bxa5 40. h5 Rhc8# 0-1

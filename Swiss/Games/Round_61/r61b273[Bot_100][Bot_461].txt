@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "60"]
+[White "PrayForMeBot (by: João)"]
+[Black "CopyBot (by: bull313)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. e4 d5 2. exd5 Qxd5 3. c4 Qxd2+ 4. Kxd2 Bh3 5. Nxh3 Na6 6. Qe1 Kd8 7. Qd1 Ke8 8. Qe1 Kd8 9. Qd1 Ke8 10. Qe1 Kd8 1/2-1/2

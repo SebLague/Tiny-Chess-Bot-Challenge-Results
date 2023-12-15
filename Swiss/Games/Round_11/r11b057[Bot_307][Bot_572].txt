@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "10"]
+[White "Stephanee (by: Elijah Bradshaw)"]
+[Black "Vast V2 (by: Joseph Pasfield)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. f4 exf4 3. h4 d5 4. Nc3 d4 5. Na4 Nf6 6. e5 Ne4 7. c3 Ng3 8. Rh2 Nc6 9. Bb5 Bd7 10. cxd4 Nxd4 11. Bxd7+ Qxd7 12. Nc3 O-O-O 13. Nf3 Qf5 14. Nxd4 Rxd4 15. Kf2 Bc5 16. h5 Qd3 17. Ne2 Re4+ 18. Ke1 Rxe2+ 19. Qxe2 Qxe2# 0-1

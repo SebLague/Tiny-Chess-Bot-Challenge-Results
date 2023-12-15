@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "21"]
+[White "Compact Scholar's mate (by: Chris)"]
+[Black "Chess Bot (by: M)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e5 2. Bc4 d5 3. Qf3 dxc4 4. h4 Bd6 5. Qd5 Nf6 6. Qxc4 Be6 7. Qd3 c5 8. a4 c4 9. Qe2 Nc6 10. Qf3 Bd5 11. e4 Bxe4 12. Qe2 Nd4 13. Qxc4 Rc8 14. Qa2 Nxc2+ 15. Ke2 Nxa1 16. Nc3 Bxg2 17. Rh2 Bd5 18. Nxd5 Rxc1 19. Nxf6+ gxf6 20. Nh3 Nc2 21. f4 Re1+ 22. Kf3 e4+ 23. Kg4 h5+ 24. Kg3 Rg8+ 25. Kf2 Qb6+ 26. d4 exd3+ 27. Kf3 Nd4+ 28. Kf2 Nf3+ 29. Kxf3 Qe3# 0-1

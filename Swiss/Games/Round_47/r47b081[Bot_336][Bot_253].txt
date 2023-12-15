@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "46"]
+[White "EpsilonCheck (by: aymco)"]
+[Black "Squeedo (by: David Giesegh)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. e5 Nd5 3. Qf3 Nb4 4. Qe4 e6 5. c3 N4c6 6. g4 d5 7. exd6 cxd6 8. a4 d5 9. Qf3 Qc7 10. h4 f6 11. g5 Qe5+ 12. Ne2 d4 13. d3 a6 14. Bf4 Qc5 15. gxf6 a5 16. fxg7 Bxg7 17. Rg1 Rg8 18. cxd4 Nxd4 19. Nxd4 Qxd4 20. Nc3 Qc5 21. Be3 Qxc3+ 22. bxc3 Bxc3+ 23. Ke2 Rxg1 24. Rc1 Nd7 25. Rxc3 Kd8 26. Qf7 b5 27. axb5 h6 28. f3 Rh1 29. Qg8+ Ke7 30. Rxc8 Rxc8 31. Qxc8 Rxh4 32. Qc7 Rh5 33. Qxa5 Rh2+ 34. Kd1 Rh1 35. Qb4+ Kf7 36. Qf4+ Nf6 37. Bd4 e5 38. Qxe5 Nd7 39. Qf4+ Ke6 40. Ke2 Ke7 41. Qg4 Rh2+ 42. Bg2 Kd8 43. Bg1 Rxg2+ 44. Qxg2 Ne5 45. b6 Nd7 46. b7 Kc7 47. Qg7 Kc6 48. Qxd7+ Kxd7 49. b8=Q Ke6 50. Qh8 Kd5 51. Qf6 h5 52. f4 h4 53. f5 h3 54. Bf2 h2 55. Be3 h1=Q 56. Qe6# 1-0

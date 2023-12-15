@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "59"]
+[White "AUR Chessbot (by: Soul Senshi)"]
+[Black "Fool's Silver (by: Ethan Latymer (Sozius))"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e5 2. Nd5 c5 3. Nf3 Nc6 4. Rb1 Qa5 5. e4 Qxa2 6. Nc7+ Kd8 7. Nxa8 h6 8. Bb5 Nb8 9. Nxe5 Qxb1 10. Nxf7+ Ke7 11. Nxh8 Qa2 12. Ng6+ Ke8 13. Nc7+ Kd8 14. Nd5 Bd6 15. Nh8 c4 16. Nf7+ Ke8 17. Nc3 Qa1 18. Nxd6+ Kd8 19. Bxc4 b6 20. Bxg8 g6 21. Bd5 g5 22. d4 h5 23. Bxg5+ Kc7 24. Ncb5# 1-0

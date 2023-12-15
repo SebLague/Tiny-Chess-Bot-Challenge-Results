@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "29"]
+[White "Larry (by: Joshua: Use "Names" as a nickname if possible or necessary. Thanks!)"]
+[Black "Generic Chess Bot #1000000 (by: Anthony)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. Bc4 Nc6 3. Qf3 e6 4. g3 Qe7 5. Bb5 Nd4 6. Qd3 Qc5 7. Nh3 Nxc2+ 8. Ke2 Nxa1 9. a4 Qh5+ 10. f3 Qxh3 11. Qd4 Qg2+ 12. Qf2 Qxh1 13. h3 Qxc1 14. h4 Qxb1 15. e5 Nd5 16. a5 Qxb2 17. Ba4 Nc3+ 18. Ke1 Qb1+ 19. Bd1 Qxd1# 0-1

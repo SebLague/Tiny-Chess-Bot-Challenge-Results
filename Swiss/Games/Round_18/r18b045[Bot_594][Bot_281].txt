@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "17"]
+[White "FetaCheese_Bot (by: Dimitris Dallas)"]
+[Black "timecat-mini (by: Gourab Ghosh)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. Nc3 Nc6 3. Bd3 e5 4. Nf3 Bc5 5. h4 O-O 6. Nd5 d6 7. c4 Bg4 8. b3 Bd4 9. Nc3 Nb4 10. Be2 Bxf3 11. gxf3 Nh5 12. a3 Nc6 13. Ra2 Nf4 14. Bf1 f5 15. Nb5 Bb6 16. d3 Ne6 17. Be3 Bxe3 18. fxe3 f4 19. exf4 Rxf4 20. h5 a6 21. Nc3 Ncd4 22. Rf2 Rf7 23. Bh3 Nf4 24. Bf1 Qg5 25. Rfh2 Nxd3+ 26. Bxd3 Qe3+ 27. Ne2 Nxf3+ 28. Kf1 Nxh2+ 29. Ke1 Raf8 30. Rxh2 Rf1# 0-1

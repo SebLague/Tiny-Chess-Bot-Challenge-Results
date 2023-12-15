@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "GenerousBoi (by: Uls)"]
+[Black "RedVallium (by: Piotr Bożek)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. b4 e5 2. g4 Bc5 3. e3 Qh4 4. bxc5 Qxf2+ 5. Kxf2 b6 6. d3 bxc5 7. Ke1 c6 8. Kd2 d6 9. Kc3 Bxg4 10. Kb2 Bxd1 11. h4 Bxc2 12. e4 Bxb1 13. Kxb1 h6 14. Rh2 h5 15. Rd2 c4 16. Ba3 cxd3 17. Rxd3 f6 18. Bxd6 a6 19. Bb4 a5 20. Be1 c5 21. Nh3 a4 22. Kb2 c4 23. Re3 a3+ 24. Rxa3 Rxa3 25. Rb1 Rxa2+ 26. Kxa2 f5 27. Ka1 fxe4 28. Ng5 c3 29. Bc4 g6 30. Nxe4 g5 31. Bxc3 gxh4 32. Rb7 h3 33. Nf6+ Nxf6 34. Re7+ Kxe7 35. Ba6 Nxa6 36. Bb2 h4 37. Bxe5 h2 38. Bb8 Rxb8 39. Ka2 h1=Q 40. Ka3 Qa1# 0-1

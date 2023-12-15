@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "7"]
+[White "MinimaxAttackerBot5000 (by: ChrisCat123)"]
+[Black "Reckless Ragnar (by: Magnús  Á. Magnússon)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 e5 2. Nb5 c6 3. Na3 Qh4 4. Nf3 Qf6 5. Rb1 e4 6. Ng1 Bb4 7. Ra1 Bxa3 8. Rb1 Bc5 9. Nh3 d5 10. Ra1 Bxh3 11. e3 Bc8 12. Qh5 Be7 13. Ke2 g6 14. Qh3 Bxh3 15. gxh3 Qf3+ 16. Ke1 Qxh1 17. d3 exd3 18. c3 Nf6 19. Rb1 Ne4 20. Ra1 Bh4 21. Rb1 O-O 22. Ra1 Qg1 23. Rb1 d2+ 24. Bxd2 Qxf2+ 25. Kd1 Qxd2# 0-1

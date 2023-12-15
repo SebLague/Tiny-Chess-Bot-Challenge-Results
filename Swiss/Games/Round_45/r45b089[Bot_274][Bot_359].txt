@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "44"]
+[White "BoringBot (by: Carson Bates)"]
+[Black "FENcer (by: Shlynz)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f3 Nf6 2. g3 Nc6 3. d3 e6 4. h4 Bd6 5. g4 Bg3+ 6. Kd2 Ke7 7. a3 Bf4+ 8. e3 Be5 9. c4 Qf8 10. g5 Ne8 11. d4 Bd6 12. d5 exd5 13. cxd5 Ne5 14. f4 Ng6 15. h5 Nxf4 16. exf4 Bxf4+ 17. Kd3 Bxc1 18. Qxc1 d6 19. Bh3 Bxh3 20. Nxh3 h6 21. Kd4 hxg5 22. Qe3+ Kd7 23. Qxg5 Nf6 24. Qf5+ Ke7 25. Re1+ Kd8 26. Nf4 Qg8 27. b4 Qh7 28. Qxh7 Rxh7 29. Rh1 g5 30. Nh3 Rxh5 31. Nf2 Rxh1 32. Nxh1 Nd7 33. a4 Ke7 34. Nd2 Ne5 35. b5 Rc8 36. a5 Rh8 37. a6 Rh4+ 38. Ke3 Rh3+ 39. Ke2 Rh2+ 40. Nf2 b6 41. Rg1 Rh5 42. Nde4 g4 43. Nxg4 Nxg4 44. Rxg4 Rxd5 45. Nc3 Rc5 46. Rg3 Re5+ 47. Re3 Ke6 48. Rxe5+ Kxe5 49. Ke3 Ke6 50. Kd4 Ke7 51. Nd5+ Kd7 52. Nb4 c5+ 53. bxc6+ Kc7 54. Kd5 b5 55. Na2 b4 56. Nxb4 f6 57. Nc2 f5 58. Nd4 f4 59. Nb5+ Kb6 60. c7 Kxb5 61. c8=Q Kb4 62. Qc4+ Ka3 63. Qc2 f3 64. Kc4 d5+ 65. Kc3 d4+ 66. Kc4 f2 67. Qb3# 1-0

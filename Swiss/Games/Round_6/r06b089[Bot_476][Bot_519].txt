@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "5"]
+[White "Minirose V2.23 (by: Tamplite Siphron Kents)"]
+[Black "BasicAlphaBeta (by: ThonyDragon)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 c6 2. Nf3 f5 3. Nc3 Qa5 4. Be3 Qb6 5. Rb1 Qb4 6. Ne5 Nf6 7. a3 Qa5 8. Bd2 Qa6 9. e4 Qb6 10. Bc4 d5 11. exd5 Qxd4 12. Qe2 Nbd7 13. Nf3 Qg4 14. dxc6 bxc6 15. O-O Ne4 16. Nxe4 fxe4 17. Bf7+ Kd8 18. Ng5 Ne5 19. Ba5+ Kd7 20. Qxg4+ Kd6 21. Nxe4# 1-0

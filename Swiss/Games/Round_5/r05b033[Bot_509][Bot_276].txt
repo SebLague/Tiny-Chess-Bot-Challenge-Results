@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "4"]
+[White "MapBot (by: Map)"]
+[Black "Ookttahbahblah (by: PhilipK)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. d4 e6 2. Nf3 Qf6 3. Nc3 Bb4 4. Bg5 Qf5 5. e3 h6 6. Bf4 Qa5 7. Qd3 g5 8. Be5 f6 9. Qg6+ Kf8 10. O-O-O Bxc3 11. Bxf6 Bxb2+ 12. Kxb2 Qb4+ 13. Kc1 Qa3+ 14. Kb1 Nxf6 15. Qxf6+ Kg8 16. Qg6+ Kf8 17. Qf6+ Kg8 18. Qg6+ Kf8 19. Qf6+ 1/2-1/2

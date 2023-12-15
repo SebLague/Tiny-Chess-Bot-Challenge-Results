@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "55"]
+[White "Minirose V2.23 (by: Tamplite Siphron Kents)"]
+[Black "The Grandiloquent Intelligentsia of Magnanimous Strategem: A Prodigiously Resplendent Embodiment of Erudite Chess Esotericism, Exuding Enigmatic Brilliance and Sublime Eloquence Whilst Enchantingly Tempering the Hallowed Battlefield of Intellectual Duels, Endeavoring to Transcend Acumen and Ascend to the Pantheon of Learned Peregrinations with an Efficacious Arsenal of Foresight and Sagacity, Humbling Opponents with Refined Gallantry, and Beckoning Discerning Disciples to Witness the Manifest Veracity of its Ascent to a Formidable Elo Quintessence (by: Giles Corey)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. Nf3 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Rf1 Re8 7. Bf4 Nc6 8. d5 e5 9. Bg5 Ne7 10. Rc1 c6 11. dxc6 bxc6 12. h3 Rb8 13. b3 Ra8 14. Be3 Bb7 15. a4 Qc7 16. b4 a5 17. b5 c5 18. Bd3 c4 19. b6 Qc6 20. Be2 Rad8 21. Nd2 d5 22. exd5 Nexd5 23. Nxd5 Qxd5 24. Bf3 e4 25. Be2 c3 26. Nc4 Qe6 27. Bd4 Nh5 28. Bxh5 Rxd4 29. Nxa5 Rxd1+ 30. Rxd1 e3 31. Be2 Bxg2 32. b7 Bxf1 33. Bxf1 e2 34. Rb1 Qd5 35. f3 Qxf3 36. Bxe2 Qxe2# 0-1

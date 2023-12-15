@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "evilbot v2 (by: aria1400)"]
+[Black "NIWTFWD (by: J&J Cervenan)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e5 2. Rb1 Qh4 3. a3 Qd4 4. Na2 Qd5 5. Nc3 Qc5 6. Na2 Nf6 7. b4 Qc4 8. Nh3 Qxa2 9. g4 Qxb1 10. g5 Ne4 11. d4 Bxb4+ 12. axb4 Qxb4+ 13. c3 Qxc3+ 14. Bd2 Qxd4 15. Qb1 Qxd2# 0-1

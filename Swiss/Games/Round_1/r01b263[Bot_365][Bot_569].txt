@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "KU_AI_BOT (by: Daniel Johnson)"]
+[Black "One Line and a Dream (by: Sliderlo)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 b5 2. Bxb5 a5 3. Qe2 a4 4. Qf3 e5 5. Qf5 Bd6 6. Nf3 Qf6 7. Qxf6 Ra6 8. Qxg7 Nh6 9. Qxh6 Nc6 10. Qf6 Nb4 11. Bc4 Bc5 12. Bxf7+ Kf8 13. Be6+ Ke8 14. Qxe5 Nd5 15. Bxd5+ Kd8 16. Qxh8+ Bf8 17. Qxf8# 1-0

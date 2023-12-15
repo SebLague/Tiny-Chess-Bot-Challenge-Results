@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "62"]
+[White "Capybara (by: Matěj Fencl)"]
+[Black "Game Tech Explained Bot (by: Game Tech Explained)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. d4 Nf6 3. e5 Nd5 4. c4 Nb6 5. d5 Nxe5 6. c5 Nxd5 7. Qxd5 Nc6 8. Be3 e6 9. Qd2 d6 10. Nc3 dxc5 11. Qxd8+ Kxd8 12. O-O-O Bd7 13. Nf3 Ke7 14. Bc4 Ke8 15. Rhe1 a6 16. Bf4 b5 17. Be2 Ra7 18. Kb1 Be7 19. h3 c4 20. a3 Rb7 21. Ne4 f5 22. Ng3 Bc5 23. Nh5 Rg8 24. Bh6 Kd8 25. Bxg7 Bxf2 26. Rf1 Bc5 27. Rxd7+ Kxd7 28. Nf6+ Ke7 29. Nxg8+ Kf7 30. Ng5+ Kxg7 31. Nxe6+ Kxg8 32. Nxc5 Ra7 33. Rxf5 Nd4 34. Rg5+ Kf8 35. Bh5 a5 36. Rd5 Nb3 37. Rf5+ Ke7 38. Ne4 Rb7 39. Rf7+ Ke6 40. Rxh7 a4 41. Bg4+ Kd5 42. Bf3 Ke5 43. Rd7 Ke6 44. Bg4+ Ke5 45. Nc3 Kf4 46. Bf3 Ra7 47. Nxb5 Ra5 48. Bc6 Ke5 49. Re7+ Kf6 50. Rxc7 Ke5 51. Rc8 Nc5 52. Re8+ Kf6 53. Nd6 Ra6 54. Rc8 Ke5 55. Nxc4+ Kd4 56. Nd2 Ra7 57. Nf3+ Ke3 58. Bb5 Ne4 59. Re8 Kf4 60. Bc6 Nc5 61. Nd4 Rh7 62. Ne2+ Kf5 63. g4+ Kf6 64. g5+ Kf5 65. Nd4+ Kf4 66. g6 Rg7 67. Be4 Kg5 68. Bc2 Kf6 69. Rc8 Nd7 70. Rc6+ Ke5 71. Nf5 Rg8 72. g7 Nf6 73. Rc5+ Kf4 74. Rc4+ Ke5 75. Rxa4 Rd8 76. Nh6 Rb8 77. Ng4+ Ke6 78. Bb3+ Rxb3 79. Nxf6 Rb8 80. g8=Q+ Rxg8 81. Nxg8 Kf7 82. Nh6+ Kf6 83. b4 Ke5 84. b5 Kd6 85. b6 Ke5 86. b7 Kd6 87. b8=Q+ Kc5 88. Qe5+ Kb6 89. Rb4+ Kc6 90. Rc4+ Kb6 91. Qc7+ Ka6 92. Ra4+ Kb5 93. Ra5# 1-0

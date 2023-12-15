@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "9"]
+[White "AttackBot (by: Kai Tabuchi (9 Years Old))"]
+[Black "Stockbrot (by: Steaky)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. b4 e5 2. Bb2 f6 3. Bxe5 fxe5 4. Qc1 Bxb4 5. Qb2 Qe7 6. Kd1 e4 7. Ke1 Bd6 8. Kd1 e3 9. Ke1 exf2+ 10. Kxf2 Qf7+ 11. Ke1 Qf2+ 12. Kxf2 Nf6 13. Ke1 Nc6 14. Kd1 Rf8 15. Ke1 b6 16. Kd1 Ng4 17. Qxg7 Rxf1# 0-1

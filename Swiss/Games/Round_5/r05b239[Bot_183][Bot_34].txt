@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "4"]
+[White "GPTGenerated (by: athibaul)"]
+[Black "SaveBot (or, "winning bot" as an alternative) (by: Rudy)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Na6 2. c3 Rb8 3. e3 Ra8 4. Bxa6 bxa6 5. Qb3 Rb8 6. Qxb8 Bb7 7. Qxb7 Qa8 8. Qxa8# 1-0

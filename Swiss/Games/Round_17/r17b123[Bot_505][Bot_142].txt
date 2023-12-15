@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "16"]
+[White "Terminus (by: Slayer8274)"]
+[Black "Minimaxibon v1 (by: NotSureWhyThisWorks)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c4 Nf6 2. Qb3 d6 3. Kd1 e6 4. Ke1 Be7 5. Kd1 Qd7 6. Ke1 Qc6 7. Kd1 Ne4 8. Ke1 Qb6 9. Qb4 Qxb4 10. Nf3 Qxc4 11. a4 Qxc1# 0-1

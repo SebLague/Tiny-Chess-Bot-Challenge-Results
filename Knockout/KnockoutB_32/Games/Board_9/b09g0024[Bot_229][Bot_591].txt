@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Knockout 32"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "Leonidas (by: DeveloperPaul123)"]
+[Black "Rigel (by: Antares (Github: Alex2262))"]
+[Result "0-1"]
+[TimeControl "30+0.1"]
+[Termination "Checkmate"]
+
+1. e4 c5 2. Ne2 d6 3. Nbc3 Nf6 4. d3 Nc6 5. d4 cxd4 6. Nxd4 e5 7. Nxc6 bxc6 8. Bc4 Be7 9. O-O O-O 10. Be3 Be6 11. Bxe6 fxe6 12. Rb1 d5 13. exd5 cxd5 14. Bd2 d4 15. Ne2 Ne4 16. Ng3 Nxd2 17. Qxd2 Qd5 18. Qe2 Rac8 19. a3 Bd6 20. Ne4 Bc7 21. Rbd1 Bb6 22. Rfe1 h6 23. h3 Rf4 24. g3 Rff8 25. c3 Kh7 26. Qc2 Kh8 27. Qe2 Qb3 28. Rd3 Qa2 29. Rf1 Rc7 30. Rd2 Qd5 31. Rdd1 Kh7 32. a4 Rd8 33. Rfe1 d3 34. Qh5 a6 35. a5 Ba7 36. Rd2 Rf8 37. b3 Rd7 38. c4 Qxa5 39. Red1 Kh8 40. h4 Bb6 41. Kg2 Rd4 42. f3 Qa3 43. Ng5 Qe7 44. Rxd3 a5 45. Ne4 Rfd8 46. Rxd4 Bxd4 47. Qg6 Rb8 48. Rd3 Qa3 49. Qxe6 a4 50. f4 axb3 51. fxe5 Qa1 52. Nd2 b2 53. Qf5 Bxe5 54. Nb1 Bf6 55. Rd7 Qa8+ 56. Qd5 Qxd5+ 57. Rxd5 Rb4 58. Rc5 Kh7 59. Nd2 b1=Q 60. Nxb1 Rxb1 61. h5 Rb3 62. g4 Bh4 63. Rc8 Rg3+ 64. Kh2 Rxg4 65. Kh3 Rd4 66. c5 Bf6 67. Kg2 Rd5 68. Kf3 Rxh5 69. Ke4 Kg6 70. Kd3 Kf5 71. Re8 Rh4 72. Rc8 Ke6 73. c6 Rd4+ 74. Ke2 Kd6 75. Ke3 Rc4 76. Rh8 Kxc6 77. Rf8 Kd5 78. Rh8 Rc3+ 79. Ke2 Ke4 80. Re8+ Be5 81. Kd2 Rb3 82. Rh8 Rb2+ 83. Ke1 Kf3 84. Re8 Bf4 85. Kd1 g5 86. Ra8 g4 87. Ra3+ Be3 88. Ra8 g3 89. Rf8+ Bf4 90. Rg8 g2 91. Rg7 Rd2+ 92. Ke1 Rc2 93. Rg3+ Kxg3 94. Kd1 Rd2+ 95. Kc1 g1=Q# 0-1

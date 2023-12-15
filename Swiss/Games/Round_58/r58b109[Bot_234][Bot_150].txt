@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "57"]
+[White "Shallow Blue (by: Mikolaj W)"]
+[Black "jmcgbot (by: jmcg)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. b3 e5 2. Nc3 f5 3. e4 fxe4 4. Qh5+ Ke7 5. Qxe5+ Kf7 6. Bc4+ d5 7. Bxd5+ Kg6 8. Bxe4+ Kf7 9. Bd5+ Kg6 10. Qg3+ Kh6 11. d3+ Kh5 12. Bf3+ Bg4 13. Qxg4# 1-0

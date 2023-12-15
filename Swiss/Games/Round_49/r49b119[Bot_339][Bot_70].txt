@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "48"]
+[White "TinyNoTimeToCodeChessEngine (by: )"]
+[Black "applemethod-orz (by: RedBlackTree)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a4 e6 2. c4 d5 3. e3 Ne7 4. cxd5 exd5 5. Qh5 d4 6. Bc4 Ng6 7. exd4 Qxd4 8. Bb5+ c6 9. Qe2+ Be6 10. Nf3 Qc5 11. Nc3 Nf4 12. d4 Nxe2 13. dxc5 Nxc1 14. Rxc1 cxb5 15. Nxb5 Kd8 16. Rd1+ Kc8 17. b4 Bb3 18. Ra1 Na6 19. Ra3 Bd5 20. Re3 Bc6 21. Rb3 b6 22. Ne5 Bxg2 23. Rg1 Bd5 24. Rc3 bxc5 25. bxc5 f6 26. Rd3 Nb4 27. Rxd5 Nxd5 28. Nf7 Rg8 29. Nh6 Ne7 30. Nd6+ Kd8 31. Nxg8 Nxg8 32. a5 Kd7 33. a6 Kc6 34. Ne4 Re8 35. Rg4 f5 36. Rg3 Rxe4+ 37. Kf1 Kxc5 38. Rg5 g6 39. Rg3 Ra4 40. Rc3+ Rc4 41. Re3 Bd6 42. Re8 Ne7 43. Ra8 Kb6 44. Ke2 Bxh2 45. Kd3 Rc8 46. Rxc8 Nxc8 47. Kc2 Bg1 48. Kd1 Bxf2 49. Kd2 Kxa6 50. Kd1 Kb5 51. Kd2 Kc4 52. Kd1 Be3 53. Ke1 Nd6 54. Kd1 Ne4 55. Ke2 Kd4 56. Kd1 Kd3 57. Ke1 Ng3 58. Kd1 f4 59. Ke1 a5 60. Kd1 f3 61. Ke1 f2+ 62. Kd1 f1=Q# 0-1

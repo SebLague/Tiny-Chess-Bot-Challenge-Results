@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "30"]
+[White "Reaper (by: thesharpestknife)"]
+[Black "TinyNoTimeToCodeChessEngine (by: )"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 f5 2. Nc3 c5 3. d4 Qc7 4. e4 cxd4 5. Nd5 Qc5 6. b4 Qd6 7. Bf4 e5 8. Bxe5 Qxb4+ 9. Nxb4 Bxb4+ 10. Nd2 h5 11. exf5 Ne7 12. Bxg7 Rh7 13. f6 Nd5 14. Bd3 Ne3 15. fxe3 Bxd2+ 16. Kxd2 Rxg7 17. Qxh5+ Rf7 18. Qh8+ Rf8 19. Bg6+ Kd8 20. Qxf8+ Kc7 21. Qxc8+ Kxc8 22. f7 dxe3+ 23. Kxe3 Kc7 24. f8=Q a5 25. Be4 a4 26. Rab1 Ra7 27. Qc5+ Nc6 28. Bxc6 Kb8 29. Qd6+ Ka8 30. Qf8# 1-0

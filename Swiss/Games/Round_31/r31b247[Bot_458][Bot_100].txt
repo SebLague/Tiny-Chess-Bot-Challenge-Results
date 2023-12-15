@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "30"]
+[White "Mischievous bot (by: Guigui)"]
+[Black "PrayForMeBot (by: João)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f3 h6 2. c3 g5 3. h3 e5 4. g4 Bd6 5. e4 h5 6. Qe2 hxg4 7. fxg4 Rxh3 8. Nxh3 Nf6 9. Nf2 Nxe4 10. Nh3 Nxd2 11. Nxd2 b6 12. Qc4 b5 13. Qb3 a6 14. Qd5 c6 15. Qxd6 Bb7 16. Qxe5+ Kf8 17. Qd6+ Qe7+ 18. Be2 Qxd6 19. Nxg5 Ke7 20. b3 Kf6 21. Nge4+ Ke5 22. Rh5+ Kf4 23. Rf5+ Ke3 24. Rf3# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "19"]
+[White "Simple Minimax (by: Sidewinder7)"]
+[Black "AUR Chessbot (by: Soul Senshi)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. e4 Nc6 2. Qh5 Nd4 3. Kd1 d6 4. Ne2 Nf6 5. Qa5 Nxe2 6. Bxe2 c6 7. Qg5 Nxe4 8. d4 Nxg5 9. Bxg5 Qb6 10. Kc1 Qxd4 11. Re1 Qxf2 12. Bd1 Qxe1 13. Nd2 Bg4 14. Nf3 Bxf3 15. gxf3 e5 16. c4 Kd7 17. h4 f6 18. Bd2 Qxh4 19. f4 e4 20. f5 Kc7 21. Kc2 Kd7 22. Be2 Qh2 23. b3 Qxe2 24. Kc3 Qd3+ 25. Kb4 Qxd2+ 26. Ka4 Qb2 27. Rd1 Qxa2+ 28. Kb4 Qc2 29. Rh1 Qg2 30. Rd1 Qc2 31. Rh1 Qg2 32. Rd1 Qc2 1/2-1/2

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "51"]
+[White "Valibot (by: Valentin)"]
+[Black "InfuehrDaniel (by: InfuehrDaniel)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. Nc3 d5 3. d4 e6 4. Qd3 Bb4 5. a3 Bxc3+ 6. bxc3 O-O 7. h4 c5 8. dxc5 Qc7 9. Be3 Nbd7 10. Qd4 e5 11. Qb4 a5 12. Qb5 Ng4 13. O-O-O Nxe3 14. fxe3 e4 15. Ng5 Nf6 16. c4 Ng4 17. cxd5 Qe5 18. Rh3 Nf2 19. Rd4 h6 20. Nf3 exf3 21. Rxf3 Ng4 22. Qd3 Qh2 23. Qc3 Qg1 24. Rdf4 g6 25. d6 Nh2 26. Kd2 Nxf3+ 27. Rxf3 Bg4 28. Rf4 h5 29. Qe5 Rae8 30. Qd4 Qh2 31. Qc3 Qg3 32. a4 Bd7 33. Qd4 Bc6 34. Qc3 Re6 35. Rd4 Rf6 36. d7 Bxd7 37. Rxd7 Rxf1 38. Rd6 Re8 39. Qb3 Qe1+ 40. Kd3 Qxh4 41. Qxb7 Rd1+ 42. Kc3 Qe1+ 43. Kc4 Re4+ 44. Kb5 Rb1+ 45. Kc6 Rxb7 46. Kxb7 Qb4+ 47. Kc6 Qxa4+ 48. Kd5 Rxe3 49. Rc6 Rxe2 50. c3 Rd2+ 51. Ke5 Qxc6 52. Kf4 Qxg2 53. c6 Qg4+ 54. Ke3 Re2+ 55. Kd3 Qe4# 0-1

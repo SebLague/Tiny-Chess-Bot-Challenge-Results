@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "61"]
+[White "StevenBot (by: Steven)"]
+[Black "MrTimmy (by: Youknowwho8782)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c4 h6 2. c5 f5 3. d4 Nf6 4. b4 Ne4 5. b5 e6 6. a4 Qh4 7. a5 Qxf2# 0-1

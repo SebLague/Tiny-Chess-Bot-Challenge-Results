@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "offtensive Crane (by: Joao Santos)"]
+[Black "Scorraccio possente (by: Diego campione)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g3 d6 2. f3 c6 3. f4 e5 4. fxe5 dxe5 5. e3 Qd5 6. a4 Qxh1 7. Ne2 Bh3 8. d3 Qxf1+ 9. Kd2 Qg2 10. g4 Bxg4 11. h4 Qh2 12. e4 h5 13. c3 g6 14. c4 Bh6+ 15. Ke1 Qh1+ 16. Kf2 Qxd1 17. Nec3 Qxc1 18. Na3 Qxb2+ 19. Ke1 Qg2 20. Rb1 Qg1# 0-1

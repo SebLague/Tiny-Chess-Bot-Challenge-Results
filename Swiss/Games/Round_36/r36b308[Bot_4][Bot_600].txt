@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "35"]
+[White "Sore Loser Bot (by: Techno)"]
+[Black "Edbd (by: Ahmad)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. Nc3 h5 2. Nd5 g5 3. b3 f5 4. d4 e5 5. Qd2 exd4 6. Kd1 c5 7. b4 cxb4 8. Qxd4 b5 9. Nf3 1-0

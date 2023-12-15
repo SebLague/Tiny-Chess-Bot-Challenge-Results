@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "62"]
+[White "BlindfoldBot (by: Mk-0)"]
+[Black "Prince of Persia (by: flabbet)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a3 a5 2. b3 Ra6 3. e3 b6 4. Bxa6 Nxa6 5. c3 Bb7 6. f3 Nc5 7. b4 Nd3+ 8. Kf1 Ba6 9. Ne2 axb4 10. axb4 Bb5 11. Na3 Qa8 12. Nc2 Bc4 13. Rxa8# 1-0

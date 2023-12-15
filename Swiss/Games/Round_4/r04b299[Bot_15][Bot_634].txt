@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "3"]
+[White "The Peaceful King (by: Sam Lefforge)"]
+[Black "AeroBot (by: vakqDev)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 d6 2. Kd2 g5 3. Kd3 Qd7 4. Kc4 Qc6+ 5. Kb4 Bg4 6. Kb3 Nh6 7. Ka3 Na6 8. Kb3 Rb8 9. Ka3 Bd7 10. Kb3 Nf5 11. Ka3 Qa4# 0-1

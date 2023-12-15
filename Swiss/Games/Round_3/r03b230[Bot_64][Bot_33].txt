@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "offtensive Crane (by: Joao Santos)"]
+[Black "BalanceBot (by: vuT)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g3 h6 2. g4 g6 3. f3 f6 4. f4 e6 5. e3 d6 6. e4 c6 7. d3 b6 8. d4 a6 9. c3 h5 10. gxh5 g5 11. fxg5 Bg7 12. g6 f5 13. exf5 e5 14. dxe5 Bf8 15. exd6 Bg7 16. c4 c5 17. b3 Bxa1 18. f6 Bb2 19. Bxb2 Qc7 20. dxc7 b5 21. Qd8# 1-0

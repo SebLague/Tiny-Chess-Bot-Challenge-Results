@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "Pharouk (by: Pydjama)"]
+[Black "en passant bot (by: julie)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c4 g6 2. h4 g5 3. hxg5 Nf6 4. gxf6 c6 5. fxe7 Kxe7 6. Qa4 h6 7. g4 Qb6 8. g5 Qa5 9. Qxa5 f6 10. gxf6+ Kd6 11. Qd8 Bg7 12. c5+ Ke5 13. Nf3+ Ke4 14. d3+ Kf5 15. Bh3+ Kg6 16. Ne5+ Kh7 17. Bf5# 1-0

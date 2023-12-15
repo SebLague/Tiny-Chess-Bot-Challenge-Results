@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "23"]
+[White "Guppy (by: Rowburt)"]
+[Black "Spaghetto (by: Skae (Francesco))"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. d4 d5 3. exd5 Qxd5 4. c3 Bf5 5. Bf4 Qe6+ 6. Be2 Qg6 7. Bxc7 Bc2 8. Qc1 Bxb1 9. Rxb1 Rc8 10. Bf4 Nxd4 11. Bf1 e5 12. Bd2 Nf6 13. f3 Nd5 14. Kd1 Nb4 15. cxd4 Rxc1+ 16. Rxc1 Nxa2 17. Ra1 exd4 18. Nh3 Qb6 19. Bc4 Nb4 20. Ng5 Be7 21. Bxf7+ Kf8 22. Bb3 Bxg5 23. Bxg5 Nd3 24. Kc2 Qg6 25. Rxa7 Nf2+ 26. Kc1 Qxg5+ 27. Kb1 Nxh1 28. Ra8+ Ke7 29. Rxh8 Qxg2 30. Bd5 Nf2 31. Rb8 Qxh2 32. Rxb7+ Kd6 33. Bc4 d3 34. Rb8 Qh4 35. Bb3 d2 36. Ka2 d1=B 37. Bxd1 Nxd1 38. Kb3 Qe7 39. Rb4 Qf7+ 40. Kc2 Ne3+ 41. Kd2 Qxf3 42. Rb8 Ke5 43. Re8+ Kf4 44. Rf8+ Nf5 45. Rb8 Qe3+ 46. Kc2 Nd4+ 47. Kb1 Qe4+ 48. Ka2 g5 49. Rf8+ Ke3 50. Rb8 g4 51. Rf8 g3 52. Ka1 Qe6 53. Ra8 g2 54. Ra3+ Kf2 55. Rg3 Kxg3 56. b4 g1=Q+ 57. Kb2 Qb3# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "59"]
+[White "SlothBot (by: 0xFF)"]
+[Black "SaveBot (or, "winning bot" as an alternative) (by: Rudy)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Na6 2. e4 Rb8 3. d4 Ra8 4. Bxa6 bxa6 5. Nc3 Rb8 6. O-O Rxb2 7. Bxb2 Bb7 8. d5 Bxd5 9. Qxd5 Qa8 10. Qxa8# 1-0

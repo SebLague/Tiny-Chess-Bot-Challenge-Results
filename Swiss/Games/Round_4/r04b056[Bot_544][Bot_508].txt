@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "3"]
+[White "Saint Charles Bot (by: DATA USP)"]
+[Black "Plumbo (by: Luca Voros)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 e6 2. Nb5 Nf6 3. Nd4 Be7 4. Rb1 c5 5. Nb3 c4 6. Nd4 d5 7. e3 e5 8. Ndf3 Nc6 9. Ra1 O-O 10. Rb1 Bf5 11. Ng5 Nb4 12. a3 Bxc2 13. Nxf7 Rxf7 14. Qf3 Bxb1 15. axb4 Ne4 16. Qe2 Bd3 17. Qd1 Nxf2 18. Qa4 Bxf1 19. Qa5 Bxg2 20. b3 Nd3+ 21. Kd1 Rf1+ 22. Kc2 Rxc1# 0-1

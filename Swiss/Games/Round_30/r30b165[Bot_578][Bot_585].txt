@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "29"]
+[White "Exceptionally mid (by: Evan Rogerson)"]
+[Black "Negative Depth (by: Zoltán Kürti)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 Nc6 2. g3 Nf6 3. e3 e5 4. Bg2 d5 5. Bh3 d4 6. exd4 exd4 7. Qe2+ Be7 8. Bxc8 Qxc8 9. Nd1 Nb4 10. Qc4 Qe6+ 11. Qxe6 Kf8 12. Qf5 g6 13. Qe5 d3 14. Ne3 Ne4 15. Qxh8# 1-0

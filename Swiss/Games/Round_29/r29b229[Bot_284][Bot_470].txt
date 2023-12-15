@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "28"]
+[White "Arctiform's Bot (by: Arctiform)"]
+[Black "Hopeless Bot (by: Nepiceo)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f4 c6 2. h4 h6 3. b4 h5 4. c4 Nf6 5. d4 Qa5 6. bxa5 Na6 7. a4 b5 8. axb5 cxb5 9. cxb5 e6 10. Qc2 Nd5 11. g3 Nxf4 12. gxf4 Rb8 13. e3 Rxb5 14. Qxc8+ Ke7 15. Bxb5 f6 16. Qxd7# 1-0

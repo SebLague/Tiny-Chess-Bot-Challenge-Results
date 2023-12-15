@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "31"]
+[White "TinyLispChessBot (by: tr00)"]
+[Black "evilRatBot (by: Only_Mayonnaise)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Stalemate"]
+
+1. Na3 d6 2. Nb5 e6 3. Rb1 b6 4. Ra1 Bb7 5. Rb1 g6 6. Ra1 Bg7 7. Rb1 Nd7 8. Ra1 Ne7 9. Rb1 O-O 10. Ra1 Bxg2 11. Bxg2 Bxb2 12. Bxb2 Ne5 13. Bxa8 Qxa8 14. f3 Qxf3 15. exf3 Nxf3+ 16. Qxf3 Re8 17. Nxa7 Rb8 18. Bf6 Rd8 19. Bxe7 d5 20. Bxd8 Kf8 21. Bxc7 Kg7 22. Bxb6 h6 23. Kd1 d4 24. Bxd4+ f6 25. Qxf6+ Kg8 26. Qxe6+ Kh7 27. Kc1 h5 28. Qe4 h4 29. Kb1 Kh6 30. Kc1 h3 31. Kb1 g5 32. Nxh3 Kh5 33. Kc1 Kh6 34. Kb1 g4 35. Qf4+ Kg6 36. Rg1 Kh5 37. Rg3 gxh3 38. Kc1 1/2-1/2

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "16"]
+[White "Edbd (by: Ahmad)"]
+[Black "Betelchess (by: VY Canis Majoris (also special thanks to Gurren Lagann))"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. h4 f5 2. g4 e5 3. gxf5 g5 4. fxg6 Ke7 5. gxh7 Kd6 6. hxg8=B Qg5 7. hxg5 Kc5 8. f4 d5 9. fxe5 d4 0-1

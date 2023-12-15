@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "30"]
+[White "ShallowBot (by: Vaggelis Softsis)"]
+[Black "Prince of Persia (by: flabbet)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c3 a5 2. Qc2 Na6 3. Qf5 a4 4. Nf3 Ra7 5. Kd1 b6 6. Qe5 Ra8 7. e4 Bb7 8. Bb5 c6 9. Bc4 Ra7 10. Ng5 Nb4 11. Qd4 Nxa2 12. Rxa2 Ba6 13. Ke1 Bb5 14. Bxb5 cxb5 15. h3 Ra5 16. Kf1 Qb8 17. b4 axb3 18. Rxa5 bxa5 19. Qd5 Qa7 20. Qxf7+ Kd8 21. d4 Qc7 22. Na3 Nh6 23. Qd5 Qc8 24. Bf4 a4 25. Ne6+ Ke8 26. Nc5 b2 27. Ke2 b1=N 28. Rxb1 Qd8 29. Rb4 e6 30. Qh5+ g6 31. Qe5 Nf7 32. Qxh8 Nxh8 33. Be5 d6 34. Nxe6 Qc8 35. Nxf8 dxe5 36. c4 Qb7 37. f3 exd4 38. c5 Qe7 39. Nxh7 d3+ 40. Kd2 Qxh7 41. Rd4 Nf7 42. f4 Qh5 43. Nxb5 Qxc5 44. Ke3 d2 45. Nc7+ Qxc7 46. Ke2 Qxf4 47. Kd1 Qf1+ 48. Kc2 d1=B+ 49. Kc3 Qe1+ 50. Kd3 Be2+ 51. Ke3 Qg1+ 52. Kxe2 Qxg2+ 53. Ke3 Qxh3+ 54. Kd2 Qh2+ 55. Kd3 Ne5+ 56. Kc3 Qg3+ 57. Kb2 a3+ 58. Ka1 Qc3+ 59. Ka2 Qb2# 0-1

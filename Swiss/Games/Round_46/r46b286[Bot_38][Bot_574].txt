@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "45"]
+[White "Asymptotically optimal (by: Graham Gayler)"]
+[Black "Holy hell (by: Tyler Branscombe & Austin Daniel)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c4 g5 2. Qc2 b5 3. cxb5 c5 4. Qc4 a5 5. Kd1 g4 6. Qxc5 Nc6 7. Qxc6 Ra7 8. Qxc8 Qxc8 9. Nh3 Qxc1+ 10. Kxc1 Bh6 11. Na3 Bg5 12. Nxg5 Ra8 13. Kb1 Kd8 14. Kc1 Rc8+ 15. Kd1 Rb8 16. Kc1 Ra8 17. Nxf7+ Kc7 18. Kd1 Re8 19. Ne5 Kb7 20. Kc1 Kb8 21. Nf7 Rf8 22. Kb1 Rxf7 23. Kc1 Nf6 24. h3 Rc8+ 25. Nc4 Rxc4+ 26. Kb1 Rf8 27. hxg4 Rc5 28. Rg1 Rh5 29. gxh5 Kc8 30. b6 Ng4 31. b4 axb4 32. a4 bxa3 33. Rxa3 Rf3 34. Rxf3 Nh2 35. h6 Nxf3 36. Ka1 Nxg1 37. d4 Kb8 38. Ka2 Nh3 39. gxh3 Kb7 40. Kb1 Ka6 41. Ka1 Kb7 42. Kb1 Ka8 43. e4 Kb8 44. e5 d5 45. exd6 Ka8 46. dxe7 Kb8 47. Ba6 Ka8 48. Ka1 Kb8 49. d5 Ka8 50. Kb1 Kb8 51. e8=R# 1-0

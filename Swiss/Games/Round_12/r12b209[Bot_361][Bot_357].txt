@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "11"]
+[White "Thulium (by: Valentin POQUET)"]
+[Black "Hot Garbage (by: CT424)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d3 g6 2. Bg5 Bg7 3. Qc1 Bxb2 4. Qxb2 h5 5. Qxh8 f5 6. Qxg8# 1-0

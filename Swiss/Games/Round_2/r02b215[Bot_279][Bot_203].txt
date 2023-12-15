@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "CosmoDMBot (by: CosmoDM)"]
+[Black "1o1 (by: Pavan Manish)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Qe2 d6 3. Kd1 Nf6 4. d3 d5 5. exd5 Qxd5 6. Bd2 Qd4 7. Kc1 Ng4 8. Be3 Qa4 9. c3 Be6 10. h3 Nxe3 11. fxe3 Bxa2 12. d4 Na6 13. dxe5 O-O-O 14. Nd2 Nc5 15. Qe1 Rxd2 16. Kxd2 Nb3+ 17. Kd3 Nxa1 18. b3 Bxb3 19. Qc1 Bc4+ 20. Ke4 Bxf1+ 21. c4 Bxg2+ 22. Kd3 Bxh1 23. e4 Bc5 24. h4 Rd8+ 25. Kc3 Qb4# 0-1

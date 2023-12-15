@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "55"]
+[White "Sørensen's Minimax (by: Victor)"]
+[Black "MyFirstChessEngine (by: Jake Forsey)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. e3 Nc6 2. Qg4 Nh6 3. Qe4 d5 4. Qa4 Qd6 5. Bb5 d4 6. Qxd4 Qxd4 7. exd4 Be6 8. d3 Nf5 9. Ne2 Nd6 10. Bxc6+ bxc6 11. Bf4 Nb5 12. a4 Nd6 13. Nd2 Bd7 14. Bxd6 exd6 15. Nc4 d5 16. Ne3 Bb4+ 17. c3 Bd6 18. Kd2 Ke7 19. Kc2 Kf6 20. Ng3 Kg5 21. h4+ Kf6 22. a5 Bxg3 23. fxg3 Rae8 24. Kd2 Ke7 25. Ke2 Kf6 26. Rhf1+ Ke7 27. Nxd5+ Kf8+ 28. Ne3 Bg4+ 29. Kd2 Be6 30. c4 Rb8 31. Kc2 Rd8 32. d5 Bd7 33. d4 Re8 34. Kd3 Rb8 35. Kc2 Re8 36. Kd3 Rb8 37. Kc2 Re8 1/2-1/2

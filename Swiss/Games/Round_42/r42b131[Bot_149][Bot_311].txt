@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "41"]
+[White "Hammerhead (by: mhart)"]
+[Black "MyFirstChessEngine (by: Jake Forsey)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 Nf6 2. Nb5 Nc6 3. h3 a6 4. Na3 Ne5 5. e4 a5 6. Bb5 Ra7 7. f4 Ng6 8. f5 Nf4 9. Qf3 Nxg2+ 10. Qxg2 e6 11. Qf2 Nxe4 12. Qxa7 Qh4+ 13. Ke2 Ng3+ 14. Kf3 Nxh1 15. Qxa5 Qf2+ 16. Ke4 Qg2+ 17. Nf3 Nf2+ 18. Ke3 Bc5+ 19. d4 Nd1+ 20. Ke4 Bxa3 21. bxa3 Qxc2+ 22. Bd3 Nf2+ 23. Ke3 Qxd3+ 24. Kxf2 Qc2+ 25. Ke1 Qxf5 26. Qxf5 exf5 27. Bg5 O-O 28. Kf2 Kh8 29. Kg3 d5 30. Kh4 Re8 31. Re1 Re4+ 32. Kh5 Rxe1 33. Bf4 Rf1 34. Nh2 Rxf4 35. Ng4 fxg4 36. a4 gxh3 37. Kg5 Rg4+ 38. Kh5 h2 39. a5 h1=Q# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "45"]
+[White "EvilMirror (by: Hagan Gray)"]
+[Black "Why Use Full Brain (by: JustAdy)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a3 e5 2. d4 exd4 3. Qxd4 Ne7 4. Nd2 Nbc6 5. Ngf3 Nxd4 6. Ne5 Nxc2+ 7. Kd1 Nxa1 8. Nxd7 Bxd7 9. g4 Bxg4 10. b4 Ng8 11. f4 h5 12. h4 f5 13. a4 Bxb4 14. Rg1 Qxh4 15. Rxg4 hxg4 16. Nb3 Qe1# 0-1

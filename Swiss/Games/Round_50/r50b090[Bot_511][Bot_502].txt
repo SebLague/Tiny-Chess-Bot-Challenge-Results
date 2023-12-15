@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "49"]
+[White "roboleon v4.1 bugfixed (by: CLEC)"]
+[Black "Stickleback2 (by: Brent Mardell)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. Nc3 e6 3. a3 d5 4. e3 Nc6 5. Bb5 Bd6 6. d4 Bd7 7. Kf1 O-O 8. Bd2 Ne4 9. Nxe4 dxe4 10. Ne1 e5 11. Bxc6 Bxc6 12. Qh5 Re8 13. Bc3 Bb5+ 14. Kg1 g6 15. Qh6 Bf8 16. Qh3 exd4 17. exd4 Bc6 18. Ba5 Qxd4 19. Qc3 Qxc3 20. Bxc3 Bc5 21. Bf6 e3 22. Nd3 exf2+ 23. Nxf2 Re2 24. Bh4 Rxc2 25. Bg3 Rxb2 26. Kf1 Re8 27. a4 Bxa4 28. Rxa4 Rb1+ 29. Nd1 Rxd1+ 30. Be1 Rdxe1# 0-1

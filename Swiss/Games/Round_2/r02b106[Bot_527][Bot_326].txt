@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "Stickleback (by: Brent Mardell)"]
+[Black "Jbot (by: KaraokeCzar)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 e6 2. e4 h5 3. Nf3 f5 4. exf5 exf5 5. Nc3 d6 6. Bf4 g5 7. Nxg5 a5 8. Qxh5+ Rxh5 9. Nf3 c5 10. dxc5 b6 11. cxd6 Kd7 12. O-O-O b5 13. Bxb5+ Nc6 14. Bxc6+ Kxc6 15. d7 Bxd7 16. Rxd7 Kxd7 17. Rd1+ Ke8 18. Rxd8+ Rxd8 19. Kb1 Rd7 20. Nb5 Bc5 21. Nc3 Bxf2 22. Nb5 Bc5 23. Nc3 Ne7 24. Bg5 Ng8 25. Nd5 Rxd5 26. Bf4 a4 27. h3 a3 28. bxa3 Bxa3 29. c4 Rd8 30. Bc7 Rc8 31. c5 Rxc7 32. c6 Rxc6 33. Ne5 Rc1# 0-1

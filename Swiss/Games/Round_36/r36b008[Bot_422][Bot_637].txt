@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "35"]
+[White "FloppyChess 4.2 (by: Omsk)"]
+[Black "MiniMagnus (by: Erik Fast)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nc6 5. Nb5 Qd8 6. d4 a6 7. Nc3 Nf6 8. Be3 Qd6 9. Qd2 Bg4 10. Be2 e5 11. dxe5 Nxe5 12. Nxe5 Qxe5 13. Bxg4 Nxg4 14. O-O-O Bd6 15. Bd4 Qf5 16. Rhe1+ Kf8 17. h3 Bf4 18. Bc5+ Kg8 19. Be3 Bxe3 20. Rxe3 g6 21. hxg4 Qxg4 22. Nd5 Qc4 23. Nf6+ Kg7 24. Nh5+ gxh5 25. Rg3+ Qg4 26. Rxg4+ hxg4 27. Qg5+ Kf8 28. Rd7 Re8 29. Qf6 Re1+ 30. Kd2 Re2+ 31. Kxe2 Ke8 32. Qxf7# 1-0

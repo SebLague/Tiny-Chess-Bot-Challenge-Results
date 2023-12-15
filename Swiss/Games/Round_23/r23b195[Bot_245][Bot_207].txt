@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "22"]
+[White "Gen-Eric (by: Pressgoal)"]
+[Black "StevenBot (by: Steven)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 h5 2. Nb5 h4 3. Nf3 a5 4. Ne5 a4 5. c4 c5 6. Nc3 g5 7. Ne4 f5 8. Ng6 Rh7 9. Nxg5 Rh5 10. e3 Rxg5 11. f4 Rxg6 12. Qh5 d6 13. Qxg6+ Kd7 14. Qxf5+ Kc7 15. Qf7 Nh6 16. Qh5 e6 17. e4 b6 18. a3 Qf6 19. e5 Qxf4 20. Qe8 Qxe5+ 21. Kf2 Bg7 22. Qe7+ Kc6 23. Qe8+ Kc7 24. Qe7+ Bd7 25. g3 Qe4 26. Rg1 Ng4# 0-1

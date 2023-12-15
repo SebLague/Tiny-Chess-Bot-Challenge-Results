@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "58"]
+[White "DD9's chess bot (by: DigestDig9)"]
+[Black "Monster Queen (by: Andro 65)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 h5 2. e4 e6 3. Bf4 Bb4+ 4. Ke2 e5 5. Bxe5 Na6 6. Bxg7 Bf8 7. Bxf8 Kxf8 8. Nh3 Kg7 9. f4 d6 10. Rg1 Bg4+ 11. Kd3 Nb4+ 12. Kc3 Bxd1 13. Rh1 Nd5+ 14. exd5 c5 15. Bd3 Qa5+ 16. Kc4 Qb4# 0-1

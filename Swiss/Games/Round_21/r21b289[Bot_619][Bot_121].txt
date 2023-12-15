@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "20"]
+[White "Bad Player (by: Geopardgame)"]
+[Black "broken bot (by: Raj Gaurav)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 h5 2. Bg5 f5 3. h3 e5 4. dxe5 d5 5. c3 c5 6. Bd2 g5 7. Nf3 b5 8. Nd4 cxd4 9. Qc1 dxc3 10. f4 gxf4 11. a4 bxa4 12. b3 axb3 13. Ra3 cxd2+ 14. Kd1 dxc1=B 15. Ke1 a5 16. e6 h4 17. e4 fxe3 18. Nc3 f4 19. g3 hxg3 20. Ke2 d4 21. Ke1 dxc3 22. Ra2 bxa2 23. Rg1 Qd2# 0-1

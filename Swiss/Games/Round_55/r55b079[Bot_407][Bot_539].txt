@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "54"]
+[White "simple chess bot (by: 4a0I)"]
+[Black "Nautilus (by: Sherlock)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 Nc6 2. Qg4 d5 3. Qh5 Nf6 4. Qg5 h6 5. Qf4 e5 6. Qa4 Bc5 7. Bb5 Bd7 8. Ne2 a6 9. Bxc6 Bxc6 10. Qh4 d4 11. Qg3 Be7 12. exd4 exd4 13. Qxg7 Rh7 14. Qg3 Bd6 15. Qh3 Bd7 16. Qb3 Qe7 17. Qxb7 Rd8 18. Qxa6 Rg7 19. Qb7 Bg4 20. Qb5+ Bd7 21. Qd3 Rxg2 22. Kf1 Bc6 23. a3 Ng4 24. f3 Rxh2 25. Rg1 Rf2+ 26. Ke1 Bxf3 27. Qxf3 Rxf3 28. Rxg4 Bg3+ 29. Rxg3 Rxg3 30. Kf2 Rg2+ 31. Kxg2 Qxe2+ 32. Kg3 Qe1+ 33. Kg2 Qxc1 34. a4 Qxb2 35. Ra3 Qxb1 36. c4 d3 37. Rc3 f5 38. Kf2 Qa2 39. Kg3 Rd4 40. Rb3 Qxb3 41. a5 Rg4+ 42. Kf2 Qd1 43. Ke3 Qe2# 0-1

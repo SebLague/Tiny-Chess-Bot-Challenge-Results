@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "26"]
+[White "Culke (by: Colin Schepers)"]
+[Black "KunoVonHagenBot (by: Jakob)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 d5 2. c3 Qd6 3. Qa4+ Nc6 4. Nf3 Nf6 5. h4 Bf5 6. Qb5 O-O-O 7. a4 a6 8. Qc5 e5 9. Qxd6 Bxd6 10. Bg5 e4 11. Ng1 h5 12. Kd2 Na5 13. Kc2 e3+ 14. Kd1 Nb3 15. Ra3 Bxa3 16. Nxa3 exf2 17. Nh3 Ng4 18. e4 Bxe4 19. Bxd8 Kxd8 20. Ng5 Bg6 21. Rh3 Re8 22. Nc2 c6 23. Rf3 f6 24. Nh3 Na1 25. Nxa1 Re1+ 26. Kd2 Rxf1 27. Nc2 Be4 28. Ne3 Rb1 29. Rxf2 Rxb2+ 30. Ke1 Rxf2 31. Nxf2 Nxe3 32. Nxe4 dxe4 33. g3 Nc4 34. Kd1 Nb2+ 35. Kd2 Nxa4 36. c4 Nb6 37. Kc3 a5 38. c5 Nd5+ 39. Kc2 a4 40. Kc1 a3 41. Kc2 e3 42. g4 hxg4 43. h5 g3 44. h6 gxh6 45. Kd3 a2 46. Ke2 g2 47. Kd3 g1=Q 48. Kc4 e2 49. Kb3 a1=Q 50. Kc2 Qgd1# 0-1

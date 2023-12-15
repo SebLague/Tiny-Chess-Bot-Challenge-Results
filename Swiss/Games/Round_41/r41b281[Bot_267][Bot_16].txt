@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "40"]
+[White "TimsBot (by: Thomas Dvorak)"]
+[Black "Cirrus v0.1 (by: Bbrainstormer)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. h4 Na6 2. g4 Rb8 3. f4 Ra8 4. e4 Rb8 5. d4 Ra8 6. c4 Rb8 7. b4 Nxb4 8. a4 Ra8 9. h5 Rb8 10. h6 Nxh6 11. g5 Ra8 12. g6 fxg6 13. f5 Nxf5 14. e5 Nxd4 15. e6 Nxe6 16. Qxd7+ Kxd7 17. c5 Nxc5 18. a5 Kc6 19. Bb5+ Kxb5 20. Ra4 Kxa4 21. Nd2 Qxd2+ 22. Kf1 Qxc1+ 23. Kg2 Qxg1+ 24. Kf3 Qxh1+ 25. Kf4 Kxa5 26. Kg5 Ka4 27. Kf4 Ka3 28. Kg5 Ka2 29. Kf4 Ka1 30. Kg5 Kb1 31. Kf4 Ka1 32. Kg5 Kb1 33. Kf4 Ka1 1/2-1/2

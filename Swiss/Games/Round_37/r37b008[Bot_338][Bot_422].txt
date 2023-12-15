@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "36"]
+[White "Cosmos (by: Gonumen)"]
+[Black "FloppyChess 4.2 (by: Omsk)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. exd5 Nf6 3. Bb5+ Nbd7 4. c4 a6 5. Ba4 b5 6. cxb5 Nxd5 7. Nc3 N5b6 8. Bc2 axb5 9. Nxb5 Ba6 10. Nc3 e6 11. Nge2 Bd6 12. Nd4 O-O 13. Nc6 Qe8 14. Qf3 Nd5 15. Ne4 Nc5 16. Nxc5 Qxc6 17. d4 Bxc5 18. dxc5 Qxc5 19. Be4 Qb4+ 20. Bd2 Qxb2 21. Rd1 f5 22. Bxd5 exd5 23. Qxd5+ Kh8 24. f3 Qb6 25. Bf4 Rae8+ 26. Qe4 fxe4 27. fxe4 Rxe4+ 28. Kd2 Qb2# 0-1

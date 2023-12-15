@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "51"]
+[White "Ace V1.0.0 (by: Atad)"]
+[Black "Astolfo (by: Illuminate)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bb4+ 5. c3 Bd6 6. Nd2 Qf6 7. Nc4 Nge7 8. Nb5 Bc5 9. f4 Kd8 10. b4 Bb6 11. e5 Qe6 12. a4 a6 13. Nxb6 cxb6 14. Nd6 Rf8 15. Bc4 Qg6 16. O-O f5 17. Rf3 Qh5 18. Be2 Qg6 19. Rg3 Qh6 20. Bc4 g5 21. Rxg5 Kc7 22. Nf7 Rxf7 23. Bxf7 Rb8 24. Be3 d5 25. exd6+ Kd7 26. dxe7+ Kxe7 27. Bd5 Qf6 28. Bxb6 Bd7 29. Qe2+ Be6 30. Bc5+ Kd7 31. Bxe6+ Kc7 32. Rxf5 Qg6 33. Rd1 Rh8 34. Bd6+ Kd8 35. Bb8+ Ke8 36. Bf7+ Kf8 37. Bxg6+ Kg7 38. Rd7+ Ne7 39. Rxe7+ Kxg6 40. Qe6# 1-0

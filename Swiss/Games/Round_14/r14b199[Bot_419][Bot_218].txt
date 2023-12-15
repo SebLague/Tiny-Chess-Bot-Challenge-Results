@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "13"]
+[White "PrincessAtta (by: Bowser Bowering and Allyn Lloyd)"]
+[Black "Epimetheus (by: George Bland)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 d5 2. Bb5+ Nc6 3. Nc3 Qd6 4. a4 Bf5 5. e4 dxe4 6. d4 exd3 7. a5 Qe5+ 8. Be3 dxc2 9. Bxc6+ bxc6 10. Qd4 c1=Q+ 11. Rxc1 Qxa5 12. b4 e5 13. Qxe5+ Qxe5 14. f4 Qxe3+ 15. Nge2 Bxb4 16. g4 Bxg4 17. Rc2 Bxc3+ 18. Kd1 O-O-O 19. Rd2 Qxd2# 0-1

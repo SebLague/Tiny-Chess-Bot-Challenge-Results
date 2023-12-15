@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "21"]
+[White "Nautilus (by: Sherlock)"]
+[Black "Negative Depth (by: Zoltán Kürti)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. Bf4 Nc6 3. Nc3 e6 4. e4 h6 5. d5 exd5 6. exd5 Nb4 7. a3 Bc5 8. axb4 Bxb4 9. Ra4 Bxc3+ 10. bxc3 a5 11. Be2 Ne4 12. Rxe4+ Kf8 13. Nf3 a4 14. Bb5 Qe8 15. Rxe8+ Kxe8 16. Bxc7 f6 17. O-O a3 18. Re1+ Kf8 19. Qa1 Kg8 20. Bd6 Ra6 21. Bxa6 bxa6 22. Qxa3 h5 23. Qa4 Kh7 24. Qe4+ g6 25. Qe7+ Kh6 26. Bf4+ g5 27. Qxf6+ Kh7 28. Qf7+ Kh6 29. Re6+ dxe6 30. Bxg5# 1-0

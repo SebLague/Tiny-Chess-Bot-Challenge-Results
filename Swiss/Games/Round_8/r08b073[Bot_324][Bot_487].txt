@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "7"]
+[White "RayBot (by: Shahriar Rayed)"]
+[Black "Rodders (by: Chipperphilly)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 c6 2. Nc3 b5 3. b3 d5 4. Qh5 e6 5. Bd3 Qf6 6. Bb2 b4 7. Na4 Qh6 8. Qe5 a5 9. Qc7 Nd7 10. Qxc6 Rb8 11. Nf3 Qh5 12. Qc7 Ra8 13. Bb5 Qg4 14. Ne5 Bd6 15. Bxd7+ Bxd7 16. Qxd7+ Kf8 17. Qxf7# 1-0

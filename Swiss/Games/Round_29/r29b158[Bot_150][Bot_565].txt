@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "28"]
+[White "jmcgbot (by: jmcg)"]
+[Black "Reckless Ragnar (by: Magnús  Á. Magnússon)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 d5 2. Nf3 Qd7 3. h4 Qg4 4. b4 Nd7 5. a4 Ngf6 6. b5 a6 7. bxa6 bxa6 8. Nc3 c5 9. Ne5 Qxd4 10. Qxd4 cxd4 11. Nxd7 Bxd7 12. Nd1 Rc8 13. Bb2 e5 14. Kd2 Bf5 15. f3 Rxc2+ 16. Ke1 Nh5 17. a5 Ng3 18. Rh2 Bd7 19. Rb1 Bd6 20. Nf2 Bb4+ 21. Kd1 Ba4 22. Bxd4 Rd2+ 23. Kc1 Nxe2+ 24. Bxe2 Rc2+ 25. Kd1 Rc4+ 26. Rb3 Bf8 27. Bxc4 dxc4 28. Bxe5 cxb3 29. Bb2 Ba3 30. Nd3 O-O 31. Bxa3 b2+ 32. Kd2 b1=Q 33. Bxf8 Qd1+ 34. Kc3 Kxf8 35. h5 Qa1+ 36. Kb4 Qd4+ 37. Ka3 Qxd3+ 38. Kxa4 Qd1+ 39. Kb4 Qd4+ 40. Kb3 Qb4+ 41. Kxb4 f5 42. g4 fxg4 43. fxg4 Ke7 44. Rh4 Kf6 45. Rh3 h6 46. Kc5 Kg5 47. Rg3 Kf4 48. Rg2 Kf3 49. Rg1 Kf2 50. Rh1 Kg3 51. Kc6 Kxg4 52. Rg1+ Kh4 53. Rxg7 Kh3 54. Kd7 Kh4 55. Rg8 Kxh5 56. Rh8 Kg5 57. Ke8 Kg6 58. Rg8+ Kh7 59. Rf8 h5 60. Kd8 Kg7 61. Re8 Kg6 62. Kc8 Kf6 63. Rh8 Kg6 64. Kb7 Kg5 65. Kxa6 h4 66. Rg8+ Kf4 67. Kb7 h3 68. a6 h2 69. Rh8 Ke4 70. Rxh2 Kf3 71. a7 Kg3 72. Rh8 Kg4 73. a8=Q Kf5 74. Rg8 Kf4 75. Qf8+ Ke4 76. Rh8 Ke3 77. Qg7 Kd3 78. Rg8 Kd2 79. Qg3 Kc1 80. Rh8 Kd2 81. Qh3 Kc1 82. Rg8 Kb1 83. Qg2 Kc1 84. Rh8 Kb1 85. Rh1# 1-0

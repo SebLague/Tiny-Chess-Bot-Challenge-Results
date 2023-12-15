@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "25"]
+[White "mini_yoda (by: Dane Smith)"]
+[Black "KBot (by: Kristian Mischke)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f4 Nh6 2. d4 c6 3. Qd2 f5 4. Nf3 Na6 5. a4 g6 6. e3 d5 7. Bd3 Rg8 8. Ng5 Rg7 9. a5 Qd7 10. Nf3 Qc7 11. Ne5 Rg8 12. c4 dxc4 13. Bxc4 Rg7 14. Nc3 Nb8 15. Qc2 g5 16. fxg5 Rxg5 17. e4 f4 18. Bxf4 Rh5 19. Be2 Ng4 20. Qb3 Rxe5 21. dxe5 Nxe5 22. Bh5+ Kd8 23. O-O Nbd7 24. Qe6 Qd6 25. Qxd6 exd6 26. Rad1 Be7 27. a6 bxa6 28. h4 Bxh4 29. Rxd6 Ng6 30. Rxc6 Nxf4 31. Rxf4 Bg5 32. Rf3 Rb8 33. Rd6 Rxb2 34. Nd5 Be7 35. Re6 Bc5+ 36. Kh2 Nb8 37. Re8+ Kd7 38. e5 Kc6 39. Nb4+ Rxb4 40. Rxc8+ Kd5 41. Bf7+ Kd4 42. Re8 Ke4 43. Kg3 Rb7 44. Rf4+ Kd3 45. Rc8 Bg1 46. Rd8+ Kc2 47. Bd5 Rg7+ 48. Rg4 Bf2+ 49. Kf3 Rxg4 50. Kxg4 Kd1 51. Be4+ Ke1 52. Rxb8 h6 53. Rb1+ Kd2 54. e6 h5+ 55. Kxh5 Bc5 56. Rb7 Ke3 57. e7 Bxe7 58. Rxe7 Kd4 59. Bf3 Kc5 60. Rxa7 Kb5 61. Be2+ Ka5 62. Rxa6+ Kb4 63. Ra8 Kb3 64. g4 Kc3 65. Rd8 Kb4 66. g5 Ka4 67. g6 Ka3 68. g7 Kb2 69. g8=Q Kc2 70. Qg7 Kb3 71. Qg3+ Kb2 72. Qe3 Ka2 73. Qc3 Kb1 74. Kg4 Ka2 75. Kf3 Kb1 76. Kf2 Ka2 77. Ke1 Kb1 78. Rb8+ Ka2 79. Bc4# 1-0

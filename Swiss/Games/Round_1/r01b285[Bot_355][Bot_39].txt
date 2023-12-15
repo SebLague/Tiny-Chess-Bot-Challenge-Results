@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "Golden_Chess_Requiem (by: Dhruv S)"]
+[Black "Blind Bot (by: Moonwalker3)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. d4 Nf6 3. e5 Ne4 4. f3 b6 5. fxe4 e6 6. Nf3 g6 7. c4 a6 8. Nc3 Ne7 9. Bd3 Nc6 10. O-O Ne7 11. Ng5 h6 12. Nxf7 Rh7 13. Nxd8 Kxd8 14. Rxf8# 1-0

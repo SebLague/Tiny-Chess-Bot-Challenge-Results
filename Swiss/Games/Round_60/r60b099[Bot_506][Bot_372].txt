@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "59"]
+[White "maff-chess (by: Filip)"]
+[Black "CrimesAgainstDotNet (by: Reckoner (Robyn))"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Illegal move"]
+
+1. e4 Nc6 2. Nf3 d5 3. Bb5 dxe4 4. Ng5 Qd5 5. Nxf7 Qxf7 6. c4 a6 7. Ba4 Qxc4 8. Rf1 Bg4 9. Qxg4 Qxc1+ 10. Qd1 Qxd1+ 0-1

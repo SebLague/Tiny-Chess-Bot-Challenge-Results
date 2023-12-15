@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "3"]
+[White "PracticeBot (by: liamkc)"]
+[Black "Fishstock (by: Jess Baut & Hans)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a3 d6 2. a4 Be6 3. h3 Nd7 4. d4 f6 5. Na3 b6 6. Bg5 fxg5 7. Qd3 Bf7 8. Qxh7 Rxh7 9. c3 Ngf6 10. Kd1 Bb3+ 11. Nc2 Ne4 12. Ke1 Bxc2 13. e3 Rh8 14. Bc4 e6 15. Bxe6 Ke7 16. Bxd7 Qxd7 17. Ra3 Qe6 18. c4 Qxc4 19. g4 Qb4+ 20. Ke2 Qxb2 21. Ra1 Qxa1 22. h4 Qd1# 0-1

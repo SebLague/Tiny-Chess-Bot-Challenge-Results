@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "32"]
+[White "Guppy (by: Rowburt)"]
+[Black "PlinkBot (by: superplink)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. d4 e5 3. dxe5 Nxe5 4. Nc3 Nf6 5. Nd5 c6 6. Nc3 Bb4 7. Qd4 Qa5 8. a3 Bxc3+ 9. bxc3 O-O 10. Bf4 Re8 11. f3 c5 12. Qd1 Qxc3+ 13. Bd2 Qb2 14. Ne2 Qb6 15. Bc3 h6 16. Nf4 a6 17. Rb1 Qc7 18. Qd2 b6 19. Nd5 Nxd5 20. Qxd5 Nxf3+ 21. gxf3 Bb7 22. Qh5 Qd6 23. Rg1 g5 24. Rxg5+ Kf8 25. Rf5 Re7 26. Bc4 b5 27. Rxf7+ Ke8 28. Rg7+ Kd8 29. Ba5+ Qb6 30. Bxb6+ Kc8 31. Rg8+ Re8 32. Rxe8# 1-0

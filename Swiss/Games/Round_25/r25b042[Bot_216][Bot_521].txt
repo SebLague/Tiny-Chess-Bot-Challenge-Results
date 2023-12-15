@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "24"]
+[White "Average Chess bot (by: )"]
+[Black "LIA Chess (by: Patrick und Jannik)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. d4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 Nf6 6. e5 Nd5 7. c4 Nc3 8. Qd3 Na4 9. Qg3 Nxd4 10. Qxg7 Nxc2+ 11. Kd1 Nxa1 12. Qxh8+ Ke7 13. Bg5+ f6 14. Bxf6+ Kf7 15. Qg7+ Ke8 16. Qg8# 1-0

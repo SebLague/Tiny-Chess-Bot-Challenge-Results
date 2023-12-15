@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "ConvolutedBot (by: pwahs)"]
+[Black "quick and dirty (by: Rafael)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 e6 2. Nf3 Qf6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 d6 6. e4 Bd7 7. Bd3 Qe7 8. Rb1 Bc6 9. O-O Kd8 10. c4 Kc8 11. d5 exd5 12. exd5 Ba4 13. Re1 Qf6 14. Bg5 Bxc2 15. Qxc2 Kd7 16. Bf5+ Kd8 17. Qe4 Qe7 18. Bxe7+ Ke8 19. Bf6+ Kf8 20. Qe8# 1-0

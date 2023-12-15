@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "3"]
+[White "chaos bot (by: zer0)"]
+[Black "Igris (by: Deathfile78)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. Be3 Nd5 3. f3 Nxe3 4. b4 Nxd1 5. Kxd1 Nc6 6. c4 Nxd4 7. h4 e5 8. h5 Bxb4 9. a4 Qf6 10. Nh3 Qf5 11. h6 Qc2# 0-1

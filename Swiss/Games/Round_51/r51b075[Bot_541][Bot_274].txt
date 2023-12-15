@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "50"]
+[White "Metis (by: krox)"]
+[Black "BoringBot (by: Carson Bates)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 f6 2. Bd3 g6 3. Qg4 d5 4. Bxg6+ hxg6 5. Qxg6+ Kd7 6. Nc3 e6 7. d3 Bd6 8. Qg7+ Ne7 9. Qxf6 Rxh2 10. Rxh2 Bxh2 11. Nf3 Bd6 12. e4 dxe4 13. dxe4 Nbc6 14. Bg5 Nb4 15. O-O-O Qe8 16. Rd2 Nbc6 17. e5 Nxe5 18. Nxe5+ Kd8 19. Ne4 a5 20. Rxd6+ cxd6 21. Nxd6 Qd7 22. Nxd7 Kxd7 23. Qxe7+ Kc6 24. Nc4 a4 25. Qd6+ Kb5 26. Be3 a3 27. Kb1 axb2 28. Qb6+ Kxc4 29. Qb3# 1-0

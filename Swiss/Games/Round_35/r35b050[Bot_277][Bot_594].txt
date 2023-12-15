@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "34"]
+[White "Zambroni V.4.1.4 (by: JoeyZeeeeeee)"]
+[Black "FetaCheese_Bot (by: Dimitris Dallas)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nc6 2. d4 Nf6 3. d5 Nb4 4. c4 c5 5. a3 Na6 6. Nc3 h5 7. e4 Qc7 8. e5 Ng4 9. Qe2 f6 10. exf6 gxf6 11. Nb5 Qb8 12. Qc2 b6 13. Qg6+ Kd8 14. Be2 Bb7 15. Rb1 Nc7 16. Nc3 b5 17. d6 exd6 18. h3 Bxf3 19. Bxf3 Ke7 20. hxg4 Qe8 21. Qf5 hxg4 22. Rxh8 gxf3 23. Bh6 Bxh6 24. Rxe8+ Rxe8 25. Kf1 fxg2+ 26. Kxg2 Bd2 27. Ne4 Rg8+ 28. Kf3 Bg5 29. Qh7+ Kf8 30. Qxd7 Ne8 31. Nxc5 dxc5 32. Re1 Be3 33. Rxe3 Rg3+ 34. fxg3 f5 35. Rxe8# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "Two Day Bot (by: )"]
+[Black "Beancounting_pawnpusher (by: Arnt Veenstra)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 d5 2. e3 f5 3. b4 a5 4. bxa5 Rxa5 5. a3 b5 6. Be2 e6 7. d3 c5 8. Nfd2 g5 9. Bh5+ Ke7 10. Kf1 Bg7 11. Ra2 b4 12. a4 Kd6 13. g3 Bd7 14. Qe1 Rxa4 15. Rxa4 Bxa4 16. Kg2 Bxc2 17. Qg1 Bxd3 18. e4 fxe4 19. Nxe4+ Bxe4+ 20. f3 Bxb1 21. Qf2 Bd4 22. Qe1 e5 23. h3 h6 24. g4 Bh7 25. Rf1 Nf6 26. Bf7 Qf8 27. Be6 Kxe6 28. Qe2 Kf7 29. Qe1 c4 30. Qg3 c3 31. Rd1 c2 32. Rd2 Be3 33. Re2 Bxc1 34. Rxe5 Bf4 35. Qxf4 gxf4 36. Re7+ Qxe7 37. g5 Qe2+ 38. Kh1 c1=Q# 0-1

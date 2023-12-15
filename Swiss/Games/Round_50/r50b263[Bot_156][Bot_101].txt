@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "49"]
+[White "Blundering Baggins (by: kooleerv)"]
+[Black "HERO-bot (by: ELEMENTLHERO)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 h5 2. h4 b5 3. Bxb5 Nc6 4. Qf3 d5 5. Bxc6+ Qd7 6. Qxd5 a5 7. Bxd7+ Bxd7 8. Qxa8+ Bc8 9. Qxc8# 1-0

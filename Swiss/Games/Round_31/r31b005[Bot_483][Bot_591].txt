@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "30"]
+[White "Velocity++ (by: Tisajokt)"]
+[Black "Rigel (by: Antares (Github: Alex2262))"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 d5 2. Nf3 Nf6 3. Nc3 e6 4. Bf4 Bb4 5. a3 Bxc3+ 6. bxc3 Ne4 7. Qd3 O-O 8. Nd2 Qf6 9. Qe3 Nd6 10. g3 b6 11. Bg2 Ba6 12. O-O-O Nd7 13. Rhe1 Qg6 14. Qf3 Nf6 15. h3 Bb5 16. Be5 Ba4 17. Qd3 Rac8 18. Kb1 Bb5 19. Qe3 Nfe4 20. Nxe4 Nxe4 21. Rc1 f6 22. Bf4 c5 23. h4 Rfd8 24. Kb2 cxd4 25. cxd4 Re8 26. Qf3 Rc3 27. e3 Rec8 28. Re2 Qf7 29. Bh3 Qe7 30. Ra1 Bxe2 31. Qxe2 Rxc2+ 32. Qxc2 Rxc2+ 33. Kxc2 Nxf2 34. Bg2 e5 35. dxe5 fxe5 36. Bg5 Qc5+ 37. Kd2 h6 38. Bxh6 gxh6 39. Rc1 Qa5+ 40. Kc2 e4 41. Kb3 Qb5+ 42. Ka2 Qe2+ 43. Kb3 Nd3 44. Rc8+ Kf7 45. Rc7+ Ke6 46. Rc6+ Ke5 47. Bh3 Qb2+ 48. Ka4 b5+ 49. Ka5 Qxa3+ 50. Kxb5 Qb4+ 51. Ka6 Nc5+ 52. Rxc5 Qb6# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "61"]
+[White "noobot v1 (by: Arshia)"]
+[Black "TalkChess (by: Thomas Jahn, Mike Sherwin, Dmitry Shechtman)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. e3 Nc6 2. c3 Nf6 3. Bb5 e5 4. Nh3 Bc5 5. b4 Bb6 6. Bxc6 dxc6 7. Ng5 O-O 8. d4 Bg4 9. f3 exd4 10. fxg4 dxe3 11. Qxd8 Raxd8 12. h3 Nd5 13. O-O e2+ 14. Be3 exf1=Q+ 15. Kxf1 Bxe3 16. Nf3 c5 17. bxc5 Bxc5 18. g3 Rfe8 19. g5 Kf8 20. Nh4 Kg8 21. Nf3 Be3 22. c4 Nb4 23. Nc3 Nd3 24. Nd5 Bb6 25. Nxb6 axb6 26. Rb1 Nc5 27. Re1 Rxe1+ 28. Kxe1 Rd3 29. Ke2 h6 30. gxh6 gxh6 31. g4 Rd8 32. Kf2 Ne4+ 33. Ke2 Kh7 34. Ke3 Nc3 35. a3 Kg8 36. Ng1 Re8+ 37. Kd3 Ne4 38. Nf3 Re6 39. Nd4 Re8 40. Nf3 Re7 41. Kc2 Re8 42. Kd3 1/2-1/2

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "7"]
+[White "dumbot (by: slothinahat)"]
+[Black "EatingAndBeingEaten (by: GameBoy19 und Pete877)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f3 Nc6 2. f4 Nd4 3. c4 Nf5 4. e4 Nd6 5. b4 Nxe4 6. Na3 Ngf6 7. Qe2 Nd6 8. Qxe7+ Bxe7 9. h4 O-O 10. Be2 Nfe4 11. f5 Nxf5 12. d3 Bxb4+ 13. Kf1 Nfg3# 0-1

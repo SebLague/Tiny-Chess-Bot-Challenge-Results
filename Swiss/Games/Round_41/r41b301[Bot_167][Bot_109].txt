@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "40"]
+[White "Betelchess (by: VY Canis Majoris (also special thanks to Gurren Lagann))"]
+[Black "DeepScaredyBot (by: Jacob Sweeten)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Na3 Nf6 2. d4 a6 3. c4 c6 4. b4 a5 5. Rb1 c5 6. Rb3 Ng4 7. Be3 Nxf2 8. Rb1 Ra6 9. Rb3 Rb6 10. Rb1 Rxb4 11. Rb3 Rb5 12. Rb1 Rb4 13. Rb3 Rb5 14. Rb1 Rb4 1/2-1/2

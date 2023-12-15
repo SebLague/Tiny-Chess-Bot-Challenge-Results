@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "31"]
+[White "Aron's engine (by: Aron Martens)"]
+[Black "#enpassant4ever (by: trueberryless)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Na3 d6 2. Rb1 Qd7 3. Ra1 Na6 4. c3 g5 5. Rb1 Bg7 6. Ra1 Bxc3 7. dxc3 Qe6 8. Qd4 Qxe2+ 9. Kxe2 e5 10. Qc4 Kd8 11. Qxf7 Ne7 12. Bxg5 Bg4+ 13. Ke3 Bd7 14. Bxe7+ Kc8 15. Bf6 c6 16. Bxh8 Kb8 17. Qxd7 e4 18. Kf4 h6 19. Kf5 d5 20. Kf4 Nc7 21. Ke5 a6 22. Bg7 Ne6 23. Kxe6 e3 24. Qd8+ Ka7 25. Qd6 exf2 26. Qc5+ b6 27. Qxc6 fxg1=Q 28. Qxa8+ Kxa8 29. Rxg1 Kb8 30. Bxa6 d4 31. cxd4 Kc7 32. Bxh6 Kb8 33. Bf4+ Ka7 34. Bc8 b5 35. Nxb5+ Kb6 36. Kd5 Kxb5 37. Rab1 Ka4 38. Kc4 Ka5 39. Kd3 Kb6 40. Ke3 Kc6 41. Ke4 Kb5 42. Rbc1 Ka4 43. Kd3 Ka5 44. Ke3 Kb4 45. Kd2 Ka4 46. Kd1 Kb5 47. Ke2 Kb4 48. Kd1 Ka4 49. Ke1 Kb5 50. Kf2 Kb4 51. Ke1 Ka4 52. Kd1 Kb4 53. Kc2 Kc4 54. Kb1+ Kxd4 55. Kc2 Kc5 56. Kc3 Kc6 57. Kd3+ Kb5 58. Kd4 Kb6 59. Ke3 Ka7 60. Ke4 Kb6 61. Kf3 Ka7 62. Ke3 Ka8 63. Kd2 Ka7 64. Kc3 Ka8 65. Kc2 Ka7 66. Kd3 Ka8 67. Kc2 Ka7 68. Rgd1 Kb6 69. Kb1 Ka5 70. Rc2 Ka4 71. Ka1 Kb5 72. Rb1 Ka5 73. Be3 Kb5 74. Rbc1 Ka5 75. Kb1 Kb4 76. Ka1 Ka5 77. Kb1 Kb4 78. Ka1 Ka4 79. Kb1 Kb5 80. Ka1 Ka4 81. Kb1 Ka5 82. Ka1 Kb5 83. Rb1 Ka5 84. Rbc1 Ka4 1/2-1/2

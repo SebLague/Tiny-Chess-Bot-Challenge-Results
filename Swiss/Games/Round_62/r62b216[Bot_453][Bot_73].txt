@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "61"]
+[White "Chessica (by: Nicky Kitchingman)"]
+[Black "evilbot v2 (by: aria1400)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a3 d5 2. b3 b6 3. c3 e6 4. d3 Bd6 5. e3 a6 6. f3 Ne7 7. g3 Bc5 8. b4 Bd6 9. a4 g5 10. d4 Bb7 11. e4 dxe4 12. f4 gxf4 13. gxf4 Nd7 14. h3 Kf8 15. h4 Kg7 16. a5 bxa5 17. bxa5 Bd5 18. c4 Bc6 19. c5 Bd5 20. Qg4+ Kh6 21. f5+ e3 22. Bxe3+ Bf4 23. Bxf4# 1-0

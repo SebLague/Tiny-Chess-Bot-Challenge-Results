@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "45"]
+[White "Shadow (by: Zaid Alas4)"]
+[Black "Wee fella (by: Samm)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. b4 Bxb4 3. Qh5 d6 4. Qxe5+ dxe5 5. Nh3 a5 6. f3 Qh4+ 7. Kd1 c5 8. f4 Qg4+ 9. Be2 Qxg2 10. fxe5 Qxh1+ 11. Ng1 Qxg1+ 12. Bf1 Qxf1# 0-1

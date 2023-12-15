@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "51"]
+[White "AelChess (by: Aëldrexan)"]
+[Black "Zambroni V.4.1.4 (by: JoeyZeeeeeee)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. e3 g6 3. Nf3 Bg7 4. Bd3 O-O 5. O-O Nc6 6. c4 Nb4 7. Nc3 Nxd3 8. Qxd3 c6 9. e4 d5 10. cxd5 cxd5 11. e5 Ne4 12. Bf4 Bf5 13. Qb5 e6 14. Qxb7 Rb8 15. Qxa7 Rxb2 16. Nd1 Rb8 17. Ne3 g5 18. Bg3 Bg6 19. Rfc1 Rb2 20. Rc7 Re2 21. a4 Bh5 22. a5 g4 23. Ne1 Qg5 24. N1c2 Nxg3 25. hxg3 Rd2 26. Qb6 Bg6 27. a6 Bxc2 28. a7 Ra8 29. Qb8+ Qd8 30. Qxd8+ Rxd8 31. a8=Q Rxa8 32. Rxa8+ Bf8 33. Rcc8 h5 34. Rxf8+ Kg7 35. Rg8+ Kh6 36. Nxc2 Rxc2 37. Rh8+ Kg5 38. Rag8+ Kf5 39. Rxh5+ Ke4 40. Rxg4+ Kd3 41. Rf4 Rc1+ 42. Kh2 Ra1 43. g4 Re1 44. g5 Re4 45. Rxf7 Rg4 46. f4 Ke3 47. g3 Kf3 48. Ra7 Rxg3 49. Ra3+ Kg4 50. Rxg3+ Kxf4 51. g6 Ke4 52. Rg4+ Kf3 53. Kh3 Ke3 54. g7 Ke2 55. g8=Q Kd3 56. Qxe6 Kd2 57. Qxd5 Kc2 58. Qf3 Kb2 59. Rg2+ Kb1 60. Qf1# 1-0

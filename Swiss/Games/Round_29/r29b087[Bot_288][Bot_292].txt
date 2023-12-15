@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "28"]
+[White "Running Bot (by: Chris Pontius)"]
+[Black "Oh stupid one (by: Io)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c4 d5 2. Nf3 dxc4 3. e4 Bg4 4. Bxc4 b5 5. Bxb5+ c6 6. Be2 Nd7 7. O-O e5 8. d4 Ngf6 9. Nxe5 Bxe2 10. Qxe2 Bd6 11. Nxc6 Qc8 12. Ne5 Nxe5 13. dxe5 Bxe5 14. f4 Qc5+ 15. Kh1 Bc7 16. Be3 Qb4 17. a3 Qxe4 18. Nc3 Qe6 19. Qb5+ Qd7 20. Rad1 Qxb5 21. Nxb5 Bb8 22. Bc5 Ne4 23. Bd6 Nxd6 24. Nxd6+ Bxd6 25. Rxd6 O-O 26. b4 Rad8 27. Ra6 Rd7 28. g4 Re8 29. Kg2 Re6 30. Rxe6 fxe6 31. Kf3 Rd3+ 32. Ke4 Rxa3 33. Ke5 Re3+ 34. Kd6 Rb3 35. Kxe6 Rxb4 36. Ra1 Rxf4 37. g5 Rf7 38. Rd1 g6 39. Rd8+ Kg7 40. Rd7 Rxd7 41. Kxd7 a5 42. Ke8 a4 43. h4 a3 44. Kd7 Kf7 45. Kd8 a2 46. Kc8 a1=Q 47. Kb8 Ke6 48. Kb7 Kd6 49. Kb8 Qb1+ 50. Kc8 Qb6 51. h5 Qc7# 0-1

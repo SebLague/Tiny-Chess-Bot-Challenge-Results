@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "60"]
+[White "offtensive Crane (by: Joao Santos)"]
+[Black "Chemibot (by: Mike Chemi)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g3 f6 2. g4 e6 3. f3 e5 4. e3 h6 5. e4 Bc5 6. Ne2 a6 7. c3 g5 8. d3 c6 9. c4 Bb4+ 10. Kf2 Qb6+ 11. Kg2 a5 12. b3 d6 13. Kg3 Be6 14. Kh3 h5 15. c5 hxg4+ 16. Kg2 gxf3+ 17. Kxf3 g4+ 18. Kf2 Qxc5+ 19. Kg2 b5 20. Bb2 Rh5 21. Kg3 Qe3+ 22. Kg2 Qh3+ 23. Kg1 Qe3+ 24. Kg2 Qf3+ 25. Kg1 c5 26. Nc1 Qxd1 27. d4 cxd4 28. Kf2 Qc2+ 29. Be2 Qxb2 30. Nd3 Qxa1 31. Kf1 Qxb1+ 32. Kf2 Qxh1 33. Nxb4 Rxh2+ 34. Kg3 Qg2# 0-1

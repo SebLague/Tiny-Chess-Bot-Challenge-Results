@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "18"]
+[White "OppToss (by: Jan Stachurski)"]
+[Black "Hydra (by: ReiedLaw)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. d4 d5 3. Nc3 g6 4. Bg5 c6 5. e3 Bg7 6. Bd3 O-O 7. h3 Nbd7 8. Rf1 Re8 9. Rc1 e5 10. Nxe5 Nxe5 11. dxe5 Rxe5 12. Bf4 Re8 13. Qf3 Qa5 14. Bh6 d4 15. Bxg7 Kxg7 16. Rd1 dxc3 17. bxc3 Qxc3+ 18. Rd2 Be6 19. a4 Rad8 20. Qe2 c5 21. Qd1 c4 22. Qe2 cxd3 23. cxd3 Bc4 24. dxc4 Ne4 25. f3 Nxd2 26. Kf2 Nxf1 27. Qxf1 Rxe3 28. Kg3 Qe5+ 29. Kf2 Rxf3+ 30. Kxf3 Qf5+ 31. Ke2 Re8+ 32. Kd2 Qxf1 33. Kc3 Qe1+ 34. Kd4 Qe3+ 35. Kd5 Qe5# 0-1

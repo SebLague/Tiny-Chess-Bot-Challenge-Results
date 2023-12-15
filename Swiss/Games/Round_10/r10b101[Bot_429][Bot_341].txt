@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "9"]
+[White "LesMoutons (by: Beaud Rémi and Mechulam Antoine)"]
+[Black "AelChess (by: Aëldrexan)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 f5 4. Nc5 e5 5. Nd3 e4 6. Nfe5 exd3 7. exd3 Qe7 8. Qh5+ g6 9. Qe2 Bg7 10. Nxg6 hxg6 11. Qxe7+ Nxe7 12. Be2 Be5 13. O-O Bxh2+ 14. Kh1 f4 15. f3 Nf5 16. g4 Ng3+ 17. Kg2 Nxf1 18. Kxf1 O-O 19. Kg2 Re8 20. Bf1 Bg3 21. c3 c5 22. cxd4 cxd4 23. b3 Nc6 24. Bb2 a5 25. Rc1 Kf7 26. b4 axb4 27. a3 bxa3 28. Bxd4 Nxd4 29. Rc4 a2 30. Rc7+ Kf8 31. Rc1 Re1 32. Ra1 Rxa1 33. Be2 Nxe2 34. d4 Rg1+ 35. Kh3 a1=Q 36. d3 Qf1# 0-1

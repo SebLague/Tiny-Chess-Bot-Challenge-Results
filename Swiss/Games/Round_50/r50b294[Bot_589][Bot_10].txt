@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "49"]
+[White "Planck Bot (by: LadyOfSpades)"]
+[Black "nadjBot (by: Arman N)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 a5 2. Rb1 a4 3. Ra1 Ra5 4. Rb1 Rb5 5. Ra1 Rxb2 6. Rb1 Rxb1 7. Bb2 Rxd1+ 8. Kxd1 b5 9. Kc1 b4 10. Kb1 bxa3 11. Ka1 axb2+ 12. Kb1 a3 13. Nf3 c5 14. Rg1 c4 15. Rh1 c3 16. Rg1 cxd2 17. Rh1 d1=Q# 0-1

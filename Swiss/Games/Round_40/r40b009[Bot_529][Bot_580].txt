@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "39"]
+[White "NNBot (by: Jamie Whiting)"]
+[Black "Tyrant's V9 (by: Tyrant)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. Nc3 d5 3. e3 e6 4. d4 Be7 5. Bd3 O-O 6. O-O c5 7. Bd2 Nc6 8. dxc5 Bxc5 9. a3 Bd7 10. b4 Bd6 11. Qe2 a6 12. h4 Qc7 13. Rad1 Ne5 14. Nxe5 Bxe5 15. Qe1 Rac8 16. Ne2 Ne4 17. h5 Ba4 18. f4 Bb2 19. Rb1 Bf6 20. Rc1 Rfd8 21. h6 gxh6 22. c3 Bb3 23. Bxe4 dxe4 24. Nd4 Bc4 25. Qg3+ Kh8 26. Rf2 h5 27. Qh3 h4 28. Re1 Rg8 29. a4 Rg3 30. Qh2 Rcg8 31. Kh1 R8g4 32. a5 Qd7 33. Bc1 Kg8 34. Ba3 Qd5 35. Bc1 Qh5 36. Ne2 Bxe2 37. Rexe2 Bxc3 38. Bd2 Bxd2 39. Rxd2 h3 40. f5 exf5 41. Kg1 f4 42. Ra2 fxe3 43. Rfc2 Qd5 44. Qxg3 Rxg3 45. Kh2 Rxg2+ 46. Rxg2+ hxg2 47. Rxg2+ Kf8 48. b5 Qh5+ 49. Kg3 Qf3+ 50. Kh2 e2 51. Rxe2 Qxe2+ 52. Kg3 axb5 53. Kh3 Qf2 54. a6 bxa6 55. Kg4 Qf3+ 56. Kg5 h5 57. Kh6 Qg4 58. Kh7 Qg7# 0-1

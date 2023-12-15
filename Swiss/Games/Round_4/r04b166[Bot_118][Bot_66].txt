@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "3"]
+[White "BotThatLikesToPlayChess™ (by: Gary Dale)"]
+[Black "CapivaraBot (by: Danilo Luiz Rheinheimer)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. b3 h5 2. Bb2 f5 3. Qc1 d5 4. Kd1 c5 5. Ke1 b5 6. Kd1 a5 7. Ke1 e6 8. Kd1 h4 9. Ke1 f4 10. Kd1 d4 11. Ke1 g5 12. Kd1 e5 13. Ke1 g4 14. Kd1 e4 15. Ke1 c4 16. Qd1 cxb3 17. cxb3 b4 18. Qc1 Ne7 19. Qc5 Nbc6 20. Qc2 Bf5 21. Kd1 f3 22. gxf3 gxf3 23. e3 d3 24. Qc4 Rg8 25. Bf6 Bg7 26. Bxe7 Nxe7 27. Qb5+ Bd7 28. Qh5+ Kf8 29. Qxh4 Bxa1 30. Qxe4 a4 31. Qxb4 axb3 32. Ke1 bxa2 33. Kd1 axb1=B 34. Qxb1 Ba4+ 35. Qc2 dxc2+ 36. Kc1 Bb2+ 37. Kxb2 Rxg1 38. Ka1 c1=Q+ 39. Ka2 Qdxd2# 0-1

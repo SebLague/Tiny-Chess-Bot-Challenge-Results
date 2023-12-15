@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "32"]
+[White "Sir Checkmates-A-Lot (by: Felix)"]
+[Black "Captain Botvious (by: Selim Sheta)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e5 2. Qh5 d5 3. Qxe5+ Ne7 4. Qg3 d4 5. Qh4 dxe3 6. dxe3 f6 7. Qa4+ Nbc6 8. Qb3 Bf5 9. Qb5 Bxc2 10. Na3 Qd1# 0-1

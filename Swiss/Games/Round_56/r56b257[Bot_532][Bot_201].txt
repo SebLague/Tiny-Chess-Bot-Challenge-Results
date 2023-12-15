@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "55"]
+[White "PracticeBot (by: liamkc)"]
+[Black "charge forward v1 (by: steel chair)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f3 h5 2. a4 g5 3. c3 f5 4. Ra2 e5 5. Nh3 d5 6. Nxg5 Qxg5 7. Qb3 Qxd2+ 8. Nxd2 c5 9. Qxd5 b5 10. Qxa8 bxa4 11. Qxb8 a5 12. Qxc8+ Kf7 13. Qxf8+ Kg6 14. Qxg8+ Rxg8 15. Rxa4 h4 16. Rxh4 f4 17. Rxf4 exf4 18. g4 fxg3 19. hxg3 c4 20. Nxc4 a4 21. Kd2 a3 22. bxa3 Rg7 23. Bh3 Kh5 24. a4 Rxg3 25. Rd1 Rg2 26. Bxg2 Kh4 27. Nb6 Kg3 28. Bf1 Kh2 29. Ba3 Kh1 30. Kd3 Kg1 31. Ke3 Kh1 32. Re1 Kg1 33. Rc1 Kh1 34. Bc5 Kg1 35. Rb1 Kh1 36. Kf2 Kh2 37. Re1 Kh1 38. e4 Kh2 39. Nd5 Kh1 40. e5 Kh2 41. Ke3 Kh1 42. Ne7 Kh2 43. Re2+ Kh1 44. Bh3 Kg1 45. Rc2 Kh1 46. Rf2 Kg1 47. c4 Kh1 48. Ba3 Kg1 49. f4 Kh1 50. Nd5 Kg1 51. e6 Kh1 52. Re2 Kg1 53. Rg2+ Kf1 54. Nc7 Ke1 55. Rg1# 1-0

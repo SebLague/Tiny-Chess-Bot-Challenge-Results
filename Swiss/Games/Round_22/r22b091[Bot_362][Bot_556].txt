@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "21"]
+[White "nimbot (by: )"]
+[Black "Knightmare v2 (by: Default/IHasBone)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nh3 Nc6 2. Ng5 e5 3. Nf3 Qf6 4. Ng1 Bc5 5. e3 Nge7 6. Ke2 d5 7. f3 Be6 8. Ke1 a5 9. Bb5 Bf5 10. Kf1 e4 11. a3 Kd8 12. g4 Bxg4 13. h3 Na7 14. hxg4 Nxb5 15. a4 Na7 16. f4 g5 17. f5 Nac6 18. d3 Kc8 19. Rh5 Ne5 20. d4 Nxf5 21. gxf5 Qxf5+ 22. Kg2 b6 23. dxc5 bxc5 24. Na3 Nf3 25. Nxf3 Qg4+ 26. Kf2 Qxh5 27. b4 Qxf3+ 28. Qxf3 exf3 29. bxc5 g4 30. Bb2 Re8 31. Rh1 Rb8 32. Bc3 Re4 33. Rxh7 Rxa4 34. c6 g3+ 35. Kxg3 Rg4+ 36. Kxg4 Rb4+ 37. Bxb4 Kb8 38. Rh8+ Ka7 39. Bc5+ Ka6 40. Ra8# 1-0

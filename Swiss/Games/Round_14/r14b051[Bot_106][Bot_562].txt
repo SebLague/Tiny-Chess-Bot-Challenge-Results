@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "13"]
+[White "Miluva v2 [2550] (by: Möhrchen (Thilo M.))"]
+[Black "Marreco (by: Tutz)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe6+ 4. Nge2 Nf6 5. d4 Na6 6. Be3 Bd7 7. Nf4 Qb6 8. Bxa6 Qxb2 9. Ncd5 O-O-O 10. Rb1 Qxa2 11. Bxb7+ Kb8 12. Ba6+ Qxb1 13. Qxb1+ Ka8 14. Nxc7# 1-0

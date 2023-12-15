@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "45"]
+[White "jebChess (by: jibux)"]
+[Black "Chark Bot (by: Team Chark V1)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e5 2. d4 e4 3. Qg4 Nf6 4. Qf5 Nc6 5. Bb5 Bb4+ 6. Kd1 O-O 7. Qf4 a6 8. Ba4 b5 9. Bb3 d5 10. Qg5 Bg4+ 11. f3 exf3 12. gxf3 h6 13. Qh4 Bh5 14. Ke2 g5 15. Qg3 Na5 16. Qh3 Qc8 17. Bxd5 Qxh3 18. Bxf7+ Kxf7 19. Nxh3 g4 20. f4 gxh3+ 21. Kf1 Bf3 22. Rg1 Ne4 23. c3 Bd6 24. Nd2 Nxd2+ 25. Bxd2 Nc4 26. Bc1 Rg8 27. Rxg8 Rxg8 28. f5 Bxh2 29. b3 Rg2 30. bxc4 Bg3 31. cxb5 axb5 32. Rb1 Rg1+ 33. Kxg1 h2+ 34. Kf1 Kf6 35. Rxb5 Kf7 36. Rb1 h1=Q# 0-1

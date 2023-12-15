@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "17"]
+[White "the mater (by: )"]
+[Black "AlphaBetaZero (by: MV974)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. d4 Nf6 3. e5 Ng8 4. f4 e6 5. h4 Nh6 6. g4 d5 7. a4 Bb4+ 8. c3 Be7 9. g5 O-O 10. gxh6 gxh6 11. Qh5 f6 12. Qxh6 fxe5 13. fxe5 Bxh4+ 14. Rxh4 Qe7 15. Rg4+ Kh8 16. Bg5 Qf7 17. Bf6+ Qxf6 18. exf6 Rf7 19. Rg7 Rxg7 20. Qxg7# 1-0

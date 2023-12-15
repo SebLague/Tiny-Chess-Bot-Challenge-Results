@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "56"]
+[White "Arctiform's Bot (by: Arctiform)"]
+[Black "AlaskaBot (by: Arttu Halonen)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f4 Nf6 2. d4 Ne4 3. h4 d5 4. e3 Bf5 5. b4 e6 6. h5 Bxb4+ 7. Ke2 Ba5 8. Kf3 Nc6 9. Bb5 f6 10. a4 g6 11. h6 a6 12. Ne2 axb5 13. axb5 Nb4 14. Ng1 g5 15. fxg5 Nxg5+ 16. Kf2 Ne4+ 17. Ke1 Nxc2+ 18. Kf1 Nxa1 19. Qh5+ Bg6 20. Qh3 f5 21. Ne2 Nc2 22. Nf4 b6 23. Nxe6 Nxe3+ 24. Ke2 Qd6 25. Qxe3 Qxe6 26. Qa3 Nd2+ 27. Kf2 Nxb1 28. Qg3 Nc3 29. Qxc7 Nxb5 30. Qg3 Nxd4 31. Qc7 b5 32. Qg3 Qe2+ 33. Kg1 f4 34. Qxf4 Qe1+ 35. Kh2 Qe2 36. Qxd4 Qh5+ 37. Kg3 Bc7+ 38. Kf2 Qf5+ 39. Ke2 Qe6+ 40. Kf1 Qf5+ 41. Ke2 Bh5+ 42. g4 Bxg4+ 43. Ke1 Bg3+ 44. Kd2 Qg5+ 45. Kc2 Bf5+ 46. Kb3 Bc2+ 47. Kxc2 Qf5+ 48. Kb3 Qf3+ 49. Kc2 Rc8+ 50. Kb1 Qf5+ 51. Ka2 Rc2+ 52. Kb1 Rd2+ 53. Ka1 Rxd4 54. Ba3 Be5 55. Rg1 b4 56. Bc1 b3 57. Kb2 Rd3+ 58. Ka3 b2+ 59. Ka2 b1=R 60. Bg5 Rxg1 61. Bf6 Ra1# 0-1

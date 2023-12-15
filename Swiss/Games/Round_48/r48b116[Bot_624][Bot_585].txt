@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "47"]
+[White "Fool's Silver (by: Ethan Latymer (Sozius))"]
+[Black "Negative Depth (by: Zoltán Kürti)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a4 e5 2. Nf3 e4 3. Ng1 d5 4. Na3 Nc6 5. h3 Nf6 6. h4 Bc5 7. g3 Bxa3 8. Rxa3 d4 9. Bh3 Ne5 10. f3 Bd7 11. f4 Nc4 12. Bxd7+ Qxd7 13. Ra2 Nb6 14. a5 Nbd5 15. Ra3 b5 16. axb6 O-O 17. bxa7 Ne7 18. c3 Nc6 19. cxd4 Nxd4 20. b3 Nb5 21. Ra4 Rxa7 22. Rxa7 Nxa7 23. Qc2 Nh5 24. Ba3 Rd8 25. d3 Nb5 26. dxe4 Nxa3 27. Qc5 Nxg3 28. Rh3 Qd2+ 29. Kf2 Nxe4+ 30. Kf3 Nxc5 31. Kg3 Nxb3 32. Kg2 Rb8 33. Rf3 Qa5 34. Nh3 Nd4 35. Re3 Nf5 36. Re5 g6 37. Rxa5 Nxh4+ 38. Kh2 Nb5 39. Ra1 Nd6 40. Ng1 c5 41. Rc1 Rc8 42. Re1 Re8 43. Nh3 h5 44. Ng1 c4 45. Rf1 Nhf5 46. Rf2 Ne3 47. Kh1 c3 48. Rg2 c2 49. Rh2 c1=Q 50. Rh3 Nd5 51. Rd3 Nxf4 52. Rg3 Ne4 53. Rf3 Nxe2 54. Rf1 Qxf1 55. Kh2 Qxg1+ 56. Kh3 Qh1# 0-1

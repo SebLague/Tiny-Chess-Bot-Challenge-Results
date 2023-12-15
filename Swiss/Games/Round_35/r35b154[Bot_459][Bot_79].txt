@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "34"]
+[White "StockShrimp (by: Diplomancer)"]
+[Black "SybBot (by: Sybsuper)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e5 2. d4 Qe7 3. c3 exd4 4. Qxd4 c5 5. Qc4 a5 6. Nd2 f5 7. Be2 g6 8. h3 a4 9. g3 h5 10. Ngf3 b5 11. Qxb5 Ba6 12. Qb6 Bxe2 13. Kxe2 Nc6 14. Qb5 Qe6 15. Qd3 d5 16. b3 axb3 17. Ng5 Qd6 18. g4 Rxa2 19. Nf7 Kxf7 20. Qb1 Nd4+ 21. exd4 Qa6+ 22. c4 Rxa1 23. Qxb3 cxd4 24. Qf3 Ne7 25. Rg1 dxc4 26. gxf5 gxf5 27. Kd1 Qa4+ 28. Ke2 c3 29. Ne4 Qc4+ 30. Kd1 Qb3+ 31. Ke2 Qb5+ 32. Kd1 Qa4+ 33. Ke2 Qc2+ 34. Bd2 Rxg1 35. Nd6+ Ke6 36. Qxf5+ Nxf5 37. Nxf5 Qe4+ 38. Ne3 c2 39. Bc1 d3+ 40. Kd2 Bb4# 0-1

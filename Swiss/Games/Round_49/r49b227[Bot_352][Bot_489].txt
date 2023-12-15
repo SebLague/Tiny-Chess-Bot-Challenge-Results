@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "48"]
+[White "NameGoesThere's bot (by: NameGoesThere)"]
+[Black "NoTimeLeft (by: F&F)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. e5 Ne4 3. d4 Nxf2 4. Qe2 Nxh1 5. d5 Ng3 6. Qd3 Nxf1 7. Qxf1 c6 8. Ne2 cxd5 9. Nd4 Qb6 10. Ne2 Qxb2 11. Bxb2 Nc6 12. Nd2 Nxe5 13. Bxe5 d6 14. Bd4 e5 15. Be3 d4 16. Bf2 d3 17. Nc3 dxc2 18. Qb5+ Ke7 19. Nd5+ Ke6 20. Nc7+ Kf6 21. Nxa8 c1=Q+ 22. Ke2 Qxa1 23. Ne4+ Ke6 24. Qe8+ Kd5 25. Qxf7+ Kc6 26. Qe8+ Bd7 27. Qf7 Bg4+ 28. Ke3 Qd4# 0-1

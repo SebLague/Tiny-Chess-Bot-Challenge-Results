@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "47"]
+[White "taylornpeter_chess_sl (by: taylornpeter)"]
+[Black "WhateverBot (by: Alec Holden)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a4 Nc6 2. c4 Nf6 3. Qb3 d6 4. Qf3 Bd7 5. h4 e6 6. b3 Be7 7. d3 O-O 8. e3 Na5 9. b4 Nc6 10. b5 Na5 11. Bd2 Nb3 12. Qxb7 Nxa1 13. Kd1 Nh5 14. f4 Ng3 15. Rh2 Nxf1 16. Rh1 Nxd2 17. Nxd2 Bf6 18. g4 Bc3 19. Nb1 Bb2 20. d4 c5 21. dxc5 dxc5 22. Ke2 Bc1 23. a5 Re8 24. g5 Nb3 25. f5 Nxa5 26. Qg2 Nxc4 27. fxe6 Rxe6 28. Kd1 Bxe3 29. Kc2 Bxb5 30. h5 Bxg1 31. Rxg1 Ba4+ 32. Kc1 Ne3 33. Qb7 Bd1 34. Rg3 Bxh5 35. Rg1 Nd1 36. Rg2 Kf8 37. Rg1 Nf2 38. Qb3 Nd3+ 39. Kc2 Ne1+ 40. Rxe1 Rxe1 41. Kb2 Qxg5 42. Ka1 Qf6+ 43. Ka2 Re2+ 44. Nd2 Rxd2+ 45. Qc2 Rxc2+ 46. Kb3 Rb2+ 47. Kc4 Qd4# 0-1

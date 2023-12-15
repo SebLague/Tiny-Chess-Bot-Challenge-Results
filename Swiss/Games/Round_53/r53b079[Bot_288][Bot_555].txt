@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "52"]
+[White "Running Bot (by: Chris Pontius)"]
+[Black "Guppy (by: Rowburt)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c3 d5 2. Nf3 Nd7 3. d4 Nb6 4. e3 a6 5. Nfd2 Nd7 6. Bd3 e5 7. O-O Ne7 8. c4 e4 9. Bc2 f5 10. Nc3 dxc4 11. Nxc4 b5 12. Nd2 Nb6 13. f3 b4 14. Na4 Ned5 15. Nxb6 cxb6 16. fxe4 Nxe3 17. Qh5+ g6 18. Ba4+ b5 19. Bxb5+ axb5 20. Qe2 Nxf1 21. exf5+ Be7 22. Qxb5+ Kf8 23. Qxf1 Qxd4+ 24. Qf2 Qxf2+ 25. Kxf2 Bxf5 26. Kf3 Be6 27. Ne4 Rxa2 28. Rxa2 Bxa2 29. Kf4 h5 30. Ke5 Kg7 31. Bg5 Bxg5 32. Nxg5 Re8+ 33. Kd6 Re2 34. Kd7 Kf6 35. Nf3 Rxg2 36. Kd8 Rf2 37. Ne1 Re2 38. Nf3 Bd5 39. Nd4 Rd2 40. Nb5 Bc4+ 41. Nd6 Rxd6+ 42. Kc7 Ke6 43. h3 h4 44. Kc8 Ba6+ 45. Kc7 Bf1 46. Kc8 Rc6+ 47. Kb8 Kd7 48. Kb7 b3 49. Kb8 Rb6+ 50. Ka7 Kc7 51. Ka8 Ra6# 0-1

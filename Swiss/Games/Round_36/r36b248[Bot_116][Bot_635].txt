@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "35"]
+[White "MirrorBot (by: Jackk)"]
+[Black "BotTheBuilder (by: Stelio Dalakas)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 e5 2. e4 Bd6 3. Bd3 Ne7 4. Ne2 Ng8 5. Ng1 Qe7 6. Qe2 Qf6 7. Qf3 Ne7 8. Ne2 Qe6 9. Qxf7+ Qxf7 10. Rh2 O-O 11. Kf1 Qxf2# 0-1

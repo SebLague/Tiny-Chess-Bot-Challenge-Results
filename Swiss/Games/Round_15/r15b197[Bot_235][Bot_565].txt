@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "14"]
+[White "Goldibot (by: Ben)"]
+[Black "Reckless Ragnar (by: Magnús  Á. Magnússon)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f4 Nc6 2. e4 Nf6 3. c4 Nxe4 4. d3 Nf6 5. a4 d6 6. h4 Qd7 7. Qd2 Qg4 8. Qc3 e5 9. fxe5 Qg3+ 10. Ke2 dxe5 11. c5 Nd4+ 12. Kd2 Nd5 13. Qa3 Qf4+ 14. Ke1 Qxc1+ 15. Kf2 Qe3# 0-1

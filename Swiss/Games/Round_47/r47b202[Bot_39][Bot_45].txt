@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "46"]
+[White "Blind Bot (by: Moonwalker3)"]
+[Black "HopeBot (by: Chinmay Krishna)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e6 2. Nf3 Qf6 3. Ne4 Qf5 4. Nd4 Qxe4 5. c3 Bc5 6. g3 Qxh1 7. Nc2 Qxh2 8. f3 Qf2# 0-1

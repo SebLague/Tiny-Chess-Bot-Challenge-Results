@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "13"]
+[White "AugsBot (by: Augs)"]
+[Black "Phoenix Chess (by: Mat(t)hias)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. g3 Nc6 3. d4 Rb8 4. Bg2 a5 5. d5 Nxd5 6. Qxd5 e6 7. Qd1 Bc5 8. O-O Qf6 9. Nc3 Qf5 10. e4 Qg4 11. Bf4 Kd8 12. h3 Qg6 13. e5 Re8 14. Nh4 Nxe5 15. Nxg6 Nxg6 16. Bg5+ f6 17. Bd2 Bd4 18. Qh5 Ke7 19. Qxh7 Nf8 20. Qxg7+ Kd6 21. Nb5+ Kc5 22. Nxd4 Kxd4 23. Be3+ Ke5 24. f4+ Kd6 25. Rad1# 1-0

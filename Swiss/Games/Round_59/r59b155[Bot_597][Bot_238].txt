@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "58"]
+[White "Robérto (by: Nia)"]
+[Black "AUR Chessbot (by: Soul Senshi)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 f6 2. d4 e6 3. Nc3 Bb4 4. Qd3 Nc6 5. d5 exd5 6. Bd2 Bxc3 7. O-O-O Bxd2+ 8. Rxd2 Nb4 9. Qd4 Qe7 10. a3 c5 11. Qf4 g5 12. Qg3 Na6 13. e3 c4 14. c3 Qe4 15. Rd4 Qe6 16. Kc2 Ke7 17. Bxc4 dxc4 18. Kd2 Nc5 19. Ke2 Qb6 20. b4 cxb3 21. h4 Qa6+ 22. Kd2 Kd8 23. hxg5 Qxa3 24. Qd6 Ne4+ 25. Rxe4 Qxd6+ 26. Ke1 Qd3 27. g6 Qb1+ 28. Ke2 Qxe4 29. Rh4 Qxg6 30. Nd4 b2 31. Ne6+ dxe6 32. Rd4+ Ke7 33. g3 b1=Q 34. c4 e5 35. Rd2 Qg4+ 36. f3 Qxc4+ 37. Rd3 Qbxd3+ 38. Ke1 Qe2# 0-1

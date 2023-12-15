@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "39"]
+[White "LadyLuckGuidesMyMinMaxSearch (by: MrPelluke)"]
+[Black "Phi plays Chess (a.k.a. Zobrist's Golden Hashbrowns) (by: Wolfpack 104)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. b3 d5 2. f3 Na6 3. h4 Bh3 4. gxh3 Qc8 5. c3 f6 6. Bb2 g5 7. Kf2 Bg7 8. a3 c5 9. Ke3 Rb8 10. Rh2 e5 11. Rf2 Qe6 12. hxg5 Qf7 13. gxf6 Nxf6 14. Bc1 d4+ 15. cxd4 Nb4 16. Qe1 Kd7 17. h4 Ng4+ 18. Ke4 Ke6 19. Ra2 h5 20. Rh2 Ra8 21. d5+ Kf6 22. fxg4 Qg8 23. Qd1 Rf8 24. Rf2+ Ke7 25. Rg2 Bh6 26. Bb2 Rf7 27. Ra1 hxg4 28. Bc1 Na6 29. Nh3 Be3 30. Rh2 Qg7 31. Ng1 Ke8 32. Kd3 Rc7 33. h5 Bxd2 34. Rh1 Rh7 35. Nh3 Bf4 36. Kc2 c4 37. Rg1 Rf7 38. b4 Bxc1 39. Nd2 g3 40. b5 Rh6 41. Nb1 Rh8 42. b6 Nb8 43. Rg2 Rhf8 44. Rg1 Bh6 45. Nd2 Na6 46. Kb1 Kd8 47. Rxg3 Nc7 48. Ng1 Qxg3 49. a4 Nxd5 50. Kc1 Qh3 51. Kb1 axb6 52. Ra2 Rf3 53. Qc1 Rf2 54. Qe1 R2f7 55. Qh4+ Qxh4 56. Nb3 Qh2 57. Na1 Qxe2 58. a5 Rh8 59. Nh3 Nb4 60. Rd2+ Ke7 61. Ra2 Rhf8 62. Rd2 Rf6 63. Rd6 Rf3 64. Rd1 Rb3+ 65. Nxb3 Bc1 66. Rd7+ Ke6 67. Nc5+ bxc5 68. Nf4+ Kf5 69. Nd5 c3 70. Ne7+ Kf6 71. Bh3 Qd2 72. Rd6+ Kg5 73. Nc6 Bb2 74. Na7 c2+ 75. Kxb2 Qe3 76. Rc6 c1=R 77. Be6 Qc3# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "24"]
+[White "TrainedLikeTeamy (by: TeamDman)"]
+[Black "ChessGPT (by: DeepGoldenCrown)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 f5 2. c4 Kf7 3. f4 b5 4. a4 bxc4 5. Ra2 e5 6. d4 Ke6 7. g4 Kd5 8. Bd2 Kxd4 9. Bc3+ Ke3 10. b3 Kxf4 11. bxc4 Kxg4 12. Rc2 Kg3 13. Ra2 Kf4 14. Rc2 Ke3 15. c5 Ke4 16. Bd4 exd4 17. Rc4 Ke3 18. h5 Bxc5 19. Rxc5 d6 20. Rc4 Ke4 21. h6 Nxh6 22. Rxh6 gxh6 23. Qxd4# 1-0

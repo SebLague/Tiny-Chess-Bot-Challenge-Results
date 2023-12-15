@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "43"]
+[White "Shielded Minibot (by: Sesen)"]
+[Black "The Fisher (by: Unodus)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 c6 2. Nf3 Qa5 3. Ne4 Qd5 4. Neg5 a5 5. Rg1 Qxd2+ 6. Qxd2 f5 7. Ne5 h6 8. Ng6 b5 9. Nxh8 c5 10. Qd5 Na6 11. Qxa8 b4 12. Qxc8# 1-0

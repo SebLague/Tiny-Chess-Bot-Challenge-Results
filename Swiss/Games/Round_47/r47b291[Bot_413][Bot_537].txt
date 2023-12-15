@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "46"]
+[White "TrainedLikeTeamy (by: TeamDman)"]
+[Black "InfuehrDaniel MCTS (by: Daniel Infuehr)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 e6 2. c4 Qf6 3. Qa4 Nc6 4. Kd1 Qf4 5. g4 Nb4 6. d3 Qxf2 7. Bg5 Nxd3 8. exd3 Qxb2 9. Ke1 Qe5+ 10. Kd1 Qxa1 11. Be2 Qd4 12. Bf1 f6 13. Bh6 Qf2 14. Bxg7 b5 15. Be2 Rb8 16. Kc2 bxa4 17. g5 Qg2 18. Kc3 Bb4+ 19. Kd4 Qf2+ 20. Ke4 Bb7# 0-1

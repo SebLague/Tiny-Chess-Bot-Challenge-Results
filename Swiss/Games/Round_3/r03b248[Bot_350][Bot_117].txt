@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "InsufficientBot (by: Sep)"]
+[Black "BettyBot (by: Thomas / TGhost)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g4 Nc6 2. Bg2 d6 3. Bxc6+ bxc6 4. b4 Rb8 5. Nh3 Rxb4 6. Ng1 Kd7 7. Ba3 Rxg4 8. Bxd6 Kxd6 9. h3 Rg2 10. Qc1 Ke5 11. d3 Qd4 12. Kd2 Qxa1 13. Kd1 Kd5 14. Nd2 Qxc1+ 15. Kxc1 Rxf2 16. Nf1 Rxf1+ 17. Kd2 Kc5 18. Nf3 Rxh1 19. Nh2 Rxh2 20. Kc1 Kb4 21. Kb1 Ka3 22. e3 Rh1# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "19"]
+[White "WhateverBot (by: Alec Holden)"]
+[Black "HekMate (by: Maddisch)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e5 2. d3 Qf6 3. Nf3 Qd6 4. Bg5 Qe6 5. e4 Qd6 6. Be2 Qe6 7. O-O Qd6 8. Nh4 Qd4 9. Bg4 Qd6 10. Bh5 Qe6 11. Na4 Bd6 12. Nf5 Bf8 13. Qb1 Nc6 14. h4 Nb4 15. a3 Nxc2 16. Qxc2 Qxf5 17. exf5 Bxa3 18. Rxa3 g6 19. Be2 d5 20. Qxc7 Bxf5 21. Qxe5+ Kf8 22. Qxh8 Bxd3 23. Rxd3 Re8 24. Bg4 Re4 25. Bd7 Rxa4 26. Bxa4 d4 27. Qxh7 f6 28. Bc1 g5 29. Rxd4 gxh4 30. Rd8# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "14"]
+[White "Chark Bot (by: Team Chark V1)"]
+[Black "Turochamp (Modern) (by: P Rivero)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Qf3 e5 3. Bc4 Nf6 4. Ne2 d5 5. Bxd5 Bg4 6. Qg3 Be6 7. Bxc6+ bxc6 8. Nbc3 Bd6 9. Qxg7 Rg8 10. Qh6 Rg6 11. Qe3 Ng4 12. Qh3 Nxf2 13. Qxh7 Nxh1 14. Rb1 Qf6 15. d3 Kd7 16. Bf4 Rh8 17. Nd5 cxd5 18. Qxh8 Qxh8 19. exd5 Bxd5 20. Be3 Rxg2 21. Nc3 Bf3 22. Nb5 Re2+ 23. Kd1 Qh4 24. Kc1 Qe1# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "19"]
+[White "Guppy (by: Steven He)"]
+[Black "FetaCheese_Bot (by: Dimitris Dallas)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 h5 2. e4 e5 3. Nxe5 Qe7 4. d4 d6 5. Nf3 Qxe4+ 6. Be3 Ne7 7. Bd3 Qe6 8. O-O Nbc6 9. Re1 a5 10. Nc3 f5 11. Bd2 Qg8 12. Nb5 Kd8 13. c4 Nb4 14. Bf1 d5 15. a3 Nbc6 16. Bf4 Bd7 17. Bxc7+ Kc8 18. Bb6 f4 19. Nc7 Rb8 20. Rc1 Bg4 21. cxd5 Nxd5 22. Bc4 Nxb6 23. Bxg8 Kxc7 24. Bf7 g5 25. h3 Bxf3 26. Qxf3 Kd6 27. Qe4 Nd7 28. Qd5+ Kc7 29. Qxa5+ Nb6 30. Qxg5 Bh6 31. Qe5+ Kd7 32. Rxc6 Kxc6 33. Qc5+ Kd7 34. Re7+ Kd8 35. Qc7# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "33"]
+[White "BigBrainBot (by: Leo)"]
+[Black "Fool's Silver (by: Ethan Latymer (Sozius))"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 h5 2. Nf3 Na6 3. Bd2 Nb8 4. Nc3 Na6 5. e4 f6 6. Nh4 Nb8 7. Ng6 Rh7 8. Bc4 e6 9. g4 hxg4 10. Nxf8 Kxf8 11. Qxg4 Nc6 12. Be3 Qe8 13. O-O Na5 14. Bd3 c6 15. b4 f5 16. exf5 e5 17. bxa5 d6 18. Qg6 Nf6 19. Qxe8+ Kxe8 20. Rae1 Ng4 21. Bf4 Rh5 22. f3 Bxf5 23. fxg4 Bxd3 24. cxd3 Rh4 25. g5 Rg4+ 26. Kh1 Rd8 27. dxe5 dxe5 28. Bxe5 a6 29. h3 Rxg5 30. Bf4+ Kd7 31. Bxg5 Rh8 32. Re7+ Kc8 33. h4 Rd8 34. Rff7 Rg8 35. Rxb7 g6 36. Rfc7# 1-0

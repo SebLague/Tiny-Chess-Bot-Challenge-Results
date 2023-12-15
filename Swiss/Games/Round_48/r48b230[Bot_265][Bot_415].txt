@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "47"]
+[White "SimpleBot (by: Tim Zollner)"]
+[Black "SYSMER (by: YannM)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 Na6 2. Nh3 Nf6 3. Ng5 b6 4. Bc4 c6 5. Bxf7# 1-0

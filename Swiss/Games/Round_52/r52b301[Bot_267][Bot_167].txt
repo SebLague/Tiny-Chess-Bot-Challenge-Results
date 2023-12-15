@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "51"]
+[White "TimsBot (by: Thomas Dvorak)"]
+[Black "Betelchess (by: VY Canis Majoris (also special thanks to Gurren Lagann))"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 d5 2. g4 c5 3. f4 c4 4. e4 dxe4 5. d4 cxd3 6. Qxd3 Qa5+ 7. b4 Qc7 8. Qd8+ Qxd8 9. c4 Qd2+ 10. Nxd2 b5 11. a4 bxc4 12. h5 c3 13. h6 cxd2+ 14. Kf2 Bf5 15. g5 Bh3 16. g6 e3+ 17. Kg3 e2 18. Nf3 dxc1=Q 19. f5 Qf4+ 20. Kf2 Qd2 21. f6 Qxb4 22. a5 Qd2 23. a6 Qb4 24. Ng5 Qd2 25. Ne6 Qb4 26. Nd8 Qd2 27. Nc6 Qb4 28. Rh2 Qd2 29. Rg2 Qb4 30. Rg5 Qd2 31. Rd5 Qb2 32. Rd8# 1-0

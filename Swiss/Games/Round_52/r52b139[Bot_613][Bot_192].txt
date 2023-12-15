@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "51"]
+[White "Peeter 1 (by: Gouuu)"]
+[Black "Jormungandr (but scuffed) (by: CptShini)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 g5 2. h4 gxh4 3. Rxh4 Nc6 4. b4 b6 5. f3 Nf6 6. Ke2 e5 7. b5 Ne7 8. Bb2 Nf5 9. Rc4 d5 10. Rc6 Bd7 11. Bxe5 Bxc6 12. bxc6 Bd6 13. Bxd6 Qxd6 14. e4 dxe4 15. d3 Qd4 16. c3 Qe3# 0-1

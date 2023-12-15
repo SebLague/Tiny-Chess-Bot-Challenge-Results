@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "20"]
+[White "Arctiform's Bot (by: Arctiform)"]
+[Black "Sleepy panda bot (by: Quinten F)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g4 d5 2. e3 e5 3. c3 Qd7 4. Qf3 Qc6 5. g5 Be7 6. h4 b6 7. b3 g6 8. d3 Ba6 9. Ne2 Bxd3 10. Ng1 Bc2 11. Nd2 a5 12. Nh3 Kf8 13. Qg4 Qxc3 14. Qc8+ Kg7 15. a4 Bxb3 16. Rb1 Nh6 17. Qb7 Nf5 18. Qxa8 Nc6 19. f3 Qxe3+ 20. Be2 Rxa8 21. Bb2 Ncd4 22. Rh2 Bxa4 23. Bc1 Nc2+ 24. Kf1 Bc6 25. Bb2 Ncd4 26. Bd1 Qd3+ 27. Ke1 Nxf3+ 28. Kf2 Bc5+ 29. Kg2 N3xh4+ 30. Kh1 Ng3# 0-1

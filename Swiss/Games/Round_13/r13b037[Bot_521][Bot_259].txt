@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "12"]
+[White "LIA Chess (by: Patrick und Jannik)"]
+[Black "DarnBot (by: Darn)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 d5 2. e3 Nf6 3. Nge2 Nc6 4. Nd4 Nxd4 5. exd4 Bf5 6. f3 e6 7. g4 Bg6 8. h4 h5 9. gxh5 Nxh5 10. Kf2 Bd6 11. Bb5+ c6 12. Bd3 Bxd3 13. cxd3 Nf4 14. Ke3 Rxh4 15. Rg1 e5 16. Nb1 exd4+ 17. Kf2 Nh3+ 18. Kf1 Nxg1 19. Qe1+ Kd7 20. f4 Rxf4+ 21. Qf2 Rxf2+ 22. Kxf2 Qh4+ 23. Kxg1 Qg3+ 24. Kf1 Re8 25. Na3 Re1# 0-1

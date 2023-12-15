@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "22"]
+[White "SimpleBot (by: Tim Zollner)"]
+[Black "BettyBot (by: Thomas / TGhost)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 Na6 2. Nh3 Rb8 3. Ng5 Ra8 4. Qf3 f6 5. Bd3 Nb4 6. Qh5+ g6 7. Bxg6+ hxg6 8. Qxg6# 1-0

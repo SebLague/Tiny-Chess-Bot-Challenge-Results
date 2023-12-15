@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "31"]
+[White "EvilerBot (by: Noah)"]
+[Black "Arctiform's Bot (by: Arctiform)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a4 h5 2. Ra3 g5 3. Rg3 f5 4. Rd3 c6 5. Rf3 Qb6 6. g4 fxg4 7. h4 Bh6 8. Rf5 d6 9. b4 Bxf5 10. d3 Qxb4+ 11. c3 Qc5 12. f3 g3 13. a5 Qxa5 14. Bg2 e5 15. Qd2 Qa4 16. e4 Bc8 17. Qc2 Qxc2 18. Be3 Qxg2 19. Bxa7 Rxa7 20. hxg5 Bxg5 21. Rh3 Ra2 22. Ne2 Qxe2# 0-1

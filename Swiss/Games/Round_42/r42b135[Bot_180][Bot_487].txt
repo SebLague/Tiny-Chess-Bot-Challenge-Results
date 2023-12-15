@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "41"]
+[White "Sørensen's Minimax (by: Victor)"]
+[Black "Rodders (by: Chipperphilly)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 c5 2. Qg4 d6 3. Bb5+ Bd7 4. Nc3 Nf6 5. Qc4 Qc7 6. Nf3 g6 7. Ng5 e6 8. a3 h6 9. Nxe6 fxe6 10. Qxe6+ Be7 11. Ke2 Kf8 12. Bxd7 Qxd7 13. Qc4 d5 14. Qf4 d4 15. exd4 cxd4 16. Ne4 g5 17. Qf3 Qc6 18. Nxf6 Qxf3+ 19. Kxf3 Bxf6 20. d3 a6 21. Re1 Nc6 22. Bd2 Rb8 23. Re6 Be5 24. Bxg5 hxg5 25. Kg4 Rxh2 26. Rg1 Bf4 27. Kf3 Kf7 28. Re4 Kg7 29. Re6 Kh8 30. Rge1 Rf8 31. Re8 Rxe8 32. Rxe8+ Kg7 33. Re6 Bc1 34. Rd6 Kh8 35. Rd5 Bxb2 36. a4 Bc1 37. Ke2 Rxg2 38. Rd7 Be3 39. Rxb7 Rxf2+ 40. Ke1 Rxc2 41. Kd1 Rd2+ 42. Ke1 Rxd3 43. Ke2 Ne5 44. Kf1 Ra3 45. Kg2 Rxa4 46. Rb8+ Kg7 47. Rb7+ Kf6 48. Rb6+ Kf5 49. Rb1 Ra2+ 50. Kh1 Nd3 51. Rb8 Ke4 52. Rb6 Kd5 53. Rb3 Rd2 54. Rb6 Nc5 55. Rb8 Re2 56. Rd8+ Ke6 57. Rb8 Ke5 58. Rh8 d3 59. Rb8 Bd4 60. Rd8 Ke4 61. Re8+ Kd5 62. Rd8+ Kc4 63. Rg8 d2 64. Rb8 d1=Q# 0-1

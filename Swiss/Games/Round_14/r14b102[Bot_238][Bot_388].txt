@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "13"]
+[White "AUR Chessbot (by: Soul Senshi)"]
+[Black "British Sandstorm (by: britboy3456)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 c5 2. Nf3 f5 3. Rb1 Kf7 4. Ne5+ Kf6 5. Nd3 c4 6. Nd5+ Ke6 7. N3f4+ Kd6 8. Ne3 b5 9. Ra1 Nh6 10. Rb1 e5 11. Nh3 f4 12. Ra1 fxe3 13. dxe3+ Kc6 14. e4 Kc7 15. Qd5 Nc6 16. Qxb5 d5 17. Bxh6 gxh6 18. Ng1 dxe4 19. Qxc4 Qd4 20. Qxd4 Nxd4 21. Kd1 Ba6 22. e3 Bxf1 23. exd4 Bxg2 24. Ne2 Bxh1 25. Kc1 exd4 26. Nxd4 h5 27. Kb1 h4 28. Kc1 h3 29. Kb1 a5 30. Kc1 a4 31. Kb1 Rg8 32. Nb5+ Kb6 33. Nd4 Rg1# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "22"]
+[White "Goldibot (by: Ben)"]
+[Black "Lamorran (by: Morra)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f4 Nf6 2. d4 Nc6 3. c4 e6 4. e4 Nxe4 5. a3 Qh4+ 6. g3 Qf6 7. d5 exd5 8. cxd5 Qd4 9. Qc2 Qxd5 10. h4 Nd4 11. Qd3 Nxg3 12. Qe3+ Be7 13. Rh2 Qc5 14. Qxg3 Qxc1+ 15. Kf2 Qxb2+ 16. Ke3 Nf5+ 17. Kf3 Qb3+ 18. Nc3 Qxc3+ 19. Bd3 Qxd3+ 20. Kg4 h5+ 21. Kh3 Qxg3# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "4"]
+[White "Francis 2.0 (by: cyprus327)"]
+[Black "Sambot (by: Sam)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. f3 Rb8 3. Bb5 Nf6 4. Bd3 Nb4 5. e5 Nfd5 6. Ne2 Nxd3+ 7. cxd3 Nb4 8. Rf1 Nxd3# 0-1

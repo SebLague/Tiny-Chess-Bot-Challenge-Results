@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "11"]
+[White "Running Bot (by: Chris Pontius)"]
+[Black "AlaskaBot (by: Arttu Halonen)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c3 d5 2. Nf3 Bf5 3. Qb3 e6 4. g4 Bxg4 5. Qa4+ Nc6 6. Qxg4 Nf6 7. Qa4 b5 8. Qxb5 g5 9. Qxc6+ Nd7 10. Ne5 d4 11. Nxd7 dxc3 12. dxc3 f5 13. Ne5+ Ke7 14. Bxg5# 1-0

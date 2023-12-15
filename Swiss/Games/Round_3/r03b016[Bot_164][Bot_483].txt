@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "MintMax (by: weasel)"]
+[Black "Velocity++ (by: Tisajokt)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 e5 2. Rb1 Nf6 3. Nh3 d5 4. Ra1 Nc6 5. Nb1 Bd6 6. c3 O-O 7. Qa4 Re8 8. Qc2 e4 9. Qd1 Bf5 10. Qb3 Na5 11. Qc2 Nc4 12. Ng5 Ng4 13. h4 Nxf2 14. Nxf7 Kxf7 15. g4 Nxh1 16. g5 Bg3+ 17. Kd1 Nf2+ 18. Ke1 Bxh4 19. b3 Nd3+ 20. Kd1 Qxg5 21. bxc4 Qg1 22. Qxd3 exd3 23. exd3 Bxd3 24. Bb2 Qxf1# 0-1

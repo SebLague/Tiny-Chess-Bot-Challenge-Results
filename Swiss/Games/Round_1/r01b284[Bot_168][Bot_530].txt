@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "CopyCat (by: ADI)"]
+[Black "Algernon (by: White Mouse)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 Nf6 2. Nc3 d5 3. e4 d4 4. e5 Ng4 5. Nb5 Nxe5 6. Nxd4 Qxd4 7. Qg4 Nxg4 8. Rh3 Qxf2+ 9. Kd1 Qxf1# 0-1

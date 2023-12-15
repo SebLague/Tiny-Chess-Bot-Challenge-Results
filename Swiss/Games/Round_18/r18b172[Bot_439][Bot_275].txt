@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "17"]
+[White "Hershel (by: Nolan)"]
+[Black "Simple Minimax (by: Sidewinder7)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Nf3 e6 2. Nc3 b6 3. e3 Bb7 4. Bd3 Bxf3 5. Qxf3 Qg5 6. Qxa8 Qd8 7. Ke2 Nh6 8. Qxa7 Nc6 9. Qa4 Bd6 10. Ne4 Bf8 11. Nc3 Bd6 12. Ne4 Bf8 13. Nc3 1/2-1/2

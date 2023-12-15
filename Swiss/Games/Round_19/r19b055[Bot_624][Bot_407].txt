@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "18"]
+[White "Fool's Silver (by: Ethan Latymer (Sozius))"]
+[Black "simple chess bot (by: 4a0I)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Stalemate"]
+
+1. a4 e6 2. h4 Qf6 3. Rh3 Bb4 4. Nf3 Qf5 5. Ng5 Nf6 6. c3 Bd6 7. d3 Nc6 8. d4 h6 9. Nf3 Ne4 10. Nbd2 Nxd2 11. Nxd2 h5 12. a5 a6 13. Rf3 Qg4 14. Nb3 Qxh4 15. Bd2 b6 16. e3 Bb7 17. Bc1 Nxa5 18. d5 Nxb3 19. g3 Qh1 20. Ra4 Bxd5 21. e4 Bc6 22. Rxa6 Rxa6 23. Qxb3 Qxf3 24. Bxa6 Qxe4+ 25. Be2 Qh1+ 26. Kd2 Qg1 27. Qc4 Qxf2 28. Qa6 Ke7 29. b3 Qxg3 30. Bb2 Bf4+ 31. Kd1 Qg1+ 32. Bf1 Bf3+ 33. Kc2 Be4+ 34. Kd1 Qc5 35. Ba3 Bf3+ 36. Be2 d6 37. Bxc5 Bxe2+ 38. Kxe2 dxc5 39. c4 Rd8 40. Qa1 Rd2+ 41. Kf1 Rd3 42. Qa8 Rxb3 43. Qa1 Rf3+ 44. Ke2 Re3+ 45. Kf2 Be5 46. Qh1 Bd4 47. Kg2 Re2+ 48. Kf3 Rf2+ 49. Ke4 f5+ 50. Kd3 e5 51. Qh4+ Kd7 52. Qe7+ Kc8 53. Qxc7+ Kxc7 1/2-1/2

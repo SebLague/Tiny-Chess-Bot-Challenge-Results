@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "47"]
+[White "GulcarBot (by: Gulcar)"]
+[Black "CompressionBot (by: Nathan George)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Qh5 Rb8 3. Bc4 e6 4. Nf3 d5 5. exd5 Nf6 6. Qg5 exd5 7. Bb5 Qe7+ 8. Kf1 Bg4 9. Nc3 Bxf3 10. gxf3 d4 11. Bxc6+ bxc6 12. Ne2 c5 13. c3 h6 14. Qf4 d3 15. Ng1 Qd7 16. b4 cxb4 17. Qe3+ Be7 18. Qxa7 O-O 19. Bb2 b3 20. c4 Ra8 21. Qe3 bxa2 22. Kg2 Rfe8 23. Kf1 Ba3 24. Qd4 Bxb2 25. Qxb2 Reb8 26. Qc1 Qd4 27. Nh3 Rb4 28. Kg2 Rxc4 29. Qe1 Nd5 30. Qe4 Qxe4 31. fxe4 Rxe4 32. Rhd1 Rg4+ 33. Kh1 Rb4 34. f3 Ra3 35. Ng1 Rf4 36. Rdc1 Ra5 37. Re1 Ra8 38. Rec1 Rb4 39. Nh3 Rb2 40. Nf2 Rxd2 41. Ne4 Rb2 42. h4 Ne3 43. Re1 Nc2 44. Rxa2 Raxa2 45. Rg1 Nd4 46. Nf6+ Kh8 47. Ng4 Nxf3 48. Nf2 Rxf2 49. Rg2 Ra1+ 50. Rg1 Rxg1# 0-1

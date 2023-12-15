@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "9"]
+[White "Game Tech Explained Bot (by: Game Tech Explained)"]
+[Black "NostradamusChessNN (by: _Mus)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 d5 2. Nc3 Nf6 3. Nf3 Nc6 4. e3 Rg8 5. Bb5 Bg4 6. Bd2 Rc8 7. O-O e6 8. h3 Bxf3 9. Qxf3 h5 10. Bxc6+ bxc6 11. Rfe1 g6 12. e4 dxe4 13. Nxe4 Nxe4 14. Rxe4 Qd5 15. Qd3 c5 16. c4 Qb7 17. Bc3 cxd4 18. Bxd4 Qa6 19. Ree1 Rd8 20. Qc3 c5 21. Bf6 Rc8 22. Rad1 Be7 23. Be5 Rd8 24. Ra1 Bg5 25. Reb1 Qb7 26. Qg3 Qe7 27. f4 Bf6 28. Qc3 Rd4 29. Qb3 Bxe5 30. fxe5 Qc7 31. Re1 Kf8 32. a4 Kg7 33. a5 Rd2 34. Ra2 Qc6 35. Qg3 Rgd8 36. Qg5 Qd7 37. Re4 Qd3 38. Qf6+ Kg8 39. Re1 Qg3 40. Qf1 Rxg2+ 41. Qxg2 Qxe1+ 42. Kh2 Qxe5+ 43. Kh1 Rd1+ 44. Qg1 Qe4+ 45. Kh2 Rd2+ 46. Qf2 Rxf2+ 47. Kg1 Qg2# 0-1

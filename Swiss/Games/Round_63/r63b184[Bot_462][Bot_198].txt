@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "62"]
+[White "quick and dirty (by: Rafael)"]
+[Black "the (not so) wise bot of (not so great) insight (by: TheUnknown1050)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Nc3 d5 2. e3 Nc6 3. Qf3 Qd6 4. Bb5 e5 5. Qxd5 Ke7 6. Qxd6+ cxd6 7. Nd5+ Kd7 8. Rb1 Nf6 9. Nb4 Kc7 10. Nxc6 bxc6 11. Bc4 Rb8 12. Ra1 d5 13. Bb3 Rb4 14. Rb1 Kb7 15. Ra1 Kc7 16. Rb1 Kb7 17. Ra1 Kc7 1/2-1/2

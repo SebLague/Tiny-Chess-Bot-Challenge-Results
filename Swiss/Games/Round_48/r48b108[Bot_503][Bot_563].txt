@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "47"]
+[White "Max-Max-Bot (by: Tejas)"]
+[Black "Anarchy Bot (by: Malcolm)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Qh5 Qf6 3. Qh3 Qb6 4. Qf5 Qd6 5. c4 Nc6 6. g4 Nd4 7. c5 Qxc5 8. f4 Qxc1+ 9. Kf2 Nxf5 10. exf5 Qxb2 11. Bc4 Qxa1 12. fxe5 Qxb1 13. f6 gxf6 14. exf6 Bc5+ 15. Kg2 Qe4+ 16. Nf3 Qxg4+ 17. Kf1 Qxf3+ 18. Ke1 Bf2+ 19. Kf1 Be3+ 20. Ke1 Qf2+ 21. Kd1 Qxd2# 0-1

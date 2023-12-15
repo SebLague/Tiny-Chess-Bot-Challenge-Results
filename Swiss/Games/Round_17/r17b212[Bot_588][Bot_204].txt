@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "16"]
+[White "Mobilibot (by: Gabriel N.)"]
+[Black "Blindo (by: MS)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Qh5 Nf6 3. Qxe5+ Be7 4. Bb5 a5 5. d4 b6 6. Bh6 gxh6 7. Nd2 Bb7 8. d5 Rg8 9. Qxe7+ Qxe7 10. Ne2 Rxg2 11. Ng3 Bxd5 12. Ke2 Qb4 13. Ke3 Qxb5 14. c4 Qxb2 15. exd5 Qc3+ 16. Ke2 Qd4 17. Nge4 Nxe4 18. Kf3 Qxd2 19. Kxe4 Rxf2 20. Rhg1 Rxh2 21. Rg8+ Ke7 22. d6+ cxd6 23. Rf1 Qxa2 24. Rxf7+ Kxf7 25. Rc8 Qe2+ 26. Kd5 Qd3# 0-1

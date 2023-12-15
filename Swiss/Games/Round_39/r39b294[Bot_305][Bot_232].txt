@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "38"]
+[White "RandomUnoptimisedBot (by: Zhanybek)"]
+[Black "Wandering King (by: Elliott D)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a3 Na6 2. c4 Nf6 3. Qa4 Ne4 4. Nh3 h5 5. Qc2 Rh6 6. Qc3 e5 7. Qb4 Qg5 8. Nc3 Kd8 9. Qxf8# 1-0

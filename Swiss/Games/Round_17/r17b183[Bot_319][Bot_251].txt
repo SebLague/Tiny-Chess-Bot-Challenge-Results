@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "16"]
+[White "GOYO Bot v1.1.2 (by: Goyo)"]
+[Black "The Red Crayon (by: Daniel L.)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Qh5 Qf6 3. Bc4 Bc5 4. Bd5 Qxf2+ 5. Kd1 Qf1# 0-1

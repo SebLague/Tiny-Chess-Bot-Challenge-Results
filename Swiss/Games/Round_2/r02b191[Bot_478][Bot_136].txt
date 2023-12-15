@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "KBot (by: Kristian Mischke)"]
+[Black "Chessy (by: SebastianB)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 b5 2. Nxb5 f5 3. Nd4 e6 4. h4 Be7 5. h5 Bh4 6. Nb5 c6 7. Nd6+ Ke7 8. Nxc8+ Ke8 9. Nd6+ Ke7 10. Nxf5+ Kf6 11. Nxh4 Qa5 12. e4 a6 13. Rh3 g5 14. hxg6 h5 15. Qf3+ Qf5 16. Nxf5 Kg5 17. Qg3+ Kf6 18. e5+ Kxf5 19. Bd3# 1-0

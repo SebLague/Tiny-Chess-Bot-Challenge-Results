@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "23"]
+[White "The Grandiloquent Intelligentsia of Magnanimous Strategem: A Prodigiously Resplendent Embodiment of Erudite Chess Esotericism, Exuding Enigmatic Brilliance and Sublime Eloquence Whilst Enchantingly Tempering the Hallowed Battlefield of Intellectual Duels, Endeavoring to Transcend Acumen and Ascend to the Pantheon of Learned Peregrinations with an Efficacious Arsenal of Foresight and Sagacity, Humbling Opponents with Refined Gallantry, and Beckoning Discerning Disciples to Witness the Manifest Veracity of its Ascent to a Formidable Elo Quintessence (by: Giles Corey)"]
+[Black "RigidBot (by: Mathias Elgaard)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. Nf3 Nf6 2. Nc3 d5 3. g3 d4 4. Nb1 Nc6 5. c3 e5 6. Bg2 Bg4 7. cxd4 exd4 8. O-O Bc5 9. h3 Bxf3 10. exf3 O-O 11. d3 Qd5 12. Nd2 Qf5 13. Ne4 Bb6 14. Bf4 Nd5 15. Bd2 Qe6 16. a4 Ne3 17. fxe3 dxe3 18. Kh2 exd2 19. Qxd2 Rae8 20. Rfe1 Rb8 21. a5 Bd4 22. Rac1 Qa2 23. Rc2 Qxa5 24. Qxa5 Nxa5 25. Rxc7 Bxb2 26. Nd6 Bd4 27. Ree7 Bb6 28. Rcd7 Rbd8 29. Nxb7 Nxb7 30. Rxb7 Rxd3 31. h4 Rd1 32. h5 Bg1+ 33. Kh3 Rd5 34. Kg4 Rd2 35. Bf1 g6 36. h6 Bc5 37. Rec7 Bb6 38. Rd7 Rxd7 39. Rxd7 Rc8 40. Bd3 Kf8 41. Kg5 Re8 42. Bc4 Re7 43. Rd5 Re3 44. Kg4 f5+ 45. Kf4 Re8 46. Rd3 Bc7+ 47. Kg5 Bxg3 48. Rd7 Rc8 49. Rf7+ Ke8 50. Ba2 Rc2 51. Rxa7 Be5 52. Bf7+ Kf8 53. Ra2 Rc1 54. Bxg6 hxg6 55. Kxg6 f4 56. h7 Rc6+ 57. Kf5 Bh8 58. Rg2 Bg7 59. Rh2 Rf6+ 60. Ke4 Bh8 61. Rg2 Re6+ 62. Kxf4 Rf6+ 63. Ke4 Ke7 64. Rg8 Rf8 65. Rg4 Kf7 66. Rg1 Bg7 67. Kf5 Rh8 68. Rc1 Rxh7 69. Rc7+ Kg8 70. Rc8+ Bf8 71. Rc2 Bd6 72. Rd2 Rf7+ 73. Ke4 Rf4+ 74. Ke3 Rf6 75. Ra2 Rf8 76. Ke4 Re8+ 77. Kd5 Bf4 78. Ra4 Re5+ 79. Kc6 Rf5 80. Ra8+ Kf7 81. Ra3 Kf6 82. Ra8 Ke7 83. Ra7+ Ke6 84. Ra3 Re5 85. Ra8 Kf7 86. Ra4 Be3 87. Ra3 Ke7 88. Kb7 Bd4 89. Ra4 Rb5+ 90. Kc6 Rc5+ 91. Kb7 Rd5 92. Rc4 Ke6 93. Rc8 Rb5+ 94. Ka8 Rb3 95. Rd8 Bf6 96. Re8+ Kd7 97. Rf8 Rxf3 98. Kb7 Rb3+ 99. Ka6 Be5 100. Ka5 Rb1 101. Rg8 Bc3+ 102. Ka6 Rb2 103. Rg4 Be5 104. Rc4 Kd6 105. Ka7 Kd5 106. Rc8 Bd6 107. Ka6 Ke6 108. Rd8 Bc7 109. Rc8 Kd7 110. Rh8 Kc6 111. Rh6+ Bd6 112. Rh5 Rb8 113. Rh7 Rb1 114. Rh5 Rd1 115. Rb5 Ra1+ 116. Ra5 Rf1 117. Rb5 1-0

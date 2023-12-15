@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "33"]
+[White "Aggrobot (by: CHECKERCE)"]
+[Black "The Red Crayon (by: Daniel L.)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. b4 e5 2. Bb2 f6 3. Bxe5 fxe5 4. Qc1 Bxb4 5. Kd1 Qf6 6. Ke1 d5 7. Kd1 Qxf2 8. Qb2 Qxf1# 0-1

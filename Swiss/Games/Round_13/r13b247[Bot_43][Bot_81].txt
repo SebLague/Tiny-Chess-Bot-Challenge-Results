@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "12"]
+[White "UncatchableSpaghettiMonster (by: drlundberg)"]
+[Black "Paroch (by: Bronson)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f3 a5 2. Kf2 d6 3. Kg3 e6 4. a4 Qg5+ 5. Kh3 e5+ 6. g4 Qh6+ 7. Kg2 d5 8. g5 Qxg5+ 9. Kf2 Bc5+ 10. Ke1 Qh4# 0-1

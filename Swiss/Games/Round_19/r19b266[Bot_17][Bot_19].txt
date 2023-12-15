@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "18"]
+[White "The Copycat (by: castur_)"]
+[Black "AttackBot (by: Kai Tabuchi (9 Years Old))"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c3 b5 2. b4 Bb7 3. Bb2 Bxg2 4. a3 Bxf1 5. Qa4 bxa4 6. b5 Bxe2 7. b6 Qc8 8. Bc1 Bd1 9. f4 Bc2 10. bxc7 Bxb1 11. cxb8=Q Rxb8 12. Rxb1 Rxb1 13. Nf3 Rxc1+ 14. Ke2 Rxh1 15. h4 Rxh4 16. Ng5 Rxf4 17. Ne6 dxe6 18. Ke3 Rf1 19. d3 Qxc3 20. Ke4 Qxa3 21. Ke5 Kd7 22. Ke4 Kc6 23. d4 Kb5 24. d5 Kc4 25. d6 Kb5 26. Kd4 Ka5 27. Ke5 Qe3# 0-1

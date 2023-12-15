@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "57"]
+[White "InfuehrDaniel MCTS (by: Daniel Infuehr)"]
+[Black "EatingAndBeingEaten (by: GameBoy19 und Pete877)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. e3 Nf6 2. Qe2 Ne4 3. Qg4 Nd6 4. Nc3 Nc6 5. Be2 Ne5 6. Qa4 Nf5 7. Qf4 Ng6 8. Qxc7 Qxc7 9. Bb5 Qe5 10. Nd1 Qxb5 11. d4 Qb4+ 12. Bd2 Qd6 13. f4 Qd5 14. Kf1 Qc4+ 15. Ne2 Qxc2 16. Ke1 Qe4 17. Kf2 Qd5 18. Nec3 Qe6 19. Kg1 Qd6 20. Ne4 Qd5 21. Ndc3 Qc4 22. Kf2 Qd3 23. g4 Nfh4 24. f5 Qc2 25. b3 Qb2 26. Rhg1 Rg8 27. Rad1 Nh8 28. Rb1 Qa3 29. Nc5 Qb4 30. Rg3 Qb6 31. a4 Qd6 32. Nb5 Qd5 33. Rbg1 Qc6 0-1

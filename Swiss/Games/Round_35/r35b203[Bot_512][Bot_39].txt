@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "34"]
+[White "LiL Scoot (by: Scoutamass)"]
+[Black "Blind Bot (by: Moonwalker3)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Qh5 h6 3. Qd5 f6 4. Qh5+ g6 5. Qxg6# 1-0

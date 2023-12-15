@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "35"]
+[White "Turochamp (Faithful) (by: P Rivero)"]
+[Black "BasicBot (by: Phnx)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. Nc3 c5 3. Nh3 Rg8 4. a4 Rh8 5. e5 Nc6 6. exf6 Nd4 7. fxg7 Bxg7 8. Bd3 Nxc2+ 9. Qxc2 Bxc3 10. Qxc3 Rg8 11. Bxh7 Rxg2 12. Qh8+ Rg8 13. Qxg8# 1-0

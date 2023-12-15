@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "30"]
+[White "Basic Bot (by: G0ldSt0ne)"]
+[Black "Maple (by: Austin)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 e5 2. Nb5 Bc5 3. Rb1 d5 4. Nf3 c6 5. Nc3 Bb4 6. Nxe5 f6 7. Nd3 Ba5 8. e3 g6 9. Qf3 Bf5 10. b4 Qb6 11. bxa5 Qxa5 12. Rxb7 Bxd3 13. Bxd3 a6 14. Rf1 Qc5 15. Rg1 a5 16. Rf1 Nh6 17. Qxf6 Rf8 18. Re7+ Qxe7 19. Bxg6+ hxg6 20. Qxg6+ Nf7 21. Qg7 Qh4 22. Rh1 Nd7 23. Bb2 Nh8 24. g3 Qb4 25. Ba1 O-O-O 26. a3 Qxa3 27. Nd1 Qa2 28. Rf1 Qxc2 29. Qe7 a4 30. Bxh8 Rfe8 31. Qh4 Rxh8 32. Qe7 Rxh2 33. Rg1 Qc1 34. Rf1 a3 35. Rg1 a2 36. Qg7 a1=Q 37. Qg4 c5 38. Rf1 c4 39. Rg1 c3 40. Qe2 c2 41. Rf1 Qxd1+ 42. Qxd1 Qxd1# 0-1

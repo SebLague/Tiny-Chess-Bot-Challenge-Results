@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "One Line and a Dream (by: Sliderlo)"]
+[Black "BOTvinnik (by: Paul Smooth)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 d5 2. Nh4 e5 3. a4 Qxh4 4. e4 Bg4 5. b4 Bxd1 6. b5 Bxc2 7. Bb2 Qxe4+ 8. Be2 Bxb1 9. Kf1 Qc2 10. f3 Qxb2 11. d4 Qxa1 12. Bc4 Bc2+ 13. Ke2 Qxh1 14. h3 Qd1+ 15. Ke3 Bb4 16. dxe5 Qd2# 0-1

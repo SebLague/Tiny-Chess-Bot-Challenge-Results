@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "9"]
+[White "GoodBot (by: Fiera42)"]
+[Black "Edbd (by: Ahmad)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. h3 h5 2. g4 hxg4 3. Nf3 gxf3 4. Bg2 fxe2 5. Rf1 exd1=B 6. Bf3 g5 7. Nc3 f5 8. Ne2 e5 9. Be4 fxe4 10. a3 1-0

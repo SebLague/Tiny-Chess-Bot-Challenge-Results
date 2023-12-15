@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "25"]
+[White "The Chotic bot (by: EV3L1N)"]
+[Black "HERO-bot (by: ELEMENTLHERO)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g3 Nc6 2. Bg2 d5 3. Bf1 Qd6 4. a3 Nf6 5. c4 b5 6. Qb3 bxc4 7. Qb5 a5 8. b3 cxb3 9. f3 a4 10. Qc5 Qxc5 11. d4 Qxc1+ 12. Kf2 Bf5 13. h4 Bxb1 14. Nh3 Bf5 15. Rb1 Qd2 16. Rc1 Qc2 17. Rh2 Qc3 18. h5 Qxc1 19. Rg2 b2 20. Rh2 b1=Q 21. Kg2 Qxf1# 0-1

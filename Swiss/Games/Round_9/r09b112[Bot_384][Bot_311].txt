@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "8"]
+[White "Baloo-D (by: Dimitri)"]
+[Black "MyFirstChessEngine (by: Jake Forsey)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Bc4 Nb4 3. a3 Nxc2+ 4. Qxc2 Nf6 5. Be2 d6 6. d4 c6 7. Nf3 Qa5+ 8. b4 Qb6 9. O-O Bg4 10. Nc3 Bxf3 11. Bxf3 Kd8 12. d5 Qc7 13. dxc6 bxc6 14. Qd3 Qb6 15. Na4 Qb5 16. Qxb5 cxb5 17. e5 dxe5 18. Bxa8 bxa4 19. Bc6 Kc7 20. Bxa4 Nd5 21. Bb2 Kd6 22. Rac1 Nf4 23. Rc6+ Kd5 24. Rc5+ Ke6 25. Rxe5+ Kd6 26. Rd1+ Kc7 27. Rc5+ Kb6 28. Rc6+ Kb7 29. Rd7+ Kb8 30. Be5+ Ka8 31. Kf1 Nxg2 32. Kxg2 Rg8 33. Kf1 Rh8 34. Ke1 Rg8 35. Kd1 Rh8 36. Kc1 Rg8 37. Kb1 Rh8 38. Ka1 Rg8 39. Ka2 Rh8 40. Kb1 Rg8 41. Ka1 Rh8 42. Ka2 Rg8 43. Kb2 Rh8 44. Kc2 Rg8 45. Kc1 Rh8 46. Kd1 Rg8 47. Ke1 Rh8 48. Kf1 Rg8 49. Kg1 Rh8 50. Kh1 Rg8 51. Kg2 Rh8 52. Kg1 Rg8 53. Kh1 Rh8 54. Rc1 Rg8 55. Kg1 Rh8 56. Kf1 Rg8 57. Ke1 Rh8 58. Kd1 Rg8 59. Kc2 Rh8 60. Kb1 Rg8 61. Ka1 Rh8 62. Ka2 Rg8 63. Kb1 Rh8 64. Ka1 Rg8 65. Ka2 Rh8 66. Kb2 Rg8 67. Kb3 Rh8 68. Kc2 Rg8 69. Kd1 Rh8 70. Ke1 Rg8 71. Kf1 Rh8 72. Kg1 Rg8 73. Kh1 Rh8 74. Kg2 Rg8 75. Kf3 Rh8 76. Ke2 Rg8 77. Kd2 Rh8 78. Kc3 Rg8 79. Kb2 Rh8 80. Kb3 Rg8 81. Kc3 Rh8 82. Rxe7 Bxe7 83. Bc6# 1-0

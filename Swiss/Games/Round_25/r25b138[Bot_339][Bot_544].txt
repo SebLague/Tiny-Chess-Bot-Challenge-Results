@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "24"]
+[White "TinyNoTimeToCodeChessEngine (by: )"]
+[Black "Saint Charles Bot (by: DATA USP)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a4 c6 2. c4 Qa5 3. e4 Qb4 4. b3 c5 5. a5 Na6 6. Bb2 Kd8 7. Bc3 e5 8. Nf3 Kc7 9. Nxe5 Kd6 10. Nxf7+ Ke6 11. Nxh8 Kd6 12. Nf7+ Ke6 13. Bxb4 Nxb4 14. Ng5+ Ke5 15. f4+ Kxf4 16. Nf7 Nc2+ 17. Qxc2 Be7 18. Qc3 Bh4+ 19. Kd1 Kxe4 20. Qc2+ Kf4 21. Be2 Nh6 22. Rf1+ Bf2 23. Rxf2# 1-0

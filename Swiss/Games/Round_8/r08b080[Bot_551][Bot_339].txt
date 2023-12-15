@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "7"]
+[White "AchillesAlpha (by: Achilles)"]
+[Black "TinyNoTimeToCodeChessEngine (by: )"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a3 Nf6 2. g3 d5 3. c3 Qd7 4. b3 Qf5 5. Bh3 Qe4 6. f3 Qg6 7. Bxc8 Nbd7 8. Bxb7 Rb8 9. Bc6 Kd8 10. Bb2 Ne5 11. Ba4 Nc4 12. Ra2 Nb6 13. Bb5 e5 14. Qc1 Bc5 15. Nh3 a6 16. Bxa6 Ra8 17. Bd3 e4 18. Bb5 exf3 19. Bc6 Qe4 20. Bxa8 Qxe2# 0-1

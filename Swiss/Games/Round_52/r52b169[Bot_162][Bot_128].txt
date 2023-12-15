@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "51"]
+[White "BitBlunderer (by: Till Zemann (GitHub: https://github.com/till2 :D))"]
+[Black "C++IsBetterThanC# (by: Samo)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 a5 2. e4 a4 3. Nc3 c5 4. d4 cxd4 5. Nxd4 e5 6. Nf3 Nc6 7. Bg5 Nf6 8. Bd3 a3 9. bxa3 Rxa3 10. Bxf6 gxf6 11. Nb1 Bb4+ 12. c3 Bxc3+ 13. Kf1 Nb4 14. Nxa3 Bxa1 15. Nc4 d5 16. Qa4+ Nc6 17. Ne3 d4 18. Nc4 h5 19. Qa8 h4 20. Qa4 h3 21. Qa3 hxg2+ 22. Kxg2 Rg8+ 23. Kf1 Be6 24. Nd6+ Kd7 25. Nxd4 exd4 26. Nxb7 Bh3+ 27. Ke1 Qb6 28. Nc5+ Kd6 29. Nb7+ Ke5 30. Qd6# 1-0

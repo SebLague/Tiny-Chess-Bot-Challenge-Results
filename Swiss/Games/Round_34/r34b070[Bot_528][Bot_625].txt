@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "33"]
+[White "farindk (by: Dirk Farin)"]
+[Black "Bongcloud Bot (by: lurendrei)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e5 2. Nf3 Ke7 3. Nxe5 Nf6 4. b3 Ke6 5. Nf3 Bb4 6. Nd4+ Ke5 7. e3 Rg8 8. Qf3 Bxc3 9. Qf5+ Kd6 10. Ba3+ Bb4 11. Bxb4+ c5 12. Qxc5# 1-0

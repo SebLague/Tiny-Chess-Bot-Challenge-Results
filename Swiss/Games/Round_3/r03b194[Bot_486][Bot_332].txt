@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "QuaviverBot (by: CantWontDo)"]
+[Black "CalcCheck (by: CowSoCool37)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Illegal move"]
+
+1. c4 e5 2. Qc2 Nc6 3. Nf3 d5 4. cxd5 Qxd5 0-1

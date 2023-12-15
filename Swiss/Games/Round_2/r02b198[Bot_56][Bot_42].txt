@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "Phi plays Chess (a.k.a. Zobrist's Golden Hashbrowns) (by: Wolfpack 104)"]
+[Black "dumbot (by: slothinahat)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a3 e5 2. b3 Bxa3 3. Nf3 Bxc1 4. Nc3 Bxd2+ 5. Qxd2 f6 6. Qd6 cxd6 7. Kd2 e4 8. Ra2 exf3 9. g3 fxe2 10. Ra6 e1=Q+ 11. Kd3 Nxa6 12. Nb5 Qxf1+ 13. Rxf1 h5 14. Ke2 Ne7 15. h4 d5 16. g4 hxg4 17. Rc1 Rxh4 18. Re1 Nc6 19. f3 gxf3+ 20. Kd2+ Kf8 21. b4 Rxb4 22. Rd1 Rxb5 23. Kc1 Rb8 24. Rf1 Ne7 25. Rd1 Rb2 26. Kxb2 Kf7 27. Kc3 b6 28. Rxd5 Nxd5+ 29. Kd2 Ne3 30. Kxe3 Nc5 31. Kd2 f5 32. Ke3 Ra8 33. Kf2 d5 34. Kxf3 Qf8 35. Ke3 b5 36. Ke2 Qe7+ 37. Kf1 Qd6 38. Kg1 a5 39. c3 Ne4 40. Kg2 Nxc3 41. Kg1 Bd7 42. Kh1 Qb4 43. Kg1 g6 44. Kh2 Ne2 45. Kh1 Qa4 46. Kg2 Be8 47. Kf1 Ng1 48. Kxg1 Qd4+ 49. Kh2 Qe4 50. Kh3 g5 51. Kg3 Kf6 52. Kh3 Kg7 53. Kg3 Ra7 54. Kf2 Bc6 55. Kf1 g4 56. Kg1 b4 57. Kf2 Kf6 58. Kg1 Rc7 59. Kf2 Ba8 60. Kg1 Qe2 61. Kh1 Rc1# 0-1

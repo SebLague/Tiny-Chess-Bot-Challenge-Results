@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "5"]
+[White "Dried Cod (by: Josh & Laurin)"]
+[Black "Simple Minimax (by: Sidewinder7)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 b5 2. Bxb5 Bb7 3. Qf3 e5 4. Bc4 Nh6 5. Qc3 Ng4 6. Qb3 Bb4 7. Qxb4 Bd5 8. Bxd5 c5 9. Qxc5 Nc6 10. Bxc6 Qb8 11. Bxa8 Qxa8 12. f3 f6 13. d4 a5 14. Ne2 Nf2 15. Kxf2 Qd8 16. dxe5 h5 17. exf6 gxf6 18. Bf4 a4 19. Nbc3 a3 20. bxa3 Rh7 21. Rhb1 h4 22. Rb8 Qxb8 23. Bxb8 Rg7 24. Qh5+ Kf8 25. Nd5 Rg8 26. Nxf6 d5 27. exd5 h3 28. gxh3 Ke7 29. Nxg8+ Kd7 30. Nf6+ Kd8 31. Qe8# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "55"]
+[White "MattWBot (by: Matt W)"]
+[Black "Scorraccio possente (by: Diego campione)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 c5 2. e4 e6 3. Nc3 a6 4. Bc4 b5 5. Bd3 d6 6. Rg1 Qf6 7. Rb1 Bb7 8. b3 Qd8 9. a3 b4 10. Ne2 bxa3 11. c3 g5 12. Bxa3 g4 13. Ng3 gxf3 14. Qxf3 Qa5 15. Bc1 Bc6 16. Rf1 Qd8 17. Nh5 Bb5 18. c4 Bd7 19. Bc2 Nc6 20. g3 Nd4 21. Qd1 Nxc2+ 22. Qxc2 e5 23. Bb2 Bh3 24. Rh1 Qb8 25. d3 Qb6 26. Nf4 Bc8 27. Qd2 Qxb3 28. h4 exf4 29. gxf4 Bg7 30. Ke2 Bxb2 31. Rxb2 Qa4 32. Rb5 axb5 33. cxb5 Qb3 34. Kf3 h5 35. Rc1 Qxb5 36. Rc2 f6 37. Ke3 Qb3 38. Qd1 Ba6 39. f5 c4 40. Kf4 Bb7 41. dxc4 Qh3 42. Qb1 Ra3 43. Qb5+ Kf8 44. Qa4 Qh2# 0-1

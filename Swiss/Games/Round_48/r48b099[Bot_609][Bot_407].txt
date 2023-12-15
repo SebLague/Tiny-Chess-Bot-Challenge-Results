@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "47"]
+[White "Lol! Wont Win (by: Sanjay)"]
+[Black "simple chess bot (by: 4a0I)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 e5 2. Rb1 Qh4 3. Ra1 d5 4. Rb1 Bc5 5. e3 Nc6 6. Ra1 Bf5 7. Rb1 Bb4 8. Ke2 Bxa3 9. bxa3 Nd4+ 10. Ke1 Nxc2+ 11. Qxc2 Bxc2 12. Rxb7 Qg4 13. Ne2 Kd7 14. Rg1 Nf6 15. Rh1 Bd3 16. Rg1 Qh4 17. Rh1 h6 18. Rb2 Ng4 19. g3 Qf6 20. f4 Be4 21. Rg1 Nxh2 22. Bh3+ Ke7 23. Kd1 Qa6 24. Rb3 Qc4 25. Rb2 Qa4+ 26. Rb3 d4 27. Bg2 Nf3 28. Bxf3 Bxf3 29. Ke1 Qc4 30. d3 Qc2 31. Rb2 Qxd3 32. Kf2 Bg4 33. a4 Rab8 34. Re1 Rxb2 35. Bxb2 Qxe3+ 36. Kg2 Bxe2 37. Rc1 Rb8 38. Rxc7+ Kd6 39. Rxa7 Rxb2 40. fxe5+ Ke6 41. Kh3 Bf1+ 42. Kg4 Qg5+ 43. Kf3 Bg2# 0-1

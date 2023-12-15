@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "24"]
+[White "Supertask-Time-Troubles (by: TimFW)"]
+[Black "BigBrainBot (by: Leo)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. e4 Nc6 2. d4 e6 3. d5 exd5 4. exd5 Bb4+ 5. c3 Qe7+ 6. Be2 Ba5 7. dxc6 dxc6 8. b3 Bf5 9. Qd4 Nf6 10. b4 Bb6 11. Qf4 Qe6 12. a4 O-O 13. a5 Bxb1 14. axb6 Nd5 15. Qg3 Bf5 16. Rxa7 cxb6 17. Rxb7 Qc8 18. Bh6 Ra1+ 19. Kd2 Ra2+ 20. Ke1 Ra1+ 21. Kd2 Ra2+ 22. Kc1 Rc2+ 23. Kd1 Nxc3+ 24. Ke1 Rxe2+ 25. Nxe2 Bg4 26. Qxc3 gxh6 27. Rxb6 Re8 28. f3 Bd7 0-1

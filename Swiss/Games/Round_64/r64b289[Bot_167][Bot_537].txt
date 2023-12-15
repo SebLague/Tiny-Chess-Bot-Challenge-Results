@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "63"]
+[White "Betelchess (by: VY Canis Majoris (also special thanks to Gurren Lagann))"]
+[Black "InfuehrDaniel MCTS (by: Daniel Infuehr)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. e4 e6 2. Ke2 Qh4 3. Ke3 h6 4. Bc4 Nc6 5. Qf1 Qe7 6. Qd3 Qc5+ 7. Ke2 Ne5 8. Ke1 Rh7 9. Kd1 Ne7 10. Ke1 a5 11. Kd1 f6 12. Ke1 N7c6 13. Kd1 h5 14. Ke1 d6 15. Kd1 f5 16. Ke1 Rh6 17. Kd1 a4 18. Ke1 f4 19. Kd1 Ra7 20. Ke1 Rf6 21. Kd1 Bd7 22. Ke1 g6 23. Kd1 Be7 24. Ke1 Bc8 25. Kd1 Kf8 26. Ke1 Kg7 27. Kd1 Kh6 28. Ke1 Rf8 29. Kd1 Bd8 30. Ke1 1-0

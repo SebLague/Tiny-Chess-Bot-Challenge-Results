@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "3"]
+[White "FINCh (by: AMCR Studios (Heather Costello & Tesseract King))"]
+[Black "ConvolutedBot (by: pwahs)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 d5 2. Ng5 h6 3. Nf3 Nc6 4. Nc3 d4 5. Nb5 e5 6. Rg1 a6 7. Nbxd4 exd4 8. a4 Nf6 9. Ra2 Qd5 10. Ra1 Bf5 11. e4 Qxe4+ 12. Be2 Bb4 13. Nxd4 Nxd4 14. f3 Qh4+ 15. Kf1 Bxc2 16. Bb5+ axb5 17. Qxc2 Nxc2 18. Ke2 Nxa1 19. axb5 Nb3 20. Ke3 Qd4+ 21. Ke2 Qxg1 22. Kd3 Nxc1+ 23. Kc2 Ra1 24. b3 Qd4 25. d3 Qf2+ 26. Kd1 Nxd3# 0-1

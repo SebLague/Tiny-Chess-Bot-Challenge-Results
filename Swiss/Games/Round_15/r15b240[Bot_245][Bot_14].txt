@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "14"]
+[White "Gen-Eric (by: Pressgoal)"]
+[Black "simpleval (portmonteau of simple eval) (by: hokurou)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 h5 2. Nb5 a6 3. Nd4 g5 4. e4 h4 5. Qg4 a5 6. Qxg5 a4 7. Qe5 Rh6 8. Qg5 Rb6 9. Qxg8 f6 10. Qg6# 1-0

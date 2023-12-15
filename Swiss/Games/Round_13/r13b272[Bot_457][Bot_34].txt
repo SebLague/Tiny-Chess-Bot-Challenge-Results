@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "12"]
+[White "Version 8 (by: Whoever)"]
+[Black "SaveBot (or, "winning bot" as an alternative) (by: Rudy)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. e4 Na6 2. Qh5 Rb8 3. d3 Ra8 4. b3 Rb8 5. a3 Ra8 6. Qd5 Rb8 7. f3 Ra8 8. g3 Rb8 9. Ra2 Ra8 10. Be3 Rb8 11. Bxa7 Ra8 12. Kd2 Rxa7 13. c3 Ra8 14. c4 Ra7 15. h4 Ra8 16. Rh3 Ra7 17. h5 Ra8 18. Ke2 Ra7 19. Kd2 Ra8 20. Ke2 Ra7 21. Kd2 1/2-1/2

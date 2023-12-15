@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "22"]
+[White "BOTvinnik (by: Paul Smooth)"]
+[Black "The Terminator (by: Ryan Murphy)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. d4 e5 3. Bg5 Qxg5 4. d5 Nf6 5. dxc6 dxc6 6. f4 Qxf4 7. Nc3 Be6 8. g4 Rd8 9. Bd3 Bc5 10. Qf3 O-O 11. Qxf4 exf4 12. g5 Ng4 13. Nge2 f3 14. Nf4 f2+ 15. Kf1 Be3 16. Nxe6 fxe6 17. Bc4 Rd6 18. a4 Bxg5 19. Nd1 Be3 20. h3 Rxd1+ 21. Rxd1 Ne5 22. Bxe6+ Kh8 23. h4 Rd8 24. Rxd8# 1-0

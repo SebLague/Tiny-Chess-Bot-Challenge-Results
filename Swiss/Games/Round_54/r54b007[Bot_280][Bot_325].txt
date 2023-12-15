@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "53"]
+[White "DeltaWeakness (by: Johan Zetterlund)"]
+[Black "InfuehrDaniel (by: InfuehrDaniel)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 Qe7 4. d4 d6 5. Nf3 Nxe4 6. Be2 Bf5 7. O-O Nd7 8. Nc3 Nxc3 9. bxc3 h6 10. Bd3 Bxd3 11. Qxd3 O-O-O 12. Bb2 Nb6 13. Qf5+ Qd7 14. Qxd7+ Rxd7 15. Rae1 Be7 16. Bc1 a5 17. h4 a4 18. Rd1 Rdd8 19. Rfe1 Rhe8 20. Re2 Bf6 21. Ree1 Nd5 22. Bd2 a3 23. g4 Nb6 24. g5 hxg5 25. Nxg5 Rxe1+ 26. Rxe1 Rh8 27. Nxf7 Rxh4 28. f3 Rh5 29. Kg2 Rb5 30. Bc1 Rb1 31. Rh1 Nc4 32. Bf4 Rb2 33. Kg3 Rxa2 34. Rh8+ Kd7 35. Bg5 Rxc2 36. Bxf6 gxf6 37. Rh1 Rxc3 38. Rh2 Ne3 39. Kf4 Nc2 40. Ke4 a2 41. Rh1 Re3+ 42. Kf5 Re1 43. Rh7 Nxd4+ 44. Kxf6 Re6+ 45. Kg5 a1=Q 46. Ne5+ Kd8 47. Rh8+ Ke7 48. Rh7+ Kf8 49. Ng4 Nxf3+ 50. Kf4 Qd4+ 51. Kxf3 Qe4+ 52. Kg3 Qxh7 53. Nf2 Qf5 54. Kg2 Re2 55. Kg3 Rxf2 56. Kh4 Qf4+ 57. Kh5 Rh2+ 58. Kg6 Rh6# 0-1

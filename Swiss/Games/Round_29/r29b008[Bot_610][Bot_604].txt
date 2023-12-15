@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "28"]
+[White "TinyHugeBot (by: Popax21 & atpx8)"]
+[Black "Thunker Weed (by: American Jeff)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 d5 4. e3 c5 5. cxd5 exd5 6. Nc3 Nc6 7. Ne5 Bd6 8. Qa4 Bd7 9. Nxd7 Qxd7 10. g3 O-O 11. Bg2 cxd4 12. exd4 b5 13. Qxb5 Rab8 14. Qd3 Qe6+ 15. Kf1 Rfe8 16. Bf3 Ne4 17. Qd1 Rb4 18. Be3 Rxb2 19. Bxe4 dxe4 20. d5 Qh3+ 21. Kg1 Nb8 22. Qa4 Rc8 23. Bd4 Rb4 24. Qxa7 e3 25. Ne4 Rbc4 26. Qxf7+ Kxf7 27. Ng5+ Kg8 28. Nxh3 Rxd4 29. fxe3 Rxd5 30. Nf2 Rc2 31. Kg2 Rf5 32. Rhf1 Bc5 33. Rae1 Nc6 34. Kg1 Ne5 35. Ne4 Nf3+ 36. Rxf3 Rxf3 37. Nxc5 Rxc5 38. Kg2 Rf6 39. Re2 Rfc6 40. h4 Rc2 41. Rxc2 Rxc2+ 42. Kf3 Rxa2 43. g4 Kf7 44. Kf4 h6 45. Ke5 Ra5+ 46. Kf4 Kf6 47. Kg3 Ra4 48. Kf3 Ke5 49. Kg3 Ke4 50. g5 hxg5 51. Kg4 gxh4 52. Kxh4 Ra1 53. Kg4 Rg1+ 54. Kh4 Kf3 55. Kh5 g5 56. e4 g4 57. Kg5 g3 58. Kf5 g2 59. Ke6 Rc1 60. e5 g1=Q 61. Kf7 Rc7+ 62. Kf6 Qg7+ 63. Kf5 Rc6 64. e6 Rc5# 0-1

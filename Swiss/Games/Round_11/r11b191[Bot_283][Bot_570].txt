@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "10"]
+[White "BasicBot (by: Phnx)"]
+[Black "Shadow's Unfinished Bot (by: shadowcage72)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e6 2. e3 Nc6 3. Bd3 Bd6 4. Ke2 f5 5. Bb5 Nh6 6. Nf3 O-O 7. d4 Ng4 8. Qd2 a6 9. Bxc6 bxc6 10. h3 Nh6 11. Qd3 Bb7 12. Rb1 c5 13. Bd2 Bxf3+ 14. Kxf3 cxd4 15. exd4 c5 16. Ra1 cxd4 17. Qxd4 Nf7 18. Rae1 Ne5+ 19. Rxe5 Bxe5 20. Qxe5 g5 21. Be3 a5 22. Bd4 a4 23. Qg7# 1-0

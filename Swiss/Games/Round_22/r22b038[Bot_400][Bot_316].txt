@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "21"]
+[White "Yangbot V1 (by: Cyang946)"]
+[Black "Sky-Bot (by: Sky64Redstone)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 Nf6 2. Nf3 d5 3. e3 Nc6 4. d4 e6 5. Be2 Be7 6. Bd3 O-O 7. O-O Nb4 8. e4 c5 9. e5 Ng4 10. Bf4 cxd4 11. Nxd4 Bc5 12. Qxg4 h5 13. Nxe6 hxg4 14. Nxd8 Rxd8 15. Nb5 Nxd3 16. cxd3 a6 17. Nd6 Bd4 18. Rac1 Be6 19. Nxb7 Rdb8 20. Nc5 Bf5 21. b3 Rc8 22. b4 a5 23. Nb3 Rxc1 24. Rxc1 Bxf2+ 25. Kxf2 axb4 26. d4 Rxa2+ 27. Nd2 b3 28. Kg3 b2 29. Rg1 Ra3+ 30. Kh4 Rd3 31. Kg5 g6 32. Nb1 Rxd4 33. Re1 Rb4 34. Rd1 d4 35. Bg3 d3 36. Nd2 Kg7 37. Rb1 Bd7 38. Re1 Be6 39. Rf1 Rb5 40. Kh4 Rc5 41. Rb1 Rc2 42. Bf4 f5 43. exf6+ Kxf6 44. Ne4+ Kf5 45. Kg3 Kxe4 46. Bg5 Ba2 47. Rd1 b1=Q 48. Rxb1 Bxb1 49. h4 d2 50. Bxd2 Rxd2 51. h5 gxh5 52. Kh2 h4 53. Kg1 g3 54. Kf1 Bd3+ 55. Ke1 Rxg2 56. Kd1 Ke3 57. Kc1 Ra2 58. Kd1 Ra1# 0-1

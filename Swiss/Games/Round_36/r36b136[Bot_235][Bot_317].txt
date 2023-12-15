@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "35"]
+[White "Goldibot (by: Ben)"]
+[Black "Basil (by: torbenikum)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f4 Nc6 2. e4 Nf6 3. c4 a5 4. Ke2 e5 5. fxe5 Nxe4 6. Ke3 Qh4 7. d4 Nf2 8. Qc2 Qxd4+ 9. Kf3 Bc5 10. Ke2 Qxe5+ 11. Kf3 Qh5+ 12. g4 Qxg4# 0-1

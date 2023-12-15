@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "50"]
+[White "TalkChess (by: Thomas Jahn, Mike Sherwin, Dmitry Shechtman)"]
+[Black "Generic Chess Bot #1000000 (by: Anthony)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Nc3 Nc6 2. Nf3 Nf6 3. d4 a5 4. e4 Rg8 5. Be3 h5 6. Bd3 Ng4 7. O-O Nb4 8. Qd2 e6 9. Rad1 Nxe3 10. Qxe3 c5 11. dxc5 Nxd3 12. Rxd3 Qc7 13. Na4 Qc6 14. Qd4 Qb5 15. Ne5 Qa6 16. Nxd7 Be7 17. Nab6 Bd6 18. Nxa8 Bxh2+ 19. Kh1 f5 20. Kxh2 Qxa8 21. Ne5 Ke7 22. Qd6+ Kf6 23. Rf3 Kg5 24. Kg1 fxe4 25. Rf7 b6 26. cxb6 e3 27. fxe3 Qe4 28. Qc5 Ba6 29. Rd1 Qa4 30. b7 Bxb7 31. Rxb7 Qxa2 32. Kf1 Kh6 33. Kg1 a4 34. Kf1 g6 35. Ke1 Re8 36. e4 Ra8 37. Kf1 Re8 38. Kg1 Ra8 39. Kh1 Ra6 40. Rdd7 Qb1+ 41. Qg1 Qxc2 42. Kh2 Qxe4 43. Qc5 Qh4+ 44. Kg1 Qe1+ 45. Kh2 Qh4+ 46. Kg1 Qe1+ 47. Kh2 Qh4+ 1/2-1/2

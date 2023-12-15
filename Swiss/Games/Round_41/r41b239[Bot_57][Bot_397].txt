@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "40"]
+[White "Obi (by: Carson Ouckama)"]
+[Black "TinyLispChessBot (by: tr00)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Stalemate"]
+
+1. b4 Na6 2. f4 Nxb4 3. Kf2 Rb8 4. a4 Ra8 5. c4 Rb8 6. d4 Ra8 7. g4 Rb8 8. e4 Nf6 9. e5 Ne4+ 10. Ke3 d5 11. cxd5 Qxd5 12. h4 Ng3 13. Rh3 Qe4+ 14. Kf2 Nxf1 15. Kxf1 Kd7 16. Na3 Kd8 17. g5 Qc6 18. Rb3 Qxa4 19. Re3 Qxd1+ 20. Kg2 Qxd4 21. Rf3 Qxa1 22. Bd2 Qa2 23. Nb5 Qxd2+ 24. Kg3 Qd1 25. Re3 Qxg1+ 26. Kf3 Bg4+ 27. Ke4 f5+ 28. Kd4 Nc2+ 29. Kc5 Qxe3+ 30. Kd5 Qb3+ 31. Kc5 Qb4+ 32. Kd5 Qxb5+ 33. Ke6 Kc8 34. Kf7 Qb4 35. e6 Qxf4 36. Ke8 Qf2 37. g6 hxg6 38. Kf7 Bh5 39. Ke8 Qe2 40. Kf7 Kd8 1/2-1/2

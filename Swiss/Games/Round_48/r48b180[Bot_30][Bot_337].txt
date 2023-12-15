@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "47"]
+[White "WhyAmIABot (by: Levi)"]
+[Black "SepukuBot (by: Madhu)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. b3 e5 2. d3 Qh4 3. Nc3 Bc5 4. Nf3 Qxf2+ 5. Kd2 Be3# 0-1

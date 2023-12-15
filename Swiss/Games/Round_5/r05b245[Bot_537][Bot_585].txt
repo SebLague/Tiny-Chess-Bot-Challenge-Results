@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "4"]
+[White "InfuehrDaniel MCTS (by: Daniel Infuehr)"]
+[Black "Negative Depth (by: Zoltán Kürti)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. e3 Nc6 2. Qh5 d5 3. Bb5 Nf6 4. Bd3 Nxh5 5. c4 f5 6. h3 Nb4 7. Ne2 Nxd3+ 8. Kf1 g5 9. h4 Nxc1 10. Nxc1 Bg7 11. Nc3 c6 12. N1e2 Nf6 13. Rh2 Rf8 14. c5 Qc7 15. Nd4 Qxh2 16. Nce2 Qh1+ 17. Ng1 Qxh4 18. d3 Ng4 19. Nh3 Ne5 20. Rc1 Nxd3 21. Rd1 Bd7 22. Rxd3 e5 23. Ne2 f4 24. exf4 Bh6 25. Rb3 gxf4 26. Nhg1 Rf7 27. g3 fxg3 28. f4 Bxf4 29. Ke1 Qh1 30. Kd1 Bg4 31. Ke1 Bxe2 0-1

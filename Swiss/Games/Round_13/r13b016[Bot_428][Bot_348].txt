@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "12"]
+[White "Valkyrie (by: Skelecat)"]
+[Black "SimplerBot (by: Rick Schaffer)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. d4 e6 3. d5 exd5 4. exd5 Ne5 5. Qe2 Qe7 6. f4 Ng6 7. Nc3 Nf6 8. Qxe7+ Nxe7 9. Bc4 c6 10. dxc6 dxc6 11. Nf3 Nf5 12. Ne5 Be6 13. Bxe6 fxe6 14. g4 Nd4 15. Kd1 Rd8 16. Bd2 Bd6 17. Nd3 Nxg4 18. Ne4 Bc7 19. h3 Nf6 20. Nxf6+ gxf6 21. Bb4 Kf7 22. Re1 Rhg8 23. Rc1 Rg3 24. Bc5 Bxf4 25. Nxf4 Nb3+ 26. Nd3 Nxc5 27. Ke2 Nxd3 28. cxd3 Rxh3 29. Red1 Rh2+ 30. Ke3 Rxb2 31. Rh1 Rh8 32. Rb1 Rxb1 33. Rxb1 b6 34. Rc1 c5 35. d4 cxd4+ 36. Kxd4 Rd8+ 37. Ke4 f5+ 38. Ke3 Rd7 39. Rc4 a5 40. Rc6 b5 41. Rc5 Rb7 42. a3 b4 43. axb4 axb4 44. Rc8 e5 45. Rc2 Ke6 46. Rb2 Kd5 47. Rd2+ Kc4 48. Rc2+ Kb5 49. Rc8 b3 50. Rc3 b2 51. Rb3+ Kc6 52. Rxb2 Rxb2 53. Kd3 f4 54. Ke4 Rb3 55. Kxe5 f3 56. Kd4 f2 57. Kc4 Rh3 58. Kd4 f1=Q 59. Ke4 Rb3 60. Ke5 Rb4 61. Ke6 Re4# 0-1

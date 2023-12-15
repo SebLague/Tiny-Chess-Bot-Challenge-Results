@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "15"]
+[White "AchillesAlpha (by: Achilles)"]
+[Black "tybot (by: Tylyr1)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Illegal move"]
+
+1. a3 e6 2. c3 Qh4 3. g3 Qe4 4. f3 Qc4 5. b3 Qc5 6. d4 Qd5 7. Be3 Bd6 8. Kd2 e5 9. Bh3 exd4 10. Kc1 Kd8 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "15"]
+[White "SimpleMinds (by: Karl Jungtow)"]
+[Black "WhyAmIABot (by: Levi)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 g6 2. Qg4 e5 3. Nf3 a5 4. Nxe5 Ne7 5. Qf4 f6 6. Qxf6 Ng8 7. Qf7# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "Achilles Random (by: Achilles)"]
+[Black "Supertask-Time-Troubles (by: TimFW)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c3 d5 2. Qc2 a5 3. Qxh7 Rxh7 4. f4 a4 5. b3 Qd6 6. e4 axb3 7. exd5 Qxf4 8. axb3 Qe4+ 9. Kd1 Rxa1 10. d6 Qxb1 11. Bd3 Qxd3 12. dxc7 Qf1+ 13. Kc2 Na6 14. Ne2 Rxc1+ 15. Nxc1 Qxh1 16. Ne2 Qxg2 17. Nc1 Rxh2 18. Kd1 Qxd2# 0-1

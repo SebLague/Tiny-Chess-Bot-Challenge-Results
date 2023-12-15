@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "56"]
+[White "3D.Opening Bot (by: Mark Grennan)"]
+[Black "Blindo (by: MS)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 d5 2. Nc3 Bg4 3. Nf3 Bxf3 4. gxf3 Nc6 5. Kd2 Nxd4 6. Kd3 e5 7. Kd2 Bb4 8. Kd3 Bxc3 9. Kxc3 Qf6 10. Bg2 Qg6 11. Bf1 Qf5 12. Bg2 Qh5 13. Kd2 Qg6 14. Bf1 Qf5 15. Ke3 Qh5 16. Qd2 Qf5 17. Bg2 Qg6 18. Bf1 Qa6 19. a3 Nf5# 0-1

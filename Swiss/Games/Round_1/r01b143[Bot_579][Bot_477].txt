@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "Guppy (by: Simply In Dev)"]
+[Black "Thrower (by: EZDragon)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 d6 2. e4 Nf6 3. Nc3 Be6 4. d5 Nxd5 5. exd5 Bf5 6. Bd3 Nc6 7. Bxf5 Qd7 8. Bxd7+ Kxd7 9. dxc6+ bxc6 10. Qf3 g5 11. Qxf7 Rb8 12. Bxg5 Rb4 13. a3 Bg7 14. axb4 Rb8 15. Qxe7+ Kc8 16. Rxa7 Bxc3+ 17. bxc3 Rb6 18. Qxc7# 1-0

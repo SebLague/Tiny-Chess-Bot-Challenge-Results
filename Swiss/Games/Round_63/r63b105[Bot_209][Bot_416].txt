@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "62"]
+[White "SimpleMCTS (by: GinoPerrotta)"]
+[Black "ReturnOfTheQueen (by: Staicu Ciprian)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e6 2. Nf3 Qf6 3. Nb5 Na6 4. e3 c6 5. Qe2 cxb5 6. Qxb5 Nb4 7. Qc4 Bd6 8. Rb1 Ne7 9. c3 Qf5 10. d3 Nc2+ 11. Kd2 Nxe3 12. fxe3 Nc6 13. Ke1 b5 14. Qb3 Na5 15. Qd1 Be7 16. Nd4 Qd5 17. e4 Qxa2 18. Bf4 b4 19. Nb5 Kf8 20. Ra1 Bh4+ 21. g3 Qxb2 22. Rxa5 Be7 23. Qg4 bxc3 24. Be3 c2 25. e5 Bb4+ 26. Nc3 Bxc3+ 27. Ke2 c1=Q+ 28. Kf3 Qd1+ 29. Kf4 Bxe5+ 30. Rxe5 Qxg4+ 31. Kxg4 Qxe5 32. Bg2 Rb8 33. Bf4 h5+ 34. Kh3 Qf5+ 35. Kh4 Qg4# 0-1

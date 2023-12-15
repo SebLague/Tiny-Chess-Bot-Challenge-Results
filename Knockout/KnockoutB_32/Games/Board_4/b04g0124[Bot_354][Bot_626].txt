@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Knockout 32"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "FomBot (by: fominvic81)"]
+[Black "drip leab (by: JeffLegendPower)"]
+[Result "0-1"]
+[TimeControl "30+0.1"]
+[Termination "Checkmate"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bf4 Bf5 4. e3 e6 5. c4 dxc4 6. Bxc4 Bd6 7. O-O Bxf4 8. exf4 O-O 9. Nc3 Nc6 10. Qd2 Bg4 11. Rad1 Bxf3 12. gxf3 Nd5 13. Rfe1 Nxc3 14. bxc3 Qh4 15. Bf1 Ne7 16. Re4 Nf5 17. Bg2 Nd6 18. Ree1 Rfe8 19. Qe3 h6 20. h3 b5 21. Qe5 Rac8 22. Ra1 f6 23. Qe3 a5 24. a4 b4 25. cxb4 axb4 26. Rad1 Kh8 27. Qd2 b3 28. Qc3 Qxf4 29. Qxb3 Nf5 30. Re4 Qd6 31. Bf1 Rb8 32. Qc2 Red8 33. Be2 Qb6 34. Qc3 Ra8 35. Qa1 Qa7 36. Qc3 Rd6 37. a5 Qxa5 38. Qxa5 Rxa5 39. d5 Raxd5 40. Rxd5 exd5 41. Re8+ Kh7 42. Bd3 g6 43. Kg2 Rd7 44. Bb5 Re7 45. Rd8 Nd6 46. Bd3 Kg7 47. Kg3 f5 48. f4 d4 49. h4 Kf6 50. Rf8+ Rf7 51. Rd8 Ke6 52. Rh8 h5 53. Rg8 Rf6 54. Ra8 c5 55. Ra6 Kd5 56. Ra5 Ne4+ 57. Kg2 Rb6 58. Bb5 Nd6 59. Be2 Rb2 60. Kf1 Rb3 61. Kg2 d3 62. Bf3+ Ne4 63. Ra8 c4 64. Rd8+ Kc5 65. Rc8+ Kb4 66. Rc6 c3 67. Bxe4 fxe4 68. f5 d2 69. Rb6+ Kc4 70. Rc6+ Kd5 71. Rc7 c2 72. Rd7+ Kc6 73. Rxd2 c1=Q 74. Ra2 Rb1 75. Kg3 gxf5 76. Rc2+ Qxc2 77. Kf4 Qxf2+ 78. Kg5 Qf3 79. Kf6 e3 80. Kf7 e2 81. Kg6 e1=Q 82. Kf6 Qxh4+ 83. Kf7 Qd5+ 84. Kg6 Qg8+ 85. Kxf5 Rb5# 0-1

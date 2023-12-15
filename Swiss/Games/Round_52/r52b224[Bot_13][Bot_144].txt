@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "51"]
+[White "ScholarsBot (by: magic216)"]
+[Black "Caissa Alexander (by: Ephraim225)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Bc4 Qf6 3. Qh5 Qb6 4. Qxf7+ Kd8 5. Qxf8# 1-0

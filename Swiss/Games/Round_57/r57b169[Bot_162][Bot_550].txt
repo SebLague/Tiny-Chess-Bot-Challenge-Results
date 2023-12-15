@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "56"]
+[White "BitBlunderer (by: Till Zemann (GitHub: https://github.com/till2 :D))"]
+[Black "Octobot (by: Andrea Colognese)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 e6 2. e4 Qf6 3. Bc4 Bc5 4. Nc3 Nc6 5. d4 Bb4 6. Kf1 b6 7. Ne2 Na5 8. Bg5 Qg6 9. Bd3 Nb3 10. axb3 Qh5 11. Ne5 Qxg5 12. c3 Bd6 13. Nc4 Be7 14. Kg1 b5 15. Na5 b4 16. Nc4 Qg4 17. Ne3 Qh5 18. g4 Qh3 19. f3 Qxf3 20. Ng2 bxc3 21. bxc3 Qxg4 22. Nf4 Qg5 23. Nxe6 dxe6 24. h4 Qg3 25. Bb5+ Kf8 26. Bc6 Rb8 27. Rxa7 Bxh4 28. Rxh4 Ne7 29. Rh1 Nxc6 30. Ra2 Rb5 31. Ra8 Ke7 32. Qg4 Qxg4 33. Rh4 Qg3 34. Rh6 gxh6 35. d5 exd5 36. exd5 Rxd5 37. Ra1 Rg8 38. Kf1 Qxg2+ 39. Ke1 Ne5 40. Rb1 Nf3# 0-1

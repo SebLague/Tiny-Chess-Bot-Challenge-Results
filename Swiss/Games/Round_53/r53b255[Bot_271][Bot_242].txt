@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "52"]
+[White "DoesTheBotNameHasACharacterLimitBecauseIAmSureThisCanGetInterestingAndIAmNotTalkingAboutTheBotIMeanSeriouslyTheBotIsBasicalyUselessButThatWasFunnyThanksSmileyFace (by: zappynou)"]
+[Black "SlothBot (by: 0xFF)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. h4 Nf6 2. a3 Nc6 3. Ra2 e5 4. Rh2 d6 5. Ra1 Ng4 6. Ra2 Nxh2 7. Ra1 Nxf1 8. Kxf1 Qxh4 9. Ke1 Bg4 10. Kf1 Nd4 11. Ke1 Bxe2 12. Qxe2 Nxc2+ 13. Kd1 Nxa1 14. Qxe5+ dxe5 15. Ke1 Qe4+ 16. Kd1 Qc2+ 17. Ke1 Qxc1+ 18. Ke2 Qxb1 19. Ke3 Nc2+ 20. Ke2 Nd4+ 21. Ke3 Qxg1 22. Kd3 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "41"]
+[White "RayBot (by: Shahriar Rayed)"]
+[Black "the mater (by: )"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 d5 2. Nc3 f5 3. Nf3 h5 4. Ne5 g5 5. Qf3 c6 6. Ng6 g4 7. Qf4 Rh6 8. Nxf8 Kxf8 9. Bd3 Qd6 10. Qxd6 exd6 11. b3 b5 12. a4 b4 13. Ne2 a5 14. Bb2 h4 15. h3 Ne7 16. hxg4 fxg4 17. Nf4 Bf5 18. g3 Bxd3 19. cxd3 Nf5 20. gxh4 Nxh4 21. Rxh4 Rxh4 22. Ng6+ Kf7 23. Nxh4 Na6 24. Ke2 Rg8 25. Nf5 Ke6 26. Nd4+ Kd7 27. Rh1 Kc7 28. Rh7+ Kb6 29. Nf5 Nc5 30. Bd4 Ra8 31. Nxd6 Rb8 32. Rg7 g3 33. fxg3 Rh8 34. Rb7+ Ka6 35. Bxc5 Rh2+ 36. Kf3 Rf2+ 37. Kxf2 d4 38. Ra7# 1-0

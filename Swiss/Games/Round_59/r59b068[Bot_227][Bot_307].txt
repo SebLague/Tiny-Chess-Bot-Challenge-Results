@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "58"]
+[White "ConvolutedBot (by: pwahs)"]
+[Black "Stephanee (by: Elijah Bradshaw)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 c5 2. Nc3 d5 3. dxc5 Nf6 4. Nf3 Nc6 5. Bf4 d4 6. Na4 Bg4 7. h3 Bxf3 8. exf3 e5 9. Bh2 b5 10. Bxb5 Qa5+ 11. Nc3 O-O-O 12. Qd3 dxc3 13. Qf5+ Nd7 14. Bxc6 cxb2+ 15. Ke2 bxa1=N 16. Bxd7+ Rxd7 17. Rxa1 Qb5+ 18. Ke1 Bxc5 19. Rc1 Qa5+ 20. c3 Qxa2 21. Qc2 Qxc2 22. Rxc2 Rhd8 23. Bxe5 Re7 24. Re2 Rde8 25. f4 f6 26. g4 fxe5 27. f5 Rb7 28. Ra2 Rb3 29. Rc2 Rb1+ 30. Ke2 Rh1 31. g5 Rf8 32. f6 gxf6 33. g6 hxg6 34. Kd3 Rxh3+ 35. Kc4 Bb6 36. Kd5 Rf3 37. Rc1 Bxf2 38. Rf1 Kd7 39. Ke4 Rxc3 40. Kd5 Rfc8 41. Rxf2 R3c4 42. Rxf6 R8c5# 0-1

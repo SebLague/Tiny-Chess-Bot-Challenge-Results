@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "36"]
+[White "Bob (by: Kökényesi Attila (UltraGeek))"]
+[Black "NameGoesThere's bot (by: NameGoesThere)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. b3 e5 2. f3 Qh4+ 3. g3 Qd8 4. a4 d5 5. d3 Bb4+ 6. Kf2 Bc5+ 7. Ke1 Bb4+ 8. Kf2 Be1+ 9. Kg2 Bb4 10. e3 Bh3+ 11. Kf2 Bd7 12. a5 Be1+ 13. Ke2 Bb4 14. a6 b5 15. Kf2 Be1+ 16. Ke2 Bb4 17. Ra2 Ne7 18. Kf2 Be1+ 19. Ke2 Be6 20. g4 Bb4 21. g5 Nd7 22. Kf2 Be1+ 23. Ke2 Bh4 24. g6 hxg6 25. Qd2 f5 26. c3 c5 27. Qb2 Nc8 28. Na3 Ne7 29. Nxb5 Nc8 30. Qc2 Ne7 31. Nd6+ Kf8 32. Ra4 Bf6 33. h3 Nc6 34. h4 Nd4+ 35. Kd1 Nxc2 36. e4 Ne3+ 37. Ke1 Nc2+ 38. Kd1 fxe4 39. d4 Ne3+ 40. Ke1 Nc2+ 41. Kd1 exd4 42. f4 Bg4+ 43. Kd2 dxc3+ 44. Kxc2 Bd1+ 45. Kb1 c2+ 46. Ka2 Qe7 47. Nb5 Qd8 48. h5 Qe7 49. hxg6 Rxh1 50. Ne2 Qd8 51. Bg2 Rh8 52. Ng1 Qe7 53. Bf1 Qd8 54. Bg2 Be7 55. Ka3 c4+ 56. Ka2 cxb3+ 57. Ka1 Bf6+ 58. Nc3 Bxc3+ 59. Bb2 c1=Q# 0-1

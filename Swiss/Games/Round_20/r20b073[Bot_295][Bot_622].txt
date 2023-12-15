@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "19"]
+[White "One-Line Chess (by: Kaydon Sloan)"]
+[Black "R2D2 (by: Andrei Taropa)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c4 e5 2. e3 Bb4 3. a3 Be7 4. d4 d6 5. f4 e4 6. g4 Bh4+ 7. Kd2 c5 8. Nc3 Nf6 9. g5 cxd4 10. exd4 e3+ 11. Kxe3 Ng4+ 12. Kf3 Nf2 13. Qe1+ Kf8 14. Kg2 Qd7 15. Nge2 Qh3+ 16. Kg1 Qf3 17. Bg2 Nh3+ 18. Bxh3 Bxe1 19. Rb1 Qf2# 0-1

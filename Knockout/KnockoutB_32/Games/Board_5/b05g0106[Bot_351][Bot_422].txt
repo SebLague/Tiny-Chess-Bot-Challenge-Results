@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Knockout 32"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "Capybara (by: Matěj Fencl)"]
+[Black "FloppyChess 4.2 (by: Omsk)"]
+[Result "0-1"]
+[TimeControl "30+0.1"]
+[Termination "Checkmate"]
+
+1. c4 e6 2. Nf3 d5 3. e3 c5 4. d4 Nf6 5. Nc3 a6 6. Bd3 Bd6 7. O-O dxc4 8. Bxc4 O-O 9. Bd2 b5 10. dxc5 Bxc5 11. Bb3 Bb7 12. Rc1 Nbd7 13. Bc2 b4 14. Na4 Bd6 15. Qe2 Ne4 16. Rfd1 Qe7 17. a3 bxa3 18. bxa3 Bxa3 19. Bxe4 Bxe4 20. Rc7 Bd6 21. Bb4 Bxf3 22. Qxf3 Ne5 23. Qh5 Qxc7 24. Bxd6 Qa5 25. Nb2 Nc6 26. Qxa5 Nxa5 27. Bxf8 Kxf8 28. h4 Ke7 29. e4 Nb3 30. h5 a5 31. Nc4 a4 32. Nb6 Ra6 33. Rd7+ Ke8 34. h6 gxh6 35. Rb7 a3 36. Rb8+ Ke7 37. Rb7+ Kf6 38. Nd7+ Kg7 39. Nb8 a2 40. Nxa6 a1=Q+ 41. Kh2 Nd2 42. Nc7 Qe5+ 43. g3 Qxe4 44. Ne8+ Kg6 45. Nd6 Qc6 46. Rb8 Nf3+ 47. Kg2 Ng5+ 48. Kg1 Qxd6 49. Rg8+ Kf5 50. Kh2 Qd1 51. Rxg5+ hxg5 52. Kg2 Qe2 53. Kg1 Kg4 54. f3+ Kxg3 55. f4 Qd1# 0-1

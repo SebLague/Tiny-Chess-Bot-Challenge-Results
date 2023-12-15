@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "42"]
+[White "Saubstauga (by: Dominik)"]
+[Black "TinyLispChessBot (by: tr00)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. h4 Na6 2. g4 Nb4 3. c4 Nf6 4. a4 Ne4 5. f4 Ng3 6. e3 Nxh1 7. d4 Rb8 8. h5 Ng3 9. Bh3 Ra8 10. g5 Rb8 11. c5 Ra8 12. a5 Rb8 13. b3 Ra8 14. Nf3 Rb8 15. Ne5 Ra8 16. Ng4 Rb8 17. Ne5 Ra8 18. Ng4 Rb8 19. Ne5 1/2-1/2

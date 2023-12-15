@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "13"]
+[White "SimpleBot (by: Tim Zollner)"]
+[Black "Chark Bot V2 (by: Team Chark)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. e3 e5 2. Qh5 Qf6 3. Bb5 c6 4. Bd3 d5 5. Nf3 e4 6. Ng5 exd3 7. cxd3 Nh6 8. O-O Bg4 9. Qh4 Nf5 10. Qxg4 h5 11. Qf4 Bd6 12. Ne4 dxe4 13. Qxe4+ Kd7 14. g3 Na6 15. g4 hxg4 16. f4 g3 0-1

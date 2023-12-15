@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "14"]
+[White "3D.Opening Bot (by: Mark Grennan)"]
+[Black "ItBeatsMe (by: Soma Nyiro)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 c6 2. Nc3 d6 3. Nf3 Bg4 4. Nd2 Qa5 5. Ncb1 Nd7 6. Rg1 Be6 7. Rh1 Ngf6 8. Rg1 c5 9. dxc5 Rc8 10. cxd6 Qb4 11. dxe7 Kxe7 12. Rh1 Nb6 13. Rg1 Rd8 14. c3 Qd6 15. Rh1 g6 16. Rg1 Bg7 17. Rh1 h5 18. Rg1 Qxh2 19. Nb3 Rxd1+ 20. Kxd1 Qxg1 21. Ke1 Rd8 22. Bd2 Ne4 23. Bc1 Qxf1+ 24. Kxf1 Rd1# 0-1

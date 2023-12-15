@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "5"]
+[White "Knightmare (by: Miguel Piedrafita)"]
+[Black "TBbot (by: TBMPFW)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 h5 2. Nb5 c5 3. f4 g5 4. Nxa7 Rxa7 5. fxg5 f5 6. gxf6 exf6 7. Kf2 b6 8. Ke1 f5 9. Kf2 d5 10. Rb1 h4 11. Ke1 b5 12. h3 f4 13. Kf2 c4 14. a3 b4 15. Ke1 bxa3 16. bxa3 Nh6 17. Rxb8 f3 18. exf3 Kf7 19. a4 Bd6 20. Rb4 Bg3+ 21. Ke2 Re7# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "4"]
+[White "Peeter 1 (by: Gouuu)"]
+[Black "StevenBot (by: Steven)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 f5 2. Qh5+ g6 3. Qf3 e5 4. Qd5 g5 5. Qxe5+ Kf7 6. Qxh8 h5 7. Qxh5+ Kf6 8. a3 a5 9. Qh8+ Ke6 10. Qxg8+ Ke5 11. d4+ Ke4 12. Bd3# 1-0

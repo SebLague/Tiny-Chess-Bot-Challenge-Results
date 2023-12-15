@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "50"]
+[White "RayBot (by: Shahriar Rayed)"]
+[Black "Magnuth Carlthen (by: wolfuhfuh)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 Nf6 2. Qf3 g6 3. b3 Bg7 4. Nc3 O-O 5. Ba3 d5 6. Bd3 Re8 7. h4 e5 8. Bb5 c6 9. Be2 d4 10. Na4 e4 11. Qg3 dxe3 12. Rd1 exf2+ 13. Qxf2 b5 14. Nc3 e3 15. Qf4 Ng4 16. Bxg4 exd2+ 17. Kf1 Bxc3 18. Ne2 Be5 19. Qf3 Bxg4 20. Qxg4 Na6 21. Rh3 f5 22. Qf3 b4 23. Qxc6 Qb6 24. Qxb6 axb6 25. Bxb4 Nxb4 26. c3 Nc2 27. Rxd2 Rxa2 28. Kf2 Rea8 29. Nc1 Bf4 30. Nxa2 Bxd2 31. Ke2 Rxa2 32. Kxd2 Nd4+ 33. Kd3 Nxb3 34. g3 Nc5+ 35. Kc4 Ne4 36. Kb5 Rb2+ 37. Kc4 Rc2 38. g4 fxg4 39. Re3 Rxc3+ 40. Rxc3 Nxc3 41. Kd4 g3 42. Ke3 Ne4 43. Kf3 Kf8 44. Kg2 Ke8 45. Kf3 Kd8 46. Kg2 Kd7 47. Kf3 b5 48. h5 gxh5 49. Kg2 Ke6 50. Kg1 Kd5 51. Kg2 b4 52. Kh3 b3 53. Kg2 b2 54. Kf3 b1=Q 55. Ke2 Qc2+ 56. Ke1 Qd2+ 57. Kf1 Qf2# 0-1

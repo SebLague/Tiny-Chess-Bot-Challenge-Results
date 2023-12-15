@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "12"]
+[White "MinimalBot (by: GreenSalad_)"]
+[Black "3D.Opening Bot (by: Mark Grennan)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 d5 2. Nb5 Nc6 3. Nxc7+ Qxc7 4. f4 Qxf4 5. d4 Qe4 6. Bf4 Qxf4 7. Nf3 Bf5 8. Ne5 Nxe5 9. e3 Qxe3+ 10. Qe2 Qxd4 11. Qb5+ Kd8 12. Qe8+ Kxe8 13. Bb5+ Kd8 14. g4 Qe3+ 15. Kd1 Bxg4+ 16. Be2 Bxe2+ 17. Ke1 Nf3# 0-1

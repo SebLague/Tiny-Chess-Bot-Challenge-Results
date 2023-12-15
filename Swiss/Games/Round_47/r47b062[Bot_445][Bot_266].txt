@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "46"]
+[White "KunoVonHagenBot (by: Jakob)"]
+[Black "Game Tech Explained Bot (by: Game Tech Explained)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Nc3 e5 3. Nf3 Nf6 4. d4 exd4 5. Nxd4 d5 6. Nxc6 bxc6 7. e5 Nd7 8. Bf4 g5 9. Bg3 Bg7 10. Qe2 Qe7 11. e6 fxe6 12. Bxc7 e5 13. Qh5+ Kf8 14. Ba5 Qc5 15. Bd8 d4 16. Nd1 Qxc2 17. Qxg5 h6 18. Qe7+ Kg8 19. Be2 Nc5 20. Qe8+ Kh7 21. Qe7 Rxd8 22. Qxd8 Bg4 23. Qh8+ Rxh8 24. Bxg4 Qe4+ 25. Be2 d3 26. Nc3 Qxg2 27. Kd2 dxe2 28. Kxe2 e4 29. h4 Qf3+ 30. Kd2 Qxf2+ 31. Ne2 Rd8+ 32. Kc1 Qxe2 33. Rb1 Nd3# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "17"]
+[White "BasicAlphaBeta (by: ThonyDragon)"]
+[Black "WhateverBot (by: Alec Holden)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e6 2. g3 d5 3. Bd3 Nh6 4. Qf3 Be7 5. Nh3 O-O 6. Qh5 Bd7 7. Ng1 Na6 8. Bxa6 bxa6 9. Nf3 Bf6 10. g4 Bc6 11. g5 Be7 12. gxh6 gxh6 13. Qxh6 Bd6 14. Rg1+ Bg3 15. Rxg3+ Qg5 16. Rxg5+ Kh8 17. Qg7# 1-0

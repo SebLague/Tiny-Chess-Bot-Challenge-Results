@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "12"]
+[White "BitBlunderer (by: Till Zemann (GitHub: https://github.com/till2 :D))"]
+[Black "StallerBot (by: Ean)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Nf3 Na6 2. d4 c5 3. Bf4 cxd4 4. Nxd4 b5 5. e3 Qa5+ 6. Nc3 b4 7. Qf3 Qd8 8. Qxa8 bxc3 9. bxc3 Nc7 10. Qxa7 Ne6 11. Bc4 Nf6 12. Bxe6 Nd5 13. Bxd5 e6 14. Qb8 Qb6 15. Qxb6 h5 16. Be4 Be7 17. Qb8 O-O 18. Qe5 h4 19. Qh5 g6 20. Qe5 Re8 21. c4 Bb4+ 22. Kd1 Be7 23. c3 Rf8 24. f3 Re8 25. Qxe6 dxe6 26. Bc6 Rf8 27. Be4 Re8 28. Bc6 Rf8 29. Be4 Re8 1/2-1/2

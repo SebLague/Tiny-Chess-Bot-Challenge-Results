@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "20"]
+[White "KBot (by: Kristian Mischke)"]
+[Black "Nautilus (by: Sherlock)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. b3 d5 2. Nf3 Bf5 3. Nh4 Bd7 4. Nc3 d4 5. Ne4 e5 6. Nf3 f5 7. Ng3 f4 8. Ne4 Nf6 9. Nxf6+ gxf6 10. e3 Nc6 11. exf4 exf4 12. Nxd4 Nxd4 13. Qh5+ Ke7 14. Ba3+ c5 15. Bxc5+ Ke6 16. Bc4# 1-0

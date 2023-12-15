@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "4"]
+[White "Sven (by: Erik & Pascal)"]
+[Black "Bruteforcer (by: SiestaGuru)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. exd5 Qxd5 3. d4 Nc6 4. Ne2 Qe4 5. Nc3 Qf5 6. d5 Nb4 7. g4 Qxc2 8. Bh3 Nd3+ 9. Kf1 Qxd1+ 10. Nxd1 Nf6 11. Ne3 h5 12. Nd4 Bxg4 13. Bxg4 Nxg4 14. Nb5 Kd7 15. Nxg4 hxg4 16. Ke2 a6 17. Nxc7 Kxc7 18. Kxd3 Rd8 19. Ke4 g6 20. Bd2 f5+ 21. Ke5 Kd7 22. Bc1 Rc8 23. Bg5 Bg7+ 24. Kf4 Rh3 25. Bxe7 Kxe7 26. Rae1+ Kf7 27. b3 Rc4+ 28. bxc4 Rf3+ 29. Kg5 Bf6+ 30. Kh6 Rh3# 0-1

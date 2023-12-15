@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "20"]
+[White "Robérto (by: Nia)"]
+[Black "Running Bot (by: Chris Pontius)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 e6 2. Nc3 Bb4 3. Ne4 f5 4. Rb1 fxe4 5. Nd4 Ne7 6. b3 O-O 7. e3 c5 8. Ba3 Bxa3 9. Qe2 cxd4 10. b4 Qb6 11. Qc4 d5 12. Qc5 Qxc5 13. bxc5 Bxc5 14. Be2 Nd7 15. Rb3 g5 16. h4 gxh4 17. Bh5 Nf6 18. Ke2 Nxh5 19. Rxh4 dxe3 20. dxe3 Nf6 21. Rh1 Ng4 22. f4 Nf5 23. Rb5 Ng3+ 24. Ke1 Bxe3 25. Rh3 Bxf4 26. Rb3 Nf5 27. a3 Nfe3 28. Rc3 d4 29. Rb3 Nxc2+ 30. Ke2 d3+ 31. Rbxd3 exd3+ 32. Rxd3 Ne5 33. Rd2 Bxd2 34. Kxd2 Rf2+ 35. Kc3 Rxg2 36. Kb2 Kf7 37. Kb3 Kf6 38. Kb2 a5 39. Kb3 Bd7 40. Kb2 Rc8 41. Kc1 Nxa3+ 42. Kd1 Rcc2 43. Ke1 Rg1# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "45"]
+[White "Baby Squid (by: Jonas Tyroller)"]
+[Black "MapBot (by: Map)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. d4 Nf6 3. e5 Nd5 4. c4 Nb6 5. d5 Nxe5 6. c5 Nbc4 7. f4 e6 8. Qd4 Qh4+ 9. g3 Qh5 10. Be2 Qf5 11. Nc3 Bxc5 12. Qxc5 Nd3+ 13. Bxd3 Qxd3 14. dxe6 dxe6 15. Qxc7 O-O 16. Nge2 Rd8 17. Kf2 Rd7 18. Qc5 b6 19. Qh5 Qc2 20. Qb5 Nd6 21. Qc6 Rb8 22. Rd1 Ne4+ 23. Qxe4 Qxe4 24. Rxd7 Qxe2+ 25. Nxe2 Bxd7 26. Be3 Rc8 27. Rd1 Ba4 28. b3 Be8 29. Nd4 g6 30. g4 Kg7 31. g5 b5 32. Ne2 a5 33. Bb6 a4 34. Bd4+ Kg8 35. a3 Bc6 36. bxa4 bxa4 37. Rc1 Kf8 38. Rc5 Bd7 39. Rxc8+ Bxc8 40. Nc3 Bd7 41. Ne4 Bc6 42. Nf6 Kg7 43. Ke1 Bb5 44. Kd2 Bc4 45. h4 Bb5 46. Kc3 Bc6 47. Kb4 h5 48. Nxh5+ Kf8 49. Nf6 Ke7 50. Kc5 Bf3 51. Kb5 Bd1 52. Ne4 Kd7 53. Nc5+ Kd6 54. Be5+ Kd5 55. Nxa4 Bxa4+ 56. Kxa4 Ke4 57. Kb4 Kf5 58. a4 Kg4 59. a5 f6 60. gxf6 g5 61. hxg5 Kf5 62. f7 Ke4 63. f8=Q Kf3 64. g6 Kg3 65. g7 Kf3 66. g8=Q Kf2 67. Qd6 Kf3 68. Qd3+ Kf2 69. Qgg3# 1-0

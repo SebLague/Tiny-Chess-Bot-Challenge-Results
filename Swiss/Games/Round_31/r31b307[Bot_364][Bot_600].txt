@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "30"]
+[White "BongCloudBot (by: Ben)"]
+[Black "Edbd (by: Ahmad)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. e4 h5 2. Ke2 g5 3. Ke1 f5 4. Ke2 fxe4 5. Ke1 e5 6. Ke2 d5 7. Ke1 c5 8. Ke2 b5 9. Ke1 a5 10. Ke2 h4 11. Ke1 g4 12. Ke2 1-0

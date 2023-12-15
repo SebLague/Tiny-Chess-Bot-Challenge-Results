@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "53"]
+[White "MaterFromRadiatorSprings (by: Markus Grand Petersen)"]
+[Black "Stoccafisso (by: Riccardo D'Incau)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e5 2. Qg4 Nc6 3. Bb5 Bd6 4. Bxc6 Kf8 5. Ba4 Rb8 6. Nc3 Ra8 7. Kd1 Rb8 8. Nb5 Ra8 9. Nxd6 Nf6 10. Qb4 Ke7 11. Nxb7+ Ke8 12. Nxd8 Kxd8 13. Ke1 Ke8 14. Qc3 Ke7 15. Qxc7 Ke6 16. Bb5 Kd5 17. Bc4+ Ke4 18. Bd3+ Kd5 19. Nh3 Ke6 20. Ng5+ Kd5 21. Bc4# 1-0

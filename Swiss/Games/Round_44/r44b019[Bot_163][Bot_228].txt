@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "43"]
+[White "Grenouille (by: mcngnt)"]
+[Black "Buildabot (by: Buildasaurus)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. d4 d5 3. Bf4 Nc6 4. e3 Bg4 5. Bd3 e6 6. h3 Bh5 7. Nc3 Bd6 8. Bxd6 cxd6 9. Qe2 O-O 10. O-O e5 11. dxe5 dxe5 12. Rfd1 Qc8 13. g4 e4 14. gxh5 Qxh3 15. Ne1 exd3 16. Nxd3 Ng4 17. f3 Nxe3 18. Qxe3 d4 19. Qf4 dxc3 20. Qg4 Qxg4+ 21. fxg4 cxb2 22. Rab1 Rfd8 23. Rxb2 b6 24. Kf2 Ne5 25. Kg3 Rac8 26. Rbb1 Rc3 27. Kf4 Nxd3+ 28. Rxd3 Rcxd3 29. cxd3 Rd4+ 30. Kf5 Rxd3 31. Rc1 h6 32. Rc8+ Kh7 33. Rc7 Ra3 34. Rxf7 Rxa2 35. Ke5 a5 36. Kd5 b5 37. Ra7 a4 38. Kc5 Rb2 39. Ra5 Rb3 40. Kd5 a3 41. Kc5 b4 42. Kc6 Rb2 43. Kd5 Rc2 44. g5 hxg5 45. h6 Kxh6 46. Ke6 a2 47. Ra8 b3 48. Kf5 Rc5+ 49. Ke4 b2 50. Kd4 Rc7 51. Ra6+ Kh5 52. Rxa2 b1=Q 53. Ra6 Qd1+ 54. Ke3 Re7+ 55. Re6 Rxe6+ 56. Kf2 Re2+ 57. Kf3 Qd3# 0-1

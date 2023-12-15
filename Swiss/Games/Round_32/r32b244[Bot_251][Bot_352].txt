@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "31"]
+[White "The Red Crayon (by: Daniel L.)"]
+[Black "NameGoesThere's bot (by: NameGoesThere)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 d5 2. Qd3 h5 3. e4 dxe4 4. Qxe4 b6 5. Qxa8 Nd7 6. Kd1 a5 7. Ke1 a4 8. Kd1 e6 9. Ke1 Bb4+ 10. Kd1 Ne7 11. Ke2 Ba6+ 12. Kd1 Qxa8 13. Bd2 Bxf1 14. Kc1 Bxd2+ 15. Kd1 Bf4 16. Ke1 Qe4+ 17. Kd1 Be2+ 18. Ke1 Bc4+ 19. Kd1 Qxg2 20. Ke1 Qf1# 0-1

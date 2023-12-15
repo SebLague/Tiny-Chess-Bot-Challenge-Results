@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "15"]
+[White "Stoccafisso (by: Riccardo D'Incau)"]
+[Black "Hippo (by: MonteDegro)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. Nc3 d4 3. Bd3 dxc3 4. bxc3 Nc6 5. Bb5 Nf6 6. Qe2 Qd7 7. Kd1 a6 8. Ba4 b5 9. Bb3 Qg4 10. Qf3 e5 11. Ke1 Bc5 12. Kd1 Nxe4 13. Bxf7+ Ke7 14. Qxg4 Bxg4+ 15. f3 Kxf7 16. Nh3 Bxh3 17. fxe4 Bxg2 18. Re1 Bf3+ 19. Re2 Bxe2+ 20. Kxe2 a5 21. h4 Ke6 22. d4 exd4 23. cxd4 Nxd4+ 24. Ke3 Nxc2+ 25. Kf4 Bd6+ 26. e5 Bxe5+ 27. Kg5 Nxa1 28. a4 bxa4 29. h5 Nc2 30. h6 Rhd8 31. hxg7 Rd1 32. g8=B+ Rxg8+ 33. Kh4 Rh1# 0-1

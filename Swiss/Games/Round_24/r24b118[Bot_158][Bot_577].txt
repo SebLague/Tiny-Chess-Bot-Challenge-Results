@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "23"]
+[White "Turochamp (Faithful) (by: P Rivero)"]
+[Black "Butter robot (by: DODIK)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. Nc3 Nc6 3. d4 Nb4 4. a3 Nc6 5. h4 a6 6. d5 Nb8 7. Qd4 Ng8 8. Bg5 c6 9. O-O-O d6 10. Be2 h6 11. Be3 cxd5 12. exd5 e5 13. Qb4 a5 14. Qb5+ Qd7 15. Nf3 Qxb5 16. Bxb5+ Bd7 17. Bxd7+ Kxd7 18. Na4 Kc7 19. Rd3 e4 20. Rc3+ Kd8 21. Bb6+ Kd7 22. Rc7+ Ke8 23. Rc8+ Ke7 24. Bd8+ Kd7 25. Nb6+ Ke8 26. Bg5# 1-0

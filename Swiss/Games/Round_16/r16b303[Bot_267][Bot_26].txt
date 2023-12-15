@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "15"]
+[White "TimsBot (by: Thomas Dvorak)"]
+[Black "SWaP (Stucked With a Piece) (by: Esprit Orgue)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 Nc6 2. g4 Nb4 3. f4 Nxc2+ 4. Kf2 Ne3 5. d4 Nc2 6. e4 Nxa1 7. b4 Nc2 8. a4 Nxb4 9. h5 Na6 10. h6 Nc5 11. g5 Ne6 12. g6 Nxd4 13. gxf7+ Kxf7 14. f5 Kf6 15. e5+ Kf7 16. hxg7 Ke8 17. Qh5# 1-0

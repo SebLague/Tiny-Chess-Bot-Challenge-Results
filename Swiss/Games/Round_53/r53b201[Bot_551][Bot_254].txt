@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "52"]
+[White "AchillesAlpha (by: Achilles)"]
+[Black "Rubber Ducky (by: Joël)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a3 Nc6 2. f4 Nd4 3. e3 Nxc2+ 4. Kf2 Nxa1 5. Qa4 Nf6 6. f5 h5 7. h3 b6 8. Ke2 Rh6 9. Rh2 g5 10. Nf3 Bb7 11. Rh1 Bxf3+ 12. gxf3 Bg7 13. Qd1 Nh7 14. Kd3 Rd6+ 15. Ke4 Nf6+ 16. Ke5 Rd5# 0-1

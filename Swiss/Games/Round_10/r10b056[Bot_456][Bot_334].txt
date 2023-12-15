@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "9"]
+[White "HikuBot (by: Hikushii)"]
+[Black "StackFish (by: battlecoder)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. e5 Ne4 3. d3 Nc5 4. d4 Na4 5. Bd3 e6 6. Nf3 Bb4+ 7. c3 Nxb2 8. Bxb2 Ba5 9. Nbd2 O-O 10. Qc2 g6 11. Ne4 f5 12. Nf6+ Kh8 13. Bc1 Nc6 14. Bg5 Rb8 15. Nxh7 Nxd4 16. Nxd4 Bxc3+ 17. Qxc3 Qe8 18. Qxc7 Kxh7 19. Qxb8 a6 20. Rc1 Qf7 21. Rxc8 Kg7 22. Rxf8 Qxf8 23. Bh6+ Kxh6 24. Qxf8+ Kh5 25. Be2+ Kg5 26. g3 d5 27. Nxe6# 1-0

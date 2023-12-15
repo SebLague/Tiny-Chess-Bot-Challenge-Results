@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "14"]
+[White "Basil (by: torbenikum)"]
+[Black "PlinkBot (by: superplink)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nc6 2. Nh4 e5 3. h3 Qxh4 4. Rh2 Bd6 5. e3 Nf6 6. b4 Nxb4 7. Bb5 a6 8. g4 axb5 9. Bb2 Nxa2 10. Qe2 Nc1 11. Rxa8 Nxe2 12. Rxc8+ Ke7 13. c3 Rxc8 14. Ba3 Nxg4 15. d4 Nxh2 16. e4 Bxa3 17. dxe5 Qxe4 18. Kd2 Nf3+ 19. Kd1 Nxc3+ 20. Nxc3 Qd3# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "29"]
+[White "Sørensen's Minimax (by: Victor)"]
+[Black "CapivaraBot (by: Danilo Luiz Rheinheimer)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. e3 h5 2. Qf3 g5 3. Qe4 d5 4. Qd4 f6 5. Bd3 e5 6. Bg6+ Ke7 7. Qb4+ Qd6 8. Qxd6+ cxd6 9. Nc3 d4 10. exd4 exd4 11. Nd5+ Kd8 12. Ke2 b5 13. Nf3 Nc6 14. Bf7 g4 15. Nh4 f5 16. Ng6 d3+ 17. Kxd3 Ne5+ 18. Ke2 Nxf7 19. Nxf8 a5 20. Ng6 Rh7 21. Nf8 Rh8 22. d4 h4 23. Ng6 Rh7 24. Nf8 Rh8 25. Ng6 Rh7 26. Nf8 Rh8 1/2-1/2

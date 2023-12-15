@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "6"]
+[White "SlothBot (by: 0xFF)"]
+[Black "ItBeatsMe (by: Soma Nyiro)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. Nf3 d5 2. Nc3 d4 3. Nb5 Nf6 4. Nbxd4 e5 5. Nb5 e4 6. Ne5 Nc6 7. d4 Nxe5 8. dxe5 Bb4+ 9. c3 Bd7 10. exf6 Bxb5 11. Qxd8+ Rxd8 12. fxg7 Rg8 13. cxb4 Rxg7 14. Bf4 Rg6 15. Bxc7 Rc8 16. Bf4 Ke7 17. Rc1 Rxc1+ 18. Bxc1 Bc4 19. a4 Kf6 20. Be3 Ke7 21. Bxa7 Kf6 22. b5 Rg8 23. Kd2 Kf5 24. b6 Kf6 25. Ke3 Ra8 26. Kxe4 Be6 27. Rg1 Rc8 28. Kd3 Rd8+ 29. Ke3 Rd1 30. b4 Bg4 31. Bb8 Kg6 32. a5 f6 33. a6 bxa6 34. b7 Rd7 35. Bc7 Re7+ 36. Kf4 Re8 37. Kxg4 Re4+ 38. Kf3 Rxb4 39. b8=Q Rxb8 40. Bxb8 a5 41. e3 Kh6 42. Bd3 Kg7 43. Ra1 h5 44. Rxa5 h4 0-1

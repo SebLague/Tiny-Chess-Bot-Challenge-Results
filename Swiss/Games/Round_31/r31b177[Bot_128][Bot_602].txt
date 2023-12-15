@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "30"]
+[White "C++IsBetterThanC# (by: Samo)"]
+[Black "Itty Bitty Botty (by: Connor Cahoon)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a4 Na6 2. a5 Rb8 3. c4 Ra8 4. d4 Rb8 5. c5 Ra8 6. e4 Rb8 7. e5 Ra8 8. f4 Rb8 9. f5 Ra8 10. g4 Rb8 11. g5 Ra8 12. h4 Rb8 13. h5 Ra8 14. h6 gxh6 15. gxh6 Rb8 16. Be3 Ra8 17. d5 Bxh6 18. Bxh6 Nxh6 19. Rxh6 Nxc5 20. d6 exd6 21. exd6 cxd6 22. Qxd6 Na6 23. f6 Rg8 24. Qe5+ Kf8 25. Qd6+ Qe7+ 26. Qxe7# 1-0

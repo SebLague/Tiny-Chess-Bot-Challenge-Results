@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Knockout 32"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "BoyaChess v5 (by: ArxelBlw)"]
+[Black "Sentinel (by: Arandomnoob)"]
+[Result "0-1"]
+[TimeControl "30+0.1"]
+[Termination "Checkmate"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bb5 Bd7 7. Nxc6 bxc6 8. Bc4 e5 9. Bg5 h6 10. Bh4 Rb8 11. b3 d5 12. Bxf6 Qxf6 13. exd5 Bb4 14. Qd3 e4 15. Qxe4+ Kf8 16. O-O-O Qxc3 17. Kb1 Bf5 18. Qe2 Ba3 19. Qe7+ Kxe7 20. Rde1+ Kf8 21. Re8+ Kxe8 22. g4 Bxc2# 0-1

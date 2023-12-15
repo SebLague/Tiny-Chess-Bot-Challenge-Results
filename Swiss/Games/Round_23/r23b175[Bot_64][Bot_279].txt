@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "22"]
+[White "offtensive Crane (by: Joao Santos)"]
+[Black "CosmoDMBot (by: CosmoDM)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g3 f5 2. f3 e5 3. e3 d5 4. d3 c5 5. c3 Nc6 6. b3 b6 7. Kd2 e4 8. f4 g6 9. dxe4 dxe4+ 10. Ke1 Qxd1+ 11. Kxd1 Ke7 12. c4 Bg7 13. Kd2 Nh6 14. Ke2 Bb7 15. Bd2 Bxa1 16. Bh3 Ng8 17. Ke1 a6 18. Kf1 h6 19. Ke1 Bc8 20. Ke2 Bf6 21. Kf1 Be6 22. Ke1 g5 23. fxg5 Bxg5 24. Kf1 b5 25. cxb5 axb5 26. b4 cxb4 27. Ke1 Bxa2 28. Bxf5 Bxb1 29. g4 Ra1 30. Ke2 Bd3+ 31. Kf2 Bh4+ 32. Kg2 Bf1# 0-1

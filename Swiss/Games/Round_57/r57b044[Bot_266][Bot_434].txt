@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "56"]
+[White "Game Tech Explained Bot (by: Game Tech Explained)"]
+[Black "penny trader (by: ranger6777)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. e3 Nc6 3. Nf3 d5 4. Nbd2 a6 5. Bd3 Bg4 6. h3 Bh5 7. c4 dxc4 8. Nxc4 Qd5 9. O-O Bxf3 10. Qxf3 Qxf3 11. gxf3 b5 12. Ne5 Nb4 13. Bb1 Rd8 14. e4 Rxd4 15. Be3 Rd8 16. a3 Nbd5 17. exd5 Nxd5 18. a4 f6 19. Nc6 Rd6 20. axb5 Nxe3 21. bxa6 Rxc6 22. a7 Nxf1 23. a8=Q+ Kd7 24. Be4 Rd6 25. Rxf1 e6 26. Bb7 Ke7 27. Rc1 c5 28. Qa7 Kf7 29. Bc6+ Be7 30. Rxc5 Rd1+ 31. Kg2 Rc8 32. Qb7 Rcd8 33. Ra5 Rc1 34. Ra7 Kg8 35. Qxe7 Kh8 36. Qxd8# 1-0

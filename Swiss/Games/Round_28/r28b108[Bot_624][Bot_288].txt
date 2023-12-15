@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "27"]
+[White "Fool's Silver (by: Ethan Latymer (Sozius))"]
+[Black "Running Bot (by: Chris Pontius)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a4 c6 2. Ra3 d5 3. Ra2 Nf6 4. Na3 e5 5. h4 Bd6 6. Nh3 O-O 7. b3 Nfd7 8. g3 Na6 9. f3 e4 10. f4 Nb4 11. Ra1 Nc5 12. c3 Qf6 13. cxb4 Qxa1 14. Nc2 Qb1 15. bxc5 Bxc5 16. Ng1 Qxb3 17. Ne3 Qxd1+ 18. Kxd1 b5 19. axb5 d4 20. Nc2 cxb5 21. Ne1 Be6 22. Bb2 h5 23. Bg2 Bb3+ 24. Kc1 Rae8 25. Nh3 f5 26. Nf2 d3 27. e3 a5 28. Nh3 a4 29. Nf2 Rc8 30. Kb1 a3 31. Bc3 Bxe3 32. dxe3 Rxc3 33. Bxe4 a2+ 34. Kb2 Rc1 35. Nc2 Rxc2+ 36. Kxb3 fxe4 37. Nxe4 Re8 38. Nc3 Rxe3 39. Nxb5 Ree2 40. Nd4 Rb2+ 41. Kc4 Rb1 42. Rh3 a1=Q 43. Kxd3 Qa6+ 44. Nb5 Qxb5+ 45. Kc3 Qd5 46. g4 Rb3# 0-1

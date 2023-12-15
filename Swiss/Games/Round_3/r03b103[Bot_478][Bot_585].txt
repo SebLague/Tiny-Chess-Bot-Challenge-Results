@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "KBot (by: Kristian Mischke)"]
+[Black "Negative Depth (by: Zoltán Kürti)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. Na3 Nc6 3. h4 e5 4. Rh3 Nd5 5. e3 Bc5 6. d3 d6 7. Rh1 Bb4+ 8. Nd2 Be6 9. Nc4 O-O 10. c3 h6 11. cxb4 Ncxb4 12. Be2 b6 13. a4 Bf5 14. Nxe5 c6 15. Nxf7 Rxf7 16. e4 Qe7 17. exf5 Nf4 18. Kf1 Nbxd3 19. Bg4 Rff8 20. Nb3 d5 21. Bxf4 Nxf4 22. g3 Qe4 23. Rh2 Nd3 24. Ra2 Nxb2 25. Rxb2 Qxa4 26. Rd2 a5 27. Kg1 Rad8 28. Kh1 b5 29. Na1 h5 30. Qxa4 bxa4 31. Bxh5 Rb8 32. Ra2 Rb4 33. f4 Rfb8 34. Bd1 Rb1 35. Rhd2 Re8 36. Nc2 Re4 37. Kg2 Rc1 38. Be2 Kf7 39. Kf3 Rb1 40. Bd3 Rb3 41. Kg2 Re8 42. Bf1 Re4 43. Kf2 a3 44. Nxa3 Ree3 45. Nc2 Rf3+ 46. Ke2 Rxg3 47. Rxa5 Rgf3 48. Ra7+ Kf8 49. Rd4 Rg3 50. Ra8+ Kf7 51. Rd1 Rb2 52. Kd2 Rgb3 53. h5 Rb1 54. Rxb1 Rxb1 55. Bd3 c5 56. Ra5 Rh1 57. Rxc5 Rxh5 58. Rxd5 Rh4 59. Ke3 Rh3+ 60. Kd4 Rg3 61. Bb5 Rg2 62. Ne3 Rd2+ 63. Ke5 Rb2 64. Bd3 Rb7 65. Ke4 Ra7 66. Kf3 Ra4 67. Ng4 Ra3 68. Kf2 Rb3 69. Bc4 Rc3 70. Rd3+ Rxc4 71. Ne5+ Kf6 72. Nxc4 Kxf5 73. Ke3 Ke6 74. Ke4 Kf6 75. Rg3 Kf7 76. f5 Ke7 77. Rxg7+ Kf6 78. Rg1 Ke7 79. Na3 Kd6 80. Rg8 Kd7 81. Rf8 Ke7 82. Rc8 Kf6 83. Rc2 Ke7 84. Ke5 Kf7 85. Rc6 Ke7 86. Rc4 Kd7 87. Rc2 Ke7 88. Rc1 Kd7 89. Ke4 Ke7 90. Kf3 Kf6 91. Kf4 Ke7 92. Rb1 Kf6 93. Rg1 Kf7 94. Ke4 Ke7 95. Rg4 Kd6 96. Nc2 Kd7 97. Ne3 Kd6 98. Rg7 Kc5 99. f6 Kd6 100. Nf5+ Kc6 101. Rg6 Kb5 102. Nh4 Ka4 103. Rg5 Ka3 104. Kd3 Kb3 105. Ke3 Kc2 106. Kf2 Kd2 107. Rg4 Kd3 108. Rg3+ Ke4 109. Ng2 Kd4 110. Rf3 Kc4 111. Ke1 Kb4 112. Kd1 Ka5 113. Ne1 Kb5 114. f7 Kb4 115. f8=Q+ Kc4 116. Qf5 Kb4 117. Qd5 Ka4 118. Qb7 Ka5 119. Ra3# 1-0

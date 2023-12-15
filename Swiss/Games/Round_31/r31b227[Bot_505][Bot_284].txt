@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "30"]
+[White "Terminus (by: Slayer8274)"]
+[Black "Arctiform's Bot (by: Arctiform)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 g5 2. Nb5 a5 3. Nf3 c5 4. Nxg5 h5 5. e3 f5 6. Qf3 b6 7. Qxa8 a4 8. Qxb8 h4 9. Nc7+ Qxc7 10. Qxc7 b5 11. Qxc8# 1-0

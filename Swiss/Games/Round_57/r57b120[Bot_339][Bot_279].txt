@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "56"]
+[White "TinyNoTimeToCodeChessEngine (by: )"]
+[Black "CosmoDMBot (by: CosmoDM)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a4 f5 2. Nf3 b6 3. Nd4 d5 4. e3 Qd7 5. Qf3 e6 6. Bb5 c6 7. Bxc6 Qxc6 8. Nxc6 Nxc6 9. e4 Bd7 10. exd5 Nb4 11. dxe6 Bc6 12. Qxf5 Nh6 13. Qh5+ Ke7 14. Qh4+ Ke8 15. Kf1 Nxc2 16. Ra2 Bxg2+ 17. Kxg2 g6 18. Qe4 Rc8 19. Nc3 Nb4 20. Qd4 Rd8 21. Qxh8 Nd3 22. Qxh7 Nxc1 23. Qxg6+ Ke7 24. Rxc1 Rd4 25. Qg5+ Kxe6 26. Qe3+ Kf7 27. Qxd4 Kg6 28. Nd5 Kh7 29. Rc7+ Kg6 30. Qf6+ Kh5 31. Kf3 Bd6 32. Re7 Bxe7 33. Nxe7 Ng4 34. Qf5+ Kh4 35. Qxg4# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "56"]
+[White "WhateverBot (by: Alec Holden)"]
+[Black "Anarchy Bot (by: Malcolm)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e5 2. Nh3 Qh4 3. Bd3 e4 4. Bb5 Bd6 5. O-O a6 6. Bc4 Nc6 7. d3 Ne5 8. Nd2 exd3 9. Bxd3 Nxd3 10. cxd3 Nf6 11. Nc4 Ng4 12. Nxd6+ cxd6 13. Bd2 d5 14. Ba5 b5 15. Bc7 Nf6 16. d4 Ne4 17. Be5 f6 18. Bc7 Ra7 19. Bb8 Rb7 20. Bf4 d6 21. Qb3 Be6 22. f3 Nd2 23. Qd3 Nxf1 24. Rxf1 Bxh3 25. gxh3 Ke7 26. Qe2 Rc8 27. Rb1 Rbc7 28. Re1 Rc2 29. Qd1 Qf2+ 30. Kh1 Qg2# 0-1

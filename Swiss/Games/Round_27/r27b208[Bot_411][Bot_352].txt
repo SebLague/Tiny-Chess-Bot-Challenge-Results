@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "26"]
+[White "StallerBot (by: Ean)"]
+[Black "NameGoesThere's bot (by: NameGoesThere)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d3 e5 2. Nd2 d5 3. h4 d4 4. e3 dxe3 5. fxe3 Ne7 6. d4 exd4 7. exd4 Qxd4 8. Ne2 Qe5 9. Nf3 Qe6 10. Bf4 c5 11. Bxb8 a5 12. Bh2 Qe4 13. Qd2 a4 14. Rg1 Be6 15. Rd1 Bxa2 16. Qd7# 1-0

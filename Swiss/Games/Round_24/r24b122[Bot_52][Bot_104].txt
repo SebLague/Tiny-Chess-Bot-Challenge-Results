@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "23"]
+[White "SimpleBearSearch (by: PizzasBear)"]
+[Black "Toribot (by: Yujan Subedi)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 c6 2. a3 c5 3. Nf3 f5 4. e4 e6 5. exf5 exf5 6. d4 cxd4 7. Nxd4 Qa5 8. Bb5 Qc7 9. Nxf5 h6 10. O-O Kd8 11. Qf3 Qe5 12. Nxh6 Nxh6 13. Bf4 Qd4 14. Rfd1 Qb6 15. Bg5+ Be7 16. Bxe7+ Ke8 17. Nd5 Qg6 18. Nc7+ Kxe7 19. Qe3+ Kd8 20. Nxa8 Qxc2 21. Qg5+ Ke8 22. Qxg7 Nf7 23. Re1+ Qe2 24. Rxe2+ Ne5 25. Rxe5+ Kd8 26. Qxh8# 1-0

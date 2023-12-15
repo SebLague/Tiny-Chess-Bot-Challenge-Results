@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "SatanBot (by: odin7053@discord)"]
+[Black "NotHuman (by: Sixteen)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 Nc6 2. h5 Nf6 3. c4 Nd4 4. c5 e5 5. Rh3 Bxc5 6. Re3 Qe7 7. Rd3 Ne6 8. Rf3 Ng4 9. Rh3 Bxf2# 0-1

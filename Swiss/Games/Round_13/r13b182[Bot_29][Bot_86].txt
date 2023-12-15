@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "12"]
+[White "SmoothBrainBot (by: zeqzero)"]
+[Black "Blitztron (by: Cameron Dugan)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d3 d5 2. Be3 d4 3. f3 dxe3 4. c3 Qd7 5. a3 Kd8 6. Qc2 Na6 7. b3 Qb5 8. d4 Bf5 9. g3 Bxc2 10. Bg2 Qxb3 11. h3 Qb2 12. d5 Qc1# 0-1

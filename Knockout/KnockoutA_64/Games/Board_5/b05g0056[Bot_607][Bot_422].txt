@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Knockout 64"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "-1"]
+[White "Andiefietebel (by: Xenymor)"]
+[Black "FloppyChess 4.2 (by: Omsk)"]
+[Result "0-1"]
+[TimeControl "30+0.1"]
+[Termination "Checkmate"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 Bb4 5. Bg2 O-O 6. O-O d6 7. d4 Bg4 8. Be3 Bxf3 9. exf3 exd4 10. Bxd4 Nxd4 11. Qxd4 c5 12. Qf4 Bxc3 13. bxc3 Qc7 14. Rad1 Rad8 15. Rd2 Rfe8 16. Rfd1 Nh5 17. Qg5 Nf6 18. a4 Qb6 19. Qf4 Qb3 20. Rxd6 Qxd1+ 21. Rxd1 Rxd1+ 22. Bf1 Nd7 23. Qc7 Ree1 24. Qxb7 Rxf1+ 25. Kg2 Rg1+ 26. Kh3 g6 27. Qxa7 Rd2 28. Qa8+ Kg7 29. f4 Rf1 30. f3 Rff2 31. f5 Nf6 32. Kh4 Rxh2+ 33. Kg5 h6+ 34. Kf4 g5+ 35. Ke3 Rhe2# 0-1

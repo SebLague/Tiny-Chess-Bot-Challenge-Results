@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "BadMeetsEvil (by: Nathan)"]
+[Black "Concrete (by: Jewel)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f4 f5 2. b3 a5 3. d4 e6 4. Qd3 Bd6 5. Qh3 h5 6. c3 c5 7. g3 cxd4 8. cxd4 g6 9. Kd2 Qc7 10. Bb2 Qc6 11. Kd1 Qxh1 12. Nc3 Qxg1 13. Bc1 Qxd4+ 14. Ke1 Qxc3+ 15. Kd1 Qxa1 16. Bg2 e5 17. Bf1 Bc7 18. Bg2 exf4 19. Bh1 fxg3 20. Bg2 Bf4 21. Bf1 Qxc1# 0-1

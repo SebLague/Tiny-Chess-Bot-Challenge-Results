@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "15"]
+[White "Freedom_Fighter v.83 (by: Kongo Landwalker)"]
+[Black "Turochamp (Faithful) (by: P Rivero)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Illegal move"]
+
+1. e3 e5 2. Qh5 Nc6 3. Nc3 Nf6 4. Qf5 d5 5. Nxd5 Bxf5 6. Bb5 Qxd5 7. a4 Qxg2 8. a5 Qxh1 9. Ke2 Qxg1 10. Ra4 Qxc1 11. Rd4 exd4 12. exd4 Qxc2 13. f3 O-O-O 14. Bxc6 bxc6 15. d5 Rxd5 16. Kf1 Bd6 17. Kg1 Qxd2 18. b4 Qe1+ 0-1

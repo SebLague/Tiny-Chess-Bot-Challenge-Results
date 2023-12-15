@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "1o1 (by: Pavan Manish)"]
+[Black "Betelchess (by: VY Canis Majoris (also special thanks to Gurren Lagann))"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Na6 2. d4 Nf6 3. Nf3 Rb8 4. Qd2 Ra8 5. Bc4 Rb8 6. Ng5 Ra8 7. Bxf7# 1-0

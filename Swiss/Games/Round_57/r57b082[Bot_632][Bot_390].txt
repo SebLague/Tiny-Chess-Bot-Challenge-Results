@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "56"]
+[White "Dried Cod (by: Josh & Laurin)"]
+[Black "BuiltCleverBot (by: Scott Ward)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Qf3 Nf6 3. h4 Nd4 4. Qc3 e5 5. Rh3 Nxe4 6. Qc4 d5 7. Qa4+ Bd7 8. Qa5 Nxc2+ 9. Ke2 b6 10. Qxd5 Bg4+ 11. Kd3 Nb4+ 12. Ke3 Nxd5+ 13. Kxe4 Nf6+ 14. Kxe5 Qd6# 0-1

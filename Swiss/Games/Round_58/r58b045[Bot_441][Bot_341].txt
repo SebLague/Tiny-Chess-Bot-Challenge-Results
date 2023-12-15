@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "57"]
+[White "RigidBot (by: Mathias Elgaard)"]
+[Black "AelChess (by: Aëldrexan)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bc4 Nxe4 5. Nxe4 d5 6. Bd3 dxe4 7. Bxe4 Bd6 8. d4 Nxd4 9. Nxd4 exd4 10. Qxd4 O-O 11. Be3 c5 12. Qd3 f5 13. Bd5+ Kh8 14. g3 Qb6 15. O-O-O f4 16. gxf4 Bxf4 17. Bxf4 Rxf4 18. Qe3 Rf8 19. Rhg1 Qc7 20. Rde1 Qd6 21. Qe7 Qxe7 22. Rxe7 g6 23. f3 Rf5 24. Rd1 Rf4 25. Rc7 Rh4 26. Rd2 a5 27. Rxc5 Kg7 28. Rc7+ Kf6 29. Rf7+ Ke5 30. Rf8 Rd4 31. Re8+ Kxd5 32. Rd8+ Kc5 33. R2xd4 b5 34. Rd3 Kb6 35. Rh8 a4 36. Rdd8 Kc7 37. Rdg8 b4 38. Rxh7+ Kd6 39. Rxg6+ Kd5 40. Rh5+ Kd4 41. Kd2 Ra6 42. Rgg5 Rh6 43. Rxh6 a3 44. Rh4+ Bg4 45. Rhxg4# 1-0

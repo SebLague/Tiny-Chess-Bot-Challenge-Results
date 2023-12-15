@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "14"]
+[White "Chark Bot V2 (by: Team Chark)"]
+[Black "MyFirstChessEngine (by: Jake Forsey)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Qf3 d6 3. Bc4 Ne5 4. Bxf7+ Nxf7 5. Nc3 Bd7 6. Nge2 Rb8 7. O-O Ra8 8. d4 c5 9. dxc5 Qc7 10. Nd5 Qxc5 11. c3 Ne5 12. Qg3 Qc4 13. Nd4 Nf3+ 14. Qxf3 Nf6 15. Bg5 Bg4 16. Qf4 e5 17. Nxf6+ gxf6 18. Qxf6 Qxf1+ 19. Kxf1 Rg8 20. Ne6 Be2+ 21. Kxe2 Rc8 22. Bh4 Rc4 23. Kd3 Rxe4 24. Kxe4 Rg4+ 25. Kd5 Rf4 26. Nc7+ Kd7 27. Qd8# 1-0

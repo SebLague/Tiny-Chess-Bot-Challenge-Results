@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "17"]
+[White "NostradamusChessNN (by: _Mus)"]
+[Black "CrimesAgainstDotNet (by: Reckoner (Robyn))"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Nc3 Nf6 3. Nf3 a6 4. e5 Ng4 5. d4 e6 6. Bd3 Bb4 7. h3 Nxd4 8. hxg4 c5 9. Rxh7 Rxh7 10. Bxh7 Nxf3+ 11. Qxf3 Qh4 12. Bd3 Qh1+ 13. Ke2 Rb8 14. g5 Bxc3 15. bxc3 c4 16. Bxc4 Qh7 17. Bd3 Qh2 18. Bf4 Qh4 19. g3 Qh8 20. Rh1 Qf8 21. Qe3 b6 22. Rb1 Qh8 23. Rxb6 Qh5+ 24. Kd2 Rxb6 25. Qxb6 Qf3 26. a4 g6 27. Qd4 Bb7 28. a5 Qg2 29. c4 Qg1 30. c5 Qg2 31. c3 Bc6 32. Bxa6 Bd5 33. Bd3 Qf3 34. a6 Bb3 35. Kc1 Qd1+ 36. Kb2 Bd5 37. Be3 Kd8 38. Bc2 Qe2 39. Qa4 Bc6 40. a7 Bxa4 41. a8=Q+ Ke7 42. Qxa4 Kf8 43. Qxd7 Kg7 44. c6 Qb5+ 45. Kc1 Qf1+ 46. Kd2 Qb5 47. Qd6 Qa6 48. c7 Qb7 49. Qd7 Qb2 50. c8=Q Qa2 51. Qcc7 Qd5+ 52. Qxd5 exd5 53. e6 Kh7 54. Qxf7+ Kh8 55. Bd4# 1-0

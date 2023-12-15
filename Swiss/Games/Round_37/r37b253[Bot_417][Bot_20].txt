@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "36"]
+[White "ShallowBot (by: Vaggelis Softsis)"]
+[Black "Queen's Gam-bot (by: Mateo Saldivar (ZiroDev))"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. c3 d6 2. Qa4+ Nc6 3. Nf3 Bh3 4. e4 d5 5. Ng5 b5 6. Bxb5 Bd7 7. Bxc6 e6 8. Bxd7+ Ke7 9. Bc6 Qd6 10. Qa3 Kd8 11. Nxf7+ Kc8 12. Qa6+ Kb8 13. Qb5+ Kc8 14. Bb7+ Kb8 15. Nxd6 a6 16. Qe8+ Ka7 17. Qxa8+ Kb6 18. Ne8 g5 19. Qxa6+ Kc5 20. Qa5+ Kc4 21. Qa6+ Kc5 22. Qa7+ Kb5 23. Qa6+ Kc5 1/2-1/2

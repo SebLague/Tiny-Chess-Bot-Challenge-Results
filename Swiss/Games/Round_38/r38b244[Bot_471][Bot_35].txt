@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "37"]
+[White "ABadBot (by: Lucas)"]
+[Black "chaos bot (by: zer0)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 c5 2. Nc4 e6 3. Nf3 Qh4 4. Nxh4 f6 5. Rb1 e5 6. Ra1 Ke7 7. Rb1 h6 8. Ng6+ Ke8 9. Nxh8 a5 10. Ng6 f5 11. Nxf8 Kxf8 12. Nb6 e4 13. Nxa8 b6 14. Nxb6 Ke8 15. Nxc8 Kd8 16. Na7 h5 17. d3 Ke8 18. Bf4 Na6 19. dxe4 fxe4 20. e3 d5 21. Qxd5 g6 22. Qxe4+ Ne7 23. Nc8 Nc7 24. Qxe7# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "12"]
+[White "The Terminator (by: Ryan Murphy)"]
+[Black "MinimaxAttackerBot5000 (by: ChrisCat123)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Nc3 Na6 2. Nf3 Nb4 3. d4 Rb8 4. e4 Ra8 5. Be3 Rb8 6. Be2 Ra8 7. O-O Rb8 8. a3 Na6 9. Bd3 Ra8 10. Rb1 Rb8 11. Ra1 Ra8 12. Rb1 Rb8 13. Ra1 1/2-1/2

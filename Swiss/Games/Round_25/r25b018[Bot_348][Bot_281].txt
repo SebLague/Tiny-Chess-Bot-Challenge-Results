@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "24"]
+[White "SimplerBot (by: Rick Schaffer)"]
+[Black "timecat-mini (by: Gourab Ghosh)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 Nf6 2. d4 d5 3. Nf3 e6 4. Ne5 Bd6 5. Bf4 O-O 6. e3 Ne4 7. f3 Nxc3 8. bxc3 Nc6 9. Kf2 Qf6 10. Ng4 Qh4+ 11. g3 Qe7 12. Kg2 Re8 13. Rg1 Bd7 14. c4 a6 15. Rb1 Bxf4 16. exf4 b6 17. Ne3 Qd6 18. c3 dxc4 19. Bxc4 b5 20. Bb3 Na5 21. Bc2 Nc6 22. h3 Ne7 23. c4 Nf5 24. Bxf5 exf5 25. c5 Qe6 26. Rb3 Qc6 27. Qc2 Be6 28. Rd3 Bd5 29. Nxf5 Be4 30. fxe4 Qxe4+ 31. Kh2 Qxf5 32. Rf1 Rad8 33. g4 Qe4 34. Qd2 Qd5 35. a3 Re6 36. f5 Rc6 37. Re1 g6 38. Re5 Qc4 39. Ree3 Kg7 40. h4 h6 41. Rg3 a5 42. Rc3 Qd5 43. Qb2 Qxd4 44. Qxb5 Qf2+ 45. Rg2 Qxh4+ 46. Rh3 Qf6 47. Rhg3 Rd5 48. Qxa5 Rcxc5 49. Qe1 gxf5 50. gxf5+ Kh7 51. Qe7 Qg5 52. Rxg5 hxg5 53. Qxg5 Rxf5 54. Qg7# 1-0

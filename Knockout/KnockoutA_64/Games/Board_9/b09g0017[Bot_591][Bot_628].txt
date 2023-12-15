@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Knockout 64"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "-1"]
+[White "Rigel (by: Antares (Github: Alex2262))"]
+[Black "King Gᴀᴍʙᴏᴛ Ⅳ (by: ToTheAnd (aka toanth))"]
+[Result "1-0"]
+[TimeControl "30+0.1"]
+[Termination "Checkmate"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. d4 e6 5. Bd3 Nf6 6. h3 Bxf3 7. Qxf3 dxe4 8. Nxe4 Qxd4 9. Be3 Qxb2 10. O-O Nxe4 11. Qxe4 Qb4 12. Qf3 Qh4 13. Rab1 b6 14. Be4 Bd6 15. Rbd1 Ke7 16. Rxd6 Kxd6 17. Qxf7 Qxe4 18. Rd1+ Qd5 19. Bf4+ Kc5 20. Rxd5+ cxd5 21. Qxe6 Kc4 22. Bd6 Na6 23. Qe2+ Kc3 24. Qd3+ Kb2 25. Be5+ d4 26. Bxd4+ Kc1 27. Be3+ Kb1 28. Qb3+ Ka1 29. Bd4# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "30"]
+[White "King Gᴀᴍʙᴏᴛ Ⅳ (by: ToTheAnd (aka toanth))"]
+[Black "Uranium (by: iudwgerte)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. d4 e6 3. Bf4 Nc6 4. Kd2 Ne4+ 5. Ke3 d5 6. Nbd2 g5 7. Be5 f6 8. Bg3 f5 9. Nxe4 f4+ 10. Bxf4 gxf4+ 11. Kd3 Nb4+ 12. Kc3 dxe4 13. Ne5 e3 14. Kb3 Nc6 15. Nxc6 bxc6 16. fxe3 Rb8+ 17. Kc3 fxe3 18. Rb1 Bg7 19. b3 c5 20. Kb2 O-O 21. h4 cxd4 22. Rh3 Ba6 23. Rh1 d3+ 24. Ka3 c5 25. Qe1 d2 26. Qxd2 exd2 27. b4 Rxb4 28. Rxb4 Qa5+ 29. Kb3 Qxb4# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "45"]
+[White "Velocity++ (by: Tisajokt)"]
+[Black "Average Chess bot (by: )"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bf4 e6 4. e3 Bb4 5. a3 Ba5 6. Bd3 Ne4 7. Ne2 Nxc3 8. Nxc3 Nd7 9. Qg4 Kf8 10. Qg3 h5 11. h4 Nf6 12. O-O-O Qd7 13. Nb5 Ne8 14. Be5 a6 15. Nc3 Qc6 16. Na2 Nf6 17. Qg5 Ne8 18. Bg3 f6 19. Qf4 Nd6 20. Qf3 e5 21. dxe5 Bg4 22. Qf4 Nf7 23. Nb4 Qc5 24. exf6 Bxd1 25. Bg6 Nd6 26. Qe5 Qxc2+ 27. Nxc2 Bd2+ 28. Kxd1 gxf6 29. Qxf6+ Kg8 30. Be5 Rh7 31. Bxh7+ Kxh7 32. Qg7# 1-0

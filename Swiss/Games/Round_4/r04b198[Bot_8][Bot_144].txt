@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "3"]
+[White "ScaredyBot (by: Jacob Sweeten)"]
+[Black "Caissa Alexander (by: Ephraim225)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e5 2. Nf3 Qf6 3. b3 Bc5 4. g3 Bb4 5. Ng1 Nh6 6. Rb1 O-O 7. Ra1 Ng4 8. Rb1 Qxf2# 0-1

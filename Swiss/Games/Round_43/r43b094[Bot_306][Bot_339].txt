@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "42"]
+[White "czechmayte (by: dotpy/jayden van zuydam)"]
+[Black "TinyNoTimeToCodeChessEngine (by: )"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 c6 2. Nf3 Qa5 3. d4 f6 4. Bf4 Qb4 5. Rb1 e5 6. a3 Qa5 7. dxe5 g5 8. b4 Qxa3 9. Rb3 Qa6 10. Bg3 g4 11. Nd4 Bxb4 12. Rxb4 Qa5 13. Rc4 fxe5 14. Nb3 Qa6 15. Rxg4 d6 16. Qxd6 Bxg4 17. Qxe5+ Be6 18. Qxe6+ Kd8 19. Qe5 Qc4 20. e4 Qf7 21. Qxh8 Nd7 22. Nd4 Ke8 23. Nf5 Qg6 24. Bc4 Nf6 25. Nd6+ Kd7 26. Bf7 Qg5 27. e5 Qc1+ 28. Nd1 Qb1 29. exf6 h5 30. Bxg8 Qb4+ 31. c3 Re8+ 32. Nxe8 Qe4+ 33. Kd2 h4 34. Qg7+ Kxe8 35. Qf7+ Kd8 36. Qc7+ Ke8 37. Qc8# 1-0

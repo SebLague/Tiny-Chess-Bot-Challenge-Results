@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "60"]
+[White "SummerBoty (by: Thomas)"]
+[Black "nimbot (by: )"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 h6 2. d4 Nf6 3. Qf3 a6 4. e5 Ng8 5. Bc4 e6 6. Nc3 Qh4 7. Nge2 g6 8. O-O Bb4 9. g3 Qh3 10. Nf4 Qf5 11. Bd3 Qg5 12. Nxg6 Qxg6 13. Bxg6 fxg6 14. Ne2 h5 15. a3 Ba5 16. Bg5 c6 17. Nf4 Nh6 18. Nxg6 Rg8 19. Qxh5 Nf7 20. Be3 Nd8 21. Qg5 Rg7 22. Qf6 Rxg6 23. Qxg6+ Ke7 24. Qf6+ Ke8 25. Bg5 Bb4 26. axb4 Ra7 27. d5 Ra8 28. d6 Ra7 29. Qg6+ Kf8 30. Be7# 1-0

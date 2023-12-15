@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "48"]
+[White "mini_yoda (by: Dane Smith)"]
+[Black "bLouBot (by: cmdrsigsegv)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f4 Nf6 2. d4 h5 3. Qd3 e6 4. Qc4 Ne4 5. Nf3 c6 6. c3 d5 7. Qd3 Nd6 8. f5 h4 9. Bf4 Nxf5 10. e4 dxe4 11. Qxe4 Ne7 12. Bg5 Qd5 13. Bd3 f6 14. Qxd5 Nxd5 15. Bg6+ Kd8 16. Ne5 Ke7 17. Be4 Nf4 18. Bxf4 fxe5 19. dxe5 Rh5 20. Bg6 Rh8 21. Nd2 Kd7 22. a4 h3 23. gxh3 Rh4 24. Rf1 Rxh3 25. Bg5 Bc5 26. Rf7+ Be7 27. Rxe7+ Kd8 28. Rxb7# 1-0

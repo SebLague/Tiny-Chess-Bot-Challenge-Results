@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "4"]
+[White "simpleval (portmonteau of simple eval) (by: hokurou)"]
+[Black "Thulium (by: Valentin POQUET)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 d6 2. f4 Bg4 3. e3 Bxd1 4. Kxd1 c6 5. g4 Nf6 6. g5 Nd5 7. e4 Nxf4 8. d4 Ne6 9. c4 Nxd4 10. b4 Na6 11. a4 Nxb4 12. h5 Nb3 13. Ra3 Nxc1 14. Kxc1 Qa5 15. Nh3 Qe5 16. Nf2 Qxg5+ 17. Kd1 Qf4 18. Nh3 Qxe4 19. Rg1 Qxb1+ 20. Kd2 Qb2+ 21. Kd1 Qxa3 22. Nf2 Qxa4+ 23. Kc1 Qc2# 0-1

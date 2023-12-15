@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Knockout 64"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "-1"]
+[White "myte (by: sparemind)"]
+[Black "TunaTactician (by: Ben)"]
+[Result "0-1"]
+[TimeControl "30+0.1"]
+[Termination "Checkmate"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 b4 9. Ne4 Nxe4 10. Bxe4 Bb7 11. Qc2 Rc8 12. Bxh7 c5 13. Be4 cxd4 14. Qd3 Bxe4 15. Qxe4 dxe3 16. Bxe3 Nc5 17. Qg4 Nd3+ 18. Kf1 Nxb2 19. Bxa7 Rc4 20. Qg3 Rh5 21. Be3 Nd3 22. Rd1 Rd5 23. Ke2 Rc3 24. Rd2 Qa8 25. Ra1 Qa6 26. Kd1 e5 27. Qg4 b3 28. Qh4 b2 29. Qa4+ Qxa4+ 30. Ke2 Nf4+ 31. Bxf4 Qc4+ 32. Rd3 Qxd3+ 33. Ke1 bxa1=Q+ 34. Bc1 Qxc1# 0-1

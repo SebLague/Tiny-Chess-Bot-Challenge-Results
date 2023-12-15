@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "30"]
+[White "StackFish (by: battlecoder)"]
+[Black "devi1.02 (by: )"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 c6 2. Ne4 Qa5 3. e3 d5 4. Qh5 g6 5. Qe5 f6 6. Nd6+ Kd7 7. Nxb7 Bxb7 8. Qg3 Kd8 9. b4 Qxb4 10. c3 Qb6 11. Ba3 Ba6 12. c4 dxc4 13. O-O-O Qa5 14. e4 Bh6 15. Qh3 Ke8 16. Qg3 c3 17. Bxe7 Bxd2+ 18. Kb1 Qb6+ 19. Bb4 Qxb4+ 20. Ka1 Qb2# 0-1

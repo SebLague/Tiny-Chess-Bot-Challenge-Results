@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "7"]
+[White "lowEloBrain (by: bbb908)"]
+[Black "Shakki botti (by: bobq)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Na6 2. Qe2 Nb4 3. d4 Nd3+ 4. cxd3 Nf6 5. Qe3 Ng4 6. Qe2 a5 7. Qxg4 Ra6 8. Be3 Rc6 9. Qe2 Rc1+ 10. Bxc1 f5 11. exf5 g5 12. Qh5# 1-0

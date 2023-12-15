@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "9"]
+[White "timecat-mini (by: Gourab Ghosh)"]
+[Black "Midnight Oil (by: Danny Boy)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Nc3 Nf6 3. d4 d5 4. e5 Ne4 5. Bb5 a6 6. Bxc6+ bxc6 7. Qf3 Nxc3 8. Qxc3 Bb7 9. Nf3 e6 10. O-O Be7 11. Qb3 Rb8 12. a3 O-O 13. Be3 f5 14. Qc3 g5 15. Ne1 f4 16. Bd2 Qe8 17. Nd3 h5 18. Qb3 h4 19. Bc3 g4 20. Bd2 f3 21. gxf3 Rxf3 22. Ba5 Qc8 23. Bc3 h3 24. Rfd1 Qf8 25. Ba5 Bh4 26. Rf1 Qg7 27. Bc3 Qf7 28. Rad1 Qg6 29. Nc5 g3 30. fxg3 Rxg3+ 31. Kh1 Rd3 32. Qxd5 cxd5 33. Rd2 Rxd2 34. Rg1 Rg2 35. Rd1 Rxh2+ 36. Kxh2 Qg2# 0-1

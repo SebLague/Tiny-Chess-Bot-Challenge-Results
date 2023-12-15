@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "28"]
+[White "Mobilibot (by: Gabriel N.)"]
+[Black "Prince of Persia (by: flabbet)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 a5 2. Qh5 Nc6 3. d4 b6 4. Bc4 Ba6 5. Bxf7# 1-0

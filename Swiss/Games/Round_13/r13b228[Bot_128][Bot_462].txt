@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "12"]
+[White "C++IsBetterThanC# (by: Samo)"]
+[Black "quick and dirty (by: Rafael)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a4 Nf6 2. a5 d6 3. b4 Bf5 4. b5 e6 5. a6 bxa6 6. bxa6 Ne4 7. d4 Qh4 8. Be3 Nf6 9. c4 Ke7 10. c5 d5 11. Nc3 Qg4 12. f4 Kd8 13. h4 Qg3+ 14. Kd2 Bxc5 15. dxc5 d4 16. Bxd4 Qxf4+ 17. Be3 Qb4 18. h5 Ke7 19. h6 Rd8+ 20. Bd4 Qxd4+ 21. Kc1 Qxc3+ 22. Qc2 Qxa1+ 23. Qb1 Qxb1# 0-1

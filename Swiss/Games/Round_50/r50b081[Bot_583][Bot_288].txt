@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "49"]
+[White "Tiny Chess Duck (by: rocketduck_m07)"]
+[Black "Running Bot (by: Chris Pontius)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 e6 2. Nc3 Bb4 3. a3 Bxc3 4. dxc3 Ne7 5. e3 O-O 6. Bd2 d5 7. Bd3 e5 8. Nxe5 f6 9. Nf3 c5 10. O-O Nd7 11. c4 Ne5 12. cxd5 Nxf3+ 13. Qxf3 Ng6 14. Rad1 Ne5 15. Qe4 g6 16. Qf4 Bg4 17. f3 Qxd5 18. Be4 Qe6 19. fxg4 h5 20. gxh5 f5 21. Bxb7 Rab8 22. Bd5 Qxd5 23. Bc3 Qxd1 24. Rxd1 Rbd8 25. Rxd8 Rxd8 26. Qxe5 Rd1+ 27. Kf2 Kf7 28. Qf6+ Ke8 29. Qe6+ Kf8 30. hxg6 Rd2+ 31. Kf3 Rf2+ 32. Kxf2 c4 33. Qf7# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "63"]
+[White "RigidBot (by: Mathias Elgaard)"]
+[Black "Mr. JB73 (by: Name: Francisco Gaspar      Nickname: James Bond 73)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 exd4 4. e5 Ne4 5. Qe2 Bb4+ 6. Kd1 d5 7. exd6 f5 8. Nbd2 Bxd2 9. Nxd2 O-O 10. Qc4+ Rf7 11. Nxe4 fxe4 12. Qxd4 Nc6 13. Qxe4 Qxd6+ 14. Bd2 Rxf2 15. Bc4+ Kh8 16. Qd5 Bg4+ 17. Kc1 Qf6 18. Re1 Rd8 19. Qg5 Rxg2 20. Bd5 Re2 21. Rxe2 Bxe2 22. Qxf6 gxf6 23. Bxc6 bxc6 24. a4 Rd4 25. Ra3 Kg8 26. a5 Ba6 27. Rf3 Kg7 28. Be3 Ra4 29. Rg3+ Kf7 30. Rh3 Ra1+ 31. Kd2 Kg7 32. b4 Bc4 33. Bxa7 Bd5 34. Bd4 Ra4 35. Bc3 Ra2 36. Rd3 Kf7 37. Kc1 Kg6 38. h4 h5 39. Rd1 Be4 40. Rd2 Bd5 41. Re2 Kf7 42. Rf2 Ke6 43. Rxf6+ Ke7 44. Rh6 Be4 45. Bb2 Bf3 46. Rh7+ Kd6 47. Kb1 Ra4 48. Bc3 c5 49. bxc5+ Kc6 50. Be1 Be4 51. Rxh5 Rc4 52. Re5 Bxc2+ 53. Kb2 Be4 54. Re7 Rc2+ 55. Ka3 Bd5 56. Ka4 Rxc5 57. Rg7 Rc4+ 58. Ka3 Rc2 59. Kb4 Rc4+ 60. Ka3 Rc2 61. Rg4 Kc5 62. Bb4+ Kb5 63. Rg2 Rxg2 64. Bd2 Rxd2 65. a6 Ra2# 0-1

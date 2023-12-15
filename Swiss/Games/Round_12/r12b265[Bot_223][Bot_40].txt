@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "11"]
+[White "Smiley (by: Orniflyer)"]
+[Black "holcak-bot (by: Petr Holčák)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 h5 2. Nh3 f5 3. d3 e5 4. e3 h4 5. c4 c5 6. f4 exf4 7. Rb1 fxe3 8. Ra1 a5 9. Rb1 g6 10. Ra1 d6 11. Rb1 b6 12. Ra1 e2 13. Rb1 exd1=Q+ 14. Kxd1 a4 15. Ke1 Ne7 16. Kd1 Nd7 17. Ke1 Ng8 18. Kd1 Ne7 19. Ra1 Ng8 20. Ke1 Ne7 21. Rg1 Ng8 22. Kd1 Ne7 23. Rb1 Ng8 24. Ke1 Ne7 25. Be3 Ng8 26. Rc1 Ne7 27. Kd1 Ng8 28. Rh1 Ne7 29. Ke1 Ng8 30. Rd1 Ne7 31. Rg1 Ng8 32. Bc1 Ne7 33. Rh1 Ng8 34. Bf4 d5 35. Rc1 d4 36. Kd1 Ne7 37. Ke1 Ng8 38. Rd1 Ne7 39. Rg1 Ng8 40. Rc1 Ne7 41. Kd1 Ng8 42. Be3 dxe3 43. Ke1 Ne7 44. Kd1 Ng8 45. Rh1 Ne7 46. Ke1 Ng8 47. Rd1 Ne7 48. Rg1 Ng8 49. Nf4 g5 50. h3 gxf4 51. Rc1 Ne7 52. Kd1 Ng8 53. Rh1 Ne7 54. Ke1 Ng8 55. Rd1 Ne7 56. Rg1 Ng8 57. Ke2 Ne7 58. Kf3 Ng8 59. Kxf4 e2 60. Ke3 exd1=Q 61. Kf4 Ne7 62. Ke3 Ng8 63. Rh1 Ne7 64. Kf4 Bh6# 0-1

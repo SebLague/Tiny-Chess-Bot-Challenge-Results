@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "8"]
+[White "Bob (by: Kökényesi Attila (UltraGeek))"]
+[Black "Aggrobot (by: CHECKERCE)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Na3 b5 2. Nxb5 Ba6 3. Na3 Bxe2 4. Qxe2 Qc8 5. Qd1 Qa6 6. Nb1 Qxf1+ 7. Kxf1 h5 8. f3 e6 9. Nc3 Ba3 10. b3 Bxc1 11. d3 Ke7 12. Rxc1 d5 13. Ra1 Kd6 14. Nb5+ Kc5 15. Na3 a5 16. Rc1 a4 17. b4+ Kxb4 18. Nb1 a3 19. Qe1+ Ka4 20. Nc3+ Kb4 21. Nb1+ Ka4 22. Nc3+ Kb4 23. Nb1+ 1/2-1/2

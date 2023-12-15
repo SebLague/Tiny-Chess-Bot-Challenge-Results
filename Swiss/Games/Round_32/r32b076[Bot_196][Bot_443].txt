@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "31"]
+[White "ChessButt2 (by: Matt Suhay)"]
+[Black "LunarBot (by: LunarTech)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. Qd3 Nc6 3. Nf3 Nb4 4. Qc3 Nbd5 5. Qd3 Rb8 6. e4 Nb4 7. Qb3 e6 8. Bd2 Nc6 9. Bd3 Bd6 10. e5 Nxd4 11. Nxd4 Bxe5 12. Nf3 Bd6 13. Ke2 Nd5 14. Nc3 Qe7 15. Nxd5 exd5+ 16. Kf1 Kf8 17. Re1 Qd8 18. Qxd5 Qf6 19. Bc3 Qf4 20. Ne5 Be7 21. g3 Qf6 22. Nxd7+ Bxd7 23. Qxd7 Rd8 24. Qxc7 Qd6 25. Rxe7 Qxc7 26. Rxc7 Rb8 27. Bc4 f6 28. Kg2 a6 29. Bb4+ Ke8 30. Rd1 g6 31. Bf7# 1-0

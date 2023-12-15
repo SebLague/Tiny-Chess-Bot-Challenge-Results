@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "52"]
+[White "GenericBoringbot (by: Kayinth)"]
+[Black "Queen's Gam-bot (by: Mateo Saldivar (ZiroDev))"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 d6 2. Rb1 c5 3. Ra1 g6 4. e4 Qa5 5. Nc4 Bh3 6. Nxa5 Bg7 7. Nxh3 Bc3 8. dxc3 Nc6 9. Bb5 g5 10. Nxg5 d5 11. Qxd5 Kf8 12. Qxf7# 1-0

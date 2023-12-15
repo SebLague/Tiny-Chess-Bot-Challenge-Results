@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "11"]
+[White "BasicAlphaBeta (by: ThonyDragon)"]
+[Black "maff-chess (by: Filip)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c3 e6 2. d3 Bd6 3. g3 c6 4. Be3 f5 5. a4 b5 6. axb5 cxb5 7. Bxa7 Bb7 8. e4 Nc6 9. Bb6 Qxb6 10. Rxa8+ Bxa8 11. exf5 Nce7 12. Qg4 exf5 13. Qxg7 Ng6 14. Nf3 Bxf3 15. Bg2 Bxg2 16. Kd1 Bxh1 17. c4 Be5 18. c5 Qxc5 19. Qxh8 Bf3+ 20. Ke1 Qc1# 0-1

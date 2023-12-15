@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "Reckless Ragnar (by: Magnús  Á. Magnússon)"]
+[Black "Chess Bot (by: M)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 e6 2. c3 Bd6 3. Qb3 Nf6 4. Bg5 h6 5. Bxf6 gxf6 6. Nf3 c5 7. Qa3 Qc7 8. g3 cxd4 9. Qa4 e5 10. a3 b5 11. Qxb5 Bb7 12. Bg2 Be4 13. Nbd2 a6 14. Qb3 Bb7 15. Nxe5 fxe5 16. Bxb7 dxc3 17. bxc3 Ra7 18. Bd5 f5 19. Nc4 Bc5 20. e3 Nc6 21. Qa4 h5 22. O-O-O Rh6 23. Rhf1 e4 24. Nb2 Qc8 25. h3 Ne7 26. Ba2 Rb7 27. Nc4 Kf8 28. Rde1 Nd5 29. Rg1 Nxc3 30. Qc2 Nxa2+ 31. Qxa2 d5 32. Qc2 dxc4 33. Qe2 Bxa3+ 34. Kc2 Rb2+ 35. Kc3 Rxe2 36. Rxe2 Bd6 37. Kc2 Be5 38. g4 hxg4 39. hxg4 fxg4 40. Ree1 Qb7 41. Rb1 Qf7 42. Rgf1 Qf3 43. Rbe1 Qf6 44. Re2 Qb6 45. Rb1 Qa5 46. Rb8+ Bxb8 47. f4 exf3 48. Rd2 Be5 49. Kb1 Qxd2 50. e4 c3 51. Ka1 c2+ 52. Ka2 c1=Q+ 53. Kb3 f2 54. Ka4 f1=Q 55. Kb3 a5 56. Ka4 Qb4# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "55"]
+[White "Generic Chess Bot #1000000 (by: Anthony)"]
+[Black "ReturnOfTheQueen (by: Staicu Ciprian)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 e6 2. c3 Qf6 3. d4 Bd6 4. e4 Nc6 5. e5 Qf5 6. Bd3 Qg4 7. h3 Qxg2 8. Rh2 Qxh2 9. Nxh2 Bf8 10. Qh5 g6 11. Qd1 Bg7 12. Bc4 Nge7 13. Bg5 Nd5 14. Bxd5 exd5 15. Bf6 Rg8 16. Bxg7 Rxg7 17. Qb3 d6 18. exd6 cxd6 19. Qxd5 Bxh3 20. Na3 O-O-O 21. Kd1 Be6 22. Qe4 d5 23. Qe3 g5 24. Qd2 g4 25. Ke2 Bf5 26. Qd1 a6 27. Kf1 Rg5 28. Ke1 Rh5 29. c4 Rxh2 30. Ke2 g3 31. Kd2 gxf2 32. Qf1 Bh3 33. cxd5 Bxf1 34. dxc6 Bh3 35. cxb7+ Kxb7 36. Rf1 Bxf1 37. b3 Bg2 38. b4 f1=Q 39. b5 Bd5+ 40. Kc3 Qe1+ 41. Kd3 Qd2# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "43"]
+[White "RP Bot (by: Matt Enad (RobProductions))"]
+[Black "ExtremelyShortsighted (by: CJS)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 b6 2. d5 f5 3. Qd3 h5 4. Qxf5 h4 5. Qg6# 1-0

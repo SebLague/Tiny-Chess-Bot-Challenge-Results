@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "60"]
+[White "LadyLuckGuidesMyMinMaxSearch (by: MrPelluke)"]
+[Black "Swag Messiah (by: )"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f3 Nc6 2. Nc3 e6 3. Nb1 Ke7 4. e4 Kd6 5. e5+ Kc5 6. Ke2 Kb4 7. c3+ Ka5 8. g3 Qg5 9. g4 Qxe5+ 10. Kd3 Kb5 11. c4+ Kb4 12. Qb3+ Ka5 13. Qd1 Nb4# 0-1

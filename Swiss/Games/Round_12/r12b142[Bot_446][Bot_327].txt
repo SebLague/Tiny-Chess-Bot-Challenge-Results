@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "11"]
+[White "Quinn (by: Pierre Girardeau)"]
+[Black "FunBot (by: Paul Spooner AKA Dudecon)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 f6 2. e3 b6 3. Qf3 a6 4. Qxa8 c5 5. Qxb8 h6 6. Na4 e6 7. Nxb6 f5 8. Nxc8 a5 9. Nd6+ Bxd6 10. Qxd6 Qc8 11. Bb5 g5 12. Qe5 Rh7 13. Qxe6+ Re7 14. Qxg8# 1-0

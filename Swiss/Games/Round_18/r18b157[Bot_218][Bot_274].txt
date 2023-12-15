@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "17"]
+[White "Epimetheus (by: George Bland)"]
+[Black "BoringBot (by: Carson Bates)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 f6 2. Qh5+ g6 3. Qd5 a5 4. Nc3 g5 5. Nf3 h6 6. Bd3 e6 7. Bg6+ Ke7 8. Qc5+ d6 9. Qc4 c5 10. h4 gxh4 11. Rxh4 f5 12. a4 Kf6 13. Bh5 d5 14. Qb5 Qd7 15. Be8 Qxb5 16. axb5 Bd7 17. Bh5 Ke7 18. Raa4 Be8 19. Bxe8 Kxe8 20. g4 fxg4 21. Rhxg4 b6 22. Rxg8 Rxg8 23. e4 dxe4 24. Rxe4 Kf7 25. Rf4+ Ke7 26. Rxf8 Rxf8 27. Ne5 Rg8 28. d3 Rg1+ 29. Kd2 h5 30. Nd1 h4 31. Ke2 h3 32. Bd2 h2 33. Ng6+ Rxg6 34. Bg5+ Rxg5 35. Kf1 h1=Q+ 36. Ke2 Re5+ 37. Kd2 Qe1+ 38. Kc1 Re2 39. f3 Rd2 40. b4 Rxd1+ 41. Kb2 Rb1+ 42. Ka2 axb4# 0-1

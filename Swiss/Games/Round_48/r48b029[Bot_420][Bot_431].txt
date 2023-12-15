@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "47"]
+[White "NostradamusChessNN (by: _Mus)"]
+[Black "røhgryd me' fløe  (by: TSDT)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nf3 Bd6 3. d4 exd4 4. Nxd4 Nf6 5. Bd3 Nc6 6. Nf5 O-O 7. Nc3 Be5 8. O-O d6 9. Bg5 h6 10. Bxf6 Bxf6 11. Rb1 Bxf5 12. exf5 d5 13. Qf3 Nb4 14. Rfd1 c6 15. Qg4 Qd6 16. a4 Rad8 17. h4 Qc5 18. h5 a5 19. g3 Rfe8 20. Qh3 Bxc3 21. bxc3 Qxc3 22. Qh4 f6 23. Rb3 Re1+ 24. Rxe1 Qxe1+ 25. Kg2 c5 26. Qg4 c4 27. Bxc4 dxc4 28. Qxc4+ Kh7 29. Qe6 Qd1 30. Qb6 Qd5+ 31. Kh2 Nxc2 32. Rb5 Qd1 33. Qxa5 Qxh5+ 34. Kg2 Rd1 35. Qe1 Nxe1+ 36. Kf1 Nd3+ 37. Kg2 Qh1# 0-1

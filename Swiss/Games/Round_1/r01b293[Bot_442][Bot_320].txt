@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "Tarch (by: Taras Vuk)"]
+[Black "lowEloBrain (by: bbb908)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 f5 2. Nf3 b5 3. Qd3 b4 4. Qxf5 Bb7 5. Ng5 e5 6. Qf7# 1-0

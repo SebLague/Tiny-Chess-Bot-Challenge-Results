@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "11"]
+[White "epik chess mastah (by: sten)"]
+[Black "SimpleMCTS (by: GinoPerrotta)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nc6 2. Nc3 Nf6 3. Rg1 d5 4. Ng5 Qd6 5. Nf3 Bg4 6. h3 Bxf3 7. gxf3 Qf4 8. Nb5 a6 9. Nc3 g6 10. d4 Qd6 11. Bg5 Nb4 12. Rg2 c5 13. dxc5 Qxc5 14. e3 Qc6 15. Qd2 h6 16. Bxf6 exf6 17. O-O-O Rc8 18. Re1 h5 19. Rd1 Bd6 20. Re1 Be5 21. f4 Bd6 22. Kb1 Qc5 23. Qd4 Qxd4 24. exd4+ Kd7 25. Na4 Rxc2 26. a3 Rd2 27. axb4 Rxd4 28. Nc5+ Kc8 29. Nb3 Rxb4 30. Nd2 Kb8 31. Bd3 Bxf4 32. Nf1 Rd4 33. Bc2 Rc8 34. Bb3 Rd3 35. Ba2 Rc6 36. b4 Kc7 37. Re7+ Kb6 38. Re1 f5 39. h4 Rd6 40. Kc2 Rd4 41. Kc3 Re4 42. Rxe4 fxe4 43. Bb3 Kb5 44. Bd1 b6 45. Be2+ Ka4 46. Bd1+ Ka3 47. Be2 b5 48. Bd1 d4+ 49. Kc2 Rc6+ 50. Kb1 Rc1# 0-1

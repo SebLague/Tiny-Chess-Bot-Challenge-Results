@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "63"]
+[White "tom (by: Christopher Hosken & Thomas Lower)"]
+[Black "Achilles Random (by: Achilles)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 e5 2. dxe5 Qh4 3. g4 Qxh2 4. Rxh2 Nc6 5. f4 Nxe5 6. fxe5 Bd6 7. exd6 Nf6 8. dxc7 d6 9. Qxd6 Nxg4 10. Qd8# 1-0

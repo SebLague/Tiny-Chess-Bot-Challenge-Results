@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Knockout 8"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "smol.cs (by: Gediminas Masaitis, Goh CJ)"]
+[Black "Tyrant's V9 (by: Tyrant)"]
+[Result "1-0"]
+[TimeControl "30+0.1"]
+[Termination "Checkmate"]
+
+1. c4 c6 2. d4 d5 3. Nf3 Nf6 4. e3 Bg4 5. h3 Bxf3 6. Qxf3 Nbd7 7. Nc3 e6 8. Bd2 dxc4 9. Bxc4 Bd6 10. Rc1 Qe7 11. O-O O-O-O 12. e4 e5 13. d5 Kb8 14. dxc6 bxc6 15. Rfd1 Bc5 16. Ne2 Nb6 17. Ng3 Qb7 18. Be2 Bd4 19. Nf5 c5 20. Bg5 h6 21. Bxf6 gxf6 22. b3 Rhg8 23. Nxh6 Rg6 24. Nf5 Rdg8 25. g4 Rg5 26. Nxd4 exd4 27. Qf4+ Re5 28. Qxf6 Rge8 29. Qd6+ Qc7 30. Qxc7+ Kxc7 31. Rxd4 Kb8 32. Rd6 Rxe4 33. Bb5 R8e5 34. Rf6 Re1+ 35. Rxe1 Rxe1+ 36. Kg2 Re7 37. Rf5 Rc7 38. Be8 c4 39. bxc4 Nxc4 40. Rxf7 Rc5 41. Rf5 Rxf5 42. gxf5 Kc7 43. f6 Kd6 44. Bf7 Ne5 45. Bg8 Nd7 46. f7 Ke7 47. f4 a5 48. h4 Nf6 49. Kg3 a4 50. a3 Kf8 51. f5 Nd7 52. Kf4 Ke7 53. Kg5 Kf8 54. h5 Kg7 55. h6+ Kf8 56. Kg6 Ne5+ 57. Kh5 Nxf7 58. Bxf7 Kxf7 59. Kg5 Kf8 60. f6 Kg8 61. Kg6 Kh8 62. Kh5 Kg8 63. Kg5 Kf8 64. h7 Ke8 65. h8=Q+ Kf7 66. Qh3 Ke8 67. Qc8+ Kf7 68. Qd7+ Kf8 69. Qe7+ Kg8 70. Qg7# 1-0

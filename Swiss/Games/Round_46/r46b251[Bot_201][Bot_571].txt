@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "45"]
+[White "charge forward v1 (by: steel chair)"]
+[Black "GoblinArmy (by: TheChroniclerDelta)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 d5 2. g4 e5 3. f4 Bxg4 4. fxe5 c6 5. e4 f6 6. Qxg4 d4 7. exf6 gxf6 8. Qxg8 Rxg8 9. c4 Rxg1 10. b4 Bxb4 11. a4 Rxf1+ 12. Ke2 Rxc1 13. h5 Rxh1 14. h6 Rxb1 15. e5 d3+ 16. Kf3 fxe5 17. c5 Bxc5 18. a5 Rf1+ 19. Kg4 Rf4+ 20. Kh5 Rh4# 0-1

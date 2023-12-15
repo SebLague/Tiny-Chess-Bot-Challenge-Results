@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "19"]
+[White "FunBot (by: Paul Spooner AKA Dudecon)"]
+[Black "Jormungandr (but scuffed) (by: CptShini)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. b4 a5 2. a3 axb4 3. Nh3 f6 4. e3 d6 5. Qh5+ g6 6. Bb5+ c6 7. Nc3 gxh5 8. Na4 cxb5 9. axb4 Rxa4 10. c4 Rxa1 11. Nf4 Rxc1+ 12. Ke2 Rxh1 13. cxb5 Rxh2 14. f3 e5 15. Kd1 exf4 16. exf4 h4 17. g3 hxg3 18. d3 g2 19. Kd2 Kf7 20. Kd1 g1=R# 0-1

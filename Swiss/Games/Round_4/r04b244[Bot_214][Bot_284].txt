@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "3"]
+[White "DareWitch (by: mdrwsh)"]
+[Black "Arctiform's Bot (by: Arctiform)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 g5 2. Nf3 g4 3. d4 gxf3 4. gxf3 h5 5. Bd2 f6 6. Be3 a5 7. Qd2 e6 8. Bg2 c6 9. f4 b6 10. Bxc6 dxc6 11. f3 f5 12. O-O h4 13. Kg2 Ne7 14. d5 Rg8+ 15. Kh1 h3 16. Bxb6 Qxb6 17. Rad1 Qxb2 18. Nb1 Qg7 19. Nc3 Qg2# 0-1

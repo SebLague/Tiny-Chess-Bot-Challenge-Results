@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "14"]
+[White "WhyAmIABot (by: Levi)"]
+[Black "Greedy-Dumb-Bot (by: TrangML)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. b3 Nf6 2. a3 c5 3. e3 Qb6 4. Nh3 e5 5. Nc3 Bd6 6. Bc4 Bc7 7. Bb2 h6 8. Qc1 Ne4 9. Nxe4 g5 10. Qd1 a6 11. Bd5 f5 12. Qh5+ Qg6 13. Qxg6+ Kf8 14. Qf7# 1-0

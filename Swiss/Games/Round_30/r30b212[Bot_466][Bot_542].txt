@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "29"]
+[White "ItPlaysBetterThanMe (by: RB)"]
+[Black "Chessetor, Destroyer of Boards (by: Badoobicus)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. b3 c5 2. a4 Qb6 3. g3 h6 4. g4 Qc6 5. a5 Qxh1 6. e3 Qxg1 7. a6 Qxh2 8. e4 Qf4 9. d3 Qe5 10. d4 Qxe4+ 11. Be2 cxd4 12. c4 Qh1+ 13. Bf1 Qe4+ 14. Qe2 Qe5 15. Qxe5 b6 16. Qxd4 g6 17. Qxh8 Nf6 18. Bxh6 Nxg4 19. Qxf8# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "8"]
+[White "Shenanigator (by: Gary Wawn)"]
+[Black "AlphaBetaZero (by: MV974)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Nc3 Nf6 3. d4 e5 4. dxe5 Nxe5 5. Bf4 Bd6 6. g3 O-O 7. a4 Qe8 8. Ke2 Nc4 9. Qd4 Bxf4 10. gxf4 d5 11. f3 c6 12. Kf2 Nxb2 13. Nxd5 cxd5 14. exd5 Nxd5 15. Qxd5 Nxa4 16. h4 a5 17. c4 Ra6 18. Re1 Qd8 19. Re5 Nc3 20. Qxd8 Rxd8 21. Ne2 Nd1+ 22. Kg1 f6 23. Rc5 a4 24. Nc1 Ne3 25. Be2 a3 26. Na2 Rc6 27. Rxc6 bxc6 28. Kf2 Nf5 29. Nb4 c5 30. Nd5 h5 31. Ra1 Nxh4 32. Rh1 Ng6 33. Ra1 Be6 34. Rxa3 Bxd5 35. cxd5 Nxf4 36. Bc4 Kh7 37. Ra5 h4 38. Rxc5 Rd6 39. Ke3 h3 40. Rc6 Nxd5+ 41. Bxd5 Rxd5 42. Rc1 Ra5 43. Rh1 Rh5 44. Kf2 h2 45. Kg3 g5 46. Rxh2 Rxh2 47. Kxh2 Kg6 48. Kg2 f5 49. Kg3 Kf6 50. f4 gxf4+ 51. Kxf4 Ke6 52. Kg5 Ke5 53. Kh4 Kd4 54. Kg3 Ke3 55. Kh3 f4 56. Kg2 f3+ 57. Kg3 f2 58. Kg2 Ke2 59. Kh3 f1=Q+ 60. Kg3 Qf5 61. Kg2 Qg4+ 62. Kh1 Kf1 63. Kh2 Qh4# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "23"]
+[White "Nathe-Bot (by: NatheSpike)"]
+[Black "Zambroni V.4.1.4 (by: JoeyZeeeeeee)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. d4 d5 3. exd5 Qxd5 4. Nf3 Bf5 5. Nc3 Qe6+ 6. Be3 Nb4 7. Rc1 Nxa2 8. Ng5 Nxc3 9. Nxe6 Nxd1 10. Nxc7+ Kd7 11. Nxa8 Nxe3 12. fxe3 Nf6 13. Bd3 e6 14. Bxf5 exf5 15. Ra1 Bb4+ 16. c3 Bxc3+ 17. bxc3 Rxa8 18. O-O g6 19. c4 a5 20. Rfb1 Kc7 21. Rb5 a4 22. Ra3 Kc6 23. d5+ Kc7 24. Rb4 Ng4 25. h3 Ne5 26. Raxa4 Rxa4 27. Rxa4 b6 28. Kf2 Kd6 29. Ke2 g5 30. Kd2 g4 31. Kc3 h5 32. hxg4 fxg4 33. Kd4 Nd7 34. Ra8 Nc5 35. Rb8 Nb3+ 36. Kc3 Kc7 37. Rf8 Nc5 38. Rxf7+ Kd6 39. Rh7 Ne4+ 40. Kd4 Ng3 41. Kd3 Ke5 42. Rh6 h4 43. d6 Ne4 44. Rh5+ Kxd6 45. Kxe4 h3 46. g3 Kc6 47. Kf4 Kd6 48. Kxg4 h2 49. Kf5 Kc5 50. Rh6 Kxc4 51. g4 Kd3 52. Rxh2 b5 53. Rb2 Kc3 54. Rxb5 Kc4 55. Rb2 Kd3 56. g5 Kxe3 57. g6 Kd3 58. g7 Kc3 59. Rb1 Kc2 60. Rb7 Kd1 61. g8=Q Kd2 62. Qc4 Ke3 63. Ra7 Kf3 64. Ra2 Kg3 65. Qg4# 1-0

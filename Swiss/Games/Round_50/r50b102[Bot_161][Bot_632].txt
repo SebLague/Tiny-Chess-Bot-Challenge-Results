@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "49"]
+[White "bLouBot (by: cmdrsigsegv)"]
+[Black "Dried Cod (by: Josh & Laurin)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 e6 2. Bf4 Qf6 3. Bxc7 Na6 4. Ba5 b6 5. Bc3 Bd6 6. d5 e5 7. e4 Qf4 8. Bxa6 Bxa6 9. Nd2 Rc8 10. g3 Qh6 11. h4 Nf6 12. f4 O-O 13. a4 Qg6 14. fxe5 Qxg3# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "63"]
+[White "Fool's Silver (by: Ethan Latymer (Sozius))"]
+[Black "BoringBot (by: Carson Bates)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a4 f6 2. f4 e5 3. fxe5 fxe5 4. g3 Ke7 5. Ra2 a6 6. Na3 e4 7. e3 d5 8. h3 d4 9. h4 dxe3 10. dxe3 Qxd1+ 11. Kxd1 h5 12. Ne2 b5 13. a5 Nc6 14. b3 Nxa5 15. b4 Be6 16. Ra1 Nc6 17. Nxb5 Rd8+ 18. Nbd4 Nxb4 19. Bd2 c5 20. Nxe6 Kxe6 21. c3 Nd3 22. Rxa6+ Ke5 23. Rh2 Rh6 24. Ra2 Rb8 25. Bg2 Rb1+ 26. Nc1 Nxc1 27. Bxc1 Nf6 28. Bf1 Nd5 29. Rhe2 Nxc3+ 30. Kc2 Nxa2 31. Kxb1 Nc3+ 32. Kc2 Nxe2 33. Bxe2 Bd6 34. Bd2 g6 35. Bc3+ Kd5 36. Be1 Rh8 37. Kc3 Be5+ 38. Kc2 Rb8 39. Bf2 Rb2+ 40. Kd1 Bc3 41. Bg1 Rb1+ 42. Kc2 Rxg1 43. Kxc3 Rxg3 44. Bc4+ Ke5 45. Kd2 Rh3 46. Bf7 Rh1 47. Bxg6 Rh2+ 48. Kc3 Rxh4 49. Kc4 Rh3 50. Kxc5 h4 51. Kc6 Rxe3 52. Bf7 h3 53. Bg6 h2 54. Kb5 Kd5 55. Bf7+ Kd4 56. Kc6 h1=Q 57. Be8 Rc3+ 58. Kd6 Qh2+ 59. Ke6 Qe5+ 60. Kf7 Rc7+ 61. Bd7 Rxd7+ 62. Kg6 Rg7+ 63. Kh6 Qg5# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "21"]
+[White "FENcer (by: Shlynz)"]
+[Black "Lxna (V4) (by: Ludovic Debever (Lxdovic))"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. e3 g6 3. Nc3 Bg7 4. Bb5 c6 5. Bd3 O-O 6. Ne4 Nxe4 7. Bxe4 d5 8. Bd3 e5 9. e4 f5 10. exd5 e4 11. dxc6 exd3 12. cxb7 Re8+ 13. Kf1 Bxb7 14. c3 Bd5 15. Kg1 Nc6 16. Qf1 Bxf3 17. h3 Bxg2 18. Qd1 Bxh1 19. Kxh1 Qd5+ 20. Kh2 Rab8 21. Qf1 Re2 22. Kg3 Be5+ 23. f4 Qe4 24. fxe5 g5 25. Qf2 Qh4+ 26. Kh2 Qxf2+ 27. Kh1 Re1# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "31"]
+[White "BasicAlphaBeta (by: ThonyDragon)"]
+[Black "Blitztron (by: Cameron Dugan)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. b3 d5 2. Ba3 h5 3. Nf3 h4 4. Ne5 Bf5 5. e3 c6 6. Nc3 Qa5 7. Qc1 Be6 8. h3 Qc7 9. Ng4 Qb6 10. f3 Bf5 11. d4 Bd7 12. Bc5 Qc7 13. Ne5 Bf5 14. e4 Be6 15. Rh2 Qa5 16. b4 Qc7 17. Be2 f6 18. exd5 Bc8 19. d6 exd6 20. Ng6 dxc5 21. Qe3+ Kd8 22. f4 cxb4 23. Ne4 f5 24. Nxh8 fxe4 25. Ng6 Ke8 26. Qxe4+ Be7 27. Bc4 Qa5 28. Bxg8 b3+ 29. Kf2 Be6 30. Qxe6 Qd2+ 31. Kf1 Qb4 32. a3 Qb5+ 33. c4 Qxc4+ 34. Qxc4 Kd8 35. Qf7 b6 36. Qxe7+ Kc8 37. Be6+ Nd7 38. Qxd7+ Kb8 39. Qc8# 1-0

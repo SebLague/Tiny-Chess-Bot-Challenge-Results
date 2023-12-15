@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "13"]
+[White "Hippo (by: MonteDegro)"]
+[Black "NameGoesThere's bot (by: NameGoesThere)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. d4 d5 2. Nc3 e6 3. Nf3 Ne7 4. Qd3 h5 5. Bg5 Nec6 6. Bxd8 Nxd8 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Knockout 64"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "-1"]
+[White "BoyaChess v5 (by: ArxelBlw)"]
+[Black "Scouty (by: Fioume)"]
+[Result "1-0"]
+[TimeControl "30+0.1"]
+[Termination "Checkmate"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 Bb4 8. Bd3 dxc4 9. Bxc4 b5 10. Bd3 Bxc3+ 11. bxc3 O-O 12. a4 bxa4 13. Qxa4 c5 14. Ne5 cxd4 15. cxd4 Bb7 16. O-O Rd8 17. Rab1 Qe7 18. h3 Rc8 19. Rfc1 Qd8 20. Rxc8 Qxc8 21. Rxb7 f6 22. Ng6 Qc1+ 23. Bf1 Kh7 24. Nf8+ Kg8 25. Qe8 Nd7 26. Qxd7 Qc7 27. Rxc7 Rxf8 28. Qxg7# 1-0

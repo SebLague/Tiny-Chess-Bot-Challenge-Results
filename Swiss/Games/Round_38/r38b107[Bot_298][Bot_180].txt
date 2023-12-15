@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "37"]
+[White "WhiteTide (by: b.maroti)"]
+[Black "Sørensen's Minimax (by: Victor)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. b4 e5 2. b5 Qh4 3. Bb2 Bb4 4. Bxe5 Bc5 5. e3 Ne7 6. Bxc7 d6 7. d4 Nd5 8. Bxb8 Nxe3 9. Qd3 Bb4+ 10. c3 Bxc3+ 11. Nxc3 Nxf1 12. Bxd6 Kd7 13. Ne4 Ke8 14. Kxf1 a6 15. Nc5 axb5 16. Re1+ Be6 17. Qxb5+ Kd8 18. Nxb7+ Kc8 19. Qc6# 1-0

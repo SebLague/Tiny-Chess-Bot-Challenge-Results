@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "14"]
+[White "Tarch (by: Taras Vuk)"]
+[Black "Game Tech Explained Bot (by: Game Tech Explained)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. Nc3 d5 3. Nf3 e6 4. g3 Nc6 5. Bg2 Bb4 6. O-O O-O 7. Be3 Re8 8. a3 Bxc3 9. bxc3 e5 10. dxe5 Nxe5 11. Nxe5 Rxe5 12. Re1 Re8 13. Qd3 Be6 14. Rad1 Qe7 15. a4 Ng4 16. Bf4 g5 17. Bd2 Rad8 18. h3 Ne5 19. Qe3 f6 20. f4 gxf4 21. Qxf4 Nc4 22. Qf2 Qa3 23. Qxf6 Qxa4 24. Bh6 Rd7 25. Rf1 Qa3 26. Rxd5 Ne5 27. Rxe5 Qc5+ 28. Rxc5 Bf5 29. Rcxf5 c6 30. Qf8+ Rxf8 31. Rxf8# 1-0

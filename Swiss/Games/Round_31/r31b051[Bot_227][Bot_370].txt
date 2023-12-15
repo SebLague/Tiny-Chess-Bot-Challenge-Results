@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "30"]
+[White "ConvolutedBot (by: pwahs)"]
+[Black "TuroChampEx (by: code<metas>)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. Nf3 e6 3. Nc3 d5 4. e3 a6 5. Bd3 h5 6. O-O a5 7. e4 Nc6 8. e5 Nh7 9. Bxh7 Rxh7 10. Ng5 Rh8 11. f4 f6 12. Nf3 Bd7 13. Qd3 Ne7 14. exf6 gxf6 15. Nh4 a4 16. Ng6 Nxg6 17. Qxg6+ Ke7 18. Re1 c6 19. f5 Qb6 20. fxe6 Bxe6 21. Qf5 Qxd4+ 22. Kh1 Kd8 23. Rxe6 Be7 24. Bf4 Qb4 25. Rae1 Bc5 26. Qxf6+ Kd7 27. Qf7+ Be7 28. Rxe7+ Kc8 29. Qf5+ Kd8 30. Qd7# 1-0

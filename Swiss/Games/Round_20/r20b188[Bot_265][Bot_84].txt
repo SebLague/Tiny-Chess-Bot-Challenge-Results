@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "19"]
+[White "SimpleBot (by: Tim Zollner)"]
+[Black "tom (by: Christopher Hosken & Thomas Lower)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 h5 2. Bd3 g5 3. Bf5 e5 4. Qe2 c5 5. Kd1 a5 6. Ke1 f6 7. Bg6+ Ke7 8. Nc3 d5 9. e4 dxe4 10. Nxe4 b6 11. Nxg5 fxg5 12. Qxe5+ Kd7 13. Bf5+ Kc6 14. Be4+ Qd5 15. Bxd5+ Kb5 16. Qe2+ Kb4 17. Qc4# 1-0

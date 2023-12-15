@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "51"]
+[White "broken bot (by: Raj Gaurav)"]
+[Black "PacifistBot (by: Noano01)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 Nf6 2. g4 Nc6 3. f4 Ne5 4. fxe5 d5 5. exd6 Bf5 6. dxe7 Qd4 7. exf8=B Rd8 8. gxf5 Rd5 9. e4 c5 10. exd5 g5 11. fxg6 Kd8 12. gxh7 b5 13. c4 a5 14. cxb5 Ng4 15. b4 Qf2# 0-1

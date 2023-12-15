@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "24"]
+[White "Turtle (by: Geezmo)"]
+[Black "Sore Loser Bot (by: Techno)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. f4 f5 2. h4 e5 3. b4 c5 4. d4 b6 5. e4 Qxh4+ 6. Rxh4 h5 7. g4 a6 8. a4 Rh7 9. c4 cxb4 10. Rxh5 fxg4 11. Rxh7 Ke7 12. Rh8 Ke6 13. Rh7 Kf7 14. Rh8 exd4 15. Rh7 Ne7 16. Rh8 d6 17. Rh7 Ng6 18. Rh8 Nc6 19. Rh7 Nh8 20. Rxh8 Kg6 21. Rh7 Ne5 22. Rh8 Kf6 23. Rh7 Nxc4 24. Rh8 Kf7 25. Rh7 g3 26. Rh8 Ne5 27. Rh7 g2 28. Rh8 Ng4 29. Rh7 Ne3 30. Rh8 Nxd1 31. Rh7 gxf1=R+ 32. Kxf1 Be7 33. Rh8 Bh3+ 34. Rxh3 Bf6 35. Rh7 b3 36. Rh8 b2 37. Rh7 bxa1=Q 38. Rh8 Qa2 39. Rh7 Be5 40. Rh8 Rc8 41. Rh7 Ke7 42. Rh8 Qxb1 43. Rh7 Rxc1 44. Rh8 Qxe4 45. Rh7 Qf5 46. Rh8 Qf6 47. Rh7 Rb1 48. Rh8 Qg5 49. Rh7 Rb3 50. Rh8 b5 51. Rh7 Qh5 52. Rh8 Re3 53. Rh7 Bf6 54. Rh8 a5 55. Rh7 Qh6 56. Rh8 bxa4 57. Rh7 Kd8 58. Rh8+ 1-0

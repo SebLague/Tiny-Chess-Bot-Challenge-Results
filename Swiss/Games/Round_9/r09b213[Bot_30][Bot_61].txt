@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "8"]
+[White "WhyAmIABot (by: Levi)"]
+[Black "Natrix (by: Pouek_)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f3 Nc6 2. h4 Nf6 3. Nh3 d6 4. Ng5 h6 5. Nxf7 Kxf7 6. Nc3 Nd4 7. f4 Be6 8. b4 Nd5 9. Nxd5 Bxd5 10. Bb2 Ne6 11. Ba3 Nxf4 12. Rh2 Qd7 13. c3 Qg4 14. Qc2 Qg3+ 15. Kd1 Qxh2 16. Qf5+ Kg8 17. Rc1 Bxa2 18. Rc2 Bb1 19. c4 Qxh4 20. Qd7 Qf2 21. d3 Qxf1+ 22. Kd2 Qxe2+ 23. Kc3 Qxc2+ 24. Kd4 Qxd3# 0-1

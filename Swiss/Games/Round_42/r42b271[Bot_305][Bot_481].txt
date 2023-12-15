@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "41"]
+[White "RandomUnoptimisedBot (by: Zhanybek)"]
+[Black "Just Alright... Kinda... (JAK) (by: Joshnaks)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f4 a5 2. Nc3 c5 3. Rb1 c4 4. g3 f5 5. h4 h5 6. b4 axb4 7. Bh3 bxc3 8. Rb5 Rxa2 9. Rh2 cxd2+ 10. Kf2 dxc1=N 11. Ke1 Nxe2 12. Re5 Nxg1 13. Rb5 Nxh3 14. Kd2 c3+ 15. Kc1 Ra1+ 16. Rb1 Rxb1+ 17. Kxb1 Qb6+ 18. Kc1 Qb2# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "36"]
+[White "the mater (by: )"]
+[Black "EpsilonCheck (by: aymco)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. a4 d5 3. exd5 Qxd5 4. h4 Qe4+ 5. Ne2 Nc6 6. c3 a5 7. d4 exd4 8. cxd4 Nb4 9. Nc3 Qd3 10. Qxd3 Nxd3+ 11. Kd2 Nxf2 12. Rh2 Bf5 13. h5 Nf6 14. Nf4 O-O-O 15. g3 N6g4 16. Rg2 Rxd4+ 17. Ke1 Bc5 18. Rxf2 Nxf2 19. Be3 Re8 20. Nce2 Rxe3 21. Rc1 Ne4 22. Bg2 b6 23. b3 Nxg3 24. Bb7+ Kxb7 25. Kf2 Nxe2 26. Rxc5 Rxf4+ 27. Kxe3 Re4+ 28. Kd2 bxc5 29. Kd3 Nf4+ 30. Kc3 Re2 31. b4 axb4+ 32. Kc4 Kc6 33. a5 Nxh5 34. Kb3 g5 35. a6 h6 36. a7 Be6+ 37. Ka4 Ra2# 0-1

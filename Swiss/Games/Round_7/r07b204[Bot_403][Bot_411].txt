@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "6"]
+[White "Better than my maker :p (by: Bobinou)"]
+[Black "StallerBot (by: Ean)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 Na6 2. Rb1 c5 3. Ra1 Nb4 4. c3 Nd3+ 5. exd3 Nf6 6. b4 cxb4 7. cxb4 a5 8. Bb2 h5 9. Bxf6 b6 10. Qf3 Ra6 11. Qc6 dxc6 12. d4 exf6 13. Bxa6 Bxa6 14. Kd1 Qxd4 15. Rb1 Qg4+ 16. Kc2 Bd3+ 17. Kxd3 Qg6+ 18. Ke2 Qxg2 19. bxa5 Bxa3 20. Nf3 Qh3 21. Rxb6 Qe6+ 22. Kd1 Qd6 23. Ke1 Qe7+ 24. Kd1 O-O 25. Rf1 g5 26. Kc2 Qc5+ 27. Kb1 Qf5+ 28. Ka1 Qxa5 29. Rb3 Ra8 30. d3 Qd5 31. Ne1 Qe5+ 32. Kb1 Qe2 33. Rh1 Qd1# 0-1

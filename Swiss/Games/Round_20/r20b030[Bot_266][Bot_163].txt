@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "19"]
+[White "Game Tech Explained Bot (by: Game Tech Explained)"]
+[Black "Grenouille (by: mcngnt)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. e3 e6 3. Nc3 d5 4. Nf3 c5 5. Bb5+ Bd7 6. O-O Be7 7. Ne5 Bxb5 8. Nxb5 Nc6 9. Nxc6 bxc6 10. Nc3 O-O 11. Qf3 Qc7 12. h3 Rad8 13. Rd1 e5 14. dxe5 Qxe5 15. a4 Bd6 16. Bd2 Qh2+ 17. Kf1 Rfe8 18. g4 d4 19. Ne2 dxe3 20. Bxe3 Nd5 21. Bd2 Be5 22. Rab1 h6 23. g5 hxg5 24. Bxg5 f6 25. Bd2 Rc8 26. a5 c4 27. b3 c3 28. Be1 a6 29. Ra1 Rb8 30. Ra4 Nb4 31. Rc1 Bc7 32. Bxc3 c5 33. Bd2 Rbd8 34. Be3 Nxc2 35. Bxc5 Rd2 36. Nf4 Bxf4 37. Rxf4 Rd3 38. Qg4 Rd1+ 39. Rxd1 Qh1+ 40. Qg1 Qxh3+ 41. Qg2 Qd3+ 42. Kg1 Qxd1+ 43. Kh2 Qh5+ 44. Qh3 Qxc5 45. Qd7 Qh5+ 46. Kg2 Ne1+ 47. Kg3 Qe5 48. Kg4 Qg5+ 49. Kh3 Qg2+ 50. Kh4 Nf3+ 51. Rxf3 Re4+ 52. Rf4 Rxf4+ 53. Qg4 Qxg4# 0-1

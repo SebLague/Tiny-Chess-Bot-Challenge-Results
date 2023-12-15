@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "6"]
+[White "BettyBot (by: Thomas / TGhost)"]
+[Black "MyFirstChessEngine (by: Jake Forsey)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Na3 Nc6 2. Nc4 Nf6 3. f3 Nd5 4. Rb1 e6 5. d4 Qh4+ 6. g3 Qxd4 7. Qxd4 Nxd4 8. Kd1 Nf5 9. Bh3 Bc5 10. Bxf5 exf5 11. Nh3 Ke7 12. Ke1 f4 13. Bxf4 Bb4+ 14. Kd1 Nxf4 15. Nxf4 Bd6 16. Kc1 Bxf4+ 17. gxf4 f6 18. Kd1 Ke6 19. Ke1 Kd5 20. Nd2 Ke6 21. Nc4 Rb8 22. Kf1 Kd5 23. Nd2 d6 24. Ke1 g5 25. Ne4 gxf4 26. Nxf6+ Ke6 27. Ne4 d5 28. Nd2 Ke5 29. Kd1 Kd4 30. Kc1 Be6 31. Ra1 Rbd8 32. Kd1 Rd7 33. Ke1 Re8 34. Kf1 Ke3 35. Rd1 Kd4 36. Ra1 Ke3 37. Rd1 Kd4 38. Ra1 1/2-1/2

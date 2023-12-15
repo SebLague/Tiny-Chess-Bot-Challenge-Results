@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "32"]
+[White "Sleepy panda bot (by: Quinten F)"]
+[Black "CombEaredSkink (by: Deepfriedice)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 e5 2. dxe5 Bb4+ 3. Qd2 Qh4 4. c3 Bc5 5. Qxd7+ Bxd7 6. Be3 Bxe3 7. g3 Qa4 8. fxe3 Nc6 9. Bg2 Ke7 10. Bxc6 Bxc6 11. Nf3 Bxf3 12. Kf2 Bxh1 13. Kg1 Qd1+ 14. Kf2 Nh6 15. h3 Be4 16. Na3 Qxa1 17. Nc4 Qd1 18. b4 Rad8 19. b5 Qc1 20. a4 Rd1 21. g4 Rg1 22. e6 Rg2# 0-1

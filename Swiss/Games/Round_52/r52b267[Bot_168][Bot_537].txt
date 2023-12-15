@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "51"]
+[White "CopyCat (by: ADI)"]
+[Black "InfuehrDaniel MCTS (by: Daniel Infuehr)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h3 d5 2. e4 Nc6 3. Nf3 Qd6 4. exd5 Nb4 5. Ng5 Qe5+ 6. Ne4 Qxe4+ 7. Be2 Nxc2+ 8. Qxc2 Qxg2 9. Qxh7 Rxh7 10. Bd1 Qe4+ 11. Kf1 Qxh1+ 12. Ke2 Qe4+ 13. Kf1 Bxh3+ 14. Kg1 Qg2# 0-1

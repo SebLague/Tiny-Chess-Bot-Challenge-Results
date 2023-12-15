@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "9"]
+[White "LeMaire (by: Beaud Rémi and Mechulam Antoine)"]
+[Black "BuiltCleverBot (by: Scott Ward)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 Nc6 2. Nf3 d5 3. d4 Bf5 4. e3 Nf6 5. Bd3 Bxd3 6. Qxd3 e6 7. Qb5 a6 8. Qb3 Bb4 9. a3 Bxc3+ 10. Qxc3 O-O 11. Ne5 Ne4 12. Nxc6 Qf6 13. Ne7+ Qxe7 14. Qb3 Qf6 15. f3 Qh4+ 16. Ke2 Ng3+ 17. hxg3 Qxh1 18. Kf2 Rab8 19. Qc3 Rfe8 20. Qc5 Qd1 21. Rb1 Rbc8 22. Ra1 e5 23. dxe5 Rxe5 24. e4 Rh5 25. Rb1 Rh1 26. Qc3 d4 27. g4 dxc3 28. Kg3 Qxc2 29. bxc3 Qxb1 30. Be3 Qe1+ 31. Bf2 Qxc3 32. Kf4 Qd2+ 33. Be3 g5+ 34. Kxg5 Qxe3+ 35. Kf5 Re8 36. a4 h6 37. f4 Qxe4+ 38. Kf6 Qe6# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "42"]
+[White "Freedom_Fighter v.83 (by: Kongo Landwalker)"]
+[Black "NameGoesThere's bot (by: NameGoesThere)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e5 2. Qh5 e4 3. Bb5 Ne7 4. Nc3 b6 5. Nxe4 Ng8 6. Qe5+ Ne7 7. Ne2 g6 8. Nf6# 1-0

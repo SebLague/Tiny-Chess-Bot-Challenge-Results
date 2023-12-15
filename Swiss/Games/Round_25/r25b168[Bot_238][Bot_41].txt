@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "24"]
+[White "AUR Chessbot (by: Soul Senshi)"]
+[Black "RichyRoo (by: devrichgg)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 Nc6 2. Nf3 Nf6 3. Rb1 Rb8 4. Ra1 Rg8 5. Rb1 Ra8 6. Ra1 Nd4 7. Nxd4 a5 8. e3 c5 9. Nde2 d5 10. Ng1 Bg4 11. Bb5+ Nd7 12. Qxg4 e5 13. Nxd5 f6 14. Qe6+ Be7 15. Qxg8+ Bf8 16. Qxh7 g5 17. Qh5# 1-0

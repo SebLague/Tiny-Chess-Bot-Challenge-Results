@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "60"]
+[White "Susolly (by: Rookie)"]
+[Black "simple chess bot (by: 4a0I)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 e6 2. g3 Qf6 3. Bg2 Nc6 4. Nc3 Qf5 5. e4 Qc5 6. d4 Qb4 7. O-O Nf6 8. d5 exd5 9. e5 Ng4 10. Nxd5 Qa5 11. Bf4 Bc5 12. h3 Nxf2 13. Rxf2 Bxf2+ 14. Kxf2 Qc5+ 15. Be3 Qa5 16. c3 Ne7 17. Ng5 Nxd5 18. Bxd5 Qb5 19. Kg1 Qxb2 20. Bxf7+ Ke7 21. Bc5+ d6 22. Bxd6+ Kd7 23. Bxc7+ Kxc7 24. Qd6# 1-0

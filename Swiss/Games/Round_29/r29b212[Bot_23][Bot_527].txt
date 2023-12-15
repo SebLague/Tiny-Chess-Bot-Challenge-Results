@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "28"]
+[White "HalfWit (by: Steven Christy)"]
+[Black "Stickleback (by: Brent Mardell)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f3 d5 2. f4 Nf6 3. a3 Nc6 4. g3 e5 5. a4 exf4 6. gxf4 Bg4 7. Nc3 Bb4 8. Nb5 O-O 9. c3 Bc5 10. Nf3 Bxf3 11. exf3 Re8+ 12. Be2 Rxe2+ 13. Qxe2 Qe7 14. Qxe7 Bxe7 15. Nxc7 d4 16. Nxa8 dxc3 17. Kf1 cxd2 18. Ke2 dxc1=Q 19. Raxc1 Nd4+ 20. Ke3 Nxf3 21. Kxf3 Ne4 22. Kxe4 Bf6 23. Rc8+ Bd8 24. Rxd8# 1-0

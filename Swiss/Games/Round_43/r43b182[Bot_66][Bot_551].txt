@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "42"]
+[White "CapivaraBot (by: Danilo Luiz Rheinheimer)"]
+[Black "AchillesAlpha (by: Achilles)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. h4 e6 2. g4 Nh6 3. e4 Nxg4 4. Qxg4 h5 5. Qh3 Bb4 6. f4 Qf6 7. f5 Ke7 8. fxe6 Qf4 9. exf7 Qxe4+ 10. Ne2 Kxf7 11. c3 Kf6 12. cxb4 Nc6 13. b5 Qc4 14. bxc6 Qxc6 15. d4 Re8 16. Nc3 Kf7 17. b4 Qc4 18. Qf5+ Ke7 19. a4 Qc6 20. d5 Qb6 21. b5 Rh8 22. a5 Qc5 23. Qg6 Kf8 24. Qf5+ Kg8 25. Qg6 Qd6 26. Nf4 Qxg6 27. Nxg6 Rh7 28. a6 bxa6 29. bxa6 Kf7 30. Ne5+ Kf8 31. Ng6+ Ke8 32. Ne5 Ke7 33. Ng6+ Kf7 34. Ne5+ Ke7 35. Ng6+ Kf7 1/2-1/2

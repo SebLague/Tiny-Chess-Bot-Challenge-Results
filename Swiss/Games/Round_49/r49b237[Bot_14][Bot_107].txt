@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "48"]
+[White "simpleval (portmonteau of simple eval) (by: hokurou)"]
+[Black "Crazy? I was crazy once. They Locked me in a room. A rubber room. A rubber room with rats. Rats make me crazy. (by: Big red)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. h4 Na6 2. g4 Nf6 3. g5 b5 4. gxf6 exf6 5. f4 Bb7 6. Rh2 Qb8 7. d4 Qc8 8. h5 Qb8 9. f5 Qc8 10. e3 b4 11. c4 Qb8 12. a4 Qc8 13. a5 Qb8 14. b3 Qc8 15. Nh3 Qb8 16. Nf4 Qc8 17. Nh3 Qb8 18. Nf4 Qc8 19. Nh3 1/2-1/2

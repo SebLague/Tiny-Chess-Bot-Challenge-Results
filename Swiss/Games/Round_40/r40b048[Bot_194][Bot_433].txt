@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "39"]
+[White "Deerobot (by: Hugo Ingelsson)"]
+[Black "PlinkBot (by: superplink)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 Nc6 2. Nf3 e5 3. Nc3 Bb4 4. Bb5 Nge7 5. Na4 e4 6. Ng5 d5 7. c3 Bd6 8. c4 Ng6 9. Qh5 h6 10. cxd5 hxg5 11. Qe2 a6 12. dxc6 axb5 13. cxb7 Bxb7 14. Qxb5+ Qd7 15. Qxb7 Qxa4 16. b3 Qa5 17. Bb2 f5 18. Bxg7 Rxh2 19. Rxh2 Bxh2 20. Qc6+ Kf7 21. Qf6+ Kg8 22. Qxg6 Qa6 23. Bf6+ Kf8 24. Qg7+ Ke8 25. Qe7# 1-0

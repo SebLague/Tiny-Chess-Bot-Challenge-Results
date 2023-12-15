@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "33"]
+[White "Bobobot (by: Lino)"]
+[Black "GenericBoringbot (by: Kayinth)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g3 Nf6 2. f3 Nd5 3. c3 Nc6 4. h4 Ne5 5. d3 Rb8 6. a4 Ra8 7. b3 Rb8 8. Nh3 Rg8 9. Nf2 Ra8 10. Ne4 f5 11. Nd6+ exd6 12. Qd2 Qe7 13. Qg5 Nxf3+ 14. Kf2 Nxg5 15. Bh3 Nxh3+ 16. Kf1 f4 17. Be3 Nxe3+ 18. Ke1 Nc2+ 19. Kd1 Nxa1 20. Nd2 Nf2+ 21. Ke1 Nxh1 22. Nc4 Nxg3 23. Ne5 Qxe5 24. Kf2 Qxe2+ 25. Kg1 f3 26. h5 Qg2# 0-1

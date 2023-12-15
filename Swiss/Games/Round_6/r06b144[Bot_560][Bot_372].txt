@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "5"]
+[White "MiaKBotv4.4 (by: Mia Kellett)"]
+[Black "CrimesAgainstDotNet (by: Reckoner (Robyn))"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e6 2. Nf3 Qf6 3. Ne4 Qf4 4. Nc3 Bb4 5. Rb1 Nf6 6. Ra1 O-O 7. Rb1 c6 8. Ra1 d6 9. Rb1 Nbd7 10. Ra1 Nc5 11. d4 Qg4 12. h3 Qg6 13. Nh4 Qh5 14. dxc5 Qxh4 15. Qxd6 Ne4 16. Qf4 Qxf4 17. Bxf4 Bd7 18. Bd6 Rfe8 19. Rb1 Rad8 20. Bc7 Rc8 21. Bd6 a5 22. a3 Bxc3+ 23. bxc3 e5 24. Rxb7 Bf5 25. Ra7 Re6 26. g4 Bg6 27. c4 Rf6 28. Rxa5 Rxf2 29. Bxe5 Rd8 30. Rg1 Re8 31. Ba1 Rb8 32. Rh1 Rb1# 0-1

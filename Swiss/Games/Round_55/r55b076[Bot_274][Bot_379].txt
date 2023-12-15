@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "54"]
+[White "BoringBot (by: Carson Bates)"]
+[Black "BIG CHUMPER V6.0 (by: Pedro Contipelli)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f3 Nc6 2. g3 Nf6 3. d3 h5 4. h4 d5 5. e4 d4 6. c3 e5 7. cxd4 exd4 8. f4 Bb4+ 9. Nd2 Ng4 10. a3 Ne3 11. Qa4 b5 12. Qxb5 Nc2+ 13. Ke2 Nxa1 14. axb4 Bg4+ 15. Kf2 Rh6 16. Qa4 Bd7 17. f5 f6 18. b5 Ne5 19. b4 Ng4+ 20. Ke2 Nc2 21. Qxc2 Bxb5 22. Qb3 Rh8 23. Ndf3 c6 24. Qe6+ Kf8 25. Ne1 Qc7 26. Bf4 Ne5 27. Kf2 a6 28. Ngf3 Rd8 29. Nxe5 fxe5 30. Bxe5 Qe7 31. f6 Qxe6 32. fxg7+ Ke7 33. gxh8=Q Rxh8 34. Bxh8 Qf7+ 35. Nf3 Qa2+ 36. Kg1 Qg8 37. Be5 Qb3 38. Nxd4 Qxb4 39. Nxb5 axb5 40. Kg2 Qd2+ 41. Kf3 Qd1+ 42. Kf4 b4 43. Bb8 b3 44. Bg2 Qd2+ 45. Kf5 Qxg2 46. Rc1 b2 47. Rb1 Qc2 48. Rxb2 Qxb2 49. Be5 Qe2 50. Kg6 Qg4+ 51. Kh6 Kf7 52. Kh7 Qg6+ 53. Kh8 Qh6# 0-1

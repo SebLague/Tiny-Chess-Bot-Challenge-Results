@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "38"]
+[White "BasicBot (by: Phnx)"]
+[Black "EldenBot (by: Ghost_Dev_84)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 a6 2. Nf3 a5 3. Rb1 a4 4. d4 a3 5. e4 axb2 6. Bxb2 b6 7. Bd3 b5 8. Ne5 b4 9. Bc4 bxc3 10. Bxf7# 1-0

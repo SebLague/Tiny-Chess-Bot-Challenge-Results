@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "42"]
+[White "CrimesAgainstDotNet (by: Reckoner (Robyn))"]
+[Black "MintMax (by: weasel)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. Qf3 Ng8 3. Bc4 Nh6 4. Nc3 Nc6 5. Qh5 e6 6. d4 Nxd4 7. Qd1 Qf6 8. Be3 Nc6 9. Bb5 Qe7 10. Nf3 Rg8 11. Bg5 Qb4 12. Bxh6 gxh6 13. Qd2 Qxb2 14. Rb1 Qa3 15. O-O Rg4 16. h3 Rg8 17. Rb3 Qc5 18. Na4 Qh5 19. Rd1 Qg6 20. Ne1 Qxe4 21. Rf3 Qe5 22. Qd3 Rg7 23. Nc3 Qh5 24. Qe4 Ne7 25. Qd4 c6 26. Be2 Rg6 27. Re3 Qa5 28. Qh8 Nf5 29. Re5 Qxc3 30. Bh5 Rg7 31. Nd3 d6 32. Bxf7+ Kxf7 33. Rxf5+ exf5 34. Kh1 Qxc2 35. Nb2 Qxb2 36. Rf1 Qxa2 37. Kg1 Qb2 38. Rd1 Qc2 39. Re1 Qc3 40. Rd1 Qb3 41. Rc1 Be6 42. Re1 Bd5 43. g3 Rxg3+ 44. fxg3 Qxg3+ 45. Kf1 Qg2# 0-1

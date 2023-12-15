@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "Stickleback2 (by: Brent Mardell)"]
+[Black "Bob (by: Evan Leach)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. Nc3 b6 3. d4 Nc6 4. Bg5 Ng4 5. h3 Nf6 6. Ne5 Bb7 7. Nxc6 dxc6 8. e4 h6 9. Bf4 b5 10. d5 b4 11. dxc6 Bxc6 12. Qxd8+ Kxd8 13. O-O-O Nd7 14. Bb5 Bxb5 15. Nxb5 c6 16. Nc7 e5 17. Nxa8 exf4 18. g3 Bc5 19. gxf4 Bxf2 20. Kb1 Re8 21. Rhf1 Be3 22. e5 Kc8 23. Rf3 Bc5 24. a3 bxa3 25. bxa3 Nb8 26. Rb3 Nd7 27. Rc3 Rd8 28. Rcd3 h5 29. f5 Bf2 30. e6 fxe6 31. fxe6 Kb7 32. Rxd7+ Rxd7 33. exd7 Bh4 34. d8=Q Bxd8 35. Rxd8 a5 36. Ka1 a4 37. h4 c5 38. c4 Kc6 39. Rb8 Kd7 40. Rb1 Kc6 41. Nb6 Kd6 42. Nxa4 Kc6 43. Rb5 Kd6 44. Rxc5 g6 45. Rg5 Kc7 46. Rxg6 Kb7 47. Nc5+ Ka7 48. Rh6 Ka8 49. Kb2 Ka7 50. Kc3 Ka8 51. Rh7 Kb8 52. Kd4 Ka8 53. Ne4 Kb8 54. Nf6 Ka8 55. Kc5 Kb8 56. Kb6 Ka8 57. Rh8# 1-0

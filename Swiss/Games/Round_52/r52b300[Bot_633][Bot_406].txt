@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "51"]
+[White "LadyLuckGuidesMyMinMaxSearch (by: MrPelluke)"]
+[Black "GenericBoringbot (by: Kayinth)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f3 e6 2. Nh3 Qh4+ 3. g3 Qb4 4. Rg1 Nc6 5. Rg2 Nf6 6. b3 Qd4 7. a4 Qxa1 8. c4 Qxb1 9. Ng1 Bd6 10. d3 O-O 11. g4 Kh8 12. Rf2 Bb4+ 13. Bd2 Bxd2+ 14. Kxd2 Qb2+ 15. Ke1 Qc3+ 16. Qd2 Qxb3 17. Qd1 Qc3+ 18. Qd2 Qd4 19. Rg2 Qa1+ 20. Qd1 Qc3+ 21. Qd2 Qe5 22. h3 Qa1+ 23. Qc1 Qxc1+ 24. Kf2 Ne5 25. a5 Ne8 26. Kg3 Qxf1 27. Kh4 Qxg2 28. g5 g6 29. e3 Qf2# 0-1

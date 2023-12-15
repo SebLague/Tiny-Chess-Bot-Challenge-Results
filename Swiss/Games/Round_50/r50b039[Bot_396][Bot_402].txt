@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "49"]
+[White "Baby Squid (by: Jonas Tyroller)"]
+[Black "Lxna (V4) (by: Ludovic Debever (Lxdovic))"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. d4 d5 3. c4 dxe4 4. d5 Ne5 5. Qd4 Ng6 6. Qxe4 Nf6 7. Qd3 e6 8. Nc3 Bb4 9. dxe6 Bxe6 10. a3 Qxd3 11. Bxd3 Bxc3+ 12. bxc3 Ne5 13. Bc2 Nxc4 14. Ne2 O-O-O 15. Bf4 Rhe8 16. h4 Nd5 17. Bg5 Bg4 18. f3 Nxc3 19. Be4 Nxe4 20. Bxd8 Nc3 21. Bg5 Rxe2+ 22. Kf1 Bf5 23. Kg1 h6 24. Bf4 Rc2 25. Kh2 Nd5 26. Kg3 Re2 27. h5 Nb2 28. Bc1 Nd3 29. Rd1 Nc3 30. Rh1 Bd7 31. a4 Ne1 32. Bxh6 Rxg2+ 33. Kf4 Nc2 34. Bxg7 Ne2+ 35. Ke5 Rxg7 36. Ra2 Rg5+ 37. Kf6 Rf5+ 38. Ke7 Ncd4 39. Re1 Nc3 40. Rg2 Nd5+ 41. Kf8 Bxa4 42. h6 Nxf3 43. Re4 Bc6 44. h7 Rh5 45. h8=Q Rxh8+ 46. Kxf7 Nc3 47. Kg7 Rh1 48. Rf4 Bd5 49. Rg3 Rf1 50. Rf6 Ne2 51. Rg4 Ned4 52. Rgg6 Kd7 53. Rh6 Rg1+ 54. Rhg6 Re1 55. Kh8 Re8+ 56. Kh7 Be4 57. Kh6 Ke7 58. Rf4 Bxg6 59. Kxg6 Rg8+ 60. Kh7 Rg3 61. Kh8 Ne6 62. Rf5 Nfg5 63. Rxg5 Nxg5 64. Kg7 Ne4+ 65. Kh6 Kf6 66. Kh5 Nf2 67. Kh4 Rh3# 0-1

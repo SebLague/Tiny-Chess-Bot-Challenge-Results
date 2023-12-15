@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "46"]
+[White "maff-chess (by: Filip)"]
+[Black "Elf-1200 (by: Elliot Throop)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. Nc3 Qd6 3. exd5 Nc6 4. dxc6 Qxc6 5. Bb5 Nf6 6. Rb1 Bg4 7. f3 Nd5 8. Nxd5 Qxb5 9. Nxc7+ Kd7 10. Nxb5 Be6 11. Nc3 g6 12. Qe2 Bg7 13. Qb5+ Kd6 14. Qxb7 Rac8 15. d4 Rxc3 16. Bf4+ Be5 17. dxe5+ Kc5 18. bxc3 Bb3 19. axb3 Ra8 20. Bh6 Rb8 21. b4+ Kc4 22. Qc6# 1-0

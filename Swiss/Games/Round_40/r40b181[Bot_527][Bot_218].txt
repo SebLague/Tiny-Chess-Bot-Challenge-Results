@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "39"]
+[White "Stickleback (by: Brent Mardell)"]
+[Black "Epimetheus (by: George Bland)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 c6 2. e4 Qa5+ 3. Nc3 Nf6 4. e5 Ne4 5. Nf3 d6 6. exd6 exd6 7. Be3 Bf5 8. Bd3 Nd7 9. Bxe4 Bxe4 10. Qe2 Be7 11. O-O Bf5 12. Bd2 Bxc2 13. Qxe7+ Kxe7 14. d5 cxd5 15. Nxd5+ Qxd5 16. Rfe1+ Kf6 17. Bc3+ Kg6 18. Bxg7 Kxg7 19. Ng5 Qxg5 20. f4 Qxf4 21. Rf1 Qe3+ 22. Kh1 Rac8 23. Rxf7+ Kxf7 24. Rf1+ Kg7 25. Ra1 Rhf8 26. h3 Kh8 27. Kh2 Rc4 28. Re1 Qxe1 29. b3 Rf1 30. bxc4 Rh1# 0-1

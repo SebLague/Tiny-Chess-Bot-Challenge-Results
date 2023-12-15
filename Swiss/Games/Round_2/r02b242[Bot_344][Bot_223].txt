@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "DD9's chess bot (by: DigestDig9)"]
+[Black "Smiley (by: Orniflyer)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Na6 2. e4 Nf6 3. Bg5 c6 4. Bxf6 h6 5. Bxg7 f6 6. Qh5# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "49"]
+[White "Ace V1.0.0 (by: Atad)"]
+[Black "Midnight Oil (by: Danny Boy)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Nf3 d6 3. Nc3 Nf6 4. Bb5 a6 5. Bxc6+ bxc6 6. d4 Bb7 7. O-O Qd7 8. e5 Nd5 9. Ne4 Qg4 10. Neg5 f6 11. h3 Qc8 12. exf6 gxf6 13. Ne4 Qf5 14. Ng3 Qe6 15. Re1 Qf7 16. c4 Nb6 17. b3 Nd7 18. Qd3 O-O-O 19. Qf5 Re8 20. Bf4 h6 21. Re6 Rg8 22. Rae1 Kd8 23. c5 Bg7 24. cxd6 exd6 25. Rxe8+ Rxe8 26. Rxe8+ Kxe8 27. Qa5 Nb6 28. Nf5 Bf8 29. Bxh6 Bxh6 30. Nxh6 Qg6 31. Nf5 Nd5 32. N3h4 Qg5 33. Qe1+ Kd7 34. Kh2 c5 35. dxc5 dxc5 36. g3 Bc6 37. a4 Bb7 38. Qd1 Qg8 39. Qc1 Qf8 40. Qc4 Kd8 41. a5 Kd7 42. Qg4 Kd8 43. Ng7 Bc8 44. Qe4 Qxg7 45. Qxd5+ Qd7 46. Qg8+ Qe8 47. Qg7 Qe7 48. Qh8+ Kd7 49. Ng6 Qf7 50. Nf4 Bb7 51. h4 Qxb3 52. Qxf6 Qa2 53. Qf5+ Kd6 54. Qd3+ Ke5 55. Qe3+ Kd6 56. h5 Bd5 57. h6 Qxa5 58. Nxd5 Qa1 59. Nc3 Qb2 60. h7 Qb8 61. Qh6+ Kd7 62. h8=Q Qxh8 63. Qxh8 Kc6 64. Qf6+ Kd7 65. Ne4 a5 66. Nxc5+ Ke8 67. Qg7 c6 68. Qd7+ Kf8 69. Ne6+ Kg8 70. Qg7# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "43"]
+[White "DeltaWeakness (by: Johan Zetterlund)"]
+[Black "TLMChessBot [v1-1250] (by: Möhrchen (Thilo))"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 Nc6 4. Bd3 g5 5. h3 a5 6. O-O h5 7. b3 Bg7 8. Bb2 g4 9. Nh2 gxh3 10. gxh3 h4 11. Ng4 b6 12. a3 Bb7 13. Rc1 Ne5 14. Nb5 d6 15. Nxe5 dxe5 16. f4 Rh6 17. fxe5 Bxe5 18. Bxe5 Qg5+ 19. Qg4 Qxe5 20. Qxg8+ Kd7 21. Rxf7+ Kc6 22. Qg7 Qxg7+ 23. Rxg7 Rc8 24. Na7+ Kd6 25. Rxb7 Rg8+ 26. Kh1 Rg3 27. Kh2 Rf6 28. e5+ Kxe5 29. Re1+ Kf4 30. Rxb6 Kg5 31. Re5+ Kh6 32. Rexe6 Rxe6 33. Rxe6+ Kg7 34. Nc6 Rf3 35. Rg6+ Kf8 36. Kg2 Rf7 37. Nxa5 Ra7 38. Nc4 Rd7 39. Rh6 Rd4 40. Nd6 Rf4 41. Nf5 Kf7 42. Bc4+ Ke8 43. Be6 Kd8 44. Rh7 Rxf5 45. Bxf5 Ke8 46. Rxh4 Ke7 47. Rh6 Kf7 48. Kf3 Ke7 49. Ke4 Kf7 50. Rh7+ Kf6 51. c4 Kg5 52. Rf7 Kh4 53. Kf4 Kh5 54. Rh7# 1-0

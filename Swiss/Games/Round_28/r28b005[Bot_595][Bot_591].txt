@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "27"]
+[White "myte (by: sparemind)"]
+[Black "Rigel (by: Antares (Github: Alex2262))"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bc4 Bc5 5. d3 O-O 6. O-O h6 7. Nd5 d6 8. c3 a6 9. b4 Ba7 10. a4 Nxd5 11. exd5 Ne7 12. d4 e4 13. Ne1 c6 14. dxc6 bxc6 15. Ba3 Re8 16. Qh5 d5 17. Be2 Nf5 18. g4 Nh4 19. b5 axb5 20. axb5 Bb7 21. Bb4 cxb5 22. Bxb5 Re6 23. h3 g5 24. Kh1 Qc7 25. f4 exf3 26. Nd3 Bb8 27. Ne5 Rxa1 28. Rxa1 Rxe5 29. dxe5 Qxe5 30. Kg1 Qh2+ 31. Kf1 Bg3 32. Qxf7+ Kxf7 33. Be8+ Kg8 34. Bf7+ Kxf7 35. Ra7 Qg2# 0-1

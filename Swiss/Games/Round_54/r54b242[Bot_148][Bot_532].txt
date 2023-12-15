@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "53"]
+[White "ExtremelyShortsighted (by: CJS)"]
+[Black "PracticeBot (by: liamkc)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 h5 2. Be2 b5 3. Bxb5 f6 4. Nc3 f5 5. Qf3 c6 6. Qxf5 cxb5 7. Qg6# 1-0

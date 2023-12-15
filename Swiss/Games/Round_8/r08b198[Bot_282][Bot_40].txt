@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "7"]
+[White "Hippo (by: MonteDegro)"]
+[Black "holcak-bot (by: Petr Holčák)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. d4 h5 2. Qd3 d5 3. Bf4 c6 4. Nc3 Nd7 5. Nf3 a5 0-1

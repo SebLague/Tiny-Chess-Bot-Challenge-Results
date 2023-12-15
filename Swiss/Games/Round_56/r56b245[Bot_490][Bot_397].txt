@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "55"]
+[White "Trogdor (by: Zaph)"]
+[Black "TinyLispChessBot (by: tr00)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. f3 Na6 2. d4 Nb4 3. c3 Nd5 4. a4 Rb8 5. h3 d6 6. Na3 Ra8 7. Qd3 Qd7 8. e4 Qxa4 9. exd5 Kd8 10. h4 Ke8 11. Ne2 Kd8 12. f4 Ke8 13. h5 Kd8 14. g3 Ke8 15. h6 gxh6 16. Qb5+ Qxb5 17. Nxb5 Kd7 18. Bh3+ Kd8 19. Bxc8 Kxc8 20. Rh4 Bg7 21. b4 Kd7 22. Ra3 a6 23. Ra5 Bf6 24. Na3 b6 25. Bd2 Bxh4 26. gxh4 bxa5 27. bxa5 Nf6 28. c4 Kc8 29. Kf1 Kb7 30. Ke1 Ka7 31. Kf2 Ne4+ 32. Ke1 Nf6 33. Bc1 Kb7 34. Kf1 Ka7 35. Bb2 Kb7 36. Kg2 Ka7 37. Bc3 Kb7 38. Bb2 Ka7 39. Bc3 Kb7 40. Bb2 1/2-1/2

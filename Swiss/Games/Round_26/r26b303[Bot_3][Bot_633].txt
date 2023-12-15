@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "25"]
+[White "Pancake (by: EaglePancake)"]
+[Black "LadyLuckGuidesMyMinMaxSearch (by: MrPelluke)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 f6 2. f4 Kf7 3. b3 c6 4. g3 Qe8 5. e4 c5 6. Qh5+ Ke6 7. Qh3+ Kd6 8. Qe6+ Kc7 9. Qe5+ Kc6 10. Qxc5# 1-0

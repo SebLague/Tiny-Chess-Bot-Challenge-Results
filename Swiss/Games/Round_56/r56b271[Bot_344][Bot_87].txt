@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "55"]
+[White "DD9's chess bot (by: DigestDig9)"]
+[Black "BadBot (by: Daniel)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 c6 2. e4 h5 3. Bg5 h4 4. Bxe7 Rh5 5. Bxd8 Kxd8 6. g4 Be7 7. Bh3 g6 8. gxh5 Ba3 9. hxg6 Ke7 10. gxf7 Bc5 11. fxg8=Q Bxd4 12. Bf5 a5 13. Bg6 Bc3+ 14. bxc3 Ra6 15. Bh7 b5 16. Bf5 a4 17. Bg6 Bb7 18. Bh7 Ra7 19. Bf5 d5 20. Bg6 Kd7 21. Bf7 Ba6 22. Bh5 Rc7 23. Bg6 h3 24. Bf7 Kd6 25. Bh5 Rg7 26. Be8 Rxg1+ 27. Rxg1 Kc5 28. Bh5 Nd7 29. Bg4 Kc4 30. Qd4# 1-0

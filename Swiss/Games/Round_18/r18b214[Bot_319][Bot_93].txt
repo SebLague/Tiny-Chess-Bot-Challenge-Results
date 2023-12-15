@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "17"]
+[White "GOYO Bot v1.1.2 (by: Goyo)"]
+[Black "AIsaac (by: Isaac Ellwood)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. e4 h5 2. e5 g5 3. Bd3 d5 4. Bb5+ c6 5. Be2 f5 6. Nc3 a5 7. Nf3 e6 8. Nd4 h4 9. Nf3 b6 10. Bd3 c5 11. Bb5+ Nd7 12. Bxd7+ Bxd7 13. Qe2 g4 14. Qe3 gxf3 15. Qxf3 Ke7 16. Qe3 Kf7 17. Qf3 Kg6 18. Qh3 Kg5 19. Qe3+ Kg6 20. Qf3 Kh6 21. Qe3+ Kg6 22. Qf3 Kh6 23. Qe3+ Kg6 1/2-1/2

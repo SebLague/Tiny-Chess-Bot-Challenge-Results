@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "28"]
+[White "Asymptotically optimal (by: Graham Gayler)"]
+[Black "Betelchess (by: VY Canis Majoris (also special thanks to Gurren Lagann))"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. f3 a5 2. Kf2 b5 3. Ke1 c5 4. a3 d5 5. c4 Qd6 6. e4 Qe6 7. Ne2 Ba6 8. Nf4 Bc8 9. Nxd5 Ba6 10. Nxe7 Bc8 11. Nxg8 Ba6 12. cxb5 Bc8 13. e5 Ba6 14. bxa6 Nxa6 15. Ke2 Nb4 16. axb4 Qd5 17. bxa5 Kd7 18. Nh6 Kc6 19. Ke1 Kb7 20. Nf5 Kc6 21. Be2 Kb7 22. Bd3 Kc6 23. Qe2 Kb7 24. Nxg7 Kc6 25. Kd1 Kb7 26. Ra2 Kc6 27. Kc2 Kb7 28. Bf5 Kc6 29. Ra3 Kb7 30. Kd1 Kc6 31. Ke1 Kb7 32. Kf1 Kc6 33. Ke1 Kb7 34. Qf1 Kc6 35. Kf2 Kb7 36. Qc4 Kc6 37. Ke1 Kb7 38. Qxc5 Ka6 39. Kd1 Kb7 40. Ke1 Ka6 41. Kf1 Kb7 42. Qxf8 Ka6 43. Ke1 Kb5 44. Qxf7 Ra7 45. Kd1 Ra6 46. Bxh7 Rd6 47. Ke1 Rc6 48. Qxd5+ Rc5 49. Kd1 Ka6 50. Re3 Kb5 51. Ke1 Ka4 52. Kf2 Rc2 53. Ke1 Kb4 54. Ke2 Ka4 55. Kd1 Kb4 56. Kxc2 Ka4 57. Qd4+ Kb5 58. Kd1 Ka6 59. Qd6+ Kb5 60. Rb3+ Ka4 61. Rd3 Kb5 62. Ke1 Ka4 63. Kd1 Kb5 64. Ke1 Ka4 65. Kd1 1/2-1/2

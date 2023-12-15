@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "36"]
+[White "Freedom_Fighter v.83 (by: Kongo Landwalker)"]
+[Black "BasicBot (by: Phnx)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 Na6 2. Qg4 d5 3. Bb5+ c6 4. Qg5 cxb5 5. Ne2 Nb4 6. Kd1 f6 7. Qh5+ g6 8. Qf3 Bf5 9. d3 Bxd3 10. cxd3 Nxd3 11. Qg3 Rc8 12. Nbc3 b4 13. Nd4 bxc3 14. bxc3 Rxc3 15. Rb1 Rxc1+ 16. Rxc1 Nxc1 17. Qg4 Nxa2 18. Nb5 a6 19. Qa4 Kf7 20. Qxa2 axb5 21. Qc2 Qa8 22. Ke2 Qa4 23. Qxa4 bxa4 24. Rb1 Bh6 25. Rxb7 Ke6 26. Rc7 Kd6 27. Rc3 Ke5 28. Rc5 Kd6 29. Rb5 Kc6 30. Rb1 Kc5 31. Rc1+ Kb4 32. Rb1+ Kc4 33. Rc1+ Kb5 34. Rb1+ Ka5 35. Ra1 Kb4 36. Rb1+ Ka3 37. Rb6 Ka2 38. Rb4 Ka1 39. g3 Ka2 40. Rxa4+ Kb1 41. Ra8 Kc1 42. Rc8+ Kb1 43. f4 Ka1 44. Ra8+ Kb1 45. Rc8 Ka2 46. Ra8+ Kb2 47. Rc8 Kb1 48. g4 Ka1 49. Ra8+ Kb1 50. Rb8+ Ka1 51. Kd2 Ka2 52. Kc2 e6 53. Ra8# 1-0

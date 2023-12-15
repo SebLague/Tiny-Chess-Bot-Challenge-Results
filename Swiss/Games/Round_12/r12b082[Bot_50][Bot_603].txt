@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "11"]
+[White "TLMChessBot [v1-1250] (by: Möhrchen (Thilo))"]
+[Black "Respect (by: Noah)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. c4 b6 2. Nc3 c6 3. d4 a6 4. Bf4 b5 5. c5 a5 6. e4 a4 7. b3 axb3 8. Qxb3 d6 9. Bxb5 cxb5 10. cxd6 b4 11. Qxb4 exd6 12. Nd5 f6 13. Nb6 Ra6 14. Nxc8 Qxc8 15. Rc1 Qd8 16. Qb5+ Kf7 17. Qb3+ Kg6 18. Qg3+ Kh5 19. Qh3+ Kg6 20. Qf5+ Kf7 21. Rc8 Qb6 22. Qd5+ Ke7 23. Bxd6+ Qxd6 24. Qb7+ Nd7 25. Qb2 g6 26. Rc4 f5 27. exf5 gxf5 28. Qe2+ Qe6 29. Rc2 f4 30. d5 Qe5 31. g3 fxg3 32. hxg3 h5 33. Qxe5+ Nxe5 34. f4 Ng4 35. Rc7+ Kf6 36. Rc6+ Rxc6 37. dxc6 Ne7 38. c7 Ne3 39. g4 Nxg4 40. a3 Nc8 41. Ke2 Bxa3 42. Nf3 Nb6 43. Ne5 Nxe5 44. fxe5+ Kxe5 45. Rh3 Bd6 46. Re3+ Kd4 47. Rd3+ Kc4 48. Rxd6 Rh7 49. Rxb6 Rxc7 50. Rh6 Re7+ 51. Kf1 Re5 52. Kg2 h4 53. Rxh4+ Kc3 54. Kf2 Ra5 55. Ke2 Ra1 56. Ke3 Rb1 57. Ke2 Ra1 58. Ke3 Rb1 59. Ke2 Ra1 1/2-1/2

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "21"]
+[White "The Grandiloquent Intelligentsia of Magnanimous Strategem: A Prodigiously Resplendent Embodiment of Erudite Chess Esotericism, Exuding Enigmatic Brilliance and Sublime Eloquence Whilst Enchantingly Tempering the Hallowed Battlefield of Intellectual Duels, Endeavoring to Transcend Acumen and Ascend to the Pantheon of Learned Peregrinations with an Efficacious Arsenal of Foresight and Sagacity, Humbling Opponents with Refined Gallantry, and Beckoning Discerning Disciples to Witness the Manifest Veracity of its Ascent to a Formidable Elo Quintessence (by: Giles Corey)"]
+[Black "NNBot (by: Jamie Whiting)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. Nc3 d5 3. g3 Nc6 4. Bg2 d4 5. Na4 e5 6. c3 Bd6 7. cxd4 exd4 8. Qc2 Nb4 9. Qb1 d3 10. O-O Bd7 11. Nc3 Nc2 12. exd3 Nxa1 13. Re1+ Be7 14. Ne5 c6 15. Qxa1 Ng4 16. d4 Nxe5 17. dxe5 O-O 18. d4 Re8 19. a4 Qa5 20. Bd2 Qb4 21. Be3 Rad8 22. a5 Be6 23. a6 f6 24. axb7 Qxb7 25. Kf1 Rd7 26. Kg1 fxe5 27. dxe5 Rc8 28. Be4 g6 29. Bf3 Qb4 30. Ne4 Rf8 31. Nf6+ Bxf6 32. exf6 Bd5 33. Bxd5+ Rxd5 34. Bh6 Rxf6 35. Re8+ Kf7 36. Rf8+ Ke6 37. Re8+ Kd7 38. Rh8 a5 39. Rxh7+ Kc8 40. Rh8+ Kb7 41. Bf4 Rxf4 42. gxf4 Qxf4 43. Rh7+ Kb6 44. Qa3 Rg5+ 45. Kf1 Qc4+ 46. Ke1 Re5+ 47. Kd1 Rd5+ 48. Ke1 Rd3 49. Rb7+ Kxb7 50. Qe7+ Kb6 51. f3 Qf4 52. Qe2 Re3 53. Qxe3+ Qxe3+ 54. Kd1 Qxf3+ 55. Kc2 Qg2+ 56. Kc1 Qxh2 57. b4 axb4 58. Kd1 b3 59. Ke1 b2 60. Kf1 b1=R# 0-1

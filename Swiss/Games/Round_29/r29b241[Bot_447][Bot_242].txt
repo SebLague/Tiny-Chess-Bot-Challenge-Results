@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "28"]
+[White "DotBot (by: Jonas // dotwalking)"]
+[Black "SlothBot (by: 0xFF)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g4 Nc6 2. d3 d5 3. Bh3 Nf6 4. g5 Bxh3 5. Nxh3 Ng4 6. O-O h6 7. gxh6 Nxh6 8. Bd2 Ng4 9. Ng5 Nxh2 10. Re1 e5 11. Bc1 Be7 12. b3 Bxg5 13. Bb2 Nf3+ 14. exf3 Bf4 15. Ba3 Qg5+ 16. Kf1 Rh1+ 17. Ke2 Nd4# 0-1

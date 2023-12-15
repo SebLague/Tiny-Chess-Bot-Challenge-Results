@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "37"]
+[White "KunoVonHagenBot (by: Jakob)"]
+[Black "ItBeatMyFriend (by: Sanfordpox)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 b6 2. Bf4 Nf6 3. Nc3 Bb7 4. Nf3 Nh5 5. Bg5 h6 6. Bd2 f5 7. e3 g5 8. a4 g4 9. Ne5 Bg7 10. h3 Ba6 11. hxg4 Bxf1 12. Kxf1 Bxe5 13. gxh5 Bf6 14. Qf3 Nc6 15. Qxf5 Rg8 16. Ne4 Bxd4 17. exd4 Rg7 18. d5 Nd4 19. Qe5 Nf5 20. Qxf5 d6 21. Bxh6 Rf7 22. Qg6 Qc8 23. Qg8+ Kd7 24. Qxf7 Qa6+ 25. Ke1 Rh8 26. Bg7 Rb8 27. Qe6+ Kd8 28. Nf6 Qa5+ 29. c3 Qxc3+ 30. bxc3 exf6 31. Bxf6# 1-0

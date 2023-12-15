@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "14"]
+[White "Knightmare (by: Miguel Piedrafita)"]
+[Black "Queen's Gam-bot (by: Mateo Saldivar (ZiroDev))"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Na3 d6 2. e4 Bh3 3. gxh3 a6 4. Qg4 h5 5. Qf5 f6 6. Kd1 d5 7. exd5 Qd6 8. Ke1 e6 9. dxe6 Nd7 10. Qg6+ Ke7 11. Qf7+ Kd8 12. Qxf6+ Qe7 13. Qxe7+ Kxe7 14. exd7 b5 15. Nxb5 Kd8 16. Nxc7 Rc8 17. dxc8=B Bb4 18. Bfxa6 Kxc7 19. Bb5 Nf6 20. Kd1 Rxc8 21. Ke1 Kb6 22. Kd1 Kc7 23. c4 Ne4 24. Ke1 Rf8 25. Kd1 Nc3+ 26. dxc3 Rf3 27. Nxf3 g5 28. cxb4 g4 29. hxg4 Kb6 30. gxh5 Ka7 31. Ke1 Kb7 32. Kd1 Ka7 33. h6 Kb6 34. Ke1 Kb7 35. Kd1 Kb6 36. h7 Ka7 37. Ke1 Kb6 38. Kd1 Ka7 39. Ng1 Kb6 40. Nf3 1/2-1/2

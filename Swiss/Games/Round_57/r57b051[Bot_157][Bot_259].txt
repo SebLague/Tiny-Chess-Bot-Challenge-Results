@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "56"]
+[White "Turochamp (Modern) (by: P Rivero)"]
+[Black "DarnBot (by: Darn)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 d5 2. e3 Nf6 3. d4 Nc6 4. Bb5 Bd7 5. Nge2 e6 6. O-O Bd6 7. Bd2 a6 8. Bd3 Nb4 9. h4 Nxd3 10. cxd3 b5 11. Nf4 Bxf4 12. exf4 Bc6 13. a4 Ke7 14. axb5 axb5 15. Qb3 Rxa1 16. Rxa1 Kd7 17. Nxb5 Qb8 18. Ra5 Qb6 19. g4 Rb8 20. g5 Ng8 21. Qb4 Bxb5 22. Ra3 Ne7 23. Kh2 Nf5 24. Qc5 Nxh4 25. Bb4 Qxc5 26. Bxc5 Nf3+ 27. Kg3 Ne1 28. Ba7 Re8 29. Ra5 Kc6 30. b4 h5 31. gxh6 gxh6 32. Kh2 Nxd3 33. Bc5 Nxf4 34. Kg3 Nd3 35. Kh2 Nxf2 36. Kg3 Ne4+ 37. Kh4 Nxc5 38. dxc5 f5 39. Kh5 Rh8 40. Kg6 Bc4 41. Kf7 d4 42. Kg7 Rb8 43. Ra4 h5 44. Kg6 h4 45. Kf6 d3 46. Ke7 d2 47. Ra1 Bb3 48. Kf6 Rxb4 49. Ra6+ Kxc5 50. Ra1 Rc4 51. Rb1 Rc1 52. Rxb3 d1=Q 53. Rb8 h3 54. Rc8 Qd4+ 55. Kxe6 Re1+ 56. Kxf5 Qf2+ 57. Kg4 Rg1+ 58. Kh5 Qf7+ 59. Kh4 Qh7# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "20"]
+[White "MyFirstChessEngine (by: Jake Forsey)"]
+[Black "SimpleBot (by: Tim Zollner)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. Nc3 e6 2. Nb5 Nf6 3. Nf3 c6 4. Na3 Be7 5. Nc4 d5 6. Nce5 h6 7. Nxf7 Kxf7 8. Ne5+ Ke8 9. Ng6 Rh7 10. Nxe7 Qxe7 11. d3 Nbd7 12. e3 Ne5 13. Be2 Bd7 14. Bd2 Ng6 15. Bc3 1-0

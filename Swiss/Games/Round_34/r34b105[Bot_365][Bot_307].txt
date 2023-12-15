@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "33"]
+[White "KU_AI_BOT (by: Daniel Johnson)"]
+[Black "Stephanee (by: Elijah Bradshaw)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. d4 dxe4 3. Nc3 e5 4. dxe5 Qe7 5. Be3 Qxe5 6. Bb5+ c6 7. Ba4 Be6 8. Bb3 Bb4 9. Bxe6 fxe6 10. Kf1 Bxc3 11. bxc3 Qxc3 12. Qd4 Qxd4 13. Bxd4 Ne7 14. Bxg7 Rg8 15. Bb2 Rg4 16. Ba3 Ng8 17. Rd1 e5 18. h3 Rf4 19. g3 Rf5 20. Ke1 Na6 21. c3 Nc7 22. g4 Rf6 23. Rb1 Nb5 24. Bb4 a5 25. a4 axb4 26. axb5 bxc3 27. Ke2 Ra2+ 28. Ke3 Rd6 29. Kxe4 c2 30. Rc1 Rd1 31. b6 Rxc1 32. Kf5 Rd1 33. Ne2 Rxh1 34. f3 Re1 35. Nc1 Rxc1 36. g5 Rb1 37. f4 exf4 38. g6 hxg6+ 39. Kg5 c1=Q 40. Kxg6 Rg2+ 41. Kf5 Qe3 42. h4 Rb5# 0-1

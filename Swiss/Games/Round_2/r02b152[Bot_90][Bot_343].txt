@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "Hungry For Mates (by: Bisque)"]
+[Black "Freedom_Fighter v.83 (by: Kongo Landwalker)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 e6 2. Nb5 Bb4 3. Rb1 d5 4. Ra1 e5 5. a3 Qh4 6. Nxc7+ Kd8 7. Nxa8 Bc5 8. Rb1 Qxf2# 0-1

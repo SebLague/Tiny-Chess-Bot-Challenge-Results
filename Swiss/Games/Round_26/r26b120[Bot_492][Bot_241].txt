@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "25"]
+[White "pnathan (by: pnathan)"]
+[Black "AlphaBetaZero (by: MV974)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. b3 e6 2. Bb2 Qg5 3. Nf3 Qf5 4. Ne5 b6 5. Qc1 Ba6 6. Bc3 b5 7. Qd1 b4 8. Bb2 Nh6 9. e3 Bxf1 10. Kxf1 Be7 11. Ke1 O-O 12. Kf1 Bc5 13. Nd3 Na6 14. Nxc5 Nxc5 15. Ke1 d6 16. Bd4 Qe4 17. Kf1 Nf5 18. Bxc5 dxc5 19. Kg1 Nh4 20. f3 Qe5 21. c3 bxc3 22. Nxc3 Rfe8 23. Qf1 g5 24. Kf2 Rad8 25. Rd1 g4 26. fxg4 c4 27. Qxc4 Rb8 28. Kg1 Rbd8 29. Kf2 Rb8 30. Kg1 Rbd8 31. Kf2 1/2-1/2

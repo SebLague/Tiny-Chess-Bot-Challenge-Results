@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "HalfWit (by: Steven Christy)"]
+[Black "MinimaxAttackerBot5000 (by: ChrisCat123)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. h3 Na6 2. c3 Rb8 3. d4 Ra8 4. Kd2 Rb8 5. a3 Ra8 6. g4 Rb8 7. b4 Nf6 8. g5 Ne4+ 9. Ke1 Ra8 10. b5 Nb8 11. f4 Ng3 12. Rh2 Rg8 13. Bg2 d6 14. e3 Qd7 15. Qd3 Rh8 16. h4 Kd8 17. Bh3 e6 18. Kd1 Ke7 19. Qc4 Kd8 20. Raa2 Ke7 21. Rad2 Kd8 22. Qb4 Ke7 23. Rdf2 Kd8 24. Rd2 Ke7 25. Qa5 Kd8 26. Ke1 Ke7 27. Rd1 Kd8 28. Rb2 Ke7 29. b6 Nc6 30. Qa4 cxb6 31. Rxb6 Ne2 32. Nxe2 Kd8 33. Rb5 Ke7 34. Rb6 Kd8 35. Rb5 Ke7 36. Rb6 1/2-1/2

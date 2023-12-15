@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "39"]
+[White "BIG CHUMPER V6.0 (by: Pedro Contipelli)"]
+[Black "RayBot (by: Shahriar Rayed)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 d5 2. d4 Bf5 3. Nf3 e6 4. b3 Bb4 5. Bd2 Nc6 6. Nb5 Bxd2+ 7. Qxd2 a6 8. Na3 Qd6 9. Qc1 Nf6 10. c3 Ne4 11. Nb1 e5 12. dxe5 Nxe5 13. Nd4 Bg6 14. f3 Nc5 15. f4 Ng4 16. b4 Ne4 17. b5 Nef2 18. Rg1 Qe7 19. e3 Nd3+ 20. Bxd3 Qh4+ 21. Kd1 Nf2+ 22. Kd2 Nxd3 23. Qf1 Be4 24. h3 axb5 25. Nxb5 Qe7 26. f5 Kd7 27. Nd4 Qe5 28. g4 Qh2+ 29. Ne2 Nc5 30. f6 g5 31. Qd1 Bf3 32. Rf1 Qxh3 33. Ke1 Rhe8 34. c4 Rxe3 35. Rxf3 Qxf3 36. Qxd5+ Qxd5 37. cxd5 Rae8 38. a4 Rxe2+ 39. Kd1 Re1+ 40. Kc2 R8e2+ 41. Kc3 Rc1+ 42. Kb4 Rb2+ 43. Ka3 Rb3+ 44. Ka2 Rc2# 0-1

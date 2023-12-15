@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "29"]
+[White "Onion (by: Nathan Woloshyn)"]
+[Black "The Grandiloquent Intelligentsia of Magnanimous Strategem: A Prodigiously Resplendent Embodiment of Erudite Chess Esotericism, Exuding Enigmatic Brilliance and Sublime Eloquence Whilst Enchantingly Tempering the Hallowed Battlefield of Intellectual Duels, Endeavoring to Transcend Acumen and Ascend to the Pantheon of Learned Peregrinations with an Efficacious Arsenal of Foresight and Sagacity, Humbling Opponents with Refined Gallantry, and Beckoning Discerning Disciples to Witness the Manifest Veracity of its Ascent to a Formidable Elo Quintessence (by: Giles Corey)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 Nf6 2. e4 Nc6 3. Nf3 e5 4. Bc4 Nxe4 5. O-O Nf6 6. Re1 d6 7. d4 Be6 8. d5 Na5 9. Bf1 Bc8 10. b4 c6 11. bxa5 Qxa5 12. Bd2 cxd5 13. Nxe5 dxe5 14. Rxe5+ Be6 15. Bb5+ Nd7 16. Nxd5 Qa3 17. Nc7+ Ke7 18. Bg5+ f6 19. Qxd7# 1-0

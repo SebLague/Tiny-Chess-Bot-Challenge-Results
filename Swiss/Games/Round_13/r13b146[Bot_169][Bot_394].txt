@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "12"]
+[White "TalkChess (by: Thomas Jahn, Mike Sherwin, Dmitry Shechtman)"]
+[Black "Why Use Full Brain (by: JustAdy)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e5 2. Nf3 d6 3. d4 Ne7 4. dxe5 Nd7 5. exd6 Ng8 6. Bg5 Nb8 7. Bxd8 cxd6 8. Bg5 Nd7 9. e4 Nb8 10. Bd3 Nd7 11. O-O h5 12. Nd5 a5 13. Nc7# 1-0

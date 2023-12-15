@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "14"]
+[White "Shakki botti (by: bobq)"]
+[Black "MinimaxAttackerBot5000 (by: ChrisCat123)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 Na6 2. Nc4 Nb4 3. Nd6+ cxd6 4. Nf3 Rb8 5. a4 Qa5 6. Ra3 Kd8 7. Nd4 Qd5 8. Rc3 Qxd4 9. Rc6 Nxc6 10. f4 Qxf4 11. b3 Kc7 12. Ba3 Kd8 13. Qa1 Kc7 14. Qc3 Kd8 15. Bb4 Nxb4 16. Qc7+ Kxc7 17. Kd1 Kc6 18. g4 Qxg4 19. Bg2+ Qxg2 20. c4 Qxh1# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "5"]
+[White "KnightToE4 (by: Tree)"]
+[Black "SimpleBot (by: :LMProgramming)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g4 e6 2. Nc3 Qg5 3. Bh3 Bb4 4. Ne4 Nc6 5. Nxg5 Nd4 6. N1f3 Nf6 7. Nxd4 Nd5 8. Bg2 Nf4 9. O-O Nxg2 10. Kxg2 O-O 11. Re1 Ba5 12. Nb5 Bb4 13. Nxc7 f6 14. Nxa8 fxg5 15. Nc7 Rf4 16. a3 Rxg4+ 17. Kf1 Rf4 18. Nxe6 dxe6 19. Kg1 Rg4+ 20. Kf1 Bd6 21. Rb1 Bxh2 22. e3 Bd6 23. Ke2 Rc4 24. d4 Bd7 25. e4 Kf7 26. e5 Rc8 27. exd6 Bb5+ 28. Kf3 Bc6+ 29. Kg4 Bd5 30. Kxg5 b6 31. Bf4 Bg2 32. Kg4 Bd5 33. d7 Bf3+ 34. Qxf3 Rxc2 35. d8=Q Rd2 36. Bxd2+ Kg6 37. Rxe6# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "3"]
+[White "BotTheBuilder (by: Stelio Dalakas)"]
+[Black "SaveBot (or, "winning bot" as an alternative) (by: Rudy)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g3 Na6 2. Bg2 Rb8 3. Nf3 Ra8 4. a3 Rb8 5. d3 Ra8 6. Bd2 Rb8 7. Qc1 Ra8 8. e4 Rb8 9. Nc3 Ra8 10. d4 Rb8 11. h3 Ra8 12. Bf4 Rb8 13. Kf1 Ra8 14. Qd1 Rb8 15. Qd2 Ra8 16. Ke1 Rb8 17. Qd1 Ra8 18. Nb5 Rb8 19. Qb1 Ra8 20. Nd2 Rb8 21. b4 Nxb4 22. Nxc7+ Qxc7 23. Bxc7 Nxc2+ 24. Qxc2 Ra8 25. Qb3 Rb8 26. Qc2 Ra8 27. Rf1 Rb8 28. Bxb8 Kd8 29. Qc7+ Ke8 30. Qxc8# 1-0

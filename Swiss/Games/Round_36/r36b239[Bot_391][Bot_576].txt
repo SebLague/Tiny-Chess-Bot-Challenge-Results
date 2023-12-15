@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "35"]
+[White "Monster Queen (by: Andro 65)"]
+[Black "EvilerBot (by: Noah)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 a6 2. Bh6 gxh6 3. Nc3 e5 4. dxe5 f6 5. exf6 c6 6. f7+ Kxf7 7. Qd5+ cxd5 8. Nxd5 Be7 9. f3 Bc5 10. g4 Bxg1 11. Rxg1 Qf8 12. Ne3 b5 13. O-O-O Nf6 14. a4 Rg8 15. axb5 axb5 16. Rxd7+ Nfxd7 17. c3 Ne5 18. b4 Qe8 19. Bg2 Ra2 20. h3 Ned7 21. Kd1 Qxe3 22. Rf1 Qd2# 0-1

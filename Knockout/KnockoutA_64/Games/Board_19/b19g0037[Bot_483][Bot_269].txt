@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Knockout 64"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "-1"]
+[White "Velocity++ (by: Tisajokt)"]
+[Black "AugsBot (by: Augs)"]
+[Result "1-0"]
+[TimeControl "30+0.1"]
+[Termination "Checkmate"]
+
+1. e4 c5 2. Ne2 d6 3. Nbc3 Nf6 4. g3 e5 5. Bg2 a6 6. O-O Be7 7. d3 O-O 8. Re1 Nc6 9. Nd5 Nxd5 10. exd5 Nd4 11. Nxd4 cxd4 12. c3 dxc3 13. bxc3 Bf5 14. d4 Bf6 15. Be3 Qd7 16. dxe5 dxe5 17. d6 Rac8 18. Rc1 e4 19. c4 Bb2 20. Rc2 Be5 21. c5 Rfe8 22. Bd4 Bg4 23. Qd2 Bxd4 24. Qxd4 Bf3 25. Qd5 Bxg2 26. Kxg2 Qc6 27. Qxc6 Rxc6 28. Rd2 Rxc5 29. d7 Rd8 30. Rxe4 Kf8 31. Rde2 Rcc8 32. dxc8=B Rxc8 33. Re7 b5 34. Ra7 Re8 35. Rxe8+ Kxe8 36. Rxa6 Ke7 37. Rb6 b4 38. Rxb4 Kd6 39. a4 h5 40. a5 h4 41. a6 Kc5 42. Rb8 hxg3 43. a7 gxf2 44. a8=Q f1=Q+ 45. Kxf1 Kd6 46. Re8 f6 47. Qa6+ Kc5 48. Qa7+ Kc6 49. Qxg7 f5 50. Qf6+ Kc5 51. Rd8 f4 52. Qxf4 Kb5 53. Qf6 Kb4 54. Qg7 Kb3 55. Qf7+ Kb2 56. Qf2+ Ka3 57. Qb6 Ka2 58. Ra8# 1-0

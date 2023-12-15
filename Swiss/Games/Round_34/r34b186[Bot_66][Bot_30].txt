@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "33"]
+[White "CapivaraBot (by: Danilo Luiz Rheinheimer)"]
+[Black "WhyAmIABot (by: Levi)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 b6 2. g4 b5 3. f4 a6 4. e4 Nf6 5. a4 Nxe4 6. axb5 Bb7 7. bxa6 Bc8 8. a7 Nc6 9. d3 Nf6 10. g5 Ng8 11. Be3 Bb7 12. Bg2 f5 13. gxf6 d5 14. fxg7 Bxg7 15. c3 Qc8 16. h5 Qd8 17. f5 Qc8 18. h6 Bf8 19. Bxd5 e5 20. fxe6 Nxh6 21. Bxh6 Bxh6 22. Bxc6+ Bxc6 23. Rxh6 O-O 24. b4 Kh8 25. e7 Re8 26. Rxc6 Rxe7+ 27. Ne2 Qd8 28. b5 Qc8 29. b6 Kg8 30. bxc7 Rg7 31. Qb3+ Kh8 32. Qd5 Re7 33. d4 Re8 34. c4 Rf8 35. c5 Re8 36. Nc3 Rf8 37. Nb5 Re8 38. Nd6 Rxe2+ 39. Kxe2 Qg4+ 40. Qf3 Qxf3+ 41. Kxf3 Rf8+ 42. Kg4 Rg8+ 43. Kh5 Rg5+ 44. Kxg5 h6+ 45. Kxh6 Kg8 46. c8=R# 1-0

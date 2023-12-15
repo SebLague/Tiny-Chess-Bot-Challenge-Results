@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "22"]
+[White "GulcarBot (by: Gulcar)"]
+[Black "FENcer (by: Shlynz)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Qh5 Nf6 3. Qf3 Rb8 4. c3 d6 5. d4 Bg4 6. Qe3 Kd7 7. h3 Bh5 8. d5 Ne5 9. g4 Bg6 10. Nd2 Kc8 11. f4 Ned7 12. f5 Nb6 13. fxg6 hxg6 14. Be2 Qe8 15. g5 Nfd7 16. Bb5 e6 17. dxe6 Qxe6 18. Bxd7+ Qxd7 19. Ne2 Be7 20. Qf4 Rxh3 21. Rxh3 Qxh3 22. Qxf7 Qh4+ 23. Kd1 Qxg5 24. Nf3 Qf6 25. Qe8+ Bd8 26. Bg5 Nd7 27. Bxf6 Nxf6 28. Qxg6 b5 29. Qxg7 b4 30. Nfd4 bxc3 31. bxc3 Rb6 32. Qg6 Kd7 33. Nf4 Be7 34. Qf7 Nxe4 35. Nd5 Nxc3+ 36. Nxc3 c6 37. Nf5 Kc8 38. Qxe7 Kb8 39. Rb1 Rxb1+ 40. Nxb1 d5 41. Nd6 Ka8 42. Qb7# 1-0

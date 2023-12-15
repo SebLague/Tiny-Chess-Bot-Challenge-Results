@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "45"]
+[White "KnightToE4 (by: Tree)"]
+[Black "Sørensen's Minimax (by: Victor)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. g4 e6 2. Nc3 Qg5 3. Bh3 Bb4 4. Ne4 Qf4 5. f3 Nf6 6. e3 Qe5 7. g5 Nxe4 8. fxe4 Qxg5 9. Qf3 f6 10. Bg2 Kf7 11. Ne2 h5 12. O-O Nc6 13. Nf4 h4 14. Re1 Ne5 15. Qh3 f5 16. exf5 exf5 17. Nd5 Bd6 18. Rf1 c6 19. Qxf5+ Qxf5 20. Rxf5+ Ke6 21. Rg5 cxd5 22. Rxe5+ Kxe5 23. h3 Ke6 24. b3 Be5 25. Rb1 b6 26. Ba3 Ba6 27. Rd1 Rac8 28. c3 Bd3 29. Bb2 Rh6 30. b4 Rf6 31. b5 Bxb5 32. a4 Be2 33. Re1 Bd3 34. Rd1 Rc4 35. Kh1 Rxa4 36. Kg1 Rf5 37. c4 Bxb2 38. cxd5+ Ke7 39. e4 Rf8 40. e5 Bd4+ 41. Kh2 Bxe5+ 42. Kg1 Ra2 43. Kh1 Bg3 44. d6+ Kxd6 45. Kg1 Ke6 46. Bb7 Rc2 47. Kh1 d5 48. Kg2 Rc7 49. Kg1 Rxb7 50. Rc1 Rc7 51. Rxc7 Bxc7 52. Kh1 Bf4 53. Kg2 Kd7 54. Kg1 Bxd2 55. Kh1 Be4+ 56. Kh2 Kd6 57. Kg1 Ke6 58. Kh2 Kd6 59. Kg1 Ke6 60. Kh2 Kd6 1/2-1/2

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "33"]
+[White "NoNameBot (by: Gamerninja)"]
+[Black "Phi plays Chess (a.k.a. Zobrist's Golden Hashbrowns) (by: Wolfpack 104)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a3 g6 2. b3 Nh6 3. c3 a6 4. d3 Nc6 5. Bf4 Rb8 6. e3 e5 7. f3 Nd4 8. Bxe5 Nhf5 9. Bxh8 Ne7 10. Bxd4 f5 11. Be5 h5 12. Bf4 h4 13. h3 d6 14. a4 Kd7 15. b4 b5 16. axb5 Bh6 17. Bxh6 Rb6 18. c4 Ke6 19. Bf4 Kd7 20. d4 Qe8 21. bxa6 Qd8 22. a7 Ng8 23. a8=Q Qf8 24. Ra7 Qe8 25. Qd5 Nh6 26. Bxh6 Qe4 27. fxe4 f4 28. Bxf4 Rb8 29. Qxd6+ Ke8 30. Qxg6+ Ke7 31. Rxc7+ Bd7 32. Be5 Rh8 33. Bxh8 Kd8 34. Rb7 Bf5 35. Qg8# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "34"]
+[White "jmcgbot (by: jmcg)"]
+[Black "MrMeow (by: Loca1Gh0st)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e6 2. g4 Qg5 3. c4 Bb4 4. a4 Nc6 5. h3 Nd4 6. Bd3 Nf6 7. Rh2 Qf4 8. Rg2 Nxe4 9. Ne2 Nf3+ 10. Kf1 Qe5 11. Qb3 a5 12. Bc2 Nd4 13. Nxd4 Qxd4 14. f3 Ng5 15. h4 Nxf3 16. h5 Ra6 17. Qa2 h6 18. Rg3 Nh2+ 19. Kg2 Nxg4 20. Rh3 Qf2+ 21. Kh1 Qf1# 0-1

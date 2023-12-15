@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "33"]
+[White "holcak-bot (by: Petr Holčák)"]
+[Black "Stoccafisso (by: Riccardo D'Incau)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. h4 e5 2. h5 Nc6 3. g4 Bd6 4. e4 Ke7 5. c4 Ke6 6. a4 Nd4 7. a5 Bc5 8. d3 Kf6 9. g5+ Ke7 10. Nh3 Kd6 11. g6 fxg6 12. hxg6 hxg6 13. Ng1 Rxh1 14. Nh3 Rh2 15. Ng1 Rh1 16. Nh3 Rh2 17. Ng1 Rh1 1/2-1/2

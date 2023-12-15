@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "11"]
+[White "fun  (by: nathan09)"]
+[Black "HERO-bot (by: ELEMENTLHERO)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 g5 2. Bxg5 Nf6 3. c4 Ne4 4. f4 f6 5. Bh4 b5 6. cxb5 Nc6 7. d5 Nd4 8. Qxd4 c5 9. Qxe4 c4 10. Qxc4 Qa5+ 11. Kf2 Bb7 12. b6 Qxd5 13. g4 Qxc4 14. f5 Qd4+ 15. Kg3 Qe3+ 16. Nf3 e5 17. Bxf6 Rg8 18. Kh4 Qf2+ 19. Kh5 Qd4 20. b3 Qxg4# 0-1

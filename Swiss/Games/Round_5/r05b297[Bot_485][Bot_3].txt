@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "4"]
+[White "Search 1.0 (by: Rayansh)"]
+[Black "Pancake (by: EaglePancake)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e6 2. Nb5 Be7 3. Nf3 a6 4. Ne5 axb5 5. Nxf7 Kxf7 6. e3 Rxa2 7. Qh5+ g6 8. Qxh7+ Rxh7 9. Bc4 Rxa1 10. Bxe6+ Kxe6 11. O-O Rxc1 12. Kh1 Rxf1# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "31"]
+[White "Miluva v2 [2550] (by: Möhrchen (Thilo M.))"]
+[Black "Average Chess bot (by: )"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. d4 e6 3. d5 exd5 4. exd5 Ne5 5. f4 Ng6 6. Nf3 Qf6 7. g3 Qe7+ 8. Be2 Qc5 9. c4 N8e7 10. Nc3 Qa5 11. Bd2 Qb6 12. Nb5 a6 13. Be3 Qa5+ 14. Nc3 d6 15. Bd2 Qb6 16. Na4 Qa7 17. Ba5 Qb8 18. Nc3 Nf5 19. Bd3 Ra7 20. g4 Nfe7 21. f5 Ne5 22. Nxe5 dxe5 23. Bb4 Ra8 24. c5 c6 25. d6 Nd5 26. Nxd5 cxd5 27. Bc2 d4 28. Ba4+ b5 29. cxb6+ Kd8 30. b7 a5 31. bxc8=Q+ Qxc8 32. Ba3 Qb7 33. O-O Qd5 34. Rc1 Rc8 35. Rxc8+ Kxc8 36. Qc1+ Kb7 37. Qc7+ Ka6 38. Bc6 Qxc6 39. Qxc6+ Ka7 40. Bc5+ Kb8 41. Qc7+ Ka8 42. Qc8# 1-0

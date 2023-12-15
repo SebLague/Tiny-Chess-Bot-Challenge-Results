@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "PrayForMeBot (by: João)"]
+[Black "Chessburger Bot (by: )"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c4 c5 2. h4 Qa5 3. Qb3 b6 4. f3 Ba6 5. g4 Nc6 6. Qc3 Qxc3 7. e3 Qxc1+ 8. Ke2 Qxb2 9. Bh3 Bxc4+ 10. Kd1 Bd3 11. a4 Qxa1 12. e4 Qxb1# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "62"]
+[White "ONE MOVE TO RULE THEM ALL (by: b4ux1t3)"]
+[Black "Bob (by: Kökényesi Attila (UltraGeek))"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nh3 d6 2. d4 f5 3. e3 h6 4. Qh5+ Kd7 5. Qxf5+ Kc6 6. Qb5# 1-0

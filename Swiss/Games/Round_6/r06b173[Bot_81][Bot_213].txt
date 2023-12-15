@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "5"]
+[White "Paroch (by: Bronson)"]
+[Black "Some rules bot (by: qumquat)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d3 c6 2. g3 Qa5+ 3. c3 Qd5 4. f3 Na6 5. a4 d6 6. h4 Qe5 7. c4 Qxg3+ 8. Kd2 Qf4+ 9. e3 Qe5 10. e4 Qf4+ 11. Kc2 Qg3 12. h5 Qf2+ 13. Be2 Qg2 14. f4 Qxh1 15. e5 Nb4+ 16. Kd2 Qh2 17. exd6 Qxf4+ 18. Ke1 Qe5 19. d7+ Kd8 20. dxc8=R+ Kxc8 21. d4 Qe4 22. b3 Qh4+ 23. Kf1 Qf6+ 24. Ke1 Qh4+ 25. Kd2 Qxd4+ 26. Bd3 Qxa1 27. Qg4+ Kb8 28. Qf4+ Kc8 29. Qf5+ Kd8 30. Qa5+ Ke8 31. Qxb4 e5 32. Qxb7 c5 33. Qxa8+ Ke7 34. Qxa7+ Kf6 35. Qb6+ Kg5 36. Qd8+ Kh6 37. Qb6+ Kg5 38. Nh3+ Kg4 39. Nf2+ Kg5 40. Qd8+ Kxh5 41. Be2+ Kh6 42. Qb6+ Kg5 43. Qd8+ Kf4 44. Nh3+ Kg3 45. Qd3+ Kg2 46. Bf1+ Kh2 47. Qe2+ Kg3 48. Qd3+ Kh4 49. Qd8+ Kg4 50. Qc8+ Kh5 51. Be2+ Kh4 52. Qg4# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "21"]
+[White "Game Tech Explained Bot (by: Game Tech Explained)"]
+[Black "Zambroni V.4.1.4 (by: JoeyZeeeeeee)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. e3 g6 3. Nf3 Bg7 4. Bc4 O-O 5. d5 c6 6. Nc3 b5 7. Bb3 b4 8. Ne2 cxd5 9. Bxd5 Nxd5 10. Qxd5 Nc6 11. e4 Ba6 12. e5 Qc7 13. Bf4 Rae8 14. Rb1 d6 15. e6 Ne5 16. Qb3 Nxf3+ 17. gxf3 fxe6 18. Qxe6+ Kh8 19. Qe4 Bb7 20. Qd3 e5 21. Be3 e4 22. Qd2 exf3 23. Ng3 Kg8 24. Qxb4 Rxe3+ 25. fxe3 Qxc2 26. Qb3+ Qxb3 27. axb3 f2+ 28. Kd2 Bxh1 29. Rxh1 Rb8 30. Kc2 Bh6 31. Rd1 Bxe3 32. Rxd6 Bf4 33. Rd1 Rc8+ 34. Kb1 Re8 35. Kc2 Bxg3 36. hxg3 Re1 37. Rd8+ Kf7 38. Rd4 g5 39. Rd7+ Kf6 40. Rd8 Ke7 41. Rg8 f1=Q 42. Rg7+ Kd6 43. Kc3 Qf3+ 44. Kb4 Qe4+ 45. Kb5 Qd5+ 46. Ka4 Ra1+ 47. Kb4 Qc5# 0-1

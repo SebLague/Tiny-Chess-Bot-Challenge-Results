@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "11"]
+[White "ImpossiBot (by: StefanDeSterke)"]
+[Black "Astolfo (by: Illuminate)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 Nc6 2. Rb1 e5 3. Ra1 d5 4. g3 Nf6 5. f3 Bf5 6. e3 Bd6 7. Bb5 Qd7 8. g4 Bg6 9. c4 a6 10. Bxc6 Qxc6 11. g5 Nd7 12. cxd5 Qxd5 13. b3 Qe6 14. Nc4 Be7 15. h4 b5 16. h5 bxc4 17. hxg6 fxg6 18. Nh3 cxb3 19. Qxb3 Qxb3 20. axb3 Nc5 21. Rb1 Rb8 22. b4 Rxb4 23. Rxb4 Nd3+ 24. Ke2 Nxb4 25. Bb2 Nc6 26. Ra1 Kd7 27. Rxa6 Rb8 28. Ba3 Bxa3 29. Rxa3 Ke6 30. Rc3 Rb6 31. Rc4 h5 32. gxh6 gxh6 33. Rc5 Kd6 34. Rc1 Nd8 35. Kd1 Rc6 36. Rc3 Rxc3 37. dxc3 g5 38. Kc1 Nb7 39. Kb1 Ke6 40. Ka1 Nd6 41. e4 g4 42. fxg4 Nxe4 43. Kb2 Kd5 44. Kc2 Kc4 45. Kb1 Kxc3 46. Ka1 Kd2 47. Kb1 Ke2 48. Ka1 Kf1 49. Kb1 Kg2 50. g5 hxg5 51. Nxg5 Nxg5 52. Ka1 e4 53. Kb1 e3 54. Kc1 Kf2 55. Kd1 e2+ 56. Kd2 e1=Q+ 57. Kc2 Kf3 58. Kb2 Qd2+ 59. Kb1 Kf4 60. Ka1 Ne4 61. Kb1 Nc3+ 62. Ka1 Qa2# 0-1

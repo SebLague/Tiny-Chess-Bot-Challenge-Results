@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "30"]
+[White "Little Brother (by: J-Square)"]
+[Black "Saubstauga (by: Dominik)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 g5 2. g4 e5 3. a4 d5 4. d4 e4 5. b3 a5 6. Qd2 Bxg4 7. Bh3 Bc8 8. b4 h5 9. bxa5 f6 10. f3 c6 11. c3 exf3 12. Qf2 Qxa5 13. Na3 Qxc3+ 14. Bd2 Qa5 15. Bd7+ Bxd7 16. O-O-O Qd8 17. Re1 Bxa3+ 18. Kb1 Qb6+ 19. Bb4 Bxb4 20. Qf1 Bf5+ 21. Ka1 Bc3+ 22. Ka2 Qb2# 0-1

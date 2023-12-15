@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "6"]
+[White "WitwerMacher (by: Yannik Bleilinger)"]
+[Black "ILVM (by: Wincent01)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 a5 2. c3 c5 3. d3 Qb6 4. Nf3 f5 5. Nc4 Qb5 6. Bd2 d5 7. Qb1 dxc4 8. dxc4 Qxc4 9. Be3 b5 10. Bxc5 Qxc5 11. Qd1 e5 12. Qc2 h5 13. c4 a4 14. g4 hxg4 15. Nd4 exd4 16. cxb5 Qxc2 17. Rb1 Bb4# 0-1

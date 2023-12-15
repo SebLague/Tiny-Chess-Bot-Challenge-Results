@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "Exceptionally mid (by: Evan Rogerson)"]
+[Black "YDepth (by: Jerome Engelbrecht)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e5 2. e4 Nf6 3. Nf3 Nc6 4. Bb5 Nd4 5. g3 Nxb5 6. Nxb5 Nxe4 7. Qe2 d5 8. Nc3 Nxc3 9. dxc3 e4 10. Nd4 c5 11. Nb3 c4 12. Nd2 Qc7 13. f3 f5 14. Nb1 Bd6 15. fxe4 fxe4 16. Qh5+ Qf7 17. Qxf7+ Kxf7 18. Bf4 Bxf4 19. gxf4 Bf5 20. b3 Rac8 21. bxc4 Rxc4 22. h3 Re8 23. a4 e3 24. a5 Bxc2 25. Rh2 Bd3 26. Rb2 Rxf4 27. Rxb7+ Kf6 28. Rxa7 Rf1# 0-1

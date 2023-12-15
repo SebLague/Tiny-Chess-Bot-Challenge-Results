@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "48"]
+[White "Peeter 1 (by: Gouuu)"]
+[Black "Saint Charles Bot (by: DATA USP)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Illegal move"]
+
+1. e3 Nf6 2. d4 c5 3. dxc5 Qa5+ 4. b4 Qxb4+ 5. c3 Qxc5 6. g3 Qc6 7. f3 Qc5 8. f4 Kd8 9. h4 Kc7 10. Rh2 Kd8 11. a4 Kc7 12. Raa2 Kd8 13. a5 Kc7 14. h5 Kd8 15. g4 Kc7 16. g5 Ne4 17. c4 Qb4+ 18. Bd2 Nxd2 19. Nxd2 Kd8 20. e4 Kc7 21. e5 Kd8 22. f5 Kc7 23. f6 exf6 24. gxf6 gxf6 25. exf6 Bc5 26. Qg4 Re8+ 27. Re2 Rxe2+ 28. Nxe2 d6 29. Qg8 Nd7 30. Qxf7 Be3 31. Qxh7 Bxd2+ 32. Rxd2 Qxc4 33. Rc2 Qc5 34. Rxc5+ dxc5 35. f7 Nf6 36. Qg6 Bg4 37. Qxf6 Kd7 38. f8=N+ Rxf8 39. Qxf8 Bxh5 40. Qxc5 Bxe2 41. Bxe2 Ke6 42. Qxa7 b5 43. axb6 Kd5 44. b7 Ke4 45. b8=Q Kd5 46. Qd7+ 1-0

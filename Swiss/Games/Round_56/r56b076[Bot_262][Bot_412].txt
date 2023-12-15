@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "55"]
+[White "Chessburger Bot (by: )"]
+[Black "MilkMindV1 (by: Josiah Jordan )"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c4 Nc6 2. Qa4 Nf6 3. d3 d5 4. c5 e5 5. b4 Bd7 6. Na3 Nd4 7. Qa5 b6 8. Qa6 bxc5 9. bxc5 Bxc5 10. Rb1 Bxa3 11. Bxa3 Bc8 12. Qa5 Ng4 13. Bc5 Nc6 14. Qa4 Bd7 15. Rb7 Qc8 16. Rb2 Rb8 17. Rb3 Nd4 18. Rxb8 Qxb8 19. Qd1 Ne6 20. Be3 Qb4+ 21. Bd2 Qb6 22. e3 Nc5 23. f3 Nf6 24. Qa1 e4 25. fxe4 dxe4 26. dxe4 Ncxe4 27. Qe5+ Kd8 28. Qa1 Re8 29. Bc4 Nxd2 30. Kxd2 Qxe3+ 31. Kc2 Bf5+ 32. Kb2 Qd4+ 33. Ka3 Qxa1 34. Bxf7 Qc3+ 35. Bb3 Re5 36. Ka4 Ra5# 0-1

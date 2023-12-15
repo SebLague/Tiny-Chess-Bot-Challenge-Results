@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "6"]
+[White "GOYO Bot v1.1.2 (by: Goyo)"]
+[Black "Myopia (by: danegraphics)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. e4 Nc6 2. Nc3 e6 3. Nf3 h5 4. Nb5 a5 5. Nc3 g6 6. Nb5 b6 7. Nc3 Qf6 8. Nb5 a4 9. Nxc7+ Kd8 10. Nxa8 Bc5 11. Bd3 Nh6 12. Qe2 Ng4 13. Bc4 Ke7 14. Nc7 Kd6 15. Nb5+ Ke7 16. Nc7 Kd6 17. Nb5+ Ke7 18. Nc7 1/2-1/2

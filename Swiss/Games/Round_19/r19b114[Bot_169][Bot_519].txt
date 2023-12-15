@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "18"]
+[White "TalkChess (by: Thomas Jahn, Mike Sherwin, Dmitry Shechtman)"]
+[Black "BasicAlphaBeta (by: ThonyDragon)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 c6 2. Nf3 e6 3. d4 Bb4 4. e4 Qf6 5. Bd2 d6 6. Bd3 Nd7 7. O-O b6 8. Re1 Bxc3 9. Bxc3 d5 10. Qd2 dxe4 11. Bxe4 Nb8 12. Ne5 Bb7 13. Rad1 Nh6 14. Qd3 Qg5 15. Bxh7 c5 16. Be4 Bd5 17. dxc5 O-O 18. Bxd5 exd5 19. Qxd5 Na6 20. c6 Rfd8 21. Qb3 Rxd1 22. Rxd1 Nc5 23. Qc4 Qf5 24. Bd4 Rc8 25. Re1 Kh8 26. Bxc5 bxc5 27. Qxc5 Qe6 28. a3 a5 29. Qxa5 Kg8 30. c7 Kf8 31. Qc5+ Kg8 32. Rd1 Kh7 33. Rd7 Ng4 34. Re7 Qa2 35. Nxg4 Qa1+ 36. Re1 Qxe1# 0-1

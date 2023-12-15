@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "holcak-bot (by: Petr Holčák)"]
+[Black "EndgameEnigma (by: jostflo)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 Nc6 2. g4 d6 3. g5 Ne5 4. f4 Be6 5. a4 Ng6 6. h5 Nxf4 7. e4 Bd7 8. a5 e5 9. c4 Qxg5 10. Nf3 Qg3# 0-1

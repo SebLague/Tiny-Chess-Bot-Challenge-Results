@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "3"]
+[White "Guppy (by: Simply In Dev)"]
+[Black "roboleon v4.1 bugfixed (by: CLEC)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nc6 2. d5 Nb4 3. a3 Na6 4. Nf3 f6 5. e4 c5 6. Bxa6 bxa6 7. Be3 Qb6 8. Nbd2 Qxb2 9. Bxc5 Qb5 10. Be3 Kd8 11. Nd4 Qa5 12. Nb3 Qc3 13. Bd4 Qc7 14. O-O Qf4 15. Be3 Qe5 16. Nc5 Qc3 17. Ndb3 e5 18. dxe6 Bxc5 19. Nxc5 d6 20. Qxd6+ Ke8 21. Qc6+ Ke7 22. Qxa8 Bxe6 23. Qxa7+ Ke8 24. Qxg7 Bc4 25. Qxh8 Bxf1 26. Qxg8+ Ke7 27. Qe6+ Kf8 28. Bh6# 1-0

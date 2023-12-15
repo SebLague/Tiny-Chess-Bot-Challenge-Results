@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "41"]
+[White "MinimaxAttackerBot5000 (by: ChrisCat123)"]
+[Black "lowEloBrain (by: bbb908)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Na3 e5 2. Nb5 e4 3. Rb1 f5 4. Ra1 f4 5. Rb1 Qe7 6. Nxc7+ Kf7 7. Ra1 d5 8. Nxa8 d4 9. Rb1 a5 10. Ra1 a4 11. Nb6 Be6 12. Nxa4 b5 13. Nb6 Na6 14. Nh3 Nb8 15. Nxf4 Na6 16. c3 Nb8 17. Rg1 Na6 18. g4 Nb8 19. cxd4 Na6 20. Rg2 Nb8 21. Rg1 Nc6 22. Rg2 Nxd4 23. Rg1 Nc6 24. Rg2 Ne5 25. Rg1 Nc6 26. Rg2 Na5 27. Rg1 Nc6 1/2-1/2

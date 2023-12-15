@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "24"]
+[White "InfuehrDaniel MCTS (by: Daniel Infuehr)"]
+[Black "MinimalBot (by: GreenSalad_)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. e3 b5 2. Qf3 d5 3. e4 Bg4 4. d3 Bxf3 5. Nc3 d4 6. Nge2 dxc3 7. Rb1 Bxe2 8. Rg1 Bf3 9. Bg5 Qd4 10. Bh4 Qxe4+ 0-1

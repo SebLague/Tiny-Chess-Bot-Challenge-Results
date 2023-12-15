@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "45"]
+[White "EvilerBot (by: Noah)"]
+[Black "ABot (by: August)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f4 d6 2. h3 Nd7 3. b4 Nb8 4. Ba3 Kd7 5. d3 Ke8 6. Nc3 Kd7 7. Qc1 Kc6 8. Qb1 e6 9. Kd1 Qf6 10. Ne4 Qxf4 11. Qc1 Qxf1+ 12. Kd2 Qf4+ 13. Kd1 Qf1+ 14. Kd2 Qf4+ 15. Ke1 Qh4+ 16. Kf1 Bd7 17. Nc3 Qf6+ 18. Ke1 Qxc3+ 19. Qd2 Qxa3 20. Kf1 Qb2 21. Ke1 Qxa1+ 22. Qd1 Qxa2 23. Kd2 Na6 24. Kc1 Qa1+ 25. Kd2 Qa2 26. Ke3 Nh6 27. Kd4 Qb2+ 28. c3 Nf5+ 29. Kc4 Qa2+ 30. Qb3 Qa1 31. Qa2 Qc1 32. Qa4+ Kb6 33. Qa5+ Kc6 34. Qb5# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "59"]
+[White "DrawMachine (by: Rune)"]
+[Black "EvilMirror (by: Hagan Gray)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c4 f5 2. a3 h6 3. Qc2 Kf7 4. Qxf5+ Ke8 5. Qe4 g6 6. Qxg6# 1-0

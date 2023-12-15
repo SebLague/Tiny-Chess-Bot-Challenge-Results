@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "PrincessAtta (by: Bowser Bowering and Allyn Lloyd)"]
+[Black "Funko Bot (by: Sky Sherwood)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. e3 h5 2. d4 Nc6 3. d5 e5 4. e4 Na5 5. d6 cxd6 6. b4 Qe7 7. g3 Qg5 8. f4 exf4 9. h4 Qf6 10. e5 1-0

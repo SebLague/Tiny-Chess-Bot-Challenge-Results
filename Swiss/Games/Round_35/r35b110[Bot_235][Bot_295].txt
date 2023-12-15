@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "34"]
+[White "Goldibot (by: Ben)"]
+[Black "One-Line Chess (by: Kaydon Sloan)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f4 d5 2. d4 e6 3. c3 c5 4. dxc5 Bxc5 5. Nf3 a5 6. h4 Nc6 7. Ne5 Nge7 8. Nf3 O-O 9. Ne5 Nxe5 10. fxe5 Qc7 11. g4 Qxe5 12. a4 Qg3+ 13. Kd2 Qf4+ 14. e3 Bxe3+ 15. Kc2 Bxc1 16. Bb5 Be3 17. Bd3 e5 18. g5 e4 19. Bb5 h6 20. gxh6 Bg4 21. h7+ Kxh7 22. Qe1 f5 23. Kb3 Bf2 24. Qf1 e3 25. Qd3 Bf3 26. Rc1 Kh8 27. Qd4 Qxh4 28. Qc5 e2 29. Qc7 e1=Q 30. Rxe1 Bxe1 31. Na3 Ra7 32. Qd7 f4 33. Nc2 Bd2 34. Nd4 Bg4 35. Qc7 f3 36. Qd6 f2 37. Kc2 Bf4 38. Qc5 Raa8 39. Qa3 Qh7+ 40. Kb3 g5 41. Ne2 Bxe2 42. Bxe2 Qe4 43. Bd3 Qxd3 44. Qxe7 f1=Q 45. Rxf1 Qxf1 46. Qxb7 Rab8 47. Qxb8 Rxb8+ 48. Kc2 Qc1+ 49. Kd3 Qd1# 0-1

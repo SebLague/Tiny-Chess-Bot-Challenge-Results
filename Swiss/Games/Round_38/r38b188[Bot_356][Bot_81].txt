@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "37"]
+[White "AlaskaBot (by: Arttu Halonen)"]
+[Black "Paroch (by: Bronson)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 c6 2. Ne5 f6 3. Nd3 g5 4. e4 d6 5. Qh5+ Kd7 6. e5 fxe5 7. Qxg5 e4 8. c4 exd3 9. Bxd3 h5 10. f4 a6 11. Nc3 b6 12. Ne4 h4 13. g4 hxg3 14. hxg3 Rxh1+ 15. Bf1 Rxf1+ 16. Kxf1 a5 17. Qxg8 a4 18. d4 b5 19. c5 dxc5 20. Nxc5+ Ke8 21. Qg6# 1-0

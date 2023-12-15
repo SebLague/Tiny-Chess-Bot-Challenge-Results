@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "10"]
+[White "At least 2 IQ (by: Evan Finnigan)"]
+[Black "Nautilus (by: Sherlock)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a3 d5 2. g3 Nc6 3. f3 e5 4. a4 Nf6 5. h4 Bc5 6. e3 O-O 7. Rh2 d4 8. exd4 exd4 9. Re2 d3 10. cxd3 Bxg1 11. Bg2 Qxd3 12. Re7 Nxe7 13. Bh1 Ned5 14. Na3 Re8+ 15. Qe2 Qxe2# 0-1

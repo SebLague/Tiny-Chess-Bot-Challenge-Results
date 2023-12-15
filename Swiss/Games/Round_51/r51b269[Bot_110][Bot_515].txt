@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "50"]
+[White "EvilMirror (by: Hagan Gray)"]
+[Black "RedVallium (by: Piotr Bożek)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a4 e5 2. d4 Bc5 3. Bf4 Qh4 4. dxc5 Qxf2+ 5. Kxf2 exf4 6. Qxd7+ Kxd7 7. e4 fxe3+ 8. Kxe3 c6 9. Kf3 f6 10. c3 h6 11. Ba6 Nxa6 12. Nh3 Nxc5 13. Nf4 Nxa4 14. Nh5 Nxb2 15. Nxg7 h5 16. Rxa7 Rxa7 17. Nxh5 Rxh5 18. h3 Rxh3+ 19. Rxh3 c5 20. Kf4 f5 21. c4 Nxc4 22. Kxf5 b6 23. g3 b5 24. g4 b4 25. g5 b3 26. g6 b2 27. g7 Kc6+ 28. Kg5 Rxg7+ 29. Kh4 Bxh3 30. Kxh3 Kb5 31. Kh4 Ka4 32. Nd2 Nxd2 33. Kh3 b1=Q 34. Kh2 Qh7# 0-1

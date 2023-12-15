@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "61"]
+[White "ChessGPT (by: DeepGoldenCrown)"]
+[Black "CEO grindset board meeting (by: Burnzy <3)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 g5 2. Nxg5 Bg7 3. Nxf7 Kxf7 4. g3 Bxb2 5. Bxb2 c5 6. Bxh8 Ke8 7. e4 Kf7 8. h3 Qe8 9. d4 cxd4 10. Qxd4 Qf8 11. Kd1 Ke6 12. Qd5# 1-0

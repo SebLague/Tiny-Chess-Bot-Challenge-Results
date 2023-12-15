@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "41"]
+[White "Bob (by: Evan Leach)"]
+[Black "LunarBot (by: LunarTech)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Nc3 Nf6 3. d4 d5 4. Bb5 dxe4 5. Bg5 Bd7 6. d5 Nb4 7. a3 Nbxd5 8. Nxd5 Bxb5 9. c4 Bxc4 10. Nxf6+ gxf6 11. Bd2 Rg8 12. Rc1 Bd3 13. Nh3 Rxg2 14. Nf4 Rg7 15. Rc5 Qd4 16. b4 O-O-O 17. Be3 Qb2 18. Bc1 Qb1 19. Nd5 Rd7 20. Nf4 e5 21. Nh5 Bxc5 22. Nxg7 Bc2 23. Qxd7+ Kxd7 24. O-O Bd3 25. Rd1 Qc2 26. Rxd3+ exd3 27. Be3 Bxe3 28. fxe3 d2 29. Kf1 d1=Q# 0-1

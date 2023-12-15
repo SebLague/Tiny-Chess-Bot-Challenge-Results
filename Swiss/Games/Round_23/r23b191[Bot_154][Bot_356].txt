@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "22"]
+[White "Marvin (by: Kerem Bekmez)"]
+[Black "AlaskaBot (by: Arttu Halonen)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 d5 2. Nb5 e5 3. e3 c6 4. Na3 Bf5 5. d4 Bxa3 6. bxa3 b5 7. dxe5 d4 8. exd4 Qa5+ 9. Qd2 Qxd2+ 10. Kxd2 f6 11. f4 Nd7 12. Bd3 Bxd3 13. Kxd3 fxe5 14. fxe5 c5 15. Be3 cxd4 16. Bxd4 Ne7 17. Rb1 Nd5 18. Ke4 N5f6+ 19. exf6 Nxf6+ 20. Ke5 Ng4+ 21. Ke6 h5 22. Bxg7 Rh7 23. Bc3 Rh6+ 24. Bf6 Rxf6+ 25. Kd5 Ne3+ 26. Ke5 Rf5+ 27. Ke4 a5 28. Kxe3 Re5+ 29. Kd4 Re6 30. Rxb5 O-O-O 31. Kc3 Re3+ 32. Kb2 a4 33. g3 h4 34. gxh4 Kc7 35. h5 Kc6 36. Rf5 Rb8+ 37. Ka1 Re1# 0-1

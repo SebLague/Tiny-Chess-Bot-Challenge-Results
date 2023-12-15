@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "50"]
+[White "SlothBot (by: 0xFF)"]
+[Black "Asymptotically optimal (by: Graham Gayler)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 d5 2. Nc3 Kd7 3. Nxd5 f6 4. e4 Kc6 5. Nd4+ Kd6 6. Nb5+ Ke5 7. d4+ Kxe4 8. Qf3# 1-0

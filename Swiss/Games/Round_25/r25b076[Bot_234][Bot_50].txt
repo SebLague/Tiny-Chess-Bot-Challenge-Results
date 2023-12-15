@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "24"]
+[White "Shallow Blue (by: Mikolaj W)"]
+[Black "TLMChessBot [v1-1250] (by: Möhrchen (Thilo))"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c4 f5 2. e4 fxe4 3. Qh5+ g6 4. Qe5 Nf6 5. Nc3 Nc6 6. Qf4 Nd4 7. Kd1 d5 8. cxd5 Bf5 9. h3 Nxd5 10. Qe5 Nf6 11. Nb5 Nc6 12. Qxc7 Rc8 13. Qxb7 Ne5 14. d4 exd3 15. f4 Ne4 16. Be3 Nc4 17. Bd4 Bg7 18. Qxa7 Bxd4 19. Qxd4 Qxd4 20. Nxd4 Ne3+ 21. Ke1 Rc1+ 22. Rxc1 d2+ 23. Ke2 dxc1=Q 24. Kf3 Nxf1 25. Nxf5 gxf5 26. g4 Qe3+ 27. Kg2 Qf2# 0-1

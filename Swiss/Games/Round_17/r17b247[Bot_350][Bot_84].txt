@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "16"]
+[White "InsufficientBot (by: Sep)"]
+[Black "tom (by: Christopher Hosken & Thomas Lower)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 d5 2. Nxd5 Qxd5 3. Nf3 h5 4. Ne5 Qxe5 5. h4 f5 6. Rb1 c5 7. Rh3 b5 8. f3 a5 9. Kf2 g6 10. Rh2 Qxh2 11. Ke1 Qg3# 0-1

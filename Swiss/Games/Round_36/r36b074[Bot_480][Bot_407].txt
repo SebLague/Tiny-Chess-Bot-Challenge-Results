@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "35"]
+[White "Look Ma, No Piece Square Table (by: DegaLaman)"]
+[Black "simple chess bot (by: 4a0I)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 e5 2. Rb1 Qh4 3. Nb5 Na6 4. Ra1 Bb4 5. Nf3 Qc4 6. Na3 Qe4 7. Rb1 d5 8. Rg1 Bd7 9. Ra1 Ke7 10. Nb1 Nf6 11. a4 Bxa4 12. Rxa4 Bxd2+ 13. Bxd2 Qxa4 14. Nxe5 Nc5 15. Nf3 Nfe4 16. b3 Qb5 17. Nc3 Nxc3 18. Bxc3 Ne4 19. Bxg7 Qa5+ 20. Nd2 Rhg8 21. Bh6 Qc3 22. Be3 d4 23. Bf4 Rg4 24. e3 Nxd2 25. Qxd2 Qxd2+ 26. Kxd2 dxe3+ 27. fxe3 Rd8+ 28. Bd3 c6 29. b4 Rd5 30. g3 Rg8 31. h4 f6 32. g4 h5 33. g5 f5 34. c4 Rdd8 35. Ra1 a6 36. Ra5 b5 37. c5 Rd5 38. Rxa6 Rgd8 39. Bd6+ Ke6 40. Rxc6 Ra8 41. Kc2 Ra3 42. Bxb5 Ra2+ 43. Kb1 Rad2 44. Bc4 Rd1+ 45. Kc2 Rd2+ 46. Kc3 Kf7 47. Bf4 Ke7 48. g6 Rd1 49. Rc7+ Rd7 50. g7 Rxc7 51. g8=Q Rc1+ 52. Kb3 Rxc4 53. Kxc4 Rxc5+ 54. bxc5 Kf6 55. Bg5+ Ke5 56. Qd5# 1-0

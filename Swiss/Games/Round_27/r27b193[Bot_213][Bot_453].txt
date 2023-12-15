@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "26"]
+[White "Some rules bot (by: qumquat)"]
+[Black "Chessica (by: Nicky Kitchingman)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 a6 2. g3 a5 3. f3 a4 4. g4 a3 5. c3 axb2 6. Bxb2 b6 7. d3 b5 8. Qb3 c6 9. h5 d6 10. Rh3 d5 11. d4 e6 12. Nd2 f6 13. Bg2 e5 14. Rh4 f5 15. Rh1 fxg4 16. dxe5 g3 17. Nf1 Kd7 18. Nxg3 h6 19. Bh3+ Kc7 20. Rh2 Kb6 21. f4 Ka5 22. Nf3 Ka6 23. Nd4 Ka5 24. e3 Ka6 25. Kf1 Ka5 26. Bc1 Ka6 27. Bd2 Ka5 28. Qxd5 Bxh3+ 29. Ke1 cxd5 30. Rxh3 Ka4 31. Ne6 Ka3 32. Nxd8 Be7 33. Nb7 Ra7 34. Bc1+ Ka4 35. Nf5 Rxb7 36. Nxg7 Rh7 37. Ne8 b4 38. Rg3 Bh4 39. Kd2 bxc3+ 40. Kd3 Bxg3 41. Kxc3 Rbc7+ 42. Kb2 Rxc1 43. Rxc1 d4 44. exd4 Ka5 45. f5 Re7 46. Nd6 Rd7 47. e6 Rxd6 48. Rc5+ Ka4 49. Rc3 Kb4 50. Rxg3 Ka4 51. Rxg8 Kb4 52. Rxb8+ Kc4 53. Rc8+ Kd3 54. Rh8 Kd2 55. Rxh6 Kd3 56. e7 Kd2 57. Rxd6 Kd1 58. d5 Ke1 59. Re6+ Kd1 60. f6 Kd2 61. e8=N Kd1 62. a3 Kd2 63. d6 Kd1 64. d7 Kd2 65. d8=R# 1-0

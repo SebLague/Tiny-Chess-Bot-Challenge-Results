@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "43"]
+[White "SFN v 2.0 (by: SFN)"]
+[Black "Simpleton.01 (by: Bee)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. b4 a5 2. Nf3 axb4 3. d3 d6 4. Ne5 dxe5 5. h4 Bf5 6. Kd2 Rxa2 7. f3 Rxa1 8. Nc3 Bxd3 9. Nb5 Bxb5+ 10. Ke1 Rxc1 11. c4 Qxd1+ 12. Kf2 Bxc4 13. g4 Rc3 14. h5 Nf6 15. f4 exf4 16. Rh3 Nxg4+ 17. Kg2 Bxe2 18. Bxe2 Qxe2+ 19. Kg1 Rc1# 0-1

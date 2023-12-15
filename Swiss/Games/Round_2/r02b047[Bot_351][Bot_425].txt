@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "Capybara (by: Matěj Fencl)"]
+[Black "200 Tokens Monstrosity (by: ErwanF)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nf3 Qf6 3. Nc3 Qe6 4. d4 exd4 5. Nxd4 Qe5 6. Nf3 Qa5 7. Bc4 Bb4 8. Bd2 Qc5 9. Qe2 Nc6 10. O-O Ne5 11. Nxe5 Qxe5 12. Bxf7+ Kxf7 13. Qc4+ Ke8 14. Qxb4 Nf6 15. Nd5 Nxd5 16. exd5 Qxd5 17. Rae1+ Kf7 18. Re7+ Kf6 19. Bc3+ Kg5 20. Rxg7+ Kh5 21. g4+ Kh4 22. Qe7+ Kh3 23. Qe3+ Kh4 24. Qg3# 1-0

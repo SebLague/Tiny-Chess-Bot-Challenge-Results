@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "43"]
+[White "MinimaxAttackerBot5000 (by: ChrisCat123)"]
+[Black "Chessy (by: SebastianB)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Na3 b5 2. Nxb5 Nc6 3. Rb1 Nb4 4. Ra1 Nc6 5. Rb1 Nb4 6. Ra1 Nc6 7. Rb1 1/2-1/2

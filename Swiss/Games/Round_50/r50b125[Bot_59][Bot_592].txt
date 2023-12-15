@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "49"]
+[White "Generic Chess Bot #1000000 (by: Anthony)"]
+[Black "Chark Bot (by: Team Chark V1)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 e6 2. b3 Qf6 3. d4 c5 4. Bg5 Qf5 5. dxc5 Bxc5 6. Qd2 Nc6 7. g4 Qxg4 8. Rg1 Qh5 9. Bf4 Nf6 10. Rg5 Bxf2+ 11. Kd1 Qh6 12. Rg2 Qh5 13. Nc3 Bb6 14. Rxg7 Ba5 15. Ng5 Nd5 16. Nge4 Kf8 17. Rg1 h6 18. Qc1 Bxc3 19. Bd6+ Ke8 20. Nxc3 Nxc3+ 21. Ke1 Qh4+ 22. Bg3 Qf6 23. Bg2 Qd4 24. e3 Qg4 25. Qd2 Qg7 26. Qf2 Ne4 27. Be5 Qxe5 28. Bxe4 Qxa1+ 29. Kd2 Qxa2 30. Qf6 Qa5+ 31. Qc3 Qe5 32. Qxe5 Nxe5 33. h3 f5 34. Bh1 Ke7 35. Ke1 Rb8 36. Kf2 Rh7 37. Ra1 b6 38. Rxa7 Rg7 39. Ra3 Rg5 40. Ra7 b5 41. Ra2 Rh5 42. Kg3 Kd6 43. Ra7 b4 44. Ra4 Rb5 45. Ra1 Rc5 46. Ba8 Rxc2 47. Rb1 Rg5+ 48. Kf4 Rf2+ 49. Bf3 Rg4+ 50. hxg4 Rxf3# 0-1

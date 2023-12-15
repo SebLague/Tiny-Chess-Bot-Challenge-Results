@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "46"]
+[White "Nautilus (by: Sherlock)"]
+[Black "BuiltCleverBot (by: Scott Ward)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. Bf4 d5 3. e3 Bg4 4. Nf3 e6 5. Bd3 Bd6 6. O-O Bxf4 7. exf4 Nc6 8. c3 Qd6 9. h3 Bf5 10. Bxf5 exf5 11. Re1+ Ne4 12. c4 dxc4 13. Nc3 Qxf4 14. g3 Qh6 15. Nxe4 fxe4 16. Rxe4+ Kf8 17. d5 Na5 18. Qa4 Qb6 19. Rae1 Rd8 20. Re8+ Rxe8 21. Rxe8# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "38"]
+[White "CosmoDMBot (by: CosmoDM)"]
+[Black "TalkChess (by: Thomas Jahn, Mike Sherwin, Dmitry Shechtman)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. g4 Nf6 3. d3 d5 4. g5 Bg4 5. f3 Be6 6. gxf6 exf6 7. exd5 Qxd5 8. Bd2 Bc5 9. Bf4 O-O-O 10. c3 Kb8 11. b3 Ne5 12. d4 Rhe8 13. h4 Qd6 14. Kf2 Qd5 15. Kg3 Qd6 16. Kg2 Qd5 17. Bb5 Re7 18. Qe2 Ng6 19. Be3 Bb6 20. Bc4 Qf5 21. Bd2 Ree8 22. a4 Bd5 23. Qd1 Be6 24. Na3 Bd5 25. Kg3 Be6 26. Bxe6 Qxe6 27. f4 f5 28. Qb1 Qe4 29. Nh3 Qe6 30. Rh2 Qe4 31. Qf1 Qe6 32. Nc4 Qc6 33. Rc1 Qe6 34. Rf2 Qc6 35. Qg1 Qe6 36. Re1 Qc6 37. Rxe8 Rxe8 38. Rh2 Qe6 39. Be3 Qc6 40. Bf2 Re2 41. Ng5 Rc2 42. Qe1 Qf6 43. Qe8+ Qd8 44. Qxd8# 1-0

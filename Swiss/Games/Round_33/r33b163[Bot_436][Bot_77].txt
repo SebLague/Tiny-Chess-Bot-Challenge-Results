@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "32"]
+[White "King Shuffler (by: Team Thursday)"]
+[Black "OrionChessEngine (by: Maarten Peels)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d3 f5 2. Kd2 Nf6 3. Ke1 Nc6 4. Nc3 e5 5. Nf3 Qe7 6. Bg5 Qe6 7. d4 exd4 8. Nxd4 Nxd4 9. Qxd4 Bc5 10. Qxc5 Kf7 11. Qxc7 Qa6 12. e4 Qc6 13. Bc4+ Qxc4 14. Qxc4+ Kg6 15. exf5+ Kxg5 16. h4+ Kh6 17. Qf4+ Kh5 18. Qg5# 1-0

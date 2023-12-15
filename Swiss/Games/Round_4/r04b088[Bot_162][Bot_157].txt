@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "3"]
+[White "BitBlunderer (by: Till Zemann (GitHub: https://github.com/till2 :D))"]
+[Black "Turochamp (Modern) (by: P Rivero)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nc6 2. Nc3 e6 3. e3 Qf6 4. Ne4 Qf5 5. Nfg5 h6 6. g4 Qg6 7. Bb5 hxg5 8. Bxc6 bxc6 9. Nc3 Rb8 10. f4 gxf4 11. exf4 Qf6 12. Qf3 Qh4+ 13. Kf1 Nf6 14. d4 c5 15. dxc5 Bb7 16. c6 Bxc6 17. Qd3 Bxh1 18. Be3 Qxh2 19. Bxa7 Rxb2 20. Bd4 Rxc2 21. Nb5 Bg2+ 22. Ke1 Qh1+ 23. Bg1 Qxg1+ 24. Qf1 Qxf1# 0-1

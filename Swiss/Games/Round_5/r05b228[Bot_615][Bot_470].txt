@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "4"]
+[White "Anty (by: Emanuele Sorce)"]
+[Black "Hopeless Bot (by: Nepiceo)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d3 g5 2. e3 e5 3. Nh3 a6 4. Qg4 e4 5. Qf4 gxf4 6. Nxf4 exd3 7. Nd5 dxc2 8. Nbc3 Ne7 9. Nf6# 1-0

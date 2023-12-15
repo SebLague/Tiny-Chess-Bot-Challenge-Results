@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "16"]
+[White "NightBot (by: Matthias Kruis)"]
+[Black "Baby Squid (by: Jonas Tyroller)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 d5 2. d4 Bf5 3. e3 Nf6 4. Nf3 e6 5. Bd3 Bb4 6. Bxf5 exf5 7. Qd3 Ne4 8. Qb5+ Nc6 9. Qxb7 Bxc3+ 10. bxc3 Na5 11. Qb5+ c6 12. Qd3 Rb8 13. O-O Qd6 14. Nh4 Qf6 15. f3 Qxh4 16. fxe4 dxe4 17. Qa6 Qd8 18. Rxf5 Rb5 19. Rxb5 cxb5 20. Qxb5+ Kf8 21. Ba3+ Kg8 22. Bb4 h5 23. Bxa5 Qe7 24. Bb4 Qe6 25. Qb8+ Kh7 26. Qxa7 Rd8 27. Rf1 f6 28. Qa5 Rd5 29. Qc7 Rd7 30. Qc8 Rd6 31. Qxe6 Rxe6 32. d5 Ra6 33. d6 Ra7 34. a4 Kg6 35. a5 f5 36. Rd1 Rd7 37. a6 f4 38. Kf2 h4 39. a7 Rxa7 40. d7 Ra8 41. exf4 Kf6 42. d8=Q+ Rxd8 43. Rxd8 g5 44. Rf8+ Kg6 45. Rg8+ Kf5 46. fxg5 Kf4 47. g6 Kf5 48. g7 Kg6 49. Bf8 h3 50. Rh8 hxg2 51. g8=Q+ Kf6 52. Qxg2 e3+ 53. Kxe3 Ke6 54. Rh6+ Kf5 55. Qe4+ Kg5 56. Qf4# 1-0

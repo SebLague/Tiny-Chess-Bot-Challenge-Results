@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "29"]
+[White "Chessi (by: Will D)"]
+[Black "AlphaBetaZero (by: MV974)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Qh5 Nf6 3. Qf3 e6 4. Nh3 Bd6 5. a4 O-O 6. g4 Ne5 7. Qe3 Nexg4 8. Qg5 Nxh2 9. Bg2 h6 10. Qh4 c5 11. Na3 Bc7 12. b3 Be5 13. c3 d5 14. Bb2 Nxe4 15. Qxd8 Rxd8 16. f4 Nf3+ 17. Bxf3 Bb8 18. Rg1 e5 19. Nf2 Nxf2 20. Kxf2 e4 21. Bg4 f5 22. Be2 Bxf4 23. c4 d4 24. Ke1 Be6 25. Kd1 g5 26. Kc1 e3 27. d3 g4 28. Kb1 Rf8 29. Rf1 Bb8 30. Kc1 f4 31. Kb1 f3 32. Bd1 e2 33. Bxe2 fxe2 34. Rxf8+ Kxf8 35. Kc2 Bg3 36. Kd2 e1=B+ 37. Rxe1 Bxe1+ 38. Kxe1 Re8 39. Kd1 g3 40. Bc1 g2 41. Bxh6+ Kf7 42. Kc2 g1=Q 43. Nb5 Qg3 44. Nxa7 Bf5 45. Nb5 Qxd3+ 46. Kc1 Qc2# 0-1

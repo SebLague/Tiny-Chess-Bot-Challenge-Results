@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "48"]
+[White "ImpossiBot (by: StefanDeSterke)"]
+[Black "EpsilonCheck (by: aymco)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 e5 2. Rb1 d5 3. Ra1 Nc6 4. g3 h5 5. e3 a5 6. Bb5 Qf6 7. c4 dxc4 8. Nxc4 e4 9. f3 Bf5 10. Qa4 exf3 11. Bxc6+ bxc6 12. Nxf3 Bg4 13. Nfe5 Ne7 14. Rf1 Nf5 15. Nxg4 hxg4 16. Rxf5 Qxf5 17. Qxc6+ Ke7 18. Qxa8 Rxh2 19. Nxa5 Qf2+ 20. Kd1 Qf1+ 21. Kc2 Qf5+ 22. Kb3 Qb5+ 23. Ka3 f6 24. b4 Kf7 25. Rb1 Bd6 26. e4 Rh5 27. Nb7 Bxg3 28. Qc8 Qa6+ 29. Kb2 Be5+ 30. d4 Bxd4+ 31. Kb3 Rh3+ 32. Kc2 Qc4+ 33. Kd1 Rh1+ 34. Kd2 Rh2+ 35. Kd1 Qf1# 0-1

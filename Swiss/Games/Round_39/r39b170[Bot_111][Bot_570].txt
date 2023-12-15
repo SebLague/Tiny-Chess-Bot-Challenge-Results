@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "38"]
+[White "No Brain but Hungry (by: Pete)"]
+[Black "Shadow's Unfinished Bot (by: shadowcage72)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 e6 2. g3 Bb4+ 3. Bd2 Bxd2+ 4. Nxd2 Nc6 5. Qc1 Nxd4 6. e3 Nc6 7. Qb1 Nf6 8. Ndf3 O-O 9. Kd2 Ne4+ 10. Kd3 Nxf2+ 11. Kc3 Nxh1 12. g4 Nf2 13. Ne2 Nxg4 14. h3 Nxe3 15. Kd2 Nxf1+ 16. Qxf1 d5 17. c3 e5 18. a4 Bf5 19. b3 g6 20. Ke1 a6 21. Kd2 b6 22. Ke1 h6 23. Kd2 h5 24. Ke1 h4 25. Kd2 b5 26. Ke3 bxa4 27. bxa4 e4 28. Nh2 Qg5+ 29. Nf4 Qg3+ 30. Nf3 Qxf3+ 31. Kd2 e3+ 32. Kc1 Qxf1+ 33. Kb2 Qxf4 34. Kb3 Bxh3 35. Kc2 Qf2+ 36. Kc1 Qd2+ 37. Kb1 Rab8# 0-1

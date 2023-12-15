@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "26"]
+[White "The Red Crayon (by: Daniel L.)"]
+[Black "(confus) (by: Leg3nd)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 h5 2. e4 e6 3. Nf3 Ne7 4. Bc4 a5 5. Nc3 Ra7 6. Qd3 Ra6 7. Bxa6 Nxa6 8. Kd1 Nc5 9. Ke1 Nxd3+ 10. Kd1 Nxc1 11. Kxc1 Rh6 12. Kb1 c5 13. Kc1 cxd4 14. Kb1 dxc3 15. Kc1 cxb2+ 16. Kb1 bxa1=Q+ 17. Kxa1 Rf6 18. Kb1 Rxf3 19. Ka1 Rxf2 20. Kb1 Rxc2 21. Ka1 Rxa2+ 22. Kb1 Rxg2 23. Ka1 Rxh2 24. Kb1 Rxh1+ 25. Ka2 Qb6 26. Ka3 Ra1# 0-1

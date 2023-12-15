@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "48"]
+[White "Hrustco Bot (by: migrin)"]
+[Black "Sardine (by: Broxholme)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. d4 exd4 5. Nxd4 Nxe4 6. Nxe4 Qe7 7. f3 d5 8. Bg5 f6 9. Bb5 Bd7 10. Bxc6 bxc6 11. Be3 dxe4 12. O-O O-O-O 13. fxe4 Qxe4 14. Qf3 Re8 15. Qxe4 Rxe4 16. Rf3 c5 17. Nb3 Rc4 18. Rc1 Bd6 19. Nd2 Ra4 20. a3 Re8 21. Re1 f5 22. Ref1 Bc6 23. Rh3 Rg4 24. Rf2 f4 25. Nf1 fxe3 26. Nxe3 Rge4 27. Nf5 Re1+ 28. Rf1 Rxf1+ 29. Kxf1 Rf8 30. g4 g6 31. Rxh7 gxf5 32. gxf5 Be4 33. c3 Rxf5+ 34. Ke2 c4 35. Ke3 Bd3 36. Rh8+ Kb7 37. Re8 Bc5+ 38. Kd2 Rf2+ 39. Kd1 Rxb2 40. a4 Rb1+ 41. Kd2 Bd6 42. Re3 Bf4 43. h4 Rb2+ 44. Kc1 Ra2 45. Kd1 Bxe3 46. h5 Ra1# 0-1

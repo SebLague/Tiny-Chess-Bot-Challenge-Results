@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "13"]
+[White "DD9's chess bot (by: DigestDig9)"]
+[Black "SatanBot (by: odin7053@discord)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 a5 2. e4 a4 3. Bg5 g6 4. Bxe7 Qxe7 5. Bd3 b6 6. Be2 Qxe4 7. Nh3 Qxg2 8. Bd3 Qxh1+ 9. Kd2 Qxh2 10. Bxg6 fxg6 11. Ng5 Qxf2+ 12. Kc3 b5 13. Nxh7 Rxh7 14. Qg4 Qe3# 0-1

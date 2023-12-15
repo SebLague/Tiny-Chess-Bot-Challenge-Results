@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "7"]
+[White "EvilMirror (by: Hagan Gray)"]
+[Black "Captain Botvious (by: Selim Sheta)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. d4 Bb4+ 3. Nd2 exd4 4. a4 Nf6 5. h4 O-O 6. Bd3 Nc6 7. Nf3 Bxd2+ 8. Kxd2 g6 9. b3 a6 10. Bxa6 bxa6 11. Nxd4 Nxd4 12. Rg1 Nxe4+ 13. Kd3 Nxf2+ 14. Kxd4 Nxd1 15. Rxd1 Qxh4+ 16. Ke5 Qh5+ 17. Kd4 Qxd1+ 18. Kc4 Qxc2+ 19. Kd4 Qxb3 20. a5 Qb4+ 21. Kd3 Qd6+ 22. Ke2 Qe5+ 23. Kf2 Qxa1 24. Bb2 Qxb2+ 25. Ke1 Qxg2 26. Kd1 Qf3+ 27. Kd2 Qf2+ 28. Kd1 Qd4+ 29. Kc2 Qe4+ 30. Kd2 Qb4+ 31. Kc2 Qxa5 32. Kb3 Qb5+ 33. Ka3 Qd3+ 34. Ka4 Qe4+ 35. Ka3 Qf3+ 36. Kb4 Qg4+ 37. Kc5 Qg5+ 38. Kc4 d5+ 39. Kc3 Qe5+ 40. Kd2 Qf4+ 41. Kd3 Bf5+ 42. Kc3 d4+ 43. Kb4 d3+ 44. Ka3 Qc1+ 45. Kb4 a5+ 46. Ka4 Qd1+ 47. Ka3 Qa1+ 48. Kb3 Be6# 0-1

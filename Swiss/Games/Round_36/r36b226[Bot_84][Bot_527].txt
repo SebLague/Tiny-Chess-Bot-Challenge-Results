@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "35"]
+[White "tom (by: Christopher Hosken & Thomas Lower)"]
+[Black "Stickleback (by: Brent Mardell)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. h4 d5 3. exd5 Qxd5 4. f4 exf4 5. d4 Nf6 6. c4 Qxd4 7. Qxd4 Nc6 8. Qc3 Bg4 9. b4 Bxb4 10. c5 Bxc3+ 11. Nxc3 O-O 12. a4 Rfe8+ 13. Nce2 f3 14. gxf3 Bxf3 15. Nxf3 Ng4 16. h5 Rxe2+ 17. Bxe2 Re8 18. h6 Rxe2+ 19. Kxe2 Nxh6 20. Bxh6 gxh6 21. a5 Kg7 22. Nh4 Nxa5 23. Rxa5 b5 24. Rxa7 f5 25. Nxf5+ Kg6 26. Nxh6 Kg7 27. Rxc7+ Kg6 28. c6 b4 29. Ng8 b3 30. Rcxh7 b2 31. Nh6 Kxh7 32. Rg1 Kxh6 33. Rf1 b1=Q 34. Rxb1 Kg6 35. Kd3 Kf5 36. Rf1+ Ke5 37. c7 Kd6 38. Kc4 Kxc7 39. Kb5 Kb7 40. Rf7+ Kb8 41. Ka6 Kc8 42. Rf8+ Kc7 43. Rf1 Kc6 44. Rc1+ Kd5 45. Kb5 Kd4 46. Rd1+ Kc3 47. Ka6 Kc2 48. Ka5 Kb3 49. Kb6 Kc2 50. Kb5 Kb2 51. Ka4 Kc2 52. Rd6 Kb1 53. Ka3 Kc2 54. Rc6+ Kb1 55. Rc4 Ka1 56. Rc1# 1-0

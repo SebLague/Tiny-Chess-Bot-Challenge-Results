@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "17"]
+[White "Blindo (by: MS)"]
+[Black "LesMoutons (by: Beaud Rémi and Mechulam Antoine)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Qh5 Qf6 3. Bb5 Bb4 4. Qg4 Nh6 5. Qh3 O-O 6. Qh5 Re8 7. Qh3 d5 8. Qb3 Nc6 9. exd5 a6 10. Bxc6 Bxd2+ 11. Bxd2 bxc6 12. Bxh6 Qxh6 13. dxc6 Qc1+ 14. Ke2 Bg4+ 15. Kd3 Rad8+ 16. Kc3 Qe1+ 17. Kc4 Rd4+ 18. Kc5 Qa5+ 19. Qb5 Qxb5# 0-1

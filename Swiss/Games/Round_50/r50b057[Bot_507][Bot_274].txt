@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "49"]
+[White "Mini Lapdok (by: Lapdok)"]
+[Black "BoringBot (by: Carson Bates)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 f6 2. Nf3 e6 3. e3 e5 4. d4 exd4 5. Nxd4 c5 6. Nf3 h5 7. Bc4 Be7 8. Qd3 Kf8 9. Nh4 g5 10. Ng6+ Kg7 11. Nxh8 Kxh8 12. Qg6 h4 13. Bd3 f5 14. Bxf5 Nf6 15. Nd5 h3 16. Nxf6 Qa5+ 17. Kd1 Qd2+ 18. Kxd2 hxg2 19. Qg8# 1-0

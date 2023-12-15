@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "16"]
+[White "LunarBot (by: LunarTech)"]
+[Black "200 Tokens Monstrosity (by: ErwanF)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 e6 2. Ne5 Qf6 3. Nd3 Qh4 4. Nc3 Nc6 5. Nb5 Kd8 6. Nc3 Bd6 7. g3 Qg4 8. Bg2 a6 9. Ne4 Be7 10. Bf3 Qf5 11. g4 Qb5 12. Nc3 Qg5 13. h4 Qa5 14. Bxc6 dxc6 15. g5 h6 16. gxh6 Rxh6 17. Rg1 Rxh4 18. Kf1 g6 19. Kg2 Rg4+ 20. Kf1 Rxg1+ 21. Kxg1 Qg5+ 22. Kh2 Bd6+ 23. Kh1 Qh4+ 24. Kg2 Qh2+ 25. Kf3 Qh3+ 26. Ke4 e5 27. Nxe5 Nf6+ 28. Kd4 c5+ 29. Kc4 Be6+ 30. Nd5 Bxd5# 0-1

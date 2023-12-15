@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "22"]
+[White "Some rules bot (by: qumquat)"]
+[Black "AchillesAlpha (by: Achilles)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. d3 e6 2. Nd2 g5 3. f3 h5 4. b3 Qf6 5. Rb1 Qf4 6. Bb2 Rh7 7. Nh3 Qb4 8. Nxg5 Qh4+ 9. g3 Qxg5 10. Ne4 Qa5+ 11. Kf2 Nc6 12. c4 Kd8 13. f4 Ne5 14. fxe5 Qxa2 15. Nc3 Qa5 16. e3 Qxe5 17. Na4 Qf5+ 18. Ke2 Qg4+ 19. Kf2 Qf5+ 20. Ke2 Qg4+ 21. Kf2 Qf5+ 1/2-1/2

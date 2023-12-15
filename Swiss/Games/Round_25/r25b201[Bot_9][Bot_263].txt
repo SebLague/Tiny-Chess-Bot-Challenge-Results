@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "24"]
+[White "More Recursion! (by: Bden)"]
+[Black "Concrete (by: Jewel)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 f5 2. Qh5+ g6 3. Qxg6+ hxg6 4. Bc4 d5 5. Bd3 e5 6. Nf3 a5 7. Nc3 f4 8. exf4 Qd6 9. fxe5 Qe6 10. Kf1 Nc6 11. Bb5 Rh5 12. Nd4 Qxe5 13. Nxc6 bxc6 14. Bd3 Qf6 15. Bxg6+ Qxg6 16. g3 Qxc2 17. Ne2 Qe4 18. Rg1 Bg7 19. Nc3 Bh3+ 20. Rg2 Bxg2+ 21. Kg1 c5 22. Nxe4 Bxe4 23. g4 d4 24. gxh5 d3 25. Rb1 Be5 26. h3 Bd4 27. b3 Nf6 28. h6 Kd7 29. Ba3 Rg8+ 30. Kf1 Bg2+ 31. Ke1 Ba8 32. Kf1 Bg2+ 33. Ke1 Ba8 34. f4 Rg1# 0-1

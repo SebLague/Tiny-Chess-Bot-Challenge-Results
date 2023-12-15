@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "21"]
+[White "QuaviverBot (by: CantWontDo)"]
+[Black "Jack (by: Antonio P)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c4 d5 2. Qa4+ Bd7 3. Qb4 Bc6 4. cxd5 Bxd5 5. Nc3 e5 6. Qa5 Bc4 7. Qxe5+ Ne7 8. Qe4 Ba6 9. Nf3 Kd7 10. b4 f5 11. Qd4+ Kc8 12. Qxd8+ Kxd8 13. b5 Kd7 14. Ne5+ Ke6 15. bxa6 bxa6 16. d4 Nc8 17. e4 fxe4 18. Bc4+ Kf6 19. Nxe4+ Kf5 20. Bd5 Bb4+ 21. Kd1 h5 22. h4 Bd2 23. Bxd2 Rh6 24. Ng3+ Kf6 25. Bg5# 1-0

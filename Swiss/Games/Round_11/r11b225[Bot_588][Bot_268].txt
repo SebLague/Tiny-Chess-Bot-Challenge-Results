@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "10"]
+[White "Mobilibot (by: Gabriel N.)"]
+[Black "Captain Botvious (by: Selim Sheta)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Qh5 d5 3. Bb5+ Nc6 4. Qxe5+ Ne7 5. d4 dxe4 6. Bxc6+ bxc6 7. Nc3 Bf5 8. Bg5 Rc8 9. Nge2 Rg8 10. Kd2 Ra8 11. Nxe4 Bc8 12. Nf6+ gxf6 13. Bxf6 Bh6+ 14. f4 Rxg2 15. Bg5 Bxg5 16. Qh8+ Ng8 17. Qxg8+ Kd7 18. Qxf7+ Be7 19. Qf5+ Ke8 20. Qh5+ Kf8 21. Qh6+ Rg7 22. f5 Bb4+ 23. c3 Bxc3+ 24. Kxc3 Bxf5 25. Rhf1 Qd7 26. Kb4 a5+ 27. Ka4 c5+ 28. Kb3 Qb5+ 29. Ka3 Qb4# 0-1

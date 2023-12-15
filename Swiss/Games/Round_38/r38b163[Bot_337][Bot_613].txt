@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "37"]
+[White "SepukuBot (by: Madhu)"]
+[Black "Peeter 1 (by: Gouuu)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g4 h5 2. gxh5 Rxh5 3. e3 g6 4. Qg4 b6 5. Bg2 c6 6. Qc4 a5 7. Be4 b5 8. Qb3 e5 9. Nc3 a4 10. Nxa4 Rxa4 11. Bd3 e4 12. Bf1 d5 13. Ne2 Qc7 14. Nc3 Rb4 15. Qa3 Rxh2 16. Rxh2 Qxh2 17. b3 g5 18. Bb2 Ra4 19. bxa4 Bxa3 20. Bxa3 bxa4 21. Nxa4 f6 22. Nc3 g4 23. Rb1 f5 24. Rb4 Ba6 25. Be2 Qh1+ 26. Bf1 Qxf1# 0-1

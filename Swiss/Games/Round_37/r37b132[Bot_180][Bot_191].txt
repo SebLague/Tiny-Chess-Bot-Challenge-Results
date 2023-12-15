@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "36"]
+[White "Sørensen's Minimax (by: Victor)"]
+[Black "Igris (by: Deathfile78)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 Nf6 2. Qf3 Nc6 3. Qf4 e5 4. Qh4 Bb4 5. Qg5 O-O 6. Bc4 d5 7. Bb5 h6 8. Qh4 g5 9. Qxh6 e4 10. Qxg5+ Kh8 11. Bxc6 bxc6 12. Qh6+ Kg8 13. c3 Bd6 14. Qg5+ Kh7 15. Qh4+ Kg7 16. Qg5+ Kh8 17. Qh6+ Nh7 18. Ne2 Re8 19. Nd4 c5 20. Nc6 Qd7 21. Na5 Qb5 22. b4 cxb4 23. Bb2 Qxa5 24. cxb4+ Be5 25. Bxe5+ Rxe5 26. bxa5 a6 27. Nc3 c5 28. Rb1 c4 29. Qc6 Bb7 30. Qxb7 Rg8 31. Qxf7 Rxg2 32. Rb7 Nf6 33. Qxf6+ Kg8 34. Qd8+ Re8 35. Qxe8# 1-0

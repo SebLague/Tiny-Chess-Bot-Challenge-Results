@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "Lila (by: Outer Cloud)"]
+[Black "Nathe-Bot (by: NatheSpike)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f4 d5 2. b3 Nf6 3. Ba3 Nc6 4. Kf2 e5 5. Bb2 Ne4+ 6. Ke3 exf4+ 7. Kxf4 Qg5+ 8. Kf3 Nd4+ 9. Bxd4 Bg4# 0-1

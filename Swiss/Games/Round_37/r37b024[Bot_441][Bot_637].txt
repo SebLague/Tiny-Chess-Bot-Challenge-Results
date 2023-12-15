@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "36"]
+[White "RigidBot (by: Mathias Elgaard)"]
+[Black "MiniMagnus (by: Erik Fast)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Bb5+ c6 5. Bc4 b5 6. Bb3 Nf6 7. Nf3 b4 8. Ne2 Bg4 9. d4 Bxf3 10. gxf3 Nd5 11. O-O Nd7 12. f4 N7b6 13. f5 g6 14. Qd3 Bg7 15. Bxd5 Qxd5 16. fxg6 hxg6 17. a3 e5 18. axb4 exd4 19. Rd1 Rh4 20. Bf4 Bf6 21. Bg3 Re4 22. Ra6 Qe6 23. Kf1 Nc4 24. Rb1 Bg5 25. Nxd4 Nd2+ 26. Kg2 Qd5 27. Ra5 Qxd4 28. Qxd4 Rxd4 29. Re1+ Be7 30. Rae5 Re4 31. R1xe4 Nxe4 32. Rxe4 f5 33. Re6 Kd7 34. Rxg6 Bxb4 35. Rg7+ Be7 36. Bh4 Re8 37. Bf6 a5 38. Bc3 a4 39. h4 Ke6 40. h5 Bd6 41. h6 Be5 42. Rg6+ Kd5 43. Bxe5 Kxe5 44. Rxc6 Rb8 45. h7 Rh8 46. Rh6 Kf4 47. Rh5 Kg4 48. Rh1 Kf4 49. Rh4+ Kg5 50. Kg3 Kg6 51. Rxa4 Rxh7 52. Ra6+ Kg7 53. Ra7+ Kg6 54. Rxh7 Kxh7 55. b4 Kg6 56. b5 Kf6 57. b6 Ke5 58. b7 Kd4 59. b8=Q Kc3 60. Qc8+ Kd4 61. Qxf5 Kc4 62. Qe5 Kb4 63. Kg4 Kc4 64. Qa5 Kd4 65. Kf5 Kc4 66. Ke6 Kd4 67. Qb4# 1-0

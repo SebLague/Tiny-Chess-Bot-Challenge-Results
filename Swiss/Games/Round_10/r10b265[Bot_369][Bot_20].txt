@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "9"]
+[White "shitbot1 (by: Dan)"]
+[Black "Queen's Gam-bot (by: Mateo Saldivar (ZiroDev))"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 d6 2. Nf3 Bh3 3. gxh3 Nc6 4. Rg1 Nd4 5. Nxd4 Qd7 6. Rb1 Qb5 7. Naxb5 e6 8. Nxe6 Ke7 9. Rxg7 Bxg7 10. Nexc7 Bc3 11. dxc3 Rb8 12. Qxd6# 1-0

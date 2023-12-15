@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "49"]
+[White "OrionChessEngine (by: Maarten Peels)"]
+[Black "ChessGPT (by: DeepGoldenCrown)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d6 2. a4 Bh3 3. Nxh3 b5 4. Bxb5+ Nc6 5. Bxc6+ Qd7 6. Bxd7+ Kxd7 7. b4 Nh6 8. g4 Nxg4 9. Qxg4+ Ke8 10. c4 Kd8 11. Qf5 Ke8 12. Kd1 h6 13. f3 c5 14. bxc5 dxc5 15. Qxc5 Rd8 16. Qxa7 Rd3 17. Ng1 Kd8 18. c5 Kc8 19. h4 Kd8 20. f4 Kc8 21. f5 Kd8 22. c6 Kc8 23. h5 Kd8 24. Qb8# 1-0

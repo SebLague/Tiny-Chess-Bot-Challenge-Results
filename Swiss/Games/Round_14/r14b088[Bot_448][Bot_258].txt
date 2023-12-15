@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "13"]
+[White "Paradox Bot (by: Kekz)"]
+[Black "ThinkerBot5000 (by: Bear)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 h5 2. Nc3 e5 3. dxe5 g5 4. h3 f5 5. Nf3 g4 6. hxg4 fxg4 7. Ng5 Be7 8. Qd3 Bxg5 9. Qg6+ Kf8 10. Bxg5 Qe8 11. Qxe8+ Kxe8 12. f3 Kf7 13. Nd5 gxf3 14. Nxc7 fxe2 15. Bxe2 Kg6 16. Bh4 Kf5 17. Rf1+ Kxe5 18. Bg3+ Ke4 19. Bd3+ Kd4 20. Rf5 d5 21. Bf2# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "21"]
+[White "pawnHater300 (by: hakrackete)"]
+[Black "lowEloBrain (by: bbb908)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a4 e5 2. a5 e4 3. a6 b5 4. b4 Bxb4 5. c4 bxc4 6. f4 f5 7. g4 Qh4# 0-1

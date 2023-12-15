@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "11"]
+[White "KU_AI_BOT (by: Daniel Johnson)"]
+[Black "Supertask-Time-Troubles (by: TimFW)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 c5 2. Qf3 a5 3. e5 d6 4. Bb5+ Nd7 5. Qe4 dxe5 6. Nf3 f6 7. d3 Qb6 8. Nc3 Rb8 9. Be3 g5 10. Na4 Qxb5 11. Nc3 Qxb2 12. Kd2 h5 13. Rab1 Qa3 14. Qg6+ Kd8 15. Nb5 Qa4 16. Na7 g4 17. Nxc8 Kxc8 18. Qf7 gxf3 19. gxf3 Bh6 20. Qe8+ Kc7 21. Qf7 h4 22. Qe6 Bxe3+ 23. fxe3 h3 24. Rb2 b5 25. Qd5 Qa3 26. Qb3 b4 27. Rbb1 a4 28. Qb2 Qxb2 29. Rxb2 a3 30. Rb3 Kd6 31. f4 Rh4 32. Rf1 Rg4 33. Kc1 Rg2 34. Rh1 exf4 35. exf4 Rf2 36. Re1 Rxf4 37. Kb1 Rf2 38. d4 Rxh2 39. dxc5+ Nxc5 40. Rd1+ Kc6 41. Re3 e5 42. Ree1 Na4 43. Rc1 Rc8 44. Re3 Nc3+ 45. Ka1 Kd5 46. Rg3 e4 47. Rg7 Ne2 48. Rd1+ Ke5 49. Ra7 e3 50. Ra5+ Ke4 51. Ra6 Nd4 52. Rb6 Rcxc2 53. Rxd4+ Kxd4 54. Rxb4+ Kc5 55. Kb1 Kxb4 56. Ka1 Rh1# 0-1

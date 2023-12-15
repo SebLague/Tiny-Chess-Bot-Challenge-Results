@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "Yangbot V1 (by: Cyang946)"]
+[Black "EldenBot (by: Ghost_Dev_84)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 a6 2. Nf3 a5 3. e4 a4 4. Bb5 a3 5. bxa3 b6 6. O-O c6 7. Ba4 b5 8. Bb3 b4 9. axb4 c5 10. bxc5 d6 11. Bd5 dxc5 12. Bxa8 c4 13. Qe2 e6 14. Qxc4 e5 15. Nxe5 f6 16. Qf7# 1-0

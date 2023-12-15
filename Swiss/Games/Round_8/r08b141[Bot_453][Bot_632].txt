@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "7"]
+[White "Chessica (by: Nicky Kitchingman)"]
+[Black "Dried Cod (by: Josh & Laurin)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a3 e6 2. b3 Qg5 3. c3 Qf5 4. d3 Nc6 5. e3 Bd6 6. g4 Qg5 7. f3 Qh4+ 8. Kd2 Bxh2 9. Kc2 Qf2+ 10. Qd2 Bxg1 11. Rxg1 Qxg1 12. Kd1 Qxf1+ 13. Kc2 Ne5 14. Kb2 Nxd3+ 15. Ka2 Nxc1+ 16. Kb2 Nd3+ 17. Ka2 Nf6 18. Qd1 Qxd1 19. Nd2 Qc2# 0-1

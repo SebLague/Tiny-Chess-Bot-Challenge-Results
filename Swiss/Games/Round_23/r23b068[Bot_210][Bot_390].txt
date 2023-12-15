@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "22"]
+[White "mini_yoda (by: Dane Smith)"]
+[Black "BuiltCleverBot (by: Scott Ward)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f4 Nc6 2. e3 e5 3. fxe5 Nxe5 4. h4 Be7 5. d4 Bxh4+ 6. Kd2 Ng6 7. Qg4 Nf6 8. Qf5 d5 9. Qf3 Ne4+ 10. Kd1 Bg4 11. Bb5+ c6 12. Bxc6+ bxc6 13. Qxg4 Nf2+ 14. Ke2 Nxg4 15. Nc3 Nf2 16. Rh2 O-O 17. g3 Bxg3 18. Rg2 Qd6 19. Nf3 Ne4 20. Nxe4 dxe4 21. Nd2 Rfe8 22. a4 Nh4 23. Rg1 Nf5 24. Nxe4 Rxe4 25. Kd3 Rxd4+ 26. Ke2 Re8 27. c3 Rf4 28. Rf1 Rd8 29. Rxf4 Qd1# 0-1

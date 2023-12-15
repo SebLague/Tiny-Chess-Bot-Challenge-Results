@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "6"]
+[White "EvilerBot (by: Noah)"]
+[Black "Chessinator 3000 (by: )"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f3 e5 2. f4 exf4 3. a4 Qh4+ 4. g3 fxg3 5. hxg3 Qxg3# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "35"]
+[White "Celluar Automaton Iterated (by: Pix)"]
+[Black "InfuehrDaniel MCTS (by: Daniel Infuehr)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. b3 e6 2. c3 Qh4 3. d3 Nc6 4. Bb2 Bc5 5. Nf3 Bxf2+ 6. Kd2 Qh6+ 7. Kc2 Qf6 8. Nfd2 Qf5 9. a4 Nf6 10. Ba3 d6 11. Bb2 Qxd3+ 12. Kxd3 h5 13. Bc1 e5 14. Bb2 Kf8 15. Qc1 Ke7 16. Ra3 Bd7 17. Nf3 e4+ 18. Kc2 Nd8 19. Ng5 g6 20. a5 Nc6 21. Kd2 Ng4 22. Nxe4 Be3+ 23. Kd1 1-0

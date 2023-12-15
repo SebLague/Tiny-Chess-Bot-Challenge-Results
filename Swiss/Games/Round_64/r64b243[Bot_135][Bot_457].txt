@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "63"]
+[White "pawnHater300 (by: hakrackete)"]
+[Black "Version 8 (by: Whoever)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a4 e5 2. a5 Qh4 3. a6 Qc4 4. axb7 Bxb7 5. Rxa7 Rxa7 6. b4 Bxb4 7. e4 Qxe4+ 8. Ne2 h6 9. c4 Qxb1 10. c5 Bxc5 11. d4 Bb4+ 12. Qd2 Bxd2+ 13. Kxd2 Qb4+ 14. Ke3 Qb3+ 15. Nc3 Qxc3+ 16. Bd3 Bxg2 17. dxe5 Bxh1 18. e6 Qxc1+ 19. Ke2 dxe6 20. f4 Ra2+ 21. Bc2 Rxc2+ 22. Kd3 Qd2# 0-1

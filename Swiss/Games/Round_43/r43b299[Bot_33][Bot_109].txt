@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "42"]
+[White "BalanceBot (by: vuT)"]
+[Black "DeepScaredyBot (by: Jacob Sweeten)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. h3 a6 2. h4 Ra7 3. Rh2 Ra8 4. Rh1 Ra7 5. Rh2 Ra8 6. Rh1 Ra7 7. Rh2 1/2-1/2

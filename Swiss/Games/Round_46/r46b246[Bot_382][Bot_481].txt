@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "45"]
+[White "Bob (by: Kökényesi Attila (UltraGeek))"]
+[Black "Just Alright... Kinda... (JAK) (by: Joshnaks)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. b3 a5 2. d4 b5 3. Bb2 b4 4. Qd3 h5 5. Nh3 f6 6. Qg6# 1-0

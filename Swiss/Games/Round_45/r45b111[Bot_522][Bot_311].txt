@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "44"]
+[White "Pharouk (by: Pydjama)"]
+[Black "MyFirstChessEngine (by: Jake Forsey)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c4 Nc6 2. h4 Nd4 3. e3 Nc6 4. f4 d5 5. Qa4 Nf6 6. b3 Bf5 7. Qb5 Rb8 8. d3 e5 9. Ba3 a6 10. Qa4 Bxa3 11. Nxa3 exf4 12. cxd5 Qxd5 13. e4 Qe5 14. O-O-O Qa1+ 15. Nb1 Bg4 16. Be2 Kd7 17. h5 Kc8 18. h6 gxh6 19. Rxh6 Kd7 20. Rxf6 Qxf6 21. Bxg4+ Ke7 22. Nh3 Ne5 23. Nc3 Qd6 24. Bh5 Nxd3+ 25. Kb1 Qc5 26. Nd5+ Kf8 27. Rxd3 Rd8 28. Rf3 Rg8 29. Rxf4 Rxg2 30. Rxf7+ Kg8 31. Nf6+ Kh8 32. Rxh7# 1-0

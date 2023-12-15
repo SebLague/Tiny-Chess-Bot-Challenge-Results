@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "7"]
+[White "CompressionBot (by: Nathan George)"]
+[Black "Chessinator 3000 (by: )"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 e6 2. e4 Nf6 3. e5 Ng4 4. h3 Nh6 5. d4 Nf5 6. Bg5 Be7 7. Bxe7 Qxe7 8. Nc3 Nh4 9. Nxh4 Qxh4 10. Nb5 Qe4+ 11. Qe2 Qxe2+ 12. Bxe2 Na6 13. O-O O-O 14. Bc4 f6 15. Rfe1 fxe5 16. dxe5 Rf4 17. Bd3 h5 18. a3 h4 19. Rad1 Kf7 20. g3 hxg3 21. fxg3 Rf3 22. Kg2 Rxd3 23. cxd3 b6 24. Rc1 Bb7+ 25. Kg1 Kg6 26. Nxc7 Rf8 27. d4 Rf3 28. Nxa6 Bxa6 29. Kg2 Rb3 30. Rc7 Rxb2+ 31. Kg1 Rb3 32. Rxd7 Rxa3 33. Rxa7 Rxg3+ 34. Kh2 Rc3 35. Rxa6 Rc2+ 36. Kg1 Rc6 37. Rf1 Rc3 38. Rxb6 Kg5 39. Kg2 Rc2+ 40. Rf2 Rc3 41. Rxe6 Rb3 42. Re7 g6 43. d5 Rd3 44. d6 Kh4 45. d7 Rg3+ 46. Kh1 Rxh3+ 47. Rh2 Kg4 48. Rxh3 Kxh3 49. d8=Q Kg4 50. Rf7 Kh5 51. Qd4 g5 52. Rh7+ Kg6 53. Qd3# 1-0

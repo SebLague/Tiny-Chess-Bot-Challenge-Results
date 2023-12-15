@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "17"]
+[White "Black Magic (by: Josh Odom)"]
+[Black "simple chess bot (by: 4a0I)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e6 2. e4 Qg5 3. Nf3 Qg4 4. h3 Qh5 5. Be2 Bb4 6. a3 Bc5 7. d4 Bd6 8. e5 Bxa3 9. Rxa3 Ne7 10. g4 Qg6 11. Nh4 Qh6 12. Bxh6 gxh6 13. Nb5 Kd8 14. Nxa7 Na6 15. Nxc8 Rxc8 16. Rb3 Nc6 17. Rxb7 Nab4 18. Qd2 Ra8 19. Rxb4 Nxb4 20. Qxb4 Ra1+ 21. Bd1 Ra8 22. Bf3 Ra1+ 23. Kd2 Rxh1 24. Bxh1 Re8 25. Qb8+ Ke7 26. Qxc7 Rd8 27. Be4 Ke8 28. Bxh7 Ra8 29. Bg8 Ke7 30. Qd6+ Ke8 31. Bxf7+ Kxf7 32. Qxd7+ Kg8 33. Qxe6+ Kf8 34. Ng6+ Kg7 35. Qf6+ Kg8 36. e6 Kh7 37. Qf7# 1-0

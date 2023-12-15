@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "28"]
+[White "josh-chess (by: )"]
+[Black "BigBrainBot (by: Leo)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 Nf6 2. d4 Ng4 3. h3 Nf6 4. e4 Nc6 5. d5 Ne5 6. f4 Ng6 7. f5 Ne5 8. Qd4 d6 9. Bf4 c6 10. Bxe5 dxe5 11. Qxe5 Qa5 12. g4 cxd5 13. exd5 Bd7 14. O-O-O O-O-O 15. g5 Bc6 16. gxf6 exf6 17. Qe4 Bd7 18. Qc4+ Qc5 19. Qxc5+ Bxc5 20. Bd3 Rhe8 21. h4 Bd4 22. h5 Bxc3 23. bxc3 Re5 24. c4 Kb8 25. Kd2 Re7 26. Rh4 Re5 27. Nf3 Ree8 28. Rg1 g5 29. hxg6 fxg6 30. fxg6 hxg6 31. Rxg6 f5 32. Rf6 Rf8 33. Rxf8 Rxf8 34. Rf4 Rh8 35. Bxf5 Bxf5 36. Rxf5 Rc8 37. d6 Rxc4 38. d7 Kc7 39. Ne5 Rh4 40. Rf2 Rd4+ 41. Ke3 Ra4 42. c3 Ra5 43. Nc4 Rd5 44. Rf4 b5 45. Na3 a6 46. Rf6 Kb7 47. Rf7 Kc7 48. c4 bxc4 49. Nxc4 Rxd7 50. Rf6 Kb7 51. Na5+ Ka7 52. a4 Re7+ 53. Kd4 Re2 54. Rf7+ Ka8 55. Nc6 Rd2+ 56. Ke4 Re2+ 57. Kf3 Re3+ 58. Kxe3 a5 59. Ra7# 1-0

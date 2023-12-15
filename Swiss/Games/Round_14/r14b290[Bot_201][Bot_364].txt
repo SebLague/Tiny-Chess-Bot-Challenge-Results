@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "13"]
+[White "charge forward v1 (by: steel chair)"]
+[Black "BongCloudBot (by: Ben)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 e5 2. g4 Ke7 3. f4 Ke8 4. fxe5 Ke7 5. e4 Ke8 6. d4 Ke7 7. c4 Ke8 8. b4 Ke7 9. a4 Ke8 10. e6 Ke7 11. exf7 Kd6 12. fxg8=B Ke7 13. h5 Ke8 14. h6 Ke7 15. hxg7 Ke8 16. gxh8=B Ke7 17. Rxh7+ Ke8 18. g5 Qxg5 19. Bxg5 Bxb4+ 20. Nc3 Kf8 21. e5 Ke8 22. e6 Kf8 23. exd7 Kxg8 24. dxc8=B Kxh7 25. d5 Kg6 26. d6 Kxg5 27. dxc7 Kf4 28. cxb8=B+ Ke3 29. Qc1# 1-0

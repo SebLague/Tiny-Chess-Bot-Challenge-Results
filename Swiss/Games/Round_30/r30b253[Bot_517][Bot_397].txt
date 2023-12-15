@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "29"]
+[White "fun  (by: nathan09)"]
+[Black "TinyLispChessBot (by: tr00)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. b4 Na6 2. b5 Nb4 3. c4 Rb8 4. a4 Ra8 5. d4 Rb8 6. f4 Ra8 7. h3 Rb8 8. Qb3 e6 9. g4 Qh4+ 10. Kd2 Qf2 11. Nc3 Qxf1 12. e4 Qg2+ 13. Ke3 Qxh1 14. e5 Qxg1+ 15. Ke4 Qe1+ 16. Kf3 Qf1+ 17. Ke4 Qe1+ 18. Kf3 Qf1+ 19. Ke4 Qe1+ 1/2-1/2

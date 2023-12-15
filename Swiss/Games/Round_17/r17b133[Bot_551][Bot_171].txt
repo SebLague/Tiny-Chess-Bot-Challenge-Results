@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "16"]
+[White "AchillesAlpha (by: Achilles)"]
+[Black "Boht (by: Tex)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a3 Nf6 2. g3 c6 3. f3 Qb6 4. a4 Qd4 5. h3 Qd5 6. Ra3 Qe5 7. d3 e6 8. Ra1 Qxg3+ 9. Kd2 Qg5+ 10. Kc3 Qa5+ 11. Kc4 Qb4# 0-1

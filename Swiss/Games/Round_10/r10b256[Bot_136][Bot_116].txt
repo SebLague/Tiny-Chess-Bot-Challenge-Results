@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "9"]
+[White "Chessy (by: SebastianB)"]
+[Black "MirrorBot (by: Jackk)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. h4 h5 3. Rh3 Qxh4 4. Rxh4 g5 5. Rh3 Rh6 6. Rg3 Rg6 7. Rc3 Rg7 8. Qxh5 a5 9. Qf3 Nf6 10. Qh3 Ng8 11. d3 d6 12. g4 Bxg4 13. Qg2 Bc8 14. Bxg5 Bg4 15. Qxg4 Rxg5 16. Qxg5 Kd7 17. Qg4+ Ke8 18. Nf3 Nf6 19. Qh3 Nxe4 20. dxe4 Nd7 21. Bb5 Bh6 22. Rxc7 f5 23. exf5 Bg7 24. Qh4 Bf6 25. Qh5+ Ke7 26. Rxb7 Rf8 27. Rxd7# 1-0

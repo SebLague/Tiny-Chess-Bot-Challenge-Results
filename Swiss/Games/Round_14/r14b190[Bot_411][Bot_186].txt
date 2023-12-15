@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "13"]
+[White "StallerBot (by: Ean)"]
+[Black "epik chess mastah (by: sten)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d3 Nc6 2. Bf4 e5 3. h4 exf4 4. d4 Bb4+ 5. c3 Bd6 6. Kd2 Nf6 7. g4 fxg3 8. fxg3 Bxg3 9. Nh3 Ne4+ 10. Kc1 Qxh4 11. Rg1 d5 12. Rh1 O-O 13. e3 Bg4 14. Qb3 Qh6 15. Kc2 Bf3 16. Rg1 Bh2 17. Rxg7+ Qxg7 18. Nd2 Nxd2 19. Kxd2 Rfb8 20. Be2 Bxe2 21. Qxd5 Rd8 22. Qb3 Ba6 23. Ng5 Qxg5 24. Qd1 Qg2+ 25. Kc1 Qe4 26. Qc2 Qxe3+ 27. Qd2 Qxd2+ 28. Kxd2 Bf4+ 29. Kc2 Bc4 30. Rg1+ Kh8 31. Re1 Bxa2 32. Re4 Bg5 33. Rg4 Rd5 34. Rg1 Re8 35. b3 Re2+ 36. Kd3 Be3 37. Rd1 Rg2 38. Kxe3 Bxb3 39. Rb1 Rb5 40. Rxb3 Rxb3 41. Kd3 Rg3+ 42. Ke4 Rgxc3 43. d5 Ne7 44. Ke5 Kg8 45. Ke4 Rd3 46. d6 Rxd6 47. Ke5 Nd5 48. Kf5 Rg6 49. Ke4 Rg4+ 50. Ke5 Rf4 51. Kxd5 Rb5# 0-1

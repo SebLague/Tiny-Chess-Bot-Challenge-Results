@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "60"]
+[White "Ben's Bot (by: Ben Clingenpeel)"]
+[Black "Goldfinch (by: ATG)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nc6 2. d5 Ne5 3. Qd4 d6 4. Nc3 Nf6 5. f4 Ng6 6. Nf3 c6 7. Kf2 Bf5 8. dxc6 bxc6 9. e4 Be6 10. f5 Ng4+ 11. Kg3 c5 12. fxe6 cxd4 13. Bb5+ Qd7 14. exd7+ Kd8 15. Kxg4 dxc3 16. bxc3 Rb8 17. Ba4 Rb7 18. Be3 Rc7 19. Rab1 h5+ 20. Kg5 Rxd7 21. Rb8+ Kc7 22. Rhb1 d5 23. R1b7+ Kd6 24. Rxd7+ Ke6 25. exd5# 1-0

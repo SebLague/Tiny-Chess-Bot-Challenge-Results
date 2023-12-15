@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "Magnuth Carlthen (by: wolfuhfuh)"]
+[Black "nimbot (by: )"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 h6 2. Nf3 g6 3. d4 Rh7 4. Nc3 Rg7 5. Be3 Na6 6. g3 Nb8 7. Bg2 Na6 8. Qd2 h5 9. O-O-O Rh7 10. Rhe1 Nb8 11. Kb1 f6 12. d5 Bg7 13. e5 fxe5 14. Qd3 e4 15. Qxe4 Rh6 16. Bxh6 Nxh6 17. Qxg6+ Kf8 18. Ng5 Kg8 19. Re3 a6 20. Rf3 Nf5 21. Rxf5 Kh8 22. Qh7# 1-0

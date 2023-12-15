@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "21"]
+[White "Buildabot (by: Buildasaurus)"]
+[Black "YDepth (by: Jerome Engelbrecht)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nc6 2. d4 d5 3. e3 Nf6 4. c4 e6 5. Bd3 Be7 6. O-O O-O 7. a3 b6 8. cxd5 exd5 9. Bd2 Bb7 10. Nc3 Re8 11. Rc1 g6 12. h3 h6 13. Re1 Bf8 14. Na2 Ne4 15. Bb5 Nxd2 16. Qxd2 Re6 17. Nb4 Nxb4 18. axb4 Bd6 19. Ne5 Bxe5 20. dxe5 Rxe5 21. Bc6 Bxc6 22. Rxc6 Re6 23. Rxe6 fxe6 24. Qc2 Kg7 25. Rc1 Rc8 26. Qc6 Kf6 27. b5 Kf5 28. Qb7 a5 29. bxa6 Rb8 30. Qxc7 Qxc7 31. Rxc7 Ra8 32. a7 b5 33. b4 h5 34. h4 Kg4 35. Rg7 Kf5 36. Kf1 Kf6 37. Rd7 Ke5 38. Ke2 Ke4 39. f3+ Ke5 40. Kd3 Re8 41. f4+ Kf5 42. Rf7+ Kg4 43. Rg7 Kf5 44. Kd4 Kf6 45. Rb7 Ra8 46. Kc5 d4 47. exd4 Kf5 48. Kxb5 Kxf4 49. Ka6 e5 50. b5 exd4 51. b6 Re8 52. Rb8 Re1 53. a8=Q Ra1+ 54. Kb5 Rb1+ 55. Kc5 Rc1+ 56. Kxd4 Rd1+ 57. Kc4 Rc1+ 58. Kb3 Rb1+ 59. Kc2 Rxb6 60. Qf3+ Ke5 61. Rxb6 Kd4 62. Rb5 Kc4 63. Qd5# 1-0

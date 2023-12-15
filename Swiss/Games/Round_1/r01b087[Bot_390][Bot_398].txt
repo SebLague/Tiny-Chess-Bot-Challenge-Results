@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "BuiltCleverBot (by: Scott Ward)"]
+[Black "ChessGPT (by: DeepGoldenCrown)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d6 2. Nc3 Nf6 3. d4 Nxe4 4. Nxe4 Bh3 5. Nxh3 Rg8 6. Qh5 d5 7. Qxh7 dxe4 8. Qxg8 Qxd4 9. Ng5 Kd7 10. Qxf8 Kc6 11. Qxf7 Kc5 12. Ne6+ Kc6 13. Nxd4+ Kd7 14. Qe6+ Ke8 15. Qc8+ Kf7 16. Bc4+ e6 17. Qxe6+ Kf8 18. Qf7# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "13"]
+[White "Mirror Bot (by: JuNi)"]
+[Black "More Recursion! (by: Bden)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 a5 2. a4 Nf6 3. Nf3 Ng4 4. Ng5 h6 5. h3 hxg5 6. hxg4 Rxh1 7. Qf3 f6 8. Qxf6 exf6 9. f3 b6 10. b3 Be7 11. Ba3 Bxa3 12. b4 axb4 13. Nc3 bxc3 14. Kf2 cxd2 15. Rc1 dxc1=Q 16. f4 gxf4 17. g3 Qxf1# 0-1

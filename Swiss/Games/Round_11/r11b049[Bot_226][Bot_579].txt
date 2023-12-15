@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "10"]
+[White "Bob (by: Evan Leach)"]
+[Black "Guppy (by: Simply In Dev)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Rg1 Nf6 4. Bb5 Bb4 5. a3 Bd6 6. Nc3 O-O 7. Nd5 Nxe4 8. Qe2 Nf6 9. Nxf6+ Qxf6 10. g4 Nd4 11. Nxd4 exd4 12. Kf1 Bxh2 13. Rh1 Be5 14. g5 Qd6 15. Qe4 h6 16. gxh6 gxh6 17. Rg1+ Kh8 18. f4 Bxf4 19. Qf5 Qe5 20. Qxe5+ Bxe5 21. Rh1 Kg7 22. Rg1+ Kh7 23. Rh1 d5 24. d3 Bg7 25. Bxh6 Bxh6 26. Rh5 Be6 27. Re1 Kg7 28. Ra1 Be3 29. Re1 a6 30. Ba4 Kg8 31. Rh2 Rad8 32. Rg2+ Kh7 33. Rh2+ Kg6 34. Rg2+ Kh6 35. Rh2+ Kg7 36. Rg2+ Kf6 37. Rh2 Rg8 38. Rxe3 dxe3 39. Rh6+ Kg7 40. Rh2 Bg4 41. Rg2 Kf6 42. Rh2 Rh8 43. Rxh8 Rxh8 44. Kg2 e2 45. Kf2 Rh1 46. Kg2 e1=Q 47. Bb3 Qg1# 0-1

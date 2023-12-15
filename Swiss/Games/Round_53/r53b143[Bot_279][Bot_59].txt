@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "52"]
+[White "CosmoDMBot (by: CosmoDM)"]
+[Black "Generic Chess Bot #1000000 (by: Anthony)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Insufficient material"]
+
+1. e4 Nf6 2. d4 Nxe4 3. Qe2 f5 4. g4 c5 5. dxc5 Qa5+ 6. c3 Qxc5 7. gxf5 Qxf5 8. Be3 Nd6 9. Bg2 Qg6 10. Bf3 Kd8 11. Bc5 Qf5 12. Bb4 a5 13. Bxd6 exd6 14. Na3 d5 15. Nb1 Bc5 16. Kf1 a4 17. Qd2 Qg6 18. h4 d4 19. cxd4 Bf8 20. Qe2 Qa6 21. Qxa6 Nxa6 22. Ke2 Bd6 23. Bg4 h5 24. Bf5 Nb8 25. Kd3 Rf8 26. Bg6 Rxf2 27. Kc3 Na6 28. a3 Nc7 29. Bxh5 Nb5+ 30. Kc4 Rxb2 31. Bf3 Bg3 32. Nc3 Nxc3 33. Kxc3 Rb3+ 34. Kc4 b5+ 35. Kc5 d6+ 36. Kc6 Ra6+ 37. Kd5 Bb7+ 38. Ke6 Bxf3 39. Nxf3 Rxf3 40. h5 Ra5 41. Rhf1 Re3+ 42. Kf7 Re7+ 43. Kg6 Ra6 44. Kg5 Re4 45. Rf3 Bh4+ 46. Kg6 Bf6 47. Rb1 Rxd4 48. Rxb5 Rg4+ 49. Kf7 Be5 50. Kg8 Bh2 51. Rf7 Kc8 52. Kh8 Rd4 53. Rf8+ Kc7 54. Rg5 Rh4 55. Rf7+ Kb6 56. Rf1 Rf4 57. Rb1+ Kc6 58. Rc1+ Kb6 59. Kxg7 Rh4 60. Rb1+ Kc6 61. Rf5 Rg4+ 62. Kf7 Rb6 63. Rxb6+ Kxb6 64. h6 Rf4 65. Kf6 Rxf5+ 66. Kxf5 Be5 67. Ke6 Kc7 68. Kd5 Bb2 69. Kc4 Bxa3 70. Kb5 Bb2 71. Kxa4 Kc6 72. h7 d5 73. Kb3 Bh8 74. Ka2 Bf6 75. Kb1 d4 76. Kc1 Bg7 77. Kc2 Bh8 78. Kd2 Kb5 79. Kd3 Kb4 80. Kc2 Kc4 81. Kd1 Be5 82. Kc1 Bh8 83. Kc2 Be5 84. Kd2 Bh8 85. Kc1 Be5 86. Kd1 d3 87. h8=N Bxh8 88. Kd2 Bc3+ 89. Ke3 d2 90. Ke4 Bb4 91. Kf4 d1=Q 92. Kg5 Be7+ 93. Kf5 Qg4+ 94. Kxg4 1/2-1/2

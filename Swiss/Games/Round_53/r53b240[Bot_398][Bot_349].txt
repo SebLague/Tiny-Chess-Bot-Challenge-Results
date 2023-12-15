@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "52"]
+[White "ChessGPT (by: DeepGoldenCrown)"]
+[Black "ABot (by: August)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f3 b5 2. Nh3 Nf6 3. b3 a6 4. g3 Ra7 5. Rg1 Nh5 6. b4 f6 7. Nf4 Nxf4 8. gxf4 d5 9. Kf2 Kd7 10. Ke1 Qe8 11. Kf2 Qh5 12. Ke1 Qh4+ 13. Rg3 Qxh2 14. Rg4 Kc6 15. f5 Kb6 16. Rd4 Qg3# 0-1

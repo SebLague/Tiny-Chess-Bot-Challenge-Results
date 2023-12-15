@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "33"]
+[White "BaddieBot (by: Domic)"]
+[Black "BotThatLikesToPlayChess™ (by: Gary Dale)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 c6 2. Bd3 Qa5 3. a3 Kd8 4. c3 Ke8 5. b4 Qd5 6. Be4 Qxe4 7. d3 Qxg2 8. Qf3 Qg5 9. Ne2 Qb5 10. Qe4 Kd8 11. Nd4 Qb6 12. Bb2 Kc7 13. Qf4+ Kd8 14. Qxb8 Rxb8 15. Rg1 Kc7 16. Ke2 Kd6 17. Nf5+ Kd5 18. Nxg7 Kd6 19. Nf5+ Ke5 20. c4+ Kxf5 21. Bxh8 Nf6 22. Nc3 Ke5 23. Na4 Qc7 24. Nc5 Kf5 25. e4+ Kf4 26. Bxf6 exf6 27. Na4 Ke5 28. Rg8 Qd6 29. c5 Qd4 30. f4+ Ke6 31. Re1 Ke7 32. Rf1 Ke8 33. Rxf8+ Kxf8 34. f5 d6 35. cxd6 b5 36. Nc5 Qb2+ 37. Ke3 Qxh2 38. d7 Qh3+ 39. Rf3 Qh6+ 40. Ke2 Kg7 41. dxc8=Q Rxc8 42. Rf1 Kf8 43. Rg1 Qh2+ 44. Kf1 Ke8 45. Rg8+ Ke7 46. Rxc8 Qc2 47. Rxc6 Ke8 48. Rc8+ Ke7 49. e5 Qa2 50. exf6+ Kxf6 51. Ne4+ Ke5 52. Rc5+ Kf4 53. Rxb5 Ke3 54. Rb7 Qh2 55. Rxf7 Qh1# 0-1

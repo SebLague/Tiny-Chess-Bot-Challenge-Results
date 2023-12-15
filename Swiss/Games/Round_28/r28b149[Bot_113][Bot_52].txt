@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "27"]
+[White "taylornpeter_chess_sl (by: taylornpeter)"]
+[Black "SimpleBearSearch (by: PizzasBear)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a4 d5 2. b4 e6 3. Nc3 Bxb4 4. Nb5 Ne7 5. c3 O-O 6. cxb4 Bd7 7. d4 Na6 8. Rb1 Re8 9. Nc3 Nf5 10. e4 Nxb4 11. Rxb4 Qe7 12. Rxb7 Bc6 13. Ba3 Qxa3 14. Rb3 Qxb3 15. Qxb3 Nxd4 16. Qd1 Rab8 17. Qxd4 dxe4 18. Qxa7 Rbc8 19. Qa6 Bxa4 20. Nxe4 Ra8 21. Nf6+ gxf6 22. Qc4 Bd7 23. Qd4 Red8 24. f4 e5 25. fxe5 Bf5 26. Qf4 Bd3 27. Qg4+ Kh8 28. Qd1 Be4 29. Bd3 Rxd3 30. Qb1 Re3+ 31. Kd2 Bxb1 32. Kxe3 fxe5 33. g4 Ra3+ 34. Kd2 Be4 35. Nf3 Bxf3 36. Rc1 Ra2+ 37. Ke3 Bxg4 38. Rxc7 Rxh2 39. Rxf7 Re2+ 40. Kd3 Rg2 41. Ke4 Kg8 42. Rf1 Re2+ 43. Kd3 Rb2 44. Kc3 Rg2 45. Re1 Bf5 46. Rxe5 Bg6 47. Re6 Rg3+ 48. Kb2 Rb3+ 49. Kxb3 Bf7 50. Ka2 Bxe6+ 51. Ka1 Bd5 52. Kb1 Be4+ 53. Ka1 h5 54. Ka2 h4 55. Ka1 h3 56. Ka2 h2 57. Ka1 h1=Q+ 58. Ka2 Qb1+ 59. Ka3 Qc2 60. Kb4 Qd3 61. Ka4 Qd1+ 62. Ka3 Qd2 63. Kb3 Bd5+ 64. Ka4 Qf4+ 65. Ka3 Qc1+ 66. Ka4 Qc6+ 67. Kb4 Qc4+ 68. Ka5 Qc7+ 69. Kb4 Qe5 70. Ka3 Qc3+ 71. Ka4 Bc6# 0-1

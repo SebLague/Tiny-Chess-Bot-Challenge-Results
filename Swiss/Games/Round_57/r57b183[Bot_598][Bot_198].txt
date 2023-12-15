@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "56"]
+[White "WingBot (by: Benjamin Iserman)"]
+[Black "the (not so) wise bot of (not so great) insight (by: TheUnknown1050)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. e4 Nf6 2. Bd3 e5 3. Qf3 Nc6 4. Nc3 Bb4 5. Nh3 Nd4 6. O-O Nxf3+ 7. gxf3 O-O 8. b3 d6 9. Kg2 Bxh3+ 10. Kxh3 Qd7+ 11. Kg2 Rac8 12. h4 d5 13. Kg1 Qh3 14. Rb1 Bxc3 15. dxc3 dxe4 16. Ra1 exd3 17. cxd3 Qxf3 18. Kh2 Ng4+ 19. Kg1 Nf6 20. Kh2 Ng4+ 21. Kg1 Nf6 1/2-1/2

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Knockout 64"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "-1"]
+[White "Ace V1.0.0 (by: Atad)"]
+[Black "NightBot (by: Matthias Kruis)"]
+[Result "1-0"]
+[TimeControl "30+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. c4 c6 3. d4 e6 4. e3 d5 5. Bd3 c5 6. Nc3 dxc4 7. Bxc4 Be7 8. d5 O-O 9. e4 exd5 10. exd5 Bd6 11. O-O Nbd7 12. Bg5 Ne5 13. Nxe5 Bxe5 14. Re1 Qd6 15. Nb5 Qb8 16. d6 Ng4 17. d7 Bxh2+ 18. Kf1 Bxd7 19. Qxd7 Ne5 20. Qd5 Nxc4 21. Qxc4 b6 22. Rad1 Re8 23. g3 Rxe1+ 24. Rxe1 Qb7 25. Nd6 Qf3 26. Bf4 Rf8 27. Nxf7 b5 28. Nh6+ Kh8 29. Qg8+ Rxg8 30. Nf7# 1-0

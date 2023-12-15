@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "Stephanee (by: Elijah Bradshaw)"]
+[Black "Stickleback (by: Brent Mardell)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. f4 exf4 3. h4 Nc6 4. d4 Nxd4 5. Qxd4 Qxh4+ 6. Rxh4 Nf6 7. Bxf4 Be7 8. Bxc7 O-O 9. Bd6 Bxd6 10. Qxd6 Nxe4 11. Rxe4 f5 12. Bc4+ Rf7 13. Re8# 1-0

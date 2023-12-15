@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "46"]
+[White "TalkChess (by: Thomas Jahn, Mike Sherwin, Dmitry Shechtman)"]
+[Black "Sir Checkmates-A-Lot (by: Felix)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e6 2. Nf3 Bb4 3. e4 Bf8 4. d4 Bb4 5. Bd2 Bxc3 6. Bxc3 Nh6 7. Bd3 Kf8 8. O-O Ke8 9. Ne5 Qe7 10. Qf3 Qd6 11. Rad1 Qb6 12. Rfe1 Rf8 13. Qe3 Ng8 14. Qf3 Ne7 15. Qe3 Nbc6 16. Nc4 Nf5 17. exf5 Qb5 18. Ne5 Qd5 19. Bc4 Qd6 20. Qf3 Kd8 21. f6 Re8 22. Nxf7# 1-0

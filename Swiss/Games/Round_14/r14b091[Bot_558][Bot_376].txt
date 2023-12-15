@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "13"]
+[White "ImpossiBot (by: StefanDeSterke)"]
+[Black "OrneryFellow (by: David M. B.)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 e5 2. Rb1 c5 3. Ra1 h5 4. Rb1 f5 5. Ra1 g5 6. Rb1 d5 7. Ra1 a5 8. Rb1 h4 9. d3 f4 10. e4 d4 11. Ra1 g4 12. Be2 Nf6 13. f3 h3 14. Kf1 hxg2+ 15. Kxg2 g3 16. hxg3 Rxh1 17. Nb1 Rh5 18. gxf4 Qc7 19. fxe5 Qg7+ 20. Kf1 Rh1 21. Kf2 Nh5 22. Bf4 Nxf4 23. Qf1 Rxg1 24. Qxg1 Nh3+ 25. Ke1 Qxg1+ 26. Bf1 Qf2+ 27. Kd1 Qxf1+ 28. Kd2 Bh6+ 29. f4 Bxf4# 0-1

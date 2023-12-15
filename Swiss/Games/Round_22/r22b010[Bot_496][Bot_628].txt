@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "21"]
+[White "Ace V1.0.0 (by: Atad)"]
+[Black "King Gᴀᴍʙᴏᴛ Ⅳ (by: ToTheAnd (aka toanth))"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Nf3 e5 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. c3 Nge7 7. Bb5 a6 8. Ba4 d6 9. O-O Qg6 10. Nxc6 Nxc6 11. Bxc6+ bxc6 12. Bxc5 dxc5 13. f4 Rb8 14. f5 Qh6 15. Qc2 Qe3+ 16. Qf2 Qxf2+ 17. Rxf2 Ke7 18. Na3 Kf6 19. Nc4 Kg5 20. Re1 h5 21. Ne5 Re8 22. h4+ Kxh4 23. Nxf7 Kg4 24. e5 h4 25. Re4+ Kh5 26. e6 c4 27. Rf3 Bxe6 28. g4+ hxg3 29. fxe6 Rb5 30. e7 Rxb2 31. Rxg3 Rb5 32. Rxg7 Rd5 33. Re2 Rd1+ 34. Kf2 Rxe7 35. Rxe7 Rd5 36. Re1 Rd2+ 37. Kg3 Rd3+ 38. Kf4 Kh4 39. Rh7# 1-0

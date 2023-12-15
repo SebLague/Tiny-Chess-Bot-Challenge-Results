@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "57"]
+[White "DeepScaredyBot (by: Jacob Sweeten)"]
+[Black "Edbd (by: Ahmad)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. Na3 h5 2. d4 g5 3. Kd2 f5 4. Ke1 e5 5. Rb1 exd4 6. Qd2 d5 7. Qd1 c5 8. Qd3 b5 9. Kd1 1-0

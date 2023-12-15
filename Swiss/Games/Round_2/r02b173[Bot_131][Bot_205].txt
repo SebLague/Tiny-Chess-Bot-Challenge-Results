@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "Cheatos (by: Jeroen)"]
+[Black "vinctus (by: vinctus)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c3 Nc6 2. b3 d5 3. f3 e5 4. Kf2 Bc5+ 5. Ke1 Bf5 6. a3 Bxg1 7. Rxg1 Qh4+ 8. g3 Qxh2 9. e3 Qxg1 10. g4 Bd3 11. Ra2 Qxf1# 0-1

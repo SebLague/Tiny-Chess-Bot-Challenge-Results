@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "Tiny Chess Duck (by: rocketduck_m07)"]
+[Black "RedVallium (by: Piotr Bożek)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 e5 2. Nxe5 Bc5 3. d4 Qh4 4. dxc5 Qxf2+ 5. Kxf2 c6 6. Nc4 b6 7. Nd6+ Ke7 8. Nxc8+ Ke6 9. cxb6 axb6 10. Qd6+ Kf5 11. e4+ Kxe4 12. Bd3# 1-0

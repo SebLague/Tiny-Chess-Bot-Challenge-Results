@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "29"]
+[White "Crazy? I was crazy once. They Locked me in a room. A rubber room. A rubber room with rats. Rats make me crazy. (by: Big red)"]
+[Black "Simple Minimax (by: Sidewinder7)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Na3 e6 2. Rb1 Qh4 3. Ra1 Bxa3 4. bxa3 b5 5. Rb1 Qc4 6. Ra1 Bb7 7. Rb1 Bd5 8. Ra1 e5 9. Rb1 f6 10. Ra1 Qa4 11. Rb1 Qc4 12. Ra1 Qa4 13. Rb1 Qc4 1/2-1/2

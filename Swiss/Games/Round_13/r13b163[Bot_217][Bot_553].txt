@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "12"]
+[White "BOTvinnik (by: Paul Smooth)"]
+[Black "Jack (by: Antonio P)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 h5 2. d4 e6 3. Bf4 Bb4+ 4. c3 Qh4 5. cxb4 Qxf4 6. Qc2 Ke7 7. Qc5+ d6 8. Qxc7+ Bd7 9. Nc3 Nc6 10. b5 Nb4 11. g3 Nc2+ 12. Kd1 Qxf2 13. Nh3 Ne3+ 14. Kc1 Qc2# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Knockout 64"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "-1"]
+[White "Capybara (by: Matěj Fencl)"]
+[Black "Midnight Oil (by: Danny Boy)"]
+[Result "1-0"]
+[TimeControl "30+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Nf3 e5 3. Bb5 a6 4. Ba4 d6 5. O-O Nf6 6. Bxc6+ bxc6 7. Nc3 Qe7 8. Qe2 Bb7 9. d4 O-O-O 10. Bg5 h6 11. Bh4 exd4 12. Nxd4 Re8 13. Nf5 Qe6 14. Rae1 c5 15. Bxf6 Qxf6 16. Qg4 Kb8 17. Ne3 c6 18. Nc4 Kc7 19. Rd1 h5 20. Qh3 Bc8 21. Qd3 Rg8 22. f4 Qg6 23. f5 Qf6 24. h3 g6 25. fxg6 Qxg6 26. Rf2 Be7 27. a4 Rgf8 28. a5 h4 29. Ne2 Rd8 30. Nb6 Bb7 31. Rf5 Rde8 32. c3 Rd8 33. Qf3 Kb8 34. c4 Qg7 35. Nc3 Kc7 36. Rf1 f6 37. Ne2 Rb8 38. Nf4 Qg8 39. Qg4 Bc8 40. Ng6 Rf7 41. Nxc8 Rxc8 42. Rd1 Re8 43. Rf2 Bd8 44. Rfd2 Rd7 45. b3 Qh7 46. Qf5 Qh6 47. Rd3 Be7 48. e5 fxe5 49. Nxe5 Rdd8 50. Nf7 Qf8 51. Qe6 Rb8 52. Rf1 Qg8 53. Rxd6 Bxd6 54. Qxd6+ Kb7 55. Qd7+ Ka8 56. Qxc6+ Ka7 57. Rd1 Qxf7 58. Rd7+ Qxd7 59. Qxd7+ Ka8 60. Qc6+ Ka7 61. Qxc5+ Ka8 62. Qd5+ Rb7 63. c5 Re1+ 64. Kh2 Re8 65. Qd6 Rg8 66. Qxa6+ Kb8 67. c6 Rbg7 68. Qb6+ Kc8 69. Kh1 Rc7 70. a6 Rgg7 71. Qb4 Rg8 72. Qc5 Rf7 73. a7 Kc7 74. Qe5+ Kb6 75. Qb8+ Rxb8 76. axb8=Q+ Kxc6 77. Qe8+ Rd7 78. Qe4+ Rd5 79. Qxh4 Kd6 80. Kh2 Ke5 81. b4 Kd6 82. Qc4 Re5 83. b5 Rc5 84. Qf4+ Kd5 85. Qf7+ Kd4 86. b6 Rb5 87. b7 Rb1 88. Kg3 Rxb7 89. Qxb7 Kc3 90. h4 Kd4 91. Qb5 Kc3 92. h5 Kd4 93. h6 Ke4 94. h7 Ke3 95. h8=Q Kd2 96. Qhb2+ Ke3 97. Q5e2# 1-0

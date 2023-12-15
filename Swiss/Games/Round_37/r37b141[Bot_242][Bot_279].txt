@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "36"]
+[White "SlothBot (by: 0xFF)"]
+[Black "CosmoDMBot (by: CosmoDM)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. Nf3 f6 2. h3 b5 3. e3 a6 4. Be2 Bb7 5. O-O g6 6. d4 c6 7. a4 Bh6 8. axb5 axb5 0-1

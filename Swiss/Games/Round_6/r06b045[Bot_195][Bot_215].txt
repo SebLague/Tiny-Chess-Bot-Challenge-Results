@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "5"]
+[White "YDepth (by: Jerome Engelbrecht)"]
+[Black "gml16 (by: gml16)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. d4 g6 3. g3 Bg7 4. Bg2 O-O 5. c4 c6 6. O-O d5 7. cxd5 cxd5 8. Re1 Re8 9. Nc3 Nc6 10. Bf4 Bf5 11. Ne5 Rc8 12. e3 Ne4 13. Qb3 g5 14. Bxe4 Bxe4 15. Nxc6 bxc6 16. Bxg5 Bf3 17. Qc2 Qd7 18. Qd3 Qh3 19. Qf1 Qf5 20. Bf4 f6 21. h4 e5 22. e4 Qg4 23. Be3 exd4 24. Bxd4 c5 25. Bxc5 Rxc5 26. exd5 Rb8 27. Qd3 f5 28. Qa6 Qh3 29. Qe6+ Kh8 30. Qe8+ Rxe8 31. Rxe8+ Bf8 32. Rxf8+ Kg7 33. Rf7+ Kxf7 34. Rb1 Qh1# 0-1

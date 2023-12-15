@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "12"]
+[White "Phi plays Chess (a.k.a. Zobrist's Golden Hashbrowns) (by: Wolfpack 104)"]
+[Black "Trash LITE (by: kachim2)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a3 c5 2. b3 Nh6 3. b4 a6 4. h3 c4 5. Bb2 Ra7 6. Rh2 b5 7. e3 Qc7 8. h4 Nc6 9. Nc3 Qxh2 10. Nd5 Qxg1 11. Bc3 Ng4 12. Qb1 Nh2 13. f3 Qxf1# 0-1

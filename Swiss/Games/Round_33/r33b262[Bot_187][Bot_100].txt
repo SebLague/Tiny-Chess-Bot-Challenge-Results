@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "32"]
+[White "DrawMachine (by: Rune)"]
+[Black "PrayForMeBot (by: João)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h3 d5 2. e3 Bxh3 3. Rxh3 Nc6 4. f4 Ne5 5. fxe5 f6 6. exf6 Nxf6 7. d4 Kd7 8. Nf3 Rg8 9. Ng5 Kd6 10. Nc3 Ng4 11. Nxh7 Nxe3 12. Rxe3 b5 13. Nxf8 Qxf8 14. Nxb5+ Kc6 15. Rd3 Kxb5 16. Qf3 Rb8 17. Qxd5+ c5 18. dxc5 e6 19. Qxe6 Rb6 20. cxb6 axb6 21. Qg4 Rh8 22. Rb1 Rh3 23. Qxh3 g6 24. Qe6 g5 25. Bxg5 Qb4+ 26. Kd1 Qf8 27. Qe2 Qb4 28. Qf3 Qf8 29. Qxf8 Kc4 30. a3 b5 31. Rd7# 1-0

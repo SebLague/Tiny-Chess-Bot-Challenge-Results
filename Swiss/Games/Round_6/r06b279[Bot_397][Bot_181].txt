@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "5"]
+[White "TinyLispChessBot (by: tr00)"]
+[Black "Greedy-Dumb-Bot (by: TrangML)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Na3 Nf6 2. Nb5 e5 3. Rb1 Ba3 4. bxa3 d6 5. Ra1 Qd7 6. Rb1 Qxb5 7. Rxb5 a6 8. Rb1 Nbd7 9. Rb2 Nb6 10. Rb1 Nfd7 11. Rb2 c5 12. Rb1 a5 13. Rb2 Nc4 14. Rb1 Nxa3 15. Bxa3 Nb6 16. Rxb6 Ke7 17. Qa1 Ke8 18. Rxd6 g5 19. Qxe5+ Kf8 20. Qxc5 Ke7 21. Qe5+ Be6 22. Rxe6+ Kd8 23. Qxh8+ Kc7 24. Re7+ Kc6 25. Qxa8 h5 26. Rxb7 g4 27. Rxf7+ Kb5 28. Kd1 Ka4 29. Bc1 g3 30. hxg3 h4 31. Rxh4+ Kb5 32. Ke1 a4 33. Kd1 Kb6 34. Ke1 a3 35. Kd1 Kb5 36. Ke1 Kc5 37. Kd1 Kb6 38. Ke1 Kb5 39. Kd1 Kb6 40. Ke1 Kb5 41. Kd1 Kb6 1/2-1/2

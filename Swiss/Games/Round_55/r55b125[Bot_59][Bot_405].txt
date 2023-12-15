@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "54"]
+[White "Generic Chess Bot #1000000 (by: Anthony)"]
+[Black "noobot v1 (by: Arshia)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 f6 2. a3 Nc6 3. b4 b6 4. d4 Ba6 5. c3 Bc4 6. Qa4 b5 7. Qc2 Bd5 8. Qf5 Bxf3 9. exf3 a6 10. Qh5+ g6 11. Qd5 e6 12. Qa2 Qe7 13. Qe2 h5 14. Bb2 f5 15. c4 d5 16. cxb5 axb5 17. Qxb5 Qd7 18. g4 Nce7 19. Qb7 Rd8 20. Bb5 Nc6 21. Bxc6 fxg4 22. Qxc7 Qxc6 23. Qxc6+ Kf7 24. fxg4 Kf6 25. Qc7 Bxb4+ 26. axb4 Nh6 27. Qe5+ Ke7 28. Qg7+ Nf7 29. Ra7+ Kd6 30. Qxf7 Kc6 31. Qe7 Kb5 32. Qc5# 1-0

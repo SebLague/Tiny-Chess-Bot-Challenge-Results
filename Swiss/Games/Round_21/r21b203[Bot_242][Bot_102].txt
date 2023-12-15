@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "20"]
+[White "SlothBot (by: 0xFF)"]
+[Black "Single Player (by: Loeka)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 c6 2. d4 Qa5+ 3. Qd2 Qa6 4. Nc3 b6 5. e4 Qb7 6. Bd3 c5 7. dxc5 bxc5 8. O-O Qc7 9. Nd5 Qd6 10. Qf4 e5 11. Nxe5 Qxe5 12. Qxe5+ Kd8 13. Qc7+ Ke8 14. Qxc8# 1-0

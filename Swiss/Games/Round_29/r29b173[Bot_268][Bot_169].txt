@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "28"]
+[White "Captain Botvious (by: Selim Sheta)"]
+[Black "TalkChess (by: Thomas Jahn, Mike Sherwin, Dmitry Shechtman)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. h4 Nf6 3. e5 Nxe5 4. d4 Nc6 5. d5 Ne5 6. Na3 d6 7. Bb5+ Bd7 8. Bxd7+ Qxd7 9. Bg5 O-O-O 10. Bxf6 exf6 11. Ne2 Be7 12. O-O f5 13. h5 Bf6 14. Qb1 Rhe8 15. Ng3 f4 16. Nh1 Kb8 17. g3 f3 18. Qc1 Qf5 19. Re1 Qxh5 20. Nc4 Nxc4 21. Rxe8 Rxe8 22. Qf4 Qxd5 23. Qc1 Bxb2 24. Qf4 Bxa1 25. Qh4 h6 26. g4 Ka8 27. Qg3 Bd4 28. Kf1 Re2 29. Qh4 Rxc2 30. Qd8# 1-0

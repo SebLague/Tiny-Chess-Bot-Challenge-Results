@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "45"]
+[White "Bob (by: Evan Leach)"]
+[Black "BarschBot (by: Bobitsmagic)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Rg1 Nf6 4. Bb5 a6 5. Bd3 Bc5 6. Nc3 d6 7. Na4 Ba7 8. a3 Ng4 9. Rf1 Qf6 10. Ra2 Be6 11. b3 b5 12. Nc3 Rb8 13. Rb2 Ne7 14. h4 Qf4 15. g3 Bxf2+ 16. Ke2 Qxg3 17. Nd5 Nxd5 18. exd5 Bxd5 19. Ng5 Qxh4 20. Nxf7 Bxf7 21. Be4 d5 22. Bg2 Qg3 23. Bf3 Bd4 24. c3 Bc5 25. Qe1 Qxe1+ 26. Rxe1 Nh2 27. Rc2 e4 28. Kd1 Nxf3 29. Rh1 Be6 30. Re1 Nxe1 31. Kxe1 d4 32. cxd4 Bxd4 33. Rxc7 Bxb3 34. Rc6 Kd7 35. Rc3 Bxc3 36. dxc3 Rbc8 37. Bb2 Rhf8 38. c4 Bxc4 39. Bxg7 Rf3 40. Bd4 Be6 41. Bb2 Rc2 42. Bd4 e3 43. Bxe3 Rxe3+ 44. Kd1 Rg2 45. Kc1 Re1# 0-1

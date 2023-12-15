@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "59"]
+[White "HERO-bot (by: ELEMENTLHERO)"]
+[Black "Good Bot Bad Bot (But Really, Both Are Terrible Bots, Also This In The Parenthesis Is Part Of The Name) (by: Legend)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 Nc6 2. b4 Nxb4 3. d3 Nxd3+ 4. Qxd3 Rb8 5. Nf3 c5 6. Bf4 g6 7. Bc7 Qxc7 8. g3 Qxg3 9. Bh3 Qxf2+ 10. Kd2 Qxe2+ 11. Qxe2 h6 12. Bxd7+ Kxd7 13. Qe5 a6 14. Rab1 Kd8 15. h3 Bxh3 16. Qxb8+ Kd7 17. Qe5 Be6 18. Rxb7+ Kc8 19. Qc7# 1-0

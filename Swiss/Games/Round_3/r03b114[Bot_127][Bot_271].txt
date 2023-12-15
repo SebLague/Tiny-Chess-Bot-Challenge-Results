@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "Trash LITE (by: kachim2)"]
+[Black "DoesTheBotNameHasACharacterLimitBecauseIAmSureThisCanGetInterestingAndIAmNotTalkingAboutTheBotIMeanSeriouslyTheBotIsBasicalyUselessButThatWasFunnyThanksSmileyFace (by: zappynou)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 h5 2. c3 Na6 3. Qc2 c5 4. g3 cxd4 5. Qd3 dxc3 6. Nxc3 Rb8 7. Qd5 Ra8 8. Nb5 Qa5+ 9. Qd2 Qxd2+ 10. Bxd2 Kd8 11. Nd4 Kc7 12. Ba5+ Kd6 13. Nb5+ Kc5 14. e4 Kc6 15. Rb1 Kc5 16. Rc1# 1-0

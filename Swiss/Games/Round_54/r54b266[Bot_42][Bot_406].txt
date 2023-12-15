@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "53"]
+[White "dumbot (by: slothinahat)"]
+[Black "GenericBoringbot (by: Kayinth)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Na6 2. Bxa6 Rb8 3. Bxb7 Rxb7 4. Qe2 Rxb2 5. Bxb2 Ba6 6. Qxa6 Qa8 7. Qxa7 Kd8 8. Qxa8# 1-0

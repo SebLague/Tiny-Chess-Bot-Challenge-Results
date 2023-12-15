@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "57"]
+[White "SimpleBot (by: :LMProgramming)"]
+[Black "StevenBot (by: Steven)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. e3 a5 2. Qh5 a4 3. Bb5 b6 4. Nc3 e6 5. Ne4 Be7 6. d4 Bb4+ 7. Kd1 Be7 8. Bd2 Bb7 9. Ke1 Bxe4 10. Kf1 Bxc2 11. Rc1 Be4 12. Ke1 Bxg2 13. Bd3 Bxh1 14. Kf1 d6 15. Qb5+ Kf8 16. Qh5 f6 17. Bb4 Bb7 18. Ke1 Bg2 19. Kd2 Bb7 20. Ba3 Bh1 21. Bb4 Bg2 22. Ba3 Bh1 23. Bb4 Ra7 24. Ba3 Ba8 25. Bb4 Bb7 26. Ba3 Ba8 27. Bb4 Bg2 28. Ba3 Ba8 1/2-1/2

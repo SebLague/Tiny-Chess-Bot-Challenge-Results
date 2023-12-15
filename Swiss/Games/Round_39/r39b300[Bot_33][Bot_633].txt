@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "38"]
+[White "BalanceBot (by: vuT)"]
+[Black "LadyLuckGuidesMyMinMaxSearch (by: MrPelluke)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. h3 f6 2. h4 a6 3. h5 g5 4. hxg6 Bh6 5. Nf3 Bf8 6. Nh2 b6 7. gxh7 f5 8. g3 d5 9. Bg2 Qd6 10. Ng4 Kd8 11. hxg8=Q Bd7 12. Bf1 Ba4 13. Bh3 Rh4 14. Nh6 Kc8 15. Nc3 Kb7 16. Nxd5 Ra7 17. Nf6 Qa3 18. bxa3 Rf4 19. Nh7 e5 20. Rh2 Bxa3 21. Bxa3 Rb4 22. Bxb4 Kc6 23. Bf8 Kd7 24. Bxf5+ Kc6 25. Rh5 Bb3 26. g4 Bxc2 27. g5 Bb3 28. Rh4 a5 29. f4 Bc2 30. Be6 Na6 31. Bf7 b5 32. Rh5 Bb1 33. e4 Nb8 34. Rh4 Rb7 35. Rg4 Bxa2 36. Rg3 Bb3 37. Ng4 a4 38. d4 Be6 39. Bc5 Kd7 40. Ba3 exd4 41. Nhf6+ Kc6 42. Be7 Ba2 43. Kf2 Ra7 44. Qh8 Rb7 45. Rf3 a3 46. g6 Ra7 47. Rg3 Kb6 48. Qe1 Kc6 49. Re3 dxe3+ 50. Kf1 e2+ 51. Kf2 Bb1 52. Be6 Ra5 53. Kf3 Ra8 54. Qh6 Ba2 55. Rb1 b4 56. g7 Kb5 57. Qf2 e1=N+ 58. Qxe1 Kb6 59. Rd1 Bd5 60. Ke2 Bc4+ 61. Kf2 Kc6 62. Ra1 Ra6 63. Kf3 Ra8 64. Qh5 Bd5 65. Bd6 Bxe4+ 66. Ke3 Ra6 67. Rxa3 Rxa3+ 68. Kd4 Ra7 69. Qh3 Bh1 70. Qd2 Na6 71. Bd7+ Kb6 72. Qe2 c5+ 73. Bxc5+ Ka5 74. g8=R Rxd7+ 75. Kc4 Rd4+ 76. Bxd4 Bd5+ 77. Kxd5 Nc7+ 78. Kc5 Na6+ 79. Kc6 Nb8+ 80. Kc5 Nd7+ 81. Nxd7 b3 82. Ngf6 b2 83. f5 b1=B 84. Qef3 Bxf5 85. Ba1 Ka6 86. Rg5 Be4 87. Rg6 Bd3 88. Bb2 Bf1 89. Nb8+ Ka5 90. Rg8 Ka4 91. Kc6 Be2 92. Bc1 Bb5+ 93. Kd5 Bd7 94. Qhg3 Be6+ 95. Kc5 Bg4 96. Qff4+ Ka5 97. Rg6 Bc8 98. Kd4 Bh3 99. Kc5 Bf5 100. Nc6+ Ka6 101. Rg4 Bh7 102. Nxh7 Kb7 103. Kb4 Ka6 104. Qg5 Kb6 105. Qf5 Kb7 106. Kb3 Ka6 107. Kc4 Kb6 108. Re4 Kb7 109. Re2 Ka6 110. Kd5 Kb7 111. Kc4 Kb6 112. Re4 Ka6 113. Rg4 Kb7 114. Kb3 Kb6 115. Rg6 Kb7 116. Rg4 1/2-1/2

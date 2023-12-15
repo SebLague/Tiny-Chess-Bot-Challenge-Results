@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "8"]
+[White "EldenBot (by: Ghost_Dev_84)"]
+[Black "StallerBot (by: Ean)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a3 b5 2. b3 h5 3. c3 a5 4. d3 a4 5. bxa4 bxa4 6. e3 c5 7. f3 c4 8. dxc4 Ra6 9. g3 g5 10. h3 Nh6 11. e4 Rg8 12. f4 g4 13. hxg4 hxg4 14. c5 Ra5 15. c4 Bb7 16. e5 Bxh1 17. f5 Be4 18. Bxh6 Bxh6 19. c6 Nxc6 20. c5 Rxc5 21. e6 d5 22. exf7+ Kxf7 23. f6 Qa8 24. fxe7 Be3 25. e8=Q+ Kxe8 26. Be2 Bxg1 27. Bxg4 Qa5+ 28. Nd2 Bd3 29. Bh5+ Kd8 30. g4 Be3 31. g5 Rc2 32. g6 d4 33. g7 Ne5 34. Be2 Rc7 35. Bxd3 Nxd3+ 36. Kf1 Bxd2 37. Rb1 Nc5 38. Rb8+ Rc8 39. Rxc8+ Kxc8 40. Qxd2 Qxd2 41. Kg1 Re8 42. g8=Q Rxg8+ 43. Kf1 Qd1+ 44. Kf2 Ne4# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "24"]
+[White "Chess Bot (by: M)"]
+[Black "The Terminator (by: Ryan Murphy)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. e4 Nc6 2. Bc4 Ne5 3. Bb5 Nf6 4. d4 Nxe4 5. Be3 a6 6. Be2 e6 7. dxe5 Bb4+ 8. c3 Bc5 9. Bxc5 Nxc5 10. b4 Ne4 11. Bd3 Ng5 12. Nf3 O-O 13. Nbd2 Nxf3+ 14. gxf3 Ra7 15. a4 Ra8 16. Ra3 Ra7 17. Nc4 Ra8 18. h4 Ra7 19. f4 Ra8 20. Rh3 Ra7 21. Qh5 h6 22. Qd1 Ra8 23. Be4 Rb8 24. a5 Ra8 25. h5 Rb8 26. f3 Ra8 27. Ne3 Rb8 28. c4 Ra8 29. Ng4 Rb8 30. Rg3 Kh8 31. Rh3 Kg8 32. Rg3 Kh8 33. Rh3 Kg8 1/2-1/2

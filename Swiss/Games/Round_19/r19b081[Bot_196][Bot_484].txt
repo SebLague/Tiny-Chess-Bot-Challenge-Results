@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "18"]
+[White "ChessButt2 (by: Matt Suhay)"]
+[Black "Zui Bot (by: Zui)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 d5 2. Bf4 Nd7 3. Nc3 c6 4. Qd3 Ngf6 5. Nf3 c5 6. dxc5 Qa5 7. Qb5 Qa6 8. Rd1 e6 9. Qxa6 bxa6 10. c6 Nb6 11. e3 h5 12. Bd3 a5 13. Nb5 Bb4+ 14. c3 Bc5 15. Nc7+ Ke7 16. Kd2 Nc4+ 17. Bxc4 dxc4 18. Nxa8 Nd5 19. Ke2 Nxf4+ 20. exf4 Bd6 21. Nd2 Ba6 22. Ne4 Rd8 23. g3 f6 24. h4 e5 25. Kf3 Bc8 26. fxe5 Bg4+ 27. Kg2 Bxd1 28. exd6+ Ke6 29. Rxd1 Rxa8 30. d7 g5 31. c7 gxh4 32. c8=Q h3+ 33. Kxh3 Rxc8 34. dxc8=Q+ Kf7 35. Qd7+ Kg6 36. Rd6 h4 37. Rxf6+ Kh5 38. Qd1# 1-0

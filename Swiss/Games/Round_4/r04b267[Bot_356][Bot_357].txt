@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "3"]
+[White "AlaskaBot (by: Arttu Halonen)"]
+[Black "Hot Garbage (by: CT424)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 c5 2. Ne5 e6 3. e4 Nc6 4. f4 Nxe5 5. fxe5 h5 6. Be2 g5 7. Bxh5 Rxh5 8. Qxh5 d5 9. Nc3 dxe4 10. Nxe4 b5 11. Nxg5 Qxg5 12. Qxg5 f5 13. Qxg8 a5 14. Qg6+ Kd8 15. Qg5+ Be7 16. Qg8+ Bf8 17. Qxf8+ Kd7 18. Qxc5 f4 19. Qxb5+ Kd8 20. d4 a4 21. Bxf4 a3 22. bxa3 Rxa3 23. Qb6+ Ke8 24. Qb5+ Bd7 25. Qb8+ Bc8 26. Qxc8+ Kf7 27. c4 Rxa2 28. Rxa2 Kg7 29. Qxe6 Kh8 30. d5 Kh7 31. d6 Kh8 32. d7 Kh7 33. d8=Q Kg7 34. Ra7# 1-0

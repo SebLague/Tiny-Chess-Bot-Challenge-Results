@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "9"]
+[White "Turtle (by: Geezmo)"]
+[Black "Failbot (by: deltagiac)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. f4 f6 2. h4 g5 3. b4 a6 4. d4 a5 5. e4 a4 6. g4 a3 7. c4 b6 8. f5 b5 9. h5 c6 10. h6 c5 11. Rh5 Kf7 12. d5 Ke8 13. d6 Kf7 14. dxe7 Ke8 15. exd8=R+ Ke7 16. Rxd7+ Ke8 17. Rb7 Ne7 18. Rd7 Kf7 19. Rb7 Ke8 20. Rd7 Kf7 21. Rb7 Kg8 22. Rd7 Kf7 1/2-1/2

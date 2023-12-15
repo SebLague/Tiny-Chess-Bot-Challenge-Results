@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "12"]
+[White "Basic Bot (by: G0ldSt0ne)"]
+[Black "Trixie (by: ts-manuel)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 Na6 2. Nb5 Nb4 3. Nf3 Nf6 4. Ne5 Ne4 5. Rg1 d6 6. Nd3 Nxd3+ 7. exd3 Nc5 8. Qe2 Be6 9. d4 Na4 10. b3 Nb6 11. Rb1 Bd5 12. Nxd6+ Qxd6 13. Qh5 Qb4 14. Qe5 Kd8 15. a3 Qa5 16. Ra1 Nd7 17. Qf5 g6 18. Qf4 Kc8 19. Rb1 Kb8 20. Ra1 Kc8 21. Ra2 f6 22. Rh1 g5 23. Qf5 e6 24. Qh3 Kb8 25. Rg1 Kc8 26. Ra1 Qa6 27. Bxa6 bxa6 28. Rb1 Bd6 29. Rf1 Bf4 30. Ra1 Kb7 31. Ra2 Kb6 32. Rg1 Kb7 33. Rh1 Bc4 34. bxc4 Kc8 35. Qxe6 Bd6 36. Ra1 Rb8 37. c3 Kd8 38. Ra2 Re8 39. Qxe8+ Kxe8 40. Ra1 Bf4 41. d3 Bd6 42. f3 Rb3 43. Bd2 Bxa3 44. Rd1 Bd6 45. Rc1 Rb2 46. Ra1 Ke7 47. c5 Bxh2 48. Rxh2 Kd8 49. Rxh7 Nf8 50. Rh8 Ke7 51. Bc1 Rc2 52. Kd1 Rxc3 53. Bd2 Rxd3 54. Rxa6 Rxd4 55. Rxa7 Rd7 56. c6 Ng6 57. Rh7+ Kd6 58. cxd7 Kc6 59. d8=Q Kb5 60. Ra5+ Kc4 61. Qd5# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "18"]
+[White "Trash LITE (by: kachim2)"]
+[Black "Pancake (by: EaglePancake)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 g5 2. e3 Nc6 3. Qe2 Nxd4 4. Qh5 Nxc2+ 5. Kd1 Nxe3+ 6. fxe3 g4 7. Bc4 c5 8. Bxf7# 1-0

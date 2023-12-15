@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "23"]
+[White "noobot v1 (by: Arshia)"]
+[Black "Stockbrot (by: Steaky)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 c6 2. Qh5 Qb6 3. Be2 Na6 4. Nf3 Nb4 5. O-O Nxc2 6. Ne5 Nh6 7. Nc4 Qc7 8. Bd1 Nxa1 9. Qe5 Qxe5 10. Nxe5 f6 11. Nc4 e5 12. Nc3 Ke7 13. Re1 g5 14. d3 d5 15. Na5 Kd7 16. Nb3 Nxb3 17. Bxb3 Bb4 18. Rd1 Nf5 19. Ne2 Ng7 20. Ng3 Bc5 21. e4 Ke8 22. exd5 cxd5 23. Kf1 Bg4 24. Re1 Bb4 25. Re3 Rc8 26. Ne2 Bxe2+ 27. Kxe2 Rxc1 28. h3 Nf5 29. Rxe5+ fxe5 30. Ba4+ Ke7 31. f3 Rb1 32. b3 Ng3+ 33. Kf2 Rxb3 34. Bxb3 Nh1+ 35. Kf1 Rc8 36. Kg1 Rc1+ 37. Kh2 d4 38. Bd5 b5 39. Be4 h6 40. Bd5 Nf2 41. Kg3 Nxd3 42. Be4 Nf4 43. Kh2 Ra1 44. Bc6 Rxa2 45. Kh1 Rf2 46. Bxb5 a5 47. g3 Nh5 48. g4 Rxf3 49. gxh5 Rxh3+ 50. Kg1 Rxh5 51. Be2 Rh4 52. Kg2 Bc3 53. Kg1 Bb4 54. Kg2 Kd8 55. Kg1 Bc3 56. Kg2 h5 57. Kg1 Bb4 58. Kg2 Be1 59. Kf1 Bb4 60. Kg2 Bd2 61. Bd1 g4 62. Kg1 d3 63. Kg2 Bc3 64. Kg1 Bd2 65. Kg2 Bc3 66. Kg1 Bd4+ 67. Kg2 e4 68. Kg3 Bf2+ 69. Kxf2 Rh1 70. Bxg4 hxg4 71. Ke3 Re1+ 72. Kd2 Re2+ 73. Kc1 d2+ 74. Kc2 Rf2 75. Kd1 g3 76. Kc2 d1=R+ 77. Kb3 Ke7 78. Kc4 Rb2 79. Kc3 Kd8 80. Kxb2 g2 81. Ka2 Rd2+ 82. Ka3 g1=R 83. Kb3 Rd3+ 84. Kb2 e3 85. Ka2 Ra3+ 86. Kxa3 Rg4 87. Ka2 Rb4 88. Ka1 e2 89. Ka2 e1=R 90. Ka3 Ra1# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "26"]
+[White "simpleval (portmonteau of simple eval) (by: hokurou)"]
+[Black "Single Player (by: Salty Scientist)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 e6 2. h5 Qg5 3. d3 Bb4+ 4. Bd2 Qe5 5. Bxb4 Ne7 6. b3 d6 7. g4 Bd7 8. c4 Na6 9. Bd2 Nb4 10. Bxb4 Bc6 11. Rh3 Kd7 12. a3 Bg2 13. Bxg2 a5 14. Ra2 axb4 15. axb4 Rxa2 16. Bxb7 Rb8 17. Bh1 Qd4 18. f3 Qxg1# 0-1

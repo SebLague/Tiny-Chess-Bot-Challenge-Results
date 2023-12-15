@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "61"]
+[White "GoblinArmy (by: TheChroniclerDelta)"]
+[Black "ScholarsBot (by: magic216)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a4 e5 2. b3 Bc5 3. g4 Qh4 4. e3 Qxf2+ 5. Kxf2 Nh6 6. g5 Rg8 7. a5 b6 8. a6 f5 9. c4 c6 10. gxh6 d6 11. hxg7 Bd4 12. h4 d5 13. h5 Ke7 14. exd4 e4 15. cxd5 Nd7 16. h6 Kd8 17. dxc6 e3+ 18. dxe3 Nb8 19. Be2 Rf8 20. gxf8=Q+ Kc7 21. Qxf5 Bb7 22. axb7 Nxc6 23. Rxa7 Ne5 24. b8=B+ Kc6 25. Qe4# 1-0

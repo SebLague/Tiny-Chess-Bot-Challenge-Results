@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "10"]
+[White "Holy hell (by: Tyler Branscombe & Austin Daniel)"]
+[Black "charge forward v1 (by: steel chair)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g4 h5 2. b4 hxg4 3. h4 Rxh4 4. f4 Rxh1 5. b5 g5 6. fxg5 f5 7. gxf6 exf6 8. Bg2 d5 9. Bxh1 c5 10. bxc6 bxc6 11. Kf1 a5 12. Bf3 gxf3 13. Na3 Bxa3 14. Bxa3 fxe2+ 15. Kg2 exd1=B 16. Rxd1 f5 17. Re1+ Ne7 18. Rxe7+ Qxe7 19. Bxe7 Kxe7 20. Kf3 c5 21. Ne2 f4 22. Nc1 d4 23. c4 dxc3 24. Ke2 cxd2 25. Kd1 dxc1=B 26. Kxc1 c4 27. Kb2 a4 28. Ka3 f3 29. Kb4 c3 30. Kc5 a3 31. Kd4 f2 32. Kc4 f1=B+ 33. Kc5 c2 34. Kb4 c1=B 35. Kb3 Nd7 36. Kc3 Nf6 37. Kc2 Nh5 38. Kxc1 Nf4 39. Kb1 Nh3 40. Kc2 Nf2 41. Kb3 Nh1 42. Kc2 Bd7 43. Kc1 Be6 44. Kd2 Bxa2 45. Kc3 Bb1 46. Kb3 a2 47. Kb4 a1=B 48. Kc5 Ra7 49. Kd5 Ra6 50. Kc5 Ra5+ 51. Kb6 Ra4 52. Kc6 Ra3 53. Kd5 Ra2 54. Kc5 Kf6 55. Kb6 Kg5 56. Kc6 Kh4 57. Kd5 Kh3 58. Kc6 Kh2 59. Kb7 Kg1 60. Kc8 Bg2 61. Kd8 Bf1 62. Kc7 Bh7 63. Kd8 Bg6 64. Kd7 Bh5 65. Kc8 Bg4+ 66. Kb8 Bgh3 67. Kb7 Bhg2+ 68. Kc8 Bd3 69. Kb8 Be2 70. Kc7 Bgf1 71. Kb8 Bd1 72. Kc8 Rg2 73. Kd7 Bb3 74. Kd8 Bc2 75. Kc7 Bd1 76. Kb6 Be5 77. Kb7 Bf4 78. Ka7 Bg3 79. Ka8 Bh2 80. Ka7 Rg5 81. Kb7 Rg4 82. Kb6 Rg3 83. Kc6 Rg2 84. Kb7 Nf2 85. Ka8 Nh1 86. Ka7 Rc2 87. Kb6 Rc1 88. Kb7 Rb1+ 89. Ka8 Bg4 90. Ka7 Bgh3 91. Ka8 Bhg2+ 92. Ka7 Bb8# 0-1

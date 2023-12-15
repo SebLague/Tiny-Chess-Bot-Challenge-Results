@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "62"]
+[White "Funko Bot (by: Sky Sherwood)"]
+[Black "PixelArtist (sort of) (by: Ludovic Debever (Lxdovic))"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. h4 Nc6 2. f4 Rb8 3. a4 Ra8 4. g3 Rb8 5. f5 Nf6 6. Rh2 e6 7. d3 Ra8 8. fxe6 Bc5 9. exd7+ Qxd7 10. Be3 Qxd3 11. Bf2 Ke7 12. a5 Kd6 13. b4 Kd5 14. exd3 Ke5 0-1

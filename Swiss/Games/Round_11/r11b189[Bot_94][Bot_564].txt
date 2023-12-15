@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "10"]
+[White "5KindsOfChessplayers (by: Hulululu)"]
+[Black "Elf-1200 (by: Elliot Throop)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d3 Nc6 2. Kd2 e5 3. Kc3 Bb4+ 4. Kc4 d5+ 5. Kb3 a5 6. Ka4 b5+ 7. Kxb5 Nd4+ 8. Ka4 Qd7# 0-1

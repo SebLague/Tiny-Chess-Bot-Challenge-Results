@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "3"]
+[White "MinimaxAttackerBot5000 (by: ChrisCat123)"]
+[Black "Goldfinch (by: ATG)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 Nc6 2. Nb5 Nf6 3. Rb1 a6 4. Na3 d5 5. Ra1 Bf5 6. Rb1 e5 7. Ra1 Bxa3 8. bxa3 Nd4 9. Rb1 Bxc2 10. Rxb7 Bxd1 11. Kxd1 Ne4 12. Nh3 O-O 13. Rb4 Qf6 14. Rg1 Nxf2+ 15. Nxf2 Qxf2 16. Rh1 Rfd8 17. Ra4 Qf5 18. d3 Qf2 19. Bg5 Re8 20. Kd2 Rab8 21. Rxa6 Rb1 22. Kc3 Qe1+ 23. Bd2 Qxf1 24. Rxf1 Nxe2+ 25. Kc2 Rxf1 26. Kb2 Rf2 27. Ra5 Rxg2 28. Rxd5 Nf4 29. Ra5 Rxd2+ 30. Ka1 Rb8 31. Rc5 Rxa2+ 32. Kxa2 Nxd3 33. Rc2 g6 34. Ka1 c5 35. Ka2 Kg7 36. Ka1 Ra8 37. Rc3 Rd8 38. Ka2 e4 39. Ka1 e3 40. Ka2 e2 41. Rxd3 Rxd3 42. Ka1 Rxa3+ 43. Kb2 Rh3 44. Ka1 e1=Q+ 45. Kb2 Rxh2+ 46. Ka3 Qb4# 0-1

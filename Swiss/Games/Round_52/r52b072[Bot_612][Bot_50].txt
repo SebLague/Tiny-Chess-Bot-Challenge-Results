@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "51"]
+[White "SlowMo (by: Bit!)"]
+[Black "TLMChessBot [v1-1250] (by: Möhrchen (Thilo))"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Nc3 f5 2. d4 e6 3. e4 fxe4 4. Nxe4 d5 5. Qh5+ g6 6. Qe5 Qh4 7. Qxh8 Qxe4+ 8. Kd1 Nc6 9. Qxg8 Qxd4+ 10. Ke1 Qe4+ 11. Kd1 Qd4+ 12. Ke1 Qe4+ 13. Kd1 Qd4+ 1/2-1/2

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "10"]
+[White "Headless Chicken (by: Nat)"]
+[Black "The Seeker (by: Lucas Pellegrinelli)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. e5 Nd7 3. e6 fxe6 4. Qg4 e5 5. Nc3 d4 6. Ne4 Ngf6 7. Nxf6+ Nxf6 8. Qf3 c6 9. Bc4 Bg4 10. Qb3 Qc7 11. h3 Bh5 12. g4 Bg6 13. Nf3 Be4 14. g5 Nd5 15. Rg1 b5 16. Bf1 a5 17. Nh4 a4 18. Qg3 Nb4 19. Bd3 Bxd3 20. cxd3 Nc2+ 21. Kd1 Nxa1 22. Qg4 g6 23. Nf3 h6 24. Qe6 Qd6 25. Qxe5 Qxe5 26. Nxe5 hxg5 27. Rxg5 Rxh3 28. Rg1 c5 29. Nxg6 Rxd3 30. Ne5 Rh3 31. d3 Ra6 32. Bf4 a3 33. bxa3 Rxa3 34. Kc1 Rxa2 35. f3 Nb3+ 36. Kd1 Ra1+ 37. Kc2 Rxg1 38. Kxb3 Rg2 39. Ka3 Bh6 40. Bxh6 Rxh6 41. f4 Rh4 42. Kb3 Rxf4 43. Nc6 Rf3 44. Nb4 cxb4 45. Kxb4 Rg5 46. Ka3 Rg2 47. Kb4 Rb2+ 48. Ka3 Re2 49. Kb4 Re5 50. Ka3 Rxd3+ 51. Kb4 Rd2 52. Ka3 Ree2 53. Kb4 Rb2+ 54. Ka3 b4+ 55. Ka4 d3 56. Kb5 d2 57. Ka6 d1=Q 58. Ka7 b3 59. Kb7 Ra2 60. Kc7 b2 61. Kb7 b1=Q+ 62. Kc6 Qd6# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "41"]
+[White "smol.cs (by: Gediminas Masaitis, Goh CJ)"]
+[Black "NNBot (by: Jamie Whiting)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 d5 2. d4 Nf6 3. Nf3 e6 4. g3 Be7 5. Bg2 O-O 6. O-O c5 7. dxc5 Na6 8. Bg5 h6 9. Bf4 Nxc5 10. Ne5 Re8 11. a4 Nfd7 12. e4 Qb6 13. exd5 Qxb2 14. Nb5 Nxe5 15. Rb1 Qa2 16. Bxe5 exd5 17. Ra1 Qc4 18. Bxd5 Qg4 19. Nc7 Qf5 20. Nxe8 Bd7 21. Nc7 Rd8 22. Re1 Qg6 23. Bxg7 Bg5 24. Bc3 Kh7 25. Qd4 Nxa4 26. Rxa4 Bxa4 27. Qxa4 h5 28. Ne6 Rg8 29. Nxg5+ Qxg5 30. Bxf7 Rd8 31. Re8 Rd1+ 32. Kg2 Rg1+ 33. Kxg1 Qc1+ 34. Kg2 Qh1+ 35. Kxh1 Kh6 36. Qf4+ Kh7 37. Rh8# 1-0

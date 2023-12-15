@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "44"]
+[White "Bob (by: Evan Leach)"]
+[Black "noobot v1 (by: Arshia)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e6 2. Bc4 Qh4 3. d3 Bc5 4. Nh3 f5 5. Bg5 Bxf2+ 6. Ke2 Qg4+ 7. Kxf2 Qxd1 8. Rxd1 h6 9. Bf4 Ne7 10. exf5 Nxf5 11. Bxc7 O-O 12. Nf4 Nc6 13. g4 Nh4 14. Bd6 Rf7 15. b4 Ng6 16. Kg3 Nxf4 17. Bxf4 d5 18. Bb3 Nxb4 19. Bd6 Nc6 20. d4 Na5 21. Bb4 Nxb3 22. axb3 Bd7 23. Nd2 Kh7 24. c4 dxc4 25. Nxc4 Bc6 26. Ne5 Be8 27. Nxf7 Bxf7 28. Kg2 Bg6 29. Kf1 Bc2 30. Rdc1 Bxb3 31. Ra3 Bd5 32. Kf2 Be4 33. Rc7 Bg6 34. Rxb7 Rc8 35. Raxa7 Rc2+ 36. Ke3 Be8 37. Rxg7+ Kh8 38. Rh7+ Kg8 39. Rag7# 1-0

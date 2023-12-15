@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "38"]
+[White "HikuBot (by: Hikushii)"]
+[Black "YDepth (by: Jerome Engelbrecht)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. Bc4 Bc5 5. O-O O-O 6. d3 b6 7. Nd5 Bb7 8. c3 Re8 9. Ng5 Rf8 10. Nf3 Bd6 11. Bg5 Na5 12. Nh4 Nxc4 13. Bxf6 gxf6 14. dxc4 Re8 15. Qg4+ Kh8 16. Nf5 Bf8 17. Qh4 Re6 18. Qh5 c6 19. Nde3 c5 20. Nd5 Ba6 21. b3 b5 22. cxb5 Bxb5 23. Rfe1 Kg8 24. Re3 c4 25. Rg3+ Kh8 26. Qxf7 Bh6 27. Nxh6 Qf8 28. Qh5 f5 29. Nf7+ Qxf7 30. Qxf7 Rg6 31. Nf6 cxb3 32. Qxh7# 1-0

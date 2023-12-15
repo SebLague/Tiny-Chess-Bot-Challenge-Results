@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "39"]
+[White "RP Bot (by: Matt Enad (RobProductions))"]
+[Black "KnightToE4 (by: Tree)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 e6 2. e4 Be7 3. e5 Nc6 4. Nf3 Bb4+ 5. Ke2 Nge7 6. c4 O-O 7. Kd3 Ng6 8. Kc2 h5 9. Kb3 Ba5 10. c5 Re8 11. Kc2 Rf8 12. Kd3 h4 13. Ke2 Kh7 14. g3 hxg3 15. hxg3+ Kg8 16. Kd3 b6 17. Kc2 bxc5 18. dxc5 Ngxe5 19. Nxe5 Nxe5 20. Qh5 f6 21. f4 Nc6 22. Kd1 Nd4 23. Rh2 Bb7 24. Qh7+ Kf7 25. Rf2 Qe7 26. Qh5+ Kg8 27. Qh2 Bf3+ 28. Rxf3 Nxf3 29. Qc2 Ne1 30. Qf2 Rad8 31. Nc3 Bxc3 32. bxc3 Nf3 33. c4 Nh2 34. Be2 a5 35. Ke1 f5 36. Qxh2 Rde8 37. Qf2 Rb8 38. Ba3 Rbd8 39. Kd1 Rf7 40. Kc1 a4 41. Kd1 Rb8 42. Kc2 g6 43. Kd1 Rf6 44. Ke1 Rf7 45. Kf1 Re8 46. Kg1 Rb8 47. Kh1 Qf6 48. Rc1 Qd8 49. Bd1 Ra8 50. Kg1 Kh7 51. Qh2+ Kg7 52. Qb2+ Kh7 53. Kf1 Ra5 54. Qd2 Qa8 55. Qh2+ Kg7 56. Bb2+ e5 57. Bxe5+ Kf8 58. Qh6+ Ke8 59. Bd4 a3 60. Qh8+ Rf8 61. Qe5+ Kd8 62. Kg1 Qc6 63. Kh2 Ra8 64. Kh3 Qh1# 0-1

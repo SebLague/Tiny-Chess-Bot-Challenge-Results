@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "33"]
+[White "Chessica (by: Nicky Kitchingman)"]
+[Black "simpleval (portmonteau of simple eval) (by: hokurou)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. a3 h5 2. b3 g5 3. Ra2 f5 4. c3 e5 5. d3 g4 6. g3 d5 7. a4 c5 8. f3 a5 9. f4 b6 10. e3 Ne7 11. h4 Nd7 12. Kd2 Ng8 13. Ke1 Ne7 14. Ke2 Ng8 15. Ke1 Ne7 16. Kf2 Ng8 17. Ke1 1/2-1/2

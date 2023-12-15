@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "35"]
+[White "The Peaceful King (by: Sam Lefforge)"]
+[Black "DD9's chess bot (by: DigestDig9)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c4 e5 2. a3 e4 3. e3 Bc5 4. Ke2 Bxe3 5. Ke1 Bxd2+ 6. Ke2 Bxc1 7. Ke1 Bxb2 8. Kd2 Bd4 9. Ke1 Bc5 10. Kd2 Bxa3 11. Ke3 Bb4 12. Kf4 Bc5 13. Ke5 Bb6 14. Kf5 Bc5 15. Ke5 Bb4 16. Kd4 Bd6 17. Ke3 Bc5+ 18. Kf4 Bb4 19. Kg3 Bc5 20. Kh3 Bxf2 21. Kg4 Be3 22. Kg3 Bc5 23. Kf4 Bb4 24. Ke5 Bc5 25. Kf4 Bb6 26. Kg4 Be3 27. Kh3 Bf4 28. Kg4 Be5 29. Kh5 Bf6 30. Kg4 Bb2 31. Kf5 Bxa1 32. Kg4 Be5 33. Kh5 Bf4 34. Kg4 Be3 35. Kh5 Qg5# 0-1

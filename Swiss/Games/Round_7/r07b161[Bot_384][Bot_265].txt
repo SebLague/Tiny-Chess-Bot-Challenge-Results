@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "6"]
+[White "Baloo-D (by: Dimitri)"]
+[Black "SimpleBot (by: Tim Zollner)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. e4 e6 2. h4 Nf6 3. e5 Ng8 4. c3 Ne7 5. h5 g6 6. hxg6 fxg6 7. Qa4 Bg7 8. Qe4 Nbc6 9. d4 d5 10. exd6 cxd6 11. Nf3 d5 12. Qe3 Nf5 13. Qd3 1-0

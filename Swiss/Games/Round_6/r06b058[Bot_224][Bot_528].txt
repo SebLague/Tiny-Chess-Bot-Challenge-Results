@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "5"]
+[White "RP Bot (by: Matt Enad (RobProductions))"]
+[Black "farindk (by: Dirk Farin)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 e6 2. e4 Nc6 3. Nf3 Qf6 4. c3 Qg6 5. Qd3 Bd6 6. c4 Nf6 7. d5 Nb4 8. Qe2 Qxe4 9. Qxe4 Nxe4 10. Nd4 e5 11. f3 exd4 12. Na3 Nc5 13. Kd1 Ncd3 14. Ke2 Nxc1+ 15. Rxc1 d3+ 16. Kf2 Bc5+ 17. Kg3 d2 18. Rd1 c6 19. Rxd2 Nxa2 20. dxc6 dxc6 21. Re2+ Be6 22. f4 O-O-O 23. Re5 Bd4 24. Rxe6 fxe6 25. Kf3 Bxb2 26. Nb5 cxb5 27. Ke2 Nc3+ 28. Kf2 Rd1 29. cxb5 Rf8 30. Ke3 Bc1+ 31. Kf3 Rxf4+ 32. Kg3 Ne4+ 33. Kh3 Nf2+ 34. Kg3 Nxh1+ 35. Kh3 Nf2+ 36. Kg3 Rxf1 37. h3 Rh1 38. h4 Ne4# 0-1

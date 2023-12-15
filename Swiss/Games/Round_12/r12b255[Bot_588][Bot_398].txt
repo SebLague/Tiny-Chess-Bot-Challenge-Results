@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "11"]
+[White "Mobilibot (by: Gabriel N.)"]
+[Black "ChessGPT (by: DeepGoldenCrown)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d6 2. Bb5+ Bd7 3. Qh5 Bxb5 4. Qxb5+ Nc6 5. d4 a5 6. Bg5 b6 7. Qxc6+ Qd7 8. Qxa8+ Qc8 9. Qxc8# 1-0

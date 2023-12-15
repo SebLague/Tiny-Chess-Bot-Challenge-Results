@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "35"]
+[White "Robérto (by: Nia)"]
+[Black "tybot (by: Tylyr1)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 f6 2. c3 d5 3. Qc2 Qd6 4. b3 Bg4 5. h3 Bxf3 6. gxf3 Nd7 7. d3 d4 8. Na3 Qc5 9. cxd4 Qxd4 10. Qc4 Qxa1 11. Kd2 Qxa2+ 12. Ke3 g6 13. Nb5 Bh6+ 14. f4 Bxf4+ 15. Kxf4 Kf8 16. Bg2 Qxe2 17. Be3 Ne5 18. Qe6 Qxd3 19. Ra1 Qxb5 20. h4 g5+ 21. hxg5 Qd7 22. Qxd7 Nxd7 23. Be4 e5+ 24. Kf5 Kg7 25. Rd1 Nb8 26. gxf6+ Kf7 27. Bd5+ Kf8 28. Bc5+ Ne7+ 29. Bxe7+ Ke8 30. Bf3 Nc6 31. Bh5# 1-0

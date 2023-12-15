@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "46"]
+[White "holcak-bot (by: Petr Holčák)"]
+[Black "C++IsBetterThanC# (by: Samo)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. h4 a5 2. g4 a4 3. f4 b5 4. e4 b4 5. d4 d5 6. g5 dxe4 7. c4 bxc3 8. bxc3 f5 9. h5 Be6 10. a3 Bd5 11. Nh3 e3 12. Rh2 Bb3 13. Qf3 Bd5 14. Qxe3 Be4 15. Nd2 Bd5 16. Nf2 Bc6 17. d5 Bxd5 18. Nh3 Bc6 19. Nc4 Be4 20. Ne5 Bd5 21. Nd3 Be4 22. Ne5 Bd5 23. Nd3 Be4 24. Ne5 1/2-1/2

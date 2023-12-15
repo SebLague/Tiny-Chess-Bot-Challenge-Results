@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "63"]
+[White "MattWBot (by: Matt W)"]
+[Black "LesMoutons (by: Beaud Rémi and Mechulam Antoine)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 e6 2. Nc3 Bb4 3. Bd2 Qh4 4. e3 Nc6 5. Nf3 Qg4 6. Rb1 Nf6 7. h3 Qf5 8. Bd3 Qh5 9. Nb5 Bxd2+ 10. Qxd2 O-O 11. O-O Re8 12. e4 a6 13. Nxc7 Nxe4 14. Bxe4 Qh6 15. Qxh6 gxh6 16. Nxe8 d5 17. Bd3 Kf8 18. Nd6 Kg7 19. a3 h5 20. Ne8+ Kf8 21. Nf6 h6 22. Nxh5 e5 23. dxe5 Be6 24. Rbd1 Ke7 25. Ne1 Nxe5 26. Nf4 Bd7 27. Nxd5+ Kd8 28. Nb6 Rb8 29. Bf5 Ke7 30. Nxd7 Rd8 31. Nf3 Nxd7 32. Rfe1+ Kf6 33. Bxd7 Ra8 34. Be8 Rc8 35. Rd7 Rb8 36. Rxf7+ Kg6 37. Re6+ Kh5 38. Rf5# 1-0

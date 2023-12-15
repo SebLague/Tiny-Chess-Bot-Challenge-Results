@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "52"]
+[White "Sleepy panda bot (by: Quinten F)"]
+[Black "Elf-1200 (by: Elliot Throop)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 d5 2. f3 Bf5 3. Qd2 Nc6 4. Qg5 Nxd4 5. Qxe7+ Qxe7 6. c3 Qh4+ 7. Kd1 Bc2+ 8. Kd2 Qf4+ 9. e3 Qh4 10. Bb5+ Nxb5 11. Ne2 Bf5 12. f4 Bc5 13. b4 Bxe3+ 14. Kxe3 Nf6 15. Na3 d4+ 16. Nxd4 Nd5+ 17. Ke2 Ndxc3+ 18. Ke3 Nd5+ 19. Ke2 Nxd4+ 20. Kd1 Qg4+ 21. Kd2 Qe2# 0-1

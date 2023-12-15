@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "19"]
+[White "AlaskaBot (by: Arttu Halonen)"]
+[Black "simpleval (portmonteau of simple eval) (by: hokurou)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 h5 2. Ne5 d6 3. Nd3 g5 4. e4 h4 5. Be2 b5 6. Nc3 a5 7. Nxb5 c6 8. Nd4 f6 9. f4 a4 10. fxg5 fxg5 11. e5 d5 12. e6 Nh6 13. Ne5 c5 14. Bh5+ Nf7 15. Bxf7# 1-0

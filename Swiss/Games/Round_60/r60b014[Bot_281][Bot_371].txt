@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "59"]
+[White "timecat-mini (by: Gourab Ghosh)"]
+[Black "Onion (by: Nathan Woloshyn)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. exd5 Nf6 3. Bb5+ Nbd7 4. Nc3 a6 5. Bxd7+ Qxd7 6. Qf3 b5 7. d6 c6 8. dxe7 Bxe7 9. Nge2 Bb7 10. O-O c5 11. Qg3 b4 12. Nd1 O-O 13. d3 Rfe8 14. Ne3 Bd6 15. Qh4 Qc6 16. f3 Nd5 17. Nxd5 Qxd5 18. Re1 Rac8 19. a3 c4 20. d4 bxa3 21. bxa3 c3 22. Qf2 Bc6 23. Nxc3 Rxe1+ 24. Qxe1 Qxd4+ 25. Be3 Qe5 26. f4 Qf6 27. Qd2 Be8 28. Bd4 Bxf4 29. Qd3 Qd6 30. h3 Be5 31. Ne2 Rxc2 32. Kh1 Rxe2 33. Qxe2 Qxd4 34. Re1 f6 35. Qxa6 Qf4 36. Kg1 Qh2+ 37. Kf1 Qh1+ 38. Kf2 Bd4+ 39. Re3 Bxe3+ 40. Kxe3 Qxg2 41. Qc4+ Kh8 42. Qc8 Qg3+ 43. Kd2 Qe5 44. h4 g6 45. Kd3 Kg7 46. Qb7+ Kh6 47. Qb6 Kh5 48. Qb4 Bc6 49. Qd4 Qxd4+ 50. Kxd4 Kxh4 51. Kc5 Ba4 52. Kb4 g5 53. Ka5 g4 54. Kxa4 g3 55. Kb4 g2 56. a4 g1=Q 57. a5 Qb1+ 58. Kc5 Qb7 59. Kc4 Qc6+ 60. Kb4 Qa6 61. Ka4 Qc4+ 62. Ka3 Kg3 63. Kb2 Qb4+ 64. Kc2 Qxa5 65. Kd3 Qd5+ 66. Kc3 h5 67. Kb4 h4 68. Kc3 h3 69. Kc2 h2 70. Kc3 h1=Q 71. Kb2 Qd3 72. Ka2 Qhb1# 0-1

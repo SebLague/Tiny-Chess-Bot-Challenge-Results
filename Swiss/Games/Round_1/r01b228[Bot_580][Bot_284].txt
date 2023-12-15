@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "Tyrant's V9 (by: Tyrant)"]
+[Black "Arctiform's Bot (by: Arctiform)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 d5 2. d4 c6 3. e3 f5 4. c4 g6 5. cxd5 cxd5 6. Bb5+ Kf7 7. Ne5+ Ke6 8. Nc3 Qa5 9. Bd2 g5 10. Nxd5 Qxb5 11. Nc7+ Kf6 12. Nxb5 a6 13. Nc7 Ra7 14. Ne8+ Ke6 15. Qb3# 1-0

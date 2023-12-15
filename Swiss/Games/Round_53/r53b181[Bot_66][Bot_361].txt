@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "52"]
+[White "CapivaraBot (by: Danilo Luiz Rheinheimer)"]
+[Black "Thulium (by: Valentin POQUET)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 d6 2. f4 Bg4 3. d4 Qd7 4. c4 Qd8 5. b4 Qd7 6. a4 Qd8 7. h5 Qd7 8. d5 Qd8 9. c5 dxc5 10. bxc5 Qd7 11. a5 Qd8 12. g3 Qd7 13. Nf3 Bxf3 14. exf3 Qf5 15. g4 Qf6 16. Bb5+ c6 17. Bxc6+ bxc6 18. Qa4 Nd7 19. dxc6 Nxc5 20. g5 Nxa4 21. gxf6 Nc5 22. fxg7 Bxg7 23. c7 Bxa1 24. h6 Ne6 25. Bb2 Bxb2 26. Rh2 Ba1 27. Rc2 Nxf4 28. c8=R+ Rxc8 29. Rxc8+ Kd7 30. Ra8 Nxh6 31. Rxa7+ Kd8 32. a6 e6 33. Na3 f6 34. Nb5 Re8 35. Rxh7 Nf5 36. a7 Be5 37. a8=Q+ Bb8 38. Qxb8# 1-0

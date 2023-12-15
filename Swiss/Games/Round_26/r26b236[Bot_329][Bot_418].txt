@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "25"]
+[White "Whatevs (by: KingPRS)"]
+[Black "Wee fella (by: Samm)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d3 d5 2. f3 e5 3. g4 d4 4. c4 Bb4+ 5. Bd2 Qh4# 0-1

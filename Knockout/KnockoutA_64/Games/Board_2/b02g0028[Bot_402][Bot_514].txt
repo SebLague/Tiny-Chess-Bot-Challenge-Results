@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Knockout 64"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "-1"]
+[White "Lxna (V4) (by: Ludovic Debever (Lxdovic))"]
+[Black "smol.cs (by: Gediminas Masaitis, Goh CJ)"]
+[Result "0-1"]
+[TimeControl "30+0.1"]
+[Termination "Checkmate"]
+
+1. d4 d5 2. Bf4 c5 3. e3 Nc6 4. Nf3 Bg4 5. c3 e6 6. Be2 cxd4 7. Nxd4 Bxe2 8. Qxe2 Nf6 9. O-O Bd6 10. Bxd6 Qxd6 11. Na3 Nxd4 12. exd4 O-O 13. Rfe1 Rac8 14. Qe5 Qb6 15. Rab1 Ne4 16. Qf4 Qa5 17. f3 Nxc3 18. bxc3 Qxa3 19. Rxb7 Qxc3 20. Rd1 a5 21. Ra7 a4 22. h3 Qb2 23. Re7 a3 24. Re1 Qxa2 25. Rb7 Rc2 26. Qg4 Qc4 27. Qf4 a2 28. Rb8 Qc3 29. Rxf8+ Kxf8 30. Qd6+ Ke8 31. Qb8+ Ke7 32. Qg3 a1=Q 33. Qh4+ Ke8 34. Rxa1 Qxa1+ 35. Kh2 Qb2 36. Qg4 g6 37. h4 h5 38. Qg3 Qxd4 39. Kh3 Qg1 40. Qb8+ Ke7 41. Qb4+ Kf6 42. Qf4+ Kg7 43. Qh2 Qxh2+ 44. Kxh2 d4 45. Kg1 d3 46. Kf1 Rc1+ 47. Kf2 d2 48. Kg3 d1=Q 49. f4 Rc2 50. Kh2 Qg4 51. f5 Qxg2# 0-1

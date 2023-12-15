@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "King Gᴀᴍʙᴏᴛ Ⅳ (by: ToTheAnd (aka toanth))"]
+[Black "MyFirstChessEngine (by: Jake Forsey)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nc6 2. d4 e6 3. e4 Bb4+ 4. Ke2 Nf6 5. e5 Nd5 6. c4 Nb6 7. c5 Nc4 8. Kd3 Nxb2+ 9. Bxb2 Ba5 10. Ba3 Nb4+ 11. Bxb4 Bxb4 12. Qa4 a5 13. a3 b6 14. axb4 Ba6+ 15. b5 Bb7 16. c6 dxc6 17. bxc6 Ba6+ 18. Ke3 Bxf1 19. Rxf1 f6 20. Nc3 Ke7 21. Rad1 Rb8 22. d5 Qc8 23. d6+ cxd6 24. exd6+ Kf7 25. c7 Kf8 26. cxb8=Q Qxb8 27. Qd7 Qe8 28. Qc7 f5 29. d7 Qe7 30. d8=Q+ Kf7 31. Ne5+ Kf6 32. Qdxe7# 1-0

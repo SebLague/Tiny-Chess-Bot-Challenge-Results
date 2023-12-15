@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "10"]
+[White "Metis (by: krox)"]
+[Black "CompressionBot (by: Nathan George)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. e3 Nf6 2. Qf3 d5 3. Nc3 Bg4 4. Qg3 e6 5. Bd3 Bd6 6. f4 O-O 7. b3 Na6 8. h3 Bf5 9. Bxa6 bxa6 10. d3 Re8 11. Bb2 Nh5 12. Qf2 d4 13. exd4 Nxf4 14. g3 Nd5 15. g4 Nxc3 16. Bxc3 e5 17. Kf1 Be6 18. dxe5 Bd5 19. exd6 Bxh1 20. Qd4 Qf6+ 21. Qxf6 gxf6 22. dxc7 Re7 23. Bxf6 Rxc7 24. c4 Re8 25. Kf2 Bb7 26. Ne2 Rc6 27. g5 Rce6 28. Nf4 Re3 29. Rf1 Bc6 0-1

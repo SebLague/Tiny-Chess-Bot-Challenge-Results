@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "7"]
+[White "HubertusChess (by: Oristur)"]
+[Black "BasicAlphaBeta (by: ThonyDragon)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 c5 2. Qg4 Nf6 3. Qf4 e6 4. Nc3 h5 5. Rb1 Be7 6. Bd3 Qb6 7. Nf3 Kf8 8. Ne5 Bd6 9. Kf1 Qc7 10. Nb5 Qb6 11. Nxd6 Qa5 12. Nexf7 Qxa2 13. Ke2 e5 14. Qc4 Qxb1 15. Nxh8 Ke7 16. Nxc8+ Ke8 17. Qf7+ Kd8 18. Qxg7 Kxc8 19. Qxf6 c4 20. Qf8+ Kc7 21. Be4 d6 22. Nf7 Kb6 23. Nxd6 a6 24. Qd8+ Kc5 25. Nxb7+ Kb5 26. Qa5# 1-0

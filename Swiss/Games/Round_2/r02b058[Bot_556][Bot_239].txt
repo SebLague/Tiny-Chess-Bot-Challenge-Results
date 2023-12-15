@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "Knightmare v2 (by: Default/IHasBone)"]
+[Black "LetMeAlive (by: MrQui)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 h5 2. e4 g5 3. d4 g4 4. Bc4 Rh7 5. h3 gxh3 6. Nxh3 e5 7. Bg5 Be7 8. Bxe7 Nxe7 9. dxe5 Nec6 10. e6 fxe6 11. g3 Rh6 12. Nf4 h4 13. Qg4 Kf7 14. Nh5 Qf8 15. Rxh4 Rh8 16. Qf4+ Ke8 17. Qxc7 Na6 18. Bxa6 bxa6 19. Rf4 Qb4 20. Ng7+ Ke7 21. e5 Rh1+ 22. Kd2 Qxf4+ 23. gxf4 Rxa1 24. f5 exf5 25. Qd6+ Kf7 26. Qf6+ Kg8 27. Nxf5 Rg1 28. Ne2 Rg2 29. Nd6 Rg7 30. a3 a5 31. Nf5 Rg2 32. Nf4 Rg1 33. Ng6 Rxg6 34. Qxg6+ Kf8 35. Qf6+ Kg8 36. Qg7# 1-0

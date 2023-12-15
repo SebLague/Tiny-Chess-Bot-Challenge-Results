@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "54"]
+[White "Greedy-Dumb-Bot (by: TrangML)"]
+[Black "Stickleback (by: Brent Mardell)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c3 d5 2. Qa4+ Nc6 3. Qg4 Bxg4 4. Kd1 e5 5. Nh3 Nf6 6. Rg1 Ne4 7. a4 Nxf2+ 8. Nxf2 Be6 9. Ng4 Bxg4 10. h3 Be6 11. e3 e4 12. b3 Bc5 13. Bb2 O-O 14. Kc2 Qh4 15. Bb5 Qf2 16. c4 Qxg1 17. Ra3 dxc4 18. h4 cxb3+ 19. Rxb3 Bxb3+ 20. Kxb3 Ne5 21. Kc2 Qxg2 22. Na3 Qxd2+ 23. Kxd2 Bxe3+ 24. Kc2 Nf3 25. Bd4 Nxd4+ 26. Kb2 c5 27. Be8 Rfxe8 28. Kc3 Nf3 29. Kc2 Nxh4 30. Nb5 Nf3 31. a5 a6 32. Na3 Nd4+ 33. Kc3 Nf3 34. Nc4 Bf4 35. Nd2 Bxd2+ 36. Kc2 Bxa5 37. Kb2 e3 38. Ka3 Bd2 39. Kb2 e2 40. Ka3 e1=Q 41. Kb3 c4+ 42. Kc2 Qc1# 0-1

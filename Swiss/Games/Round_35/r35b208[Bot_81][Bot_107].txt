@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "34"]
+[White "Paroch (by: Bronson)"]
+[Black "Crazy? I was crazy once. They Locked me in a room. A rubber room. A rubber room with rats. Rats make me crazy. (by: Big red)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. b3 Nf6 3. a3 Nxe4 4. d3 Nc5 5. d4 Ne4 6. f4 a5 7. d5 f5 8. Qh5+ g6 9. Qh3 Bg7 10. Ra2 Kf7 11. c4 Qe8 12. a4 Qd8 13. dxc6 bxc6 14. g4 Qe8 15. gxf5 Qd8 16. fxg6+ Kxg6 17. f5+ Kf6 18. Bb2+ Kg5 19. Bxg7 Qe8 20. Rg2+ Ng3 21. Rxg3+ Kf4 22. Qg4# 1-0

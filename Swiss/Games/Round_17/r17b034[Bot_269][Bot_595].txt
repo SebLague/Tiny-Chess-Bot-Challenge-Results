@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "16"]
+[White "AugsBot (by: Augs)"]
+[Black "myte (by: sparemind)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nc6 2. e4 e5 3. Nc3 Nf6 4. Nd5 Nxe4 5. Qe2 f5 6. d3 Nf6 7. Nxe5 Nd4 8. Nxf6+ Qxf6 9. Ng4+ Qe7 10. Qxe7+ Bxe7 11. Ne3 f4 12. Nd5 Bd6 13. Rb1 O-O 14. c3 Ne6 15. Nb4 b6 16. Be2 Bb7 17. O-O c5 18. Nc2 Rae8 19. Bd2 Bd5 20. c4 f3 21. gxf3 Bxf3 22. Rfe1 Rf6 23. Bxf3 Rxf3 24. Be3 Rh3 25. d4 cxd4 26. Nxd4 Nxd4 27. Bxd4 Rxe1+ 28. Rxe1 Rh4 29. Rd1 Bxh2+ 30. Kg2 d6 31. Kf3 Kf7 32. a4 Ke6 33. Bxg7 Rxc4 34. Rh1 Rf4+ 35. Ke3 Rh4 36. Kf3 Bg3 37. Rxh4 Bxh4 38. b4 Kd5 39. Bc3 Kc4 40. Be1 Bf6 41. Ke4 d5+ 42. Kf5 Be7 43. a5 b5 44. a6 Bxb4 45. f4 Bxe1 46. Kg4 b4 47. Kf3 b3 48. Ke2 b2 49. Kxe1 b1=Q+ 50. Kf2 Qc2+ 51. Kg3 d4 52. Kg4 d3 53. Kg3 d2 54. f5 d1=Q 55. f6 Qg6+ 56. Kf4 Qgg4+ 57. Ke3 Qde2# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "5"]
+[White "Nathe-Bot (by: NatheSpike)"]
+[Black "NostradamusChessNN (by: _Mus)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. c4 Nf6 5. Nf3 Bg4 6. Be2 Rg8 7. O-O Nc6 8. Be3 Rc8 9. h3 Bxf3 10. Bxf3 g6 11. Qa4 Qd7 12. Nd2 e6 13. Nb3 h5 14. Rfd1 Be7 15. Nc5 Bxc5 16. dxc5 Qe7 17. Bxc6+ bxc6 18. Qxc6+ Nd7 19. Bg5 f6 20. Bxf6 Qf7 21. Rd3 Kf8 22. Qxd7 Re8 23. Qd4 Rb8 24. Rf3 Ke8 25. Rd1 Qh7 26. Bg5 Rc8 27. Qd8+ Rxd8 28. Rxd8# 1-0

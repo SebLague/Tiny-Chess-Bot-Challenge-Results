@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "22"]
+[White "MyFirstChessEngine (by: Jake Forsey)"]
+[Black "R2D2 (by: Andrei Taropa)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 d5 2. e3 e5 3. Bb5+ c6 4. Qh5 cxb5 5. Qxe5+ Be6 6. Nxb5 Nc6 7. Nc7+ Kd7 8. Nxe6 fxe6 9. Qf4 Nb4 10. Kd1 Qa5 11. Qf7+ Ne7 12. Nf3 Nxa2 13. Ne5+ Kd6 14. Qf4 Nc3+ 15. dxc3 Qxa1 16. Qb4+ Kc7 17. Qb5 Rc8 18. Qd7+ Kb8 19. Qd6+ Ka8 20. Nd7 Qa6 21. Qxa6 bxa6 22. Bd2 Nc6 23. Nxf8 Rcxf8 24. Ke1 Ne5 25. Kf1 Rf6 26. e4 dxe4 27. Ke2 Nc4 28. Be3 Nxb2 29. Ra1 e5 30. Ra2 Rb8 31. Bc1 Nc4 32. Ra4 Rc8 33. Kf1 e3 34. f4 Rxf4+ 35. Ke1 Rcf8 36. Ke2 Rf2+ 37. Kd1 e2+ 38. Ke1 Rxg2 39. Bf4 Rxf4 40. Rxc4 Rf1+ 41. Kd2 e1=R+ 42. Kd3 Rf3# 0-1

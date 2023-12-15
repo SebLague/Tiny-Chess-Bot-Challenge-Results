@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "49"]
+[White "EvilerBot (by: Noah)"]
+[Black "Just Alright... Kinda... (JAK) (by: Joshnaks)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. b4 b5 2. h3 d5 3. e4 dxe4 4. Ke2 Qd4 5. Qe1 Qxa1 6. Rh2 Qxb1 7. Kd1 Qxb4 8. f4 exf3 9. Bxb5+ Qxb5 10. Qe6 fxg2 11. Qxc8# 1-0

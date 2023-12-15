@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "11"]
+[White "RandomUnoptimisedBot (by: Zhanybek)"]
+[Black "Holy hell (by: Tyler Branscombe & Austin Daniel)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. b3 g5 2. a3 b5 3. b4 g4 4. Nc3 Na6 5. Rb1 Rb8 6. Ra1 Rb6 7. Na2 Bg7 8. h3 Bxa1 9. Rh2 Nb8 10. Rh1 Rg6 11. c4 Rg5 12. Rh2 Rd5 13. f4 gxf3 14. Rh1 Rd3 15. Nc3 Rxc3 16. Rh2 Rxc1 17. Nxf3 Rxd1+ 18. Kf2 Rxf1+ 19. Ke3 Rxf3+ 20. Ke4 Bb7# 0-1

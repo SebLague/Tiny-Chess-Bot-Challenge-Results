@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "58"]
+[White "EpsilonCheck (by: aymco)"]
+[Black "Baby Squid (by: Jonas Tyroller)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 c5 2. h4 Nc6 3. g4 Nf6 4. f3 Qc7 5. g5 Qg3+ 6. Ke2 Nxe4 7. Nc3 Qf2+ 8. Kd3 Ne5+ 9. Kxe4 d5+ 10. Kxe5 Qd4# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "43"]
+[White "Butter Bot, the bot with the butter on him (by: siued)"]
+[Black "BoringBot (by: Carson Bates)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 f6 2. d4 e6 3. a3 c5 4. e3 cxd4 5. Qh5+ g6 6. Qb5 dxc3 7. b4 a5 8. Bd3 axb4 9. Nf3 bxa3 10. Rg1 Ra5 11. Qc4 Rc5 12. Qb3 Rc7 13. Bxa3 Bxa3 14. Qxa3 Qe7 15. Ke2 Qxa3 16. Rxa3 Na6 17. Rb1 g5 18. Rb5 g4 19. Nd4 e5 20. Nf5 Ne7 21. Nd6+ Kf8 22. h3 gxh3 23. gxh3 Ng6 24. Bf5 Ke7 25. Rb6 Nh4 26. Ra4 Nxf5 27. Nxf5+ Kd8 28. Rxf6 h5 29. Nd6 Nc5 30. Ra1 Ke7 31. Rg6 Ne6 32. Rd1 Nf8 33. Rg7+ Ke6 34. f4 exf4 35. exf4 Rc6 36. Nxc8 Rxc8 37. Kd3 Rh7 38. Rg5 d6 39. Re1+ Kf6 40. Rd5 Ng6 41. Re4 Rc6 42. f5 Ne5+ 43. Rexe5 dxe5 44. Ke3 Kxf5 45. Rd8 h4 46. Rf8+ Rf6 47. Rxf6+ Kxf6 48. Kd3 Rc7 49. Ke2 Rg7 50. Ke3 Rg3+ 51. Ke4 Rxh3 52. Kd5 Re3 53. Kd6 h3 54. Kc7 h2 55. Kxb7 h1=Q+ 56. Kb6 Qb1+ 57. Kc6 Ke6 58. Kc7 Re4 59. Kc6 Rc4# 0-1

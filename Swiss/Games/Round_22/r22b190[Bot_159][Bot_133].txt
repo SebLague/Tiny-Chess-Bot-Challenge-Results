@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "21"]
+[White "Swag Messiah (by: )"]
+[Black "MinimaxAttackerBot5000 (by: ChrisCat123)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. d4 Na6 2. Qd3 Nb4 3. Qd1 Rb8 4. Bf4 Ra8 5. Kd2 Rb8 6. Kc1 Ra8 7. Kd2 Rb8 8. Kc1 Ra8 9. Kd2 1/2-1/2

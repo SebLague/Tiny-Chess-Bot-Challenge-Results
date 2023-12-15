@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "Flaeskesteg (by: Jechto)"]
+[Black "tybot (by: Tylyr1)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 f6 2. b3 c6 3. Bb2 Qa5 4. Bc3 Qd5 5. e3 b5 6. a4 e6 7. axb5 cxb5 8. Ra5 Nc6 9. Rxb5 Qe4 10. Bd3 Qg4 11. h3 Qxg2 12. Rh2 a6 13. Rxg2 axb5 14. Bxb5 Kd8 15. d4 Ba6 16. Bxa6 Rxa6 17. d5 Ne5 18. Nfd2 Nf7 19. Qh5 g6 20. Rxg6 hxg6 21. Qxg6 Rxh3 22. Qxf7 Rh1+ 23. Ke2 Bc5 24. Qxg8+ Kc7 25. b4 Bd6 26. dxe6 f5 27. Qf7 Kd8 28. Qxd7# 1-0

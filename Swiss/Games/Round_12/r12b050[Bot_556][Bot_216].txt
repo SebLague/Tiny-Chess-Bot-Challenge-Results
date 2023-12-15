@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "11"]
+[White "Knightmare v2 (by: Default/IHasBone)"]
+[Black "Average Chess bot (by: )"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 d5 2. e4 d4 3. Nce2 e5 4. Nf3 Nc6 5. c3 d3 6. Qa4 dxe2 7. Bxe2 Qe7 8. b3 Bd7 9. Bb5 Nf6 10. Bb2 O-O-O 11. h4 a6 12. Bxc6 Bxc6 13. Qa5 Nxe4 14. Qxe5 Nxf2 15. Kxf2 Rxd2+ 16. Kf1 Qxe5 17. Nxe5 Bxg2+ 18. Ke1 Rxb2 19. Nxf7 Bb4 20. Kd1 Bf3+ 21. Kc1 Ba3 22. Re1 Re2+ 23. Kd1 Rxa2+ 24. Re2 Bxe2+ 25. Ke1 Rxa1+ 26. Kxe2 Re8+ 27. Kd2 h6 28. h5 Rf1 29. Nxh6 Bc1+ 30. Kc2 Rf2+ 31. Kd3 Rd2+ 32. Kc4 Re4+ 33. Kc5 b6+ 34. Kc6 Rd6# 0-1

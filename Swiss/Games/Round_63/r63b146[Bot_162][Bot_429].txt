@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "62"]
+[White "BitBlunderer (by: Till Zemann (GitHub: https://github.com/till2 :D))"]
+[Black "LesMoutons (by: Beaud Rémi and Mechulam Antoine)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 f5 2. d4 Nc6 3. Bf4 Nf6 4. d5 Nb4 5. c3 Nbxd5 6. Bg5 h6 7. Bh4 g5 8. Bg3 f4 9. Ne5 fxg3 10. hxg3 b5 11. Qd3 Rg8 12. e4 Nb6 13. Qxb5 Nxe4 14. Qe2 Nf6 15. Qe4 Nxe4 16. Bd3 Bb7 17. Bxe4 Bxe4 18. f3 Bf5 19. Nd2 Bg7 20. Ng4 Bd3 21. Ne3 d6 22. f4 e6 23. fxg5 Qxg5 24. Nef1 Qe5+ 25. Kd1 Qe2+ 26. Kc1 Qe1# 0-1

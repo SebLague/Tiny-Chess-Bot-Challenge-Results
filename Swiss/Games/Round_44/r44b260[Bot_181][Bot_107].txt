@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "43"]
+[White "Greedy-Dumb-Bot (by: TrangML)"]
+[Black "Crazy? I was crazy once. They Locked me in a room. A rubber room. A rubber room with rats. Rats make me crazy. (by: Big red)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c3 Na6 2. e3 Nf6 3. Qh5 Nxh5 4. Bxa6 bxa6 5. Kf1 Bb7 6. Nh3 Qb8 7. Rg1 Qc8 8. g3 Qb8 9. g4 Nf6 10. Rg3 Qc8 11. b4 Qb8 12. Rf3 Bxf3 13. Bb2 Bxg4 14. f3 Bxh3+ 15. Kg1 Qb6 16. Kf2 d5 17. a4 e5 18. a5 Bd6 19. Kg3 Bf1 20. Bc1 g5 21. h3 h5 22. d3 Bxd3 23. Bd2 Kd7 24. Kf2 Kc6 25. b5+ Kxb5 26. Kg1 c5 27. Ra4 Kxa4 28. Kf2 Qxb1 29. h4 gxh4 30. c4 Bxc4 31. Bc3 Ka3 32. Kg2 Ka2 33. Kh3 Qh1# 0-1

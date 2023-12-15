@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "58"]
+[White "WingBot (by: Benjamin Iserman)"]
+[Black "taylornpeter_chess_sl (by: taylornpeter)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 a5 2. Bc4 c5 3. Qf3 Nf6 4. Na3 e5 5. Nh3 h5 6. b3 h4 7. c3 b6 8. d3 Bb7 9. Be3 g6 10. Kd1 Ke7 11. Kc1 d6 12. Kb1 Ra7 13. Kc1 Qd7 14. Kb1 b5 15. Kc1 bxc4 16. Nxc4 Ba6 17. Nxa5 Bxd3 18. Kd1 Rxa5 19. Kc1 Bxe4 20. Kd1 Bxf3+ 21. gxf3 Qxh3 22. Ke2 Ra3 23. c4 e4 24. Bc1 Qxf3+ 25. Ke1 Qxh1+ 26. Kd2 Ra5 27. Kc2 h3 28. Kb1 g5 29. Kb2 g4 30. Bf4 Qf3 31. Kb1 Qxf4 32. Kb2 Qe5+ 33. Kb1 Ke6 34. Kc1 Qxa1+ 35. Kc2 Rxa2# 0-1

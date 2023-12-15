@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "5"]
+[White "Better than my maker :p (by: Bobinou)"]
+[Black "J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J (by: Thunderous Echo)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 c6 2. Rb1 Qa5 3. Nf3 e6 4. c4 Bxa3 5. bxa3 Ke7 6. Ra1 d5 7. Rb1 dxc4 8. Ra1 c3 9. Rb1 Nf6 10. Ra1 Rd8 11. Rb1 Ne4 12. Ra1 cxd2+ 13. Nxd2 Qc3 14. Rb1 Nxd2 15. Bxd2 Qe5 16. Qb3 Na6 17. Bc1 Qa5+ 18. Bd2 Qxd2# 0-1

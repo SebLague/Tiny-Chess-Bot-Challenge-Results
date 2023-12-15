@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "Guppy (by: Steven He)"]
+[Black "RigidBot (by: Mathias Elgaard)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. d4 d5 3. e3 e6 4. Nc3 Nc6 5. Bd3 Bd6 6. Nb5 e5 7. Bxh7 Rxh7 8. dxe5 Nxe5 9. Nxd6+ Qxd6 10. Nxe5 Qxe5 11. h3 Bf5 12. O-O Rh8 13. Bd2 Qxb2 14. Rc1 Qxa2 15. Qf3 Bxc2 16. Qg3 Bg6 17. Qe5+ Kf8 18. Bb4+ Kg8 19. Rxc7 Rh5 20. Qf4 Rf5 21. Qh4 a5 22. Bc3 Ne4 23. Bd4 b5 24. f3 Rh5 25. Qe1 Ng5 26. Qc3 Nxh3+ 27. Kh2 Nf4+ 28. Kg3 Qxg2+ 29. Kxf4 Qg5# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "8"]
+[White "maff-chess (by: Filip)"]
+[Black "Bob (by: Evan Leach)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Illegal move"]
+
+1. e4 Nf6 2. Qf3 Nc6 3. c3 Ne5 4. Qf5 d6 5. Bb5+ c6 6. Qg5 cxb5 7. d4 Nd3+ 8. Kd1 Nxf2+ 9. Kc2 Bd7 10. e5 dxe5 11. Be3 Nxh1 12. dxe5 h6 13. Qh4 Bf5+ 14. Kb3 Qd5+ 15. Ka3 Qxe5 16. b3 Qxe3 17. Ne2 Qxe2 18. b4 Qe3 19. Kb2 O-O-O 20. g3 g5 21. Qd4 Rxd4 22. a4 Rd1 23. axb5 Bxb1 24. Rxb1 Qd2+ 0-1

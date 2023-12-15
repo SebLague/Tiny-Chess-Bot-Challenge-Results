@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Knockout 8"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "FloppyChess 4.2 (by: Omsk)"]
+[Black "drip leab (by: JeffLegendPower)"]
+[Result "1-0"]
+[TimeControl "30+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. d4 d5 6. a3 Bxc3+ 7. bxc3 O-O 8. Bd3 Qc7 9. Qc2 dxc4 10. Bxc4 b6 11. Bb2 Bb7 12. Qe2 Nbd7 13. Rc1 Bd5 14. Bxd5 Nxd5 15. c4 N5f6 16. O-O Rae8 17. Rfe1 Ne4 18. Rcd1 cxd4 19. exd4 Nd6 20. Rc1 Nf5 21. c5 bxc5 22. dxc5 Nb8 23. Be5 Qc6 24. Red1 Qa4 25. Bd6 Nxd6 26. cxd6 Rd8 27. Qd3 Nd7 28. Rc4 Qa5 29. Rc7 Nf6 30. Rc6 Nd5 31. g3 Nf6 32. Re1 Rfe8 33. Re5 Qa4 34. Ra6 Qd7 35. Rea5 Nd5 36. Ne5 Qc8 37. d7 Rxd7 38. Nxd7 Qxd7 39. Rxa7 Qc8 40. Qb5 Rf8 41. Qc5 Qb8 42. Qxf8+ Qxf8 43. Ra8 h5 44. Rxf8+ Kxf8 45. Ra7 g5 46. a4 Nb4 47. a5 Nc6 48. Ra8+ Ke7 49. a6 Kf6 50. Rc8 Ne7 51. a7 Nxc8 52. a8=Q Ne7 53. Qd8 h4 54. gxh4 g4 55. Qd4+ Kf5 56. Qg7 Nd5 57. Qxf7+ Ke5 58. Qg7+ Kd6 59. h5 Nf4 60. h6 g3 61. hxg3 Nh5 62. Qd4+ Ke7 63. h7 Nf4 64. Qxf4 Kd7 65. h8=Q e5 66. Qhxe5 Kc6 67. Qc7+ Kb5 68. Qfc4# 1-0

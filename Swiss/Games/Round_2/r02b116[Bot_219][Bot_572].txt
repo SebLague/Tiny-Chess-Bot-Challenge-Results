@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "Supertask-Time-Troubles (by: TimFW)"]
+[Black "Vast V2 (by: Joseph Pasfield)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f4 Nf6 2. c4 c5 3. d4 cxd4 4. Qxd4 Nc6 5. Qd3 g6 6. e4 Bg7 7. h4 O-O 8. a4 Nb4 9. Qb3 a5 10. e5 Ne4 11. Nd2 Nc5 12. Qc3 d6 13. h5 dxe5 14. fxe5 Bxe5 15. hxg6 Bxc3 16. gxh7+ Kh8 17. bxc3 Nc2+ 18. Kf2 Nxa1 19. Nh3 Qb6 20. Ke2 Nxa4 21. Kf3 Nc2 22. Ne4 f5 23. Neg5 e5 24. Ke2 Qd8 25. Bd2 Nb2 26. Nf3 Nxc4 27. Bc1 f4 28. Nxe5 Nxe5 29. Nxf4 Bg4+ 30. Kf2 Qd1 31. g3 Qf3+ 32. Kg1 Qxg3+ 33. Bg2 Nf3+ 34. Kf1 Qe1# 0-1

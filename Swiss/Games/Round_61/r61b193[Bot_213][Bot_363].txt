@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "60"]
+[White "Some rules bot (by: qumquat)"]
+[Black "letmeout (by: randomtestfive)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Nc3 e5 2. Nf3 Qf6 3. Ne4 Qe6 4. Nfg5 Qc4 5. e3 Qb4 6. Nf3 d5 7. Neg5 Bf5 8. Nxe5 Nf6 9. Qf3 Bxc2 10. g3 h6 11. Nh3 Be7 12. Bg2 Nh7 13. Qxd5 Nf6 14. Qf3 Nd5 15. Qxd5 Nd7 16. f3 Nxe5 17. Qxe5 Kd7 18. Qxg7 Bd3 19. Qxf7 h5 20. Nf2 Bc2 21. Bh3+ Kc6 22. Qe6+ Bd6 23. Qf7 Be5 24. Qe6+ Bd6 25. Qf7 Be5 26. Qe6+ Bd6 1/2-1/2

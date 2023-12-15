@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "HekMate (by: Maddisch)"]
+[Black "Hrustco Bot (by: migrin)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. Bf4 Nc6 3. Qd3 Nd5 4. Bxc7 Qxc7 5. Qe4 Qb6 6. Qxd5 Qxb2 7. Qxf7+ Kxf7 8. e3 Qxa1 9. Bc4+ e6 10. Bxe6+ dxe6 11. Ne2 Qxb1+ 12. Kd2 Qxh1 13. Nf4 Qxh2 14. c3 Bd6 15. Nxe6 Bxe6 16. e4 Qxg2 17. Ke3 Bxa2 18. d5 Ne5 19. f3 Qh2 20. c4 Bc5# 0-1

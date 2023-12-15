@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "57"]
+[White "Rigel (by: Antares (Github: Alex2262))"]
+[Black "Electric Shockwave Gambit (by: Valentin)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. Nf3 e6 3. e3 c5 4. c4 cxd4 5. exd4 Nc6 6. d5 exd5 7. cxd5 Bb4+ 8. Nc3 Ne7 9. Bc4 Bxc3+ 10. bxc3 Qa5 11. O-O Nfxd5 12. Re1 Kf8 13. Bxd5 Nxd5 14. Re5 Qxc3 15. Rxd5 f6 16. Bd2 Qc4 17. Rc1 Qa6 18. Bb4+ Kf7 19. Qb3 Ke8 20. Re1+ Qe6 21. Nd4 Qxe1+ 22. Bxe1 d6 23. Bb4 a5 24. Bxa5 Ke7 25. Rb5 Kf8 26. Ne6+ Ke7 27. Nxg7 b6 28. Bxb6 Bd7 29. Qe3+ Kf7 30. Bd4 Rhe8 31. Nxe8 Rxe8 32. Qb3+ Kg7 33. Qg3+ Kf7 34. Rb1 Re6 35. Qh4 Kg7 36. Qg5+ Kf7 37. Qh6 Bc8 38. Qxh7+ Ke8 39. Bxf6 Rxf6 40. Rb8 Rf7 41. Rxc8+ Kd7 42. Qh3+ Ke7 43. Rc7+ Kf6 44. Qf3+ Ke5 45. Qxf7 d5 46. Rc5 Kd6 47. Rxd5+ Kc6 48. Qe6+ Kc7 49. Rd7+ Kb8 50. Qe8# 1-0

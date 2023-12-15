@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "ILVM (by: Wincent01)"]
+[Black "Look Ma, No Piece Square Table (by: DegaLaman)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a4 Na6 2. c4 Rb8 3. Qb3 Nh6 4. Qb5 Ng4 5. d4 Rg8 6. e4 e5 7. dxe5 Bb4+ 8. Ke2 c6 9. Bg5 Qxg5 10. f4 Qxf4 11. g3 Qxe4+ 12. Kd1 Nf2+ 13. Kc1 Qe1+ 14. Kc2 Qd1# 0-1

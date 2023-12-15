@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "25"]
+[White "Knightmare (by: Miguel Piedrafita)"]
+[Black "DD9's chess bot (by: DigestDig9)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Na3 d5 2. e3 e5 3. Bb5+ Ke7 4. Kf1 Bf5 5. c3 Be4 6. Rb1 Bxb1 7. Nxb1 Qd6 8. Qa4 Qc5 9. Qa3 e4 10. Qxc5+ Ke6 11. Qxf8 b6 12. Qxg7 c5 13. Qxh8 Ne7 14. Qxb8 Rxb8 15. Ne2 Rb7 16. Ke1 Rc7 17. Kd1 Rc8 18. Ke1 Rb8 19. Kf1 Rb7 20. Ke1 Rc7 21. Kd1 Rb7 22. Ke1 1/2-1/2

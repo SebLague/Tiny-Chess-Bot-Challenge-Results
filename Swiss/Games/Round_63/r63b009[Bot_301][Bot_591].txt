@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "62"]
+[White "Grogros (by: Grobert)"]
+[Black "Rigel (by: Antares (Github: Alex2262))"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. g3 d5 3. Bg2 Nc6 4. O-O e5 5. d4 e4 6. Ne5 Bd6 7. Nxc6 bxc6 8. c4 O-O 9. Nc3 Be7 10. cxd5 cxd5 11. Bf4 Rb8 12. Qd2 Bd6 13. Bxd6 Qxd6 14. a4 c6 15. Rad1 Rb3 16. Rfe1 Be6 17. Rc1 Rfb8 18. Nd1 Qc7 19. Rc5 h6 20. Qc2 Qb7 21. Rxc6 Qb4 22. Rc3 Qxa4 23. Rxb3 Qxb3 24. Qc7 Qb4 25. Qc3 Qxc3 26. bxc3 Rb3 27. Bf1 Rb1 28. h3 a5 29. f4 a4 30. e3 a3 31. Re2 Rxd1 32. g4 Bd7 33. c4 dxc4 34. Kf2 c3 35. g5 Rxf1+ 36. Kg2 Bb5 37. Ra2 Nd5 38. Kh2 Nxe3 39. Rxa3 c2 40. Rc3 c1=Q 41. Rxc1 Rxc1 42. gxh6 gxh6 43. f5 Nxf5 44. d5 e3 45. Kg2 e2 46. Kf2 e1=Q+ 47. Kf3 Qg3+ 48. Ke4 Bd3# 0-1

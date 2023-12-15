@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "14"]
+[White "Good Bot Bad Bot (But Really, Both Are Terrible Bots, Also This In The Parenthesis Is Part Of The Name) (by: Legend)"]
+[Black "Mischievous bot (by: Guigui)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 f6 2. b3 c6 3. Rh3 h6 4. e4 e5 5. Bd3 Qe7 6. Re3 g5 7. hxg5 fxg5 8. Rh3 a6 9. Rxh6 Nxh6 10. Bxa6 bxa6 11. Nh3 g4 12. Qxg4 Qc5 13. Qxd7+ Nxd7 14. Ng1 Qxc2 15. Ba3 Qxe4+ 16. Kf1 Qd3+ 17. Ke1 Qe4+ 18. Kf1 Qd3+ 19. Ke1 Qe4+ 20. Ne2 Qxg2 21. Bxf8 Ng4 22. a3 Qh1+ 23. Ng1 Qxg1+ 24. Ke2 Qh2 25. Bh6 c5 26. Bf8 Qf4 27. Bxc5 Qe4+ 28. Kd1 Rh1# 0-1

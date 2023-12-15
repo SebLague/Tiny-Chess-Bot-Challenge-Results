@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "5"]
+[White "PrincessAtta (by: Bowser Bowering and Allyn Lloyd)"]
+[Black "WitwerMacher (by: Yannik Bleilinger)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 Na6 2. d4 Rb8 3. e4 Ra8 4. d5 Rb8 5. d6 exd6 6. e5 dxe5 7. g3 Qf6 8. b3 Kd8 9. a4 Qc6 10. Bg5+ f6 11. a5 Qxh1 12. h4 fxg5 13. h5 Qxg1 14. h6 Bc5 15. Qxd7+ Bxd7 16. hxg7 Qxf2+ 17. Kd1 Be3 18. c4 Bg4+ 19. Be2 Qxe2# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "54"]
+[White "Simpleton.01 (by: Bee)"]
+[Black "AchillesAlpha (by: Achilles)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e6 2. Qg4 f5 3. Qh5+ g6 4. Bc4 gxh5 5. c3 Qg5 6. f4 Qxg2 7. h3 Qxh1 8. Kf1 Nf6 9. Be2 Rg8 10. Bxh5+ Nxh5 11. Ke2 Rxg1 12. d4 Rg2+ 13. Kd3 Qf1# 0-1

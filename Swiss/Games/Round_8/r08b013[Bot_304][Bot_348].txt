@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "7"]
+[White "SemiroseBot (by: Semirose)"]
+[Black "SimplerBot (by: Rick Schaffer)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. d4 e6 3. Nf3 Nf6 4. e5 Ne4 5. Bd3 d5 6. O-O f5 7. exf6 gxf6 8. Nc3 Nxc3 9. bxc3 Kf7 10. Be3 Kg7 11. Qd2 h6 12. Rad1 Bd7 13. Rfe1 Rc8 14. h3 Na5 15. Qe2 c6 16. Nh4 f5 17. Nf3 c5 18. dxc5 Bxc5 19. Bxc5 Rxc5 20. Qe5+ Kg8 21. Nd4 Nc6 22. Qd6 Rxc3 23. Nxe6 Bxe6 24. Qxe6+ Kg7 25. Qxf5 Qf6 26. Qd7+ Qf7 27. Qg4+ Kf8 28. Bg6 Rg8 29. Re8+ Qxe8 30. Qf5+ Kg7 31. Bxe8 Rxe8 32. Rxd5 Re1+ 33. Kh2 Ne7 34. Qg4+ Kf7 35. Qh5+ Ke6 36. Rd8 Rc6 37. Qxh6+ Ke5 38. f4+ Kf5 39. Qh4 Re3 40. Rf8+ Ke6 41. Qf6+ Kd7 42. Qd4+ Rd6 43. Qxe3 Ra6 44. Qd3+ Rd6 45. Qe4 Re6 46. Qxb7+ Kd6 47. f5 Re5 48. Rd8+ Kc5 49. Qxa7+ Kb5 50. a4+ Kc6 51. Qa6+ Kc5 52. Qb5# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "32"]
+[White "Deerobot (by: Hugo Ingelsson)"]
+[Black "AelChess (by: Aëldrexan)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 Nf6 2. Nf3 c5 3. Be2 Nc6 4. Nc3 e5 5. O-O d5 6. Bb5 Bd6 7. d4 exd4 8. exd4 O-O 9. dxc5 Bxc5 10. Be2 Be6 11. Na4 Be7 12. c3 Bd6 13. Bg5 Qc7 14. Bh4 Ne4 15. Kh1 a6 16. Bd3 b5 17. Qe2 bxa4 18. Bxe4 dxe4 19. Qxe4 Ne5 20. Ng5 f5 21. Nxe6 fxe4 22. Nxc7 Bxc7 23. Rfe1 Nd3 24. Rxe4 g5 25. Rd4 gxh4 26. Rxd3 Rxf2 27. Rb1 Rb8 28. Rd7 Rfxb2 29. Rxb2 Rxb2 30. g3 h3 31. Kg1 Bb6+ 32. Kf1 Rxh2 33. Rb7 Bc5 34. Rb8+ Bf8 35. Kg1 Rg2+ 36. Kh1 Rxg3 37. Rb6 Rxc3 38. Rxa6 a3 39. Kh2 h5 40. Ra8 Kf7 41. Rd8 Bc5 42. Kh1 h4 43. Rd2 Ke6 44. Rc2 Bd4 45. Rxc3 Bxc3 46. Kh2 Kf5 47. Kxh3 Bf6 48. Kg2 Kg4 49. Kg1 h3 50. Kh2 Bd4 51. Kh1 Be5 52. Kg1 Kf5 53. Kf2 Kf4 54. Kg1 Ke4 55. Kf2 Kd3 56. Kg1 Kc2 57. Kf2 h2 58. Kg2 Kb1 59. Kh1 Kxa2 60. Kg2 Kb3 61. Kf2 h1=Q 62. Ke3 a2 63. Ke2 Kc3 64. Kf2 a1=Q 65. Ke3 Qae1# 0-1

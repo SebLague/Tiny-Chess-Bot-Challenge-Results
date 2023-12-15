@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "42"]
+[White "Average Chess bot (by: )"]
+[Black "Sky-Bot (by: Sky64Redstone)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. d4 exd4 5. Nxd4 Nxd4 6. Qxd4 d6 7. Nd5 Nxd5 8. exd5 c6 9. dxc6 bxc6 10. Qa4 Bd7 11. Be3 Be7 12. Bxa7 O-O 13. Qa6 Be6 14. Qxc6 Rxa7 15. Bd3 Bf6 16. Qe4 g6 17. Qb4 Rxa2 18. Rxa2 Bxa2 19. Kd2 Bd5 20. Bf1 Be5 21. Kd1 Qa8 22. Qg4 Qa1+ 23. Kd2 Bxb2 24. Bc4 Qa5+ 25. Kd1 Bxc4 26. Qxc4 Qa1+ 27. Ke2 Qxh1 28. Kf3 Qxh2 29. Qb5 Bd4 30. Qf1 Rc8 31. c4 g5 32. g3 Rc5 33. Ke2 Re5+ 34. Kd3 Bxf2 35. Qc1 Qxg3+ 36. Kc2 Re2+ 37. Qd2 Rxd2+ 38. Kxd2 Be1+ 39. Kd1 Qf2 40. Kc1 Bc3 41. c5 Qd2+ 42. Kb1 Qb2# 0-1

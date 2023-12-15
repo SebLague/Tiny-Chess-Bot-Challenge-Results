@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "8"]
+[White "BOTvinnik (by: Paul Smooth)"]
+[Black "Sørensen's Minimax (by: Victor)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. d4 Qh4 3. Nc3 Bb4 4. Bd2 Bxc3 5. Bxc3 Qxe4+ 6. Be2 Qxg2 7. Bf3 Qg5 8. dxe5 Qf4 9. e6 fxe6 10. Bxg7 Qb4+ 11. c3 Qxb2 12. Bh5+ Ke7 13. Rb1 Qxa2 14. Bf3 Nf6 15. Bxh8 Qc4 16. Bxf6+ Kxf6 17. Qd2 d5 18. Qh6+ Ke5 19. Qh5+ Kd6 20. Ne2 Qd3 21. Ra1 Bd7 22. Rg1 Na6 23. Rg5 Rf8 24. Bg2 Bb5 25. Bxd5 exd5 26. Rxa6+ bxa6 27. Qh6+ Kd7 28. Rxd5+ Qxd5 29. Qg7+ Rf7 30. Qg4+ Ke7 31. Qh4+ Ke8 32. Qg4 Bxe2 33. Qg8+ Kd7 34. f3 Bxf3 35. Kf2 Qd2+ 36. Kf1 Qe2+ 37. Kg1 Qe1# 0-1

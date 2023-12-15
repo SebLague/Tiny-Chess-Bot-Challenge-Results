@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "ChessGPT (by: DeepGoldenCrown)"]
+[Black "Minerva (by: Leo)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a3 b6 2. e3 Bb7 3. Bd3 Bxg2 4. Bxh7 Rxh7 5. Qe2 Bxh1 6. Qf1 Rxh2 7. d3 Bg2 8. Qe2 Rh1 9. Bd2 Rxg1+ 10. Qf1 Bxf1 11. a4 Bxd3# 0-1

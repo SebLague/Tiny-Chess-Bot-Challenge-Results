@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "57"]
+[White "Grenouille (by: mcngnt)"]
+[Black "GulcarBot (by: Gulcar)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 b6 2. e4 Bb7 3. Nc3 Nf6 4. e5 Ng8 5. d4 g6 6. Bb5 e6 7. Bg5 Qc8 8. O-O Bb4 9. a3 Bxc3 10. bxc3 c5 11. Nd2 cxd4 12. Nc4 Kf8 13. Nd6 Qxc3 14. Nxb7 a6 15. Bd3 a5 16. Nd6 f6 17. Bxf6 Qc6 18. Bxh8 Nf6 19. Bxf6 Kg8 20. Qg4 Qxd6 21. Bxg6 hxg6 22. Qxg6+ Kf8 23. Qg7+ Ke8 24. exd6 Ra6 25. Qg8# 1-0

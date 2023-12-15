@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "46"]
+[White "Simple Minimax (by: Sidewinder7)"]
+[Black "dumbot (by: slothinahat)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Qh5 a5 3. Nf3 Ne5 4. Nxe5 h6 5. Qxf7# 1-0

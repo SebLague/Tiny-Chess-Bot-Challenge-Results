@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "ScaredyBot (by: Jacob Sweeten)"]
+[Black "Corrosiver (by: )"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 d5 2. Nf3 d4 3. b3 dxc3 4. g3 cxd2+ 5. Bxd2 Nc6 6. Rb1 e5 7. Ng1 Nf6 8. Ra1 Bd6 9. Rb1 O-O 10. Ra1 Bf5 11. Rb1 Nd4 12. Ra1 Nxc2+ 13. Qxc2 Bxc2 14. Rb1 Bxb1 15. Kd1 Bc5 16. Ke1 Ne4 17. Kd1 Qxd2# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "27"]
+[White "Goldfinch (by: ATG)"]
+[Black "Bongcloud Bot (by: lurendrei)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e5 2. Nf3 Ke7 3. Nxe5 Nf6 4. b3 Ke6 5. d4 Bb4 6. Bb2 Nc6 7. a3 Bxc3+ 8. Bxc3 Re8 9. d5+ Nxd5 10. Nxc6 bxc6 11. Bxg7 Qg5 12. Qd4 f6 13. c4 Qxg7 14. cxd5+ cxd5 15. O-O-O Bb7 16. a4 a5 17. e3 Bc6 18. g3 Kd6 19. Bg2 Re5 20. e4 Re7 21. exd5 Bb7 22. Qf4+ Re5 23. h4 Kc5 24. Rhe1 Rd8 25. Kb1 h5 26. Qc4+ Kd6 27. Rc1 Qg6+ 28. Be4 Rxe4 29. Rxe4 c6 30. Qc5+ Kc7 31. Qxa5+ Kc8 32. Qb4 Re8 33. Re1 cxd5 34. Rc1+ Bc6 35. Kb2 Qxe4 36. Qxe4 Rxe4 37. a5 Kb7 38. Kc3 Ka6 39. Ra1 Re2 40. Kb4 Rxf2 41. Rg1 f5 42. Re1 f4 43. Rg1 fxg3 44. Rxg3 Rh2 45. Kc5 Kxa5 46. Rg1 Ka6 47. Rg8 Rxh4 48. Rb8 Rh3 49. Rb6+ Ka7 50. b4 Rc3+ 51. Kd4 Rc4+ 52. Ke5 Kxb6 53. Kf5 h4 54. Kg5 h3 55. b5 Bxb5 56. Kf5 h2 57. Kg5 h1=Q 58. Kf6 Qh6+ 59. Kf5 Ka5 60. Ke5 Qe6# 0-1

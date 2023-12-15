@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "37"]
+[White "Traderino (by: BenLS)"]
+[Black "pawnHater300 (by: hakrackete)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 a5 2. b3 a4 3. b4 a3 4. b5 c5 5. f4 c4 6. e3 d5 7. d4 cxd3 8. Bxd3 d4 9. Nb1 dxe3 10. b6 Qxd3 11. Qxd3 e2 12. Nxe2 e5 13. fxe5 f5 14. Nd4 f4 15. Bxf4 g5 16. Bxg5 h5 17. Rf1 h4 18. Kd2 h3 19. gxh3 Rxh3 20. Qe2 Rxh2 21. Qxh2 Bh3 22. Qxh3 Bg7 23. Qc8# 1-0

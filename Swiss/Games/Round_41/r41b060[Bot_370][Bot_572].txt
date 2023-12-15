@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "40"]
+[White "TuroChampEx (by: code<metas>)"]
+[Black "Vast V2 (by: Joseph Pasfield)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. a4 g6 3. Nc3 d5 4. d3 Bg7 5. h4 O-O 6. Bd2 Bf5 7. e3 Nc6 8. Ra3 e5 9. a5 Re8 10. a6 bxa6 11. Rxa6 Nb4 12. Ra5 c6 13. Ra4 c5 14. Ra3 a5 15. Nb5 Rc8 16. Be2 Qb6 17. Nc3 d4 18. Na4 Qc7 19. e4 Bg4 20. c3 Bxf3 21. gxf3 Na6 22. Qc1 Nh5 23. Bd1 Rcd8 24. cxd4 exd4 25. f4 Nf6 26. Qc4 Re6 27. Qb5 Qd6 28. Ra1 Nd5 29. Qxa5 Ndb4 30. Nxc5 Nxc5 31. O-O Ncxd3 32. e5 Qe7 33. Qb5 Qxh4 34. Bxb4 Nxf4 35. Ra3 d3 36. Qb7 Bxe5 37. Rb3 Ne2+ 38. Kg2 Qg4+ 39. Kh1 Qh3# 0-1

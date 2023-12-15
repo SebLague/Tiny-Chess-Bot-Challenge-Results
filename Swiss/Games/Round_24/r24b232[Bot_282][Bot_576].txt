@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "23"]
+[White "Hippo (by: MonteDegro)"]
+[Black "EvilerBot (by: Noah)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 b5 2. Qd3 h6 3. Nf3 e6 4. Bf4 e5 5. dxe5 Rh7 6. Qxh7 g6 7. Qxg8 f6 8. Qxg6+ Ke7 9. exf6+ Ke6 10. Nd4+ Kd5 11. Qf5+ Kxd4 12. e3# 1-0

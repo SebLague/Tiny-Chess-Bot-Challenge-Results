@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "52"]
+[White "charge forward v1 (by: steel chair)"]
+[Black "TinyLispChessBot (by: tr00)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Stalemate"]
+
+1. h4 Na6 2. g4 Nb4 3. f4 Rb8 4. e4 Ra8 5. d4 Rb8 6. c4 Nf6 7. a4 Ra8 8. h5 Rb8 9. h6 gxh6 10. Rxh6 Bxh6 11. g5 Rg8 12. gxh6 Rxg1 13. f5 Nxe4 14. f6 Nxf6 15. d5 Kf8 16. d6 cxd6 17. Qxd6 exd6 18. c5 Nc2+ 19. Kf2 Rxf1+ 20. Kg3 Nxa1 21. cxd6 Rxc1 22. b4 Rxb1 23. b5 Ke8 24. b6 Rxb6 25. a5 Rxd6 26. a6 Rd3+ 27. Kh4 Rd4+ 28. Kg5 Rg4+ 29. Kf5 b6 30. Ke5 Ke7 31. Kf5 Kd6 1/2-1/2

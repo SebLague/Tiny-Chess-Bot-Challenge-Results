@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "63"]
+[White "ScholarsBot (by: magic216)"]
+[Black "SimpleGuy (by: Kurt St)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Na6 2. Bc4 d6 3. Qh5 Kd7 4. Qxf7 Kc6 5. Bxa6 Kc5 6. Bb5 Kb4 7. Qg6 Ka5 8. Ba6 Ka4 9. Nc3+ Kb4 10. Qe8 Ka5 11. Qb5# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "60"]
+[White "Mini Lapdok (by: Lapdok)"]
+[Black "Lxna (V4) (by: Ludovic Debever (Lxdovic))"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 Nc6 2. d4 Nf6 3. d5 Ne5 4. f4 Ng6 5. Nf3 e6 6. a4 Bb4 7. dxe6 fxe6 8. Qd4 c5 9. Qc4 O-O 10. Bd2 d5 11. Qd3 d4 12. Nb1 Nxf4 13. Qb3 Bxd2+ 14. Nbxd2 Ng6 15. Qb5 Qe7 16. O-O-O Ng4 17. Ne4 b6 18. c4 Bb7 19. Neg5 Nf2 20. Rg1 Nxd1 21. Kxd1 e5 22. e4 dxe3 23. Bd3 Rad8 24. Kc2 e4 25. Bxe4 Bxe4+ 26. Nxe4 Qxe4+ 27. Kb3 e2 28. Ka2 Rd1 29. Ne1 Rf1 30. Nc2 Qxc2 31. Qe8+ Nf8 32. Qxf8+ Kxf8 33. Rxf1+ exf1=Q 34. Ka3 Ra1# 0-1

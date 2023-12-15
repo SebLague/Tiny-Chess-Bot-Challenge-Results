@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "The Seeker (by: Lucas Pellegrinelli)"]
+[Black "simpleval (portmonteau of simple eval) (by: hokurou)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c3 h5 2. d4 f5 3. Qd3 d5 4. Qg3 c6 5. Qg6+ Kd7 6. Qxf5+ Kd6 7. Bf4+ e5 8. Qxe5+ Kd7 9. Qf5+ Ke7 10. Bg5+ Kd6 11. Qxd5+ Kxd5 12. Bxd8 b5 13. f3 g6 14. e4+ Kd6 15. Bg5 a5 16. Bf4+ Ke6 17. Be5 Rh6 18. Bd3 Na6 19. Ne2 g5 20. Bc2 h4 21. Bb3+ Kd7 22. Bxg8 a4 23. f4 g4 24. Nd2 Be7 25. Bf7 Bb7 26. f5 Bf8 27. Bf4 Rf6 28. Be6+ Ke7 29. Bg5 Nb8 30. e5 Na6 31. exf6+ Kd6 32. Bf4# 1-0

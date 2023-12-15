@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "38"]
+[White "3D.Opening Bot (by: Mark Grennan)"]
+[Black "CompressTable (by: JacobAndSam)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 e6 2. Nc3 Bb4 3. Nf3 Bxc3+ 4. bxc3 f6 5. Rb1 Nc6 6. Kd2 Nge7 7. Ke3 O-O 8. Qd2 Nd5+ 9. Kd3 b6 10. Ra1 Ba6+ 11. c4 Na5 12. Ke4 f5+ 13. Ke5 Bxc4 14. Rg1 Bxa2 15. Rxa2 Kh8 16. Qd3 Qh4 17. Nxh4 Nc6# 0-1

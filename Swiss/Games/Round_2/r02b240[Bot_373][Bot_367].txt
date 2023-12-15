@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "One step at a time except sometimes (by: Parborway)"]
+[Black "TeddyBearBot (by: mathabs)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Illegal move"]
+
+1. f3 Na6 2. d3 Rb8 3. f4 Ra8 4. c3 Rb8 5. Kd2 Ra8 6. c4 Rb8 7. f5 Ra8 8. Ke3 Rb8 9. Kd4 Ra8 10. c5 Rb8 11. e3 Ra8 12. Qd2 Rb8 13. Qc3 Ra8 14. Qb4 Rb8 15. Qxb7 Rxb7 16. Kd5 Rxb2 17. Bxb2 Bb7+ 18. c6 Qa8 19. cxb7 Kd8 20. bxa8=Q+ 1-0

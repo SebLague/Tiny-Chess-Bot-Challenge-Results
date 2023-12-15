@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "6"]
+[White "NoTimeLeft (by: F&F)"]
+[Black "Itty Bitty Botty (by: Connor Cahoon)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Na6 2. e3 Rb8 3. Bxa6 bxa6 4. Kd2 e6 5. Kc3 Bb4+ 6. Kb3 Be1+ 7. Kc4 d5+ 8. Kd3 Bxf2 9. Nh3 Bh4 10. Qg4 Bf6 11. Kc3 c5 12. Qxg7 Qa5+ 13. b4 cxd4+ 14. exd4 Qxb4+ 15. Kd3 Qxd4+ 16. Ke2 Bxg7 17. c3 Qe4+ 18. Kf2 Qc2+ 19. Ke1 Qxc1+ 20. Kf2 Qxh1 21. Na3 Rb2+ 22. Ke3 Qxg2 23. Kf4 e5+ 24. Ke3 Qxh3# 0-1

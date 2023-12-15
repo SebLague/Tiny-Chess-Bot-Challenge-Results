@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "17"]
+[White "SepukuBot (by: Madhu)"]
+[Black "King Shuffler (by: Team Thursday)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g4 c6 2. Bg2 Qa5 3. Be4 Nf6 4. Bf5 e6 5. Bd3 Nxg4 6. h3 Ne5 7. Be4 d5 8. f4 dxe4 9. fxe5 Qxe5 10. Nc3 Qg3+ 11. Kf1 Qf4+ 12. Ke1 Rg8 13. Na4 e3 14. Nf3 Qg3+ 15. Kf1 Qf2# 0-1

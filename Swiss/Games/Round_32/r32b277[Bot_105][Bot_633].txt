@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "31"]
+[White "NotSoEvilBot (by: AntVil)"]
+[Black "LadyLuckGuidesMyMinMaxSearch (by: MrPelluke)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a3 h6 2. b3 Na6 3. c3 f5 4. d3 Rh7 5. e3 Nb4 6. cxb4 f4 7. exf4 b5 8. f3 a5 9. bxa5 d6 10. g3 Rb8 11. h3 Rb6 12. axb6 Bg4 13. hxg4 Qb8 14. bxc7 d5 15. cxb8=Q+ Kd7 16. Qxf8 Kc6 17. a4 Kd6 18. axb5 Ke6 19. b4 d4 20. f5+ Kd6 21. f4 Kd7 22. g5 Kc7 23. gxh6 g5 24. fxg6 Rf7 25. gxf7 e5 26. fxg8=Q Kb6 27. Qb8# 1-0

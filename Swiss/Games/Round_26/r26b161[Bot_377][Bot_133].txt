@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "25"]
+[White "Big Carl (by: Nathaniel D)"]
+[Black "MinimaxAttackerBot5000 (by: ChrisCat123)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. c3 Na6 2. h3 Rb8 3. f3 Ra8 4. d4 Rb8 5. g4 Ra8 6. a4 d6 7. g5 Qd7 8. d5 Kd8 9. b3 Ke8 10. c4 Kd8 11. e4 Ke8 12. Ra2 Kd8 13. Nc3 Ke8 14. Qd3 Nb4 15. Qe3 Nxa2 16. Nxa2 Kd8 17. Qf4 Ke8 18. Qe3 Kd8 19. Qf4 Ke8 20. Qe3 1/2-1/2

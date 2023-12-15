@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "59"]
+[White "More Recursion! (by: Bden)"]
+[Black "OrionChessEngine (by: Maarten Peels)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e5 2. Qf3 Bd6 3. Qh5 Nf6 4. Bc4 Nxh5 5. Nf3 b5 6. Bxf7+ Kf8 7. a3 Kxf7 8. g4 Bxa3 9. bxa3 Nf4 10. exf4 Bb7 11. fxe5 b4 12. axb4 Bxf3 13. Rg1 Bb7 14. Nc3 Qg5 15. Ne2 Qxe5 16. Rxa7 Rxa7 17. h4 g5 18. hxg5 Qxg5 19. Rg3 Rg8 20. Rd3 h5 21. gxh5 Qxh5 22. Nf4 Rg1# 0-1

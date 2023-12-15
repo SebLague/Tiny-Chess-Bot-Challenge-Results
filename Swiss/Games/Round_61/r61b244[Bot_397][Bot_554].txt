@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "60"]
+[White "TinyLispChessBot (by: tr00)"]
+[Black "The Fisher (by: Unodus)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Na3 c6 2. Rb1 Nh6 3. Ra1 Ng8 4. Rb1 f6 5. Ra1 g6 6. Rb1 Bg7 7. Ra1 Nh6 8. Rb1 Qc7 9. Ra1 Qxh2 10. Rxh2 f5 11. Rb1 Nf7 12. Ra1 f4 13. Rb1 Bd4 14. Ra1 Bxb2 15. Bxb2 O-O 16. Rb1 c5 17. Ra1 d5 18. Rb1 Bf5 19. Ra1 d4 20. Rb1 f3 21. Nxf3 Be6 22. Ra1 Nd8 23. Qb1 a5 24. Kd1 d3 25. exd3 Rf5 26. Kc1 b6 27. Kd1 Rf4 28. Be5 Rb4 29. Qc1 Rb3 30. cxb3 Nf7 31. Bb2 Bd5 32. Ne1 g5 33. Kc2 c4 34. bxc4 e6 35. cxd5 exd5 36. Kb1 Nd8 37. Qc7 d4 38. Qxd8+ Kg7 39. Bxd4+ Kg6 40. Bxb6 a4 41. Kc1 Kf5 42. Qd5+ Kg6 43. Qxa8 Na6 44. Qxa6 h5 45. Qxa4 Kf6 46. Rxh5 Kg7 47. Kb1 Kg6 48. Qg4 Kg7 49. Kc1 Kg6 50. Kb1 Kf7 51. Kc1 Ke7 52. Kb1 Kf6 53. Kc1 Ke7 54. Kb1 Kf8 55. Kc1 Ke7 1/2-1/2

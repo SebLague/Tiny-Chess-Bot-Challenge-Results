@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "14"]
+[White "LunarBot (by: LunarTech)"]
+[Black "Hydra (by: ReiedLaw)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. Ne5 d6 3. Nd3 e5 4. Nc3 c5 5. f4 Nc6 6. fxe5 dxe5 7. Kf2 c4 8. Ne1 Bb4 9. Nf3 e4 10. Ne1 Ng4+ 11. Kg1 Bxc3 12. Nd3 Bd4+ 13. e3 cxd3 14. h3 Nge5 15. cxd3 Bb6 16. d4 Nd3 17. Bxd3 exd3 18. Qf1 Qh4 19. Qxd3 O-O 20. Qe2 Be6 21. Qb5 Bd5 22. Qxd5 Qe1+ 23. Kh2 Bc7+ 24. Qe5 Bxe5+ 25. dxe5 Qe2 26. e6 fxe6 27. Kg3 Nd4 28. exd4 Rad8 29. d5 Qe5+ 30. Kh4 Qf6+ 31. Kh5 Rxd5+ 32. Kg4 Qf4# 0-1

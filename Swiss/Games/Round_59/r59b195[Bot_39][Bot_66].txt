@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "58"]
+[White "Blind Bot (by: Moonwalker3)"]
+[Black "CapivaraBot (by: Danilo Luiz Rheinheimer)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 h5 2. Nf3 f5 3. Nd5 c5 4. Ne5 g5 5. Nc3 d5 6. Nd3 e6 7. Ne5 a5 8. Nd3 b6 9. Ne5 h4 10. Nd3 g4 11. Nf4 d4 12. Nb1 e5 13. Nd3 e4 14. Nf4 b5 15. a3 c4 16. a4 bxa4 17. Rxa4 Bh6 18. Rxc4 Bxf4 19. Rg1 Bxh2 20. Rh1 g3 21. fxg3 Bxg3# 0-1

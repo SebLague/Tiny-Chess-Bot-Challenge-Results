@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "51"]
+[White "holcak-bot (by: Petr Holčák)"]
+[Black "HekMate (by: Maddisch)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 e5 2. h5 Qg5 3. d3 Qg4 4. e3 Qf5 5. f4 exf4 6. d4 Qe4 7. g4 fxg3 8. Rh3 Bb4+ 9. Ke2 Qg4+ 10. Kd3 Qxd1+ 11. Ke4 Qxc2+ 12. Ke5 Nc6+ 13. Kd5 Nf6# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "42"]
+[White "Saint Charles Bot (by: DATA USP)"]
+[Black "Single Player (by: Loeka)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 g6 2. Nb5 a5 3. Na3 Bh6 4. Nc4 a4 5. Ne5 f6 6. Nef3 b5 7. c3 f5 8. Nh4 Bb7 9. b3 axb3 10. Qxb3 Bxd2+ 11. Kxd2 Rxa2+ 12. Rxa2 Nf6 13. Qxb5 Ne4+ 14. Ke1 f4 15. Qxb7 Ng5 16. Bxf4 h5 17. Bxg5 Nc6 18. Nxg6 Rh7 19. Ra6 Nd4 20. cxd4 c5 21. Bxe7 Rxe7 22. Qf3 Qa5+ 23. Rxa5 d6 24. Ra8+ Kd7 25. Ra7+ Kd8 26. Rxe7 d5 27. Kd1 cxd4 28. Kc1 h4 29. Kb1 Kc8 30. Ka1 h3 31. Kb1 hxg2 32. Ka2 gxf1=Q 33. Qf5+ Kb8 34. Qf4+ Ka8 35. Qf8# 1-0

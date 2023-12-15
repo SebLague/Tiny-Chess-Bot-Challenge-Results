@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "9"]
+[White "LetMeAlive (by: MrQui)"]
+[Black "Bob (by: Evan Leach)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 b6 2. g4 f6 3. f4 Nh6 4. e4 Ba6 5. Bxa6 Nxa6 6. d4 e6 7. c4 Bb4+ 8. Nc3 c6 9. a4 c5 10. dxc5 Nxc5 11. g5 Nf7 12. gxf6 gxf6 13. Qe2 Nb3 14. Rb1 Nxc1 15. Rxc1 Rc8 16. f5 Qe7 17. fxe6 Qxe6 18. b3 Qe5 19. Kd2 Qd4+ 20. Qd3 Rxc4 21. bxc4 Qxd3+ 22. Kxd3 Rg8 23. h5 Rg3+ 24. Kd2 Ng5 25. Ne2 Rg2 26. Kd3 Nf3 27. h6 Ne5+ 28. Kd4 Bc5+ 29. Kd5 Rg5 30. Rh5 Rxh5 31. a5 Kf8 32. axb6 axb6 33. Nb5 Kg8 34. Rg1+ Ng4+ 35. e5 Rxe5# 0-1

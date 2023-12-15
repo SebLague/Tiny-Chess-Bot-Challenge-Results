@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "28"]
+[White "Sleepy panda bot (by: Quinten F)"]
+[Black "FINCh (by: AMCR Studios (Heather Costello & Tesseract King))"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nc6 2. e4 Nb4 3. Qg4 Nxc2+ 4. Kd2 Nf6 5. Qxd7+ Qxd7 6. Bd3 Nxa1 7. e5 Nh5 8. Bxh7 Rxh7 9. Nf3 Qc6 10. d5 Qxd5+ 11. Ke3 Qc5+ 12. Kd2 Qxf2+ 13. Kc3 Qxg2 14. Be3 Qxh1 15. Bxa7 Rxa7 16. Kd2 Qxf3 17. Nc3 Qf2+ 18. Kd3 Qxb2 19. e6 Bxe6 20. Nd1 Qxa2 21. Nc3 Qxh2 22. Nb5 Qg3+ 23. Ke4 Ra4+ 24. Nd4 Qb3 25. Ke5 Qb2 26. Ke4 Qa3 27. Ke5 Qd3 28. Nxe6 Qe3+ 29. Kf5 Qf3+ 30. Nf4 Kd7 31. Kg5 Kd6 32. Ng6 Kd5 33. Nh8 Kc5 34. Nxf7 Qf6# 0-1

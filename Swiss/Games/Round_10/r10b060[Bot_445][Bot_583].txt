@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "9"]
+[White "KunoVonHagenBot (by: Jakob)"]
+[Black "Tiny Chess Duck (by: rocketduck_m07)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Nc3 Nf6 3. Bc4 e6 4. d4 d5 5. exd5 exd5 6. Qe2+ Be6 7. Bb5 a6 8. Bxc6+ bxc6 9. Nf3 Bd6 10. Ne5 Bxe5 11. Qxe5 O-O 12. Bf4 Rc8 13. Qe2 Ng4 14. Qxa6 Qf6 15. Ne2 Bf5 16. h3 Nh6 17. c4 Ra8 18. Qb7 Rab8 19. Qxc7 Rxb2 20. cxd5 Bd3 21. Nc1 Re8+ 22. Kd1 Bc2+ 23. Kd2 Qxd4+ 24. Nd3 Bb3+ 25. Kc1 Qc3# 0-1

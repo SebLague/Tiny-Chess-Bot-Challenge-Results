@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "21"]
+[White "MobiBot 4.2 (by: Michael)"]
+[Black "ItBeatMyFriend (by: Sanfordpox)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 c6 2. Qh5 Nf6 3. Qc5 g6 4. Bc4 d5 5. Be2 Bg7 6. Qd4 O-O 7. Qb4 Ne4 8. a4 Nd7 9. Nh3 a5 10. Qa3 Ndc5 11. Ng5 Nxg5 12. Qxc5 Ne4 13. Qa3 Be5 14. d4 Bd6 15. Qb3 Qc7 16. h4 Bg3 17. fxg3 Qxg3+ 18. Kd1 Nf2+ 19. Kd2 Nxh1 20. Kd1 Qxg2 21. Nd2 Ng3 22. Bd3 Bg4+ 23. Ke1 Be2 24. Bxg6 fxg6 25. Qxd5+ cxd5 26. Nb1 Bd3 27. Kd1 Qe2# 0-1

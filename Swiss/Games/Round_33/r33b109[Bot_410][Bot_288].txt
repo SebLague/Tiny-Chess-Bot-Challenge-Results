@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "32"]
+[White "Lamorran (by: Morra)"]
+[Black "Running Bot (by: Chris Pontius)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 e6 2. Nc3 Bb4 3. a3 Bxc3 4. dxc3 Ne7 5. Qd4 O-O 6. Bd2 Nf5 7. Qd3 c5 8. O-O-O d5 9. Ng5 c4 10. Qf3 f6 11. Nxh7 Kxh7 12. e4 Ne7 13. exd5 exd5 14. Bxc4 dxc4 15. Rhe1 Kh8 16. Qe2 Nbc6 17. Qxc4 Ne5 18. Qh4+ Kg8 19. Bf4 N5g6 20. Rxd8 Nxh4 21. Rxf8+ Kxf8 22. Bd6 Nf5 23. Bc5 b6 24. Bb4 a5 25. Bxe7+ Nxe7 26. Kb1 Kf7 27. b4 Bb7 28. Rd1 Bxg2 29. Rd7 Ke6 30. Rd2 axb4 31. axb4 Bd5 32. Re2+ Kd6 33. Re1 Nf5 34. Rd1 Ke5 35. f3 Bxf3 36. Re1+ Kf4 37. Rf1 Rh8 38. Rf2 Ke3 39. Rf1 Ke2 40. Rc1 Rxh2 41. Ka1 Rh1 42. Rxh1 Bxh1 43. c4 Kd1 44. Kb2 Be4 45. c5 b5 46. c3 Bd5 47. Kb1 Ng3 48. Kb2 Ne4 49. c6 Bxc6 50. Kb1 Bd5 51. Kb2 Nd2 52. c4 Bxc4 53. Kc3 Nf3 54. Kb2 g5 55. Kb1 g4 56. Kb2 g3 57. Kb1 g2 58. Ka1 g1=Q 59. Kb1 Qh2 60. Ka1 Qa2# 0-1

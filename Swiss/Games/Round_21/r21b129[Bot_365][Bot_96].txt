@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "20"]
+[White "KU_AI_BOT (by: Daniel Johnson)"]
+[Black "Chess Bot (by: M)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Qg4 d5 3. Qg3 Nc6 4. Bb5 Bd6 5. exd5 a6 6. Ba4 Bf5 7. dxc6 b5 8. Bb3 g6 9. c3 Ne7 10. d3 e4 11. Bf4 exd3 12. Bxd6 cxd6 13. Qe3 Kf8 14. Nf3 Nxc6 15. O-O a5 16. Qh6+ Kg8 17. Nbd2 Ra6 18. Qf4 a4 19. Bd5 Ne7 20. Be4 d5 21. Bxf5 gxf5 22. Kh1 h5 23. Rae1 Nc6 24. Qg3+ Kf8 25. Ne5 Rh6 26. Nxd3 Re6 27. Ra1 Re2 28. Nf3 Ra5 29. Qf4 Qd7 30. Qh6+ Kg8 31. Qg5+ Kf8 32. Qxh5 Kg8 33. Ng5 Rd2 34. Nc5 Qa7 35. Rfe1 Ne5 36. Qh7+ Kf8 37. Rxe5 Qxc5 38. Qxf7# 1-0

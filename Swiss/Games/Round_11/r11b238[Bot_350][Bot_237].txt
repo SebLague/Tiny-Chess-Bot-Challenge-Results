@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "10"]
+[White "InsufficientBot (by: Sep)"]
+[Black "DeepDumb (by: OutdoorsyEngineer)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 d6 2. Ba6 d5 3. Bxb7 e5 4. Bxd5 Qxd5 5. Ne2 Ba6 6. Ng1 Qxg2 7. Ne2 Qxh1+ 8. Ng1 Qxg1# 0-1

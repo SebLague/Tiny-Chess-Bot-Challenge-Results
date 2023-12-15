@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "15"]
+[White "Minirose V2.23 (by: Tamplite Siphron Kents)"]
+[Black "MapBot (by: Map)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. Nf3 d5 3. Nc3 Nc6 4. Be3 Bf5 5. Rc1 Rg8 6. Ne5 e6 7. Nb5 Ne4 8. c3 a6 9. Nxc6 bxc6 10. Na3 Rb8 11. b4 a5 12. Qa4 axb4 13. Qxc6+ Qd7 14. Qxd7+ Kxd7 15. Nb1 bxc3 16. Nxc3 Nxc3 17. Rxc3 Bb4 18. Bd2 Bxc3 19. Bxc3 Rb1+ 20. Kd2 Ra8 21. a4 Rxa4 22. Ke3 Rb3 23. Kf4 Rxc3 24. e3 Ra2 25. f3 Rb3 26. e4 Bg6 27. exd5 exd5 28. Rg1 Kd6 29. h3 Rd2 30. Ba6 Rxd4+ 31. Kg3 Rd2 32. Re1 d4 33. Re2 Rxe2 34. Bxe2 d3 35. Bd1 Rb1 36. Ba4 d2 37. h4 d1=Q 38. Bxd1 Rxd1 39. Kf4 Rd4+ 40. Kg3 Ke5 41. Kh3 Kf4 42. h5 Bxh5 43. Kh2 Bg6 44. Kh3 Bh5 45. Kh2 Bg6 46. Kh3 Bf5+ 47. Kh2 Rd2 48. Kg1 Kg3 49. Kf1 Rxg2 50. Ke1 Kxf3 51. Kd1 Ke3 52. Kc1 Be4 53. Kd1 Rg1# 0-1

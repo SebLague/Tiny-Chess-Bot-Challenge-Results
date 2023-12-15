@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "15"]
+[White "The Red Crayon (by: Daniel L.)"]
+[Black "holcak-bot (by: Petr Holčák)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 h5 2. e4 h4 3. Qf3 f5 4. Bc4 Nf6 5. e5 Nh7 6. Qh5+ g6 7. Qxg6# 1-0

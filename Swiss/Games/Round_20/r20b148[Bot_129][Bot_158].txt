@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "19"]
+[White "Chemibot (by: Mike Chemi)"]
+[Black "Turochamp (Faithful) (by: P Rivero)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g4 e5 2. Bg2 Nc6 3. b3 Nh6 4. e4 d5 5. exd5 Bxg4 6. Nc3 Bxd1 7. Nxd1 Qg5 8. Bh3 Nd4 9. Bd7+ Kxd7 10. Kf1 Bd6 11. d3 Qg4 12. Ne3 Qg6 13. h4 Nxc2 14. Nxc2 Qxd3+ 15. Kg2 Qe4+ 16. f3 Qxc2+ 17. Kf1 Nf5 18. a4 a5 19. h5 Ng3+ 20. Ke1 Bb4+ 21. Bd2 Qxd2# 0-1

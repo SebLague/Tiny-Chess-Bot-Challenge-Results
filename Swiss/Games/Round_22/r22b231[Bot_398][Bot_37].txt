@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "21"]
+[White "ChessGPT (by: DeepGoldenCrown)"]
+[Black "Prince of Persia (by: flabbet)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 a5 2. c4 Ra6 3. a4 Nc6 4. b3 Rb6 5. Nh3 Nb4 6. Nf4 g5 7. g4 Ra6 8. h4 gxf4 9. Bxf4 Rb6 10. Bxc7 Qxc7 11. c5 Ra6 12. Qc1 Qc6 13. Rh2 Ra7 14. Kd1 Qc7 15. Rh1 Na6 16. h5 Qc6 17. Rg1 Nb4 18. Qc3 Ra8 19. Kc1 Qh6+ 20. Kd1 Nd5 21. Qc2 Qf4 22. Ke1 Nb4 23. Qb2 Qh2 24. f4 Ra6 25. Qc3 Qxg1 26. Kd1 Qxf1+ 27. Kd2 Nd5 28. Qc2 Qxf4+ 29. e3 Qf2+ 30. Kd3 Nb4+ 31. Kc3 Qxe3+ 32. Kb2 Qxd4+ 33. Kc1 Qg1+ 34. Qd1 Nd3+ 35. Kd2 Qf2+ 36. Kxd3 Qg3+ 37. Kd2 Qg2+ 38. Kc1 Bh6+ 39. Nd2 Bxd2+ 40. Kb1 Qe4+ 41. Kb2 Qd4+ 42. Kc2 Rc6 43. Rb1 Rxc5# 0-1

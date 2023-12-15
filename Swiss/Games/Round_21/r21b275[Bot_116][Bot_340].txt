@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "20"]
+[White "MirrorBot (by: Jackk)"]
+[Black "PacifistBot (by: Noano01)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. a3 Nc6 3. Nc3 Ne5 4. Nxe5 d5 5. d4 Bf5 6. Nxf7 e5 7. dxe5 Bd6 8. exf6 Be5 9. fxg7 Qf6 10. gxh8=Q+ Kd7 11. f4 Re8 12. fxe5 Re6 13. exf6 c5 14. e3 b5 15. b4 h5 16. bxc5 a5 17. h4 d4 18. a4 Re5 19. axb5 a4 20. e4 a3 21. Nxe5+ Kc7 22. exf5 a2 23. Nd5+ Kb7 24. Qdxh5 Ka7 25. Q5h7# 1-0

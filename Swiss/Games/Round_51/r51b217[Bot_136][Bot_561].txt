@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "50"]
+[White "Chessy (by: SebastianB)"]
+[Black "ONE MOVE TO RULE THEM ALL (by: b4ux1t3)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 a5 2. b4 axb4 3. Nc3 bxc3 4. dxc3 Nh6 5. Qe2 g6 6. g3 f6 7. f3 d6 8. a4 Na6 9. h3 Nb4 10. Qd2 c5 11. cxb4 Bf5 12. Qh2 Qa5 13. bxa5 c4 14. Bd2 Rb8 15. Qf2 Ng4 16. Qg2 Nh6 17. Bxc4 b5 18. axb5 Ng4 19. fxg4 Bd7 20. Qf1 Bxg4 21. b6 Bd1 22. c3 e6 23. Qxf6 h6 24. Bb5# 1-0

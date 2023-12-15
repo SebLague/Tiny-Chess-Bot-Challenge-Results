@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "18"]
+[White "charge forward v1 (by: steel chair)"]
+[Black "broken bot (by: Raj Gaurav)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 h5 2. g4 hxg4 3. f4 gxf3 4. exf3 g5 5. hxg5 f5 6. Rxh8 e5 7. d4 exd4 8. Qxd4 d5 9. Qxa7 c5 10. Qxa8 b5 11. Bxb5+ Nd7 12. Bxd7+ Bxd7 13. c4 dxc4 14. b4 cxb3 15. axb3 f4 16. Bxf4 c4 17. bxc4 Ne7 18. g6 Ng8 19. g7 Ne7 20. Rxf8# 1-0

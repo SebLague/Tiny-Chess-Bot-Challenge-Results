@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "40"]
+[White "RP Bot (by: Matt Enad (RobProductions))"]
+[Black "Arctiform's Bot (by: Arctiform)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 e6 2. e4 f6 3. Qh5+ Ke7 4. Qc5+ Kf7 5. Qa5 c6 6. Qxd8 Bb4+ 7. c3 d6 8. Qxc8 Ba5 9. Qxb7+ Ke8 10. Qxa8 h5 11. Qxb8+ Kd7 12. Qxa7+ Kc8 13. Qa6+ Kd7 14. Qxa5 h4 15. Qa7+ Kc8 16. Qxg7 Rh5 17. Qxg8+ Kb7 18. Qf7+ Kb6 19. Qxh5 Kc7 20. Qxh4 Kd8 21. Qxf6+ Kc7 22. Qxe6 Kd8 23. Qxd6+ Ke8 24. Ke2 Kf7 25. Kf3 Kg7 26. Bc4 Kh7 27. Qh6# 1-0

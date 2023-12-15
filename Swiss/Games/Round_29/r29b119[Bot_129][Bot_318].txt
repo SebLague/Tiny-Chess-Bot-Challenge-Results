@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "28"]
+[White "Chemibot (by: Mike Chemi)"]
+[Black "LoserNotDrawer (by: Piele)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g4 d5 2. g5 e5 3. h4 c5 4. c3 Bf5 5. Qa4+ Qd7 6. b3 Qxa4 7. bxa4 Be4 8. Rh2 Bd6 9. e3 Nc6 10. h5 O-O-O 11. Bh3+ Kb8 12. f3 Bc2 13. a3 Bxa4 14. e4 Bb3 15. d3 dxe4 16. dxe4 Be7 17. Be3 Rd3 18. Ke2 Bc4 19. a4 Rxc3+ 20. Kd2 Rd3+ 21. Kc1 Rxe3 22. h6 Bxg5 23. hxg7 Rxf3+ 24. Kd1 Bb3+ 25. Ke1 Bh4+ 26. Kd2 Rd3+ 27. Ke2 Rxh3 28. gxh8=Q Rxh2+ 29. Kf3 Nd4+ 30. Ke3 Bg5+ 31. Kd3 c4+ 32. Kc3 Rc2+ 33. Kb4 Be7+ 34. Ka5 Nc6+ 35. Kb5 Kc7 36. Qxe5+ Nxe5 37. a5 Ra2 38. a6 Ba4+ 39. Ka5 Rxa1 40. Nd2 Kc6 41. axb7 Kxb7 42. Ne2 Ra2 43. Nc1 Ra3 44. Nb1 Bb3+ 45. Kb5 Ra1 46. Nd2 Ba4+ 47. Ka5 Bd1+ 48. Kb5 Ra3 49. Nb1 a6# 0-1

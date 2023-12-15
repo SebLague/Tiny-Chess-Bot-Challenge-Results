@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "44"]
+[White "Traderino (by: BenLS)"]
+[Black "Achilles Random (by: Achilles)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 e6 2. Nd2 Qh4 3. b4 Bxb4 4. g4 Qxg4 5. f4 Qh4# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "62"]
+[White "Matey (by: Conor)"]
+[Black "TinyLispChessBot (by: tr00)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Nc3 Na6 2. Nd5 Rb8 3. Nf4 Nb4 4. Nf3 Ra8 5. Ne5 Rb8 6. Nc4 Ra8 7. Ne5 Rb8 8. Nc4 Ra8 9. Ne5 1/2-1/2

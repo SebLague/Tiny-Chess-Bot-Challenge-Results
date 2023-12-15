@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "43"]
+[White "AchillesAlpha (by: Achilles)"]
+[Black "LiL Scoot (by: Scoutamass)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a3 e5 2. f3 Qh4+ 3. g3 Qd4 4. c3 Qb6 5. Ra2 Be7 6. Bg2 Nh6 7. Kf1 Nf5 8. Ke1 O-O 9. Nh3 d5 10. Qa4 e4 11. Kd1 exf3 12. Kc2 fxg2 13. Rg1 Ne3+ 14. dxe3 Bxh3 15. Kd1 a5 16. Bd2 Na6 17. g4 f5 18. c4 fxg4 19. cxd5 Nc5 20. Qc4 Nd7 21. d6+ Rf7 22. Qxc7 Qb3+ 23. Kc1 Qxa2 24. Rd1 g1=Q 25. Rxg1 Rf1+ 26. Rxf1 Bxf1 27. Kc2 Qe6 28. dxe7 Qe4+ 29. Kd1 Qxb1+ 30. Qc1 Qxc1+ 31. Bxc1 Re8 32. b3 Rxe7 33. Ke1 Rf7 34. Bd2 Rf5 35. e4 Rf6 36. Bxa5 Nc5 37. e5 Rf4 38. e3 Nd3+ 39. Kd1 Nb2+ 40. Ke1 Rf3 41. e6 Nd3+ 42. Kd1 Rxe3 43. Bb6 Rxe6 44. Bd8 Re1+ 45. Kd2 b5 46. Bc7 Rc1 47. Bg3 h5 48. Bb8 Kf7 49. a4 bxa4 50. Ba7 axb3 51. Ke3 Re1+ 52. Kd4 b2 53. Bb8 b1=Q 54. Bg3 Qb2+ 55. Kd5 Bg2+ 56. Kd6 Qd4+ 57. Kc7 Qc5+ 58. Kd8 Re8+ 59. Kd7 Qc6# 0-1

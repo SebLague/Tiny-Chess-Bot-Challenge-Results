@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "4"]
+[White "Running Bot (by: Chris Pontius)"]
+[Black "Indian_Liver (by: MDM)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c4 b5 2. cxb5 Bb7 3. d4 e6 4. Nc3 Bb4 5. a3 Bxc3+ 6. bxc3 g5 7. Qd3 c5 8. dxc5 Qf6 9. Bd2 Qe7 10. Be3 Qf6 11. O-O-O h6 12. f3 Bc8 13. Bd2 Kd8 14. Qe4 d5 15. cxd6 Nd7 16. Qxa8 Nc5 17. Qxa7 Nb7 18. d7 Bxd7 19. Qxb7 Ke7 20. Kb2 Qg6 21. Bxg5+ hxg5 22. Rxd7+ Kf6 23. Qb8 Qb1+ 24. Kxb1 Rh6 25. Qxg8 Rxh2 26. Qxf7+ Ke5 27. Rxh2 g4 28. Rh5# 1-0

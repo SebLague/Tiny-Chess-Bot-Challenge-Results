@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "50"]
+[White "Love (by: Avila)"]
+[Black "simple chess bot (by: 4a0I)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 e6 2. Nf3 Bb4+ 3. c3 Bd6 4. e4 Nc6 5. Bd3 Nh6 6. Bxh6 gxh6 7. O-O Bf4 8. g3 Bd6 9. e5 Bf8 10. Nbd2 f5 11. exf6 Qxf6 12. b4 h5 13. b5 Na5 14. Ne5 Ke7 15. Qxh5 Qh6 16. Qf7+ Kd8 17. Qf3 Ke8 18. Nf7 Qxd2 19. Nxh8 Qh6 20. Qf7+ Kd8 21. Bxh7 c6 22. Rab1 Nc4 23. Ng6 Bg7 24. bxc6 Kc7 25. Rxb7+ Kxc6 26. Rb4 Nd2 27. d5+ exd5 28. Rh4 Qxh4 29. Nxh4 Nxf1 30. Qxg7 Ba6 31. Bf5 Bc4 32. Bxd7+ Kb6 33. Bh3 Nxg3 34. hxg3 Rb8 35. a4 Rb7 36. Qd4+ Ka5 37. Bd7 Rc7 38. Nf5 Ka6 39. Qf6+ Kb7 40. Nd6+ Ka6 41. Nxc4+ Kb7 42. Na5+ Ka8 43. Qd8+ Rc8 44. Qxc8# 1-0

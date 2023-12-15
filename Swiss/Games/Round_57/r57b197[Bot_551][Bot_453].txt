@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "56"]
+[White "AchillesAlpha (by: Achilles)"]
+[Black "Chessica (by: Nicky Kitchingman)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a3 a6 2. b3 a5 3. h3 a4 4. bxa4 Rxa4 5. c3 b5 6. Ra2 c6 7. Rc2 c5 8. d4 c4 9. Kd2 d6 10. Rh2 d5 11. Ke3 e6 12. Kd2 e5 13. Ke1 b4 14. Kd2 b3 15. Bb2 bxc2 16. Kxc2 e4 17. Kc1 Kd7 18. Qxa4+ Kd6 19. Qb4+ Kc6 20. Qa4+ Kb6 21. Rh1 Bd7 22. Qd1 e3 23. Qe1 f6 24. Kd1 Ba4+ 25. Kc1 f5 26. fxe3 f4 27. Qf2 fxe3 28. Qxe3 g6 29. Qe6+ Ka5 30. Nd2 g5 31. Nxc4+ dxc4 32. Qe5+ Ka6 33. Qxh8 Ka5 34. Qxh7 Kb5 35. Qf5+ Ka6 36. Qf7 Ka5 37. Qxc4 Kb6 38. Qxa4 Qf6 39. Qb3+ Ka5 40. Qd5+ Ka4 41. Nf3 Qxf3 42. Qc4+ Ka5 43. gxf3 Kb6 44. Qb3+ Ka5 45. e3 Bxa3 46. Qb5# 1-0

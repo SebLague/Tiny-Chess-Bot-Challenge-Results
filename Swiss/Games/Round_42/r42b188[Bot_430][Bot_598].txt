@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "41"]
+[White "KnightMare (by: Dom)"]
+[Black "WingBot (by: Benjamin Iserman)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c3 e5 2. d4 Bd6 3. h3 Qf6 4. Qd3 Nc6 5. Qe4 a6 6. b3 b6 7. g3 h5 8. f3 Ke7 9. dxe5 Ke6 10. Qc4+ Kxe5 11. Qe4# 1-0

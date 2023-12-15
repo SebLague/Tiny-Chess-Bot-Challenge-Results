@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "GenericBoringbot (by: Kayinth)"]
+[Black "Sir Checkmates-A-Lot (by: Felix)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 Nc6 2. Nf3 Rb8 3. e4 Ra8 4. Bb5 e6 5. Nc4 Nb8 6. Nfe5 c6 7. Qf3 cxb5 8. Qxf7# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "8"]
+[White "simple chess bot (by: 4a0I)"]
+[Black "Headless Chicken (by: Nat)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Stalemate"]
+
+1. e3 e6 2. Qh5 Qf6 3. Nc3 g6 4. Qa5 b6 5. Qb5 Ba6 6. Ne4 Bxb5 7. Nxf6+ Nxf6 8. Bxb5 a6 9. Bc4 d5 10. Be2 Nc6 11. b3 Nb4 12. Kd1 Ne4 13. Nh3 Bg7 14. c3 Nc6 15. Ba3 Bf8 16. Bxf8 Kxf8 17. Kc2 Ke7 18. d3 Nc5 19. Ng5 h6 20. Nf3 a5 21. Nd2 a4 22. b4 Nb7 23. d4 Nd6 24. a3 Ne4 25. Nxe4 dxe4 26. h3 Kd8 27. b5 Na5 28. f3 f5 29. fxe4 fxe4 30. Raf1 c5 31. dxc5 bxc5 32. Rf4 Ra7 33. Rxe4 Rd7 34. Rxa4 Kc8 35. Rxa5 Kb8 36. Ra6 Rhd8 37. Rb6+ Kc8 38. Rc6+ Kb8 39. Kb1 Rd2 40. Re1 Rxe2 41. Rxe2 Rd1+ 42. Ka2 Rd3 43. Rxe6 g5 44. Rb6+ Ka7 45. Ra6+ Kb8 46. Kb3 h5 47. Rb6+ Ka7 48. Rh6 Ka8 49. Rxh5 Rd5 50. e4 c4+ 51. Kxc4 Rd1 52. Rxg5 Rd8 53. Kb3 Kb8 54. Rg6 Ka8 55. Rf2 Re8 56. Rf7 Rd8 57. Ra6+ Kb8 58. Rb6+ Ka8 59. Kc2 Rd2+ 60. Kxd2 1/2-1/2

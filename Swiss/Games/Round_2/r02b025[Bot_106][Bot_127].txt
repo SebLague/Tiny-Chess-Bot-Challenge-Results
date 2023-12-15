@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "Miluva v2 [2550] (by: Möhrchen (Thilo M.))"]
+[Black "Trash LITE (by: kachim2)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 c6 2. d4 Qa5+ 3. Nc3 Qd8 4. Be3 Nf6 5. e5 Nd5 6. Nf3 e6 7. Bd3 Nxe3 8. fxe3 Qc7 9. e4 g5 10. Nxg5 d5 11. Rf1 b6 12. Rxf7 Qxf7 13. Nxf7 Rg8 14. Qh5 Rxg2 15. Nd6+ Kd8 16. Qe8+ Kc7 17. Qxc8# 1-0

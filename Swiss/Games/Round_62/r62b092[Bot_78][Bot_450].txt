@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "61"]
+[White "fuxy (by: nadavfux)"]
+[Black "Optimus (by: Adt)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 e6 2. Qd3 e5 3. dxe5 Bb4+ 4. c3 Be7 5. Qg3 g6 6. Nf3 Nc6 7. e4 a6 8. Bc4 Nb4 9. cxb4 b5 10. Bb3 Bxb4+ 11. Bd2 Qe7 12. Nc3 Bb7 13. Ng5 Nh6 14. Qh3 Qf8 15. Nf3 Ng8 16. Nd5 Bxd2+ 17. Kxd2 Bxd5 18. Bxd5 c6 19. Bb3 d6 20. Ng5 d5 21. exd5 Qb4+ 22. Qc3 Qf4+ 23. Qe3 Qb4+ 24. Kd3 h6 25. Ne4 cxd5 26. Nd6+ Kd7 27. Bxd5 Rf8 28. Qa7+ Kd8 29. Rac1 Qc4+ 30. Bxc4 bxc4+ 31. Rxc4 Re8 32. Nxf7# 1-0

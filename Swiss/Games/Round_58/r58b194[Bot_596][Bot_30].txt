@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "57"]
+[White "Terrible Bot (by: readerbij)"]
+[Black "WhyAmIABot (by: Levi)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 f5 2. e3 h6 3. Qh5+ g6 4. Qxg6# 1-0

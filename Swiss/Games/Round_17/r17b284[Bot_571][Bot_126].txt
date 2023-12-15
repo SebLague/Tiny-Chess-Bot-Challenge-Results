@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "16"]
+[White "GoblinArmy (by: TheChroniclerDelta)"]
+[Black "Shakki botti (by: bobq)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c4 Na6 2. f3 Nb4 3. c5 Nd3+ 4. exd3 Nf6 5. Ke2 Ng8 6. g4 Nf6 7. f4 Nxg4 8. b4 b6 9. a4 Ba6 10. f5 Qb8 11. f6 Qb7 12. fxg7 Qe4# 0-1

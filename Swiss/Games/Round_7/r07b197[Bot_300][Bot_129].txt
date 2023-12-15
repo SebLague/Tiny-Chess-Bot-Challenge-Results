@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "6"]
+[White "Bob (Looser) (by: Flo)"]
+[Black "Chemibot (by: Mike Chemi)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a3 f6 2. d4 e6 3. f4 h5 4. c3 c6 5. Nd2 g6 6. e3 d5 7. Ne4 dxe4 8. Qe2 h4 9. Qd1 b6 10. Qb3 a5 11. c4 a4 12. Ra2 axb3 13. Kf2 bxa2 14. g4 a1=Q 15. c5 Qxc1 16. Bc4 Qxb2+ 17. Ke1 Qc3+ 18. Kd1 Qa1+ 19. Kc2 bxc5 20. Nh3 Qxh1 21. Bxe6 Qxh2+ 22. Kb1 Qh1+ 23. Ka2 Bxe6+ 24. Kb2 Qb6+ 25. Kc2 Qbb1+ 26. Kd2 Qd3# 0-1

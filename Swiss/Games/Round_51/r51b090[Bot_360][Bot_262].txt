@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "50"]
+[White "the mater (by: )"]
+[Black "Chessburger Bot (by: )"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 c6 2. h4 Qa5 3. f4 Nf6 4. e5 Nd5 5. Qf3 Qa4 6. c4 Nb4 7. b3 Qa5 8. Na3 e6 9. g4 Bc5 10. g5 Bd4 11. Rb1 Nxa2 12. Nc2 Bc5 13. h5 h6 14. Ra1 hxg5 15. Ne2 f6 16. Nc3 fxe5 17. Rxa2 Qb6 18. Na4 Qa5 19. fxg5 Rf8 20. Qe2 Rf5 21. g6 Bf2+ 22. Kd1 Na6 23. d3 Nb4 24. Qd2 c5 25. Ba3 b5 26. cxb5 Bb7 27. Rh3 Bf3+ 28. Be2 Bxe2+ 29. Kxe2 Rf4 30. Rf3 Rxf3 31. Kxf3 Bd4 32. Nxd4 a6 33. Nxc5 axb5 34. Bxb4 Qxa2 35. Nxb5 Qxd2 36. Bxd2 Ra1 37. Bg5 e4+ 38. dxe4 Kf8 39. Nxd7+ Ke8 40. Nc5 Rf1+ 41. Ke2 Rb1 42. Nxe6 Rb2+ 43. Kd1 Kd7 44. h6 Kxe6 45. hxg7 Rb1+ 46. Kc2 Rh1 47. g8=Q+ Kd7 48. Qd5+ Kc8 49. Qc6+ Kb8 50. Bf4# 1-0

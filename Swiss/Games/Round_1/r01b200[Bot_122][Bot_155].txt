@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "TeacherBot (by: qumquat)"]
+[Black "CompressionBot (by: Nathan George)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Bc4 e6 3. Qh5 Nf6 4. Qxf7+ Kxf7 5. Bf1 Nxe4 6. g4 Qh4 7. Nc3 Qxf2+ 8. Kd1 Qxf1# 0-1

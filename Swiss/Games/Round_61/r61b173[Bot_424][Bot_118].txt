@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "60"]
+[White "ILVM (by: Wincent01)"]
+[Black "BotThatLikesToPlayChess™ (by: Gary Dale)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a4 c6 2. b4 Qb6 3. c3 Kd8 4. Qb3 Ke8 5. d4 Qxb4 6. cxb4 Kd8 7. Qxf7 Nf6 8. f4 Ng4 9. h4 Nh6 10. Qc4 b5 11. axb5 Ba6 12. bxa6 Nxa6 13. Rxa6 Ke8 14. b5 Kd8 15. e4 Kc7 16. g3 Kd8 17. d5 Kc7 18. e5 Kb7 19. h5 Kc7 20. b6+ Kb7 21. bxa7 Rxa7 22. Qb4+ Kc7 23. Rxa7+ Kc8 24. Ra8+ Kc7 25. Qb8# 1-0

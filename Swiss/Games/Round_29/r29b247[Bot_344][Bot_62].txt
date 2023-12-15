@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "28"]
+[White "DD9's chess bot (by: DigestDig9)"]
+[Black "DumBot (by: Viruj)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Illegal move"]
+
+1. d4 Nf6 2. f4 e6 3. Be3 d5 4. Bf2 Kd7 5. Bh4 Kc6 6. Bxf6 Qxf6 7. Nf3 Kb6 8. g4 Qxf4 9. Bh3 Ka5 10. Bg2 Qxg4 11. Bf1 Kb6 12. Ne5 Qh4+ 13. Kd2 Qxd4+ 14. Kc1 Qf4+ 0-1

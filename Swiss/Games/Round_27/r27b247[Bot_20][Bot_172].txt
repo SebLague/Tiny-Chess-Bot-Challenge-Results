@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "26"]
+[White "Queen's Gam-bot (by: Mateo Saldivar (ZiroDev))"]
+[Black "Kaan's Majestic Gentlemen (by: Level 0 Kaan)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d3 Nc6 2. Be3 a6 3. Qd2 Nf6 4. Qb4 Nxb4 5. g4 Nxc2+ 6. Kd1 Nb4 7. Bc5 Nc6 8. Bxe7 Nxe7 9. Bh3 d6 10. Bg2 Nxg4 11. Ke1 b6 12. Bc6+ Nxc6 13. Nd2 Nh6 14. e3 Be7 15. d4 f5 16. Nc4 b5 17. Nxd6+ Qxd6 18. Rc1 Qb4+ 19. Rc3 Qxb2 20. Rc2 Bb4+ 21. Kf1 Qa3 22. Rc3 Bxc3 23. e4 fxe4 24. Nf3 exf3 25. d5 Qxa2 26. dxc6 Qa1# 0-1

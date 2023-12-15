@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "17"]
+[White "RigidBot (by: Mathias Elgaard)"]
+[Black "Guppy (by: Simply In Dev)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. Nc3 Bb4 5. Qe2 Bxc3 6. bxc3 Qe7 7. O-O O-O 8. d4 exd4 9. e5 dxc3 10. exf6 Qxe2 11. Bxe2 gxf6 12. Rb1 d5 13. Be3 Rd8 14. Rfd1 Ne5 15. Bd4 Bf5 16. Rxb7 Bxc2 17. Rc1 Be4 18. Rxc3 Bxf3 19. gxf3 Rdb8 20. Rxb8+ Rxb8 21. Rxc7 Rb1+ 22. Kg2 Rb4 23. Bxe5 fxe5 24. Rxa7 Rb2 25. Bd1 Rb6 26. Bb3 d4 27. Bxf7+ Kf8 28. Rd7 h6 29. Bb3 Rg6+ 30. Kf1 Rg5 31. f4 exf4 32. Rf7+ Ke8 33. Rxf4 d3 34. h4 Rc5 35. Ke1 Kd7 36. Kd2 Kd6 37. Kxd3 Ke5 38. Rf8 Rc6 39. f4+ Kd6 40. Rh8 Kc5 41. f5 Rd6+ 42. Ke3 Rf6 43. Be6 Kc6 44. Kf4 Kd6 45. Re8 Kc5 46. Ke5 Rxe6+ 47. fxe6 Kc4 48. e7 Kc3 49. Rd8 Kb2 50. e8=Q Kc3 51. Qb5 Kc2 52. Qb3+ Kc1 53. Rd1# 1-0

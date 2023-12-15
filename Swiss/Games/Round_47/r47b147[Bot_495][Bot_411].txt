@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "46"]
+[White "Albertron (by: Vadim and Yazeed)"]
+[Black "StallerBot (by: Ean)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Na6 2. Nc3 g6 3. e4 g5 4. Bxa6 bxa6 5. d4 f6 6. O-O c6 7. Nxg5 e5 8. Qh5+ Ke7 9. Qf7+ Kd6 10. Qe8 Qxe8 11. dxe5+ fxe5 12. Nf3 Kc7 13. Be3 Bb7 14. g4 d5 15. exd5 cxd5 16. Bxa7 Rxa7 17. Ng5 Qg6 18. h4 Ne7 19. Ne2 d4 20. f3 Bxf3 21. Nxf3 Qxg4+ 22. Kf2 Qc8 23. Kg1 Nf5 24. h5 Ne3 25. Rf2 Qg4+ 26. Kh1 Qf5 27. Nexd4 exd4 28. Kg1 Qg4+ 29. Kh1 Qxh5+ 30. Kg1 Rg8+ 31. Ng5 Rxg5+ 32. Rg2 Rxg2# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "41"]
+[White "LazyBot (by: Tim de Jong)"]
+[Black "The Seeker (by: Lucas Pellegrinelli)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 e5 2. dxe5 Bb4+ 3. Bd2 Qh4 4. e3 Nc6 5. a3 Bxd2+ 6. Qxd2 Nxe5 7. Qc3 Nc6 8. Nf3 Qh6 9. Nbd2 Qf6 10. Bd3 Qxc3 11. bxc3 d5 12. O-O Bg4 13. h3 Bh5 14. Nd4 Ne5 15. Bb5+ Kd8 16. f4 Ng6 17. g4 Bxg4 18. hxg4 Nf6 19. f5 Ne5 20. g5 Nfg4 21. N2f3 Nxf3+ 22. Rxf3 c5 23. Ne2 a6 24. Ba4 b5 25. Rg3 Nxe3 26. Rxe3 bxa4 27. Rd1 d4 28. cxd4 f6 29. dxc5+ Kc7 30. Re7+ Kc8 31. gxf6 gxf6 32. Nc3 Rg8+ 33. Kf1 Rb8 34. Rxh7 Rb2 35. Nd5 Kb8 36. Nxf6 Rc8 37. Nd7+ Ka8 38. Nb6+ Rxb6 39. cxb6 Rf8 40. Kg1 Kb8 41. Rdd7 Re8 42. Rb7+ Ka8 43. Ra7+ Kb8 44. Rxa6 Re2 45. Rxa4 Rxc2 46. Rd4 Rc1+ 47. Kg2 Rc2+ 48. Kf3 Kc8 49. b7+ Kb8 50. Rd8+ Ka7 51. b8=Q+ Ka6 52. Ra7# 1-0

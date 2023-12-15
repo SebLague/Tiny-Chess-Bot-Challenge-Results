@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "47"]
+[White "SimpleBearSearch (by: PizzasBear)"]
+[Black "Lord Chester of Ply5 (by: PatrickTalksALot)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e5 2. a3 f5 3. e4 Qh4 4. Nf3 Qe7 5. Nd5 Qd6 6. d4 fxe4 7. dxe5 Qc5 8. Be3 Qa5+ 9. b4 Qxd5 10. Qxd5 exf3 11. Bc4 Be7 12. gxf3 h5 13. Qf7+ Kd8 14. Qxg7 Bxb4+ 15. axb4 d5 16. exd6 cxd6 17. Qxh8 Bd7 18. Bb6+ axb6 19. Rxa8 Bc8 20. Bxg8 Kc7 21. Rxb8 Kxb8 22. Be6 h4 23. Qxc8+ Ka7 24. O-O b5 25. Ra1+ Kb6 26. Qd8+ Kc6 27. Qd7+ Kb6 28. Qxd6# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "54"]
+[White "BarschBot (by: Bobitsmagic)"]
+[Black "Paradox Bot (by: Kekz)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. d4 d5 3. exd5 Qxd5 4. Nf3 Bg4 5. Be2 Nf6 6. c4 Qa5+ 7. Qd2 Qf5 8. Nh4 Qh5 9. Nf3 O-O-O 10. Nc3 e5 11. d5 e4 12. Ng5 Bb4 13. Bxg4+ Qxg4 14. O-O Ne5 15. Qc2 Nf3+ 16. Nxf3 exf3 17. Qf5+ Qxf5 18. h3 fxg2 19. Kxg2 Bxc3 20. bxc3 Qe4+ 21. Kg1 Qxc4 22. Be3 Qxc3 23. h4 Nxd5 24. Rac1 Qb4 25. Bxa7 Qg4+ 26. Kh2 Nf4 27. Rxc7+ Kxc7 28. Rc1+ Kd7 29. Rd1+ Ke6 30. Re1+ Kf5 31. Re5+ Kxe5 32. Bd4+ Kxd4 33. h5 Qg2# 0-1

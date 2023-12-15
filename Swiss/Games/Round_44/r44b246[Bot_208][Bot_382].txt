@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "43"]
+[White "HekMate (by: Maddisch)"]
+[Black "Bob (by: Kökényesi Attila (UltraGeek))"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Na6 2. Bg5 e6 3. Bxd8 c6 4. Qd3 Nb4 5. Qe4 h6 6. Bc7 c5 7. dxc5 Na6 8. Qe5 g6 9. Qxh8 Ne7 10. Qxf8+ Kxf8 11. Bd6 f5 12. Bxe7+ Kf7 13. Bd6 Kf6 14. Bf8 h5 15. Bd6 Kg5 16. Be7+ Kf4 17. e3+ Ke4 18. Nd2+ Kd5 19. Bc4+ Ke5 20. Ngf3# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "4"]
+[White "RayBot (by: Shahriar Rayed)"]
+[Black "Stephanee (by: Elijah Bradshaw)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e5 2. Qh5 Bd6 3. Nc3 g6 4. Qf3 f5 5. Qd5 Nf6 6. Qc4 c5 7. Nf3 a6 8. Ng5 Rf8 9. b3 Be7 10. Bb2 d5 11. Qa4+ Bd7 12. Bb5 Nc6 13. Bxc6 Bxc6 14. Qa3 c4 15. Ne6 Bxa3 16. Bxa3 Qc8 17. Nxf8 Kf7 18. f4 exf4 19. bxc4 dxc4 20. exf4 Bxg2 21. Rg1 Bc6 22. Bd6 Qe8+ 23. Kd1 Qd8 24. Ba3 Qd4 25. Re1 Ne4 26. Nxe4 Qxa1+ 27. Ke2 Qxa2 28. Ng5+ Kg8 29. Bb4 Qa4 30. c3 Qc2 31. Nfe6 Qd3+ 32. Kf2 h6 33. Re3 Qxd2+ 34. Re2 Qd5 35. Nc7 Qg2+ 36. Ke3 Qg1+ 37. Rf2 Rd8 38. Bd6 Rxd6 39. Nd5 Rxd5 40. Ne6 Rd3+ 41. Ke2 Qd1# 0-1

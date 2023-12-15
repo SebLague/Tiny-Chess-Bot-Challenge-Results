@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "22"]
+[White "Asymptotically optimal (by: Graham Gayler)"]
+[Black "SimpleGuy (by: Kurt St)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. b3 Na6 2. d4 Rb8 3. Be3 Ra8 4. a3 Rb8 5. f4 Ra8 6. Ra2 Rb8 7. Nf3 Ra8 8. Kd2 Rb8 9. Ne5 Ra8 10. Bg1 Rb8 11. Kc1 Ra8 12. Kb2 Rb8 13. Nxd7 Nf6 14. Nxf6+ exf6 15. h4 Bxa3+ 16. Nxa3 Kd7 17. Ka1 Kc6 18. Be3 Kd5 19. Kb1 Ke4 20. Ka1 Kd5 21. Rb2 Ke4 22. Ra2 Kd5 1/2-1/2

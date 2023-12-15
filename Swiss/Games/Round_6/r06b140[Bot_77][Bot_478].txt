@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "5"]
+[White "OrionChessEngine (by: Maarten Peels)"]
+[Black "KBot (by: Kristian Mischke)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Ne2 g6 3. Nbc3 h6 4. Nf4 Nb8 5. Rg1 e5 6. Nxg6 fxg6 7. h4 Qxh4 8. Ke2 Qh2 9. Nd5 Bd6 10. Nxc7+ Bxc7 11. Rh1 Qxh1 12. Rb1 Nc6 13. Kf3 Nf6 14. Ke2 Nxe4 15. Ke1 Nxf2 16. b3 Nxd1 17. Rb2 O-O 18. Ke2 Qxf1# 0-1

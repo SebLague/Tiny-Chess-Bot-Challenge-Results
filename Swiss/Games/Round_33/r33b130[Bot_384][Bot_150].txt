@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "32"]
+[White "Baloo-D (by: Dimitri)"]
+[Black "jmcgbot (by: jmcg)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Bb5 c5 3. d3 a6 4. Bc4 b5 5. Bd5 Ra7 6. Be3 Nf6 7. Bg5 Be7 8. Bb3 h6 9. Be3 g6 10. Ke2 d6 11. Ke1 O-O 12. Bxh6 Qa5+ 13. Nd2 c4 14. Bxf8 Kxf8 15. dxc4 bxc4 16. Bxc4 Nxe4 17. Bd3 Qxd2+ 18. Qxd2 Nxd2 19. Kxd2 g5 20. Be4 f6 21. Kc3 a5 22. Ne2 g4 23. Bd5 f5 24. h4 gxh3 25. Rxh3 Bd7 26. Rh8+ Kg7 27. Rxb8 Ba4 28. Rg8+ Kh7 29. Rh1+ Bh4 30. Rxh4# 1-0

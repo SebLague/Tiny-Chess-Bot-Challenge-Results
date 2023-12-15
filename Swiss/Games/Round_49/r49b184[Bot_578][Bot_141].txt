@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "48"]
+[White "Exceptionally mid (by: Evan Rogerson)"]
+[Black "Shielded Minibot (by: Sesen)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 Nc6 2. b3 Nd4 3. e3 Nc6 4. a3 e6 5. a4 Qf6 6. Qf3 Nb4 7. Qxf6 Nxf6 8. Bd3 Kd8 9. Na2 Nxd3+ 10. cxd3 Ng4 11. h3 Ne5 12. Ke2 b6 13. Bb2 Nxd3 14. Kxd3 Bb7 15. f3 Rg8 16. Nc3 Kc8 17. Nd1 Be7 18. Bc3 Bf6 19. Bxf6 Ba6+ 20. Kc2 gxf6 21. g4 Kb8 22. d3 Rg5 23. f4 Rc5+ 24. Kb1 Bxd3+ 25. Ka2 Rc2+ 26. Ka3 Be4 27. g5 fxg5 28. b4 Bxh1 29. fxg5 Be4 30. h4 a6 31. h5 c5 32. a5 cxb4+ 33. Kxb4 bxa5+ 34. Kxa5 Rc5+ 35. Kb6 Rb5# 0-1

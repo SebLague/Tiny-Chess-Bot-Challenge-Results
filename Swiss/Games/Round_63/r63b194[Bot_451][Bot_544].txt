@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "62"]
+[White "GreGory (by: Kokken)"]
+[Black "Saint Charles Bot (by: DATA USP)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 c5 2. dxc5 Qa5+ 3. c3 Qxc5 4. e3 Kd8 5. b4 Qe5 6. f4 Qe4 7. c4 e6 8. Nc3 Bxb4 9. Bd3 Bxc3+ 10. Bd2 Qxd3 11. Ne2 Bxd2+ 12. Kf2 Bxe3+ 13. Kf3 Bd2+ 14. Kf2 Be3+ 15. Kg3 Bxf4+ 16. Kxf4 e5+ 17. Kxe5 d6+ 18. Kf4 g5+ 19. Kxg5 Qf5+ 20. Kh4 Qg4# 0-1

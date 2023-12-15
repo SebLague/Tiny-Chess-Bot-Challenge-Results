@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "7"]
+[White "SlothBot (by: 0xFF)"]
+[Black "Quinn (by: Pierre Girardeau)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. Nf3 Nh6 2. Nc3 Nc6 3. e4 e6 4. d4 Qf6 5. Bc4 Bd6 6. e5 Nxe5 0-1

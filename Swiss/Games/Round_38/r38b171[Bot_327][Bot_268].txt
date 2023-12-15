@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "37"]
+[White "FunBot (by: Paul Spooner AKA Dudecon)"]
+[Black "Captain Botvious (by: Selim Sheta)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g3 d5 2. e3 e5 3. Bb5+ c6 4. Bf1 e4 5. b3 Bb4 6. Ne2 Be6 7. Ng1 Nh6 8. f4 O-O 9. Ne2 Na6 10. Bb2 g6 11. a4 Bg4 12. Bc1 c5 13. Rg1 Qd7 14. h4 b6 15. Bb2 Nc7 16. Rg2 Bh3 17. Rg1 Bxf1 18. Rxf1 Ne6 19. Rg1 Rfc8 20. Nc1 Nf5 21. Na2 Nxe3 22. Qc1 Ba5 23. Bf6 h6 24. Rh1 Ng2+ 25. Kf2 Ngxf4 26. g4 Qc7 27. Qb2 Qb7 28. Rh2 Re8 29. Nc1 Qc6 30. Qe5 e3+ 31. dxe3 Nd3+ 32. cxd3 d4 33. Ra3 dxe3+ 34. Qxe3 Rf8 35. Qxh6 Be1+ 36. Kxe1 Qh1+ 37. Rxh1 Rfc8 38. Qh8# 1-0

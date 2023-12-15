@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "59"]
+[White "Der wilde Kaiser (by: Headyyy1337)"]
+[Black "Simple Minimax (by: Sidewinder7)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e6 2. h4 b5 3. Bxb5 c6 4. Bf1 Qe7 5. Nc3 Qd6 6. a3 Bb7 7. Ne4 Qd5 8. Nc3 Qf5 9. g4 Qf6 10. Ne4 Qe5 11. Ng5 f5 12. N1f3 Qb5 13. Bxb5 cxb5 14. Rg1 fxg4 15. Nd4 Bf3 16. Ngxf3 a6 17. Ne5 Nc6 18. Ndxc6 Nf6 19. Na5 Rc8 20. Qe2 Rxc2 21. Qd1 Rc8 22. Qb3 Bd6 23. Nxg4 Nxg4 24. Qd3 Bf8 25. Rxg4 d5 26. b3 e5 27. Qf5 Rxc1+ 28. Rxc1 Kd8 29. Qg5+ Be7 30. Nc6+ Kc8 31. Nxe7+ Kd7 32. Nc6 Re8 33. Nb4 g6 34. Nxd5 b4 35. Nf6+ Ke6 36. Nxe8 a5 37. Nc7+ Kd7 38. Qxe5 Kd8 39. Qe8# 1-0

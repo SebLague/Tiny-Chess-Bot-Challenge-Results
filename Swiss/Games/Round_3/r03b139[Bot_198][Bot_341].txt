@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "the (not so) wise bot of (not so great) insight (by: TheUnknown1050)"]
+[Black "AelChess (by: Aëldrexan)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. Bg5 d5 3. Nc3 Nc6 4. Rc1 e6 5. e3 Bb4 6. Bxf6 Qxf6 7. Ke2 O-O 8. Nb5 Qd8 9. c3 Ba5 10. Qb3 a6 11. Qa3 axb5 12. Kd1 b4 13. cxb4 Nxb4 14. Nf3 Qd6 15. Rc2 Nxc2 16. Kxc2 Qxa3 17. bxa3 c6 18. Ne5 Bc7 19. f3 Rxa3 20. Kb2 Rxe3 21. f4 Re4 22. Kc2 Rxd4 23. Kc1 Rxf4 24. g3 Rf2 25. Nd3 Rxa2 26. Kb1 Ra5 27. Nb4 c5 28. Nd3 c4 29. Nb4 Rb5 30. Ka1 Rxb4 31. Ka2 Bd7 32. Ka1 Ra8# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "32"]
+[White "Ben's Bot (by: Ben Clingenpeel)"]
+[Black "TacTxs (by: Mitch)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. Bf4 Nc6 3. Qd3 Nd5 4. Nh3 Ndb4 5. Qc3 d6 6. e3 e5 7. Bb5 a6 8. Bxc6+ Nxc6 9. Bg5 f6 10. Bh4 Ne7 11. Ke2 Bg4+ 12. f3 exd4 13. exd4 Nd5 14. Qb3 Bxh3 15. gxh3 Nb6 16. Kf2 Rb8 17. Re1+ Be7 18. Nd2 d5 19. a4 Qd7 20. a5 Nc4 21. Nxc4 dxc4 22. Qxc4 Kf8 23. Kg2 Bd6 24. Bg3 Bxg3 25. Kxg3 b6 26. Re6 bxa5 27. Rxa5 Rxb2 28. Raxa6 Qc8 29. Ra7 Rb7 30. Rxb7 Qxb7 31. Qc5+ Kf7 32. Re7+ Kg6 33. Rxc7 Qb8 34. Qe7 Rg8 35. c4 Qb1 36. Qe3 h6 37. d5 Kh7 38. d6 Qg6+ 39. Kh4 Qg2 40. Qf4 Qh1 41. Kh5 Kh8 42. c5 Qg2 43. Qg3 Qc2 44. Kg4 f5+ 45. Kh5 Qd2 46. Kg6 f4 47. Qg4 Qxh2 48. d7 Qd2 49. Rc8 Qc2+ 50. Kf7 Qb3+ 51. Qe6 Qxe6+ 52. Kxe6 Kh7 53. Kf7 Rd8 54. Rxd8 g5 55. Rg8 g4 56. d8=Q gxh3 57. Rh8# 1-0

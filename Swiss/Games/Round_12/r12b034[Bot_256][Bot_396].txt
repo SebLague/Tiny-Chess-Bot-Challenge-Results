@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "11"]
+[White "GulcarBot (by: Gulcar)"]
+[Black "Baby Squid (by: Jonas Tyroller)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 c5 2. Qh5 Nf6 3. Qxc5 Nxe4 4. Qe5 Nd6 5. Be2 Nc6 6. Qg3 Nf5 7. Qc3 e5 8. Bb5 Ncd4 9. Ne2 Qg5 10. g3 Qg4 11. f4 Bb4 12. Qd3 Ne3 13. Qe4 Nexc2+ 14. Kf2 Qf5 15. Qxf5 Nxf5 16. Bd3 Nxa1 17. Bxf5 g6 18. Bd3 d6 19. Nbc3 Be6 20. Bb5+ Ke7 21. fxe5 dxe5 22. d4 exd4 23. Nxd4 Bc5 24. Be3 a6 25. Be2 Bxd4 26. Bxd4 Nc2 27. Bxh8 Rxh8 28. Rd1 Rd8 29. Rxd8 Kxd8 30. a3 Nd4 31. Bd3 b5 32. b4 f5 33. Nd1 Nc6 34. Bc2 Ne5 35. h4 Ng4+ 36. Kf3 Bd5+ 37. Kf4 Bc4 38. Nb2 Kc7 39. a4 Bd5 40. a5 Kd6 41. h5 Ke7 42. hxg6 hxg6 43. Kg5 Ne5 44. Nd3 Nxd3 45. Bxd3 Kf7 46. Bc2 Kg7 47. Bd1 Kh7 48. Kf6 Kh6 49. g4 fxg4 50. Bxg4 Bb7 51. Kf7 Kg5 52. Bd7 Kh5 53. Kf6 Kh6 54. Bg4 g5 55. Ke5 Kg6 56. Kd6 Kf6 57. Kc7 Bd5 58. Kb6 Ke7 59. Kxa6 Bc4 60. Kb7 Bd5+ 61. Kb8 Be4 62. a6 Kf7 63. a7 Ke7 64. Bc8 g4 65. Bb7 Bd3 66. a8=Q Kf8 67. Kc7+ Kg7 68. Qc8 Be2 69. Qd7+ Kf6 70. Qd4+ Kf7 71. Bd5+ Kg6 72. Qe4+ Kg5 73. Qxe2 Kf4 74. Kc6 Kg5 75. Qe5+ Kh4 76. Bg2 g3 77. Kxb5 Kg4 78. Qf6 Kh5 79. Bf3# 1-0

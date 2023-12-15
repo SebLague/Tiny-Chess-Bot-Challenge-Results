@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "8"]
+[White "Single Player (by: Salty Scientist)"]
+[Black "TimsBot (by: Thomas Dvorak)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e5 2. Qg4 h5 3. Nc3 g5 4. Qc4 c5 5. a3 b5 6. Qd5 f5 7. Bxb5 a5 8. Nf3 h4 9. Nxe5 g4 10. Qf7# 1-0

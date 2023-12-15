@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "3"]
+[White "Stephanee (by: Elijah Bradshaw)"]
+[Black "Jbot (by: KaraokeCzar)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 h5 2. d4 e6 3. Bd2 Nc6 4. Bf4 g5 5. Be3 f5 6. Be2 fxe4 7. Bxh5+ Rxh5 8. Qxh5+ Ke7 9. Bxg5+ Nf6 10. Qg6 Bg7 11. Qxg7+ Kd6 12. Bxf6 Qe8 13. Nc3 b5 14. Nxb5+ Kd5 15. Nxc7+ Kd6 16. Nxe8+ Kd5 17. Nc7+ Kd6 18. Nxa8 Kd5 19. Qf8 e5 20. Nc7+ Kxd4 21. Ne2+ Kc4 22. b3# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "32"]
+[White "RayBot (by: Shahriar Rayed)"]
+[Black "fuxy (by: nadavfux)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 d5 2. Nc3 Qd6 3. Qf3 Nf6 4. Nb5 Qc5 5. Qf4 Na6 6. c3 Bd7 7. d4 Qb6 8. a4 c6 9. Na3 h6 10. h4 Qb3 11. a5 g5 12. Qe5 Bg7 13. Bxa6 bxa6 14. hxg5 Nh5 15. Qc7 hxg5 16. Nf3 f6 17. g4 Bxg4 18. Qxc6+ Kf7 19. Ke2 Rac8 20. Qxa6 Nf4+ 21. exf4 Rxh1 22. Ke3 Rh3 23. Kd2 gxf4 24. Qxa7 Bxf3 25. Nc2 Qc4 26. Qa6 Qxa6 27. c4 Qxc4 28. Ne1 Qe2# 0-1

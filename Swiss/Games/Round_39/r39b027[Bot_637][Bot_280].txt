@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "38"]
+[White "MiniMagnus (by: Erik Fast)"]
+[Black "DeltaWeakness (by: Johan Zetterlund)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 c5 2. Nc3 e5 3. Bc4 Nf6 4. Nf3 Bd6 5. d3 O-O 6. Nb5 Be7 7. Nxe5 a6 8. Nc3 Nc6 9. Nxc6 dxc6 10. e5 Nd5 11. Qh5 b5 12. Bb3 Bb7 13. O-O Rc8 14. Be3 Qa5 15. Ne4 Qb6 16. c4 Nxe3 17. fxe3 b4 18. Nf6+ Bxf6 19. exf6 Rb8 20. Qg5 g6 21. Qh6 Rbd8 22. Qg7# 1-0

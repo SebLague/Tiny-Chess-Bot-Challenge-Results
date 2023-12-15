@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "41"]
+[White "nadjBot (by: Arman N)"]
+[Black "evilRatBot (by: Only_Mayonnaise)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 d6 2. Rb1 e6 3. Ra1 b6 4. Rb1 Bb7 5. Ra1 g6 6. Rb1 Bg7 7. Ra1 Nd7 8. Rb1 Ne7 9. Ra1 O-O 10. Rb1 Bxg2 11. Bxg2 Bxb2 12. Bxa8 Qxa8 13. Rxb2 Qxh1 14. Rxb6 Qxg1# 0-1

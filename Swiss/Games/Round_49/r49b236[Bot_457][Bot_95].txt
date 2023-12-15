@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "48"]
+[White "Version 8 (by: Whoever)"]
+[Black "Two Day Bot (by: )"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. e4 h6 2. Qh5 g6 3. Qe5 e6 4. Qxh8 Qe7 5. Qxg8 d5 6. Bb5+ Nc6 7. d3 Qb4+ 8. Nd2 Qxb5 9. Ndf3 Qb4+ 10. Nd2 dxe4 11. Qh8 exd3 12. cxd3 Qd6 13. Nc4 Qb4+ 14. Kd1 Qa4+ 15. Ke1 Qb4+ 16. Kd1 Qa4+ 17. Ke1 Qb4+ 18. Kd1 1/2-1/2

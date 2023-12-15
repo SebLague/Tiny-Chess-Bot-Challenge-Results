@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "32"]
+[White "Crazy? I was crazy once. They Locked me in a room. A rubber room. A rubber room with rats. Rats make me crazy. (by: Big red)"]
+[Black "ColégramBot (by: Colégram)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 d5 2. Rb1 Qd6 3. Ra1 Qc6 4. Rb1 d4 5. Ra1 g6 6. Rb1 d3 7. exd3 Qa6 8. Ke2 Qe6+ 9. Kf3 a5 10. Kg3 f5 11. Kf3 Nd7 12. Kg3 f4+ 13. Kxf4 h6 14. Kf3 h5 15. Kg3 Ngf6 16. Kf3 Qxa2 17. Ke2 Bh6 18. Ke1 O-O 19. Ke2 Ra6 20. Ke1 Nd5 21. Ke2 Re6# 0-1

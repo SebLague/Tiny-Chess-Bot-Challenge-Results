@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "47"]
+[White "Gen-Eric (by: Pressgoal)"]
+[Black "AUR Chessbot (by: Soul Senshi)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 c6 2. Nf3 e6 3. h4 Bxa3 4. bxa3 Ke7 5. Ne5 d6 6. Nc4 b5 7. Ne3 Na6 8. Rb1 Kd7 9. h5 Ke7 10. d4 Qa5+ 11. Bd2 Qxa3 12. c3 b4 13. Nc4 Qxa2 14. Bg5+ f6 15. Nd2 bxc3 16. Nb3 c2 17. Qd3 cxb1=Q+ 18. Qxb1 Qxb1+ 19. Nc1 fxg5 20. e3 Qxc1+ 21. Ke2 Nf6 22. Kf3 Qd1+ 23. Be2 Qxh1 24. Bd3 Qxh5+ 25. Kg3 Qh4+ 26. Kf3 Qg4# 0-1

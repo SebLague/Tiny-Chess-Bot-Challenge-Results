@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "57"]
+[White "3D.Opening Bot (by: Mark Grennan)"]
+[Black "ItPlaysBetterThanMe (by: RB)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 b6 2. Nc3 a6 3. Nf3 f5 4. Nd5 a5 5. Qd2 h6 6. Qc3 c5 7. dxc5 a4 8. cxb6 h5 9. Be3 g6 10. Qxh8 d6 11. Qxg8 a3 12. Qxg6+ Kd7 13. Qxf5+ e6 14. Qf7+ Be7 15. Nf6+ Kc6 16. Ne4 axb2 17. Nd4+ Kxb6 18. Nxe6+ Kb5 19. Qxh5+ d5 20. Nc3+ Ka6 21. Rb1 Bxe6 22. Rxb2 d4 23. Qb5+ Ka7 24. Qb7# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "57"]
+[White "Hungry For Mates (by: Bisque)"]
+[Black "holcak-bot (by: Petr Holčák)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 h5 2. Rb1 g5 3. Nf3 g4 4. Ng1 f5 5. d3 e5 6. Nc4 d5 7. Nd2 c5 8. Ra1 b5 9. Rb1 a5 10. Ra1 h4 11. Nb1 d4 12. Na3 b4 13. Nb1 a4 14. a3 bxa3 15. Rxa3 Ne7 16. Kd2 f4 17. c3 dxc3+ 18. Kxc3 f3 19. gxf3 gxf3 20. Nxf3 e4 21. Ne1 exd3 22. exd3 Nd7 23. Rg1 Nc6 24. Qe2+ Kf7 25. Qf3+ Ke8 26. Qxc6 Rb8 27. Rxa4 c4 28. Kxc4 Be7 29. Qg6+ Kf8 30. Bh6+ Rxh6 31. Qg8# 1-0

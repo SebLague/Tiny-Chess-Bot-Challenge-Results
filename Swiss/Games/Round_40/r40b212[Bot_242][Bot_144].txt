@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "39"]
+[White "SlothBot (by: 0xFF)"]
+[Black "Caissa Alexander (by: Ephraim225)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 e6 2. Nc3 Bc5 3. d4 Bb4 4. Bg5 Nf6 5. e4 O-O 6. e5 Nc6 7. exf6 g6 8. Bd3 Re8 9. O-O b6 10. a3 Bd6 11. Ne4 Bf8 12. c4 Ba6 13. Qa4 Bb7 14. Rad1 Nb8 15. b4 h5 16. c5 b5 17. Qxb5 Bd5 18. Rfe1 Nc6 19. Qa6 Nb8 20. Qa4 Kh7 21. b5 Kh8 22. Ne5 Bxe4 23. Nxf7+ Kg8 24. Nxd8 Bd5 25. f7+ Kg7 26. fxe8=Q Kh8 27. Qxf8+ Kh7 28. Qf7+ Kh8 29. Bxg6 Nc6 30. Qf8# 1-0

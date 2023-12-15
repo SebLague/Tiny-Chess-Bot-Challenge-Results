@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "42"]
+[White "Chark Bot V2 (by: Team Chark)"]
+[Black "Minimaxibon v1 (by: NotSureWhyThisWorks)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Qf3 e5 3. Bc4 d5 4. Bxd5 Nh6 5. Qh5 Nb4 6. Qxe5+ Kd7 7. Bb3 c5 8. Ba4+ Nc6 9. Nf3 Ng4 10. Qd5+ Kc7 11. Qxf7+ Kb6 12. h3 Qe7 13. Qxe7 Nxe7 14. hxg4 Bxg4 15. Ne5 Be6 16. Ke2 Nc6 17. Ng6 Nd4+ 18. Ke3 Rg8 19. Rxh7 Bf7 20. Ne5 Ka5 21. Nc3 Be6 22. Bb3 Bd6 23. Bxe6 Nxc2+ 24. Kd3 Nxa1 25. Nc4+ Ka6 26. Bxg8 Rxg8 27. Nxd6 Rd8 28. e5 Rd7 29. Ne4 c4+ 30. Kxc4 Ka5 31. Nc5 Rc7 32. Nxb7+ Kb6 33. a4 Rxb7 34. Nxb7 Kxb7 35. e6 Nc2 36. e7 Ne1 37. Rxg7 Kb6 38. e8=Q Ka5 39. Qb5# 1-0

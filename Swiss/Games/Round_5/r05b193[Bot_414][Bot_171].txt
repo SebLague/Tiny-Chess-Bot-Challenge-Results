@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "4"]
+[White "Aron's engine (by: Aron Martens)"]
+[Black "Boht (by: Tex)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 d5 2. Rb1 e5 3. Nb5 g6 4. Ra1 d4 5. Rb1 c6 6. Na3 Qd5 7. Ra1 Bd6 8. Nb1 Qe4 9. Nf3 Nh6 10. Rg1 f6 11. Rh1 Qf4 12. Rg1 Be6 13. Rh1 Bd5 14. Ng1 O-O 15. Nh3 Qe4 16. Rg1 Qf5 17. a3 e4 18. Rh1 Kf7 19. Ng1 Re8 20. Nh3 g5 21. Ng1 Ng4 22. Nh3 Nxh2 23. e3 Nxf1 24. Qh5+ Qg6 25. Qxg6+ hxg6 26. Rxf1 Be5 27. exd4 Bxd4 28. Rg1 Rh8 29. Rh1 g4 30. c3 Be5 31. c4 Bxc4 32. d3 Bxd3 33. f4 gxf3 34. gxf3 exf3 35. Kf2 Be4 36. Ke3 f2 37. Kxe4 Rxh3 38. Rd1 Rg3 39. Ra2 Rg1 40. Be3 Rxd1 41. Bxf2 Rxb1 42. b4 Ke6 43. Be3 f5+ 44. Kd3 Rb3+ 45. Kd2 Kd5 46. Ke2 Ke4 47. Bc1 Bd4 48. Kd1 b6 49. Rg2 Ke5 50. Rxg6 Ke4 51. Ke2 Be5 52. Ke1 Rb1 53. Kd1 Bf4 54. Ke2 Rxc1 55. Rg8 Be5 56. Kf2 Rc2+ 57. Ke1 Ke3 58. Kd1 Rd2+ 59. Kc1 Rd4 60. b5 Rc4+ 61. Kd1 cxb5 62. Re8 Ke4 63. Rf8 Rc3 64. a4 Rd3+ 65. Kc2 bxa4 66. Kc1 Rc3+ 67. Kd1 Bd4 68. Kd2 Ke5 69. Re8+ Kd5 70. Rd8+ Kc4 71. Ke2 Re3+ 72. Kd2 Rh3 73. Ke2 Rh8 74. Rxh8 Bxh8 75. Ke3 Be5 76. Kd2 Nc6 77. Ke2 Kd4 78. Kf3 Kd5 79. Ke2 Ke4 80. Kf2 Rd8 81. Kf1 Kf3 82. Ke1 Rd4 83. Kf1 Rd1# 0-1

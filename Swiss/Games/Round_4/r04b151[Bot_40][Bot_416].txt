@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "3"]
+[White "holcak-bot (by: Petr Holčák)"]
+[Black "ReturnOfTheQueen (by: Staicu Ciprian)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 b6 2. g4 Bb7 3. Rh3 Nf6 4. g5 Nd5 5. e4 Nf4 6. Rg3 e5 7. c4 Bxe4 8. Nc3 Bg6 9. a4 Bb4 10. Nb5 c6 11. Nxa7 Rxa7 12. a5 bxa5 13. f3 Qb6 14. b3 Qe3+ 15. Ne2 Nd3# 0-1

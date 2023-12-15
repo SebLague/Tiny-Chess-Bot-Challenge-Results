@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "26"]
+[White "SimpleMinds (by: Karl Jungtow)"]
+[Black "Chess Bot (by: M)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Bc5 4. Nxe5 Nc6 5. Nxc6 dxc6 6. Qf3 Be6 7. Na4 Bd4 8. c3 Be5 9. d4 Bd6 10. Bg5 h6 11. d5 cxd5 12. Bb5+ c6 13. Bxf6 gxf6 14. exd5 cxb5 15. dxe6 fxe6 16. Qxb7 Qc8 17. Qxb5+ Kf8 18. Qb3 h5 19. Qd1 Be5 20. O-O Qb8 21. f4 Bxf4 22. Qf3 Bxh2+ 23. Kh1 Be5 24. Rae1 Kf7 25. Re3 Rh6 26. Rxe5 Qxe5 27. Qxa8 Qc7 28. Re1 f5 29. b4 Qe7 30. Kg1 a5 31. Qxa5 h4 32. Qb6 h3 33. Rxe6 Rxe6 34. Qf2 Re1+ 35. Kh2 Qe5+ 36. g3 Qe4 37. Qa7+ Kg6 38. Qa6+ Kg5 39. Qf6+ Kxf6 40. Kxh3 Qh1# 0-1

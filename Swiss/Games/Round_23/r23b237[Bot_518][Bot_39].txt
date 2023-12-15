@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "22"]
+[White "FancyDefenceFence (by: FancyDefenceFenceFan)"]
+[Black "Blind Bot (by: Moonwalker3)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 Nc6 2. d4 Nf6 3. c4 Ne4 4. Qb3 b6 5. Bd2 Nd6 6. Qxb6 axb6 7. Na3 Ne4 8. f4 Nd6 9. h4 Ne4 10. d5 Na7 11. Nb5 c5 12. Nxa7 Rxa7 13. Ba5 bxa5 14. g4 Nd6 15. Kd2 Ne4+ 16. Kc1 Nd6 17. Kd2 Ra6 18. e4 Nxe4+ 19. Kc1 Nd6 20. Kd2 Rb6 21. a4 Rxb2+ 22. Ke3 Rb3+ 23. Kd2 Ne4+ 24. Ke1 Re3+ 25. Ne2 Rd3 26. Nd4 Rxd4 27. d6 exd6 28. Ke2 Rxc4 29. Kd1 Rd4+ 30. Kc1 Nc3 31. Kb2 Ne4 32. Bc4 Rxc4 33. Ka2 Rxa4+ 34. Kb1 Rd4 35. h5 Rd3 36. Rxa5 Qxa5 37. Kc1 Re3 38. Rd1 Rc3+ 39. Kb2 Re3 40. Rg1 Rd3 41. Kc1 Re3 42. Kb2 Re2+ 43. Kc1 Qa1# 0-1

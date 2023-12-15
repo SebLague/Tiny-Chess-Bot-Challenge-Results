@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "7"]
+[White "AIsaac (by: Isaac Ellwood)"]
+[Black "No Brain but Hungry (by: Pete)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 Nf6 2. f4 Nd5 3. d4 f6 4. g4 a5 5. e4 Nb4 6. c4 N4c6 7. a4 Ra7 8. h5 Rg8 9. h6 g6 10. g5 Na6 11. gxf6 exf6 12. f5 Bb4+ 13. Nc3 Bf8 14. fxg6 hxg6 15. h7 Rh8 16. e5 f5 17. c5 Nab8 18. b3 Ra8 19. Nd5 Kf7 20. e6+ dxe6 21. Nf4 g5 22. Qh5+ Ke7 23. Qxg5+ Kf7 24. Qh5+ Ke7 25. Qh4+ Ke8 26. Qh5+ Ke7 27. Qh4+ Kf7 28. Qh5+ Kg7 29. Qg6# 1-0

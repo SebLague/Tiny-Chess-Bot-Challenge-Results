@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "60"]
+[White "EpsilonCheck (by: aymco)"]
+[Black "HikuBot (by: Hikushii)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. h4 Nf6 3. Nc3 e5 4. Bc4 Nxe4 5. Nxe4 d5 6. d3 dxc4 7. dxc4 Qxd1+ 8. Kxd1 Bf5 9. f3 O-O-O 10. Bd2 Rd4 11. Ne2 Rxc4 12. b3 Rxe4 13. fxe4 Bxe4 14. Rf1 f6 15. g4 Bc5 16. a4 Bg2 17. Rf5 Ne7 18. Rh5 Bf3 19. b4 Bf2 20. Be1 Rd8+ 21. Bd2 h6 22. Rf5 Nxf5 23. gxf5 Be3 24. Ke1 Rxd2 25. Ng3 Rxc2 26. a5 Bf2+ 27. Kf1 Bxg3 28. a6 Rh2 29. b5 Rh1# 0-1

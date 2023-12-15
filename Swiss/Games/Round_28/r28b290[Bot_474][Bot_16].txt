@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "27"]
+[White "Good Bot Bad Bot (But Really, Both Are Terrible Bots, Also This In The Parenthesis Is Part Of The Name) (by: Legend)"]
+[Black "Cirrus v0.1 (by: Bbrainstormer)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. b4 Na6 2. g4 Nxb4 3. f3 Nxa2 4. Rxa2 Rb8 5. Rxa7 Ra8 6. Rxa8 Nf6 7. Rxc8 Qxc8 8. Bg2 Nxg4 9. fxg4 Kd8 10. Bxb7 Qxb7 11. Na3 Qxh1 12. Nb5 Qxg1# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "4"]
+[White "Baloo-D (by: Dimitri)"]
+[Black "BIG CHUMPER V6.0 (by: Pedro Contipelli)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Bc4 Nf6 3. Nc3 e5 4. Bb5 Nd4 5. Bf1 g5 6. Bc4 h5 7. Rb1 h4 8. Kf1 b6 9. Ba6 Bxa6+ 10. d3 Rg8 11. Nh3 g4 12. Ng1 b5 13. b3 b4 14. Na4 Nxe4 15. Qxg4 Rxg4 16. Bg5 Qxg5 17. Nh3 Qd2 18. f3 Qxg2+ 19. Ke1 Qe2# 0-1

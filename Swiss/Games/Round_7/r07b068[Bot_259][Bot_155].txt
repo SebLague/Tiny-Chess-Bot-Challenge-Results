@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "6"]
+[White "DarnBot (by: Darn)"]
+[Black "CompressionBot (by: Nathan George)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bf4 e6 4. e3 Bb4 5. Bd3 Bxc3+ 6. bxc3 Nc6 7. Nf3 O-O 8. h4 Ne4 9. Bxe4 dxe4 10. Nd2 f5 11. Rb1 Qe7 12. Nc4 Rf7 13. Qe2 a6 14. Kd2 b5 15. Ne5 Nxe5 16. Bxe5 Bb7 17. c4 Bc6 18. c5 Bd5 19. a3 Ba2 20. Ra1 Bc4 21. Qh5 Rb8 22. Qg5 b4 23. Qxe7 Rxe7 24. axb4 Rxb4 25. Kc3 Rb7 26. Kxc4 Ra7 27. Ra3 Re8 28. Rha1 Rea8 29. d5 exd5+ 30. Kxd5 Rd8+ 31. Ke6 Rd2 32. Rxa6 Rxa6+ 33. Rxa6 h6 34. Ra8+ Kh7 35. c4 Rxf2 36. Rc8 f4 37. Rxc7 Rxg2 38. Bxf4 Rg4 39. Be5 Kg8 40. c6 h5 41. Rxg7+ Rxg7 42. Bxg7 Kxg7 43. c7 Kg6 44. c8=R Kg7 45. Ke7 Kg6 46. Rg8+ Kh6 47. Kf7 Kh7 48. Rf8 Kh6 49. Rh8# 1-0

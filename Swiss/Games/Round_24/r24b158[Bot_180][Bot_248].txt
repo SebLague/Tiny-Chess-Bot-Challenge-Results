@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "23"]
+[White "Sørensen's Minimax (by: Victor)"]
+[Black "SimpleMinds (by: Karl Jungtow)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. e3 e5 2. Qg4 Qf6 3. Bb5 Bc5 4. Nc3 Nh6 5. Qh5 Qb6 6. Qxe5+ Kf8 7. Kf1 Bd6 8. Qd4 c5 9. Qe4 f5 10. Qd5 Ng4 11. Qxf5+ Nf6 12. Ke2 c4 13. Bxc4 Qc6 14. Bd5 Qb6 15. Bc4 Qc6 16. Bd5 Qb6 17. Bc4 1/2-1/2

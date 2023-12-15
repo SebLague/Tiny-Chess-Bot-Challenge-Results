@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "16"]
+[White "More Recursion! (by: Bden)"]
+[Black "BadMeetsEvil (by: Nathan)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 c6 2. Qg4 Nh6 3. Qg5 Ng8 4. Bc4 d6 5. Qh5 Bd7 6. Bxf7# 1-0

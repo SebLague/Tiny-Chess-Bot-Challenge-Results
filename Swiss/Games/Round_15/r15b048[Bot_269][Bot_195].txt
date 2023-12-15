@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "14"]
+[White "AugsBot (by: Augs)"]
+[Black "YDepth (by: Jerome Engelbrecht)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nc6 2. e4 Nf6 3. e5 Nd5 4. c4 Nb6 5. c5 Nd5 6. Nc3 Nxc3 7. dxc3 f6 8. Bd3 fxe5 9. Ng5 e4 10. Bxe4 Ne5 11. Nxh7 d6 12. Qh5+ Nf7 13. Qg6 Qd7 14. Be3 dxc5 15. Nxf8 Kxf8 16. Bxc5 Rh6 17. Qg3 Re6 18. f3 Nd6 19. Bd4 g6 20. Qh4 Rxe4+ 21. fxe4 Qg4 22. Qh8+ Kf7 23. O-O Ke6 24. e5 Nf5 25. Qg8+ Kd7 26. Rad1 c5 27. Bxc5+ Kc7 28. Qd8+ Kc6 29. Bxe7 Nxe7 30. Rf6+ Kb5 31. Rd4 Qxg2+ 32. Kxg2 Bh3+ 33. Kxh3 Rxd8 34. Rxd8 Nc6 35. e6 Ka4 36. Rd5 g5 37. Rxg5 Nb4 38. cxb4 a6 39. Rg4 a5 40. e7 axb4 41. e8=B+ Ka5 42. Rg5+ b5 43. Kg2 b3 44. Rxb5+ Ka4 45. axb3# 1-0

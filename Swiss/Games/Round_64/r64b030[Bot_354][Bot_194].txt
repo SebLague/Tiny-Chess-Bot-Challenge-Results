@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "63"]
+[White "FomBot (by: fominvic81)"]
+[Black "Deerobot (by: Hugo Ingelsson)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. d4 Nf6 3. e5 Nd5 4. c4 Ndb4 5. Nf3 d6 6. d5 Nxe5 7. Qa4+ Qd7 8. Qxb4 Qf5 9. Be2 Qg6 10. O-O Nxf3+ 11. Bxf3 Kd8 12. Nc3 Qf5 13. Be3 Qe5 14. Rad1 b6 15. a3 Bf5 16. Bd4 Qf4 17. Qa4 f6 18. Be3 Qe5 19. Qc6 Rc8 20. Rfe1 Bd7 21. Qb7 Qf5 22. Nb5 Bxb5 23. cxb5 Qc2 24. Bd4 Qb3 25. Bg4 f5 26. Bxf5 e6 27. Bxe6 Ra8 28. Qxa8+ Ke7 29. Bg8+ Qe3 30. Rxe3+ Kd7 31. Qe8# 1-0

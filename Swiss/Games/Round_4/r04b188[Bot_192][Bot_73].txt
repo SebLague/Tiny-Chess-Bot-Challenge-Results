@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "3"]
+[White "Jormungandr (but scuffed) (by: CptShini)"]
+[Black "evilbot v2 (by: aria1400)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c3 f5 2. Nh3 b6 3. e3 Nh6 4. Qh5+ g6 5. Qf3 c6 6. e4 g5 7. Qh5+ Nf7 8. Nxg5 e5 9. Qxf7# 1-0

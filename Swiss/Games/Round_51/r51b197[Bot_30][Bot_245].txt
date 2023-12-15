@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "50"]
+[White "WhyAmIABot (by: Levi)"]
+[Black "Gen-Eric (by: Pressgoal)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. b3 Na6 2. g4 Nb4 3. Nh3 Nf6 4. Nc3 Nxg4 5. Ba3 Nc6 6. Bg2 Nd4 7. Qc1 c6 8. O-O Qc7 9. Rd1 Qxh2+ 10. Kf1 a5 11. Bxc6 Qxh3+ 12. Kg1 Qh2+ 13. Kf1 Qxf2# 0-1

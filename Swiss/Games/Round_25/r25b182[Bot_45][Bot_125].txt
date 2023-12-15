@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "24"]
+[White "HopeBot (by: Chinmay Krishna)"]
+[Black "BaddieBot (by: Domic)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e5 2. Qg4 Nf6 3. Qf5 e4 4. c3 Bd6 5. h4 O-O 6. Bc4 Nc6 7. Rh3 Rb8 8. a4 h6 9. b3 Kh8 10. g4 Kg8 11. b4 Kh8 12. g5 hxg5 13. hxg5+ Kg8 14. gxf6 gxf6 15. Qg4# 1-0

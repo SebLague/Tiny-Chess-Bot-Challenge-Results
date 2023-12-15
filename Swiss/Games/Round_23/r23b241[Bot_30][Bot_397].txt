@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "22"]
+[White "WhyAmIABot (by: Levi)"]
+[Black "TinyLispChessBot (by: tr00)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f3 Na6 2. h3 Nb4 3. d4 Rb8 4. Na3 Ra8 5. Bf4 Rb8 6. Qb1 Ra8 7. Qc1 Rb8 8. Qd2 e6 9. O-O-O Nxa2+ 10. Kb1 Bb4 11. Qe3 Qh4 12. Kxa2 Bxa3 13. Bxc7 Qh6 14. Qxa3 Ra8 15. g4 Qh4 16. Rd2 Qe1 17. Rd3 Qxf1 18. Qb3 Qg2 19. Qb4 Qxh1 20. Qa5 Qxg1 21. Qg5 Nf6 22. Qxg7 Rf8 23. Qxf6 Qa1+ 24. Kxa1 Rb8 25. Qd8# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "35"]
+[White "KnightToE4 (by: Tree)"]
+[Black "HopeBot (by: Chinmay Krishna)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. g4 e5 2. Nc3 Qh4 3. Nf3 Qxg4 4. Nxe5 Qh4 5. Nb5 Qc4 6. Nxc4 d5 7. Ne5 Bd6 8. Nf3 Bf5 9. Nxd6+ cxd6 10. Rg1 g6 11. Nd4 Kd7 12. Nxf5 gxf5 13. Rb1 Nc6 14. Ra1 Nf6 15. Rb1 Ng8 16. Ra1 Nf6 17. Rb1 Ng8 1/2-1/2

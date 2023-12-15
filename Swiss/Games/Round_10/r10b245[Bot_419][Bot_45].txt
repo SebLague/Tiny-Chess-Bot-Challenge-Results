@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "9"]
+[White "PrincessAtta (by: Bowser Bowering and Allyn Lloyd)"]
+[Black "HopeBot (by: Chinmay Krishna)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e5 2. d4 exd4 3. e4 h5 4. e5 d3 5. e6 dxe6 6. Qxd3 f5 7. Be2 h4 8. Bh5+ Rxh5 9. g4 Qxd3 10. a4 Bb4+ 11. c3 Qe4+ 12. Ne2 Qxh1+ 13. Ng1 Qxg1+ 14. Ke2 Qxg4+ 15. f3 Qg2+ 16. Kd1 Qxf3+ 17. Kc2 Bc5 18. b4 Qe2+ 19. Nd2 Be3 20. a5 Bxd2 21. a6 Be3+ 22. Bd2 Qxd2+ 23. Kb3 Nxa6 24. b5 Nb8 25. b6 Bxb6 26. c4 Nc6 27. c5 Bxc5 28. h3 Ne5 29. Ra2 Qd1+ 30. Kc3 Rg5 31. Rd2 Rg3+ 32. Kb2 Qxd2+ 33. Ka1 Rg1# 0-1

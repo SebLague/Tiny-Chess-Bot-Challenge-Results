@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "55"]
+[White "Octobot (by: Andrea Colognese)"]
+[Black "jmcgbot (by: jmcg)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 g5 2. Qh5 e5 3. Bb5 c5 4. Nf3 Qb6 5. Nxe5 Nf6 6. Qxf7+ Kd8 7. Ng6 hxg6 8. Nc3 a6 9. Bd3 g4 10. Na4 Qc6 11. Bxg6 Qe6 12. Nxc5 Qxf7 13. Bxf7 Bxc5 14. Bc4 d6 15. Be2 b6 16. b3 d5 17. Bb2 Be7 18. Be5 a5 19. Rb1 Nbd7 20. Bd4 Rh7 21. f3 gxf3 22. Bxf3 b5 23. Bc3 a4 24. bxa4 Rxa4 25. Rxb5 Rxa2 26. Ke2 Ba6 27. Rb1 Rxh2 28. Bd4 Rh4 29. c4 dxc4 30. R1b2 Rxb2 31. Bb6+ Nxb6 32. Ra5 Bb4 33. g3 Rh2+ 34. Kd1 Rbxd2+ 35. Kc1 Bxa5 36. Kb1 Rhf2 37. e4 Rxf3 38. g4 Rf1# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "7"]
+[White "One-Line Chess (by: Kaydon Sloan)"]
+[Black "Sørensen's Minimax (by: Victor)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. c4 e6 2. Nc3 Qh4 3. d4 Bb4 4. Nf3 Qe4 5. Ng5 Qf5 6. e4 Qa5 7. Bd2 Nc6 8. a3 Bxc3 9. bxc3 Nf6 10. e5 Nxe5 11. dxe5 Qxe5+ 12. Be2 h6 13. f4 Qc5 14. Nf3 Ne4 15. Nd4 Qe7 16. Qc2 d5 17. cxd5 exd5 18. O-O Nxd2 19. Qxd2 Bd7 20. Rfe1 c5 21. Bb5 Bxb5 22. Nxb5 Qxe1+ 23. Rxe1+ Kf8 24. Qxd5 g5 25. Qxc5+ Kg8 26. fxg5 Rd8 27. gxh6 Rxh6 28. Qg5+ Kh7 29. Qxd8 Rc6 30. Qd7 Kg6 31. Qxb7 Rc5 32. Qxa7 Rxb5 33. Qa6+ Rb6 34. Qxb6+ Kg7 35. Rf1 Kg8 36. Qh6 f5 37. Rb1 Kf7 38. Rb7+ Ke8 39. Kf1 Kd8 40. Qa6 Ke8 41. Ke1 Kd8 42. Kd1 Ke8 43. Kc1 Kd8 44. Kb1 Ke8 45. Ka1 Kd8 46. Kb1 Ke8 47. Ka1 Kd8 48. Kb1 1/2-1/2

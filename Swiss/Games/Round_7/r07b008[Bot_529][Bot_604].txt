@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "6"]
+[White "NNBot (by: Jamie Whiting)"]
+[Black "Thunker Weed (by: American Jeff)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 d5 2. e3 Nc6 3. c4 d4 4. exd4 Nxd4 5. Nxd4 Qxd4 6. Be2 Bf5 7. O-O O-O-O 8. Nc3 Bd3 9. Qb3 c6 10. c5 e6 11. Bxd3 Qxd3 12. Qa3 a6 13. Re1 Nf6 14. b4 Be7 15. Re3 Qf5 16. f3 Rhe8 17. Ne2 Nd5 18. d4 Nxe3 19. Bxe3 e5 20. Ng3 Qe6 21. dxe5 Qxe5 22. Re1 Qd5 23. Qc1 Qxa2 24. Nh5 g6 25. Ng7 Rf8 26. Qc3 Qd5 27. Qa1 f5 28. Bf4 Bf6 29. Be5 Bxe5 30. Qxe5 Qxe5 31. Rxe5 Rd1+ 32. Kf2 Rd2+ 33. Kg3 Kd7 34. f4 Rb2 35. h3 Rxb4 36. h4 Rg8 37. Ne6 Re8 38. Ng7 Rxe5 39. fxe5 h5 40. Kh2 Rxh4+ 41. Kg3 Rc4 42. Kh2 Ke7 43. e6 Kf8 44. Nxf5 gxf5 45. Kg3 Ke7 46. Kh3 Rxc5 47. Kh4 Rc3 48. Kxh5 Rg3 49. Kh4 f4 50. Kh5 Rxg2 51. Kh4 f3 52. Kh5 Kxe6 53. Kh6 f2 54. Kh7 f1=Q 55. Kh6 Qh1# 0-1

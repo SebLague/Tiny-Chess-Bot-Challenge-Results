@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "48"]
+[White "ColégramBot (by: Colégram)"]
+[Black "The Seeker (by: Lucas Pellegrinelli)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c3 d5 2. e3 e5 3. Qh5 Bd6 4. Nf3 g6 5. Qxe5+ Bxe5 6. Nxe5 f6 7. Nd3 Nc6 8. a3 Bf5 9. h4 Qd7 10. b4 Ne5 11. Nc5 Qc8 12. d4 Nc6 13. Nd2 Nce7 14. e4 dxe4 15. b5 Nd5 16. Ndxe4 Bxe4 17. Nxe4 Qe6 18. Bd3 Nxc3 19. f3 f5 20. Bf4 fxe4 21. Kd2 exd3 22. Kxc3 Qb6 23. Rhd1 Qa5+ 24. Kxd3 Qxb5+ 25. Kc3 c5 26. Rdc1 cxd4+ 27. Kxd4 Qb2+ 28. Ke4 Nf6+ 29. Kd3 Rd8+ 30. Bd6 Rxd6+ 31. Kc4 O-O 32. Kc5 Rc6# 0-1

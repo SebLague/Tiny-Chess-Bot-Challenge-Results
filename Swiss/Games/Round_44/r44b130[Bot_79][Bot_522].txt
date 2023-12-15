@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "43"]
+[White "SybBot (by: Sybsuper)"]
+[Black "Pharouk (by: Pydjama)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e6 2. c4 Qh4 3. Qf3 Nf6 4. Nc3 Bd6 5. Nb5 a6 6. Nxd6+ cxd6 7. e5 dxe5 8. d3 Rg8 9. Be2 h5 10. g3 Qd4 11. Kd1 Ng4 12. Nh3 Nc6 13. a4 e4 14. Qxe4 Nxf2+ 15. Nxf2 Qxf2 16. Qh7 Ne7 17. Bxh5 g6 18. Be2 Qg2 19. Bf3 Qxf3+ 20. Ke1 Qxh1+ 21. Kd2 d5 22. b4 dxc4 23. dxc4 a5 24. bxa5 Rxa5 25. g4 Qe4 26. h4 Qd4+ 27. Ke2 Qxa1 28. Bg5 Rh8 29. Qxh8+ Qxh8 30. Bxe7 Kxe7 31. h5 g5 32. Kd2 e5 33. Kc3 Bd7 34. Kb4 b6 35. Ka3 f6 36. Ka2 e4 37. Kb2 f5+ 38. Kb1 fxg4 39. Ka2 Qc3 40. Kb1 Rxa4 41. c5 bxc5 42. h6 c4 43. h7 Qa1+ 44. Kc2 Ra2# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "29"]
+[White "TinyNoTimeToCodeChessEngine (by: )"]
+[Black "GPTGenerated (by: athibaul)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a4 c6 2. c4 d5 3. cxd5 cxd5 4. e4 e6 5. Bb5+ Bd7 6. exd5 Bxb5 7. dxe6 Bc6 8. exf7+ Kxf7 9. Qc2 Ke8 10. Qf5 Bxg2 11. Qh5+ Kd7 12. Qg4+ Kd6 13. Qxg2 Qe7+ 14. Ne2 g5 15. b3 Qf6 16. d4 Qf5 17. Qxb7 Qa5+ 18. Bd2 Qb6 19. Bb4+ Ke6 20. d5+ Kf5 21. Qc8+ Ke5 22. Qxf8 Qg6 23. Nbc3 Qh6 24. Bd6+ Qxd6 25. f4+ gxf4 26. Qxf4# 1-0

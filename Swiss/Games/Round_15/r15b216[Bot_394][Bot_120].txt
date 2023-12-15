@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "14"]
+[White "Why Use Full Brain (by: JustAdy)"]
+[Black "EldenBot (by: Ghost_Dev_84)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 a6 2. d4 a5 3. e5 a4 4. d5 a3 5. Nf3 axb2 6. Bxb2 b6 7. Ng5 b5 8. Bxb5 c6 9. Ne4 cxb5 10. Nf6+ exf6 11. h4 fxe5 12. Bxe5 b4 13. g4 b3 14. axb3 Rxa1 15. Bxb8 d6 16. f4 f6 17. c4 f5 18. h5 fxg4 19. b4 g3 20. b5 g2 21. Nc3 Rxd1+ 22. Nxd1 gxh1=Q+ 23. Ke2 g6 24. hxg6 hxg6 25. Ne3 g5 26. fxg5 Bg4+ 27. Nxg4 Bh6 28. gxh6 Nxh6 29. Nf6+ Qxf6 30. b6 Ng4 31. b7 Nf2 32. Bc7 Nd1 33. b8=B Nc3+ 34. Ke3 Nxd5+ 35. cxd5 Rh3+ 36. Ke2 Qb2# 0-1

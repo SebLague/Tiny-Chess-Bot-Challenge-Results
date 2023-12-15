@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "25"]
+[White "LesMoutons (by: Beaud Rémi and Mechulam Antoine)"]
+[Black "FunBot (by: Paul Spooner AKA Dudecon)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 h5 2. Ne5 f6 3. Ng6 c6 4. Nxh8 d6 5. Ng6 c5 6. e4 a6 7. Qxh5 Nd7 8. Nf4+ g6 9. Qxg6# 1-0

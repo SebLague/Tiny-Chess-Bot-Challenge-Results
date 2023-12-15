@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "3"]
+[White "Vast V2 (by: Joseph Pasfield)"]
+[Black "Sørensen's Minimax (by: Victor)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 d5 2. g3 Qd6 3. Bg2 e5 4. O-O Bg4 5. d4 Bxf3 6. dxe5 Qxe5 7. exf3 g5 8. Re1 Qxe1+ 9. Qxe1+ Kd7 10. Qe5 f6 11. Qxd5+ Ke8 12. Qxb7 Nh6 13. Qxa8 Kf7 14. Qxb8 Nf5 15. Qxc7+ Be7 16. Nc3 Ke6 17. Qc4+ Kd7 18. Qb5+ Ke6 19. Qd5# 1-0

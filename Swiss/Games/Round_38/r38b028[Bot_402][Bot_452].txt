@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "37"]
+[White "Lxna (V4) (by: Ludovic Debever (Lxdovic))"]
+[Black "Midnight Oil (by: Danny Boy)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nc6 2. d4 d5 3. Nc3 Nf6 4. Bf4 Be6 5. Nb5 Rc8 6. Ng5 Bf5 7. c4 h6 8. Nxc7+ Rxc7 9. Bxc7 Qxc7 10. cxd5 Qa5+ 11. Qd2 Qxd5 12. Nf3 e5 13. a3 Nxd4 14. Nxd4 Ne4 15. Qe3 exd4 16. Qc1 Qa5+ 17. Qc3 dxc3 18. b4 Qd5 19. Rd1 c2 20. Rxd5 c1=Q+ 21. Rd1 Qc3+ 22. Rd2 Qxd2# 0-1

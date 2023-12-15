@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "59"]
+[White "EldenBot (by: Ghost_Dev_84)"]
+[Black "ScaredyBot (by: Jacob Sweeten)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a3 Nc6 2. b3 Nf6 3. c3 b6 4. d3 g6 5. e3 Rb8 6. f3 Rb7 7. g3 Rb8 8. h3 Rb7 9. a4 Rb8 10. b4 Na5 11. bxa5 Rb7 12. axb6 axb6 13. c4 Rb8 14. d4 Rb7 15. e4 Ng4 16. hxg4 Rb8 17. f4 Rb7 18. a5 Ra7 19. axb6 Rb7 20. bxc7 Rxc7 21. c5 Rc6 22. d5 Rd6 23. cxd6 exd6 24. e5 Ke7 25. exd6+ Kxd6 26. f5 Kc7 27. fxg6 fxg6 28. d6+ Kb6 29. g5 Bh6 30. gxh6 Kb7 31. g4 Kb6 32. g5 Qg8 33. Be3+ Kb7 34. Bg2+ Kb8 35. Ra8# 1-0

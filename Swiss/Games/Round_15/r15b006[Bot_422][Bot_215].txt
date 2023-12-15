@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "14"]
+[White "FloppyChess 4.2 (by: Omsk)"]
+[Black "gml16 (by: gml16)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Nf3 Nf6 3. e5 Ne4 4. d3 Nc5 5. d4 Ne4 6. d5 Nb4 7. c3 Na6 8. Qc2 f5 9. Nbd2 Nxd2 10. Bxd2 g6 11. O-O-O c6 12. dxc6 dxc6 13. Bxa6 bxa6 14. Qa4 Qd5 15. c4 Qd7 16. Ba5 Qb7 17. Ng5 Bd7 18. e6 Bxe6 19. Nxe6 Rc8 20. Kb1 Rg8 21. Rd8+ Kf7 22. c5 Bg7 23. Ng5+ Kf6 24. Nxh7+ Kf7 25. Qc4+ e6 26. Ng5+ Kf6 27. f4 Qxb2+ 28. Kxb2 Rb8+ 29. Kc1 Rb1+ 30. Kxb1 Bf8 31. Qxe6+ Kg7 32. Qf7+ Kh6 33. Qh7# 1-0

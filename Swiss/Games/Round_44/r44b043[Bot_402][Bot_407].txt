@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "43"]
+[White "Lxna (V4) (by: Ludovic Debever (Lxdovic))"]
+[Black "simple chess bot (by: 4a0I)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 e6 2. g3 Qf6 3. Bg2 Nc6 4. Nc3 Qf5 5. e4 Qc5 6. d4 Qb4 7. O-O Nf6 8. e5 Ng4 9. h3 Nh6 10. d5 exd5 11. Nxd5 Qa5 12. Bxh6 gxh6 13. c3 Kd8 14. b4 Qb5 15. Qb3 Qd3 16. Nf6 Ke7 17. b5 Nb8 18. Nh4 a6 19. Rfe1 axb5 20. Bf1 Qd2 21. Nf5+ Kd8 22. Ne4 Qxe1 23. Rxe1 Ra6 24. Qxf7 Re6 25. Rd1 d6 26. Bxb5 Na6 27. exd6 c6 28. Bxa6 Rxe4 29. Qc7+ Ke8 30. Bc4 Rxc4 31. Ng7+ Bxg7 32. Qe7# 1-0

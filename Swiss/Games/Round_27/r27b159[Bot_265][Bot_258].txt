@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "26"]
+[White "SimpleBot (by: Tim Zollner)"]
+[Black "ThinkerBot5000 (by: Bear)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 h5 2. Bd3 e5 3. Nf3 Qf6 4. c3 Ke7 5. Be4 d5 6. Bxd5 Kd6 7. Qb3 c5 8. O-O g5 9. Bxf7 Ne7 10. d4 exd4 11. e4 Be6 12. Qxb7 Nd7 13. Nxg5 Rb8 14. e5+ Kxe5 15. Re1+ Kd6 16. Bf4+ Ne5 17. Ne4# 1-0

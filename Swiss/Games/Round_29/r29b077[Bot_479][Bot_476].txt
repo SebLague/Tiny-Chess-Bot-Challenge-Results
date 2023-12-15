@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "28"]
+[White "Timepinch (by: Artour)"]
+[Black "Minirose V2.23 (by: Tamplite Siphron Kents)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 Nf6 2. Qf3 e5 3. Qf5 Nc6 4. Bb5 Bd6 5. Bxc6 dxc6 6. Qg5 O-O 7. Nc3 h6 8. Qh4 Bf5 9. d3 e4 10. dxe4 Nxe4 11. Qh5 Qf6 12. Nxe4 Bxe4 13. Qg4 Qg6 14. Qxg6 fxg6 15. f3 Bxc2 16. Bd2 Be5 17. Bc3 Rae8 18. Bxe5 Rxe5 19. e4 Rg5 20. g3 Re5 21. b3 Kh7 22. Kd2 Rc5 23. Rc1 Rd8+ 24. Ke1 Rd3 25. Kf2 Rcc3 26. Ne2 Rd2 27. Ke1 Rcd3 28. b4 Ba4 29. Nc3 Rc2 30. Rxc2 Bxc2 31. Kf2 Rxc3 32. Rc1 b5 33. e5 c5 34. e6 Kg8 35. bxc5 Rxc5 36. g4 Kf8 37. h4 Ke7 38. Re1 Bd3 39. Rd1 Rc3 40. f4 Kxe6 41. Re1+ Kf6 42. Re3 b4 43. g5+ Kf5 44. gxh6 gxh6 45. Kg3 Be4 46. Kf2 Kxf4 47. Rxc3 bxc3 48. Ke2 c2 49. Kd2 Kg3 50. Kc1 Kxh4 51. Kb2 g5 52. Kc1 g4 53. a4 g3 54. Kd2 g2 55. Ke3 g1=Q+ 56. Kxe4 c1=Q 57. a5 Qc4+ 58. Kf5 Qg5# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "42"]
+[White "OneHundredAndEighty (by: Tom R.)"]
+[Black "ScholarsBot (by: magic216)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e5 2. Nf3 Bc5 3. Nxe5 Qh4 4. d3 Qxf2+ 5. Kd2 Be3# 0-1

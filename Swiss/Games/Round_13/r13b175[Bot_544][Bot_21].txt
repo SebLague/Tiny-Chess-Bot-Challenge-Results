@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "12"]
+[White "Saint Charles Bot (by: DATA USP)"]
+[Black "At least 2 IQ (by: Evan Finnigan)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 f5 2. Rb1 b6 3. Nc4 b5 4. Ne5 d6 5. Nd3 Na6 6. Ra1 g6 7. Nf4 g5 8. Nd5 c5 9. Nf3 g4 10. Nh4 Qd7 11. d3 Qe6 12. e4 fxe4 13. dxe4 Qxe4+ 14. Be3 c4 15. Rb1 h5 16. b3 cxb3 17. Bxb5+ Kd8 18. cxb3 Nc5 19. Bc6 Rb8 20. O-O Na6 21. Bxa7 Qxb1 22. Qxb1 Rxb3 23. Qxb3 Rh7 24. Qb6+ Nc7 25. Qxc7# 1-0

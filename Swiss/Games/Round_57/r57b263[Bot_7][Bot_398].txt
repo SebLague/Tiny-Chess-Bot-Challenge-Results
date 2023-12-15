@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "56"]
+[White "Scared (by: Guillem)"]
+[Black "ChessGPT (by: DeepGoldenCrown)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 h5 2. Nf3 Nh6 3. Na3 g5 4. Nxg5 c6 5. Qxh5 a5 6. Qf3 b5 7. Qd1 Ra7 8. Rg1 d6 9. Qh5 d5 10. Qh4 e5 11. b3 Kd7 12. Bb2 Kd6 13. Qh5 Kc5 14. Bxe5 Rg8 15. Bxb8 Ra6 16. Ke2 Kb4 17. Qh4+ Kxa3 18. Ke1 Kb2 19. Ke2 Kxa1 20. Nh7 Qxh4 21. f3 Kxa2 22. Rh1 Ka1 23. Bc7 Kb1 24. Be5 Kxc2 25. Bb8 Kxb3 26. Kd3 Qc4# 0-1

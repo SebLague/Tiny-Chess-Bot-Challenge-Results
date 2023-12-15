@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "9"]
+[White "Hopeless Bot (by: Nepiceo)"]
+[Black "BaddieBot (by: Domic)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e5 2. Ke2 d5 3. g4 Bxg4+ 4. Nf3 Bxf3+ 5. Kxf3 Bb4 6. Qe2 Qh4 7. Bh3 Qxh3# 0-1

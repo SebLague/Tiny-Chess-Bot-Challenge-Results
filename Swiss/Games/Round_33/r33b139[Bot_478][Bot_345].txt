@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "32"]
+[White "KBot (by: Kristian Mischke)"]
+[Black "Lundqvision (by: paper98)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e6 2. h3 Qg5 3. d4 Qf5 4. e4 Qa5 5. f4 Nf6 6. Qe2 Nc6 7. Qe3 h5 8. Rh2 Bd6 9. a4 Ke7 10. g4 hxg4 11. Rg2 b6 12. e5 Ba6 13. exd6+ Kxd6 14. hxg4 Nd5 15. Qd2 Nxc3 16. bxc3 Bxf1 17. Kxf1 Qd5 18. Ba3+ Nb4 19. cxb4 Qc4+ 20. Kf2 a5 21. bxa5+ Kc6 22. axb6 Rxa4 23. bxc7 Kxc7 24. Nf3 Raa8 25. Ne5 Rxa3 26. Rxa3 Qb5 27. Rc3+ Kb7 28. Nxf7 Rh1 29. Nd6+ Ka6 30. Nxb5 Kxb5 31. Qd3+ Kb6 32. Rc5 d5 33. Qb5+ Ka7 34. Rc7+ Ka8 35. Qe8# 1-0

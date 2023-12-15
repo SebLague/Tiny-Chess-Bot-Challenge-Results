@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "4"]
+[White "Chessy (by: SebastianB)"]
+[Black "Saint Charles Bot (by: DATA USP)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. f3 e5 3. d4 Nh5 4. h4 exd4 5. Qxd4 Nc6 6. Qd2 Bb4 7. g4 Bxd2+ 8. Nxd2 Ng3 9. Rh2 Nd4 10. Bd3 Qf6 11. e5 Qf4 12. Be4 Qe3+ 13. Kd1 Qxg1+ 14. Nf1 Qxf1+ 15. Kd2 Nxe4+ 16. Ke3 Nxf3 17. Re2 Ng3 18. Rf2 Qe1+ 19. Kxf3 Ne2 20. g5 Ng1+ 21. Kg3 d6 22. exd6 cxd6 23. b3 Nh3 24. Kf3 Nxf2 25. c3 Bg4+ 26. Kg2 Nh3 27. Bb2 Qf2+ 28. Kh1 Kd7 29. Rb1 Kc6 30. g6 Kb6 31. a3 Ka6 32. b4 Kb6 33. c4 Kc7 34. Rf1 Qxf1+ 35. Kh2 Qg1# 0-1

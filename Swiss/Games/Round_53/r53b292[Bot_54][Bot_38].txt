@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "52"]
+[White "Turtle (by: Geezmo)"]
+[Black "Asymptotically optimal (by: Graham Gayler)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. f4 Nh6 2. h4 Rg8 3. b4 Na6 4. d4 g6 5. e4 c6 6. g4 e6 7. a4 Qxh4+ 8. Rxh4 Ke7 9. c4 Kd6 10. Rh5 Nxb4 11. Rb5 cxb5 12. f5 bxc4 13. f6 Kc6 14. d5+ Kc5 15. d6 Bxd6 16. Qd5+ Nxd5 17. exd5 Kxd5 18. Bxh6 Kc5 19. Bf8 Rxf8 20. g5 Kd5 21. a5 Ba3 22. a6 Kd4 23. axb7 Rh8 24. b8=R Rxb8 25. Bd3 cxd3 26. Nf3+ Ke4 27. Ne5 Kxe5 28. Nxa3 Kd4 29. O-O-O Rb7 30. Nb5+ Rxb5 31. Rxd3+ Kxd3 32. Kd1 Kc3 33. Kc1 Rxg5 34. Kb1 Kd2 35. Kb2 Kd1 36. Kb3 Rb5+ 37. Ka3 Rb6 38. Ka4 Kc2 39. Ka5 Rb4 40. Kxb4 a5+ 41. Kb5 Rf8 42. Kb6 Kb1 43. Ka7 Re8 44. Kb8 g5 45. Ka7 h6 46. Kb8 Kc1 47. Ka7 g4 48. Kb8 d5 49. Ka7 d4 50. Kb8 Kb1 51. Ka7 Kc1 52. Kb8 Kb1 53. Ka7 Ka1 54. Kb8 Kb1 1/2-1/2

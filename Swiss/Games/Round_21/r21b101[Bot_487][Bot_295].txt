@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "20"]
+[White "Rodders (by: Chipperphilly)"]
+[Black "One-Line Chess (by: Kaydon Sloan)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h3 c5 2. e4 e6 3. Bc4 d5 4. Bb5+ Bd7 5. Bxd7+ Nxd7 6. exd5 exd5 7. Kf1 f5 8. f4 d4 9. Ne2 g5 10. Kg1 gxf4 11. Nxf4 Qg5 12. Qe2+ Ne7 13. Qf3 Rb8 14. b3 Ne5 15. Qf1 Kf7 16. h4 Qg4 17. Ba3 N7g6 18. Nxg6 hxg6 19. h5 Rxh5 20. Rxh5 Qxh5 21. c3 d3 22. Qe1 Bd6 23. Qe3 Qd1+ 24. Kh2 Nf3+ 25. Kh3 Qh1# 0-1

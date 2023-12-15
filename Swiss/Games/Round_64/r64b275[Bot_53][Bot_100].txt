@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "63"]
+[White "Aggrobot (by: CHECKERCE)"]
+[Black "PrayForMeBot (by: João)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g3 a5 2. b4 axb4 3. Bb2 Rxa2 4. Rxa2 f6 5. Bxf6 Nxf6 6. Ra3 bxa3 7. Nxa3 h5 8. g4 Nxg4 9. Qa1 Nxf2 10. Kxf2 d5 11. Qxg7 Bxg7 12. Bh3 Bxh3 13. Nxh3 O-O 14. Nf4 Rxf4+ 15. Kg3 Kf7 16. Kxf4 Qc8 17. Ra1 Qh3 18. Kg5 Qg4# 0-1

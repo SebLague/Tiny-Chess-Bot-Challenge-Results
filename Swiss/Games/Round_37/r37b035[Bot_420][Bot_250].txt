@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "36"]
+[White "NostradamusChessNN (by: _Mus)"]
+[Black "Corrosiver (by: )"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nc3 c6 4. d4 Nxc3 5. bxc3 d5 6. Bd3 c5 7. dxc5 Qa5 8. Bd2 Nc6 9. Nf3 Bg4 10. h3 Bxf3 11. Qxf3 Qxc5 12. Qf4 d4 13. cxd4 Qxd4 14. Qxd4 Nxd4 15. O-O-O O-O-O 16. Be3 e6 17. Rhf1 Bb4 18. Kb2 Nc6 19. f4 Kb8 20. c3 Be7 21. Kc2 h6 22. Be4 Rhe8 23. a4 h5 24. Rxd8+ Rxd8 25. Bxc6 bxc6 26. f5 h4 27. fxe6 fxe6 28. Rf7 Re8 29. Rxg7 a5 30. c4 Kc8 31. c5 Bd8 32. Bd2 Be7 33. Bxa5 Bxc5 34. Rc7+ Kb8 35. Rxc6 Bd4 36. Bc3 Bxc3 37. Kxc3 Kb7 38. Rc4 Rg8 39. Rxh4 Rg3+ 40. Kc4 Rxg2 41. Rh7+ Kb6 42. Rh6 Rc2+ 43. Kb4 Rc6 44. a5+ Ka6 45. h4 Ka7 46. h5 Kb8 47. Kb5 Kb7 48. Rh7+ Rc7 49. Rxc7+ Kxc7 50. h6 Kb7 51. h7 Kb8 52. Kc6 Ka7 53. h8=Q Ka6 54. Qa8# 1-0

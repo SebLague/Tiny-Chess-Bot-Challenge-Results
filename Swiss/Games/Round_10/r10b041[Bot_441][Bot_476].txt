@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "9"]
+[White "RigidBot (by: Mathias Elgaard)"]
+[Black "Minirose V2.23 (by: Tamplite Siphron Kents)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. d4 d5 3. exd5 Qxd5 4. Ne2 Nf6 5. Nbc3 Qh5 6. d5 Nb4 7. Nf4 Qxd1+ 8. Kxd1 Bg4+ 9. f3 Bf5 10. Bb5+ c6 11. dxc6 bxc6 12. Bd3 O-O-O 13. Be3 Bxd3 14. Nxd3 Nxd3 15. cxd3 Rxd3+ 16. Ke2 Rd7 17. Ne4 Nd5 18. Rac1 Nxe3 19. Kxe3 Kc7 20. Rc4 f5 21. Ng5 e5 22. Rhc1 f4+ 23. Ke2 c5 24. b4 Kc6 25. bxc5 h6 26. Ne4 Be7 27. g3 Rhd8 28. a4 Rd3 29. Rg1 Re3+ 30. Kf2 Rdd3 31. Rgc1 Rxf3+ 32. Kg2 Bg5 33. R1c2 Rfe3 34. gxf4 Bxf4 35. R4c3 Rd5 36. Rc4 Rd1 37. Nd6 Ree1 38. h4 Rg1+ 39. Kf2 Rh1 40. Nf5 Rdf1+ 41. Ke2 Re1+ 42. Kf3 Rhf1+ 43. Kg2 Rg1+ 44. Kf3 Rb1 45. Rg2 Rxg2 46. Kxg2 Rb2+ 47. Kf3 Kd5 48. Rc3 g6 49. Ne7+ Kd4 50. c6 Rh2 51. Rc4+ Kxc4 52. c7 Rh3+ 53. Kg2 Rg3+ 54. Kf2 Ra3 55. c8=Q+ Kb4 56. Nd5+ Kxa4 57. Qc4+ Ka5 58. Qb4+ Ka6 59. Nc7# 1-0

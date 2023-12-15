@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "Game Tech Explained Bot (by: Game Tech Explained)"]
+[Black "Culke (by: Colin Schepers)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 c6 2. e4 d5 3. Nc3 dxe4 4. Nxe4 e5 5. dxe5 Qa5+ 6. Nc3 Qxe5+ 7. Be3 Bb4 8. Qd2 a5 9. Bd3 g5 10. Nf3 Qf6 11. Bxg5 Qe6+ 12. Kf1 Ne7 13. Re1 Qg4 14. Qe3 Rg8 15. Bxe7 Qxg2+ 16. Ke2 Bxe7 17. Reg1 Qxg1 18. Nxg1 h5 19. Qe5 Bg4+ 20. f3 Nd7 21. Qg3 h4 22. Qg2 Bxf3+ 23. Qxf3 Ne5 24. Qf2 Nxd3 25. cxd3 b5 26. h3 f5 27. Nf3 b4 28. Nd1 Rg3 29. Ne3 Bc5 30. d4 Be7 31. Nxf5 Rg6 32. Nxe7 Kxe7 33. Ne5 Rg7 34. Qxh4+ Kd6 35. Qh6+ Kc7 36. Qxc6+ Kd8 37. Qxa8+ Ke7 38. Rf1 a4 39. Qb7+ Ke6 40. Qc6+ Ke7 41. Qd7# 1-0

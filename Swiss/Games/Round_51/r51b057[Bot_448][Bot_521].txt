@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "50"]
+[White "Paradox Bot (by: Kekz)"]
+[Black "LIA Chess (by: Patrick und Jannik)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nc6 2. d5 Ne5 3. Nd2 f5 4. Ngf3 Nxf3+ 5. Nxf3 d6 6. Bd2 Nf6 7. Bc3 Kf7 8. Bxf6 gxf6 9. Rc1 Qd7 10. Ra1 c6 11. dxc6 Qxc6 12. Qb1 Ke8 13. Nd4 Qe4 14. c3 Qxb1+ 15. Rxb1 a6 16. a3 e5 17. Nc2 Be6 18. b3 d5 19. Kd2 Bc5 20. Ke1 Rc8 21. e3 Rd8 22. Kd1 a5 23. Kc1 Rg8 24. Kb2 Kf7 25. Ka1 Ke7 26. Ka2 Bb6 27. Kb2 Kd6 28. Ka1 h5 29. Ka2 Rc8 30. Kb2 Rc7 31. Rd1 Rgg7 32. Ra1 f4 33. exf4 Bxf2 34. fxe5+ fxe5 35. b4 a4 36. Rb1 b6 37. Rc1 d4 38. cxd4 exd4 39. Rd1 Ke5 40. Rd2 Be3 41. Re2 Bc4 42. Rxe3+ dxe3 43. Nxe3 Bb3 44. h4 Rg3 45. Rh3 Rxh3 46. gxh3 Ke4 47. Ng4 hxg4 48. hxg4 Rc2+ 49. Kb1 Kd4 50. Bb5 Kc3 51. Bxa4 Bxa4 52. g5 Rd2 53. Ka1 Kb3 54. Kb1 Rd1# 0-1

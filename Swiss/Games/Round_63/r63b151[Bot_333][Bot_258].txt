@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "62"]
+[White "Rules_Of_Thumb (by: Goose)"]
+[Black "ThinkerBot5000 (by: Bear)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 h5 2. Nf3 e5 3. Nxe5 c6 4. g4 hxg4 5. h3 d5 6. e4 dxe4 7. Nxe4 Qd5 8. Be2 Qxe4 9. O-O gxh3 10. Bf3 h2+ 11. Kg2 Bh3+ 12. Kxh2 Qxe5+ 13. Kg1 Qg5+ 14. Bg4 Bxg4 15. f4 Bc5+ 16. d4 Rh1+ 17. Kxh1 Qh4+ 18. Kg1 Bxd1 19. dxc5 Qg3+ 20. Kh1 Bxc2 21. Rf3 Be4 22. f5 g5 23. f6 b5 24. Bxg5 Bxf3# 0-1

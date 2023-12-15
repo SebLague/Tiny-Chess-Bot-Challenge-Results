@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "42"]
+[White "CarlitosDarwin (by: Mateo Marenco)"]
+[Black "Bruteforcer (by: SiestaGuru)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 e6 2. a3 g6 3. b3 c6 4. f4 Qa5+ 5. Qd2 Qxd2+ 6. Nxd2 Be7 7. c3 Nf6 8. e4 d5 9. exd5 Nxd5 10. Nb1 c5 11. dxc5 Bxc5 12. b4 Be3 13. Bxe3 Nxe3 14. Bb5+ Bd7 15. Bxd7+ Nxd7 16. Ra2 Nf8 17. g3 Rd8 18. Nd2 Nd5 19. c4 Nc3 20. Rc2 Rd3 21. c5 a6 22. Nh3 h6 23. Nf2 Re3+ 24. Kf1 Nb5 25. a4 Rc3 26. Rxc3 Nxc3 27. a5 Nb5 28. Nde4 f5 29. Nd2 Na3 30. g4 g5 31. fxg5 hxg5 32. gxf5 exf5 33. h3 Ne6 34. Nf3 Nc2 35. Nd3 g4 36. Ng1 Ned4 37. Rh2 Ne3+ 38. Kf2 g3+ 39. Kxg3 Nf1+ 40. Kg2 Nxh2 41. Kxh2 Rg8 42. Nc1 Nc6 43. Na2 Kf7 44. Ne2 Rd8 45. Nec1 Rd2+ 46. Kg3 Rc2 47. h4 Nxb4 48. Nxb4 Rxc1 49. c6 Rc4 50. Nd5 Rxc6 51. Kf4 Rc5 52. Ke5 Rxa5 53. Kd6 Ra4 54. Ne3 Kg6 55. Kc7 b5 56. Kb7 f4 57. Ng2 f3 58. Ne1 f2 59. Nd3 f1=Q 60. Nc5 Qf7+ 61. Kb6 Qf2 62. h5+ Kxh5 63. Kc6 Rc4 64. Kb7 Qxc5 65. Kxa6 Qc6+ 66. Ka7 Qc7+ 67. Ka6 Qc8+ 68. Ka7 Qd7+ 69. Ka6 Qe6+ 70. Ka5 Ra4+ 71. Kxb5 Qc4+ 72. Kb6 Rb4+ 73. Ka5 Qb5# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "26"]
+[White "Tiny Chess Duck (by: rocketduck_m07)"]
+[Black "MapBot (by: Map)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. d4 Nc6 3. d5 Nb4 4. c4 e5 5. Nxe5 Bd6 6. a3 Bxe5 7. axb4 b6 8. Nc3 O-O 9. Be3 Ng4 10. Bd4 Bb7 11. e3 Bxd4 12. Qxd4 Qh4 13. O-O-O a5 14. Be2 axb4 15. Qxg4 Qxg4 16. Bxg4 bxc3 17. bxc3 Ra3 18. Kb2 Rfa8 19. f4 Ra2+ 20. Kb1 Rxg2 21. Bxd7 Ra3 22. Bh3 Rb3+ 23. Ka1 Rc2 24. Bf1 Rbxc3 25. e4 Rf2 26. f5 Ba6 27. h4 Bxc4 28. Re1 Ra3+ 29. Kb1 Ba2+ 30. Ka1 Bxd5+ 31. Kb1 Ba2+ 32. Ka1 Bb3+ 33. Kb1 Bc2+ 34. Kb2 Raf3 35. Kc1 Rb3 36. Re2 Rxe2 37. Bxe2 Rb1+ 38. Kxc2 Rxh1 39. h5 Kf8 40. Kd3 Ke7 41. Kd4 Kf6 42. Kd5 Rh2 43. Bg4 Kg5 44. h6 gxh6 45. Bf3 Kf4 46. Kd4 Kxf3 47. Ke5 Rc2 48. Kd4 Kf4 49. Kd3 Rc6 50. Kd4 Rd6+ 51. Kc4 Kxe4 52. Kb4 Kxf5 53. Kc3 h5 54. Kc4 h4 55. Kc3 h3 56. Kb4 h2 57. Kb3 h1=Q 58. Kc3 Qc1+ 59. Kb3 Rd3+ 60. Kb4 Qb2+ 61. Ka4 Rd4# 0-1

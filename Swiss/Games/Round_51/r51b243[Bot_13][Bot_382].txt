@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "50"]
+[White "ScholarsBot (by: magic216)"]
+[Black "Bob (by: Kökényesi Attila (UltraGeek))"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d6 2. Bc4 f6 3. Qh5+ Kd7 4. Qf7 Nh6 5. b3 g5 6. d3 g4 7. Qh5 Nf5 8. Kf1 Nd4 9. f3 g3 10. Qh3+ Kc6 11. Qg4 Bf5 12. Qh3 Bg6 13. Qd7+ Kc5 14. Qf5+ Kb4 15. Bd2# 1-0

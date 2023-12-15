@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "32"]
+[White "ImpossiBot (by: StefanDeSterke)"]
+[Black "MilkMindV1 (by: Josiah Jordan )"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 Nc6 2. Rb1 e5 3. Ra1 Bxa3 4. bxa3 Nf6 5. d3 d5 6. c4 dxc4 7. dxc4 Qxd1+ 8. Kxd1 Ke7 9. Bg5 Rd8+ 10. Kc1 Bf5 11. Bxf6+ Kxf6 12. Kb2 Rd2+ 13. Kb3 a5 14. Rc1 a4+ 15. Kc3 Rxa2 16. Nf3 Rxa3+ 17. Kb2 Rb3+ 18. Ka1 Rd8 19. c5 e4 20. Ng1 Rd2 21. Rc4 e3 22. fxe3 Rb1# 0-1

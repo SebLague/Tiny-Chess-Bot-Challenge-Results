@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "19"]
+[White "Cirno the Smartest (by: Toffee)"]
+[Black "MyFirstChessEngine (by: Jake Forsey)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 Nc6 2. Qh5 Nb4 3. Kd1 Nf6 4. Qh4 Nfd5 5. e4 Nxc2 6. Kxc2 Nb4+ 7. Kd1 e6 8. Qh3 Qf6 9. Qb3 Bd6 10. e5 Qxf2 11. Nf3 Bf8 12. Nc3 f5 13. exf6 Nxa2 14. Rxa2 Qc5 15. Bb5 Qb4 16. f7+ Kxf7 17. Qc2 Bd6 18. Ra4 Qc5 19. Qb3 Qf5 20. Nh4 Qg5 21. Be2 Ke7 22. d3 Qf6 23. Rf1 Qe5 24. Bf4 Qc5 25. d4 Qc6 26. Bg5+ Ke8 27. Bh5+ g6 28. Nxg6 Rg8 29. Nf4+ Rg6 30. Nxg6 Bf4 31. Rxf4 Qf3+ 32. Rxf3 d6 33. Qb5+ c6 34. Qxb7 Bxb7 35. Ne5# 1-0

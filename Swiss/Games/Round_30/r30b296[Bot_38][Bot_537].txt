@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "29"]
+[White "Asymptotically optimal (by: Graham Gayler)"]
+[Black "InfuehrDaniel MCTS (by: Daniel Infuehr)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g4 e6 2. Na3 Qg5 3. Rb1 Qd5 4. e3 Bb4 5. g5 Be7 6. Ke2 Bd8 7. Ra1 Qd3+ 8. Kxd3 h6 9. Qg4 Nc6 10. Ke2 hxg5 11. Qb4 Nxb4 12. Kf3 Rh4 13. Bg2 a5 14. h3 a4 15. d4 Rh6 16. Ke4 b6 17. f4 Bb7+ 18. Ke5 Ra5+ 19. d5 Bf6+ 20. Ke4 Bxd5# 0-1

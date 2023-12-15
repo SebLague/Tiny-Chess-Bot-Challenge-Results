@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "32"]
+[White "At least 2 IQ (by: Evan Finnigan)"]
+[Black "3D.Opening Bot (by: Mark Grennan)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. c3 d5 2. Qa4+ Bd7 3. Qc2 Nf6 4. Qd1 Bf5 5. Qa4+ Bd7 6. Qb3 b5 7. Qc2 Ng4 8. Qd1 Bf5 9. e4 Bd7 10. exd5 Ne5 11. f4 Ng6 12. f5 Bxf5 13. Bxb5+ Bd7 14. Bxd7+ Kxd7 15. Qa4+ Kc8 16. Qg4+ Kb7 17. Qb4+ Kc8 18. Qg4+ Kb7 19. Qb4+ Kc8 20. Qg4+ 1/2-1/2

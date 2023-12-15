@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "24"]
+[White "MapBot (by: Map)"]
+[Black "FetaCheese_Bot (by: Dimitris Dallas)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 c5 2. dxc5 Na6 3. Nc3 Nxc5 4. Be3 Ne6 5. Qd2 Nh6 6. Bxh6 gxh6 7. Nd5 a5 8. O-O-O d6 9. e3 f5 10. Qe2 Ng5 11. Qh5+ Kd7 12. Bb5+ Ke6 13. Ne2 Rb8 14. Nef4+ Ke5 15. Ng6+ Ke6 16. Nxh8 Bg7 17. h4 Qxh8 18. hxg5 hxg5 19. Qxg5 Bxb2+ 20. Kb1 Bf6 21. Rh6 b6 22. Qh5 Qf8 23. Nc7+ Ke5 24. Rd5+ Ke4 25. Qf3# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "38"]
+[White "en passant bot (by: julie)"]
+[Black "Holy hell (by: Tyler Branscombe & Austin Daniel)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 g5 2. Qh5 b5 3. Nh3 g4 4. f4 gxf3 5. Nf4 b4 6. Nd3 Bb7 7. Na3 Be4 8. Qg5 Bxd3 9. Qa5 Bb5 10. Rg1 Bxf1 11. Rxf1 Bh6 12. Kf2 Qc8 13. h3 Bg7 14. h4 Nf6 15. Kg3 Ng4 16. Qxb4 Qd8 17. Nb5 O-O 18. d3 Re8 19. gxf3 Bf6 20. Qc3 Bxc3 21. h5 Be1+ 22. Kh3 Nf6 23. Nxa7 Rxa7 24. Rh1 Na6 25. Rg1+ Ng4 26. Rb1 Nb4 27. f4 Ra4 28. Rg2 Nd5 29. e4 Ba5 30. Kxg4 Rd4 31. Bd2 Bxd2 32. Rgg1 Qc8 33. a4 Rc4 34. b3 Qb7 35. Rgf1 Rc8 36. Rf2 Ra8 37. Rh2 Ra7 38. Rbh1 Rc3 39. Rh3 Qa8 40. f5 e5 41. fxe6 Qb7 42. Rg1 Ne3+ 43. Kg5 Kh8 44. Rgh1 Qb5+ 45. Kf6 Nf1 46. Rg3 Nxg3 47. Re1 Bxe1 48. e7 Qc4 49. e8=B Rb7 50. a5 Qb4 51. Kxf7 Qb5 52. a6 Nf5 53. exf5 Qe5 54. a7 Qg7# 0-1

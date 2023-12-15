@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "MilkMindV1 (by: Josiah Jordan )"]
+[Black "ILVM (by: Wincent01)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 a5 2. Nc3 c5 3. e3 Qb6 4. d4 Qb4 5. a3 Qb6 6. Na4 Qc6 7. dxc5 Qxa4 8. Nd4 b6 9. Bb5 bxc5 10. Bxa4 cxd4 11. Qf3 Nc6 12. Bxc6 dxc6 13. Qxc6+ Kd8 14. Qxa8 dxe3 15. Bxe3 Kd7 16. O-O-O Kc7 17. Qxa5+ Kb7 18. Qa7+ Kc6 19. Qb6# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "48"]
+[White "Captain Botvious (by: Selim Sheta)"]
+[Black "Blitztron (by: Cameron Dugan)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. Bb5+ c6 3. Bd3 h6 4. exd5 Qxd5 5. Bf1 Be6 6. d4 Bc8 7. Bd2 a6 8. Ne2 Qb5 9. c4 Qxb2 10. Bxh6 Qxa1 11. Bxg7 Bxg7 12. a4 Bf5 13. Nec3 Ra7 14. d5 Bxc3+ 15. Nxc3 Qxc3+ 16. Ke2 Rh4 17. f4 Bg4+ 18. Kf2 Bxd1 19. dxc6 Rxf4+ 20. Kg1 Qe3# 0-1

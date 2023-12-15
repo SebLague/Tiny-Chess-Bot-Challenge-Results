@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "51"]
+[White "SimpleMCTS (by: GinoPerrotta)"]
+[Black "Toribot (by: Yujan Subedi)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 c6 2. e3 c5 3. Bc4 h5 4. Qf3 e6 5. h4 a5 6. Qf4 Nc6 7. Nf3 b6 8. Nb5 d6 9. d3 Bd7 10. c3 Nh6 11. e4 f6 12. Rh3 Nb8 13. Be3 Kf7 14. Rg3 Qc8 15. Nxd6+ Bxd6 16. Qxd6 Ng4 17. Qxb6 Rg8 18. Bf4 Ne5 19. Bxe5 fxe5 20. Nxe5+ Ke7 21. Kf1 Kf8 22. Ke2 g6 23. b3 Ke8 24. Qd6 Ra7 25. Rf3 a4 26. Nxd7 Nxd7 27. Qxe6+ Kd8 28. Qxg8+ Kc7 29. Qxg6 axb3 30. Qxh5 Rxa2+ 31. Rxa2 bxa2 32. Bxa2 Qb7 33. Kd1 Qb2 34. Bd5 Qxc3 35. Qf5 Qb2 36. Qg6 Qa1+ 37. Kc2 Qa4+ 38. Bb3 Qa3 39. Bc4 Qa4+ 40. Kd2 Qa5+ 41. Ke2 Qc3 42. Rf7 Qc2+ 43. Kf3 Kb8 44. Rxd7 Qd1+ 45. Kg3 Qc1 46. Qg8# 1-0

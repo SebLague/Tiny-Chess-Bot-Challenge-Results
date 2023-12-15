@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "11"]
+[White "WhiteTide (by: b.maroti)"]
+[Black "Botje9000 (by: StarJay)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. b4 e6 2. b5 a6 3. bxa6 Rxa6 4. Bb2 Rb6 5. Bd4 c5 6. Bc3 Qg5 7. e3 Qf5 8. Na3 Nh6 9. Nc4 Ra6 10. Qb1 Ng4 11. Ke2 Nxf2 12. Bxg7 Bxg7 13. e4 Nxe4 14. c3 Bxc3 15. Nb2 Qf2+ 16. Kd3 Rd6+ 17. Kc2 Rxd2+ 18. Kb3 Rxb2+ 19. Ka4 Rxb1 20. g4 Ke7 21. h4 Kd6 22. g5 Bxa1 23. g6 Kd5 24. Bc4+ Kxc4 25. gxh7 Rxh7 26. h5 Qxa2# 0-1

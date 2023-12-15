@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "10"]
+[White "Butter robot (by: DODIK)"]
+[Black "Knightmare v2 (by: Default/IHasBone)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 Nc6 2. Nf3 d5 3. b3 d4 4. Ne4 Qd5 5. d3 Bg4 6. Bf4 e6 7. Kd2 f5 8. h3 Bxf3 9. gxf3 Qa5+ 10. c3 fxe4 11. b4 Qa3 12. cxd4 Qxb4+ 13. Kc1 Qxd4 14. Kd2 Qb2+ 15. Ke3 Bc5+ 16. d4 Qc3+ 17. Kxe4 Nf6# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "30"]
+[White "Buildabot (by: Buildasaurus)"]
+[Black "smol.cs (by: Gediminas Masaitis, Goh CJ)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. d4 d5 3. Nc3 Nc6 4. e3 g6 5. Bd2 Bg7 6. Bd3 O-O 7. h3 a6 8. O-O Qd6 9. Rc1 e5 10. dxe5 Nxe5 11. Nxe5 Qxe5 12. Re1 Be6 13. e4 dxe4 14. Nxe4 Nxe4 15. Bxe4 Qxb2 16. Rb1 Qxa2 17. Rxb7 Rad8 18. Qc1 c5 19. Bg5 Rd7 20. Rxd7 Bxd7 21. Qd2 Qa4 22. Bd5 Re8 23. Rxe8+ Bxe8 24. Qe3 Qa1+ 25. Kh2 Qe5+ 26. g3 Qxe3 27. Bxe3 Bd4 28. Bxd4 cxd4 29. g4 Ba4 30. Be4 Bd7 31. Kg3 a5 32. f4 a4 33. f5 gxf5 34. Bd5 Be6 35. Bxe6 fxe6 36. gxf5 exf5 37. h4 a3 38. Kf4 a2 39. Kxf5 a1=Q 40. Ke4 Qc3 41. Kd5 Qxc2 42. Kxd4 Qf2+ 43. Ke4 Qxh4+ 44. Kd5 Qf2 45. Ke4 Qf7 46. Ke3 h5 47. Ke4 h4 48. Ke5 h3 49. Kd4 h2 50. Kc3 Qf4 51. Kd3 h1=Q 52. Kc3 Qhc1+ 53. Kb3 Qfc4# 0-1

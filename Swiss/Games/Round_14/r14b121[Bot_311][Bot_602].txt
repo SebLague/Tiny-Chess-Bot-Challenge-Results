@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "13"]
+[White "MyFirstChessEngine (by: Jake Forsey)"]
+[Black "Itty Bitty Botty (by: Connor Cahoon)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 Na6 2. Nd5 Rb8 3. Nf3 Ra8 4. d4 Rb8 5. Bf4 Ra8 6. Qd3 Rb8 7. Qxa6 bxa6 8. Bxc7 Qxc7 9. Nxc7+ Kd8 10. Nd5 Rxb2 11. Ne5 Nh6 12. Kd2 e6 13. Nd3 Rb8 14. Ne3 Be7 15. Rg1 d5 16. Ne5 Bb4+ 17. c3 g5 18. Nc6+ Ke8 19. Nxb8 f5 20. cxb4 e5 21. Nxd5 a5 22. dxe5 Kf7 23. Rc1 Ke6 24. Nc7+ Kf7 25. bxa5 a6 26. Ncxa6 g4 27. Nb4 f4 28. Rc7+ Kg8 29. Rxc8+ Kg7 30. Rc7+ Kg8 31. N8c6 g3 32. Nd5 f3 33. Nf6+ Kf8 34. Nd4 Ng8 35. Ne6# 1-0

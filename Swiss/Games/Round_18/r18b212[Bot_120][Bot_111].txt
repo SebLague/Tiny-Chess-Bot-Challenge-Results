@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "17"]
+[White "EldenBot (by: Ghost_Dev_84)"]
+[Black "No Brain but Hungry (by: Pete)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a3 d5 2. b3 Bf5 3. c3 Kd7 4. d3 e5 5. e3 Ke7 6. f3 Be6 7. g3 b5 8. h3 Qd7 9. a4 f5 10. axb5 Qxb5 11. b4 Kd7 12. c4 Qxb4+ 13. Bd2 Qb7 14. cxd5 Bxd5 15. d4 Bc6 16. dxe5 Ke6 17. e4 Kxe5 18. exf5 Kxf5 19. g4+ Ke5 20. f4+ Kd4 21. h4 Bxh1 22. f5 Qe4+ 23. Be3+ Ke5 24. g5 Qxe3+ 25. Be2 Qxg1+ 26. Bf1 Kxf5 27. h5 Qxg5 28. h6 gxh6 29. Bd3+ Ke5 30. Bxh7 Rxh7 31. Nd2 Qe3+ 32. Qe2 Kd5 33. Qxe3 h5 34. Nb1 Bb4+ 35. Nc3+ Kd6 36. Rxa7 c6 37. Rxh7 Ra1+ 38. Qc1 Rxc1+ 39. Kd2 Rxc3 40. Rxh5 Bf3 41. Rd5+ cxd5 42. Ke1 d4 43. Kf1 d3 44. Ke1 Rc5+ 45. Kf1 d2 46. Kg1 d1=Q+ 47. Kf2 Qd2+ 48. Kxf3 Rc3+ 49. Ke4 Qd3+ 50. Kf4 Qd2+ 51. Ke4 Qe3+ 52. Kf5 Qh3+ 53. Ke4 Rc4# 0-1

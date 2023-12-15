@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "7"]
+[White "Euphoria (by: Andrew Merrill)"]
+[Black "Ben's Bot (by: Ben Clingenpeel)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 d5 2. c4 d4 3. Qa4+ Nc6 4. e3 dxe3 5. dxe3 Nf6 6. Nc3 e6 7. Bd2 Bc5 8. Be2 O-O 9. O-O e5 10. Rad1 Bd7 11. Qc2 Qe7 12. Nd5 Nxd5 13. cxd5 e4 14. Rc1 exf3 15. Bxf3 Bd6 16. dxc6 Qe5 17. Qxh7+ Kxh7 18. g3 Bxc6 19. Bc3 Qf5 20. Bxc6 bxc6 21. a4 Kg6 22. a5 Rh8 23. f3 Rae8 24. Bd2 Qb5 25. b4 Re6 26. f4 Re4 27. f5+ Kh7 28. f6 Bxb4 29. Bxb4 Rxb4 30. Rcd1 Qxa5 31. Rd7 Rf8 32. Re7 g6 33. h4 c5 34. Rf2 c4 35. Kf1 c3 36. g4 Rb2 37. Rxb2 cxb2 38. Kg2 b1=Q 39. Rxf7+ Rxf7 40. h5 Qd2+ 41. Kf3 Rxf6+ 42. Kg3 Qf2+ 43. Kh3 Qh1# 0-1

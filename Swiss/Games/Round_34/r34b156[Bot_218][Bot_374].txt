@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "33"]
+[White "Epimetheus (by: George Bland)"]
+[Black "JazzBot (by: SpoXe)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 h5 2. Qf3 g5 3. Nc3 e5 4. d4 exd4 5. exd4 Nc6 6. Bc4 Rh7 7. Qe4+ Qe7 8. Qxe7+ Bxe7 9. Nf3 g4 10. d5 gxf3 11. dxc6 fxg2 12. Rg1 dxc6 13. Rxg2 Kf8 14. Rxg8+ Kxg8 15. Be3 b5 16. Bd3 f5 17. a4 bxa4 18. Rxa4 a5 19. Rc4 Bd6 20. Rxc6 Bxh2 21. Rg6+ Kf7 22. Rg2 Be5 23. f4 Bxc3+ 24. bxc3 Kf6 25. Bd4+ Ke7 26. Rg8 Rb8 27. Rxc8 Rxc8 28. Bxf5 Rhh8 29. Bc5+ Kd8 30. Be4 Re8 31. Be7+ Rxe7 32. c4 Rxe4+ 33. Kd1 Rxf4 34. c5 c6 35. c3 h4 36. Kc1 a4 37. Kb1 h3 38. Kb2 h2 39. Ka2 Rc4 40. Ka1 Rxc5 41. Kb1 h1=Q+ 42. Kc2 a3 43. c4 a2 44. Kb3 Rb8+ 45. Ka3 Rxc4 46. Kxa2 c5 47. Ka3 Qa8# 0-1

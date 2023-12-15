@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "61"]
+[White "MiniMagnus (by: Erik Fast)"]
+[Black "Minirose V2.23 (by: Tamplite Siphron Kents)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. d4 d5 3. exd5 Qxd5 4. Nf3 Bg4 5. Nc3 Qf5 6. Bd3 Bxf3 7. gxf3 Qe6+ 8. Be4 O-O-O 9. d5 Qh3 10. Qd3 Qh4 11. Qe3 Ne5 12. Qxa7 Qh3 13. d6 c6 14. Qa8+ Kd7 15. Qxb7+ Kxd6 16. Qb6 Rc8 17. Bf4 Qh5 18. Qa6 Qh3 19. O-O-O Ke6 20. Qxc8+ Kf6 21. Nd5+ cxd5 22. Bxe5+ Kxe5 23. Rxd5+ Kf4 24. Qxh3 Nf6 25. Qf5# 1-0

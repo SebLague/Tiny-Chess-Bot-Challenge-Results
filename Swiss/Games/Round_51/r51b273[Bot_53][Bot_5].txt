@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "50"]
+[White "Aggrobot (by: CHECKERCE)"]
+[Black "AngryPiece (by: FlamingSquid)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. c4 Nc6 2. b4 Nxb4 3. Bb2 Nxa2 4. Rxa2 Nf6 5. Bxf6 c5 6. Rxa7 exf6 7. Rxa8 f5 8. Rxc8 f4 9. Rxd8+ Kxd8 10. e3 Kc8 11. exf4 Kb8 12. d4 Kc8 13. dxc5 Kb8 14. Qxd7 Ka7 15. Qxb7+ Kxb7 16. Kd1 Ka6 17. Kc1 Kb7 18. Kd1 Ka8 19. Kc1 Kb8 20. Kd1 Ka7 21. Kc1 Kb7 22. Kd1 1/2-1/2

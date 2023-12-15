@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "8"]
+[White "RigidBot (by: Mathias Elgaard)"]
+[Black "LesMoutons (by: Beaud Rémi and Mechulam Antoine)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nf3 Qf6 3. Nc3 Bb4 4. Nd5 Qd6 5. c3 Bc5 6. d4 exd4 7. Bf4 Qc6 8. Nxd4 Bxd4 9. Qxd4 d6 10. Qxg7 Bg4 11. Bb5 Qxb5 12. Nxc7+ Kd8 13. Nxb5 a6 14. Qf8+ Kd7 15. Qxd6+ Kc8 16. Qc7# 1-0

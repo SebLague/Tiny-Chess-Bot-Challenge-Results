@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "18"]
+[White "Thulium (by: Valentin POQUET)"]
+[Black "Lundqvision (by: paper98)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d3 e6 2. Nf3 Nc6 3. Bd2 Qf6 4. Ng1 Bc5 5. Nh3 Nge7 6. b3 a5 7. Bc1 Nd5 8. c4 Bb4+ 9. Bd2 h5 10. Bxb4 axb4 11. cxd5 exd5 12. Rg1 d6 13. Nd2 Ke7 14. Rc1 Bd7 15. Qc2 Qd4 16. Ng5 Bg4 17. Rb1 f6 18. h4 fxg5 19. hxg5 g6 20. Rh1 Rhf8 21. Rh4 Qxf2+ 22. Kd1 Qxh4 23. Ra1 Qxg5 24. g3 Qe3 25. Bg2 Qxe2+ 26. Kc1 Qxg2 27. Nb1 Rf1+ 28. Qd1 Rxd1# 0-1

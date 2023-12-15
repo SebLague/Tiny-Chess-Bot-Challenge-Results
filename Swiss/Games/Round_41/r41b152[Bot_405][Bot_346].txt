@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "40"]
+[White "noobot v1 (by: Arshia)"]
+[Black "Butter Bot, the bot with the butter on him (by: siued)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 Nf6 2. Nc3 c6 3. Qf3 Qa5 4. Nb1 e6 5. Bd3 Bd6 6. Ne2 Na6 7. b4 Nxb4 8. Bb2 Nxd3+ 9. cxd3 Qb5 10. Na3 Qxb2 11. Nc2 Qxc2 12. Ng1 Qxd3 13. e4 Qxe4+ 14. Qxe4 Nxe4 15. f3 Nf6 16. O-O-O b5 17. Kc2 Bb7 18. Ne2 c5 19. Rb1 Bc6 20. d4 c4 21. d5 Nxd5 22. Nd4 b4 23. Nxc6 dxc6 24. a3 b3+ 25. Kd2 Bf4+ 26. Ke1 Nc3 27. Rb2 Kd7 28. Kf2 Kc7 29. h4 a5 30. h5 Nd5 31. Re2 Nc3 32. Rb2 h6 33. g4 Rhd8 34. Kg2 Rd3 35. Rf1 Nd1 36. Rxd1 Rxd1 37. Re2 a4 38. Kf2 Rh1 39. Re1 Rh2+ 40. Kf1 Rh1+ 41. Kf2 Bg3+ 42. Kxg3 Rxe1 43. Kf2 b2 44. Kxe1 b1=Q+ 45. Kd2 Qd3+ 46. Ke1 Qxf3 47. Kd2 Rb8 48. Kc1 Qd3 49. g5 Rb1# 0-1

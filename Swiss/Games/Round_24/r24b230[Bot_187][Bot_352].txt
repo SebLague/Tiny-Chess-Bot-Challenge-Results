@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "23"]
+[White "DrawMachine (by: Rune)"]
+[Black "NameGoesThere's bot (by: NameGoesThere)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 d5 2. g3 e6 3. a4 Ne7 4. Na3 Nd7 5. Rg1 f5 6. h3 c5 7. Ng5 e5 8. Rh1 h5 9. d4 Qa5+ 10. b4 Qxb4+ 11. Bd2 Qb6 12. dxc5 Qxc5 13. Qb1 d4 14. f3 Nd5 15. Qb3 Ne7 16. Qa2 Qd6 17. Qb2 Nd5 18. Nh7 Rxh7 19. Qc1 Ne7 20. g4 h4 21. gxf5 Nxf5 22. a5 Ne7 23. Qd1 Nd5 24. c4 Ne7 25. e3 dxe3 26. Bxe3 Qb4+ 27. Ke2 Qb2+ 28. Ke1 Qc3+ 29. Ke2 Nf6 30. Rb1 Qxa5 31. Ra1 a6 32. Qd2 Qc7 33. Qd1 Be6 34. Qa4+ Kf7 35. f4 Bxc4+ 36. Kd1 Qd8+ 37. Kc1 Be6 38. fxe5 Qc7+ 39. Kb1 Bf5+ 40. Ka2 Be6+ 41. Kb1 Nfd5 42. Bxa6 Nc3+ 43. Kc1 Nxa4+ 44. Kb1 Nc3+ 45. Kc1 Ncd5+ 46. Kb1 Bf5+ 47. Ka2 Nc3+ 48. Kb2 Na4+ 49. Ka2 Be6+ 50. Kb1 Bf5+ 51. Ka2 bxa6 52. Bg5 Be6+ 53. Kb1 Nc3+ 54. Kc1 Ncd5+ 55. Kb1 Bf5+ 56. Ka2 Nc3+ 57. Kb2 Na4+ 58. Ka2 Nd5 59. Nb1 Qc2# 0-1

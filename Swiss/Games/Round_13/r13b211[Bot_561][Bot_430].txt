@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "12"]
+[White "ONE MOVE TO RULE THEM ALL (by: b4ux1t3)"]
+[Black "KnightMare (by: Dom)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a3 Nc6 2. f3 e5 3. f4 exf4 4. c4 Qh4+ 5. g3 fxg3 6. Qc2 g2+ 7. Kd1 gxf1=Q# 0-1

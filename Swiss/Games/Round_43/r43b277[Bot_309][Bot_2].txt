@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "42"]
+[White "Mirror Bot (by: JuNi)"]
+[Black "CEO grindset board meeting (by: Burnzy <3)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 h5 2. h4 f6 3. f3 e5 4. Ba6 bxa6 5. a3 Bxa3 6. d4 Bxb2 7. Rxa6 Bxa6 8. Qd3 Bxd3 9. Ne2 Bxc1 10. Na3 Bxa3 11. Kf2 Bxe2 12. Rb1 exd4 13. Rb6 axb6 14. e5 Bxf3 15. exf6 Bxg2 16. fxg7 Qxh4+ 17. Kg1 Qf6 18. gxh8=Q Qxh8 19. c3 dxc3 20. Kf2 Qd4+ 21. Kg3 Qd5 22. Kf2 Bd6 23. Kg1 Ba3 24. Kf2 Qf3+ 25. Kg1 c2 26. Kh2 Qh3+ 27. Kg1 Bc5# 0-1

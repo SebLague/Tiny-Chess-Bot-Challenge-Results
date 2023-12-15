@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "54"]
+[White "Chark Bot V2 (by: Team Chark)"]
+[Black "SimpleBearSearch (by: PizzasBear)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. e5 Bd7 3. Qf3 Nc6 4. Qxd5 e6 5. Qb5 Nd4 6. Qd3 Ne7 7. Qxd4 Nf5 8. Qf4 Bc5 9. c3 O-O 10. d4 Nxd4 11. cxd4 Bb4+ 12. Bd2 Qe7 13. a3 Bxd2+ 14. Nxd2 Bc6 15. Nh3 h6 16. Rc1 Rfe8 17. Qg4 Rad8 18. Rg1 Qd7 19. b3 h5 20. Qxh5 Qxd4 21. Qg5 Qxd2+ 22. Qxd2 Rxd2 23. Kxd2 Rc8 24. Ng5 Bd5 25. b4 Rd8 26. Bd3 Rd7 27. Rc5 Bc4 28. Rxc4 b5 29. Rc5 a6 30. Rc6 Rd4 31. Rxc7 Rd8 32. Rxf7 Ra8 33. h4 Rb8 34. Ke3 Ra8 35. Re7 Kf8 36. Rxe6 Ra7 37. Ke4 Ra8 38. Rc1 Kg8 39. Rxa6 Re8 40. Bxb5 Rb8 41. e6 Rd8 42. e7 Rb8 43. Bc4+ Kh8 44. Rd1 Re8 45. Rd8 g6 46. Rxg6 Rxd8 47. exd8=Q# 1-0

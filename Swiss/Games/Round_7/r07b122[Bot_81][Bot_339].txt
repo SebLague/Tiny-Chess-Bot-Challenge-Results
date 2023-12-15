@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "6"]
+[White "Paroch (by: Bronson)"]
+[Black "TinyNoTimeToCodeChessEngine (by: )"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g3 Nf6 2. a4 d5 3. c3 Bf5 4. Na3 Qd7 5. a5 b6 6. axb6 axb6 7. f4 Be4 8. Nf3 h5 9. b4 Nc6 10. b5 Bxf3 11. exf3 Nd8 12. d3 g6 13. h4 Qd6 14. d4 c5 15. dxc5 Qxc5 16. c4 Qb4+ 17. Ke2 Qc3 18. cxd5 Qxa1 19. Nb1 Qxb1 20. g4 Rc8 21. gxh5 Rxc1 22. Qd2 Rxh5 23. d6 Rc2 24. d7+ Nxd7 25. Qxc2 Qxc2+ 26. Ke1 e5 27. fxe5 Rxe5+ 28. Be2 Qxe2# 0-1

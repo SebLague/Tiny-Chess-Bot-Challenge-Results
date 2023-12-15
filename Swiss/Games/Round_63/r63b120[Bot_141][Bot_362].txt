@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "62"]
+[White "Shielded Minibot (by: Sesen)"]
+[Black "nimbot (by: )"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 g6 2. Nf3 h6 3. Rg1 Bg7 4. Nb5 Na6 5. Rb1 f6 6. Ra1 Kf8 7. Nh4 Qe8 8. Rb1 Kf7 9. Nf3 Qd8 10. Nc3 Nb4 11. Ra1 Na6 12. e4 Kf8 13. Nh4 Qe8 14. Bxa6 bxa6 15. Nd5 Rb8 16. Qg4 Rh7 17. Nxg6+ Kf7 18. Qh5 Bb7 19. Nxc7 Bxe4 20. Ne5+ Kf8 21. Qf7+ Qxf7 22. Nxd7# 1-0

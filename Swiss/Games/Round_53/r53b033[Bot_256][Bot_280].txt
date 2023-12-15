@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "52"]
+[White "GulcarBot (by: Gulcar)"]
+[Black "DeltaWeakness (by: Johan Zetterlund)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 c5 2. Qh5 Nf6 3. Qxc5 Nxe4 4. Qe5 Nf6 5. Nc3 Nc6 6. Qg5 d5 7. Bb5 h6 8. Qf4 e6 9. Nge2 Bd6 10. Qf3 O-O 11. d4 e5 12. Bxc6 bxc6 13. Qd3 Qe7 14. dxe5 Bxe5 15. f4 Bxc3+ 16. bxc3 Re8 17. Kf2 Bf5 18. Qxf5 Qxe2+ 19. Kg3 Ne4+ 20. Kh4 g6 21. Qg4 Qxc2 22. Qf3 Nxc3 23. f5 g5+ 24. Kh5 Re4 25. g4 Re2 26. Kxh6 Rxh2+ 27. Kxg5 Ne4+ 28. Kf4 Rf2 29. Be3 Rxf3+ 30. Kxf3 Nf6 31. Rhg1 Qe4+ 32. Kf2 Re8 33. Rae1 Nxg4+ 34. Rxg4+ Qxg4 35. Rg1 Qxg1+ 36. Kxg1 Rxe3 37. a4 d4 38. Kf2 Re8 39. Kg3 d3 40. Kf3 d2 41. Kf4 d1=Q 42. Kg3 Re4 43. a5 Qg4+ 44. Kh2 Re2+ 45. Kh1 Qg2# 0-1

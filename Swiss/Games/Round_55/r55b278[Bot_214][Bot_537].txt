@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "54"]
+[White "DareWitch (by: mdrwsh)"]
+[Black "InfuehrDaniel MCTS (by: Daniel Infuehr)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e6 2. f4 Qh4+ 3. g3 Qh5 4. e3 Qc5 5. e4 Nc6 6. Bg2 a6 7. Nge2 Qc4 8. Nd4 Qxd4 9. Kf1 Bc5 10. Qe1 f6 11. Rb1 Nb4 12. Ra1 Rb8 13. Rb1 h5 14. Ra1 Nxc2 15. Rb1 Nxe1 16. Nb5 Qf2# 0-1

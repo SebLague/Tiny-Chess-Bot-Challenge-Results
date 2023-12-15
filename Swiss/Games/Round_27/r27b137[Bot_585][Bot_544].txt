@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "26"]
+[White "Negative Depth (by: Zoltán Kürti)"]
+[Black "Saint Charles Bot (by: DATA USP)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 e6 2. e4 Qf6 3. d4 Bb4+ 4. c3 Ba5 5. e5 Qf5 6. b3 Qe4+ 7. Be3 Ke7 8. b4 Bxb4 9. cxb4 b5 10. Bxb5 c6 11. Nbd2 Qf5 12. Nh4 cxb5 13. Nxf5+ exf5 14. d5 Bb7 15. Nf3 f4 16. Bxa7 Rxa7 17. Qc1 Bxd5 18. Qc5+ Ke6 19. Ng1 Rxa2 20. Rxa2 Bxa2 21. Qf8 Nc6 22. Qxg7 Nxb4 23. Qxh8 Nd3+ 24. Kf1 Bc4 25. Qxg8 Nxe5+ 26. Ne2 Bxe2+ 27. Kxe2 Ke7 28. Qxh7 b4 29. Qe4 f3+ 30. gxf3 Ke6 31. Rd1 b3 32. Rd2 f5 33. Qd5+ Kf6 34. Qd6+ Kg5 35. Qxe5 b2 36. Rd6 b1=Q 37. Qg7+ Kf4 38. Qg3# 1-0

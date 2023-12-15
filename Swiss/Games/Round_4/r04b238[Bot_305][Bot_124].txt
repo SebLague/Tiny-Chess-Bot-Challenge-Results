@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "3"]
+[White "RandomUnoptimisedBot (by: Zhanybek)"]
+[Black "Depth2 (by: David Montealegre)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h3 Nc6 2. a3 Nd4 3. g3 Nf6 4. c4 Nf5 5. Ra2 Ne4 6. Qa4 Nd4 7. g4 a5 8. Qb4 axb4 9. f3 Nf6 10. Kd1 bxa3 11. b4 Ne6 12. Ra1 a2 13. Na3 Rxa3 14. Ke1 Ra7 15. Kd1 Nd4 16. Bg2 Ne6 17. Bb2 Ng8 18. Kc1 b6 19. Kd1 Nf4 20. Bf1 Ne6 21. Kc1 c6 22. Rb1 axb1=B 23. Kd1 Ng5 24. Ba1 Rxa1 25. Ke1 g6 26. Kd1 Bf5# 0-1

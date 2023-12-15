@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "3"]
+[White "THE KING HAS COOTIES! (by: Jackattack1031)"]
+[Black "SimpleBot (by: :LMProgramming)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 e6 2. Nh3 Qh4 3. b4 Bxb4 4. c4 Nc6 5. Qa4 Qd4 6. Qxa7 Rxa7 7. e4 Qxa1 8. f4 Qxa2 9. g4 Qb3 10. Ng5 Bc5 11. Nxh7 Rxh7 12. Bh3 Rxh3 13. d4 Bxd4 14. c5 Bxc5 15. e5 Qc3+ 16. Kd1 Qb3+ 17. Ke2 Qa2+ 18. Bb2 Qxb2+ 19. Kd1 Raxa3 20. f5 Ra1# 0-1

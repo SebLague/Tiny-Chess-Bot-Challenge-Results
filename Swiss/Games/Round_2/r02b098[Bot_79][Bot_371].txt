@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "SybBot (by: Sybsuper)"]
+[Black "Onion (by: Nathan Woloshyn)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Qh5 Nc6 3. Bb5 Nf6 4. Qf5 Qe7 5. Bxc6 bxc6 6. c4 d5 7. Qg5 dxe4 8. a4 Be6 9. Qxe5 Bxc4 10. Qf5 g6 11. Qf4 Nd5 12. Qg3 Nb4 13. Qc3 Nd3+ 14. Kf1 Qc5 15. Nh3 Bg7 16. Qxg7 Nf4+ 17. Ke1 Nxg2+ 18. Kd1 Bb3+ 19. Ke2 Qc4+ 20. d3 Qxd3# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "43"]
+[White "Funko Bot (by: Sky Sherwood)"]
+[Black "TeddyBearBot (by: mathabs)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. h4 Na6 2. b3 Rb8 3. e3 Ra8 0-1

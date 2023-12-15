@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "23"]
+[White "StallerBot (by: Ean)"]
+[Black "GOYO Bot v1.1.2 (by: Goyo)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. d3 e5 2. Nd2 Nc6 3. h4 Nd4 4. c3 Nf5 5. f4 exf4 6. Ngf3 Ne3 7. Nb3 Nxd1 8. Bxf4 Nxb2 9. Kd2 d5 10. e3 f5 11. Rb1 Nf6 12. h5 c6 13. Rxb2 b5 14. Bg5 Qd6 15. Bf4 Qa3 16. Rc2 Qa4 17. Nfd4 Qa3 18. Nf3 Qa4 19. Nfd4 Qa3 20. Nf3 1/2-1/2

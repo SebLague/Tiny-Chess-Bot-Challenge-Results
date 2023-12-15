@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "57"]
+[White "HopeBot (by: Chinmay Krishna)"]
+[Black "AlaskaBot (by: Arttu Halonen)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e5 2. Qg4 Nf6 3. Qa4 Nd5 4. Nh3 Bd6 5. f3 g5 6. Qg4 h5 7. Qa4 g4 8. fxg4 hxg4 9. Qxg4 Nc6 10. d4 exd4 11. exd4 Qe7+ 12. Kf2 Qf6+ 13. Ke1 Nxd4 14. g3 Nxc2+ 15. Kd1 Nxa1 16. b3 c5 17. Bd3 Rxh3 18. Qxh3 Qf3+ 19. Be2 Qxh1+ 20. Kd2 b5 21. b4 cxb4 22. g4 Bf4+ 23. Kd3 Qxc1 24. Kd4 Qg1+ 25. Qe3+ Nxe3 26. Bxb5 Qxb1 27. h3 Qxa2 28. Ke4 Bg5 29. Kd3 Bb7 30. Bc6 dxc6 31. h4 O-O-O 32. Ke4 Qd5# 0-1

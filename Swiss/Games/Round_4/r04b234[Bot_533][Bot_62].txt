@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "3"]
+[White "Stoccafisso (by: Riccardo D'Incau)"]
+[Black "DumBot (by: Viruj)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 c5 2. Nc3 d6 3. Bd3 Kd7 4. Kf1 Kc6 5. Qf3 Be6 6. Ke1 Kb6 7. Kd1 Ka5 8. Ke1 Kb4 9. Qf4 Ka5 10. Kd1 Kb4 11. Ke1 Qd7 12. Kd1 Ka5 13. Ke1 Kb6 14. Bb5 Qc7 15. Be8 Ka5 16. Bxf7 g5 17. Qf3 g4 18. Qe2 Bxf7 19. Qb5# 1-0

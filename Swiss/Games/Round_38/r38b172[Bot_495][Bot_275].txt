@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "37"]
+[White "Albertron (by: Vadim and Yazeed)"]
+[Black "Simple Minimax (by: Sidewinder7)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 e6 2. d4 b5 3. e3 a6 4. Qd3 Bb7 5. e4 Bb4+ 6. Kd1 Qf6 7. Bg5 Bd6 8. Bxf6 gxf6 9. Be2 a5 10. Nc3 f5 11. Qxb5 Bc6 12. Qc4 fxe4 13. Ne5 Bxe5 14. dxe5 d5 15. Qd4 Nh6 16. Kc1 Nf5 17. Qc5 Ne3 18. fxe3 Rg8 19. Bb5 Nd7 20. Qxc6 Rd8 21. Rg1 a4 22. Qxc7 h6 23. Bxa4 d4 24. exd4 Rg5 25. Nxe4 Rg4 26. Nf6+ Ke7 27. Qd6# 1-0

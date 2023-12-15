@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "48"]
+[White "ABot (by: August)"]
+[Black "Shadow (by: Zaid Alas4)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d3 e5 2. h3 Be7 3. Kd2 f6 4. e3 f5 5. Qh5+ Kf8 6. Qxf5+ Ke8 7. Qh5+ g6 8. Qxe5 b6 9. Kd1 a6 10. c4 d5 11. cxd5 Qxd5 12. Qxd5 Bxh3 13. Nxh3 Bh4 14. Qe5+ Kd7 15. Qd5+ Ke8 16. Ke1 Bxf2+ 17. Kd1 Bxe3 18. Bxe3 Ne7 19. Qd4 Nf5 20. Qa4+ c6 21. Bc1 h5 22. Qe4+ Kf7 23. Qc4+ Kg7 24. Qc3+ Kg8 25. Qb3+ Kg7 26. Qc3+ Kg8 27. Ke1 Ng3 28. Rg1 Nxf1 29. Qb3+ Kh7 30. Qf7# 1-0

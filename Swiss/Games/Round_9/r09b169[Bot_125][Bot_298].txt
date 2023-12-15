@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "8"]
+[White "BaddieBot (by: Domic)"]
+[Black "WhiteTide (by: b.maroti)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 f5 2. Bb5 g6 3. Bc4 e6 4. Bb5 Qg5 5. g3 Be7 6. Nh3 Qh6 7. Nf4 c6 8. Nc3 cxb5 9. Nxb5 Kd8 10. Qf3 Qg7 11. d4 Bg5 12. Nh3 Be7 13. Kd1 Nf6 14. Ng5 Bb4 15. c3 Be7 16. Kd2 d5 17. h3 Bf8 18. h4 Qd7 19. Nxa7 Rxa7 20. b3 Qc7 21. a4 Ra5 22. Ba3 Ne4+ 23. Nxe4 dxe4 24. Qe2 Bg7 25. f4 Nc6 26. Rhb1 Rd5 27. Qg2 Ke8 28. Rg1 h5 29. Kc2 Kf7 30. c4 Ra5 31. Qd2 Ra8 32. Qg2 Ra6 33. Bc5 Ra5 34. Ba3 Ke8 35. Qd2 Ra8 36. Bc5 Ra6 37. Qg2 b6 38. Ba3 Ra7 39. Kd2 Ra5 40. Kc2 Kd8 41. Qd2 Ra7 42. Qg2 Kd7 43. Kd2 Ke8 44. Kc2 Ra5 45. Kd2 Kd7 46. Kc2 Rg8 47. Qd2 Ra8 48. Qg2 Qa7 49. Kc3 Ke8 50. Bd6 Qa6 51. Kc2 Kd8 52. Ra3 Kd7 53. c5 bxc5 54. Bxc5 Qd3+ 55. Kb2 Qxe3 56. Rga1 Ra5 57. Bb6 Bxd4+ 58. Bxd4 Qxd4+ 59. Kb1 Rc5 60. R1a2 Qd1+ 61. Kb2 Qc1# 0-1

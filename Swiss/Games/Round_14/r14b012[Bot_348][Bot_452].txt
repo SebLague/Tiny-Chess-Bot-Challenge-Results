@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "13"]
+[White "SimplerBot (by: Rick Schaffer)"]
+[Black "Midnight Oil (by: Danny Boy)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 Nf6 2. d4 d5 3. Nf3 Be6 4. Bf4 Nc6 5. e3 Nh5 6. Be5 h6 7. h3 Nf6 8. Bd3 g5 9. Bg3 Bg7 10. O-O O-O 11. Ne5 Nb4 12. f4 Nxd3 13. cxd3 gxf4 14. exf4 Rb8 15. Kh2 Bf5 16. Rc1 Qd6 17. Na4 Rfe8 18. Nc5 c6 19. Rg1 b6 20. Na6 Rbc8 21. b4 Nd7 22. Qa4 Nxe5 23. dxe5 Qg6 24. d4 Bd3 25. Rgd1 e6 26. Rc3 Be2 27. Re1 Bb5 28. Qa3 Bf8 29. Rg1 Qe4 30. Rf3 Qxd4 31. Bf2 Qd2 32. Rb1 d4 33. Bg3 Bc4 34. Bf2 Be7 35. Rb2 Qd1 36. Bg1 Be2 37. Rxe2 Qxe2 38. Bxd4 Red8 39. Re3 Qc4 40. Rg3+ Kf8 41. Bb2 Rd5 42. f5 Ra5 43. Qe3 Rxa6 44. f6 Bxb4 45. a3 Bc5 46. Qxh6+ Ke8 47. Rg7 Rd8 48. Qh5 Qf4+ 49. Rg3 Bf2 50. Qh8+ Kd7 51. Qg7 Bxg3+ 52. Qxg3 Ra4 53. Qxf4 Rxf4 54. Bc3 Re4 55. Bd2 Rxe5 56. h4 Re2 57. Bg5 Ra2 58. Kh3 Rxa3+ 59. Kg4 Rg8 60. Kf4 c5 61. g4 c4 62. Ke4 c3 63. Kd3 Rc8 64. Bc1 Ra4 65. g5 Rxh4 66. Kc2 Rh2+ 67. Kb3 Re2 68. Ba3 e5 69. Bc1 Ke6 70. Ba3 Kf5 71. Bc1 e4 72. g6 Kxg6 73. Ka4 e3 74. Kb5 Rc5+ 75. Ka6 Ra5+ 76. Kb7 Ra1 77. Ka8 Rxc1 78. Kxa7 Ra1+ 79. Kb8 c2 80. Kc8 c1=Q+ 81. Kb8 Rc2 82. Kb7 Qh1+ 83. Kb8 Ra8# 0-1

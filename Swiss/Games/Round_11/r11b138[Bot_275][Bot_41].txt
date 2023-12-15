@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "10"]
+[White "Simple Minimax (by: Sidewinder7)"]
+[Black "RichyRoo (by: devrichgg)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Qh5 Nd4 3. Kd1 Rb8 4. Qg5 Ra8 5. Nf3 f6 6. Qg4 c5 7. Nxd4 cxd4 8. g3 a5 9. Bg2 b5 10. e5 d5 11. Qf3 g5 12. Qh5+ Kd7 13. exf6 Nxf6 14. Qxg5 h5 15. Bxd5 Nxd5 16. Qxd5+ Kc7 17. Qf3 Ra6 18. d3 Rd6 19. Qe2 Bh3 20. Re1 Bg2 21. f4 Bd5 22. c4 bxc4 23. dxc4 d3 24. Qe5 Bf3+ 25. Re2 Bxe2+ 26. Kd2 Rh6 27. Qg5 a4 28. Na3 Rhe6 29. Qf5 Bh6 30. Rb1 Qd7 31. h4 Re3 32. Qxd7+ Rxd7 33. Kxe3 e5 34. Bd2 exf4+ 35. gxf4 Re7+ 36. Kd4 Rd7+ 37. Kc5 Bf8+ 38. Kb5 Bxa3 39. Bc3 Bd6 40. Bd4 Bxf4 41. Re1 Rxd4 42. Rg1 Be5 43. Rg6 Rxh4 44. Re6 Bxb2 45. Rg6 Rd4 46. Rg7+ Kd6 47. c5+ Kd5 48. Rd7+ Ke5 49. Re7+ Kd5 50. Re8 Rc4 51. Rd8+ Ke4 52. Rg8 d2 53. Re8+ Be5 54. Rxe5+ Kxe5 55. Ka5 d1=Q 56. c6 Rxc6 57. Kb4 Qd4+ 58. Ka5 Ra6# 0-1

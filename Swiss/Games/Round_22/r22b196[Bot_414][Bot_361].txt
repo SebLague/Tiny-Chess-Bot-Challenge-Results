@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "21"]
+[White "Aron's engine (by: Aron Martens)"]
+[Black "Thulium (by: Valentin POQUET)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Na3 d6 2. Rb1 Bg4 3. Ra1 Qd7 4. Rb1 Qd8 5. Ra1 Qd7 6. Rb1 Qd8 1/2-1/2

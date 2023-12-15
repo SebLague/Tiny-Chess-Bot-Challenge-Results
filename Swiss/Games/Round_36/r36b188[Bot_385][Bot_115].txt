@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "35"]
+[White "3D.Opening Bot (by: Mark Grennan)"]
+[Black "Single Player (by: Salty Scientist)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 e5 2. dxe5 Qh4 3. Nf3 Qc4 4. Kd2 d5 5. Ne1 Bf5 6. Ke3 Nc6 7. g4 Nxe5 8. gxf5 Bb4 9. Ng2 Qe4# 0-1

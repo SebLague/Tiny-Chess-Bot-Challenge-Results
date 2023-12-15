@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "50"]
+[White "Squeedo (by: David Giesegh)"]
+[Black "R2D2 (by: Andrei Taropa)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. Nc3 d4 3. Nd5 e6 4. Nf4 e5 5. Nd3 Nc6 6. Nf3 f5 7. Nfxe5 Nxe5 8. Nxe5 Qf6 9. Qh5+ g6 10. Bb5+ c6 11. Qe2 Qxe5 12. exf5 Qxe2+ 13. Bxe2 Bxf5 14. d3 Bb4+ 15. Bd2 Bxd2+ 16. Kxd2 Nf6 17. Ke1 O-O-O 18. h4 Bg4 19. f3 Bd7 20. c4 Rhe8 21. g4 Re3 22. g5 Nh5 23. Kf2 Bf5 24. Bf1 Rf8 25. Re1 Ng3 26. Rg1 Nxf1 27. Rgxf1 Bxd3 28. Kg3 Bxf1 29. Rxf1 d3 30. b4 d2 31. Rd1 Rexf3+ 32. Kg2 Rd3 33. b5 c5 34. a4 b6 35. Kg1 Rf4 36. Kg2 Rxh4 37. Kf1 Rxc4 38. a5 bxa5 39. b6 axb6 40. Ke2 Rcd4 41. Kf1 c4 42. Kg2 c3 43. Kf1 c2 44. Ke2 cxd1=B+ 45. Kxd1 Kb7 46. Ke2 Ka6 47. Kd1 Kb5 48. Ke2 Ka4 49. Kd1 Ka3 50. Ke2 Ka2 51. Kf1 Ka1 52. Ke2 Kb1 53. Kf1 Re4 54. Kg2 Ka1 55. Kf1 Ra4 56. Ke2 Rd5 57. Kd1 Kb1 58. Ke2 Rf4 59. Ke3 Rf8 60. Ke4 Rd7 61. Ke5 Ka1 62. Ke4 d1=Q 63. Ke5 Qe1# 0-1

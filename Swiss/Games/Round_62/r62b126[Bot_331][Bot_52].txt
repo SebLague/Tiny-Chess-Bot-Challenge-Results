@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "61"]
+[White "YAMMB  (by: Dovakin7)"]
+[Black "SimpleBearSearch (by: PizzasBear)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. e5 Bd7 3. Qf3 Nc6 4. Qxd5 e6 5. Qe4 Bc5 6. Nf3 Nge7 7. Bc4 O-O 8. d4 Bb6 9. a4 Ba5+ 10. Bd2 Bb6 11. h4 Re8 12. h5 a6 13. h6 gxh6 14. Qg4+ Kh8 15. Bxh6 Nf5 16. Bc1 Nfxd4 17. Nxd4 Bxd4 18. Qh5 Bxf2+ 19. Kxf2 Kg8 20. Bg5 Qxg5 21. Qxg5+ Kf8 22. Rxh7 Nxe5 23. Rh8# 1-0

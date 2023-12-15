@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "19"]
+[White "AeroBot (by: vakqDev)"]
+[Black "Freedom_Fighter v.83 (by: Kongo Landwalker)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a3 e6 2. g4 Qh4 3. g5 Nc6 4. b4 Bd6 5. Nc3 a5 6. d4 axb4 7. Rb1 bxc3 8. Ra1 Ra5 9. g6 hxg6 10. Bg2 Rhh5 11. Be4 Nxd4 12. a4 Nxc2+ 13. Bxc2 Rxa4 14. Bd3 Rxa1 15. Qc2 Qd4 16. Qxc3 Qxc3+ 17. Kf1 Rxc1+ 18. Kg2 Qc6+ 19. Be4 Qxe4+ 20. f3 Qe3 21. Nh3 Qxe2+ 22. Nf2 Rxh2+ 23. Rxh2 Qf1# 0-1

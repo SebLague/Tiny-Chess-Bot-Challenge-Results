@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "19"]
+[White "Ccookie (by: Ccookie)"]
+[Black "NameGoesThere's bot (by: NameGoesThere)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 d5 2. Bf4 c6 3. Qd3 Qa5+ 4. Nc3 Nd7 5. Qf5 Nb6 6. Qe5 g6 7. Qxh8 h5 8. Qxg8 f5 9. Nf3 Nd7 10. Qe6 Nb6 11. Qxg6+ Kd7 12. Qxf5+ Ke8 13. Qxh5+ Kd7 14. Qf5+ Ke8 15. Qg6+ Kd7 16. Qf7 Kd8 17. Qxf8+ Kd7 18. e3 e6 19. Qf7+ Kd8 20. Bc7# 1-0

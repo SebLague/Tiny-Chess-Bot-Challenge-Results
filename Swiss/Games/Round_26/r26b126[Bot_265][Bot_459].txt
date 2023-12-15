@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "25"]
+[White "SimpleBot (by: Tim Zollner)"]
+[Black "StockShrimp (by: Diplomancer)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. e3 e6 2. Qg4 h5 3. Qf4 Bd6 4. Qc4 Qg5 5. Nf3 Qg4 6. h3 Qxc4 7. Bxc4 Nc6 0-1

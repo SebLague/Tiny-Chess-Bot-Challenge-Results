@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "42"]
+[White "At least 2 IQ (by: Evan Finnigan)"]
+[Black "Simple Minimax (by: Sidewinder7)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. e3 e6 2. b3 b5 3. Bxb5 Bb7 4. Be2 Bc6 5. Bf1 Bd6 6. a4 h5 7. Ne2 Be5 8. Ra2 Qh4 9. Ng1 Qb4 10. c3 Qe4 11. d3 Bxc3+ 12. Nxc3 Qf5 13. f4 a6 14. Nb1 d6 15. Ra1 Nd7 16. b4 Rh7 17. b5 axb5 18. Be2 bxa4 19. Bf1 Qa5+ 20. Kf2 Qb4 21. Be2 Bd5 22. Bxh5 Ne5 23. fxe5 g5 24. Bxf7+ Rxf7+ 25. Ke2 Rf1 26. Qxf1 Qxb1 27. Rxb1 Rd8 28. exd6 cxd6 29. Rb4 Bc6 30. Rb2 a3 31. Rb1 a2 32. Ra1 Ra8 33. Qf2 Be4 34. dxe4 Ke7 35. Qe1 Nf6 36. Kd3 e5 37. Kc2 Nxe4 38. Ne2 Ra4 39. Ng1 Ke6 40. Qf1 Ke7 41. Bb2 g4 42. Bc1 Nc5 43. g3 Ra5 44. Qc4 e4 45. Qe2 Nd3 46. Bd2 Ra3 47. Qxg4 d5 48. Qg7+ Kd6 49. Qf6+ Kc7 50. Qe7+ Kb8 51. Qxa3 Kb7 52. Qe7+ Kc6 53. Qe6+ Kc5 54. Qc8+ Kb6 55. Qe6+ Kc5 56. Qc8+ Kb6 57. Qe6+ Kc5 1/2-1/2

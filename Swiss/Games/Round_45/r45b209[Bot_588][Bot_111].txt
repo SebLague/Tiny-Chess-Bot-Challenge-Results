@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "44"]
+[White "Mobilibot (by: Gabriel N.)"]
+[Black "No Brain but Hungry (by: Pete)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 f6 2. Qh5+ g6 3. Bb5 gxh5 4. d4 b6 5. Nf3 Bb7 6. Ne5 fxe5 7. Bh6 Bxh6 8. Nd2 exd4 9. Ke2 Bf4 10. Bc6 dxc6 11. e5 Bxe5 12. f4 Bxf4 13. h4 Ba6+ 14. Kf2 Bxd2 15. c4 Bxc4 16. Rh3 Qd5 17. Rc1 Bxc1 18. Kg1 Bxb2 19. Rg3 Bxa2 20. Rd3 b5 21. Kf2 Qf7+ 22. Ke1 Qe6+ 23. Kf2 Qf6+ 24. Ke1 Qxh4+ 25. Ke2 Qe4+ 26. Kd2 Qxg2+ 27. Ke1 Qe4+ 28. Kd2 Qf4+ 29. Kd1 Qg4+ 30. Ke1 Qg1+ 31. Ke2 Qh2+ 32. Ke1 Qh4+ 33. Ke2 Qg4+ 34. Ke1 Qe6+ 35. Kf2 Qf7+ 36. Kg2 Qg6+ 37. Rg3 Qc2+ 38. Kf1 Nf6 39. Ke1 Qb1+ 40. Ke2 Bc4+ 41. Kf2 Qf1# 0-1

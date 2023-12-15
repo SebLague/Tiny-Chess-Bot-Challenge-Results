@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "45"]
+[White "timecat-mini (by: Gourab Ghosh)"]
+[Black "BoyaChess v5 (by: ArxelBlw)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. e5 Qe7 8. Qe2 Nd5 9. Bd2 O-O 10. Nxd5 Bxd2+ 11. Qxd2 cxd5 12. f4 c6 13. Qc3 d6 14. O-O-O dxe5 15. fxe5 Bd7 16. Kb1 Rfe8 17. Re1 a5 18. Bd3 Qg5 19. g3 a4 20. h4 Qg4 21. Be2 Qf5 22. Bf3 Rab8 23. Rhf1 Qh3 24. Rg1 h6 25. h5 Rb7 26. Re3 Reb8 27. g4 Rxb2+ 28. Qxb2 Rxb2+ 29. Kxb2 Qh2 30. Ree1 d4 31. Be4 c5 32. Bd5 d3 33. e6 Qxc2+ 34. Ka1 Qc3+ 35. Kb1 Qb4+ 36. Ka1 fxe6 37. Rxe6 Qd4+ 38. Kb1 Qxd5 39. Re7 a3 40. Rxd7 Qxd7 41. Kc1 Qd4 42. Kd2 Qxg1 43. Kxd3 Qxg4 44. Ke3 Qxh5 45. Ke4 Qe2+ 46. Kd5 Qxa2+ 47. Ke5 Qb2+ 48. Ke4 a2 49. Kf3 Qd4 50. Kg2 a1=Q 51. Kf3 Qf1+ 52. Kg3 Qdf4# 0-1

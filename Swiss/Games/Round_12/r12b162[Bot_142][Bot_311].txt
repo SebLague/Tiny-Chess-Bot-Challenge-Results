@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "11"]
+[White "Minimaxibon v1 (by: NotSureWhyThisWorks)"]
+[Black "MyFirstChessEngine (by: Jake Forsey)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Nc3 Nf6 2. Nf3 Nc6 3. Rb1 h6 4. Ra1 Rh7 5. Rb1 a6 6. Ra1 Rh8 7. Rb1 Rh7 8. Ra1 Rh8 9. Rb1 Rh7 1/2-1/2

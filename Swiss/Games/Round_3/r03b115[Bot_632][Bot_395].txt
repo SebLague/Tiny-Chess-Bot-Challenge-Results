@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "Dried Cod (by: Josh & Laurin)"]
+[Black "MattWBot (by: Matt W)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Qf3 a6 3. Qc3 e5 4. g4 Qh4 5. h3 b5 6. Nf3 Qf6 7. g5 Qg6 8. Be2 Qxe4 9. g6 hxg6 10. d3 Qa4 11. a3 Bb4 12. axb4 Qxa1 13. Nfd2 Bb7 14. Bf3 O-O-O 15. O-O Rxh3 16. Na3 Qa2 17. Bg2 Nd4 18. Bxb7+ Kxb7 19. Kg2 Nf6 20. Kxh3 Qe6+ 21. Kg2 Qg4+ 22. Kh1 Rh8# 0-1

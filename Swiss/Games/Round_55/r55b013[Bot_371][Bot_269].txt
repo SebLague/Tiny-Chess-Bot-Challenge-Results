@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "54"]
+[White "Onion (by: Nathan Woloshyn)"]
+[Black "AugsBot (by: Augs)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 Nf6 2. Nf3 d5 3. e3 Nc6 4. d4 Bf5 5. Bb5 a6 6. Bxc6+ bxc6 7. O-O Qd6 8. Re1 Rd8 9. Qe2 a5 10. Ne5 Ne4 11. Nxe4 Bxe4 12. Qa6 Bxc2 13. Bd2 Be4 14. Rac1 Rb8 15. Rxc6 Qd8 16. Re6 Qd7 17. Nxd7 Kxd7 18. Qc6+ Kd8 19. Bxa5 Rc8 20. Rxe4 dxe4 21. Rc1 f6 22. Bxc7+ Rxc7 23. Qxc7+ Ke8 24. Qc4 h5 25. Qe6 h4 26. Rc8# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "25"]
+[White "Chessica (by: Nicky Kitchingman)"]
+[Black "MinimalBot (by: GreenSalad_)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a3 Na6 2. b3 Rb8 3. c3 Ra8 4. e3 b5 5. a4 Rb8 6. axb5 Rxb5 7. Bxb5 c6 8. Bxa6 Bxa6 9. Rxa6 Qa5 10. Rxa5 c5 11. Rxa7 Kd8 12. Ra8+ Kc7 13. Rxf8 Kb6 14. Rxf7 Nf6 15. Rxf6+ exf6 16. d3 Ka5 17. d4 c4 18. Qh5+ g5 19. b4+ Kb5 20. f3 h6 21. g3 d5 22. h3 Rh7 23. f4 Rf7 24. Qxf7 g4 25. Qxd5+ Ka4 26. Nd2 f5 27. h4 h5 28. Qa5# 1-0

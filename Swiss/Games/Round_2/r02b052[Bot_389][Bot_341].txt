@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "BoyaChess v5 (by: ArxelBlw)"]
+[Black "AelChess (by: Aëldrexan)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 dxc4 4. e3 b5 5. b3 Be6 6. bxc4 bxc4 7. Na3 c3 8. Nb5 c5 9. Nxc3 cxd4 10. exd4 Nd5 11. Bb5+ Bd7 12. Nxd5 Bxb5 13. Nc3 e6 14. Nxb5 Qa5+ 15. Bd2 Qxb5 16. Ne5 Bb4 17. Qf3 Bxd2+ 18. Kxd2 Qb2+ 19. Ke3 Qc3+ 20. Nd3 Qc6 21. Rhc1 Qxf3+ 22. Kxf3 O-O 23. Rab1 Nd7 24. Rb7 Nf6 25. a4 g5 26. Ne5 Nd5 27. a5 f5 28. a6 h5 29. Rc6 g4+ 30. Kg3 Rfe8 31. Kh4 Nf4 32. g3 Ne2 33. Rcc7 Re7 34. Rxe7 Nxd4 35. Rg7+ Kf8 36. Ng6+ Ke8 37. Rg8# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "8"]
+[White "Squeedo (by: David Giesegh)"]
+[Black "NinjaBot (by: Jinan Dangor)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. Nc3 dxe4 3. Nxe4 Qd4 4. Bb5+ Kd8 5. Qf3 Be6 6. Ne2 Qd5 7. c4 Qe5 8. Ng5 Bxc4 9. Bxc4 Qxg5 10. Qxb7 Qg4 11. Qxa8 Kd7 12. Qxb8 Qxc4 13. Qxf8 Kc6 14. Qxg7 Qb5 15. Nd4+ Kc5 16. Nxb5 a5 17. Nxc7 Nh6 18. Qxh8 Kc6 19. Qc3+ Kd6 20. Qxa5 Ng4 21. d4 Kd7 22. Nd5 Kc6 23. Qc5+ Kb7 24. Qc7+ Ka8 25. Nb6# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "44"]
+[White "Baloo-D (by: Dimitri)"]
+[Black "QuaviverBot (by: CantWontDo)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd7 4. Bb5 c6 5. Bf1 b6 6. Rb1 Nf6 7. Ke2 Qe6+ 8. Kf3 Qf5+ 9. Ke3 Ng4+ 10. Kd4 c5+ 11. Kc4 Be6+ 12. Kb5 c4+ 13. Nd5 Qxd5+ 14. Ka4 Qa5# 0-1

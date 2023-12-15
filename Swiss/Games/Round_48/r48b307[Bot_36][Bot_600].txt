@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "47"]
+[White "Failbot (by: deltagiac)"]
+[Black "Edbd (by: Ahmad)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. f3 h5 2. g4 hxg4 3. a3 gxf3 4. b3 fxe2 5. c3 exd1=B 6. d3 g5 7. h3 f5 8. a4 e5 9. b4 1-0

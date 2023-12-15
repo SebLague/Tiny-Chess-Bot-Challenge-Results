@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "62"]
+[White "Cheatos (by: Jeroen)"]
+[Black "SlothBot (by: 0xFF)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f3 Nc6 2. d4 d5 3. Kf2 e5 4. dxe5 Bc5+ 5. Kg3 Nxe5 6. f4 Ng4 7. h3 Nf2 8. Rh2 Nxd1 9. b3 Bxg1 10. Rh1 Qh4+ 11. Kxh4 Bf2+ 12. Kh5 Nf6+ 13. Kg5 Ne4+ 14. Kh5 Ne3 15. c3 g6+ 16. Kh6 Nf5# 0-1

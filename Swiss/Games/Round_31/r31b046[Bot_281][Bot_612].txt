@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "30"]
+[White "timecat-mini (by: Gourab Ghosh)"]
+[Black "SlowMo (by: Bit!)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Nc3 e5 3. Nf3 Bb4 4. Nd5 Nf6 5. Bc4 Ba5 6. O-O d6 7. d3 Bg4 8. Bg5 Kd7 9. a3 Kc8 10. b4 Bxf3 11. Qxf3 Bb6 12. Nxf6 gxf6 13. Bxf6 Qe8 14. Bxh8 Qxh8 15. Qxf7 Nd4 16. Bb3 Kb8 17. Rae1 Nb5 18. a4 Nc3 19. a5 Bd4 20. Bc4 a6 21. Qe7 Ra7 22. h4 Nb5 23. Bxb5 axb5 24. Qd7 h5 25. c3 Bxc3 26. Rc1 Bxb4 27. Qxc7+ Ka8 28. Qc8+ Qxc8 29. Rxc8# 1-0

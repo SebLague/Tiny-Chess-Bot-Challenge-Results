@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "32"]
+[White "Simple Minimax (by: Sidewinder7)"]
+[Black "ItBeatsMe (by: Soma Nyiro)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Qh5 Qf6 3. Ne2 g6 4. Qh3 Bc5 5. Kd1 Bxf2 6. Ng3 Nc6 7. Qg4 d5 8. Qf5 gxf5 9. exf5 Ke7 10. Nc3 Qd6 11. Nb5 Qd8 12. Nxc7 Qxc7 13. Ba6 bxa6 14. b4 Nf6 15. c3 Bxg3 16. hxg3 Bxf5 17. Ke1 Qd6 18. Rf1 Be4 19. d4 Bxg2 20. Kf2 Bxf1 21. Kxf1 Rag8 22. Kg2 exd4 23. Bg5 Rxg5 24. Re1+ Ne4 25. Re3 Rxg3+ 26. Kf1 Qf4+ 27. Ke1 Rxe3+ 28. Kd1 Nxc3+ 29. Kc1 Nxa2+ 30. Kb1 Qf5+ 31. Ka1 Qf1+ 32. Kxa2 Nxb4+ 33. Kb2 Qe2+ 34. Ka1 Qa2# 0-1

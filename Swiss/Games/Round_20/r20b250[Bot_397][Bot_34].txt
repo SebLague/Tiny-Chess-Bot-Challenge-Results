@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "19"]
+[White "TinyLispChessBot (by: tr00)"]
+[Black "SaveBot (or, "winning bot" as an alternative) (by: Rudy)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Na3 Na6 2. Nb5 Rb8 3. Nxa7 Ra8 4. Nxc8 Rxc8 5. Rb1 Ra8 6. Ra1 Ra7 7. Rb1 Ra8 8. Ra1 Ra7 9. Rb1 Ra8 1/2-1/2

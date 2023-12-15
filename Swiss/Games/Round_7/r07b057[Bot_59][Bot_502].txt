@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "6"]
+[White "Generic Chess Bot #1000000 (by: Anthony)"]
+[Black "Stickleback2 (by: Brent Mardell)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. e3 e6 3. Ne5 Bd6 4. Nc4 Bc5 5. Qf3 d5 6. Ne5 Bd6 7. Bb5+ c6 8. Nxf7 Kxf7 9. Ba4 Nd7 10. b4 Ne5 11. Qh3 Bxb4 12. Qg3 Nc4 13. Kf1 b5 14. Bb3 Kg8 15. Bxc4 dxc4 16. d3 cxd3 17. c3 Ne4 18. Qh3 Bxc3 19. Nxc3 Nxc3 20. Bd2 Ne4 21. Bb4 Qf6 22. f4 Qxa1+ 23. Be1 d2 24. Ke2 d1=Q+ 25. Kf1 Qxe1# 0-1

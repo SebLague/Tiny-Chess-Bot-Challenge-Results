@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "14"]
+[White "TLMChessBot [v1-1250] (by: Möhrchen (Thilo))"]
+[Black "DarnBot (by: Darn)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 Nc6 2. f4 d6 3. a4 Be6 4. Bb5 Qd7 5. a5 a6 6. Bxc6 Qxc6 7. Nf3 g6 8. Nh4 Bg7 9. h3 Nf6 10. d3 Nh5 11. Rh2 Ng3 12. Nd2 Bf6 13. Ndf3 O-O 14. Ng5 Bxg5 15. fxg5 f6 16. Nf3 fxg5 17. Kf2 Nh5 18. Kg1 h6 19. Nd4 Qd5 20. c4 Qe5 21. Nxe6 Qxe6 22. Qe1 g4 23. hxg4 Qxg4 24. Rh4 Qg5 25. e4 Nf4 26. Rxf4 Rxf4 27. Bxf4 Qxf4 28. d4 e5 29. Rd1 exd4 30. Rxd4 Qe5 31. Qd2 h5 32. b4 Rf8 33. c5 dxc5 34. Rd5 Qxe4 35. Rxc5 c6 36. g3 h4 37. gxh4 Qg4+ 38. Kh2 Qxh4+ 39. Kg2 Rf4 40. Qe2 Rg4+ 41. Qxg4 Qxg4+ 42. Kh2 Qh4+ 43. Kg1 Qxb4 44. Rc1 Qd4+ 45. Kh1 Qd5+ 46. Kg1 Qg5+ 47. Kf2 Qxc1 48. Ke2 Qa3 49. Kd1 Qb2 50. Ke1 Kf7 51. Kd1 Ke6 52. Ke1 Kd5 53. Kd1 Ke4 54. Ke1 Ke3 55. Kd1 Qd2# 0-1

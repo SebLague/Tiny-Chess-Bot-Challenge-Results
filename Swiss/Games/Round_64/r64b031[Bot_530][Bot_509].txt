@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "63"]
+[White "Algernon (by: White Mouse)"]
+[Black "MapBot (by: Map)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. d4 Nf6 3. e5 Nd5 4. c4 Nb6 5. d5 Nxe5 6. c5 Nbc4 7. Qd4 b5 8. cxb6 Ba6 9. b3 c5 10. Qc3 Qxb6 11. f4 Ng6 12. Bxc4 Nh4 13. Bxa6 Qxa6 14. Nf3 Nxf3+ 15. Qxf3 Qf6 16. Nc3 O-O-O 17. O-O Kb8 18. f5 d6 19. Bb2 h5 20. Rad1 Qh4 21. Ne4 Qg4 22. Qd3 h4 23. h3 Qh5 24. Qb5+ Kc8 25. Rc1 Qh6 26. Nxc5 Qe3+ 27. Kh1 dxc5 28. Rxc5+ Qxc5 29. Qxc5+ Kb7 30. Qc6+ Kb8 31. Rc1 Rh6 32. Qc7+ Ka8 33. Qxd8+ Kb7 34. Qc8+ Kb6 35. Rc6+ Ka5 36. Qa6+ Kb4 37. Bc3# 1-0

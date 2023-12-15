@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "42"]
+[White "ONE MOVE TO RULE THEM ALL (by: b4ux1t3)"]
+[Black "ChessGPT (by: DeepGoldenCrown)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a3 Nh6 2. Nh3 d6 3. b3 Bxh3 4. gxh3 a5 5. Nc3 d5 6. Nb1 c6 7. a4 Nf5 8. Nc3 Ra6 9. f3 Nd4 10. Nb5 Nxb5 11. axb5 cxb5 12. Ba3 f6 13. Bg2 d4 14. b4 axb4 15. Bxb4 Rb6 16. Ra8 Re6 17. Rf1 Kd7 18. h4 Kc6 19. f4+ Kd7 20. Bxb7 Kc7 21. Bc8 Kxc8 22. h5 Kb7 23. d3 Kxa8 24. Qa1+ Na6 25. Qb2 Nxb4 26. Qxb4 Ka7 27. Qxb5 Ka8 28. Qa4+ Kb7 29. Qb5+ Ka7 30. Qc5+ Kb7 31. Qb4+ Ka7 32. Qa4+ Kb7 33. Qb3+ Ka7 34. Qxe6 h6 35. Qa2+ Kb6 36. Qb1+ Ka6 37. Qa1+ Kb7 38. Qb2+ Kc7 39. Rf2 g6 40. hxg6 e5 41. fxe5 fxe5 42. Rf7+ Kd6 43. Qa3+ Kc6 44. Qa4+ Kd5 45. Qa2+ Kc5 46. Qa7+ Kb5 47. Qb7+ Kc5 48. Qa8 Qxa8 49. Rc7+ Kb6 50. Rf7 Qa2 51. Rf6+ Kb7 52. Rxf8 Rxf8 53. h3 Qxc2 54. e4 Qxd3 55. h4 Rf1# 0-1

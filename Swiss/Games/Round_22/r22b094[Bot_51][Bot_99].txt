@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "21"]
+[White "Shenanigator (by: Gary Wawn)"]
+[Black "Sambot (by: Sam)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Nc3 Nf6 3. d4 Rb8 4. d5 Nb4 5. a3 Nbxd5 6. exd5 h5 7. Bg5 Ng4 8. f3 Nf6 9. Qd4 b6 10. Bxf6 gxf6 11. Qh4 e6 12. Ne4 Be7 13. dxe6 dxe6 14. Nc3 Bd7 15. Ra2 Rc8 16. Ba6 Ra8 17. h3 f5 18. Qf4 Bg5 19. Qb4 Bh4+ 20. Kf1 Be7 21. Qc4 Rg8 22. b4 Rb8 23. Bb5 Bxb5 24. Qxb5+ Kf8 25. Qd3 Qe8 26. Qc4 Rc8 27. h4 c5 28. Qf4 cxb4 29. Qh6+ Rg7 30. axb4 Bxb4 31. Nce2 Bc5 32. Qxh5 Be3 33. Ra3 Bxg1 34. Rxg1 Rxc2 35. Qh8+ Rg8 36. Qh6+ Rg7 37. Rxa7 Kg8 38. Nd4 Rb2 39. Qc1 Rb4 40. Qc3 Rb1+ 41. Kf2 Rxg1 42. Kxg1 Qd8 43. Nxe6 Qd1+ 44. Kf2 Rxg2+ 45. Kxg2 Qe2+ 46. Kg3 Qxe6 47. Ra8+ Qe8 48. Rxe8+ Kh7 49. Qh8+ Kg6 50. Rg8# 1-0

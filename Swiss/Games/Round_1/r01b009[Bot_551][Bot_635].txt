@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "AchillesAlpha (by: Achilles)"]
+[Black "BotTheBuilder (by: Stelio Dalakas)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. a3 c6 2. c3 e5 3. Nf3 Bd6 4. Nxe5 Bc7 5. Nxf7 Qf6 6. Nxh8 Qe6 7. Qc2 Nf6 8. f3 Qg8 9. Ng6 Qe6 10. Nh8 Nh5 11. Kd1 Qd5 12. Qxh7 Qb3+ 13. Qc2 Qb6 14. Qe4+ Kf8 15. Ke1 Nf6 16. Qe3 Na6 17. Qd3 d6 18. Qc2 Kg8 19. Kd1 Qa5 20. Ke1 Qb6 21. Kd1 Qa5 22. Qb3+ Kxh8 23. Ra2 Nd5 24. d3 Kh7 25. Bd2 Nf6 26. Kc1 Qb5 27. Qxb5 Ng8 28. Qh5+ Nh6 29. Qe8 Nc5 30. Kc2 Nf5 31. Kd1 Ne6 32. Qh5+ Nh6 33. Qh4 Bd7 34. Qe1 Rc8 35. g3 Ra8 36. Kc1 Be8 37. Kd1 Bg6 38. h4 Rc8 39. h5 Bf7 40. Ra1 Nc5 41. d4 Nb3 42. Bh3 1-0

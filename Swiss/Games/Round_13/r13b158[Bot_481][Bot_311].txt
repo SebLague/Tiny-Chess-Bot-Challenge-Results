@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "12"]
+[White "Just Alright... Kinda... (JAK) (by: Joshnaks)"]
+[Black "MyFirstChessEngine (by: Jake Forsey)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 Nc6 2. Rb1 Nd4 3. e3 Nc6 4. Ra1 Rb8 5. Rb1 Nb4 6. c3 Nxa2 7. Ke2 Nxc1+ 8. Rxc1 Nf6 9. Ke1 e6 10. Nb1 Bd6 11. h3 Ke7 12. Ke2 Ke8 13. Ke1 Ne4 14. Ke2 Qh4 15. Ke1 Qxf2# 0-1

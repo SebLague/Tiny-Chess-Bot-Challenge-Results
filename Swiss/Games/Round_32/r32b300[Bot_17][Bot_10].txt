@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "31"]
+[White "The Copycat (by: castur_)"]
+[Black "nadjBot (by: Arman N)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. b4 a5 2. a4 axb4 3. a5 Rxa5 4. Ra4 Rxa4 5. f3 Ra1 6. Ba3 bxa3 7. h3 Rxb1 8. g3 Rxd1+ 9. Kxd1 a2 10. e3 a1=Q+ 11. Ke2 Qxf1+ 12. Kxf1 b5 13. c4 bxc4 14. d4 cxd3 15. e4 d2 16. g4 d1=Q+ 17. Kf2 Qxg1+ 18. Ke2 Qxh1 19. Ke3 Qxf3+ 20. Kd4 Qxg4 21. hxg4 c5+ 22. Kc4 Qa5 23. Kd3 Qa1 24. Ke2 Qb1 25. Kf3 Qxe4+ 26. Kxe4 c4 27. Kd5 c3 28. Kc5 c2 29. Kb6 c1=Q 30. Ka5 Qa1+ 31. Kb5 Qb1+ 32. Kc5 Qa1 33. Kb5 Qb1+ 34. Kc5 Qa1 35. Kb4 Qb1+ 36. Kc5 1/2-1/2

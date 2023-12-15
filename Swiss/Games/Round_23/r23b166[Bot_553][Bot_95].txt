@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "22"]
+[White "Jack (by: Antonio P)"]
+[Black "Two Day Bot (by: )"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 d6 2. Qd2 Qd7 3. Qc3 a6 4. Kd1 Qb5 5. Qxc7 e6 6. Qxc8+ Ke7 7. Nc3 Qh5 8. Qxb7+ Nd7 9. Qxa8 Nb8 10. Qxb8 Kd7 11. Qxf8 a5 12. Qxg7 Ke8 13. Qxh8 Qf5 14. Qxg8+ Kd7 15. Qa8 Qh5 16. Qa7+ Kc6 17. d5+ exd5 18. Nf3 Qxf3 19. exf3 a4 20. Bb5# 1-0

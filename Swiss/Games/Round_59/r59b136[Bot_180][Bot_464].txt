@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "58"]
+[White "Sørensen's Minimax (by: Victor)"]
+[Black "Indian_Liver (by: MDM)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e6 2. Qg4 h5 3. Qe4 f5 4. Qc4 b6 5. Qf4 Bb7 6. Qg3 g5 7. Qe5 Rh7 8. Bb5 Bxg2 9. Qxe6+ Ne7 10. Nf3 c6 11. Qe5 Bxf3 12. Rg1 cxb5 13. Rxg5 Qc8 14. Rg3 Qxc2 15. Qxb5 Qxc1# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "52"]
+[White "FunBot (by: Paul Spooner AKA Dudecon)"]
+[Black "Chessica (by: Nicky Kitchingman)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 a6 2. h5 a5 3. b3 a4 4. f4 b5 5. b4 a3 6. e3 c6 7. Nc3 d6 8. d3 c5 9. Rb1 c4 10. Nxb5 g6 11. dxc4 h6 12. Nd4 d5 13. g3 dxc4 14. Bxc4 Qc7 15. Bb5+ Kd8 16. Ne6# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "50"]
+[White "ScaredyBot (by: Jacob Sweeten)"]
+[Black "InfuehrDaniel MCTS (by: Daniel Infuehr)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e6 2. Nf3 Qf6 3. b3 Nc6 4. g3 Bc5 5. Rb1 Qf5 6. Ra1 Nf6 7. Rb1 Ng4 8. Ra1 Bxf2# 0-1

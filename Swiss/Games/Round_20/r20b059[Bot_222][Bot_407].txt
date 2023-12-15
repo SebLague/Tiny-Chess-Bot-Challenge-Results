@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "19"]
+[White "PecanPie (by: PecanPie)"]
+[Black "simple chess bot (by: 4a0I)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 e6 2. e4 Bb4+ 3. Bd2 Bxd2+ 4. Nxd2 Qg5 5. Ngf3 Qa5 6. Bc4 Qb4 7. Bb3 Nc6 8. c3 Qb5 9. c4 Qb4 10. a3 Qa5 11. d5 exd5 12. cxd5 Nce7 13. O-O Nf6 14. d6 Nc6 15. e5 Ng4 16. Nc4 Qc5 17. Rc1 Na5 18. h3 Nxb3 19. Qxb3 Nh6 20. dxc7 Kf8 21. Nd6 Qb6 22. Qxb6 axb6 23. Rcd1 Ke7 24. g4 Ng8 25. Ng5 Nh6 26. Nge4 g6 27. Nf6 Ke6 28. f4 Ra4 29. Nxh7 Ra8 30. f5+ gxf5 31. gxf5+ Nxf5 32. Ng5+ Ke7 33. Rxf5 Rf8 34. Rdf1 f6 35. Rxf6 Rxf6 36. Rxf6 Rxa3 37. Rf7# 1-0

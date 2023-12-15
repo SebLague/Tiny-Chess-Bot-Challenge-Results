@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "46"]
+[White "SepukuBot (by: Madhu)"]
+[Black "devi1.02 (by: )"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g4 b6 2. Bg2 c6 3. a4 e6 4. Be4 Qg5 5. e3 Nf6 6. f4 Qh4+ 7. Kf1 Nxe4 8. Qf3 Ba6+ 9. Kg2 d5 10. Qd1 Bf1+ 11. Kxf1 Qf2# 0-1

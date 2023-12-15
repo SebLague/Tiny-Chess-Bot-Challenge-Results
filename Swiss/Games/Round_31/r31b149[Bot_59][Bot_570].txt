@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "30"]
+[White "Generic Chess Bot #1000000 (by: Anthony)"]
+[Black "Shadow's Unfinished Bot (by: shadowcage72)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 e6 2. a3 Nc6 3. e4 Bd6 4. d4 Nf6 5. e5 O-O 6. Bb5 Bb4+ 7. axb4 Ne4 8. Bxc6 dxc6 9. Qe2 f5 10. Ra2 b5 11. Ra1 Bb7 12. Rg1 a6 13. h3 Bc8 14. Na3 a5 15. Nb1 a4 16. Na3 Bb7 17. Rf1 Bc8 18. Rg1 Bb7 19. g4 Bc8 20. h4 Bb7 21. Rb1 Bc8 22. Qe3 Bb7 23. Qf4 Bc8 24. Kf1 Bb7 25. h5 Bc8 26. c3 Bb7 27. Rg2 Bc8 28. h6 Bb7 29. gxf5 exf5 30. Rxg7+ Kh8 31. Nd2 Nxd2+ 32. Qxd2 f4 33. Qc2 Rf5 34. Qxf5 Qg8 35. Rxg8+ Rxg8 36. Qf6+ Rg7 37. Bxf4 c5 38. Ke1 cxb4 39. Bh2 bxa3 40. Rd1 axb2 41. Bf4 c5 42. Qxg7# 1-0

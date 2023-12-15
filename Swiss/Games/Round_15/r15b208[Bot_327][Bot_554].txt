@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "14"]
+[White "FunBot (by: Paul Spooner AKA Dudecon)"]
+[Black "The Fisher (by: Unodus)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 e6 2. g4 Qf6 3. c4 Qxd4 4. Qxd4 d5 5. b3 Bd6 6. Qxg7 Nd7 7. Qxh8 Nf8 8. Qxg8 dxc4 9. bxc4 a5 10. e3 Bd7 11. g5 Be5 12. Kd2 Bc6 13. f3 Bd5 14. Bd3 Rd8 15. Bxh7 Bxf3+ 16. Ke1 Bg3+ 17. Kf1 Rd1# 0-1

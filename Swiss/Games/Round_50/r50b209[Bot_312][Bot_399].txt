@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "49"]
+[White "TBbot (by: TBMPFW)"]
+[Black "Sleepy panda bot (by: Quinten F)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. b4 e6 2. c4 c6 3. f4 Bxb4 4. Nc3 Qh4+ 5. g3 Qg4 6. Nf3 Nf6 7. h4 Qxg3# 0-1

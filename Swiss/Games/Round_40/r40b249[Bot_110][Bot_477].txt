@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "39"]
+[White "EvilMirror (by: Hagan Gray)"]
+[Black "Thrower (by: EZDragon)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 e6 2. d3 d5 3. e4 dxe4 4. dxe4 Qxd1+ 5. Kxd1 Nc6 6. a3 Bd6 7. Be3 Nd4 8. Ne5 Bxe5 9. Bxd4 Bxd4 10. Ra2 Bxf2 11. h3 Bd7 12. Be2 Ba4 13. Bh5 Rd8+ 14. Ke2 Bc5 15. Bxf7+ Kxf7 16. Rf1+ Nf6 17. Nc3 Bxc2 18. Rxf6+ gxf6 19. Nd1 Bxd1+ 20. Kf1 Rd2 21. h4 Rg8 22. b4 Be2+ 23. Ke1 Rxa2 24. bxc5 Rb2 25. c6 bxc6 26. h5 Bd3 27. g3 Rxg3 28. h6 Rg1# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "40"]
+[White "Saubstauga (by: Dominik)"]
+[Black "letmeout (by: randomtestfive)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 e6 2. h5 Qg5 3. d4 Qf5 4. c4 Nc6 5. Nc3 Bb4 6. a4 Nf6 7. g3 Ne4 8. e3 Qxf2# 0-1

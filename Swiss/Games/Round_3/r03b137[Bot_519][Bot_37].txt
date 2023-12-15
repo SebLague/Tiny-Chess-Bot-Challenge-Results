@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "BasicAlphaBeta (by: ThonyDragon)"]
+[Black "Prince of Persia (by: flabbet)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c4 a5 2. g3 Na6 3. Nc3 Ra7 4. e3 Nb4 5. Ke2 c5 6. Ke1 Ra6 7. Ne4 Qb6 8. Nh3 Ra7 9. d3 Qc6 10. Rg1 Ra6 11. Nf4 Qb6 12. Qa4 Ra7 13. Rh1 e5 14. Ng2 Qa6 15. h3 Ra8 16. Ng5 Qb6 17. Nh4 Ra7 18. Rh2 Qa6 19. Ngf3 Bd6 20. Nf5 Nxd3+ 21. Bxd3 Bf8 22. Nxe5 Qb6 23. Nh4 Bd6 24. Nef3 Qb4+ 25. Qxb4 axb4 26. Ng5 Ra4 27. Bc2 b5 28. Ne4 Ra6 29. cxb5 b3 30. bxa6 Be7 31. a7 c4 32. a8=Q Bb4+ 33. Kf1 Ne7 34. Bd1 Rf8 35. axb3 cxb3 36. Bxb3 Rg8 37. Ng5 f6 38. Bf7+ Kd8 39. Ra4 fxg5 40. Rxb4 Rf8 41. Qa5# 1-0

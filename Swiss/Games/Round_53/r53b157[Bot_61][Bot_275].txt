@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "52"]
+[White "Natrix (by: Pouek_)"]
+[Black "Simple Minimax (by: Sidewinder7)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e6 2. e3 b5 3. Bxb5 Bb7 4. e4 Qh4 5. g3 Qg5 6. d4 Qg4 7. Qxg4 c6 8. Ba4 Ba3 9. bxa3 c5 10. Qxg7 Nc6 11. Qxh8 O-O-O 12. dxc5 Nh6 13. Qxh7 Rg8 14. Bxh6 Re8 15. Qxf7 Rh8 16. Bg7 Rd8 17. Bf6 Kb8 18. Bxc6 Kc7 19. Bxb7 Kxb7 20. Bxd8 Kc8 21. c6 Kxd8 22. Rb1 Kc7 23. Qxd7# 1-0

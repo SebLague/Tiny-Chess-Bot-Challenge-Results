@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "9"]
+[White "LiL Scoot (by: Scoutamass)"]
+[Black "MinimaxAttackerBot5000 (by: ChrisCat123)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. e4 Na6 2. Qh5 Nb4 3. Kd1 Rb8 4. Qb5 e6 5. d4 Ra8 6. Bf4 Rb8 7. Nf3 Qf6 8. Bxc7 a6 9. Bxb8 axb5 10. Bxb5 Ke7 11. Nfd2 Qxd4 12. Bd3 Qxb2 13. Bd6+ Kxd6 14. Nc4+ Kc5 15. Nxb2 Kc6 16. Bc4 Kc5 17. Re1 Kc6 18. Re3 Kc5 19. Rb3 Kd4 20. c3+ Kxe4 21. cxb4 Kd4 22. Rd3+ Ke4 23. Re3+ Kd4 24. b5 Kc5 25. Re5+ Kb4 26. a3+ Ka5 27. a4 Bd6 28. Rh5 Nf6 29. Rh3 Be5 30. Ra2 d5 31. f4 Bxb2 32. Rxb2 e5 33. Be2 Bxh3 34. gxh3 exf4 35. Nc3 Rc8 36. Na2 Kxa4 37. Rb4+ Ka3 38. Bc4 dxc4 39. Kc2 Rc5 40. Rb2 c3 41. Nxc3 Rxc3+ 42. Kxc3 Ka4 43. Rb4+ Ka5 44. Kb3 Nd5 45. Ra4+ Kxb5 46. h4 Kc5 47. Rc4+ Kb5 48. Ra4 Kc5 49. Rc4+ Kb5 50. Ra4 1/2-1/2

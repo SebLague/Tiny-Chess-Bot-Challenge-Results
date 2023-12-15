@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "42"]
+[White "HikuBot (by: Hikushii)"]
+[Black "AugsBot (by: Augs)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. Bc4 Nxe4 5. Nxe4 d5 6. Bd3 dxe4 7. Bxe4 Bc5 8. Qe2 O-O 9. Bxc6 bxc6 10. Qe4 Qd6 11. b4 Bxb4 12. c3 Ba5 13. Ng5 f5 14. Qh4 h6 15. Qc4+ Qd5 16. Qxd5+ cxd5 17. Nf3 f4 18. Ba3 Re8 19. O-O Bb6 20. Rfe1 e4 21. d4 Bf5 22. Ne5 c5 23. Nc6 cxd4 24. cxd4 Kh7 25. Rac1 Rac8 26. Ne7 Rxc1 27. Rxc1 Be6 28. Rc6 Bf7 29. Nf5 e3 30. fxe3 fxe3 31. Bb4 Re4 32. Rc1 Be6 33. Nd6 Rxd4 34. Be1 e2 35. Kf2 Rd1+ 36. Kxe2 Rxc1 37. h3 Rc2+ 38. Kf3 Rxa2 39. g4 d4 40. Bb4 d3 41. Nf5 Bd5+ 42. Kf4 Re2 43. g5 Bc7+ 44. Nd6 Bxd6+ 45. Bxd6 d2 46. g6+ Kxg6 47. h4 Kh5 48. Bc5 Re4+ 49. Kf3 d1=Q+ 50. Kg3 Kg6 51. h5+ Qxh5 52. Be3 Rxe3+ 53. Kf2 Kf5 54. Kxe3 Qd1 55. Kf2 Ke4 56. Kg3 Qf3+ 57. Kh4 g5# 0-1

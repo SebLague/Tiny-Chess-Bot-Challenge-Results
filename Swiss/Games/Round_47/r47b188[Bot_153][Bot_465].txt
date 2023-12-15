@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "46"]
+[White "WhateverBot (by: Alec Holden)"]
+[Black "Larry (by: Joshua: Use "Names" as a nickname if possible or necessary. Thanks!)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 h5 2. Be3 a6 3. Nh3 Nc6 4. Nd2 Nf6 5. Ng5 Rh6 6. Nde4 Ng4 7. h3 b5 8. hxg4 hxg4 9. Rxh6 gxh6 10. Nh7 Ra7 11. Nxf8 Nb4 12. Bxh6 c6 13. e3 f5 14. Ng5 d5 15. Bd3 Bb7 16. Bxf5 Qd6 17. Bg7 Qh2 18. Qxg4 Qg1+ 19. Kd2 Qxa1 20. Bg6+ Kd8 21. Qd7# 1-0

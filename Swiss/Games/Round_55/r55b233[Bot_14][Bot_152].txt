@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "54"]
+[White "simpleval (portmonteau of simple eval) (by: hokurou)"]
+[Black "Attempts to win (by: Taylor Lineman)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 h5 2. f4 Nc6 3. e4 Rh6 4. c4 Re6 5. Qxh5 Rxe4+ 6. Kd1 Rxf4 7. Be2 Nd4 8. Bd3 Nf6 9. Qa5 d5 10. c5 Rf1+ 11. Bxf1 b6 12. Qa3 Ne4 13. d3 Bg4+ 14. Ke1 Nc2# 0-1

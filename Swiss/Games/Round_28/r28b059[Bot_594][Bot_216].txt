@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "27"]
+[White "FetaCheese_Bot (by: Dimitris Dallas)"]
+[Black "Average Chess bot (by: )"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a4 e5 2. Nf3 e4 3. Nd4 c5 4. Nb3 d5 5. Nc3 Nc6 6. e3 c4 7. Nd4 Nxd4 8. exd4 Nf6 9. f3 Ke7 10. Qe2 Be6 11. fxe4 dxe4 12. Qe3 Qb6 13. Nxe4 Nxe4 14. Qxe4 Rd8 15. c3 Kd6 16. d3 cxd3 17. Bxd3 Kc7 18. h4 Qc6 19. Bg5 Qxe4+ 20. Bxe4 Re8 21. O-O Bc4 22. Bf4+ Bd6 23. Bxd6+ Kxd6 24. Rf4 Re7 25. b4 h6 26. h5 Rhe8 27. Bf5 Be2 28. g4 Re3 29. Ra3 Bc4 30. Kh2 Re2+ 31. Kg3 Bd5 32. Rf1 R8e3+ 33. Kf4 Rh3 34. g5 Rh4+ 35. Kg3 Rxh5 36. gxh6 Rg2+ 37. Kf4 g5+ 38. Ke3 Rhh2 39. Bg4 Rxg4 40. Rf6+ Ke7 41. Rf2 Re4+ 42. Kf3 Rf4+ 43. Ke3 Rhxf2 44. h7 R4f3# 0-1

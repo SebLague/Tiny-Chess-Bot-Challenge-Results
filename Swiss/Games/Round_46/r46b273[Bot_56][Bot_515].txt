@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "45"]
+[White "Phi plays Chess (a.k.a. Zobrist's Golden Hashbrowns) (by: Wolfpack 104)"]
+[Black "RedVallium (by: Piotr Bożek)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a3 e5 2. b3 Bc5 3. h4 Qxh4 4. a4 Qxf2# 0-1

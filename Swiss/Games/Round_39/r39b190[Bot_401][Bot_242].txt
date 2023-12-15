@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "38"]
+[White "BlindfoldBot (by: Mk-0)"]
+[Black "SlothBot (by: 0xFF)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. a3 d5 2. b3 Nf6 3. c3 Nc6 4. d3 e6 5. e3 Bd6 6. g3 O-O 7. h3 Re8 8. a4 Ne5 9. Ke2 Bd7 10. f4 Ng6 11. Ke1 e5 12. d4 1-0

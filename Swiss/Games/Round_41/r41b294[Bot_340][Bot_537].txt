@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "40"]
+[White "PacifistBot (by: Noano01)"]
+[Black "InfuehrDaniel MCTS (by: Daniel Infuehr)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 e6 2. Nc3 Qf6 3. Ne4 Qf4 4. d4 Qxe4 5. Be3 Nc6 6. c4 Nh6 7. Kd2 Qg4 8. Kc1 Na5 9. Kb1 Qg6+ 10. Qd3 Ng4 11. Qe4 Qxe4+ 12. Kc1 Be7 13. h4 h6 14. b4 Qc6 15. Kb1 Nxe3 16. g4 Qe4+ 17. Kb2 Qc2+ 18. Ka3 Kd8 19. Ne5 Ke8 20. Re1 Qc3+ 21. Ka4 Qxb4# 0-1

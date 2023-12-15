@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "45"]
+[White "Ben's Bot (by: Ben Clingenpeel)"]
+[Black "Stephanee (by: Elijah Bradshaw)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 d5 2. Qd3 e6 3. Nc3 Bd7 4. Bf4 g5 5. Be5 f6 6. Bg3 Bc6 7. Kd2 Bh6 8. Nb5 e5 9. dxe5 a6 10. Nd4 Bd7 11. e6 g4+ 12. e3 Bc8 13. Qf5 Ke7 14. Qxg4 Bf8 15. Nf5+ Kxe6 16. Nd6+ Ke7 17. Nxc8+ Kf7 18. Bd3 Nh6 19. Qh5+ Kg7 20. Bf4 Kg8 21. Bxh6 Bb4+ 22. c3 Bf8 23. Bf5 Qxc8 24. Bxc8 Bxh6 25. Be6+ Kg7 26. Qf7# 1-0

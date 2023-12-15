@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "40"]
+[White "Deerobot (by: Hugo Ingelsson)"]
+[Black "Average Chess bot (by: )"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e5 2. Nf3 e4 3. Nd4 Nf6 4. Nc3 d5 5. Bb5+ c6 6. Be2 c5 7. Bb5+ Ke7 8. Nde2 a6 9. Ba4 b5 10. Bb3 c4 11. Bxc4 bxc4 12. Nd4 Qd6 13. g4 Nxg4 14. b3 cxb3 15. axb3 Kd8 16. h3 Nf6 17. Ba3 Qc7 18. Bxf8 Rxf8 19. b4 Nc6 20. Ncb5 Qd7 21. Qb1 Rb8 22. Nxc6+ Qxc6 23. Nd4 Qb6 24. Qa2 Kd7 25. Qa4+ Kc7 26. c3 Nd7 27. Qa5 Qxa5 28. Rxa5 Bb7 29. Rg1 g6 30. Rg4 Ne5 31. Rh4 Rh8 32. Ke2 h6 33. Rf4 Kd8 34. Rh4 Kd7 35. Nb3 Ke7 36. Nd4 Kd6 37. Rf4 Rh7 38. b5 axb5 39. Rxb5 Kc7 40. Kd1 Ra8 41. Rc5+ Kb8 42. Rxe4 dxe4 43. Rxe5 Rh8 44. Re7 Ra1+ 45. Kc2 Rf8 46. Nb3 Ra2+ 47. Kc1 Bc6 48. h4 Ra4 49. Nd4 Ba8 50. Nb3 Kc8 51. Kc2 Kd8 52. Re5 Kc7 53. Ra5 Rxa5 54. Nxa5 Rb8 55. c4 Rb6 56. Nb3 Rf6 57. Nc5 Rf5 58. Na6+ Kb7 59. Nb4 Rxf2 60. Nd5 Rh2 61. Nf6 Rxh4 62. Nd7 Kc6 63. Nf6 Kc5 64. Nd7+ Kd6 65. Nb6 Bc6 66. Kc3 Kc5 67. Nc8 Bb7 68. Na7 Rh1 69. Nb5 Rc1+ 70. Kb3 Rxc4 71. Nd4 Bd5 72. Kb2 Ra4 73. Kc3 Ra2 74. Ne2 Bc4 75. Nc1 Ra3+ 76. Kb2 Kb4 77. Kc2 g5 78. Kb1 g4 79. Kb2 g3 80. d3 exd3 81. Kb1 g2 82. e4 g1=Q 83. Kb2 Qd4+ 84. Kb1 Ra1# 0-1

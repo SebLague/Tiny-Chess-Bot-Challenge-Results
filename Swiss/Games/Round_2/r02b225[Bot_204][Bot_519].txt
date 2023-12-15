@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "Blindo (by: MS)"]
+[Black "BasicAlphaBeta (by: ThonyDragon)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 c5 2. Qh5 Nf6 3. Qxc5 a5 4. Qe5 Rg8 5. Qc3 b6 6. Qe5 Bb7 7. Qf5 Bxe4 8. Qe5 Bxc2 9. Na3 Be4 10. Qf4 g5 11. Qe5 Bg6 12. Qxg5 Be4 13. Qe5 Rg6 14. Qf4 Bh6 15. Qe5 Rg5 16. Qf4 Rh5 17. Qg3 Ra7 18. Be2 Rg5 19. Qf4 Bxg2 20. h4 Rg6 21. Qf5 Bxh1 22. Nb5 Rxg1+ 23. Bf1 Ra8 24. Qe5 d6 25. Qh2 Rxf1+ 26. Kxf1 Bb7 27. Qg3 Ba6 28. Qf3 Bxb5+ 29. Kg1 Qc7 30. Qxa8 Bc6 31. Qb7 Bxb7 32. a4 Qc4 33. Rb1 Qg4+ 34. Kf1 Qd1# 0-1

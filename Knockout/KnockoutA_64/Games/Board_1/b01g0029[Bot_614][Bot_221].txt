@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Knockout 64"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "-1"]
+[White "Boychesser (by: MinusKelvin, Analog Hors, Anonymous Contributor (wishes to be unnamed), Algorhythm, and Daniel Ke (DkeRee))"]
+[Black "Spaghetto (by: Skae (Francesco))"]
+[Result "1-0"]
+[TimeControl "30+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. c4 c6 3. Bf4 d5 4. e3 e6 5. Nc3 Nbd7 6. Rc1 Be7 7. Nf3 O-O 8. Qc2 Re8 9. Bd3 dxc4 10. Bxc4 b5 11. Bd3 Bb7 12. O-O Rc8 13. Ne5 b4 14. Ne4 c5 15. Nxf7 Kxf7 16. Ng5+ Kg8 17. Bxh7+ Nxh7 18. Qxh7+ Kf8 19. Qh8# 1-0

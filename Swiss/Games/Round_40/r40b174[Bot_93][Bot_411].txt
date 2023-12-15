@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "39"]
+[White "AIsaac (by: Isaac Ellwood)"]
+[Black "StallerBot (by: Ean)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 h5 2. f4 f6 3. e4 Nc6 4. g4 d5 5. gxh5 Bg4 6. Qxg4 Nb4 7. Kd1 a6 8. Ke1 Nxc2+ 9. Kf2 Nh6 10. Qg6+ Kd7 11. Ke2 Nxa1 12. Bh3+ Kd6 13. e5+ Kc6 14. exf6 exf6 15. Be6 Ng8 16. Qf7 Ne7 17. Kd1 Qd6 18. d4 Rxh5 19. Bxd5+ Rxd5 20. Nf3 b5 21. b4 Rf5 22. a3 Nd5 23. Qg6 Rxf4 24. Ne5+ Kb6 25. Bxf4 Nxf4 26. Qe4 Nd5 27. Nf7 Qd7 28. Nh8 Nc3+ 29. Nxc3 c6 30. h5 Bxb4 31. axb4 a5 32. Kd2 Nb3+ 33. Kc2 f5 34. Nd5+ cxd5 35. bxa5+ Kc6 36. Qd3 Nxd4+ 37. Qxd4 Kb7 38. Qb6+ Kc8 39. Kb1 Qe8 40. Rc1+ Kd7 41. Rc7+ Kd8 42. Qd6+ Qd7 43. Qxd7# 1-0

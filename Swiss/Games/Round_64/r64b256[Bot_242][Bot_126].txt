@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "63"]
+[White "SlothBot (by: 0xFF)"]
+[Black "Shakki botti (by: bobq)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Na6 2. e4 Nb4 3. c3 Nd3+ 4. Bxd3 Nf6 5. e5 Ng4 6. h3 Nf6 7. exf6 gxf6 8. O-O Rg8 9. Bxh7 Bh6 10. Bxg8 Be3 11. dxe3 Rb8 12. Qd5 e5 13. Qxf7# 1-0

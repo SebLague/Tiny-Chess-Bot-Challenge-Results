@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "41"]
+[White "5KindsOfChessplayers (by: Hulululu)"]
+[Black "StallerBot (by: Ean)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d3 c5 2. a3 Nc6 3. Bf4 d6 4. e4 Qb6 5. Ra2 Be6 6. Ra1 h6 7. Bxd6 Bg4 8. Qxg4 Qxb2 9. Ra2 Qxa2 10. Nc3 Qxa3 11. Be5 Nxe5 12. Qg3 Qxc3+ 13. Kd1 Qb2 14. Qe3 Qb1+ 15. Ke2 Qxc2+ 16. Ke1 c4 17. dxc4 Qb1+ 18. Ke2 Qb2+ 19. Kd1 Rd8+ 20. Ke1 Qb1+ 21. Qc1 Qxc1+ 22. Ke2 Qd1+ 23. Ke3 Qe1+ 24. Kf4 b5 25. Kxe5 Qc1 26. h4 g6 27. Rh2 f6+ 28. Ke6 Qxc4+ 29. Bxc4 Rd6# 0-1

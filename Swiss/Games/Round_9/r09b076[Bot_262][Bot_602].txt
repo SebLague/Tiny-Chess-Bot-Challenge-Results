@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "8"]
+[White "Chessburger Bot (by: )"]
+[Black "Itty Bitty Botty (by: Connor Cahoon)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c4 Na6 2. Qa4 Rb8 3. d4 Ra8 4. Bf4 Rb8 5. Nd2 Ra8 6. O-O-O Rb8 7. Nh3 Ra8 8. Nf3 Rb8 9. b4 Nxb4 10. Qxb4 e5 11. Qa5 exf4 12. Qxa7 h5 13. Qxb8 g5 14. Nfxg5 f5 15. Nxf4 d5 16. cxd5 c5 17. Qe5+ Kd7 18. Nf7 b6 19. Nxd8 b5 20. Qxh8 Kd6 21. Qe5+ Kd7 22. Qxf5+ Ke8 23. Qxc8 h4 24. Nde6+ Kf7 25. Qxf8# 1-0

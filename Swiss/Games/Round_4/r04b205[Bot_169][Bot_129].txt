@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "3"]
+[White "TalkChess (by: Thomas Jahn, Mike Sherwin, Dmitry Shechtman)"]
+[Black "Chemibot (by: Mike Chemi)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 c6 2. Nf3 Qb6 3. d4 h5 4. e4 e6 5. Bd3 Bb4 6. Bd2 Bd6 7. e5 Bf8 8. Rb1 Qc7 9. O-O b6 10. Be3 Bb4 11. Ne4 d5 12. exd6 Qd8 13. Bf4 f5 14. Bg5 Qd7 15. Ne5 fxe4 16. Nxd7 exd3 17. Nxb8 Rxb8 18. Qxd3 a5 19. Bf4 h4 20. Kh1 a4 21. Kg1 g5 22. d7+ Kxd7 23. Bxb8 g4 24. Bf4 b5 25. Rbd1 g3 26. hxg3 a3 27. bxa3 hxg3 28. axb4 gxf2+ 29. Rxf2 Rh4 30. Re1 Rg4 31. Rd1 Rg7 32. Re1 Rf7 33. Rd1 Rf8 34. Re1 Rf7 35. Rff1 e5 36. dxe5+ Ke6 37. Kh1 Rg7 38. Kh2 c5 39. Kg1 cxb4 40. Kh1 b3 41. Kg1 bxa2 42. Kh1 a1=Q 43. Rxa1 b4 44. Kg1 Rg4 45. Rad1 Rxg2+ 46. Kh1 Rg4 47. Rde1 Bb7+ 48. Rf3 Rxf4 49. Qd6+ Kf5 50. Qd7+ Kg6 51. Qxb7 Rh4+ 52. Kg1 Rg4+ 53. Kf1 b3 54. Qxb3 Rg1+ 55. Kxg1 Nh6 56. Kf1 Kh5 57. Kg2 Kg5 58. e6 Nf5 59. Kf1 Ng7 60. Kg1 Kg4 61. e7 Ne8 62. Rf7 Kh4 63. Re4+ Kg5 64. Kf1 Nf6 65. Rxf6 Kxf6 66. Kg1 Kg5 67. e8=Q Kf6 68. Re7 Kg5 69. Qc6 Kf4 70. Qbc3 Kg4 71. Q6f6 Kh5 72. Qcf3# 1-0

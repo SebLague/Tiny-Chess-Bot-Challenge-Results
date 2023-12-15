@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "31"]
+[White "Some rules bot (by: qumquat)"]
+[Black "OrionChessEngine (by: Maarten Peels)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d3 f5 2. Nf3 Nf6 3. Nd4 d5 4. Nd2 f4 5. Nb1 e5 6. Nb3 Qd7 7. c3 Nc6 8. h4 Be7 9. Qd2 Kf7 10. f3 Kg6 11. a4 Nh5 12. Ra2 Bxh4+ 13. Kd1 Ng3 14. Rg1 Nxf1 15. Qc2 Ne3+ 16. Kd2 Nxc2 17. Kxc2 Kf5 18. Rh1 Kg5 19. Nc5 Qe8 20. Nd2 Qg6 21. Ndb3 a5 22. Bd2 Qf7 23. Ra3 Qe8 24. Rh2 Qh5 25. Ne6+ Bxe6 26. Nc5 Qf7 27. Nxb7 Bg3 28. Rh1 Bd7 29. b3 Bh3 30. gxh3 Kh4 31. Rg1 Nb8 32. Rg2 h6 33. d4 c5 34. Nxc5 exd4 35. cxd4 Nc6 36. Bc3 Rhf8 37. Kd3 Kxh3 38. Rg1 Qg6+ 39. Kd2 Kh2 40. Rf1 Kg2 41. Rfa1 Bf2 42. Nd7 Be3+ 43. Kd1 Rfd8 44. Nb6 Kf1 45. Nxa8 Rxa8 46. R1a2 Qb1# 0-1

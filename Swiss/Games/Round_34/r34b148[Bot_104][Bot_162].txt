@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "33"]
+[White "Toribot (by: Yujan Subedi)"]
+[Black "BitBlunderer (by: Till Zemann (GitHub: https://github.com/till2 :D))"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d3 e5 2. Nd2 Bb4 3. a3 Bxd2+ 4. Bxd2 Ne7 5. e4 d5 6. exd5 Nxd5 7. h4 h5 8. Bg5 f6 9. Bc1 Bg4 10. Qd2 Bf5 11. c4 b5 12. g4 bxc4 13. gxf5 c3 14. Qc2 cxb2 15. Qa4+ c6 16. Bxb2 Qe7 17. Kd2 Qc5 18. Ke1 e4 19. Bd4 Qe7 20. Kd2 exd3 21. Re1 Qxe1+ 22. Kxe1 d2+ 23. Kxd2 Ne7 24. Bh3 Nd5 25. Be3 Nxe3 26. Qe4+ Kf8 27. Qxe3 a5 28. Qb6 Nd7 29. Qxc6 Rd8 30. Qc7 Ra8 31. Qxd7 Rb8 32. f3 Rb2+ 33. Kc1 Re2 34. Nxe2 Rh7 35. Rg1 a4 36. Rf1 Rh6 37. Qxa4 g5 38. Rg1 gxh4 39. Qe4 Rh7 40. Qxh4 Rc7+ 41. Kb2 Rb7+ 42. Ka2 Rb8 43. Re1 Rb7 44. Ka1 Ra7 45. Qxf6+ Kg8 46. Kb2 Rb7+ 47. Ka2 h4 48. Rg1+ Kh7 49. Qxh4# 1-0

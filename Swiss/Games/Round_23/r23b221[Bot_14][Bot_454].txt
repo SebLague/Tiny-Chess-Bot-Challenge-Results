@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "22"]
+[White "simpleval (portmonteau of simple eval) (by: hokurou)"]
+[Black "The Mad King (by: Coding With Avaclava)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 f6 2. g4 b6 3. f4 d5 4. d4 Bxg4 5. e3 Bxd1 6. Kxd1 h6 7. Bb5+ Kf7 8. b4 e6 9. a4 Bxb4 10. h5 f5 11. Nh3 a5 12. Nf2 Kf8 13. Nh3 Qh4 14. Ng1 Qe1# 0-1

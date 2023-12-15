@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "5"]
+[White "Trash LITE (by: kachim2)"]
+[Black "BlindfoldBot (by: Mk-0)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 a6 2. e3 a5 3. h4 a4 4. Bd3 b6 5. Bxh7 Rxh7 6. Qg4 d6 7. Qd1 e6 8. Qe2 Rxh4 9. Nf3 Rxh1+ 10. Ng1 Rxg1+ 11. Qf1 Rxf1+ 12. Kxf1 Ba6+ 13. Kg1 b5 14. c3 d5 15. Kf1 b4+ 16. c4 Bxc4+ 17. Kg1 a3 18. Bd2 axb2 19. Nc3 bxa1=Q+ 20. Nd1 Qxd1+ 21. Be1 Qxe1+ 22. Kh2 Qh4# 0-1

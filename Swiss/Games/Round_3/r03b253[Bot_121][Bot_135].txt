@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "broken bot (by: Raj Gaurav)"]
+[Black "pawnHater300 (by: hakrackete)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Stalemate"]
+
+1. h4 a5 2. g4 a4 3. f4 a3 4. bxa3 Rxa3 5. e4 Rxa2 6. d4 Rxa1 7. c4 Rxb1 8. h5 Rxc1 9. h6 Rxd1+ 10. Kf2 Rxf1+ 11. Kg3 Rxg1+ 12. Rxg1 Nxh6 13. g5 b5 14. gxh6 bxc4 15. hxg7 Bxg7 16. f5 Bxd4 17. f6 Bxg1 18. fxe7 Kxe7 19. e5 c3 20. e6 Kxe6 21. Kh3 c2 22. Kg4 c1=Q 23. Kh3 c5 24. Kg4 c4 25. Kh3 c3 26. Kg4 c2 27. Kh3 d5 28. Kg4 d4 29. Kh3 d3 30. Kg4 d2 31. Kh3 d1=Q 32. Kg2 f5 33. Kh1 f4 34. Kg2 f3+ 35. Kh1 f2 36. Kg2 f1=Q+ 37. Kh1 h5 1/2-1/2

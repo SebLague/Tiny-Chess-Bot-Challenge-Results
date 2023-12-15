@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "61"]
+[White "BasicAlphaBeta (by: ThonyDragon)"]
+[Black "SlowMo (by: Bit!)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. e3 Nc6 2. Qg4 Nf6 3. Qa4 d5 4. Be2 Bd7 5. Qb3 Rb8 6. f4 Na5 7. Qa3 Nc6 8. Qc5 e6 9. Qc3 Ne4 10. Qd3 Qh4+ 11. g3 Nxg3 12. Nf3 Qh6 13. Rg1 Ne4 14. a4 Nc5 15. Qa3 Ne4 16. Qd3 Nc5 17. Qa3 Ne4 18. Qd3 Nc5 1/2-1/2

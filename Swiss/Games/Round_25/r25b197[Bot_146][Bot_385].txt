@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "24"]
+[White "OneHundredAndEighty (by: Tom R.)"]
+[Black "3D.Opening Bot (by: Mark Grennan)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 d5 2. Nf3 Nf6 3. Nd4 Nc6 4. a4 Nxd4 5. Ra3 Qd6 6. h4 Bf5 7. Rg1 g5 8. hxg5 Ng4 9. a5 Bg7 10. Ra4 Bxc2 11. Rh1 Bxd1 12. Rh4 Bxa4 13. Rxg4 Nc2+ 14. Kd1 Ne3+ 15. Ke1 Nxg4 16. Nxa4 Kd7 17. b3 Qf4 18. Nc5+ Kc6 19. Ba3 Qxf2+ 20. Kd1 Qxf1+ 21. Kc2 Qxe2 22. Bb4 a6 23. g3 Bd4 24. Ba3 Rhg8 25. b4 Kd6 26. Nxb7+ Kd7 27. Bc1 Rg6 28. Kb3 Qf1 29. Kc2 Rb8 30. Kb1 Rxb7 31. Kc2 Rxb4 32. d3 Rb8 33. Kd2 Qg2+ 34. Kd1 Qxg3 35. Bd2 Qxd3 36. Ke1 Qf3 37. Bc1 Rc6 38. Kd2 Rg6 39. Ke1 Rc6 40. Bd2 Rc2 41. g6 fxg6 42. Bg5 Qh1# 0-1

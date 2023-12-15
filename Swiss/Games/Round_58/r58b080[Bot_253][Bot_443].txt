@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "57"]
+[White "Squeedo (by: David Giesegh)"]
+[Black "LunarBot (by: LunarTech)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Nf3 Nf6 3. Nc3 Ng4 4. Bb5 Nge5 5. Nxe5 Nxe5 6. d4 Nc6 7. O-O e6 8. Bxc6 dxc6 9. Bf4 Be7 10. Qe1 Bf6 11. e5 Qxd4 12. Ne2 Qxb2 13. exf6 gxf6 14. Bxc7 Kd7 15. Bf4 Qxc2 16. Nd4 Qc4 17. Qd1 Qd5 18. Qd3 e5 19. Qg3 exf4 20. Qxf4 Qg5 21. Qxg5 fxg5 22. Rad1 Ke7 23. Rfe1+ Kf6 24. Rd3 Bg4 25. h3 Bh5 26. g4 Bg6 27. Rf3+ Kg7 28. Re7 Rab8 29. Rb3 Rhd8 30. Rexb7 Rxb7 31. Ne6+ fxe6 32. Rxb7+ Kf6 33. Rxa7 Rd2 34. a3 Be4 35. Ra8 Ke5 36. Rg8 Rd3 37. Kh2 Rf3 38. Rxg5+ Kd4 39. Ra5 Rxf2+ 40. Kg3 Rf3+ 41. Kh4 Rd3 42. Ra4+ Kd5 43. Ra6 Bg2 44. Ra4 Rxh3+ 45. Kg5 Ke5 46. Ra5+ Bd5 47. Ra4 Rf3 48. Ra8 Rf7 49. Kh4 Kf4 50. a4 Bf3 51. g5 h6 52. Rg8 hxg5+ 53. Rxg5 Rh7+ 54. Rh5 Rxh5# 0-1

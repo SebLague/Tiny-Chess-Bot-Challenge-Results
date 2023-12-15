@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "10"]
+[White "OrionChessEngine (by: Maarten Peels)"]
+[Black "The Mad King (by: Coding With Avaclava)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 d6 2. Nc3 g6 3. e4 f6 4. Bb5+ Kf7 5. Bd3 h6 6. Qe2 c6 7. Qe3 a5 8. Bc4+ Ke8 9. Bxg8 Rxg8 10. Na4 h5 11. Nd4 e5 12. Qb3 exd4 13. Qxg8 h4 14. Qxg6+ Ke7 15. Qh7+ Ke6 16. Qg8+ Kd7 17. Qg4+ Ke7 18. h3 Bxg4 19. c4 d3 20. hxg4 Ke8 21. Nc3 c5 22. Rb1 b6 23. Rxh4 Ra6 24. Nd5 a4 25. Rh7 Ra5 26. Nc7+ Qxc7 27. Rxc7 Kd8 28. Rh7 Ke8 29. Kd1 Ra6 30. a3 Kd8 31. Rh4 Ra5 32. Rh7 Kc8 33. Rh8 Na6 34. Rxf8+ Kd7 35. Ke1 Kc7 36. Rxf6 Kc6 37. Kd1 Nb8 38. e5 Kb7 39. b3 dxe5 40. Rf7+ Ka6 41. bxa4 Rxa4 42. g3 Rxc4 43. f3 Nc6 44. Rh7 Ka5 45. Bb2 b5 46. Rh6 Ka4 47. Rxc6 Ka5 48. Ba1 Ra4 49. Bxe5 Rxa3 50. Rxc5 Ka6 51. Rc6+ Ka7 52. Rxb5 Ka8 53. Kc1 Ra4 54. Rf6 Rc4+ 55. Kb2 Ka7 56. Bb8+ Ka8 57. Ra6# 1-0

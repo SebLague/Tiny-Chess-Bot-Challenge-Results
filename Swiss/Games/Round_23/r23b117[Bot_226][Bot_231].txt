@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "22"]
+[White "Bob (by: Evan Leach)"]
+[Black "NotHuman (by: Sixteen)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Nc3 Nd4 3. Bc4 e5 4. Qh5 Nxc2+ 5. Kd1 d5 6. Qxe5+ Ne7 7. Bb5+ c6 8. Kxc2 cxb5 9. Nxb5 dxe4 10. Nc7+ Kd7 11. Nxa8 f5 12. Ne2 Rg8 13. Nf4 Kc6 14. a4 Rh8 15. Rd1 Kd7 16. d3 Kc6 17. dxe4 Nd5 18. exd5+ Kc5 19. Ra2 Qd7 20. Be3+ Kb4 21. Qc3# 1-0

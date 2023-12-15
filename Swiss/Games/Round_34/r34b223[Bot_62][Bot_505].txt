@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "33"]
+[White "DumBot (by: Viruj)"]
+[Black "Terminus (by: Slayer8274)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 a5 2. c4 b5 3. Nf3 Bb7 4. Qa4 bxa4 5. Nbd2 Ra6 6. Kd1 Rb6 7. Ke1 Rb4 8. Kd1 Rb6 9. Kc2 Rb4 10. Kb1 Rxc4 11. Nxc4 Be4# 0-1

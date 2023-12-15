@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "34"]
+[White "GOYO Bot v1.1.2 (by: Goyo)"]
+[Black "BitBlunderer (by: Till Zemann (GitHub: https://github.com/till2 :D))"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Nc3 Nf6 3. Nf3 g5 4. Nxg5 Ne5 5. Nb5 h6 6. Nd4 hxg5 7. Nf5 Nxe4 8. Nd4 c5 9. Nf5 e6 10. Ne3 Bd6 11. Qe2 Qf6 12. Qb5 Qxf2+ 13. Kd1 Qf4 14. Qe2 Nf2+ 15. Ke1 Nxh1 16. Qb5 Qxh2 17. Qe2 Qg3+ 18. Kd1 Qg4 19. Nxg4 Nxg4 20. Qxg4 Ng3 21. Qxg5 Nxf1 22. Qg7 Rh1 23. Qg8+ Ke7 24. Qg5+ f6 25. Qg7+ Kd8 26. Qxf6+ Be7 27. Qf7 Ng3+ 28. Qf1 Rxf1# 0-1

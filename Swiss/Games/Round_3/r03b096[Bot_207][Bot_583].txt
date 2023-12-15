@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "StevenBot (by: Steven)"]
+[Black "Tiny Chess Duck (by: rocketduck_m07)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a4 Nf6 2. a5 Nc6 3. h4 e5 4. c4 Bb4 5. f3 Bxa5 6. c5 Bb4 7. b3 Bxc5 8. d3 Bd4 9. Ra2 O-O 10. g3 d5 11. Rc2 Nb4 12. Rd2 Nh5 13. Rh2 Bxg1 14. Rg2 Be3 15. Rb2 Bd4 16. Rd2 Nxg3 17. Rxg3 Qxh4 18. Bg2 Qxg3+ 19. Kf1 Qf2# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "39"]
+[White "KU_AI_BOT (by: Daniel Johnson)"]
+[Black "SimpleMinds (by: Karl Jungtow)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Qg4 Nf6 3. Qf5 Bd6 4. Bb5 g6 5. Qf3 c6 6. Be2 Na6 7. Bf1 b5 8. Kd1 Nc5 9. d3 Ba6 10. b3 b4 11. d4 Bxf1 12. dxc5 Bxc5 13. Bg5 Bd4 14. Bxf6 Bxg2 15. Bxd8 Bxf3+ 16. Nxf3 Bxa1 17. Bf6 O-O 18. Bxe5 Bxe5 19. Nxe5 Rae8 20. Ng4 Kg7 21. f3 h5 22. Ne3 f5 23. Nd2 Rf6 24. Rg1 d5 25. Kc1 fxe4 26. f4 Ree6 27. f5 Re5 28. fxg6 d4 29. Nec4 Rc5 30. Nxe4 d3 31. Nxc5 Rxg6 32. Ne6+ Kf6 33. Re1 Rg2 34. cxd3 Rxh2 35. Nc7 Rxa2 36. Ne8+ Kg6 37. Re7 Ra1+ 38. Kc2 Ra2+ 39. Kb1 Ra6 40. Rg7+ Kh6 41. Ne5 Ra1+ 42. Kxa1 h4 43. Nxc6 h3 44. Ka2 h2 45. Nd4 a6 46. Kb2 h1=Q 47. Nf5+ Kh5 48. Nf6# 1-0

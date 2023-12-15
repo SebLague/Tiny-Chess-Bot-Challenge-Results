@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "61"]
+[White "Freedom_Fighter v.83 (by: Kongo Landwalker)"]
+[Black "Clyde (by: Evan)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 g5 2. Qh5 d6 3. Bb5+ Qd7 4. Qg4 Qxb5 5. Qxc8# 1-0

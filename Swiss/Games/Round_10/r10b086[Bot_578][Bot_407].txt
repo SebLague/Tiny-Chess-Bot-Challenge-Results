@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "9"]
+[White "Exceptionally mid (by: Evan Rogerson)"]
+[Black "simple chess bot (by: 4a0I)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e6 2. Ne4 Qh4 3. Nc3 Nc6 4. Nb5 Kd8 5. d4 Bb4+ 6. Bd2 Bxd2+ 7. Qxd2 a6 8. g3 Qf6 9. Na3 Nxd4 10. Nf3 Nxf3+ 11. exf3 Qxf3 12. Rg1 Qe4+ 13. Qe2 Qb4+ 14. Qd2 Qxb2 15. Rb1 Qxa3 16. Qb4 Qxb4+ 17. Rxb4 Ne7 18. g4 c5 19. Rc4 d6 20. g5 Bd7 21. Bg2 Kc7 22. a3 Bb5 23. Rg4 Nc6 24. h3 Ne5 25. Rf4 d5 26. h4 a5 27. h5 d4 28. h6 gxh6 29. Re4 Nc4 30. Rf4 f5 31. Bf3 hxg5 32. Rxg5 Bd7 33. a4 Ne5 34. Bh5 Rhg8 35. Rxg8 Rxg8 36. Rh4 Rg1+ 37. Kd2 Bxa4 38. c3 dxc3+ 39. Kxc3 Rc1+ 40. Kb2 Nd3+ 41. Ka3 Ra1# 0-1

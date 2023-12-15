@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "3"]
+[White "WhateverBot (by: Alec Holden)"]
+[Black "Elf-1200 (by: Elliot Throop)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 d5 2. d3 Qd6 3. Nh3 Qb6 4. Nxd5 Qa5+ 5. Nc3 Nf6 6. Be3 Nc6 7. Bg5 Bxh3 8. Bxf6 exf6 9. gxh3 Kd7 10. e4 h5 11. Be2 Qg5 12. Nd5 Bc5 13. f4 Qg2 14. Rf1 Nd4 15. c3 Nxe2 16. Qa4+ c6 17. Nb4 Ng1 18. O-O-O Nf3 19. b3 Be3+ 20. Kb1 Nd2+ 21. Kc2 Nc4+ 22. Rf2 Qxf2+ 23. Rd2 Qxd2+ 24. Kb1 Qc1# 0-1

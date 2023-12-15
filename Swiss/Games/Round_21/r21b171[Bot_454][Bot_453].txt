@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "20"]
+[White "The Mad King (by: Coding With Avaclava)"]
+[Black "Chessica (by: Nicky Kitchingman)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 a6 2. f3 a5 3. a3 a4 4. Kf2 h6 5. g3 b6 6. f4 h5 7. h4 c6 8. Kf3 d6 9. c3 b5 10. e4 Bg4+ 11. Ke3 Bxd1 12. b4 axb3 13. f5 b4 14. axb4 Rxa1 15. c4 Rxb1 16. Kf2 Rxc1 17. Rh2 b2 18. Ke1 b1=Q 19. Kd2 Qb2+ 20. Ke3 Qxh2 21. Bd3 Qxg1+ 22. Kf4 Qf2+ 23. Kg5 e6+ 24. f6 Nxf6 25. c5 dxc5 26. e5 Qxg3# 0-1

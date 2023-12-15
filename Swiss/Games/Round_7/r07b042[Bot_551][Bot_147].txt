@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "6"]
+[White "AchillesAlpha (by: Achilles)"]
+[Black "The Seeker (by: Lucas Pellegrinelli)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a3 c6 2. c3 d5 3. Nf3 Bg4 4. Ne5 Bf5 5. Nxf7 Kxf7 6. Qb3 Qb6 7. Qa2 e5 8. b3 Bc5 9. f3 Ke8 10. Bb2 Bxb1 11. Rxb1 Bf2+ 12. Kd1 Qa5 13. d4 exd4 14. Rc1 Be3 15. Rc2 dxc3 16. Bxc3 Qc7 17. Bd2 d4 18. Bxe3 dxe3 19. Rc3 Qe5 20. Kc2 a5 21. Kb2 Qd4 22. h4 Qd2+ 23. Rc2 Qd6 24. Ka1 Qd1+ 25. Qb1 Qd4+ 26. Qb2 Qxb2+ 27. Rxb2 Nd7 28. Ra2 Nc5 29. b4 axb4 30. axb4 Nb3+ 31. Kb2 Rxa2+ 32. Kxa2 Nd4 33. h5 Nf6 34. Kb2 Nf5 35. h6 g6 36. Rh2 Ng3 37. Rh3 Nxf1 38. Rh4 Ng3 39. Rh2 g5 40. Kc2 Nd5 41. Kd3 Nxb4+ 42. Kc3 Nd5+ 43. Kc4 Nf4 44. Kc5 Rf8 45. Kb6 Rf7 46. Ka7 Rd7 47. Kb6 Ngxe2 48. g4 Nd4 49. Ra2 e2 50. Ra8+ Ke7 51. Ra1 Nd5+ 52. Kc5 Nb3+ 53. Kc4 Nxa1 54. Kd4 e1=Q 55. f4 gxf4 56. g5 Kd8 57. g6 hxg6 58. Kc5 Qc3# 0-1

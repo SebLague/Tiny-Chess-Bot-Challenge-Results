@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "30"]
+[White "SimpleMinds (by: Karl Jungtow)"]
+[Black "SepukuBot (by: Madhu)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. Qf3 e6 3. Bc4 e5 4. Qf5 Nc6 5. a4 h5 6. Kd1 a5 7. Qg5 Nxe4 8. Bxf7+ Kxf7 9. Qf5+ Nf6 10. Nf3 e4 11. Ng5+ Ke7 12. Ra3 Nd4 13. Qe5+ Ne6 14. Nxe6 dxe6 15. Qg5 h4 16. Re1 Qd4 17. Ree3 b6 18. Nc3 Bd7 19. Rxe4 Qxf2 20. Re2 Qg1+ 21. Re1 Qxh2 22. d4 Kd6 23. Bf4+ e5 24. Qxe5+ Kc6 25. Qxc7# 1-0

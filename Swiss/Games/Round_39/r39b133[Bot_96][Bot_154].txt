@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "38"]
+[White "Chess Bot (by: M)"]
+[Black "Marvin (by: Kerem Bekmez)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. e4 Nc6 2. Bc4 Nh6 3. d4 e6 4. Be3 d5 5. Bd3 Qf6 6. Nc3 Nb4 7. Bb5+ c6 8. Be2 Qg6 9. h4 Qxg2 10. Bf3 Qg6 11. h5 Qf6 12. a3 Na6 13. exd5 cxd5 14. Nxd5 exd5 15. Bxd5 Qd6 16. c4 Nc7 17. Be4 f5 18. Bd3 f4 19. Bd2 Qxd4 20. Bc3 Qc5 21. b4 Qe7+ 22. Ne2 Ne6 23. a4 Qc7 24. Ra3 a5 25. c5 axb4 26. Bb5+ Kf7 27. Bxb4 Bxc5 28. Qb1 Qd6 29. Bxc5 Qxc5 30. Rc3 Qd5 31. Rhh3 Kf6 32. Ra3 Kg5 33. Nc3 Qd8 34. Ne4+ Kf5 35. Rhd3 Qa5+ 36. Ke2 1-0

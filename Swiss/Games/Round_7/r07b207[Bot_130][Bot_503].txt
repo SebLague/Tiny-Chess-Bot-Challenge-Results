@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "6"]
+[White "EndgameEnigma (by: jostflo)"]
+[Black "Max-Max-Bot (by: Tejas)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 d6 2. Nf3 Bg4 3. d3 e5 4. Be3 Qf6 5. Ne4 Qf5 6. g3 Bxf3 7. exf3 c6 8. Rc1 f6 9. Be2 b6 10. O-O Qg6 11. Nd2 h6 12. Re1 Kd8 13. Nc4 d5 14. Bf1 Bb4 15. b3 Bxe1 16. Qxe1 dxc4 17. dxc4 Kc7 18. Be2 a5 19. Bd2 h5 20. Bd1 h4 21. Bc3 Qg5 22. Be2 hxg3 23. Qf1 gxh2+ 24. Kh1 Qg1+ 25. Qxg1 hxg1=Q+ 26. Kxg1 g5 27. Rd1 c5 28. Bd3 Ra7 29. Bd2 Nd7 30. Be4 Rh4 31. Re1 a4 32. Bd5 Ne7 33. Be3 axb3 34. axb3 e4 35. Kg2 Nxd5 36. cxd5 exf3+ 37. Kxf3 Rh3+ 38. Ke2 c4 39. bxc4 Kc8 40. Rd1 Rh4 41. f3 Rh2+ 42. Kd3 Ra3+ 43. Kd4 Rh4+ 44. f4 gxf4 45. Bf2 Rg4 46. Rc1 f3# 0-1

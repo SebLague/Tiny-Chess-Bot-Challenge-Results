@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "8"]
+[White "Chessinator 3000 (by: )"]
+[Black "C++IsBetterThanC# (by: Samo)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 a5 2. Qf3 a4 3. Nc3 c5 4. Bc4 Nf6 5. e5 d5 6. exd6 exd6 7. Nge2 g5 8. O-O g4 9. Qe3+ Be7 10. Bb5+ Bd7 11. Qg5 d5 12. Qg7 Rf8 13. Bxd7+ Nbxd7 14. Nxd5 Nxd5 15. Nc3 N5f6 16. d4 cxd4 17. Ne2 Ne5 18. Bf4 Nc4 19. Qg5 Nxb2 20. Qb5+ Nd7 21. Qxb2 d3 22. cxd3 Nc5 23. Qb5+ Qd7 24. Qxd7+ Nxd7 25. Rab1 Nc5 26. Bh6 Rg8 27. d4 Rg6 28. dxc5 Rxh6 29. Rfd1 a3 30. Rb6 Rc6 31. Rxc6 bxc6 32. Rd4 g3 33. hxg3 Bxc5 34. Rc4 Ra5 35. Kf1 h6 36. Rf4 Bb6 37. Nc3 Bc5 38. Ke2 Bb6 39. f3 Re5+ 40. Re4 Bd4 41. f4 Re6 42. Rxe6+ fxe6 43. Nb1 Bc5 44. Nd2 Bd4 45. Nf3 Bc5 46. Ne5 Bd4 47. Nxc6 Bc5 48. Ne5 Bd4 49. Nc4 Bc5 50. g4 Bb4 51. Ke3 Bc5+ 52. Ke4 Bb4 53. f5 exf5+ 54. gxf5 Bc5 55. g3 Bb4 56. g4 Bc5 57. Kd5 Bb4 58. Ke6 Bc5 59. f6 Bb4 60. Ne3 Bc5 61. Nf5 Bf8 62. f7+ Kd8 63. Nh4 Bc5 64. Ng6 Be3 65. f8=Q+ Kc7 66. Qxa3 Bd4 67. Qd6+ Kb7 68. Qxd4 Kc6 69. Ne7+ Kc7 70. Qa7+ Kd8 71. Nc6+ Kc8 72. a4 h5 73. Qd7# 1-0

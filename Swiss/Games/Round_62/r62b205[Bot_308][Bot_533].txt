@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "61"]
+[White "xXBotXx (by: Nova & Professor Sexy)"]
+[Black "Stoccafisso (by: Riccardo D'Incau)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 e5 2. Nxe5 Nc6 3. Nc3 Bd6 4. e4 Bxe5 5. d4 Bxd4 6. Bd3 Bxc3+ 7. bxc3 Qf6 8. Be3 Qxc3+ 9. Kf1 Ke7 10. Bg5+ Ke6 11. Qg4+ Kd6 12. Qg3+ Kc5 13. Qxc7 Qxa1+ 14. Ke2 Qxh1 15. Be3+ Kb4 16. Bd2+ Ka3 17. Qd6+ Kxa2 18. Bc4+ Kb1 19. Bxf7 Qxg2 20. Kd1 Qg4+ 21. Ke1 Qxe4+ 22. Kd1 Qf3+ 23. Ke1 Qxf7 24. Kd1 Qh5+ 25. Ke1 Kb2 26. Kf1 Kb1 27. Bc3 Qh3+ 28. Ke1 Qxc3+ 29. Kd1 Nd4 30. Qd5 Qxc2+ 31. Ke1 Qc1# 0-1

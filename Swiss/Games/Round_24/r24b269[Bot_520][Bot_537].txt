@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "23"]
+[White "SFN v 2.0 (by: SFN)"]
+[Black "InfuehrDaniel MCTS (by: Daniel Infuehr)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 e5 2. Nc4 Qf6 3. f4 d6 4. Nxe5 g5 5. g4 gxf4 6. g5 Qf5 7. b4 Nh6 8. Ng4 Nxg4 9. Bg2 Qe5 10. h3 f3 11. a3 Qg3+ 12. Kf1 Kd7 13. e4 Qxg2+ 14. Ke1 Qf2# 0-1

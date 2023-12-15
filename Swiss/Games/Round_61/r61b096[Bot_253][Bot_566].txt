@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "60"]
+[White "Squeedo (by: David Giesegh)"]
+[Black "LazyBot (by: Tim de Jong)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. Nc3 d4 3. Nd5 c6 4. Nf4 e5 5. Nd3 Qh4 6. Qe2 Nf6 7. Nf3 Qxe4 8. Ndxe5 Nbd7 9. Qxe4 Nxe4 10. Nxd7 Bxd7 11. Bd3 Nc5 12. Nxd4 Nxd3+ 13. cxd3 Bc5 14. Nf3 O-O 15. Ne5 Rfe8 16. f4 f6 17. b4 Bd4 18. Rb1 fxe5 19. fxe5 Bg4 20. Bb2 Rxe5+ 21. Kf1 Rf8# 0-1

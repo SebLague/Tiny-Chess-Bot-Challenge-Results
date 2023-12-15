@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "16"]
+[White "MirrorBot (by: Jackk)"]
+[Black "EatingAndBeingEaten (by: GameBoy19 und Pete877)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 Nf6 2. Nf3 Ne4 3. Ne5 Nc5 4. Nxf7 Kxf7 5. b4 Ne6 6. d4 Nc6 7. Nc3 Nxb4 8. Nb5 Nd5 9. Nxc7 Nexc7 10. Kd2 Nf4 11. Rh3 Nxh3 12. gxh3 Nd5 13. a3 Qa5+ 14. Kd3 Qb5+ 15. Kd2 Qc4 16. Ke1 Qc3+ 17. Qd2 Qxa1 18. e4 Nf6 19. Ke2 Nxe4 20. Qb4 Qxc1 21. Qxe7+ Bxe7 22. Bg2 Qxc2+ 23. Kf3 Bxh4 24. Bf1 Nd2+ 25. Kg2 Qe4+ 26. Kg1 Qxd4 27. Bg2 Qa1+ 28. Kh2 Bxf2 29. Bxb7 Qg1# 0-1

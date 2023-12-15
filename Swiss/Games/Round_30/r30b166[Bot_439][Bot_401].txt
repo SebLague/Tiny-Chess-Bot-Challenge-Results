@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "29"]
+[White "Hershel (by: Nolan)"]
+[Black "BlindfoldBot (by: Mk-0)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 a6 2. Nc3 a5 3. e3 a4 4. Bd3 a3 5. Ke2 b6 6. Qe1 c6 7. Ne4 d5 8. Neg5 h6 9. Nh3 b5 10. Nf4 g5 11. Nh5 Bg4 12. Ng3 Bg7 13. Rb1 b4 14. h3 Bxf3+ 15. Kxf3 d4 16. Nf5 Kf8 17. Bc4 e6 18. Nxg7 Qf6+ 19. Ke4 c5 20. Nh5 Qf5# 0-1

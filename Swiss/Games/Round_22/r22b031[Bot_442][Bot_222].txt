@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "21"]
+[White "Tarch (by: Taras Vuk)"]
+[Black "PecanPie (by: PecanPie)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 d5 2. Nf3 Nc6 3. g3 Bg4 4. Bg2 e6 5. O-O Nf6 6. Ne5 Bd6 7. Nxg4 Nxg4 8. e4 Nf6 9. e5 Nxe5 10. dxe5 Bxe5 11. Re1 Qd6 12. Na3 Rd8 13. f4 Qb6+ 14. Be3 Qxb2 15. fxe5 Nd7 16. Qc1 Qxe5 17. Rb1 a6 18. c4 O-O 19. cxd5 exd5 20. Bc5 Qxe1+ 21. Qxe1 Nxc5 22. Qe5 c6 23. Qe7 Nd7 24. Rxb7 Nb8 25. Bf3 Rde8 26. Qb4 h6 27. Nc2 Rc8 28. Ne3 Rfe8 29. Nf5 Rcd8 30. Qd4 Re1+ 31. Kf2 Re2+ 32. Bxe2 f6 33. Rxg7+ Kf8 34. Qxf6+ Ke8 35. Bh5# 1-0

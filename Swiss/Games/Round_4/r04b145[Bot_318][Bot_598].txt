@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "3"]
+[White "LoserNotDrawer (by: Piele)"]
+[Black "WingBot (by: Benjamin Iserman)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c4 e5 2. e4 Bc5 3. Qg4 Qf6 4. Nh3 Na6 5. Qe2 Nh6 6. d3 Bb4+ 7. Kd1 b6 8. Bg5 O-O 9. Bxf6 gxf6 10. Qe3 Ng4 11. Qg3 d6 12. f3 Kg7 13. fxg4 Be6 14. a3 Ba5 15. b4 Kg6 16. bxa5 bxa5 17. g5 c6 18. gxf6+ Kxf6 19. Qg5# 1-0

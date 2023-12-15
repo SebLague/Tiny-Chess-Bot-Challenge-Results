@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "11"]
+[White "Mischievous bot (by: Guigui)"]
+[Black "SimpleBearSearch (by: PizzasBear)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f3 Nc6 2. c3 d5 3. a3 Bd7 4. b4 e6 5. h3 Qh4+ 6. g3 Qxg3# 0-1

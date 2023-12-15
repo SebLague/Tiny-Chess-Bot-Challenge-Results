@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "31"]
+[White "WhyAmIABot (by: Levi)"]
+[Black "Hot Garbage (by: CT424)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f4 c5 2. g4 e6 3. e4 Nc6 4. Na3 Nf6 5. Nf3 Nxe4 6. d3 h5 7. dxe4 hxg4 8. h4 gxf3 9. Qxf3 Rxh4 10. Rxh4 Qxh4+ 11. Kd1 g5 12. fxg5 Qxe4 13. Qxe4 f5 14. gxf6 d5 15. Qg6+ Kd8 16. Bg5 b5 17. Bxb5 a5 18. Bxc6 e5 19. Bxa8 e4 20. Bxd5 c4 21. Nxc4 a4 22. Qxe4 a3 23. bxa3 Bg7 24. Qe7# 1-0

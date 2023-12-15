@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "11"]
+[White "Clyde (by: Evan)"]
+[Black "The Red Crayon (by: Daniel L.)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. g4 d5 3. Bb5+ Ke7 4. g5 dxe4 5. h4 c6 6. Bf1 Be6 7. a3 h6 8. gxh6 Nxh6 9. b4 Nf5 10. a4 Nxh4 11. c3 Nf3+ 12. Ke2 Qd3# 0-1

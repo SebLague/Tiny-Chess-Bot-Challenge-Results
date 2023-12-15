@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "10"]
+[White "MinimaxAttackerBot5000 (by: ChrisCat123)"]
+[Black "WhyAmIABot (by: Levi)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Na3 c5 2. Rb1 f6 3. Ra1 e6 4. Rb1 Na6 5. Nb5 Nh6 6. Ra1 Be7 7. Rb1 O-O 8. Ra1 Kh8 9. Rb1 Qe8 10. Ra1 Qd8 11. Rb1 Rb8 12. Nxa7 Rg8 13. Ra1 Bf8 14. Rb1 Nf7 15. Ra1 Qe8 16. Rb1 Qd8 17. Ra1 Qe8 18. Rb1 Nd8 19. Ra1 Ra8 20. Nb5 Nb8 21. Nc7 Qg6 22. Nxa8 Qe8 23. Nb6 g6 24. Rb1 d6 25. Ra1 Qc6 26. Nc4 d5 27. Na5 Qd6 28. Rb1 b5 29. Ra1 Qd7 30. Rb1 Qg7 31. Ra1 Qe7 32. Rb1 Qd7 33. Ra1 Qa7 34. Nb3 c4 35. Rb1 cxb3 36. axb3 Qe7 37. Ra1 Qe8 38. Ra8 Qf7 39. Rxb8 Ba6 40. Rxd8 Qg7 41. Ra8 Qc7 42. Rxa6 Qd8 43. Rxe6 Qa8 44. Rxf6 Bh6 45. Rb6 Rc8 46. Rxb5 d4 47. Rb4 Bf8 48. Ra4 Qb8 49. Rxd4 Kg8 50. Rg4 Rd8 51. Rg3 Rc8 52. Rh3 Qa8 53. Rg3 Re8 54. Rh3 Qd8 55. Rg3 Qa8 56. Rh3 Kh8 57. Rg3 Qb8 58. Rh3 Kg8 59. Rg3 Rc8 60. Rh3 Qa8 61. Rg3 Rd8 62. Rh3 Rb8 63. Rg3 Kh8 64. Rh3 Kg8 65. Rg3 Kh8 66. Rh3 Rd8 67. Rg3 Qb8 68. Rh3 Qa8 69. Rg3 Kg8 70. Rh3 Rb8 1/2-1/2

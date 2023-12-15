@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "52"]
+[White "NNBot (by: Jamie Whiting)"]
+[Black "Magnuth Carlthen (by: wolfuhfuh)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. Nc3 d5 3. e3 Nc6 4. d4 g6 5. Be2 Bg7 6. Ne5 O-O 7. Nxc6 bxc6 8. O-O Bf5 9. g4 Be6 10. g5 Ne4 11. Nxe4 dxe4 12. h4 f6 13. c4 fxg5 14. Qc2 Bf5 15. Bd2 gxh4 16. Bb4 Re8 17. Kh1 e5 18. dxe5 Bxe5 19. Rad1 Qf6 20. c5 Bxb2 21. Qa4 Bh3 22. Rg1 Be6 23. Rgf1 Bd5 24. Bd2 Qf5 25. Kg2 Be5 26. Qa6 Be6 27. f4 exf3+ 28. Rxf3 Qg4+ 29. Kh1 Bd5 30. e4 Bxe4 31. Qc4+ Re6 32. Qxe4 Qxe4 33. Be3 Rf6 34. Rf1 Raf8 35. Bd3 Qxd3 36. Rxf6 Qe4+ 37. R6f3 Rxf3 38. Rxf3 Qxf3+ 39. Kg1 Qxe3+ 40. Kg2 h3+ 41. Kf1 Qf3+ 42. Ke1 Bc3# 0-1

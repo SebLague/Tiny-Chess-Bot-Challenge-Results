@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "45"]
+[White "JazzBot (by: SpoXe)"]
+[Black "MyFirstChessEngine (by: Jake Forsey)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 Nc6 2. g4 Nf6 3. Bh3 Rb8 4. f4 Ra8 5. b3 Nd4 6. Kf2 Ne4+ 7. Kf1 Nxb3 8. axb3 Ng3+ 9. Kg2 Nxh1 10. Kxh1 Rg8 11. e4 d5 12. exd5 Qxd5+ 13. Bg2 Qd6 14. d4 Qh6 15. Qe1 Qf6 16. Ra4 Bd7 17. Bxb7 Bc6+ 18. Bxc6+ Qxc6+ 19. Kh2 Qxc2+ 20. Nd2 Qg6 21. Qe2 Qf6 22. Qe4 Qxh4+ 23. Nh3 Rb8 24. Rxa7 Kd7 25. Qe5 Rc8 26. Qf5+ e6 27. Qxf7+ Be7 28. f5 Kc6 29. Ra6+ Kb5 30. Rxe6 Bd6+ 31. Rxd6 cxd6 32. Qb7+ Ka5 33. Nc4+ Rxc4 34. Bd2+ Rc3 35. Bxc3# 1-0

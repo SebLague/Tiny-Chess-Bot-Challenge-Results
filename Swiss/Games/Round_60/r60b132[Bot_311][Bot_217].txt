@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "59"]
+[White "MyFirstChessEngine (by: Jake Forsey)"]
+[Black "BOTvinnik (by: Paul Smooth)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 d5 2. e3 d4 3. exd4 Bg4 4. Qxg4 Nc6 5. Bb5 Nf6 6. Bxc6+ bxc6 7. Qf4 Qd7 8. Nf3 Qe6+ 9. Kf1 Nh5 10. Qxc7 Qg6 11. Qb7 Rd8 12. g4 Qe6 13. Rb1 a5 14. gxh5 Qh3+ 15. Ke2 Qe6+ 16. Kd1 Qf6 17. Ne5 Rxd4 18. Qxc6+ Kd8 19. Qxf6 exf6 20. Nxf7+ Kc8 21. Nxh8 Bc5 22. Re1 Rd7 23. Re8+ Kc7 24. Re2 Bd6 25. Nb5+ Kc6 26. Nd4+ Kd5 27. Nf5 Bxh2 28. Re3 Be5 29. c4+ Kc6 30. Ne7+ Rxe7 31. d4 Rd7 32. d5+ Kc5 33. b3 Kb6 34. b4 axb4 35. Rxb4+ Kc5 36. Ra4 Rd8 37. Ba3+ Kb6 38. Rb4+ Kc5 39. Rb8+ Kxc4 40. Rxd8 Bf4 41. Re4+ Kd3 42. Rxf4 f5 43. Bb2 g6 44. Rd4# 1-0

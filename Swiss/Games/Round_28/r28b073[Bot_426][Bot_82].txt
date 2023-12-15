@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "27"]
+[White "ItBeatsMe (by: Soma Nyiro)"]
+[Black "Bruteforcer (by: SiestaGuru)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 e6 2. Qd3 Bd6 3. d5 Qf6 4. dxe6 fxe6 5. Nf3 Nc6 6. Nc3 Bb4 7. Bg5 Qf5 8. e4 Qg4 9. h3 Qh5 10. a3 Ne5 11. Nxe5 Qxg5 12. axb4 Qxe5 13. Be2 Nf6 14. g3 g5 15. Kd2 c5 16. Ra5 b6 17. Ra4 Qd4 18. e5 Bb7 19. Re1 Bc6 20. Raa1 Qxd3+ 21. Bxd3 Nd5 22. Nxd5 Bxd5 23. c4 Bg2 24. bxc5 bxc5 25. Rg1 Bxh3 26. Rh1 Bf5 27. Bxf5 exf5 28. Rhd1 h5 29. Ke2 h4 30. b4 cxb4 31. Rh1 a5 32. Rad1 h3 33. Rd4 a4 34. Rc1 Ra5 35. c5 Rb5 36. Rd5 b3 37. f3 b2 38. Rb1 h2 39. e6 h1=Q 40. exd7+ Kd8 41. Rxh1 Rxh1 42. c6 Rxd5 43. c7+ Kxc7 44. f4 gxf4 45. gxf4 b1=Q 46. d8=B+ Rxd8 47. Ke3 Re1+ 48. Kf3 Qd1+ 49. Kg2 Qd2+ 50. Kf3 Re3# 0-1

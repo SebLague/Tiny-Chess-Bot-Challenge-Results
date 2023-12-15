@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "61"]
+[White "Shenanigator (by: Gary Wawn)"]
+[Black "ConvolutedBot (by: pwahs)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. Nc3 d4 3. Nb1 Nf6 4. f3 e5 5. Qe2 Bc5 6. Qc4 Qe7 7. g4 Be6 8. Qd3 Nc6 9. a3 Nd7 10. h4 Nb6 11. b3 Rd8 12. Ra2 O-O 13. Rh3 h5 14. Be2 Rd6 15. Rh1 hxg4 16. fxg4 a5 17. Qb5 Nd7 18. d3 Bb6 19. Bg5 f6 20. Bxf6 Qxf6 21. Nf3 Qf4 22. Qa4 Qc1+ 23. Bd1 Rxf3 24. Ra1 Re3+ 25. Kf2 Nc5 26. Qb5 Qb2 27. b4 Nxd3+ 28. Kg2 axb4 29. Qa4 Nf4+ 30. Kf2 d3 31. Qa8+ Nd8 32. Rg1 dxc2 33. Qxd8+ Rxd8 34. Bxc2 Qxc2+ 35. Nd2 Rxd2+ 36. Kf1 Bc4# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "56"]
+[White "Max-Max-Bot (by: Tejas)"]
+[Black "WhiteTide (by: b.maroti)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Qh5 Qf6 3. Qg4 Bb4 4. c4 Kd8 5. a4 Ke8 6. h4 Na6 7. h5 Nh6 8. Qg3 Nc5 9. Qe3 Ke7 10. f3 g5 11. hxg6 Qxg6 12. Rxh6 Qg7 13. g4 a5 14. g5 Rg8 15. Bh3 Qxg5 16. Re6+ dxe6 17. Qxg5+ Rxg5 18. Kf1 Nd3 19. Na3 Nxc1 20. Rxc1 Bd7 21. Nb5 Bxd2 22. Nxc7 Rag8 23. Nd5+ exd5 24. Bxd7 Rxg1+ 25. Ke2 Bxc1 26. Bb5 R8g2+ 27. Kd3 d4 28. c5 Bf4 29. Kc4 Rxb2 30. Kd5 Rc1 31. Bc4 Rbc2 32. Bf1 h6 33. Bc4 h5 34. Be2 f6 35. c6 bxc6# 0-1

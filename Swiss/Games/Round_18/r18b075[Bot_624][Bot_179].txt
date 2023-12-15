@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "17"]
+[White "Fool's Silver (by: Ethan Latymer (Sozius))"]
+[Black "Beancounting_pawnpusher (by: Arnt Veenstra)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a4 e5 2. Nf3 e4 3. Ng1 c5 4. Ra2 g5 5. Ra1 f5 6. Ra3 c4 7. Rc3 d5 8. e3 a5 9. Qh5+ Kd7 10. g3 Bb4 11. Qf7+ Kc6 12. Ne2 Bxc3 13. Nexc3 h5 14. h3 b6 15. Qg6+ Qf6 16. Qxf6+ Nxf6 17. Na3 Rh7 18. Ncb5 Kc5 19. b3 cxb3 20. cxb3 Kb4 21. Nd4 Rf7 22. Nb1 Raa7 23. Ba3# 1-0

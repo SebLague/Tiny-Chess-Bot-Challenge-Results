@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "49"]
+[White "myte (by: sparemind)"]
+[Black "NostradamusChessNN (by: _Mus)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 e6 4. dxe6 Bxe6 5. d4 Nc6 6. d5 Bc5 7. Nc3 O-O 8. dxe6 Qxd1+ 9. Nxd1 Rae8 10. Ne3 Rxe6 11. Be2 Ne4 12. h4 Rfe8 13. Rh3 Nd4 14. Bd3 Ra6 15. Rb1 Rxa2 16. Ne2 h5 17. Nxd4 Bxd4 18. Rf3 c5 19. Rf4 Nd6 20. Kf1 Be5 21. Rf3 Bd4 22. Nd5 b6 23. Bf4 Ne4 24. Re1 f5 25. Nc3 Rxb2 26. Nxe4 fxe4 27. Bxe4 Rd8 28. Bg5 Rd6 29. Be7 Rf6 30. Bxf6 gxf6 31. Re2 Rb4 32. Rg3+ Kf8 33. Bd5 Rb1+ 34. Re1 Rxe1+ 35. Kxe1 a5 36. Rg8+ Ke7 37. Rb8 a4 38. Rb7+ Kf8 39. Rxb6 a3 40. Ra6 Bb2 41. Ra7 f5 42. Bf3 Kg8 43. Bxh5 Kh8 44. Ke2 Kg8 45. Bg6 f4 46. h5 a2 47. Rxa2 Bc1 48. Ra5 Kg7 49. Rxc5 Ba3 50. Rd5 Bf8 51. c5 Kf6 52. c6 Ke6 53. c7 Kxd5 54. Bf7+ Kd4 55. c8=Q f3+ 56. gxf3 Bg7 57. Qc4+ Ke5 58. Qe6+ Kf4 59. Bg6 Kg5 60. Qf5+ Kh6 61. Qf4# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "Lamorran (by: Morra)"]
+[Black "HikuBot (by: Hikushii)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. Nc3 d5 3. e3 g6 4. Ne5 Nbd7 5. Bb5 Bg7 6. O-O c6 7. Bxc6 bxc6 8. Nxc6 Qb6 9. Nd4 e5 10. Re1 exd4 11. exd4+ Kf8 12. Qf3 Qxd4 13. Qg3 Bb7 14. Qd6+ Kg8 15. Re2 Rc8 16. Rb1 Qg4 17. h3 Qh5 18. Re3 Bf8 19. Qh2 d4 20. g4 Qc5 21. b4 Qb6 22. Na4 Qc6 23. Re1 Bd6 24. f4 Bxf4 25. Re2 Bxh2+ 26. Kxh2 Qf3 27. Nc3 dxc3 28. dxc3 Qxe2+ 29. Kg1 Qg2# 0-1

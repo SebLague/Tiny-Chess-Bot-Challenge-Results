@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "5"]
+[White "Algernon (by: White Mouse)"]
+[Black "smol.cs (by: Gediminas Masaitis, Goh CJ)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. c4 Nf6 5. Nf3 Bg4 6. Be2 e6 7. h3 Bxf3 8. Bxf3 Nc6 9. Be3 Qd7 10. Nc3 Rd8 11. d5 exd5 12. Nxd5 Nxd5 13. Qxd5 Bb4+ 14. Kf1 Qxd5 15. Bxd5 O-O 16. b3 Rfe8 17. Kg1 Bc3 18. Rb1 Bd4 19. Bxd4 Nxd4 20. Rd1 Ne2+ 21. Kh2 c6 22. Bf3 Nd4 23. Kg3 Re6 24. Rhe1 Rg6+ 25. Kh2 Rgd6 26. Be4 g6 27. c5 R6d7 28. b4 Kg7 29. a4 a5 30. Rb1 axb4 31. Rxb4 Ne6 32. Rc1 Rd4 33. Rcc4 Rxc4 34. Rxc4 f5 35. Bf3 Rd4 36. Rxd4 Nxd4 37. Kg3 Kf6 38. a5 Ke5 39. Bd1 h6 40. h4 g5 41. hxg5 hxg5 42. Bf3 g4 43. Bd1 Kd5 44. Kf4 Kxc5 45. Ke5 Kc4 46. Kd6 c5 47. g3 Kb5 48. Kd5 Kb4 49. Kd6 c4 50. Kd5 Kc3 51. Ba4 Kd3 52. Kc5 c3 53. Kb6 c2 54. Bxc2+ Kxc2 55. Kxb7 Nb3 56. Kc7 Nxa5 57. Kd6 Kd3 58. Ke5 Ke2 59. Kxf5 Kf3 60. Kg5 Nc4 61. Kf5 Nd6+ 62. Ke6 Ne4 63. Ke5 Nxf2 64. Kd5 Kxg3 65. Kc4 Kf3 66. Kc5 g3 67. Kc6 g2 68. Kd6 g1=Q 69. Kd5 Ne4 70. Kc6 Qd4 71. Kc7 Qd6+ 72. Kc8 Qe7 73. Kb8 Nd6 74. Ka8 Qb7# 0-1

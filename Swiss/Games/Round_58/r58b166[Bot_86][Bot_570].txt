@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "57"]
+[White "Blitztron (by: Cameron Dugan)"]
+[Black "Shadow's Unfinished Bot (by: shadowcage72)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 e6 2. a3 Nc6 3. Ra2 Bd6 4. b3 Nf6 5. Bg5 O-O 6. g3 b5 7. Bh3 Ba6 8. e4 b4 9. e5 Bxe5 10. dxe5 Nxe5 11. Bg2 Nd3+ 12. cxd3 Rb8 13. axb4 Rb6 14. g4 d6 15. Qe2 e5 16. Qd2 c6 17. Ra5 h6 18. Be3 c5 19. Qe2 g5 20. Kd2 Re8 21. Nh3 Rf8 22. Nc3 Re8 23. Na4 e4 24. Nxb6 Qxb6 25. Rxa6 Qxa6 26. Qf1 Qxd3+ 27. Qxd3 exd3 28. bxc5 dxc5 29. Bxc5 Nxg4 30. Kxd3 Rd8+ 31. Ke2 a6 32. Ba3 f5 33. f4 gxf4 34. Nxf4 a5 35. h4 Re8+ 36. Kd2 Rd8+ 37. Kc1 Rc8+ 38. Kb1 Rc3 39. Rh3 Re3 40. Bd5+ Kg7 41. Nh5+ Kg6 42. Rxe3 Nxe3 43. Nf4+ Kf6 44. Bf3 Kf7 45. Bc1 Ng4 46. Bxg4 fxg4 47. Bd2 g3 48. Kc2 a4 49. bxa4 Ke7 50. Be1 h5 51. Bxg3 Kd6 52. Kb1 Ke5 53. Kc1 Kd4 54. a5 Ke4 55. Kb1 Kd4 56. Ka2 Ke4 57. Nxh5 Kd4 58. Bh2 Ke4 59. Ng7 Kd4 60. Be5+ Kxe5 61. Kb2 Kd4 62. Kc2 Ke3 63. a6 Ke2 64. a7 Ke1 65. Ne6 Kf1 66. Ng5 Ke1 67. h5 Kf1 68. Kd1 Kg1 69. h6 Kf1 70. a8=Q Kf2 71. Qf3+ Kg1 72. Qe2 Kh1 73. Qc2 Kg1 74. Nf3+ Kf1 75. Ne1 Kg1 76. Qd2 Kf1 77. Qa2 Kg1 78. Qg8+ Kf2 79. h7 Ke3 80. Qa2 Kd4 81. Qe6 Kc5 82. h8=Q Kb4 83. Qhh6 Kc5 84. Nc2 Kb5 85. Qa6+ Kc5 86. Qg7 Kd5 87. Qga7 Ke4 88. Qe7+ Kd5 89. Ne3+ Kd4 90. Qab7 Kd3 91. Qb3+ Kd4 92. Qb8 Kd3 93. Qa8 Kd4 94. Qa6 Kc3 95. Qea3+ Kd4 96. Kc1 Ke4 97. Q6a5 Kd4 98. Qd5# 1-0

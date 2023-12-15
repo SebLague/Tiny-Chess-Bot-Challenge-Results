@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "37"]
+[White "Minimaxibon v1 (by: NotSureWhyThisWorks)"]
+[Black "WitwerMacher (by: Yannik Bleilinger)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 Na6 2. Nf3 g6 3. d4 Bg7 4. e4 Bxd4 5. Qxd4 c6 6. Qxh8 Kf8 7. Bh6+ Ke8 8. Qxg8# 1-0

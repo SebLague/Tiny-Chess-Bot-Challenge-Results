@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "46"]
+[White "FunBot (by: Paul Spooner AKA Dudecon)"]
+[Black "ChessGPT (by: DeepGoldenCrown)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. b4 h5 2. b5 f6 3. Nh3 Rh7 4. c3 Kf7 5. Qb3+ d5 6. d3 Bxh3 7. gxh3 Kg6 8. Rg1+ Kf5 9. a4 Rh8 10. f3 Rh7 11. h4 Qc8 12. Qxd5+ e5 13. Bh3# 1-0

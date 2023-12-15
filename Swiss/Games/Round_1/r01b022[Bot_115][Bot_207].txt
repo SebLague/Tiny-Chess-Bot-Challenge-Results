@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "Single Player (by: Salty Scientist)"]
+[Black "StevenBot (by: Steven)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e5 2. Qg4 c5 3. Nc3 a5 4. Bb5 f6 5. Nd5 h6 6. Qg6# 1-0

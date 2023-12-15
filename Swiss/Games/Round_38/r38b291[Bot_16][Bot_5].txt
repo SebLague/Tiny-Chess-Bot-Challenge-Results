@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "37"]
+[White "Cirrus v0.1 (by: Bbrainstormer)"]
+[Black "AngryPiece (by: FlamingSquid)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Na3 a6 2. Rb1 a5 3. Ra1 a4 4. Rb1 Nf6 5. Ra1 Ne4 6. Rb1 Nxd2 7. Kxd2 Nc6 8. Ke1 Nb4 9. Qxd7+ Kxd7 10. Kd1 Ke8+ 11. Ke1 Kd7 12. Kd1 Ke6+ 13. Ke1 Kd5 14. Kd1 Kc5+ 15. Ke1 Kd5 16. Kd1 Kd4 17. Ke1 Kd5 1/2-1/2

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "34"]
+[White "Negative Depth (by: Zoltán Kürti)"]
+[Black "Marreco (by: Tutz)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 d5 2. d4 Bf5 3. Nh4 Qd7 4. Nc3 Nc6 5. Nxf5 Qxf5 6. Nb5 Kd7 7. Qd3 Qxd3 8. e4 Qxe4+ 9. Kd1 a6 10. Bd3 Qxg2 11. Be2 Qxh1+ 12. Kd2 axb5 13. Bxb5 Qxh2 14. Bxc6+ Kxc6 15. Ke2 Qh5+ 16. Ke3 Qf5 17. c3 e5 18. Ke2 exd4 19. cxd4 Qc2+ 20. Ke1 Bb4+ 21. Kf1 Nf6 22. Kg1 Bd6 23. Kg2 Ng4 24. Kf3 Qe4# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "31"]
+[White "BaddieBot (by: Domic)"]
+[Black "PrincessAtta (by: Bowser Bowering and Allyn Lloyd)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e6 2. Bd3 d5 3. Nc3 d4 4. Bb5+ c6 5. exd4 e5 6. dxe5 a6 7. Bc4 a5 8. d4 b5 9. Bxb5 g6 10. Bf1 a4 11. Rb1 a3 12. bxa3 c5 13. Rxb8 c4 14. Rxa8 h5 15. Rxc8 Qxc8 16. h4 f5 17. d5 f4 18. d6 f3 19. Qxf3 g5 20. Qxf8+ Kxf8 21. hxg5 h4 22. Nge2 h3 23. gxh3 Ne7 24. dxe7+ Kxe7 25. Bg2 Rf8 26. Bd5 Kd8 27. h4 Qc5 28. f4 Ke7 29. h5 Rc8 30. g6 Rd8 31. Be4 Rd1+ 32. Kxd1 Qd4+ 33. Nxd4 Kd8 34. Bd5 Kc7 35. Bxc4 Kb7 36. Ne6 Kb8 37. Bd5 Ka7 38. Kd2 Ka6 39. Bc6 Kb6 40. Bd5 Ka7 41. Bc6 Kb6 42. Be4 Ka6 43. Bd5 Ka7 44. Kd3 Kb6 45. Be3+ Ka6 46. Bc5 Ka5 47. Bc6 Ka6 48. f5 Ka5 49. h6 Ka6 50. h7 Ka5 51. h8=Q Ka6 52. Qa8# 1-0

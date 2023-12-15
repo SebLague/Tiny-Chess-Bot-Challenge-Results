@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "15"]
+[White "Pawnish Punisher (by: Leon)"]
+[Black "Minimaxibon v1 (by: NotSureWhyThisWorks)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 Nc6 2. c3 Nf6 3. Qa4 e6 4. Kd1 Ne5 5. Ke1 Bc5 6. d4 Bxa3 7. dxe5 Bc5 8. Qc4 Bb6 9. exf6 Qxf6 10. Bf4 e5 11. Bg3 a6 12. Qg4 d5 13. Qa4+ Bd7 14. Qa3 Qe7 15. Qxe7+ Kxe7 16. Bxe5 f6 17. Bd4 Bg4 18. Bxb6 cxb6 19. h3 Be6 20. Kd1 Bd7 21. Kc1 Bf5 22. Kd1 Rad8 23. Kc1 Rhe8 24. Kd1 d4 25. Kc1 dxc3 26. h4 c2 27. e4 Bxe4 28. Bd3 Bxd3 29. Rh2 Be4 30. b3 Rd1+ 31. Kb2 Rb1+ 32. Rxb1 cxb1=Q+ 33. Ka3 Qxg1 34. Rh3 Qxf2 35. Rc3 Kd6 36. Rc1 Bxg2 37. Ra1 Qd4 38. Rb1 Re5 39. b4 Qxh4 40. Kb3 Qd4 41. Ka4 Re2 42. a3 Bc6+ 43. Kb3 Kd5 44. a4 Qd2 45. b5 Qd3+ 46. Kb4 Ra2 47. Rf1 Rb2# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "7"]
+[White "CopyBot (by: bull313)"]
+[Black "GoodBot (by: Fiera42)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a4 b5 2. axb5 Ba6 3. Rxa6 Nc6 4. Rxc6 Nf6 5. Rxf6 a6 6. Rxa6 c6 7. Rxa8 Qb8 8. Rxb8# 1-0

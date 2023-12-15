@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "56"]
+[White "Myopia (by: danegraphics)"]
+[Black "SimpleBot (by: Tim Zollner)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e6 2. Nf3 Ne7 3. e4 Ng6 4. g3 b6 5. h3 Be7 6. a4 Bc5 7. b3 Qf6 8. d4 Bd6 9. Nd2 O-O 10. g4 Qxd4 11. f3 Bg3+ 12. Ke2 Nf4# 0-1

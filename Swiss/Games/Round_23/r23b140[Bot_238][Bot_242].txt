@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "22"]
+[White "AUR Chessbot (by: Soul Senshi)"]
+[Black "SlothBot (by: 0xFF)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 d5 2. e3 Nf6 3. Rb1 e5 4. Bb5+ c6 5. Bf1 Bd6 6. a3 O-O 7. Ke2 d4 8. exd4 exd4 9. Na2 Qe8+ 10. Kd3 Qe4+ 11. Kc4 Be6# 0-1

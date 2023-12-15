@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "49"]
+[White "Metis (by: krox)"]
+[Black "Average Chess bot (by: )"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e5 2. Qf3 d5 3. Bb5+ Nd7 4. Qxd5 c6 5. Bxc6 bxc6 6. Qxc6 Rb8 7. Nf3 Nf6 8. Nxe5 Bb7 9. f3 Bxc6 10. Nxc6 Qc8 11. Nxb8 Nxb8 12. Kd1 Qc4 13. b3 Qh4 14. Ke2 Nh5 15. Bb2 Ng3+ 16. hxg3 Qxh1 17. Kf2 Qd1 18. c4 Na6 19. Bc3 Nb4 20. Bxb4 Bxb4 21. a4 a5 22. c5 Bxd2 23. Nxd2 Qxa1 24. Ke2 Qg1 25. Kd3 Qxg2 26. g4 Ke7 27. Nc4 Qxf3 28. Nxa5 Rd8+ 29. Kc2 Qf2+ 30. Kc3 Qxe3+ 31. Kb4 Qd4+ 32. Ka3 Qxc5+ 33. Ka2 Rd2+ 34. Kb1 Qg1# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "54"]
+[White "TinyLispChessBot (by: tr00)"]
+[Black "pawnHater300 (by: hakrackete)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Na3 a5 2. Rb1 a4 3. c3 b5 4. Nxb5 a3 5. Nxa3 Rxa3 6. bxa3 c5 7. Rxb8 c4 8. Ra8 d5 9. Qa4+ Bd7 10. Rxd8+ Kxd8 11. Qa8+ Kc7 12. Qxf8 d4 13. Qxg7 dxc3 14. dxc3 e5 15. Qxe5+ Kd8 16. Qxh8 f5 17. Qxh7 f4 18. Bxf4 Nh6 19. Bg5+ Kc7 20. Bxh6 Kd8 21. Bg5+ Kc7 22. Kd1 Kc8 23. Qg8+ Kc7 24. Qg7 Kb7 25. Kc1 Kb8 26. Qxd7 Ka8 27. Qd4 Kb7 28. Kb1 Kc6 29. Ka1 Kb7 30. Kb1 Ka8 31. Ka1 Kb7 32. Kb1 1/2-1/2

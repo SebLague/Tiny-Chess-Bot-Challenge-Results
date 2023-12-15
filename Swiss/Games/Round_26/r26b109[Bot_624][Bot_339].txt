@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "25"]
+[White "Fool's Silver (by: Ethan Latymer (Sozius))"]
+[Black "TinyNoTimeToCodeChessEngine (by: )"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a4 Nf6 2. c4 d5 3. cxd5 Qxd5 4. Nc3 Qa5 5. d3 Bd7 6. h3 h5 7. h4 g6 8. e3 Bc6 9. Qd2 Qc5 10. e4 e5 11. f3 Bh6 12. Qf2 Qb4 13. Qg3 Nbd7 14. Bg5 Qxb2 15. Rc1 Bxg5 16. Qxg5 Qa3 17. Qe3 Qb4 18. Qd2 Nc5 19. Qg5 Nfd7 20. a5 Qxa5 21. g3 Ne6 22. Qd2 Ndc5 23. Nh3 Nb3 24. Qa2 Qb4 25. Qb2 f5 26. Nf2 Ned4 27. Bg2 Nxc1 28. Qxb4 Nc2+ 29. Kd2 Nxb4 30. Rxc1 O-O-O 31. Bh3 Rhf8 32. Re1 Rd4 33. Ne2 Rd6 34. Nc1 Bd7 35. exf5 Rc6 36. Ne2 Rc2+ 37. Kd1 Bxf5 38. f4 Bxh3 39. Nxh3 Rd8 40. Nc1 Rxc1+ 41. Kxc1 Nxd3+ 42. Kd1 exf4 43. Nxf4 Nxf4+ 44. Kc2 Nd5 45. Re6 Rg8 46. Kd2 Kd7 47. Re4 Nf6 48. Re3 Kc8 49. Kd3 g5 50. Re6 Nd7 51. Rh6 Kb8 52. Rxh5 Nc5+ 53. Kc4 Ne4 54. Kd4 Nxg3 55. Rxg5 Rd8+ 56. Ke3 Re8+ 57. Kd4 Ne2+ 58. Kd3 Nf4+ 59. Kc2 Rh8 60. Rg4 Nd5 61. Kc1 Ka8 62. Rg1 Nf4 63. Rg4 Nd3+ 64. Kb1 Nc5 65. Kc2 Kb8 66. Kb1 Nd7 67. Rd4 Nf6 68. Rd1 Ka8 69. Kb2 a5 70. Rf1 Rh6 71. Rf5 b6 72. Rf2 Kb7 73. Rh2 a4 74. Rh3 Kc8 75. Ka3 b5 76. Rh1 Kb7 77. Rh2 Ka6 78. Kb2 b4 79. Kc2 Ka5 80. Rh1 Kb5 81. Kd3 a3 82. Kd2 a2 83. Ra1 b3 84. Kc3 Ka4 85. Rh1 Ka3 86. h5 b2 87. Rh3 a1=Q 88. Kc4+ Ka4 89. Rb3 Qa2 90. Kd3 Kxb3 91. Ke2 b1=Q+ 92. Kf3 Rxh5 93. Kg3 Kb2 94. Kf2 Ka1+ 95. Kf3 Qc1 96. Kg3 Kb1 97. Kf3 Ka1 98. Kg3 Qe3# 0-1

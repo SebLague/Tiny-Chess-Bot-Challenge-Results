@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "16"]
+[White "RayBot (by: Shahriar Rayed)"]
+[Black "One-Line Chess (by: Kaydon Sloan)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 d5 2. Nc3 e5 3. Qh5 Nc6 4. Bb5 Qd6 5. Nf3 e4 6. Ng5 g6 7. Qh4 Nh6 8. d3 Nf5 9. Qf4 f6 10. Nh3 g5 11. Qxd6 Nxd6 12. dxe4 dxe4 13. Ba4 Be6 14. Bb3 Bxb3 15. axb3 Nb4 16. Kd1 g4 17. Nf4 c5 18. Ne6 Na6 19. Rxa6 Kf7 20. Rxd6 Bxd6 21. Nf4 f5 22. Ke2 Bxf4 23. exf4 Kg8 24. Rd1 b6 25. Rd7 h5 26. Nd5 Rh6 27. Ne7+ Kh8 28. Bd2 Re6 29. Bc3+ Kh7 30. Nd5+ Kh6 31. Nc7 Rae8 32. Nxe8 Rxe8 33. Rxa7 Re6 34. Rf7 b5 35. Rxf5 Rc6 36. Be1 h4 37. Rg5 c4 38. Rxg4 Kh5 39. Rg5+ Kh6 40. Rxb5 cxb3 41. c3 Rg6 42. g3 Kh7 43. gxh4 Rg4 44. Rh5+ Kg6 45. Rg5+ Rxg5 46. hxg5 Kf5 47. Ke3 Kg6 48. Kxe4 Kh5 49. Kf5 Kh4 50. g6 Kh3 51. g7 Kg2 52. g8=Q+ Kf1 53. Qe6 Kg2 54. f3 Kxh2 55. Qe2+ Kg1 56. Bg3 Kh1 57. Qh2# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "24"]
+[White "Ragdoll's Ragdoll (by: Ragdoll)"]
+[Black "SimpleBot (by: Tim Zollner)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. b4 e5 2. h4 Be7 3. Rh2 Bxh4 4. Nf3 Bf6 5. c4 e4 6. Rxh7 Rxh7 7. Nc3 Ne7 8. Ng5 Bxg5 9. Nxe4 Bf6 10. Rb1 Rh4 11. f3 Rxe4 12. fxe4 Bh4+ 13. g3 Bxg3# 0-1

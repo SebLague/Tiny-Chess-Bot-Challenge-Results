@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "48"]
+[White "Chessburger Bot (by: )"]
+[Black "JazzBot (by: SpoXe)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c4 h5 2. Qa4 g5 3. Qa5 Bh6 4. Qe5 Rh7 5. Qf5 Rg7 6. Qf3 Nf6 7. Qa3 e5 8. Nc3 d5 9. cxd5 Nxd5 10. Qa4+ c6 11. Nf3 Nxc3 12. bxc3 Qd5 13. c4 Qd6 14. Qa5 f6 15. h4 gxh4 16. Rxh4 Rh7 17. d4 Bxc1 18. Rxc1 exd4 19. Re4+ Kf8 20. Rxd4 Qe6 21. Rd8+ Kg7 22. Qc7+ Qf7 23. Qxc8 Qe7 24. c5 b5 25. Nd4 Kf7 26. Nf5 Qxd8 27. Qxd8 a5 28. Qe7+ Kg6 29. Nh4+ Kh6 30. Qxf6# 1-0

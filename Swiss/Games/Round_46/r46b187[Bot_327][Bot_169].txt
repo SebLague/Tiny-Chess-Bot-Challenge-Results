@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "45"]
+[White "FunBot (by: Paul Spooner AKA Dudecon)"]
+[Black "TalkChess (by: Thomas Jahn, Mike Sherwin, Dmitry Shechtman)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g4 Nc6 2. h3 Nf6 3. c3 d5 4. d3 e5 5. g5 Nd7 6. h4 Bc5 7. f3 O-O 8. Nh3 Re8 9. b3 Qe7 10. Bd2 Qe6 11. Bg2 Qd6 12. h5 Qe6 13. a4 Qd6 14. Qc2 Qe6 15. Rh2 Qd6 16. Qa2 e4 17. Rh1 exd3 18. Bc1 dxe2 19. Nd2 Qe6 20. Nf4 Qe5 21. Qa3 Bxa3 22. Bxa3 Qxf4 23. Ne4 dxe4 24. Bb4 Kh8 25. Bc5 Nxc5 26. Rb1 Kg8 27. Kxe2 Kf8 28. Rhc1 Qxg5 29. Rd1 Qxg2+ 30. Ke3 Ke7 31. c4 Qxf3+ 32. Kd2 Ke6 33. Rb2 Ke5 34. Rdb1 Kd4 35. h6 Ke5 36. hxg7 Kd4 37. Rc2 Nxb3+ 38. Rxb3 Qxb3 39. g8=B Rxg8 40. Rb2 Qxb2+ 41. Kd1 Rg1# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "Good Bot Bad Bot (But Really, Both Are Terrible Bots, Also This In The Parenthesis Is Part Of The Name) (by: Legend)"]
+[Black "Larry (by: Joshua: Use "Names" as a nickname if possible or necessary. Thanks!)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 b5 2. Nh4 Ba6 3. Na3 h6 4. Nxb5 Bxb5 5. Rb1 c5 6. d3 Qa5+ 7. Bd2 Qxa2 8. Bxh6 gxh6 9. g4 e5 10. f3 Bd6 11. e3 Qa5+ 12. Qd2 Qa2 13. f4 Qxb1+ 14. Kf2 Qxb2 15. fxe5 Bxe5 16. Nf3 d5 17. Nxe5 Qxe5 18. d4 Qf6+ 19. Kg1 Qxf1# 0-1

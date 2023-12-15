@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "45"]
+[White "The Seeker (by: Lucas Pellegrinelli)"]
+[Black "mini_yoda (by: Dane Smith)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c3 b6 2. e3 Bb7 3. d4 Nf6 4. Nd2 g6 5. Qb3 Nc6 6. Bc4 e6 7. f3 Na5 8. Qd1 Nxc4 9. Nxc4 Nd5 10. e4 Qe7 11. h4 f5 12. Bg5 Nf6 13. e5 Bg7 14. Ne2 b5 15. Na5 Bd5 16. Nf4 c5 17. exf6 Bxf6 18. Bxf6 Qxf6 19. Qe2 Qe7 20. Nxd5 exd5 21. Qxe7+ Kxe7 22. dxc5 Rac8 23. O-O-O Rxc5 24. Nb3 Rc7 25. Rxd5 b4 26. Rc5 Rxc5 27. Nxc5 bxc3 28. bxc3 Rc8 29. Re1+ Kd6 30. Nb7+ Kc6 31. Na5+ Kb6 32. Re5 Rxc3+ 33. Kb2 Rc5 34. Rxc5 Kxc5 35. Nb3+ Kd5 36. g3 a6 37. Kb1 h6 38. Nd2 Kd4 39. Kc1 Ke3 40. Kd1 Kf2 41. g4 h5 42. gxf5 gxf5 43. f4 Ke3 44. Nc4+ Kxf4 45. Nb6 Kg3 46. Nxd7 Kxh4 47. Nc5 a5 48. a4 Kg3 49. Nb3 h4 50. Nxa5 h3 51. Nc4 h2 52. Ke2 h1=Q 53. Nd6 Kf4 54. Nc4 Qe4+ 55. Kd1 Qxc4 56. Ke1 Ke3 57. Kd1 Qxa4+ 58. Kc1 Qa2 59. Kd1 Qd2# 0-1

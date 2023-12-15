@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "32"]
+[White "Bob (by: Kökényesi Attila (UltraGeek))"]
+[Black "holcak-bot (by: Petr Holčák)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g4 g5 2. Nf3 d5 3. Nxg5 h6 4. Nf3 Bxg4 5. Ng1 f5 6. e3 Bxd1 7. c3 Bh5 8. Bb5+ Kf7 9. f4 c5 10. Bf1 a5 11. a3 e6 12. Nh3 b6 13. Ng1 Qh4# 0-1

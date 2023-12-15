@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "9"]
+[White "BadBot (by: Daniel)"]
+[Black "Shadow (by: Zaid Alas4)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d3 e5 2. a3 Bxa3 3. b3 Bxc1 4. Rxa7 Rxa7 5. c4 Bg5 6. g4 Ra2 7. e3 Rxf2 8. Be2 Rxe2+ 9. Nxe2 Bxe3 10. Qc2 d5 11. h4 Bxg4 12. Qc3 Bxe2 13. Qc2 Bxd3 14. Qd2 Bxb1 15. Qf2 Bxf2+ 16. Kf1 Bxh4 17. Ke2 dxc4 18. Rh3 cxb3 19. Rxh4 Qxh4 20. Kf1 Bg6 21. Kg2 h6 22. Kf1 Rh7 23. Kg1 Ne7 24. Kg2 Nf5 25. Kg1 c6 26. Kg2 Qb4 27. Kf2 Qf8 28. Kf1 Qc5 29. Ke2 Qe7 30. Kf2 e4 31. Kf1 Qd7 32. Kf2 Kd8 33. Kf1 b6 34. Kg1 Qa7 35. Kg2 Na6 36. Kf1 Ke7 37. Kg1 Kf8 38. Kg2 b2 39. Kh1 b1=Q+ 40. Kg2 Rh8 41. Kh3 Nc7 42. Kg4 Qg1+ 43. Kf4 Qa3 44. Ke5 Ne6 45. Kxe4 Qe1# 0-1

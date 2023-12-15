@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "49"]
+[White "Funko Bot (by: Sky Sherwood)"]
+[Black "TimsBot (by: Thomas Dvorak)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. h4 h5 2. d3 Rh6 3. Bxh6 Nf6 0-1

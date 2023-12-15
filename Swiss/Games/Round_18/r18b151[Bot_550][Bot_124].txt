@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "17"]
+[White "Octobot (by: Andrea Colognese)"]
+[Black "Depth2 (by: David Montealegre)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 Nc6 2. Qf3 Nb8 3. Bc4 d6 4. Qxf7+ Kd7 5. Qf5+ e6 6. Bxe6+ Kc6 7. Bxc8 Nd7 8. Nc3 Ne5 9. Be6 Nf6 10. d4 g6 11. d5+ Kc5 12. Qg5 h5 13. Na4+ Kc4 14. b3+ Kb5 15. Ke2 Nc6 16. Qxg6 Nxd5 17. Bxd5 Ne7 18. Qd3+ Kb4 19. a3+ Ka5 20. Bd2# 1-0

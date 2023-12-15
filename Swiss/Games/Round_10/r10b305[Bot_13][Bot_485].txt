@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "9"]
+[White "ScholarsBot (by: magic216)"]
+[Black "Search 1.0 (by: Rayansh)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Bc4 Nf6 3. Qh5 Nb4 4. Qxf7# 1-0

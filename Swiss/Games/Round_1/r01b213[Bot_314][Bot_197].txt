@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "Folke (by: Folke)"]
+[Black "Pawnish Punisher (by: Leon)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 c6 2. e4 Qa5+ 3. Bd2 Qa4 4. Nf3 c5 5. Nc3 Qb4 6. Nb5 Qxb2 7. Bc3 Qxa1 8. Qxa1 Na6 9. dxc5 Kd8 10. Bxg7 Bxg7 11. Qxg7 Nc7 12. Qxh8 Nxb5 13. Qxg8+ Kc7 14. Bxb5 Rb8 15. Qxf7 a6 16. Qxe7 Ra8 17. Qe5+ Kd8 18. Ng5 d6 19. Qxd6+ Bd7 20. Qxd7# 1-0

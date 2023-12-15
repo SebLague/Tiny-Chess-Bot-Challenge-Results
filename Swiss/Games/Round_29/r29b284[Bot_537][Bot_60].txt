@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "28"]
+[White "InfuehrDaniel MCTS (by: Daniel Infuehr)"]
+[Black "The Martyr (by: Latobius)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. e3 b5 2. Qf3 h5 3. Be2 d5 4. e4 Bh3 5. e5 Qd6 6. Bxb5+ Nc6 7. exd6 a6 8. Bxc6+ Kd8 9. Qxh3 f5 10. Qxf5 g6 11. Qe5 Nf6 12. Qg3 h4 13. dxc7+ Kc8 14. Qb3 Rb8 15. Qc3 h3 16. Qb3 Nd7 17. f3 Rh4 18. Ke2 Ra4 19. Qd3 Ra3 20. bxa3 Bg7 21. c3 Bxc3 22. Bb5 Bxd2 23. Bxa6+ Rb7 24. Qxd5 Nb8 25. Kxd2 g5 26. cxb8=R+ Kc7 27. Rxb7+ Kc8 28. Qf5+ Kd8 29. Qh7 g4 30. Kd1 gxf3 31. Kc2 Ke8 32. g3 Kd8 33. Kd1 Ke8 34. Qg7 Kd8 35. Qg5 Ke8 36. Qe5 Kf7 37. Qf5+ Kg8 38. Rxe7 Kh8 39. Ke1 Kg8 40. Qxf3 Kh8 41. Kd1 Kg8 42. Kc2 Kh8 43. Kb2 Kg8 44. Kb3 Kh8 45. Kc2 Kg8 46. Kd1 Kh8 47. Ke1 Kg8 48. Kf1 Kh8 49. Ke2 Kg8 50. Kd2 Kh8 51. Kc3 Kg8 52. Kb2 Kh8 53. Kb3 Kg8 54. Kc3 Kh8 55. Kd2 Kg8 56. Ke2 Kh8 57. Kf1 Kg8 58. Kf2 Kh8 59. Ke3 Kg8 60. Kd3 Kh8 61. Kc4 Kg8 62. Kb4 Kh8 63. Ka4 Kg8 64. Ka5 Kh8 65. Kb4 Kg8 66. Ka4 Kh8 67. Ka5 Kg8 68. Kb5 Kh8 69. Kc5 Kg8 0-1

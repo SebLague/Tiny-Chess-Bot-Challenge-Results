@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "14"]
+[White "BuiltCleverBot (by: Scott Ward)"]
+[Black "SSComp1 (by: ShadowStar019)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Nf3 e6 3. Nc3 a6 4. d4 Bb4 5. Bd2 Ba5 6. d5 Nb4 7. a3 Nxc2+ 8. Qxc2 c6 9. d6 Bb6 10. Bg5 f6 11. Be3 Bxe3 12. fxe3 Qa5 13. Bc4 Qc5 14. Qd3 Qa5 15. O-O b5 16. Bb3 c5 17. e5 c4 18. Qe4 Rb8 19. Qg4 Kf8 20. Bc2 Bb7 21. Nd2 f5 22. Bxf5 exf5 23. Qxf5+ Nf6 24. exf6 Qd8 25. fxg7+ Kxg7 26. Qf7+ Kh6 27. Rf5 Qh4 28. Rf6+ Qxf6 29. Qxf6+ Kh5 30. h3 Rhg8 31. g4+ Rxg4+ 32. hxg4+ Kxg4 33. Qg7+ Kh3 34. Qg5 Rg8 35. Qxg8 Kh4 36. Qxh7+ Kg4 37. Qxd7+ Kg5 38. Qxb7 Kf6 39. d7 Kf5 40. Qg2 Ke5 41. Nb3 cxb3 42. d8=Q Kf5 43. Qe4# 1-0

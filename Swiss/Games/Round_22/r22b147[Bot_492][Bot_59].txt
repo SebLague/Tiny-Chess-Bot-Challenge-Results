@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "21"]
+[White "pnathan (by: pnathan)"]
+[Black "Generic Chess Bot #1000000 (by: Anthony)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. b3 Na6 2. Bb2 c6 3. Qc1 Qa5 4. Kd1 Nb8 5. Ke1 Qc5 6. Qd1 Qd5 7. Ba3 Qe5 8. Nc3 g6 9. Rb1 Qa5 10. Na4 Bh6 11. Rc1 b5 12. Bb2 bxa4 13. Bxh8 axb3 14. cxb3 Qxa2 15. Ra1 Bxd2+ 16. Qxd2 Qxb3 17. Rc1 Qe6 18. Rb1 f6 19. Qa5 Nh6 20. Bg7 Nf5 21. Bxf6 Qxf6 22. e4 Nd6 23. e5 Qf5 24. Rb4 Ne4 25. f3 Ng5 26. h4 c5 27. Qxc5 Nc6 28. Rb2 Qxe5+ 29. Qxe5 Nxe5 30. hxg5 Nf7 31. Rxh7 a5 32. Bd3 Nxg5 33. Bxg6+ Kd8 34. Rh6 Nxf3+ 35. Nxf3 Ra7 36. Rc2 d5 37. Rh8+ Kd7 38. Rcxc8 Rb7 39. Rhd8+ Ke6 40. Rc6# 1-0

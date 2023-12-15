@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "17"]
+[White "Bongcloud enthusiast (by: CreeperXD)"]
+[Black "SlothBot (by: 0xFF)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. Ke2 Nxe4 3. g4 d5 4. Nc3 Nxc3+ 5. dxc3 Bxg4+ 6. Nf3 Nc6 7. Qxd5 Qxd5 8. a3 Qxf3+ 9. Kd2 O-O-O 10. Bd3 Rxd3+ 11. cxd3 Qxf2# 0-1

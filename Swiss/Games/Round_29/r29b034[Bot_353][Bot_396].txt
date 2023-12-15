@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "28"]
+[White "Hrustco Bot (by: migrin)"]
+[Black "Baby Squid (by: Jonas Tyroller)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Nc3 Bxb5 5. Nxb5 Nc6 6. d4 Nxd4 7. Nbxd4 cxd4 8. Qxd4 Qd7 9. e5 f6 10. exd6 e5 11. Nxe5 Qe6 12. Qa4+ Kd8 13. Be3 Qxe5 14. O-O-O b5 15. Qa6 Qe6 16. Qa5+ Ke8 17. d7+ Qxd7 18. Rxd7 Kxd7 19. Qxb5+ Kc7 20. Bf4+ Bd6 21. Qc5+ Kb7 22. Qxd6 a5 23. Qd5+ Ka7 24. Qxa5+ Kb7 25. Qb5+ Kc8 26. Rd1 Rxa2 27. Qb8# 1-0

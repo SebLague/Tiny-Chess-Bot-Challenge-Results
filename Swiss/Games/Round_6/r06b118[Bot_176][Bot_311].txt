@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "5"]
+[White "Euphoria (by: Andrew Merrill)"]
+[Black "MyFirstChessEngine (by: Jake Forsey)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nc6 2. d4 e6 3. g3 Bb4+ 4. c3 Bxc3+ 5. Nxc3 Nf6 6. Bg2 Ke7 7. e4 Nb4 8. a3 Nc6 9. e5 Ng4 10. h3 Nxf2 11. Kxf2 Kf8 12. Re1 Ne7 13. Qc2 c5 14. dxc5 Qa5 15. Ne4 Nf5 16. Bf4 Qb5 17. g4 Nh6 18. Rad1 Nxg4+ 19. hxg4 Qa5 20. Nd6 Ke7 21. Ng5 Kd8 22. Ngxf7+ Ke7 23. Nxh8 Kd8 24. Bxb7 Rb8 25. c6 Qb6+ 26. Be3 Qxe3+ 27. Kxe3 Rxb7 28. cxb7 Bxb7 29. Ndf7+ Ke7 30. Qc7 Kf8 31. Qd8# 1-0

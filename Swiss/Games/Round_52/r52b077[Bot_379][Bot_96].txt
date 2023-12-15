@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "51"]
+[White "BIG CHUMPER V6.0 (by: Pedro Contipelli)"]
+[Black "Chess Bot (by: M)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e5 2. Nf3 Bc5 3. Nxe5 d5 4. d4 Bb4 5. e3 Nf6 6. Bb5+ Kf8 7. O-O Be6 8. Ne2 h5 9. h4 Bd6 10. Nf3 c5 11. dxc5 Bxc5 12. b3 Rh6 13. e4 Nxe4 14. Bxh6 gxh6 15. Qc1 Nxf2 16. Qxh6+ Kg8 17. Rxf2 Nc6 18. Bxc6 bxc6 19. Ned4 a5 20. Qxh5 Ra6 21. Qe5 Bd7 22. h5 f6 23. Qg3+ Kh8 24. c3 Qe8 25. Qh4 Qe7 26. Ne1 a4 27. bxa4 Rxa4 28. Nd3 f5 29. Qxe7 Bxe7 30. Ne5 Be8 31. Rxf5 Bd6 32. Nexc6 Bxc6 33. Nxc6 Ra6 34. Nd4 Ra8 35. Rxd5 Bf4 36. a4 Be3+ 37. Kf1 Rf8+ 38. Nf3 Bf4 39. a5 Re8 40. a6 Kh7 41. a7 Ra8 42. Rd7+ Kh8 43. g4 Be3 44. c4 Bf4 45. c5 Be3 46. Rb7 Bf4 47. Ra4 Be3 48. g5 Bxc5 49. Rb8+ Kg7 50. Rxa8 Kf7 51. h6 Kg6 52. Rg8+ Kf7 53. a8=Q Be7 54. Qd5# 1-0

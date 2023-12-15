@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "34"]
+[White "Hot Garbage (by: CT424)"]
+[Black "InfuehrDaniel MCTS (by: Daniel Infuehr)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g3 e6 2. Bg2 Qg5 3. d3 Qe5 4. Nd2 Be7 5. h4 Nc6 6. f4 Qe3 7. c4 Nh6 8. b4 g5 9. fxg5 Nf5 10. a4 Qxg3+ 11. Kf1 Ne3# 0-1

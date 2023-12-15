@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "4"]
+[White "Celluar Automaton Iterated (by: Pix)"]
+[Black "Single Player (by: Salty Scientist)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. b4 e6 2. c3 Qg5 3. a4 Nc6 4. h3 Bd6 5. Bb2 Nd4 6. Na3 b6 7. cxd4 Bb7 8. Nc2 Be4 9. Na3 Bxb4 10. Nc4 Ne7 11. Rc1 Ng6 12. Qb3 Nf4 13. Qd1 Ke7 14. e3 Ne2 15. Ra1 Nxd4 16. exd4 Rab8 17. Rc1 b5 18. Qe2 bxa4 19. Rd1 Bxd2+ 20. Nxd2 Rxb2 21. Nxe4 Qd5 22. Qa6 Qxe4+ 23. Qe2 Rb3 24. Qxe4 Rhb8 25. Rd2 Rc3 26. Re2 f5 27. Qe5 d6 28. Qa5 Rd3 29. h4 Rb1# 0-1

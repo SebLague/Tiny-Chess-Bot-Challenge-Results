@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "18"]
+[White "TinyNoTimeToCodeChessEngine (by: )"]
+[Black "Scouty (by: Fioume)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a4 Nf6 2. f4 Nc6 3. c4 e5 4. fxe5 Nxe5 5. Qb3 Bc5 6. Nf3 Nxf3+ 7. Qxf3 O-O 8. Qf5 d5 9. Qg5 Bf2+ 10. Kd1 dxc4 11. Qf4 Ng4 12. d3 cxd3 13. exd3 Bd4 14. Kc2 Nf2 15. Bd2 Nxh1 16. Bb4 Re8 17. g4 Be3 18. Qf3 Nf2 19. h3 Bd7 20. a5 Bb5 21. Ra3 Bc6 22. Qg3 Rc8 23. Bc3 Qe7 24. Ra1 h6 25. Ra2 Bd5 26. Ra1 c6 27. Bg2 Bxg2 28. Qxg2 Qd6 29. Qf1 Rcd8 30. a6 Qg6 31. axb7 Rxd3 32. Kb3 Rb8 33. Ka2 Rxb7 34. Nd2 Rxc3 35. Rb1 Rb4 36. Qa6 Bxd2 37. Rf1 Qe6+ 38. Kb1 Qe4+ 39. Ka1 Ra4+ 40. Qxa4 Qxa4+ 41. Kb1 Ra3 42. Rc1 Ra1# 0-1

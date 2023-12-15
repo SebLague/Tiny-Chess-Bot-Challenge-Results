@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "35"]
+[White "TeacherBot (by: qumquat)"]
+[Black "DrawMachine (by: Rune)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 b5 2. Bc4 bxc4 3. Qh5 c3 4. Qxf7+ Kxf7 5. Ke2 cxd2 6. Kd1 dxc1=Q+ 7. Ke2 Qxb2 8. Na3 Qxa3 9. Ke1 h6 10. Kd1 c5 11. f3 Rh7 12. g4 Qb2 13. Rc1 Qxa2 14. h4 Na6 15. Ne2 Qe8 16. Ng1 c4 17. h5 d5 18. Ra1 Qxa1+ 19. Kd2 dxe4 20. g5 exf3 21. Rh2 Qxg1 22. Re2 fxe2 23. gxh6 Qg5+ 24. Kxe2 c3 25. Kf3 Qc6+ 26. Kf2 e6 27. Kf1 Qf4+ 28. Kg1 Qg4+ 29. Kf2 Qf5+ 30. Kg3 Bd6+ 31. Kh4 e5 32. Kg3 Qg5+ 33. Kf2 Qc5+ 34. Kf3 Bb7+ 35. Ke2 e4 36. Ke1 Qcg1+ 37. Ke2 Q1g2+ 38. Kd1 Qf3+ 39. Ke1 e3 40. hxg7 Qgg3# 0-1

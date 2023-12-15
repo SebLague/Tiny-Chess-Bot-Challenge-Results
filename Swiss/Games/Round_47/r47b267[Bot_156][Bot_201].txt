@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "46"]
+[White "Blundering Baggins (by: kooleerv)"]
+[Black "charge forward v1 (by: steel chair)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 h5 2. h4 g5 3. hxg5 f5 4. gxf6 exf6 5. Bd3 d5 6. Rxh5 Rxh5 7. Qxh5+ Ke7 8. Qh7+ Bg7 9. Qxg8 c5 10. Qxg7+ Ke6 11. Qh7 b5 12. Bxb5 a5 13. Bd3 f5 14. Qg6+ Qf6 15. Bxf5+ Ke5 16. f4+ Kd6 17. Qxf6+ Be6 18. Qxe6+ Kc7 19. Nc3 d4 20. Nd5+ Kb7 21. Qb6# 1-0

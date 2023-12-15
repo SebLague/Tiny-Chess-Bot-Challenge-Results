@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "48"]
+[White "AchillesAlpha (by: Achilles)"]
+[Black "CrystalBowl (by: Daugsilius)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a3 b6 2. Ra2 Ba6 3. e3 Bd3 4. cxd3 Na6 5. Qe2 Rb8 6. d4 b5 7. a4 Rb6 8. axb5 Nb4 9. Rxa7 Nc2+ 10. Kd1 Nxe3+ 11. fxe3 Rd6 12. Qc4 Rc6 13. bxc6 Qc8 14. cxd7+ Qxd7 15. Ra8+ Qc8 16. Rxc8+ Kd7 17. Rxc7+ Kd8 18. Qc6 e6 19. Qd7# 1-0

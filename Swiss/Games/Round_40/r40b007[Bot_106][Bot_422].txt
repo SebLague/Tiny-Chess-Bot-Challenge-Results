@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "39"]
+[White "Miluva v2 [2550] (by: Möhrchen (Thilo M.))"]
+[Black "FloppyChess 4.2 (by: Omsk)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. exd5 Nf6 3. Bb5+ Nbd7 4. c4 a6 5. Bxd7+ Qxd7 6. d3 c6 7. dxc6 Qxc6 8. Nf3 Bf5 9. O-O Rd8 10. Ne5 Qd6 11. Bf4 Ng4 12. Nxf7 Qxf4 13. g3 Qd4 14. Nxh8 g6 15. Nc3 Qxh8 16. Qa4+ Rd7 17. Nd5 Qd4 18. Rae1 Kf7 19. Qd1 Ne5 20. Rxe5 Qxe5 21. Qf3 Kg8 22. g4 Be6 23. Qe4 Qxe4 24. dxe4 Bxg4 25. f3 Be6 26. Re1 Kf7 27. b3 Bg7 28. Kh1 b5 29. a4 bxa4 30. bxa4 Rb7 31. c5 Rb2 32. c6 Rc2 33. Nb4 Rc4 34. Nxa6 Bh3 35. f4 Bd4 36. Nb4 Rxb4 37. Rg1 Rb2 38. c7 Bg2+ 39. Rxg2 Rb1+ 40. Rg1 Rxg1# 0-1

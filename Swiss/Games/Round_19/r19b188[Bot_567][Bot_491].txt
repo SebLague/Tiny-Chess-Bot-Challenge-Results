@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "18"]
+[White "Traderino (by: BenLS)"]
+[Black "SmallSearchAll (by: QuarksandAces (YT))"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h3 Na6 2. a4 Rb8 3. e4 Nc5 4. Qe2 Ra8 5. d4 Na6 6. Bf4 Rb8 7. Na3 e5 8. Be3 Bb4+ 9. c3 Bd6 10. Nf3 exd4 11. O-O-O dxe3 12. Kb1 Qf6 13. Ne5 Qxe5 14. Qxe3 Bc5 15. f4 Qh5 16. Bxa6 Bxe3 17. g4 Qc5 18. Ka2 bxa6 19. b4 Qxc3 20. Nb1 Qc2+ 21. Ka3 Bc5 22. bxc5 Qb2# 0-1

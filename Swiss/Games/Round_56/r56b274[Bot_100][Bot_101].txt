@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "55"]
+[White "PrayForMeBot (by: João)"]
+[Black "HERO-bot (by: ELEMENTLHERO)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. b4 a5 2. bxa5 Rxa5 3. a4 Nc6 4. Ra2 Nf6 5. f3 d5 6. d4 Nxd4 7. Qxd4 e5 8. Qxd5 Qxd5 9. Bd2 Rc5 10. a5 g5 11. g3 Bf5 12. Bc3 Qd4 13. a6 Qd5 14. f4 bxa6 15. Ba5 Rxc2 16. Rxc2 Bb4+ 17. Rc3 Bxc3+ 18. Nd2 Bd4 19. Ndf3 Bc3+ 20. Kf2 Qc5+ 21. e3 Qb5 22. Nh3 Qd5 23. Bc4 Qxc4 24. Rb1 Qa2+ 25. Kg1 Qb2 26. Nh4 Qb5 27. Ra1 Be4 28. Rd1 Nd7 29. Rxd7 Be1 30. Rd6 f6 31. Ng6 Rg8 32. Nf8 Bxa5 33. Rd4 Bb4 34. Nd7 Qxd7 35. Rxe4 Qd1+ 36. Kg2 Qc2+ 37. Kf1 Qd3+ 38. Kf2 Qc2+ 39. Kf3 g4# 0-1

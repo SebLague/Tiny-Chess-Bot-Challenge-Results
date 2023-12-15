@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "45"]
+[White "Sore Loser Bot (by: Techno)"]
+[Black "InfuehrDaniel MCTS (by: Daniel Infuehr)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. a3 e6 2. b4 Qh4 3. g3 Qd4 4. Bg2 Be7 5. c3 Qe5 6. b5 Qxb5 7. Be4 Nc6 8. f4 e5 9. Ra2 Nf6 10. Bf5 Qd5 11. Bxh7 g6 12. d4 Rxh7 13. Rb2 b6 14. Kf1 exf4 15. e4 Ba6+ 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "8"]
+[White "BettyBot (by: Thomas / TGhost)"]
+[Black "TuroChampEx (by: code<metas>)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 e6 2. Nb5 Nc6 3. Rb1 Nf6 4. f3 a6 5. Nc3 d5 6. Ra1 Bd6 7. Kf2 O-O 8. Ke1 Bd7 9. Rb1 Qe7 10. Kf2 e5 11. Ke1 e4 12. fxe4 dxe4 13. Kf2 Ng4+ 14. Ke1 Qh4+ 15. g3 Qxh2 16. Rxh2 Bxg3+ 17. Rf2 Bxf2# 0-1

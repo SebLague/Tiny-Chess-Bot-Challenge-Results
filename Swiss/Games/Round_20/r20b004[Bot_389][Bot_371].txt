@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "19"]
+[White "BoyaChess v5 (by: ArxelBlw)"]
+[Black "Onion (by: Nathan Woloshyn)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. Nf3 e6 3. e3 Nc6 4. c4 d5 5. Nc3 Bd6 6. Be2 O-O 7. O-O dxc4 8. Bxc4 e5 9. d5 e4 10. Nd2 Bxh2+ 11. Kxh2 Ng4+ 12. Kg3 Qd6+ 13. f4 exf3+ 14. Kxf3 Qh6 15. Nde4 Nce5+ 16. Ke2 Nxc4 17. Qd4 Nce5 18. Nf2 Qh2 19. Nb5 Nxf2 20. Kxf2 Bh3 21. Rg1 Ng4+ 22. Kf1 Bxg2+ 23. Rxg2 Qh1+ 24. Rg1 Qf3+ 25. Ke1 Qf2+ 26. Kd1 Qxg1+ 27. Kc2 Rfd8 28. e4 Qxd4 29. Nxd4 Re8 30. Bd2 Rxe4 31. Nb5 Rd8 32. Nc3 Re7 33. Rd1 h6 34. b4 Nf6 35. Bf4 Red7 36. a4 Nxd5 37. Nxd5 Rxd5 38. Rxd5 Rxd5 39. Bxc7 g5 40. Kc3 Kg7 41. Kc4 Rd7 42. Bb8 Kf6 43. Kc5 Ke6 44. Bxa7 b5 45. axb5 Rxa7 46. b6 Rd7 47. Kc6 g4 48. b5 g3 49. b7 Rxb7 50. Kxb7 g2 51. b6 g1=Q 52. Kc6 Qc1+ 53. Kb5 Kd5 54. Ka6 Kc6 55. Ka7 Qc5 56. Ka8 Kxb6 57. Kb8 Qf8# 0-1

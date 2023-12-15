@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "58"]
+[White "Onion (by: Nathan Woloshyn)"]
+[Black "RigidBot (by: Mathias Elgaard)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 Nc6 2. Nf3 Nf6 3. e4 e5 4. Bc4 Nxe4 5. Qe2 Nxc3 6. dxc3 d6 7. Be3 Be7 8. O-O-O O-O 9. Kb1 Bf6 10. Rhe1 e4 11. Nd2 Be5 12. Nxe4 Bf5 13. Ng3 Bxg3 14. hxg3 Qd7 15. Bd5 Rfc8 16. Bf3 Rcb8 17. g4 Be6 18. g5 Ne5 19. Bd5 Bg4 20. f3 Bf5 21. Qf2 Qa4 22. Bd4 Nc6 23. Bb3 Qa5 24. Qe2 d5 25. Bf2 Be6 26. f4 Rd8 27. f5 Bxf5 28. Rxd5 Qxd5 29. Bxd5 a6 30. Bxf7+ Kxf7 31. Qc4+ Kg6 32. Re6+ Bxe6 33. Qxe6+ Kxg5 34. Be3+ Kh5 35. Qf5+ Kh4 36. Qh3# 1-0

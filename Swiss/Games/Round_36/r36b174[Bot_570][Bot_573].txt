@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "35"]
+[White "Shadow's Unfinished Bot (by: shadowcage72)"]
+[Black "Poisoned_Offerings (by: N8)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e5 2. Nc3 Qf6 3. Nf3 Ne7 4. Bd3 d6 5. O-O Bg4 6. Bb5+ c6 7. Bd3 d5 8. b4 e4 9. Be2 exf3 10. gxf3 Bh3 11. Re1 Qg6+ 12. Kh1 Qg2# 0-1

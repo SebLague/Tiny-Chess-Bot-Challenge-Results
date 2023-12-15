@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "3"]
+[White "Turtle (by: Geezmo)"]
+[Black "Shadow's Unfinished Bot (by: shadowcage72)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f4 e6 2. h4 Nc6 3. b4 Bxb4 4. e4 Nf6 5. g4 Nxe4 6. a4 Bxd2+ 7. Qxd2 Nxd2 8. c4 Nxf1 9. f5 Ng3 10. f6 Nxh1 11. fxg7 Qxh4+ 12. Kd1 Qxg4+ 13. Nf3 Qxf3+ 14. Kd2 Qf2+ 15. Kd3 Qd4+ 16. Kc2 Qxa1 17. gxh8=R+ Qxh8 18. Bh6 Nd4+ 19. Kd3 Nf2+ 20. Kc3 Nf3+ 21. Bg7 Qxg7+ 22. Kb3 Qe5 23. a5 Qxa5 24. c5 Qxc5 25. Ka4 b5+ 26. Ka5 b4+ 27. Ka4 d6 28. Kb3 e5 29. Ka4 Bd7+ 30. Kb3 O-O-O 31. Na3 bxa3 32. Ka2 Be6+ 33. Kb1 a2+ 34. Kb2 e4 35. Ka1 a6 36. Kb2 Nd3+ 37. Ka1 Qe5# 0-1

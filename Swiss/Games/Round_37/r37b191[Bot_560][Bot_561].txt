@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "36"]
+[White "MiaKBotv4.4 (by: Mia Kellett)"]
+[Black "ONE MOVE TO RULE THEM ALL (by: b4ux1t3)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 g6 2. Nf3 c5 3. Ne4 a6 4. Nxc5 Qa5 5. Nd3 h6 6. Nf4 Qb6 7. Nd5 h5 8. Nxb6 Rh7 9. Nxa8 b6 10. Nc7+ Kd8 11. Nd5 Rh6 12. Ne5 d6 13. Nxf7+ Ke8 14. Nxh6 Nxh6 15. Nc7+ Kf7 16. e3 g5 17. Qxh5+ Kf6 18. Qe8 b5 19. Qxf8+ Kg6 20. Qxc8 Nf5 21. Qe8+ Kh7 22. Qxb8 Nd4 23. exd4 d5 24. Nxd5 e5 25. Bd3+ e4 26. Bxe4+ Kh6 27. Qh8# 1-0

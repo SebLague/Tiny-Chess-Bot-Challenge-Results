@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "15"]
+[White "Yangbot V1 (by: Cyang946)"]
+[Black "Guppy (by: Simply In Dev)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 d5 2. Nf3 d4 3. Ne4 Nc6 4. e3 e5 5. Bb5 Nf6 6. Nxe5 dxe3 7. Nxc6 exf2+ 8. Kf1 Qd5 9. Nxf6+ gxf6 10. Qe2+ Be6 11. Nb4+ Qd7 12. Bxd7+ Kxd7 13. Qb5+ Kd6 14. Qxb7 Be7 15. Qc6+ Ke5 16. Qb5+ c5 17. d4+ Kf5 18. Qd3+ Kg4 19. Qh3# 1-0

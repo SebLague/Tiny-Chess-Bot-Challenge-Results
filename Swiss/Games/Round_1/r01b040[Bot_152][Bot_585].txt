@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "Attempts to win (by: Taylor Lineman)"]
+[Black "Negative Depth (by: Zoltán Kürti)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 f5 2. e4 fxe4 3. Qh5+ g6 4. Qe2 d5 5. h5 Bg7 6. hxg6 Bf5 7. Rxh7 Be6 8. Qb5+ Kf8 9. Qe8+ Qxe8 10. Rxh8 Bxh8 11. Ke2 Bxb2 12. g7+ Kf7 13. Bxb2 Qb5+ 14. d3 Qxb2 15. dxe4 Qxa1 16. Nd2 dxe4 17. Nh3 Kxg7 18. Ng5 Bg4+ 19. Ke3 Qe1+ 20. Kf4 Qxf2+ 21. Kxg4 Nf6+ 22. Kh3 Nc6 23. Ne6+ Kg6 24. Be2 Rh8+ 25. Bh5+ Rxh5# 0-1

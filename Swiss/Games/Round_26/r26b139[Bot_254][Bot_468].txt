@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "25"]
+[White "Rubber Ducky (by: Joël)"]
+[Black "ColégramBot (by: Colégram)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e6 2. Nf3 Bb4 3. Nb1 c5 4. Ng1 Kf8 5. a4 f5 6. c3 Ba5 7. d3 d5 8. Ra2 Nd7 9. Nf3 Qf6 10. Nfd2 g5 11. e3 f4 12. exf4 Bd8 13. fxg5 Qf7 14. h4 Bc7 15. Na3 Ne7 16. g4 h5 17. gxh6 a6 18. Ra1 b5 19. axb5 Bd6 20. bxa6 Rxa6 21. Rb1 Bf4 22. d4 Ra7 23. dxc5 Rxh6 24. Rg1 Nxc5 25. b4 Na4 26. Nb5 Ra6 27. Nf3 Rf6 28. Bxf4 Rxf4 29. Ng5 Qg7 30. Qc1 e5 31. Bd3 Rxg4 32. Rxg4 Kg8 33. Rg1 e4 34. Bc2 Nb6 35. f4 Kh8 36. h5 Bd7 37. Bxe4 dxe4 38. Nd6 Be6 39. Rh1 Ba2 40. Ndxe4 Nf5 41. b5 Ra5 42. h6 Nxh6 43. Ra1 Nd7 44. Rxh6+ Kg8 45. Ra6 Kf8 46. Rxa5 Bd5 47. Qa3+ Ke8 48. Nd6+ Kd8 49. Qb4 Qe7+ 50. Nde4 Qe8 51. Qd6 Kc8 52. Qxd5 Qg6 53. Ra8+ Nb8 54. c4 Qb6 55. Qf5+ Kd8 56. Nf7+ Ke7 57. R8a3 Nd7 58. Rb3 Qd4 59. Rd1 Qa7 60. Rxd7+ Qxd7 61. Qf6+ Kf8 62. Ne5+ Ke8 63. Qg6+ Kd8 64. b6 Kc8 65. Rg3 Qe7 66. Qg8+ Kb7 67. Qd5+ Kxb6 68. c5+ Kc7 69. Kd1 Qd8 70. Rg7+ Kc8 71. Nd6+ Qxd6 72. cxd6 Kb8 73. Qg8# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "Rigel (by: Antares (Github: Alex2262))"]
+[Black "Memelord (by: Alex Kubanek)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 e5 2. dxe5 d5 3. Nf3 f5 4. Nc3 Ke7 5. Bg5+ Kf7 6. Bxd8 a6 7. Nxd5 Ke6 8. Ng5+ Kxe5 9. Bxc7+ Bd6 10. f4# 1-0

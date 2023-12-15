@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "Culke (by: Colin Schepers)"]
+[Black "The Mad King (by: Coding With Avaclava)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 g6 2. d5 a6 3. Qd4 d6 4. Qxh8 Kd7 5. Qxg8 c5 6. Qxf7 Qa5+ 7. Nc3 h5 8. Qxf8 e5 9. Qf7+ Kd8 10. Bg5# 1-0

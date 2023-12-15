@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "42"]
+[White "Nathe-Bot (by: NatheSpike)"]
+[Black "Miluva v2 [2550] (by: Möhrchen (Thilo M.))"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Bc5 4. Nxe5 Nxe5 5. d4 Bd6 6. dxe5 Bxe5 7. Be3 Nf6 8. Bd4 Bxd4 9. Qxd4 d6 10. Bc4 Be6 11. Bxe6 fxe6 12. O-O Qe7 13. Rad1 e5 14. Qc4 O-O-O 15. Nd5 Nxd5 16. exd5 Kb8 17. a4 c6 18. dxc6 Qc7 19. a5 bxc6 20. Rd3 d5 21. Rb3+ Ka8 22. Qg4 e4 23. a6 h5 24. Qg6 Rd6 25. Qg5 c5 26. Rb7 Qc8 27. Qxg7 Rxa6 28. Rc7 Qb8 29. Rxc5 Rd8 30. c4 dxc4 31. Rxc4 Re6 32. Ra1 Qb7 33. Rc7 Ra6 34. Re1 Qb4 35. Rec1 Kb8 36. Rd7 Qf8 37. Qe5+ Rd6 38. Rxd8+ Qxd8 39. Rc6 Qe7 40. Qxd6+ Qxd6 41. Rxd6 a5 42. Ra6 Kb7 43. Rxa5 Kc6 44. Rxh5 Kd6 45. b4 Ke6 46. g4 Kd6 47. b5 Kc7 48. g5 Kd6 49. b6 e3 50. fxe3 Kc6 51. g6 Kxb6 52. g7 Kc6 53. g8=Q Kc7 54. Rh6 Kd7 55. Qg7+ Kc8 56. Rh8# 1-0

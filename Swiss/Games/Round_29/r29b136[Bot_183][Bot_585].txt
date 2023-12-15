@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "28"]
+[White "GPTGenerated (by: athibaul)"]
+[Black "Negative Depth (by: Zoltán Kürti)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f3 Nc6 2. c3 Nf6 3. g3 e5 4. d3 d5 5. Bh3 Bxh3 6. Nxh3 d4 7. c4 Bb4+ 8. Kf1 a6 9. Rg1 Nd7 10. e3 b5 11. cxb5 axb5 12. Qc2 Bc5 13. exd4 Nxd4 14. Qc3 Rf8 15. Bg5 f6 16. Bc1 Nb6 17. Qxc5 Qd7 18. g4 Nxf3 19. Qe3 Ra5 20. Qxf3 f5 21. g5 e4 22. Qe3 Nd5 23. Qe1 b4 24. Qe2 Nb6 25. Rg3 Qf7 26. Qc2 h5 27. Qc6+ Qd7 28. Qg6+ Kd8 29. Qxh5 Nd5 30. Qh4 Rc5 31. Bd2 Rc2 32. g6+ Kc8 33. Nf4 Rxb2 34. Bc1 Nxf4 35. Bxb2 Nd5 36. dxe4 fxe4+ 37. Ke1 c6 38. Be5 Rf2 39. Kxf2 Qf5+ 40. Ke1 Qxe5 41. Nc3 bxc3 42. Rg5 Qd4 43. Qh3+ Kc7 44. Rd1 Qc5 45. Qg3+ Kb7 46. Rb1+ Ka6 47. Rb8 Qd4 48. Qf2 Qf6 49. Qc5 Qf1+ 50. Kxf1 Ne3+ 51. Qxe3 c5 52. Qxc5 c2 53. Kg2 e3 54. Qb4 c1=Q 55. Qb5+ Ka7 56. Qb7# 1-0

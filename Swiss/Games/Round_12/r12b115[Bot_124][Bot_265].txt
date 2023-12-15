@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "11"]
+[White "Depth2 (by: David Montealegre)"]
+[Black "SimpleBot (by: Tim Zollner)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e6 2. Ne4 d5 3. Ng3 Nf6 4. Nf3 Be7 5. Ne5 c5 6. Nd3 Nbd7 7. Nf4 h5 8. a3 g5 9. Nd3 h4 10. Nxc5 Nxc5 11. b4 Ncd7 12. Bb2 a5 13. Bxf6 Nxf6 14. bxa5 Ra7 15. Nf5 Bxa3 16. Nd4 Be7 17. Nf3 g4 18. Ne5 O-O 19. e3 g3 20. fxg3 hxg3 21. Nxf7 Rxf7 22. h3 Bd7 23. Qf3 Ne4 24. Qe2 Bg5 25. Qh5 Qf6 26. Bd3 Qf2+ 27. Kd1 Qxd2# 0-1

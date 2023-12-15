@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "56"]
+[White "Ccookie (by: Ccookie)"]
+[Black "Jbot (by: KaraokeCzar)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 e6 2. Qd3 h5 3. Bf4 g5 4. Be5 Rh6 5. Nc3 Bb4 6. e4 a5 7. Nf3 f6 8. Bg3 b6 9. O-O-O h4 10. Qc4 hxg3 11. Nb5 c6 12. fxg3 cxb5 13. Qxb5 Ba6 14. Qa4 b5 15. Qb3 g4 16. Nh4 f5 17. Qe3 fxe4 18. Bxb5 Bxb5 19. c4 Bxc4 20. Qf4 Bxa2 21. Qxe4 d5 22. Qf4 Qc8+ 23. Qc7 Qxc7# 0-1

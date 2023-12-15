@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "23"]
+[White "LiL Scoot (by: Scoutamass)"]
+[Black "SepukuBot (by: Madhu)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. e5 Ne4 3. Qf3 d5 4. Bb5+ Nd7 5. Bxd7+ Bxd7 6. d4 Ba4 7. b3 Bb5 8. c4 Bc6 9. cxd5 Qxd5 10. b4 Qxd4 11. Nc3 Qxb4 12. a3 Qa5 13. Bd2 Qxe5 14. Nge2 Nxd2 15. Qd3 Nb3 16. Rd1 e6 17. O-O Bxa3 18. Ng3 O-O 19. Nb5 Qxb5 20. Qxb5 Bxb5 21. Rfe1 h6 22. Re3 Bc5 23. Rxb3 Bc6 24. Rdd3 a5 25. Nh5 a4 26. Rbc3 Be4 27. Rd7 Ra5 28. Rxc7 Bb6 29. Nf6+ gxf6 30. Rg3+ Rg5 31. Rxg5+ fxg5 32. Rd7 f6 33. h3 Rd8 34. Rxd8+ Bxd8 35. g4 Bb6 36. h4 gxh4 37. g5 fxg5 38. Kf1 Bd3+ 39. Kg1 h5 40. Kg2 Be4+ 41. Kg1 e5 42. Kh2 Bxf2 43. Kh3 Be1 44. Kh2 g4 45. Kg1 Ba5 46. Kh2 Kf7 47. Kg1 Bb6+ 48. Kh2 Bb1 49. Kh1 e4 50. Kg2 Ke6 51. Kh1 Kd5 52. Kg2 Kc4 53. Kh1 Kb3 54. Kg2 Ka2 55. Kh1 Ka1 56. Kg2 Kb2 57. Kh1 Kc1 58. Kg2 Kd1 59. Kh1 e3 60. Kg1 e2+ 61. Kh2 e1=Q 62. Kg2 Qg1# 0-1

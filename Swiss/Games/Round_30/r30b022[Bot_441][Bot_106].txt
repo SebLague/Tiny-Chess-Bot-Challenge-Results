@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "29"]
+[White "RigidBot (by: Mathias Elgaard)"]
+[Black "Miluva v2 [2550] (by: Möhrchen (Thilo M.))"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. Nc3 Nd4 5. O-O Nxf3+ 6. Qxf3 c6 7. Bc4 b5 8. Bb3 b4 9. Ne2 d5 10. exd5 e4 11. Qg3 cxd5 12. d4 exd3 13. cxd3 Be6 14. Bf4 Qd7 15. Be5 a5 16. Nd4 a4 17. Nxe6 fxe6 18. Bc2 a3 19. bxa3 bxa3 20. d4 Rc8 21. Rac1 Ra8 22. Bd3 Qe7 23. Rc7 Nd7 24. Rb1 Kf7 25. Rbb7 Rd8 26. Qh3 h6 27. Ra7 h5 28. Bb5 Qb4 29. Rxd7+ Rxd7 30. Rxd7+ Be7 31. Qg3 Qb1+ 32. Bf1 Rg8 33. Qxa3 Re8 34. Bd6 Qe4 35. Bxe7 Kg8 36. Qc3 h4 37. Bd6 g6 38. Rb7 g5 39. Bd3 Rd8 40. Bxe4 dxe4 41. Qc7 Rd7 42. Qxd7 g4 43. Qd8# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "42"]
+[White "Blitztron (by: Cameron Dugan)"]
+[Black "SummerBoty (by: Thomas)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nc6 2. c3 Nf6 3. f3 d5 4. h3 Qd6 5. Qd2 Qg3+ 6. Kd1 Qf2 7. Qe1 Qxe1+ 8. Kxe1 e5 9. f4 exd4 10. h4 Ne4 11. Rh2 dxc3 12. Nxc3 Bb4 13. Be3 Nxc3 14. a3 Ne4+ 15. axb4 Nxb4 16. Rc1 c6 17. g4 Bxg4 18. Bd4 Ng3 19. Bg2 Nxe2 20. Nxe2 Nd3+ 21. Kd2 Bxe2 22. Rb1 Nxf4 23. Bh1 O-O 24. Be3 Bd3 25. Rg1 Ne2 26. Kxd3 Nxg1 27. Bxg1 f5 28. Kc2 Rf6 29. Be3 f4 30. Bc1 Raf8 31. Kb3 Rg6 32. Rg2 Rh6 33. Rc2 Rxh4 34. Bg2 f3 35. Be3 fxg2 36. Rxg2 Rh3 37. Re2 d4 38. Ka2 dxe3 39. b3 Rf2 40. Rb2 Rxb2+ 41. Kxb2 e2 42. Kb1 e1=Q+ 43. Kc2 Qe2+ 44. Kc1 c5 45. Kb1 c4 46. Ka1 c3 47. b4 Qb2# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "31"]
+[White "BuiltCleverBot (by: Scott Ward)"]
+[Black "HubertusChess (by: Oristur)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Nf3 d5 3. exd5 Qxd5 4. Nc3 Qa5 5. Bb5 Nf6 6. Bxc6+ bxc6 7. d4 Bg4 8. O-O e6 9. h3 Bh5 10. g4 Nxg4 11. hxg4 Bxg4 12. Qd3 Qh5 13. Ne5 Bb4 14. Qe4 O-O 15. Nxg4 Qh3 16. Ne2 Rfd8 17. d5 Rab8 18. dxe6 Rd5 19. exf7+ Kxf7 20. Ne5+ Rxe5 21. Qxc6 Qg4+ 22. Ng3 Rc5 23. Qa4 Ra5 24. Qb3+ Kf6 25. c3 Qf3 26. Be3 Rd5 27. cxb4 Kf7 28. Rfc1 Kg8 29. Rxc7 a5 30. Rd7 Rb5 31. Rd8+ Kf7 32. a4 Kg6 33. Qc2+ Kf7 34. Qc7+ Kg6 35. Rd6+ Rxd6 36. Qxd6+ Kf7 37. axb5 Qg4 38. bxa5 Ke8 39. a6 Kf7 40. a7 Qg6 41. Qd7+ Kf6 42. Ra6+ Ke5 43. Qd4# 1-0

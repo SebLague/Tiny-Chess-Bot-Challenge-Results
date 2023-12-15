@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "27"]
+[White "StackFish (by: battlecoder)"]
+[Black "AlaskaBot (by: Arttu Halonen)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 d5 2. Nb5 e5 3. e4 dxe4 4. Qh5 Bd6 5. Nxd6+ cxd6 6. c3 Bd7 7. g3 d5 8. Qxe5+ Ne7 9. Qxg7 f5 10. Qxh8+ Ng8 11. Qxg8+ Ke7 12. Qg5+ Ke8 13. Qf4 Nc6 14. Qd6 d4 15. Be2 Qc8 16. cxd4 f4 17. gxf4 b5 18. Bxb5 h6 19. Qxh6 e3 20. Qh8+ Ke7 21. Qg7+ Kd6 22. Qf6+ Kd5 23. dxe3 a5 24. Ne2 Ke4 25. Qg6+ Kf3 26. Ng1# 1-0

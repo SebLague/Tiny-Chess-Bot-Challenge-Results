@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "28"]
+[White "ShallowBot (by: Vaggelis Softsis)"]
+[Black "offtensive Crane (by: Joao Santos)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c3 b6 2. Qa4 c5 3. Qe4 h6 4. Qe5 Na6 5. d4 c4 6. e4 g6 7. Qxh8 h5 8. Qxg8 b5 9. Bh6 d6 10. Na3 f6 11. Qxg6+ Kd7 12. Bf4 h4 13. Qf5+ Kc6 14. Qd5+ Kb6 15. Nf3 Rb8 16. Qf7 b4 17. Nc2 bxc3 18. Rb1 cxb2 19. Na3 c3 20. Nc4+ Kb5 21. Ne3+ Ka4 22. Qc4+ Ka5 23. Qxc3+ Ka4 24. Qc6+ Ka3 25. Qc3+ Ka4 26. Qc4+ Ka5 27. Nd5 e6 28. Qc3+ Ka4 29. Qc2+ Ka3 30. Qc3+ Ka4 31. Qb4+ Nxb4 32. Nc3+ Ka3 33. Bc4 d5 34. Bxb8 dxc4 35. Bd6 Bxd6 36. Nb5+ Kxa2 37. Kd2 Bf4+ 38. Kc3 Nd5+ 39. Kxc4 Nb6+ 40. Kc3 Na4+ 41. Kb4 a6 42. Kxa4 axb5+ 43. Kb4 Qd6+ 44. Ka5 b4 45. g3 Bh6 46. Rxb2+ Kxb2 47. Rb1+ Kxb1 48. h3 b3 49. Kb5 hxg3 50. Nd2+ Bxd2 51. Kc4 Qb4+ 52. Kd3 Ba6# 0-1

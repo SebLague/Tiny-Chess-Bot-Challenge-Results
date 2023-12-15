@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "LetMeAlive (by: MrQui)"]
+[Black "AIsaac (by: Isaac Ellwood)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 h5 2. f4 f5 3. b3 e5 4. fxe5 c5 5. a3 b5 6. c3 a5 7. e4 fxe4 8. Qe2 g5 9. Qxe4 Nc6 10. Qg6+ Ke7 11. d4 gxh4 12. Bg5+ Nf6 13. Qxf6+ Ke8 14. Qg6# 1-0

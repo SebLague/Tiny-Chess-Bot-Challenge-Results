@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "47"]
+[White "ChessGPT (by: DeepGoldenCrown)"]
+[Black "The Red Crayon (by: Daniel L.)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c3 d5 2. Na3 e5 3. Nh3 Nc6 4. e3 Qf6 5. Bd3 Be6 6. Bxh7 Rxh7 7. g3 Rxh3 8. d4 Bxa3 9. bxa3 Kd7 10. dxe5 Ke7 11. Kf1 Kd7 12. exf6 Kd6 13. Ke1 Kc5 14. Kf1 Kc4 15. Ke1 Kxc3 16. Qb3# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "25"]
+[White "Hydra (by: ReiedLaw)"]
+[Black "The Grandiloquent Intelligentsia of Magnanimous Strategem: A Prodigiously Resplendent Embodiment of Erudite Chess Esotericism, Exuding Enigmatic Brilliance and Sublime Eloquence Whilst Enchantingly Tempering the Hallowed Battlefield of Intellectual Duels, Endeavoring to Transcend Acumen and Ascend to the Pantheon of Learned Peregrinations with an Efficacious Arsenal of Foresight and Sagacity, Humbling Opponents with Refined Gallantry, and Beckoning Discerning Disciples to Witness the Manifest Veracity of its Ascent to a Formidable Elo Quintessence (by: Giles Corey)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. d4 d5 3. exd5 Qxd5 4. Nf3 Bg4 5. Be3 Bxf3 6. gxf3 e5 7. Nc3 Bb4 8. a3 Bxc3+ 9. bxc3 Nf6 10. c4 Qa5+ 11. Bd2 Qa6 12. d5 Nd4 13. c3 Nf5 14. f4 e4 15. Rg1 g6 16. a4 O-O 17. a5 c5 18. Be2 Rae8 19. h3 e3 20. Bxe3 Nxe3 21. fxe3 Rxe3 22. Kf2 Rxh3 23. Rg2 Ne4+ 24. Kg1 Qf6 25. Bg4 Nxc3 26. Qd2 Ne2+ 27. Rxe2 Qxa1+ 28. Re1 Rg3+ 29. Kh2 Qa3 30. Ra1 Qb3 31. Bd1 Rh3+ 32. Kg1 Qg3+ 33. Qg2 Qxg2+ 34. Kxg2 Rc3 35. Rb1 b6 36. axb6 axb6 37. Be2 Rc2 38. Kf2 Re8 39. Rxb6 Rexe2+ 40. Kg3 Rc3+ 41. Kg4 Kg7 42. Rb2 Ree3 43. Rg2 f5+ 44. Kh4 Rh3+ 45. Kg5 Rh5# 0-1

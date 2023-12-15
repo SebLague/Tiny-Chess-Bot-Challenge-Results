@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "62"]
+[White "Achilles Random (by: Achilles)"]
+[Black "MinimalBot (by: GreenSalad_)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 h5 2. c3 Rh6 3. Rh2 Ra6 4. e3 Rxa2 5. Rxa2 a5 6. Qxh5 g5 7. Rxa5 Rxa5 8. Qxg5 Rxg5 9. hxg5 Bh6 10. gxh6 b5 11. h7 Nf6 12. h8=Q+ Ng8 13. Qxg8# 1-0

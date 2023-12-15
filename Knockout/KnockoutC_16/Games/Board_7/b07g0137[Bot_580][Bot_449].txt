@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Knockout 16"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "Tyrant's V9 (by: Tyrant)"]
+[Black "Sardine (by: Broxholme)"]
+[Result "1-0"]
+[TimeControl "30+0.1"]
+[Termination "Checkmate"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Bc4 Ngf6 6. Nxf6+ Nxf6 7. Nf3 e6 8. O-O Bd6 9. Ne5 O-O 10. Re1 b5 11. Bd3 Bb7 12. Bg5 h6 13. Bxf6 gxf6 14. Qg4+ Kh8 15. Qh5 Kg7 16. Re3 Bxe5 17. Qg4+ Kh8 18. Rh3 Bf4 19. Qxf4 Qxd4 20. Qxh6+ Kg8 21. Qh7# 1-0

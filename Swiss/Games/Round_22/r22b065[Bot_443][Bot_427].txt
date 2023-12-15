@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "21"]
+[White "LunarBot (by: LunarTech)"]
+[Black "LeMaire (by: Beaud Rémi and Mechulam Antoine)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nc6 2. Nc3 Nf6 3. Rb1 d5 4. e3 Be6 5. Bb5 a6 6. Bxc6+ bxc6 7. Ke2 Ra7 8. Ra1 Rb7 9. Kd3 Qd6 10. Rb1 c5 11. Ra1 Bf5+ 12. Ke2 e5 13. Kf1 e4 14. Ng5 h6 15. Nh3 Bg4 16. Qe1 Bxh3 17. gxh3 Qe6 18. Kg2 c4 19. Ne2 Qe5 20. Rb1 Qg5+ 21. Ng3 Bd6 22. Qd1 Qe5 23. Ne2 Kd7 24. Qe1 Qg5+ 25. Ng3 Rh7 26. Qd1 Qe5 27. c3 Kc6 28. Ne2 Qg5+ 29. Kf1 Kc5 30. Qa4 Kb6 31. Nd4 Ka7 32. Nc6+ Kb6 33. b3 Kc5 34. Ba3+ Kb6 35. bxc4+ Bb4 36. Rxb4+ Kc5 37. Rxb7# 1-0

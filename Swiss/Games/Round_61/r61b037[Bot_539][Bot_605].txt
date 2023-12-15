@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "60"]
+[White "Nautilus (by: Sherlock)"]
+[Black "The Grandiloquent Intelligentsia of Magnanimous Strategem: A Prodigiously Resplendent Embodiment of Erudite Chess Esotericism, Exuding Enigmatic Brilliance and Sublime Eloquence Whilst Enchantingly Tempering the Hallowed Battlefield of Intellectual Duels, Endeavoring to Transcend Acumen and Ascend to the Pantheon of Learned Peregrinations with an Efficacious Arsenal of Foresight and Sagacity, Humbling Opponents with Refined Gallantry, and Beckoning Discerning Disciples to Witness the Manifest Veracity of its Ascent to a Formidable Elo Quintessence (by: Giles Corey)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. Bf4 c5 3. d5 d6 4. Nc3 e5 5. Bd2 g6 6. e4 Bg7 7. Bb5+ Bd7 8. Bxd7+ Nbxd7 9. Nf3 Qb6 10. Na4 Qa6 11. Nc3 O-O 12. Rf1 Rad8 13. Be3 Rfe8 14. a4 c4 15. Nd2 Rc8 16. f4 exf4 17. Bxf4 Nxe4 18. Ncxe4 f5 19. Bxd6 Qxd6 20. Ra3 c3 21. bxc3 Qxa3 22. Rf4 Qxa4 23. c4 Nc5 24. Qe2 Qxc2 25. Nf6+ Bxf6 26. Rf3 Bd4 27. Ne4 Qc1+ 28. Qd1 Rxe4+ 29. Re3 Qxe3+ 30. Kf1 Qe1+ 31. Qxe1 Rce8 32. Qc1 Nd3 33. g3 Nxc1 34. d6 Re2 35. d7 Rf2+ 36. Kg1 Re1# 0-1

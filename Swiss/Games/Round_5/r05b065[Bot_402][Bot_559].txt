@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "4"]
+[White "Lxna (V4) (by: Ludovic Debever (Lxdovic))"]
+[Black "Chark Bot V2 (by: Team Chark)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 e6 2. g3 Qf6 3. Bg2 Nc6 4. Nc3 Bc5 5. Ne4 Bxf2+ 6. Nxf2 d5 7. O-O Nge7 8. Ng4 Qg6 9. Nfe5 Nxe5 10. Nxe5 Qh5 11. d4 f6 12. Bf3 Qh3 13. e4 g5 14. Bg4 Qh6 15. Bh5+ Ng6 16. Ng4 Qg7 17. Nxf6+ Kd8 18. Bxg5 Ne7 19. Bh4 Qh6 20. exd5 Rf8 21. Qe2 exd5 22. Nxd5 Rxf1+ 23. Rxf1 Be6 24. Bxe7+ Kc8 25. Bg5 Qg7 26. Qxe6+ Kb8 27. Qe8# 1-0

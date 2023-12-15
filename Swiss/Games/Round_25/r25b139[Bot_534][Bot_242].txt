@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "24"]
+[White "DARKCIDER-9000 (by: Alfie Elliott )"]
+[Black "SlothBot (by: 0xFF)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. Nf3 Nf6 2. Ne5 Nc6 3. Nc4 d5 4. Ne3 d4 5. Nc4 Be6 6. d3 b5 7. Nca3 a6 8. Bd2 Qd7 9. b3 O-O-O 10. f3 Kb8 11. Bf4 Nd5 12. Bg3 Ne3 13. Bxc7+ Qxc7 14. Nxb5 axb5 15. Qd2 Nxc2+ 16. Qxc2 Qxh2 17. Rxh2 Ne5 18. a3 Nxf3+ 19. gxf3 Rc8 20. Qb2 1-0

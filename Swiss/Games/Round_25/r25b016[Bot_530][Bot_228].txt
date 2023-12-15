@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "24"]
+[White "Algernon (by: White Mouse)"]
+[Black "Buildabot (by: Buildasaurus)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Bd3 d5 8. exd5 cxd5 9. O-O O-O 10. h3 c6 11. Bf4 Bd6 12. Qf3 Be6 13. Rad1 Bxf4 14. Qxf4 Qb6 15. Na4 Qa5 16. Qd4 Nd7 17. Qf4 Rad8 18. c3 Rfe8 19. Bc2 h6 20. Rfe1 Qb5 21. Bd3 Qa5 22. Bc2 Qb5 23. Bd3 Qa5 24. Bc2 1/2-1/2

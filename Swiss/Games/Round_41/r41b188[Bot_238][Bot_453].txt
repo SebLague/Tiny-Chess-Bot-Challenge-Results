@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "40"]
+[White "AUR Chessbot (by: Soul Senshi)"]
+[Black "Chessica (by: Nicky Kitchingman)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 c6 2. Nf3 c5 3. Nd5 e6 4. Ne3 d6 5. Ng4 e5 6. Ne3 e4 7. Ng1 a6 8. Rb1 f6 9. f3 d5 10. c3 b5 11. Kf2 a5 12. Ke1 g6 13. Qb3 exf3 14. Nxf3 Kd7 15. Qxd5+ Kc7 16. Qxa8 a4 17. Qa5+ Kc6 18. Qxd8 Kb7 19. Qxf8 Ka6 20. Qxc8+ Ka5 21. Qc7+ Ka6 22. Qg7 Ka5 23. Qxh8 Ka6 24. Qxg8 Ka5 25. Qxb8 b4 26. cxb4+ cxb4 27. Qd8+ Kb5 28. Qd7+ Ka5 29. Qa7+ Kb5 30. Nd4# 1-0

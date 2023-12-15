@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "33"]
+[White "NameGoesThere's bot (by: NameGoesThere)"]
+[Black "Sleepy panda bot (by: Quinten F)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e6 2. d4 c6 3. e5 Qa5+ 4. Ke2 Qd5 5. g4 Qe4+ 6. Kd2 Qxd4+ 7. Ke1 Qxe5+ 8. Kd2 Qd5+ 9. Ke3 Bc5+ 10. Ke2 Qe4+ 11. Kd2 Bxf2 12. Nh3 Qe3# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "23"]
+[White "KU_AI_BOT (by: Daniel Johnson)"]
+[Black "HopeBot (by: Chinmay Krishna)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Qg4 Qf6 3. Nf3 Qe6 4. Qxe6+ dxe6 5. Nxe5 Bb4 6. c3 Bd6 7. d4 Ne7 8. Nxf7 Kxf7 9. e5 Bxe5 10. dxe5 Rd8 11. Be2 Nf5 12. O-O Nc6 13. Na3 Nxe5 14. Bf4 Nd3 15. Bxc7 Rd5 16. Nc4 Bd7 17. Bxd3 Rxd3 18. Ne5+ Kf6 19. Nxd7+ Rxd7 20. Ba5 Rc8 21. g4 Nh4 22. f3 b5 23. a4 a6 24. axb5 axb5 25. Bb6 h5 26. g5+ Kxg5 27. Kh1 Rd2 28. Ra5 Rxb2 29. Ra7 e5 30. Be3+ Kf5 31. Rxg7 Rd8 32. Rg5+ Kf6 33. Rxh5 Nf5 34. Bb6 Rbd2 35. f4 Rg8 36. fxe5+ Kxe5 37. Rfxf5+ Ke6 38. Re5+ Kf6 39. Rhf5+ Kg7 40. h3 Ra8 41. Rg5+ Kf6 42. Ref5+ Ke7 43. Bc5+ Ke8 44. Re5+ Kd7 45. Rg7+ Kd8 46. Bb6+ Kc8 47. Re8+ Rd8 48. Rc7+ Kb8 49. Rxd8# 1-0

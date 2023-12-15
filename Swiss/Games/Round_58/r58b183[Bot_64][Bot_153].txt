@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "57"]
+[White "offtensive Crane (by: Joao Santos)"]
+[Black "WhateverBot (by: Alec Holden)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g3 d6 2. f3 Nf6 3. f4 Nc6 4. e3 Bd7 5. d3 e5 6. fxe5 Nxe5 7. d4 Neg4 8. h3 Nh6 9. h4 Be7 10. c3 O-O 11. c4 Nfg4 12. e4 Be6 13. h5 Bf6 14. b3 b6 15. b4 Bd7 16. d5 Bxa1 17. Kd2 Qg5+ 18. Ke1 Qe5 19. Ke2 Qxe4+ 20. Kd2 Qxh1 21. Ne2 Qxh5 22. Ba3 Qg5+ 23. Ke1 Nh2 24. Bg2 Bg4 25. Ng1 Bxd1 26. Kxd1 Qxg3 27. Bc1 Qxg2 28. a3 Qxg1+ 29. Kc2 Qg6+ 30. Kd2 Qxb1 31. b5 Nf1+ 32. Kd1 Qd3+ 33. Ke1 Qxc4 34. Bg5 Qxb5 35. Kd1 Qxd5+ 36. Kc1 Qxg5+ 37. Kb1 Bc3 38. Ka2 Qg2+ 39. Kb3 Ba1 40. a4 Qf3+ 41. Ka2 Bd4 42. Kb1 Qb3+ 43. Kc1 Be3# 0-1

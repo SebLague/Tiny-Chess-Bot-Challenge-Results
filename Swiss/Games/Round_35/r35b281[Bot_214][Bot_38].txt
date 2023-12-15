@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "34"]
+[White "DareWitch (by: mdrwsh)"]
+[Black "Asymptotically optimal (by: Graham Gayler)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Nc3 b6 2. Rb1 h6 3. Ra1 Rh7 4. Nf3 Rh8 5. Rb1 Rh7 6. Ra1 Ba6 7. Rb1 Bc8 8. Ra1 1/2-1/2

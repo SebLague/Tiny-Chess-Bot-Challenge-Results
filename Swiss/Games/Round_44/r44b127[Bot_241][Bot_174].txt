@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "43"]
+[White "AlphaBetaZero (by: MV974)"]
+[Black "Annihilator (by: Wiechciu)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 c6 2. Qh5 c5 3. Qxc5 d5 4. Bb5+ Bd7 5. Qxd5 Nf6 6. Qxb7 Nh5 7. Nc3 g6 8. Qxa8 Bxb5 9. Nxb5 a6 10. Nc3 g5 11. Nf3 g4 12. O-O gxf3 13. Qxf3 Ng7 14. Qg3 Nd7 15. Nd5 Qc8 16. Qc7 Qa8 17. Qxd7+ Kxd7 18. Nb6+ Kc7 19. Nxa8+ Kb7 20. b3 e6 21. Bb2 f5 22. c4 Kxa8 23. d3 Ka7 24. Rfd1 h5 25. Bd4+ Ka8 26. f4 h4 27. g3 a5 28. Bc3 Rg8 29. gxh4 Kb7 30. Bxa5 Ka8 31. Bc3 Bd6 32. Kf2 Nh5 33. Rg1 Rxg1 34. Rxg1 Be7 35. a4 Bxh4+ 36. Ke2 Kb8 37. Rg6 Ka7 38. Rxe6 Bd8 39. Rh6 Nxf4+ 40. exf4 Kb7 41. Rh5 Kc6 42. Rxf5 Bb6 43. Rf6+ Kc7 44. b4 Bg1 45. h4 Kb7 46. a5 Ka8 47. a6 Kb8 48. h5 Bb6 49. Rxb6+ Kc7 50. c5 Kd7 51. a7 Kc7 52. a8=Q Kd7 53. Bf6 Kc7 54. Qc6# 1-0

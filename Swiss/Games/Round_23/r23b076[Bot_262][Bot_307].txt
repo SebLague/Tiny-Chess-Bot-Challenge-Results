@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "22"]
+[White "Chessburger Bot (by: )"]
+[Black "Stephanee (by: Elijah Bradshaw)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c4 e5 2. Qa4 f5 3. Nc3 Be7 4. e4 fxe4 5. Nxe4 b6 6. Ng3 Bh4 7. Nf3 Bxg3 8. fxg3 e4 9. Nh4 Bb7 10. Qb5 c5 11. Nf5 Qf6 12. g4 Nh6 13. Nxh6 gxh6 14. h4 O-O 15. Kd1 Bc6 16. Qb3 Qf2 17. g5 hxg5 18. hxg5 Rf5 19. Qh3 Ba4+ 20. b3 Bxb3+ 21. axb3 Rf7 22. g6 Qxf1+ 23. Rxf1 Rxf1+ 24. Ke2 hxg6 25. Kxf1 Nc6 26. Qxd7 Rf8+ 27. Kg1 Nd4 28. Rxa7 Ne2+ 29. Kh2 Rf7 30. Qxf7+ Kh8 31. Ra8# 1-0

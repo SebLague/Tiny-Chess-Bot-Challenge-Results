@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "36"]
+[White "Ace V1.0.0 (by: Atad)"]
+[Black "NightBot (by: Matthias Kruis)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e6 2. Nf3 d5 3. e5 Nh6 4. d4 Bb4+ 5. c3 Be7 6. Bxh6 gxh6 7. Bd3 c5 8. dxc5 Nd7 9. b4 O-O 10. O-O Qc7 11. Re1 f6 12. exf6 Nxf6 13. Na3 Qf4 14. Nb5 Ne4 15. Qc2 Bd7 16. Bxe4 dxe4 17. Rxe4 Qf6 18. Nbd4 Rfe8 19. Rae1 Kh8 20. Nxe6 Rac8 21. Nfd4 Qg6 22. Qe2 Bf6 23. Rg4 Qf7 24. Rf4 Qg6 25. Re4 h5 26. Qc4 h4 27. R4e3 Qg4 28. h3 Qg8 29. b5 Bg5 30. Qd5 Bxe6 31. Nxe6 Bf6 32. Qxb7 Bxc3 33. R1e2 Bf6 34. Qxa7 Qg6 35. Qa4 Ra8 36. Qe4 Ra5 37. Qb4 Rea8 38. b6 Ra4 39. Qb3 Rg8 40. f4 Bd4 41. b7 Ra3 42. b8=Q Rxb3 43. Qxb3 Bxe3+ 44. Qxe3 Rc8 45. Qe5+ Kg8 46. c6 Qb1+ 47. Kh2 Qg6 48. c7 Ra8 49. Rd2 Qh6 50. Rd8+ Kf7 51. Rd7+ Kg6 52. f5+ Kh5 53. Qe2# 1-0

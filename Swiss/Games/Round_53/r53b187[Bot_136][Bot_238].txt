@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "52"]
+[White "Chessy (by: SebastianB)"]
+[Black "AUR Chessbot (by: Soul Senshi)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Nc3 Nd4 3. Nd5 Nf6 4. c3 Nc6 5. Qf3 Ne5 6. Qf4 Nxd5 7. Qg5 f6 8. Qxe5 fxe5 9. Nf3 Nf6 10. d3 Ng4 11. d4 exd4 12. c4 e5 13. h4 Nf6 14. Bg5 h6 15. Nxd4 exd4 16. Rh3 hxg5 17. e5 Qe7 18. f4 Rxh4 19. Ra3 Rxf4 20. g3 Qxe5+ 21. Kd1 Rxf1+ 22. Kd2 Rxa1 23. Ra4 Qxg3 24. a3 Qb3 25. Ra5 Qd1# 0-1

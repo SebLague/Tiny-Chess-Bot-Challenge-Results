@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "27"]
+[White "bLouBot (by: cmdrsigsegv)"]
+[Black "HubertusChess (by: Oristur)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nc6 2. d5 e6 3. dxc6 Qh4 4. cxb7 Bxb7 5. b3 Bc5 6. e3 Bd5 7. Qd3 Bb4+ 8. Ke2 a6 9. a3 Bd6 10. h3 Qe4 11. Qxe4 Bxe4 12. Kd2 Be5 13. Ra2 Nf6 14. Bb2 Bxb2 15. Rxb2 Bc6 16. Nc3 Ke7 17. f4 Kd6 18. Nf3 Rhb8 19. Ne5 Ne4+ 20. Nxe4+ Bxe4 21. Nxf7+ Kc6 22. Ne5+ Kd6 23. Bd3 Bd5 24. e4 Rf8 25. exd5 Rxf4 26. Nc4+ Kxd5 27. Ne3+ Kc6 28. Bxh7 Rh8 29. Bg6 Rf2+ 30. Kd3 d5 31. Ng4 Rxg2 32. Ne5+ Kb6 33. Bf7 Rg3+ 34. Ke2 Kb5 35. c4+ Kc5 36. Kf2 Rc3 37. Bxe6 Rf8+ 38. Nf7 d4 39. Kg2 Re3 40. b4+ Kb6 41. Bd5 c6 42. c5+ Kc7 43. Ne5 cxd5 44. c6 Rxe5 45. Re2 Rxe2+ 46. Kg3 Re3+ 47. Kg4 Kxc6 48. Rd1 Rxa3 49. Rxd4 Ra1 50. Kh5 Kd6 51. Rg4 Ra3 52. Kg6 Rxh3 53. Kxg7 Rhh8 54. Rg6+ Ke7 55. Rxa6 Rfg8# 0-1

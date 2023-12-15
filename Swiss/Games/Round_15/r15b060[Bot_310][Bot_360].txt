@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "14"]
+[White "LynchBot (by: Gary Lynch)"]
+[Black "the mater (by: )"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Qd6 4. Nbd2 b5 5. a4 Qa6 6. e4 Qa5 7. Be2 Bd7 8. O-O c5 9. Ra3 bxa4 10. Nxc4 Qc7 11. dxc5 e6 12. Nd6+ Bxd6 13. cxd6 Qc5 14. Rc3 Qb6 15. Be3 Qxb2 16. Bd4 Qb7 17. Bxg7 h5 18. Bxh8 Qxe4 19. Ne5 Qb4 20. Qc2 Qxd6 21. Bf3 h4 22. Qh7 Qf8 23. Bg7 Nf6 24. Bxf6 Nc6 25. Rxc6 Rd8 26. Bh5 Bxc6 27. Bxf7+ Qxf7 28. Qxf7# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "10"]
+[White "SimpleBearSearch (by: PizzasBear)"]
+[Black "Max-Max-Bot (by: Tejas)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e5 2. a3 Bc5 3. e3 c6 4. Nf3 Qf6 5. Ne4 Qe7 6. Nxc5 Qxc5 7. d4 Qd5 8. Bc4 Qxc4 9. Nxe5 Qe6 10. Qf3 d6 11. Qxf7+ Qxf7 12. Nxf7 Kxf7 13. e4 Nf6 14. e5 Re8 15. O-O dxe5 16. dxe5 Rxe5 17. Bf4 Re4 18. Bxb8 Rxb8 19. Rae1 Rg4 20. h3 Rg6 21. h4 Rg4 22. Re3 a5 23. Rfe1 Kf8 24. h5 a4 25. Rf3 b5 26. h6 Kg8 27. Re7 Kf8 28. Re1 Kf7 29. hxg7 Rxg7 30. Rfe3 Rb7 31. Rg3 h5 32. Rxg7+ Kxg7 33. Re5 h4 34. Rg5+ Kh7 35. Re5 Rg7 36. Rc5 h3 37. Rxc6 b4 38. Rxf6 Rxg2+ 39. Kh1 Kg7 40. Rc6 bxa3 41. Rxc8 axb2 42. Rc7+ Kg6 43. Rc6+ Kg7 44. Rc7+ Kh6 45. Rb7 a3 46. c4 Rg6 47. Kh2 a2 48. Rh7+ Kxh7 49. f4 b1=Q 50. Kxh3 Qh1# 0-1

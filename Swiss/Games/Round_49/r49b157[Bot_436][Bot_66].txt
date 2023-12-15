@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "48"]
+[White "King Shuffler (by: Team Thursday)"]
+[Black "CapivaraBot (by: Danilo Luiz Rheinheimer)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d3 h5 2. e3 g5 3. Be2 h4 4. a3 f5 5. Bh5+ Rxh5 6. Qxh5# 1-0

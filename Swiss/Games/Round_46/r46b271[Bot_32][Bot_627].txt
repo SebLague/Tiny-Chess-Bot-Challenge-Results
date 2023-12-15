@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "45"]
+[White "Botty_Bot (by: Roboticmadness)"]
+[Black "Celluar Automaton Iterated (by: Pix)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 b6 2. Qf3 e6 3. Qxf7+ Kxf7 4. g3 Bb7 5. Ba6 Bc8 6. Nf3 Bxa6 7. Ng5+ Kg6 8. c4 Bb4 9. Nc3 Kxg5 10. d3+ Kg4 11. f3+ Kxf3 12. O-O Kg4 13. h3+ Kxg3 14. Bf4+ Kxh3 15. Rf3+ Kh4 16. Rh3+ Kxh3 17. Rb1 Qf8 18. Re1 Qf7 19. Re3+ Kg4 20. Rh3 Kxh3 21. b3 Qxf4 22. c5 Bxc3 23. e5 Bxe5 24. a3 bxc5 25. Kh1 Nf6 26. a4 Qf5 27. b4 Kh4 28. bxc5 g5 29. Kg1 Rf8 30. c6 Nxc6 31. d4 Bxd4+ 32. Kh1 Nb4 33. a5 Qxa5 34. Kh2 h5 35. Kg2 Nh7 36. Kh2 Rf4 37. Kg2 Nc2 38. Kh1 d5 39. Kh2 e5 40. Kg2 c5 41. Kh2 Bc3 42. Kg1 Na3 43. Kg2 e4 44. Kh2 Rf2+ 45. Kg1 Rb2 46. Kh1 g4 47. Kg1 Ng5 48. Kh1 Re2 49. Kg1 Kh3 50. Kf1 Rd2+ 51. Ke1 Rg2+ 52. Kd1 Kh4 53. Kc1 Qc7 54. Kd1 Bb2 55. Ke1 Qc6 56. Kd1 Bc3 57. Kc1 Be5 58. Kd1 Qb7 59. Ke1 Bb2 60. Kd1 Rd8 61. Ke1 Qc6 62. Kd1 Qb6 63. Ke1 Bd4 64. Kd1 Rg1+ 65. Kd2 Qa5# 0-1

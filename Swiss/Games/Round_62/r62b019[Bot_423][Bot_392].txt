@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "61"]
+[White "NightBot (by: Matthias Kruis)"]
+[Black "Uranium (by: iudwgerte)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 d5 2. d4 Nf6 3. e3 e6 4. Bd3 c5 5. Nf3 Be7 6. O-O O-O 7. dxc5 Nbd7 8. b4 a5 9. c6 bxc6 10. b5 c5 11. Bb2 Bb7 12. Rc1 a4 13. a3 c4 14. Be2 Qc7 15. Qd4 e5 16. Qh4 Nc5 17. Qg3 Bd6 18. Qh4 Rad8 19. Rcd1 Rfe8 20. Ng5 h6 21. Nf3 Qc8 22. Qh3 Qxh3 23. gxh3 Bc7 24. Rfe1 Ba5 25. h4 Bc8 26. Nxe5 Rxe5 27. Nxa4 Bxe1 28. Bxe5 Nxa4 29. Rxe1 Bf5 30. h5 Nd7 31. Bd4 Bxc2 32. Bf3 Be4 33. Bxe4 dxe4 34. Rc1 Rc8 35. Kf1 c3 36. Ke2 Ndc5 37. Rc2 Nb3 38. Ba7 Na1 39. b6 Nxc2 40. b7 Rd8 41. b8=N Nxa3 42. Nc6 c2 43. Nxd8 c1=Q 44. f4 exf3+ 45. Kxf3 Qd1+ 46. Kf2 Qxd8 47. Bd4 Nc2 48. Kg2 Nxd4 49. Kf2 Qh4+ 50. Kg2 Qg4+ 51. Kf2 Qf3+ 52. Kg1 Ne2# 0-1

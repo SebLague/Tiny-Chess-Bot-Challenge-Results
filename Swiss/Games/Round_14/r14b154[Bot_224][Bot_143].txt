@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "13"]
+[White "RP Bot (by: Matt Enad (RobProductions))"]
+[Black "abariba (by: abariba)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 e6 2. e4 a5 3. e5 Bb4+ 4. c3 Be7 5. Qg4 g5 6. Nf3 h5 7. Qg3 g4 8. Kd1 c5 9. Ne1 Bh4 10. dxc5 Bxg3 11. hxg3 Nc6 12. Nd3 b6 13. c4 bxc5 14. Nc3 Nb4 15. Ne4 Nxd3 16. Nd6+ Kf8 17. Bxd3 Ba6 18. Ne4 Qc7 19. f4 gxf3 20. gxf3 Bb7 21. Bf4 Bc6 22. Kc1 Ne7 23. Nxc5 Bxf3 24. Rf1 Qxc5 25. Rxf3 Qg1+ 26. Rf1 Qd4 27. Be2 Qe4 28. Re1 h4 29. Bg5 hxg3 30. b4 f6 31. exf6 Nc6 32. Rd1 Qxe2 33. b5 Qxc4+ 34. Kd2 Qxb5 35. Kc2 Qxg5 36. Rxd7 Rh2+ 37. Kb3 a4+ 38. Ka3 Qc5# 0-1

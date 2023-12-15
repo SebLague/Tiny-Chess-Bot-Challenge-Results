@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "23"]
+[White "SaveBot (or, "winning bot" as an alternative) (by: Rudy)"]
+[Black "Asymptotically optimal (by: Graham Gayler)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Na3 e5 2. Rb1 h6 3. Ra1 h5 4. Rb1 Bxa3 5. bxa3 b5 6. Rxb5 Nh6 7. Rxe5+ Qe7 8. Rxh5 O-O 9. Rxh6 gxh6 10. Bb2 Qxa3 11. Bxa3 Re8 12. Qa1 Rf8 13. Bxf8 Kxf8 14. Kd1 Ke7 15. Kc1 a5 16. Kb1 Ke8 17. Kc1 c5 18. Kb1 Ke7 19. Kc1 Kd6 20. Kb1 Ke7 21. Kc1 Kd6 22. Kb1 f6 23. Qxf6+ Kc7 24. Qxh6 Ra7 25. Ka1 Na6 26. Qxa6 Kd8 27. Qxa5+ Rxa5 28. Kb1 Kc7 29. Ka1 Kb7 30. Kb1 Ka6 31. Ka1 d6 32. Kb1 Kb5 33. Ka1 Ka4 34. Kb1 Kb4 35. Ka1 Bb7 36. Kb1 Ka3 37. Ka1 c4 38. Kb1 Ra6 39. Ka1 Ka4 40. Kb1 Kb5 41. Ka1 Ka4 42. Kb1 Kb5 43. Ka1 Ka4 1/2-1/2

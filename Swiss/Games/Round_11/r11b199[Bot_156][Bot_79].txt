@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "10"]
+[White "Blundering Baggins (by: kooleerv)"]
+[Black "SybBot (by: Sybsuper)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e5 2. Ne2 f5 3. Ng3 h5 4. Qxh5+ Rxh5 5. h4 Rxh4 6. Rxh4 Qxh4 7. Nxf5 Qh1 8. Ne7 Nxe7 9. b3 c5 10. a3 b6 11. f4 Ba6 12. c4 exf4 13. exf4 d5 14. cxd5 Qxf1# 0-1

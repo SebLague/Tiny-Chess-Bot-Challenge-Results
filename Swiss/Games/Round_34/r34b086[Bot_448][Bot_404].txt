@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "33"]
+[White "Paradox Bot (by: Kekz)"]
+[Black "Chessi (by: Will D)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nc6 2. d5 Na5 3. e4 c5 4. Nc3 Qb6 5. Nf3 c4 6. Rb1 d6 7. Be3 Qd8 8. Kd2 Bg4 9. b4 cxb3 10. cxb3 Qc8 11. b4 Nc4+ 12. Bxc4 Qxc4 13. Qa4+ b5 14. Qxb5+ Qxb5 15. Nxb5 Rb8 16. Nbd4 Nf6 17. Kd3 e5 18. dxe6 fxe6 19. h3 Bxf3 20. Nxf3 Rb7 21. Rhc1 Kd7 22. Rb3 Be7 23. Bg5 Nxe4 24. Kxe4 d5+ 25. Ke3 Bxb4 26. Ne5+ Kd6 27. Kd4 Rc7 28. Be7+ Kxe7 29. Rxc7+ Kd8 30. Rxa7 Rf8 31. Rxb4 Rf4+ 32. Kc3 d4+ 33. Kd3 Kc8 34. Nc6 Rxf2 35. Rb8# 1-0

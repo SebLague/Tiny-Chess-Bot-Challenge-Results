@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "52"]
+[White "TLMChessBot [v1-1250] (by: Möhrchen (Thilo))"]
+[Black "BoringBot (by: Carson Bates)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 f6 2. e4 e6 3. a4 d5 4. exd5 exd5 5. Be2 c5 6. a5 h6 7. Bh5+ Kd7 8. Nc3 d4 9. Qg4+ Kc6 10. Qe4+ Kd6 11. Nb5+ Kd7 12. Qd5+ Bd6 13. Qxd6# 1-0

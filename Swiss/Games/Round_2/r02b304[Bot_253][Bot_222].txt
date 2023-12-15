@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "Squeedo (by: David Giesegh)"]
+[Black "PecanPie (by: PecanPie)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. Nc3 d4 3. Nd5 e6 4. Nf4 e5 5. Nd3 Nc6 6. Nf3 Bd6 7. c3 Qe7 8. Qa4 Nf6 9. cxd4 exd4 10. e5 Ng4 11. Nxd4 Nxe5 12. Kd1 Bd7 13. Nxe5 Nxe5 14. Qb3 Ng4 15. Qxb7 Nxf2+ 16. Kc2 O-O 17. Rg1 Bxh2 18. Nf3 Bf5+ 19. Kc3 Rab8 20. Qxb8 Rxb8 21. Bc4 Be5+ 22. Nxe5 Qxe5+ 23. d4 Qa5+ 24. b4 Qxb4# 0-1

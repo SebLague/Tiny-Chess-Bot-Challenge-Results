@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "32"]
+[White "Phoenix Chess (by: Mat(t)hias)"]
+[Black "KunoVonHagenBot (by: Jakob)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 d5 2. Nc3 d4 3. Nb5 Nc6 4. c3 e5 5. h4 a6 6. cxd4 axb5 7. dxe5 Qd5 8. h5 Bf5 9. Rh4 Nxe5 10. Nd4 Bg4 11. Nf3 Nxf3+ 12. exf3 Bxh5 13. a4 bxa4 14. Raxa4 Rd8 15. Ra7 Bc5 16. Bb5+ Kf8 17. Ra5 Bb6 18. Raa4 Qxb5 19. Raf4 Nf6 20. Qc2 Re8+ 21. Re4 Nxe4 22. Rxe4 Bg6 23. Qb1 Bxe4 24. fxe4 Qc5 25. Kd1 Qxf2 26. g3 Qf3+ 27. Ke1 Rxe4+ 28. Qxe4 Qxe4+ 29. Kd1 Bd4 30. g4 Qb1 31. Ke2 Qxc1 32. d3 Qe3+ 33. Kd1 Qxd3+ 34. Ke1 Ke8 35. b3 Kd8 36. g5 Re8# 0-1

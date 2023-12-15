@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "11"]
+[White "Betelchess (by: VY Canis Majoris (also special thanks to Gurren Lagann))"]
+[Black "Pancake (by: EaglePancake)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 f6 2. Rb1 g6 3. Ra1 b5 4. Rb1 Bh6 5. Ra1 Bxd2+ 6. Bxd2 d6 7. Rc1 d5 8. Ra1 d4 9. Rc1 Qd5 10. Ra1 Qxa2 11. Rc1 Qxa3 12. Ra1 Qxa1 13. Qb1 Qxb1+ 14. Bc1 Qxc1# 0-1

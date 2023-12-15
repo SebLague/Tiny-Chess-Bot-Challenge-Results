@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "52"]
+[White "Ben's Bot (by: Ben Clingenpeel)"]
+[Black "Ace V1.0.0 (by: Atad)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. Qd3 Nc6 3. Bf4 Nd5 4. Nh3 Ndb4 5. Qc3 d6 6. e3 Bxh3 7. gxh3 e5 8. Bb5 Qd7 9. dxe5 dxe5 10. Bg3 Qd5 11. Bxc6+ Nxc6 12. O-O h5 13. Bh4 Rh6 14. f3 Rg6+ 15. Kf2 Qe6 16. Bg3 h4 17. Bxh4 Bb4 18. Qb3 Qxh3 19. Ke2 Qxh4 20. Rf2 Be1 21. Rf1 Rd8 22. Qd3 Rg2+ 23. Kd1 Nb4 24. Kc1 Rxd3 25. cxd3 Nxd3+ 26. Kd1 Nxb2+ 27. Kc1 Nd3+ 28. Kd1 Qa4# 0-1

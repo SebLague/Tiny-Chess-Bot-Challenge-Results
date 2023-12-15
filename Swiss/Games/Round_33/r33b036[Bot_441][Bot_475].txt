@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "32"]
+[White "RigidBot (by: Mathias Elgaard)"]
+[Black "whitecap 🌊 (by: Bryn and Josh)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe6+ 4. Be2 Nc6 5. Nf3 Ne5 6. Ng5 Qg6 7. d4 h6 8. Nd5 Kd8 9. dxe5 Bd7 10. Bh5 Qf5 11. Nxf7+ Kc8 12. Ne3 Qe4 13. Nxh8 e6 14. Nf7 Bc5 15. Bf3 Qg6 16. Bxb7+ Kxb7 17. Qxd7 Be7 18. Qb5+ Kc8 19. Qe8+ Kb7 20. Nd8+ Rxd8 21. Qxg6 Bg5 22. Qxg7 Ne7 23. f4 Rg8 24. Qf7 Bh4+ 25. g3 Rxg3 26. hxg3 Bxg3+ 27. Kf1 Nc6 28. Rxh6 Nd4 29. Rh7 Nb5 30. a4 Bxf4 31. Qxf4 Kb6 32. Qc4 a6 33. axb5 a5 34. Qc6+ Ka7 35. Qxc7+ Ka8 36. Rxa5# 1-0

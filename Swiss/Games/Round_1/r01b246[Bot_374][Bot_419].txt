@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "JazzBot (by: SpoXe)"]
+[Black "PrincessAtta (by: Bowser Bowering and Allyn Lloyd)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 e6 2. g4 d5 3. f4 Qxh4+ 4. Rxh4 g5 5. fxg5 e5 6. d4 Bb4+ 7. c3 e4 8. cxb4 e3 9. Bxe3 b6 10. Bf4 a5 11. bxa5 c5 12. axb6 c4 13. Be5 f6 14. gxf6 c3 15. f7+ Kxf7 16. Bxh8 c2 17. Qxc2 h5 18. Qxc8 Ne7 19. b7 Ra6 20. Qxb8 Nc6 21. Qg3 hxg4 22. Rxg4 Nb4 23. Rg7+ Ke8 24. Qg6+ Rxg6 25. b8=R# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "20"]
+[White "Depth2 (by: David Montealegre)"]
+[Black "CrystalBowl (by: Daugsilius)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 b6 2. Nd5 Nf6 3. Nxf6+ exf6 4. Nf3 Rg8 5. Ng1 Ba6 6. b3 Bd6 7. h3 Kf8 8. Nf3 Ke8 9. Nd4 Kf8 10. Nf5 Bb4 11. Ne3 Rh8 12. Nd5 Bc5 13. Nc3 Ke8 14. Ne4 Kf8 15. Nxc5 bxc5 16. f3 f5 17. a3 Qh4+ 18. g3 Qxg3# 0-1

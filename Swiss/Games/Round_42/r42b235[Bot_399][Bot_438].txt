@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "41"]
+[White "Sleepy panda bot (by: Quinten F)"]
+[Black "Malina (by: Tadeam)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 a5 2. e4 d5 3. exd5 h5 4. Bb5+ c6 5. Bxc6+ bxc6 6. d6 exd6 7. Ne2 g5 8. O-O f5 9. Nec3 d5 10. Bxg5 Ne7 11. Qf3 a4 12. Re1 Nd7 13. Qxf5 Nb8 14. Qg6+ Kd7 15. Qe6+ Ke8 16. Qe3 Nd7 17. Nxd5 cxd5 18. Nc3 Nb8 19. h4 Nd7 20. Nxd5 Nf6 21. Nxf6+ Kf7 22. Qxe7+ Bxe7 23. Rxe7+ Qxe7 24. Rf1 a3 25. Nxh5 Qf8 26. bxa3 Qd6 27. Re1 Bd7 28. Kh1 Be8 29. f3 Bd7 30. Bc1 Be8 31. g4 Bd7 32. Kg2 Be8 33. Kh3 Bd7 34. Re7+ Qxe7 35. Nf6 Qf8 36. Nxd7 Qg7 37. Ne5+ Kg8 38. Bh6 Qxh6 39. Ng6 Rh7 40. Ne7+ Rxe7 41. c3 Qf8 42. Kg3 Qg7 43. a4 Qh8 44. a5 Qg7 45. Kh3 Qh8 46. d5 Qg7 47. a6 Qh8 48. g5 Qg7 49. d6 Ree8 50. a7 Qh8 51. d7 Rf8 52. d8=R Qg7 53. Rxf8+ Qxf8 54. Kg4 Qg7 55. f4 Qh8 56. h5 Qg7 57. Kh4 Qh8 58. c4 Qg7 59. a4 Qh8 60. Kg4 Qg7 61. a5 Qh8 62. a6 Qg7 63. Kh4 Qh8 64. c5 Qg7 65. c6 Qh8 66. Kg4 Qg7 67. h6 Qh8 68. h7+ Qxh7 69. f5 Rf8 70. g6 Qh8 71. Kf3 Qg7 72. Ke4 Qh8 73. c7 Qg7 74. c8=Q Qh8 75. Qc4+ Kg7 76. Qc7+ Kg8 77. Qf7+ Rxf7 78. gxf7+ Kf8 79. a8=R+ Ke7 80. Rxh8 Kxf7 81. Rh6 Kg8 82. Rh2 Kf8 83. a7 Kg8 84. a8=Q+ Kg7 85. Qc6 Kg8 86. Qc7 Kf8 87. Rh8# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "32"]
+[White "Average Chess bot (by: )"]
+[Black "BarschBot (by: Bobitsmagic)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. e5 Qe7 8. Qe2 Nd5 9. Bd2 d6 10. Nxd5 Bxd2+ 11. Kxd2 cxd5 12. Qb5+ Bd7 13. Qxd5 Qg5+ 14. Kd3 Qf5+ 15. Kc3 Rb8 16. Re1 Qxf2 17. Bc4 O-O 18. exd6 Qf6+ 19. Qd4 cxd6 20. Qxf6 gxf6 21. Re7 Bc6 22. Rxa7 d5 23. Bb3 d4+ 24. Kxd4 Bxg2 25. Rg1 Rb4+ 26. c4 Kh8 27. Rxg2 Rg8 28. Re2 Kg7 29. Kc3 Rgb8 30. Ree7 h5 31. Rxf7+ Kg6 32. Rg7+ Kh6 33. Rh7+ Kg5 34. Rag7+ Kf4 35. Rxh5 R4b6 36. Rh4+ Ke5 37. c5 Rc6 38. Re7+ Kf5 39. Rh5+ Kg4 40. Bd1+ Kf4 41. Re1 Rd8 42. Rf1+ Ke4 43. Bf3+ Kf4 44. Bxc6+ Kg4 45. Bf3+ Kf4 46. Bd5+ Kg4 47. Rff5 Rxd5 48. h3+ Kg3 49. Rxd5 f5 50. Rdxf5 Kg2 51. Rhg5+ Kh1 52. Rf1+ Kh2 53. Kc2 Kxh3 54. Rh1# 1-0

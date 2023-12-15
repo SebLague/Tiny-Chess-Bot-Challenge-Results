@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "37"]
+[White "LiL Scoot (by: Scoutamass)"]
+[Black "StackFish (by: battlecoder)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. e5 Ne4 3. Qf3 Ng5 4. Qe3 f6 5. exf6 gxf6 6. Kd1 Bg7 7. Bb5 c6 8. Bc4 Qa5 9. a4 b5 10. Bxb5 cxb5 11. Ra3 Qb4 12. Ra1 bxa4 13. Ne2 Qc4 14. d3 Qg4 15. f3 Qxg2 16. Re1 Nxf3 17. Rxa4 Nxe1 18. Qc5 Bb7 19. Qh5+ Kf8 20. Be3 Bf3 21. Qc5 Qxe2+ 22. Kc1 Qd1# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "57"]
+[White "whitecap 🌊 (by: Bryn and Josh)"]
+[Black "SSComp1 (by: ShadowStar019)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 e6 2. e3 Qf6 3. Bd3 Bd6 4. Nc3 Qh6 5. Ke2 Nc6 6. Ne4 Be7 7. Qe1 Nb4 8. Ng3 Nxd3 9. Kxd3 Qg6+ 10. Kc3 Bf6+ 11. Kb3 e5 12. Rb1 a5 13. d3 a4+ 14. Kb4 d5 15. h4 c5+ 16. Kxc5 Be7+ 17. Kxd5 Qd6+ 18. Kc4 Qc6# 0-1

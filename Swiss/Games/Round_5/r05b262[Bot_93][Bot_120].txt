@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "4"]
+[White "AIsaac (by: Isaac Ellwood)"]
+[Black "EldenBot (by: Ghost_Dev_84)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Insufficient material"]
+
+1. h4 a6 2. g4 a5 3. f4 a4 4. e4 a3 5. bxa3 b6 6. Ke2 b5 7. Ke1 b4 8. Ke2 bxa3 9. d4 c6 10. c4 c5 11. dxc5 d6 12. Ke1 dxc5 13. Qxd8+ Kxd8 14. h5 e6 15. h6 gxh6 16. e5 h5 17. Rxh5 f6 18. exf6 e5 19. fxe5 h6 20. Kd1 Bxg4+ 21. Be2 Bxh5 22. Bxh5 Nxf6 23. Bf3 h5 24. Ke1 h4 25. Kd1 h3 26. Ke1 h2 27. Nh3 h1=Q+ 28. Bxh1 Rxh3 29. Bxa8 Bd6 30. Kd1 Bxe5 31. Bg2 Bxa1 32. Bxh3 Bb2 33. Nxa3 Bxc1 34. Kxc1 Ne4 35. Kb1 Nd2+ 36. Ka1 Nxc4 37. Nb5 Nb2 38. a3 c4 39. Nc7 c3 40. Ne6+ Kd7 41. Nd4+ Kd6 42. Nb5+ Kc5 43. Bf1 c2 44. Kxb2 c1=Q+ 45. Kxc1 Na6 46. Kb1 Nb4 47. Ka1 Nc2+ 48. Kb1 Nxa3+ 49. Nxa3 Kb4 50. Ka1 Kxa3 1/2-1/2

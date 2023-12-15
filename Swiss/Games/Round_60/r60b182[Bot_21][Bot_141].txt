@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "59"]
+[White "At least 2 IQ (by: Evan Finnigan)"]
+[Black "Shielded Minibot (by: Sesen)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c3 Na6 2. g4 Nc5 3. Qc2 Nh6 4. Qd1 Nxg4 5. Bg2 e6 6. Bf1 Nxf2 7. Kxf2 Qh4+ 8. Ke3 Qe4+ 9. Kf2 Qxh1 10. Ke1 Qxg1 11. Qc2 Qxh2 12. e3 Bd6 13. e4 Bg3+ 14. Kd1 Qh5+ 15. Be2 Qh1+ 16. Bf1 Qxf1# 0-1

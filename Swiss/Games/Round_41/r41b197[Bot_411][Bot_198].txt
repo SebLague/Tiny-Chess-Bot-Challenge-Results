@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "40"]
+[White "StallerBot (by: Ean)"]
+[Black "the (not so) wise bot of (not so great) insight (by: TheUnknown1050)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. d3 d5 2. c4 dxc4 3. Bf4 Nc6 4. Na3 e5 5. Bc1 Bb4+ 6. Bd2 c3 7. Bxc3 Bxa3 8. bxa3 Nf6 9. Bxe5 Nxe5 10. Kd2 O-O 11. e4 Nxe4+ 12. Ke1 Qd4 13. dxe4 Qc3+ 14. Ke2 Qb2+ 15. Ke1 Qc3+ 16. Ke2 Qb2+ 17. Ke1 Qc3+ 1/2-1/2

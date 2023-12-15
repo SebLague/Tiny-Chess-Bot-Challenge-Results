@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "26"]
+[White "Headless Chicken (by: Nat)"]
+[Black "James (by: Aedan Smith)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nc3 e6 4. Nxd5 exd5 5. Qf3 Nc6 6. Qxd5 Qe7 7. Nf3 Nb4 8. Qe4 d5 9. Bb5+ c6 10. Bxc6+ bxc6 11. Qf4 Nxc2+ 12. Kd1 Nxa1 13. e6 Bxe6 14. d3 Qb7 15. Re1 O-O-O 16. Qd4 Nb3 17. axb3 Qxb3+ 18. Ke2 Qc2+ 19. Kf1 Bc5 20. Qh4 Rde8 21. d4 Bb4 22. Bd2 Bxd2 23. Nxd2 Qxd2 24. Ra1 Bf5 25. b3 Qe2+ 26. Kg1 Qe1+ 27. Rxe1 Rxe1# 0-1

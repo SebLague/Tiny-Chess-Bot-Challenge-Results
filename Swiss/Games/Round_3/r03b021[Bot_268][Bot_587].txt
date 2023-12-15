@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "Captain Botvious (by: Selim Sheta)"]
+[Black "Magnuth Carlthen (by: wolfuhfuh)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nc3 Nf6 3. d4 exd4 4. Qxd4 Nc6 5. Qc4 Bd6 6. e5 Nxe5 7. Qa4 c6 8. Bg5 O-O 9. O-O-O Bc7 10. Be2 h6 11. Bd2 b5 12. Qa3 a5 13. Nh3 b4 14. Qb3 bxc3 15. bxc3 a4 16. Qb1 Bd6 17. Bxh6 Rb8 18. Qa1 Ba3+ 19. Kd2 Bb2 20. Qb1 Ne4+ 21. Ke1 Bxc3+ 22. Bd2 Rxb1 23. Rxb1 Nxd2 24. Rd1 Qh4 25. Ng1 Ne4+ 26. Rd2 Qf4 27. Nf3 Nxf3+ 28. Bxf3 Qxd2+ 29. Kf1 Qxf2# 0-1

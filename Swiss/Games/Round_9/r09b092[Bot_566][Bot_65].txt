@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "8"]
+[White "LazyBot (by: Tim de Jong)"]
+[Black "Mazin (by: saraqael)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 c6 2. Qd3 Qa5+ 3. Qc3 Qxc3+ 4. bxc3 e6 5. Nf3 f6 6. e4 Ke7 7. Nbd2 Kd6 8. Ba3+ Kc7 9. Bxf8 h6 10. Bxg7 Rh7 11. Bf8 Rf7 12. Bb4 a5 13. Ba3 d5 14. O-O-O Kd7 15. Kb2 Rh7 16. c4 dxe4 17. Nxe4 Kd8 18. Nd6 Rc7 19. Bd3 Rg7 20. g3 Rc7 21. Bc5 Ra6 22. Rhe1 Bd7 23. Nf7+ Ke8 24. Bg6 Ne7 25. Bh5 Nc8 26. N7e5+ Kd8 27. Nxd7 Nxd7 28. Rxe6 Rb6+ 29. Bxb6 Ndxb6 30. c5 Na4+ 31. Kb3 Kd7 32. Rxf6 Nxc5+ 33. dxc5+ Ke7 34. Rf7+ Ke6 35. Re1+ Kd5 36. Re5# 1-0

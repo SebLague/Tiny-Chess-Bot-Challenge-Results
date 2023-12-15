@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "20"]
+[White "NotQuiteRandomGamblerAndPruner (by: Taco Olmer)"]
+[Black "Super-Centre (by: Lev and Yoaz)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 c6 2. Qf3 e6 3. Qg3 f6 4. Nc3 d5 5. Bd3 Nd7 6. Bxh7 Ne7 7. Qh3 Nc5 8. Qh5+ g6 9. Bxg6+ Nxg6 10. Qxg6+ Ke7 11. d4 Ne4 12. Nxe4 dxe4 13. Bd2 Qd5 14. Bb4+ Kd7 15. Qf7+ Be7 16. Qxe7# 1-0

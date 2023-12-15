@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "34"]
+[White "Greedy-Dumb-Bot (by: TrangML)"]
+[Black "broken bot (by: Raj Gaurav)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. c3 h5 2. e3 g5 3. Be2 f5 4. Kf1 e5 5. Bxh5+ Rxh5 6. Qxh5+ Ke7 7. Qe8+ Qxe8 8. Nh3 d5 9. Rg1 c5 10. g4 fxg4 11. Rxg4 b5 12. Rxg5 a5 13. Rxg8 e4 14. Rg4 d4 15. f3 dxc3 16. Nxc3 exf3 17. Nd5+ Kd8 18. Rb1 c4 19. Nc3 b4 20. Ng5 bxc3 21. dxc3 a4 22. Bd2 a3 23. h3 axb2 24. a4 f2 25. Be1 fxe1=B 26. Rxb2 Nd7 27. Rbg2 Nb8 28. e4 Nd7 29. Rb2 Nb8 30. Rbg2 Nd7 31. Rb2 Nb8 32. Rbg2 1/2-1/2

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "42"]
+[White "Sven (by: Theodor)"]
+[Black "King Gᴀᴍʙᴏᴛ Ⅳ (by: ToTheAnd (aka toanth))"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Nc3 e5 3. Nf3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. e5 Nd5 8. Qg4 Kf8 9. Qg3 d6 10. a3 Bxc3+ 11. bxc3 dxe5 12. Qxe5 f6 13. Qg3 Kf7 14. c4 Re8+ 15. Be2 Qe7 16. O-O Qxe2 17. Qh4 Ba6 18. f3 Qxc4 19. Qxc4 Bxc4 20. Rd1 Re2 21. Bd2 Rb8 22. Rac1 Rb2 23. a4 Kg6 24. Kh1 Kh5 25. Kg1 f5 26. g3 Ra2 27. a5 Ra3 28. f4 Rf3 29. Ra1 Rff2 30. g4+ fxg4 31. Ra4 Rg2+ 32. Kh1 Rxh2+ 33. Kg1 Reg2# 0-1

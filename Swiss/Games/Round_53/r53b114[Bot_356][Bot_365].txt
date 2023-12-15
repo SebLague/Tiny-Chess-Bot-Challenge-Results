@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "52"]
+[White "AlaskaBot (by: Arttu Halonen)"]
+[Black "KU_AI_BOT (by: Daniel Johnson)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 e5 2. Nxe5 Qg5 3. f4 Qxf4 4. d4 Qh4+ 5. g3 Qe4 6. Bg2 Qxg2 7. e4 Qxh1+ 8. Kd2 Qxh2+ 9. Qe2 Qxg3 10. c4 Nc6 11. d5 Bb4+ 12. Nc3 Nxe5 13. a4 Nf6 14. a5 Nf3+ 15. Kd1 Qg1+ 16. Kc2 Nd4+ 17. Kb1 Nxe2 18. Nxe2 Qg6 19. Nd4 Qxe4+ 20. Nc2 Ng4 21. Bf4 d6 22. b3 Bf5 23. Ra2 Qxf4 24. a6 Bc3 25. Ra3 Bxc2+ 26. Kxc2 Qd4 27. b4 Qd2+ 28. Kb3 Qb2+ 29. Ka4 Qxb4# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "52"]
+[White "Game Tech Explained Bot (by: Game Tech Explained)"]
+[Black "Kinglet (by: Skolin + World + Abyss)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. e3 d5 3. Nc3 g6 4. Nf3 Bg7 5. Bd3 Nc6 6. O-O O-O 7. Ne5 Nxe5 8. dxe5 Nd7 9. f4 Nc5 10. Be2 c6 11. b4 Ne6 12. b5 f6 13. bxc6 bxc6 14. exf6 Rxf6 15. Bf3 Rxf4 16. Bd2 Rc4 17. Qe1 d4 18. exd4 Qxd4+ 19. Rf2 Rxc3 20. Bxc3 Qxc3 21. Qxc3 Bxc3 22. Rb1 Nd4 23. Be4 Ba6 24. a4 Rd8 25. g4 c5 26. h4 Ne2+ 27. Kg2 Bd4 28. Rf3 Nc3 29. Re1 Nxe4 30. Rxe4 e5 31. Rxd4 Rxd4 32. Kg3 Bc8 33. g5 Rxa4 34. Re3 Rc4 35. Rxe5 Kf7 36. Kf2 Rxc2+ 37. Ke3 Rc4 38. Kd3 Be6 39. Re4 Rxe4 40. Kxe4 a5 41. Kd3 a4 42. Kc2 a3 43. Kb1 c4 44. Ka2 c3+ 45. Kxa3 Ke7 46. Kb4 c2 47. Kc3 c1=Q+ 48. Kd3 Bf5+ 49. Ke2 Qc3 50. h5 Bg4+ 51. Kf1 Qf3+ 52. Kg1 Bh3 53. hxg6 Qg2# 0-1

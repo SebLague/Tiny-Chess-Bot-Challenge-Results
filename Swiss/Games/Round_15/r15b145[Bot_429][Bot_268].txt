@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "14"]
+[White "LesMoutons (by: Beaud Rémi and Mechulam Antoine)"]
+[Black "Captain Botvious (by: Selim Sheta)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 e5 4. Nxe5 f5 5. Ng3 f4 6. Nh5 Bb4 7. Nxg7+ Ke7 8. Nh5 Be6 9. Nxf4 Bc8 10. Nf3 Na6 11. e4 dxe3 12. Qe2 Nc5 13. Qxe3+ Kd6 14. Qd4+ Ke7 15. Qxh8 Bxd2+ 16. Bxd2 Nd3+ 17. Bxd3 Bd7 18. Qxh7+ Kd6 19. Bb4+ Kc6 20. Qe4+ Kb6 21. Nd5+ Kc6 22. Qc4# 1-0

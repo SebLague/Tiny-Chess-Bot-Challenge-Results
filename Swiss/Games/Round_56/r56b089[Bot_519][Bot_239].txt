@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "55"]
+[White "BasicAlphaBeta (by: ThonyDragon)"]
+[Black "LetMeAlive (by: MrQui)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c4 h5 2. d4 c6 3. Qa4 g5 4. Bxg5 Qb6 5. Qa3 Qxd4 6. Qb3 f5 7. Nh3 e5 8. f4 exf4 9. Bxf4 d5 10. Bd2 Qh4+ 11. Nf2 dxc4 12. Qe3+ Be7 13. g3 Qf6 14. Qf4 Qxb2 15. Bc3 Bb4 16. Qe5+ Kd7 17. Qxf5+ Kd8 18. Qe5 Qxa1 19. Qg5+ Ke8 20. Qe5+ Kf7 21. Qg7+ Ke8 22. Qe5+ Be6 23. Qxe6+ Ne7 24. Qe4 Bxc3+ 25. Kd1 b5 26. Kc1 Bb2+ 27. Kd1 Qxa2 28. e3 Qb3+ 29. Qc2 Qxc2+ 30. Kxc2 Be5 31. Be2 a5 32. Kc1 c5 33. Re1 h4 34. Ng4 Ba1 35. Rf1 hxg3 36. hxg3 Ra6 37. Rg1 Rh3 38. Na3 Rb6 39. e4 Kf8 40. Ne3 Rh7 41. Kc2 Rh2 42. Re1 Re6 43. Ng4 Rg2 44. e5 Bxe5 45. Nxe5 Rxe5 46. Rf1+ Kg8 47. Nxb5 Rgxe2+ 48. Kb1 Re1+ 49. Rxe1 Rxe1+ 50. Ka2 Re2+ 51. Ka3 Re3+ 52. Ka4 Rxg3 53. Na3 Rb3 54. Nc2 Nd5 55. Nb4 Rxb4+ 56. Ka3 Rb3+ 57. Ka4 Nc3+ 58. Kxa5 Rb5# 0-1

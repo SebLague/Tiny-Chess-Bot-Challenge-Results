@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "nadjBot (by: Arman N)"]
+[Black "The Soggy Biscuit (by: Brandon Curington)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Na3 f5 2. Rb1 e5 3. Ra1 Bc5 4. Rb1 Bxf2+ 5. Kxf2 Qh4+ 6. Ke3 Qe4+ 7. Kf2 Qd4+ 8. Ke1 Qh4+ 9. g3 Qxg3+ 10. hxg3 e4 11. Rxh7 c5 12. Rxh8 d5 13. Rxg8+ Ke7 14. Rxc8 Ke6 15. Rxb8 Ke5 16. Rxa8 Kd6 17. Rxa7 Ke5 18. Rxb7 Kd6 19. Rxg7 Ke5 20. Ra1 Kd6 21. Rb1 Ke5 22. Ra1 Kd6 23. Rb1 1/2-1/2

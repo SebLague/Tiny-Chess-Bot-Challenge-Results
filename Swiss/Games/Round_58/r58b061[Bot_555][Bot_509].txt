@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "57"]
+[White "Guppy (by: Rowburt)"]
+[Black "MapBot (by: Map)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. d4 Nf6 3. d5 Ne5 4. f4 Ng6 5. f5 Ne5 6. Qd4 d6 7. Qa4+ Bd7 8. Qb4 c5 9. Qxb7 Rb8 10. Qxa7 Nxe4 11. Nf3 Ra8 12. Qb7 Rb8 13. Qa6 Ra8 14. Qe2 Bxf5 15. Nh4 e6 16. Nxf5 exf5 17. Kd1 Qh4 18. Be3 f4 19. Bg1 Ng3 20. Bf2 Be7 21. Qb5+ Kf8 22. Be2 Kg8 23. Qb3 Ng4 24. Bxg3 fxg3 25. Qb7 Re8 26. Qb5 Nf2+ 27. Ke1 Rd8 28. hxg3 Qxg3 29. Rf1 Ng4+ 30. Kd1 Ne3+ 31. Kd2 Bg5 32. Rf3 Nxd5+ 33. Kd1 Ne3+ 34. Kd2 Nxg2+ 35. Kc3 Qe1+ 36. Kb3 d5 37. Qb7 c4+ 38. Ka4 f6 39. Qe7 Ra8+ 40. Kb5 Qa5+ 41. Kc6 Ra6+ 42. Kd7 Qb5+ 43. Kd8 Qb8+ 44. Kd7 Qb7+ 45. Ke8 Ra8+ 46. Qd8 Qf7# 0-1

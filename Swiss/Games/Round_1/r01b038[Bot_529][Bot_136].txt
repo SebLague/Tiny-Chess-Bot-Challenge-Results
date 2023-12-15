@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "NNBot (by: Jamie Whiting)"]
+[Black "Chessy (by: SebastianB)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 g5 2. Nxg5 f6 3. e3 h5 4. Be2 h4 5. Bh5+ Rxh5 6. Qxh5# 1-0

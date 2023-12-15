@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "23"]
+[White "RedVallium (by: Piotr Bożek)"]
+[Black "Simpleton.01 (by: Bee)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. Bc4 Nxe4 3. Qh5 b5 4. Qxf7# 1-0

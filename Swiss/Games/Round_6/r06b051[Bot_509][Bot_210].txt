@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "5"]
+[White "MapBot (by: Map)"]
+[Black "mini_yoda (by: Dane Smith)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nc6 2. Nc3 b6 3. Nf3 Bb7 4. e4 g6 5. d5 Nb8 6. Bc4 a6 7. O-O b5 8. Bb3 Nf6 9. e5 Nh5 10. Be3 f5 11. e6 dxe6 12. dxe6 Qxd1 13. Raxd1 Bg7 14. Ng5 Nc6 15. Nf7 O-O 16. Rd7 f4 17. Bc5 f3 18. gxf3 Nf4 19. Rxc7 Bxc3 20. bxc3 Na5 21. Be3 Ne2+ 22. Kg2 Rfc8 23. Rxe7 Rxc3 24. Re1 Kf8 25. Rxb7 Nxb7 26. Rxe2 Nc5 27. Bxc5+ Rxc5 28. e7+ Ke8 29. Nd6+ Kd7 30. e8=Q+ Rxe8 31. Nxe8 Rg5+ 32. Kf1 Rc5 33. Nf6+ Kc7 34. Re7+ Kc8 35. Be6+ Kb8 36. Nd7+ Kc7 37. Nxc5+ Kd6 38. Rxh7 Kxc5 39. Ra7 Kd4 40. Rxa6 g5 41. Ra5 Kc5 42. Bd7 Kd6 43. Bxb5 Kc5 44. Bd3+ Kb4 45. Rxg5 Ka3 46. Ra5+ Kb2 47. Ke2 Kc3 48. Ke3 Kb2 49. a4 Ka1 50. Rb5 Ka2 51. a5 Ka1 52. a6 Ka2 53. a7 Ka1 54. a8=Q# 1-0

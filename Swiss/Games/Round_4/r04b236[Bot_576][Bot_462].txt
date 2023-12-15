@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "3"]
+[White "EvilerBot (by: Noah)"]
+[Black "quick and dirty (by: Rafael)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f3 Nf6 2. Kf2 e6 3. Ke1 Bd6 4. d4 Bb4+ 5. Nd2 g6 6. d5 Nxd5 7. b3 Nc3 8. Ba3 Bxa3 9. Nc4 Nxd1 10. Kxd1 Bc5 11. b4 Bd4 12. a4 Bxa1 13. g4 Qh4 14. Nb6 Bc3 15. Nxa8 Qe1# 0-1

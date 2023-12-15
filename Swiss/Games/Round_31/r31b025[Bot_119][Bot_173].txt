@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "30"]
+[White "kesslbot (by: kesslwovv)"]
+[Black "TunaTactician (by: Ben)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. e5 Qe7 8. Qe2 Nd5 9. Bd2 Bb7 10. a4 O-O-O 11. a5 a6 12. Nxd5 Bxd2+ 13. Kxd2 cxd5 14. Qe3 Rhe8 15. Re1 Qb4+ 16. Qc3 Qf4+ 17. Qe3 Qa4 18. Qc3 f6 19. exf6 Qf4+ 20. Kd1 d4 21. Qd2 Rxe1+ 22. Kxe1 Qxf6 23. f3 Qh4+ 24. Kd1 Kb8 25. Qb4 Qf6 26. Bd3 Kc8 27. Re1 Qg5 28. Bf1 Qd5 29. Kc1 h6 30. Rd1 c5 31. Qb6 Qc6 32. Re1 Qxb6 33. axb6 d5 34. Re6 Rf8 35. b3 Rf6 36. Re7 g5 37. Rc7+ Kb8 38. Rxc5 Rxb6 39. Ra5 Rf6 40. Be2 Kc7 41. Ra4 Bc6 42. Rxd4 Kb6 43. b4 a5 44. bxa5+ Kxa5 45. h4 Rf4 46. Rxf4 gxf4 47. Kd2 Kb4 48. Bd3 Kc5 49. Kc3 Be8 50. Bf1 d4+ 51. Kd2 Bd7 52. Bd3 Be8 53. c3 h5 54. Ba6 Bg6 55. Be2 Kd5 56. Bb5 Kc5 57. Ba6 Kd5 58. cxd4 Kxd4 59. Bb5 Kc5 60. Ba4 Kb4 61. Bd7 Kc4 62. Be6+ Kd4 63. Ke2 Kc5 64. Kf2 Kd6 65. Bb3 Be8 66. g4 fxg3+ 67. Kg2 Ke5 68. Kxg3 Bg6 69. Ba2 Be8 70. Bb1 Bf7 71. Bc2 Be8 72. Bd3 Kd4 73. Be4 Ke3 74. Bd5 Kd4 75. Be6 Ke3 76. Bb3 Bg6 77. Ba4 Bf7 78. Bd7 Bg6 79. Bb5 Bf7 80. Bc6 Bg6 81. Bd5 Kd4 82. Be6 Ke3 83. Ba2 Be8 84. Bg8 Bg6 85. Bb3 Be8 86. f4 Kd4 87. Bc2 Bd7 88. Bg6 Bg4 89. Kf2 Bd1 90. Bf5 Ba4 91. Bb1 1-0

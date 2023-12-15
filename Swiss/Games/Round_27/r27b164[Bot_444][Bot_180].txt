@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "26"]
+[White "Super-Centre (by: Lev and Yoaz)"]
+[Black "Sørensen's Minimax (by: Victor)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e6 2. Bd3 Qh4 3. g3 Qg5 4. c4 Bb4 5. f4 Qc5 6. Qe2 Qc6 7. Nf3 h5 8. O-O Qc5 9. a3 Qa5 10. a4 Nf6 11. Qd1 Nc6 12. Nd4 Nxd4 13. exd4 h4 14. gxh4 Qh5 15. Qxh5 Rxh5 16. f5 Rxh4 17. fxe6 dxe6 18. c5 Nd5 19. Bb5+ Bd7 20. Bxd7+ Kxd7 21. Rxf7+ Ne7 22. d3 Rxd4 23. Rxg7 Rxd3 24. c6+ Kxc6 25. Kg2 Nf5 26. Rg4 Kc5 27. Nc3 Bxc3 28. bxc3 Rxc3 29. Ba3+ Kc6 30. Re1 Rxa3 31. Rxe6+ Kd5 32. Rge4 Rg8+ 33. Kf2 Ra2+ 34. Re2 Rxe2+ 35. Rxe2 Rf8 36. Kg1 Nd4 37. Rg2 Nf3+ 38. Kh1 Re8 39. Rb2 Re1+ 40. Kg2 Nd4 41. a5 Re2+ 42. Rxe2 Nxe2 43. Kf2 Nc3 44. Kf1 Kc4 45. h4 Kb4 46. h5 Kxa5 47. h6 Nd5 48. h7 Kb4 49. h8=Q Ne3+ 50. Kg1 Kb3 51. Qh3 Ka2 52. Qxe3 a6 53. Qa7 Kb3 54. Qxb7+ Ka2 55. Qxc7 Kb2 56. Qb6+ Kc1 57. Qxa6 Kd2 58. Qc4 Kd1 59. Kf1 Kd2 60. Kg2 Kd1 61. Kf1 Kd2 62. Qb3 Kc1 63. Qc3+ Kb1 64. Qa3 Kc2 65. Ke2 Kb1 66. Qc3 Ka2 67. Qb4 Ka1 68. Qa3+ Kb1 69. Ke3 Kc2 70. Qa2+ Kc3 71. Qa4 Kb2 72. Kd3 Kc1 73. Kc3 Kb1 74. Qa5 Kc1 75. Qa1# 1-0

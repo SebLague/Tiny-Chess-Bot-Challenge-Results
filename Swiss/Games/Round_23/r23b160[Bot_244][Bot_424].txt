@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "22"]
+[White "KnightToE4 (by: Tree)"]
+[Black "ILVM (by: Wincent01)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. g4 a5 2. g5 e5 3. h4 b5 4. Bg2 d5 5. Nf3 e4 6. Nd4 b4 7. O-O c5 8. Nb5 Qd7 9. a4 f5 10. h5 d4 11. Re1 g6 12. h6 Ke7 13. b3 Ke6 14. Bb2 Ke7 15. d3 c4 16. Bxd4 Bg7 17. hxg7 Qxd4 18. Nxd4 Nc6 19. Kf1 Nxd4 20. Kg1 Nxe2+ 21. Kf1 Ng3+ 22. Kg1 Ne2+ 23. Kf1 Ng3+ 24. Kg1 Ne2+ 1/2-1/2

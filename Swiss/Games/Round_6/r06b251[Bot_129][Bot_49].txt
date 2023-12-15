@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "5"]
+[White "Chemibot (by: Mike Chemi)"]
+[Black "CheatingBot (by: wischi)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g4 Na6 2. Bg2 Rb8 3. b3 Ra8 4. h4 Rb8 5. Bd5 Ra8 6. Bxf7+ Kxf7 7. e4 Ke6 8. g5 Ke5 9. f4+ Kd4 10. c3+ Kd3 11. Qe2+ Kc2 12. Na3# 1-0

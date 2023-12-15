@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "41"]
+[White "Elf-1200 (by: Elliot Throop)"]
+[Black "AIsaac (by: Isaac Ellwood)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. Nf3 h5 2. d4 f5 3. Nc3 d5 4. Bf4 a5 5. Qd3 g6 6. Qb5+ c6 7. Qc5 e6 8. Bg5 b5 9. Qxf8+ Kxf8 10. Bxd8 h4 11. e3 b4 12. Bc7 bxc3 13. Bd6+ Ne7 14. Bd3 cxb2 15. Rb1 g5 16. Rxb2 g4 17. Be5 Rh7 18. Ng5 Rh6 19. Bxb8 Rh5 20. f4 gxf3 21. Nxf3 c5 22. c3 cxd4 23. Nxd4 h3 24. g4 fxg4 25. O-O Nf5 26. Nxf5 exf5 27. Bd6+ Kg8 28. Kh1 a4 29. Bb5 a3 30. Rb4 Bb7 31. Bd3 Bc8 32. Rfb1 Bd7 33. Rf4 Be8 34. Bxf5 g3 35. Rg4+ Kf7 36. Rb7+ Kf6 37. Bd3 g2+ 38. Kg1 Bf7 39. Rf4+ Ke6 40. Bb8 d4 41. Bc4+ Rd5 42. Rfxf7 Rxb8 43. Bxd5+ Kxd5 44. Rf5+ Ke6 45. Rxb8 Kxf5 46. cxd4 Kg6 47. e4 Kh7 48. Rb3 Kh8 49. Rxa3 Kg8 0-1

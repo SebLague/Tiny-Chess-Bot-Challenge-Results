@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "61"]
+[White "Malina (by: Tadeam)"]
+[Black "CopyCat (by: ADI)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 a5 2. g4 b5 3. f4 c5 4. e4 d5 5. exd5 Bxg4 6. Nf3 Nc6 7. dxc6 Bxf3 8. Qxf3 Qxd2+ 9. Nxd2 Rc8 10. c4 f5 11. cxb5 Rxc6 12. bxc6 h6 13. b4 g5 14. fxg5 cxb4 15. gxh6 Nxh6 16. a4 b3 17. h5 Ng4 18. c7 Rxh5 19. Ne4 fxe4 20. c8=Q# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "37"]
+[White "simpleval (portmonteau of simple eval) (by: hokurou)"]
+[Black "OneHundredAndEighty (by: Tom R.)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. h4 Nc6 2. g4 Nf6 3. g5 Rb8 4. gxf6 gxf6 5. f4 Rg8 6. Nf3 Rg4 7. f5 Re4 8. h5 a6 9. d3 b6 10. dxe4 Rb7 11. c4 Bg7 12. a4 Bf8 13. e3 h6 14. b3 a5 15. Nh4 Ne5 16. Ng2 c6 17. Nh4 Rc7 18. Ng2 Ba6 19. Nh4 Bb7 20. Ng2 Ba6 21. Nh4 Bc8 22. Ng2 Bb7 23. Nh4 Bc8 1/2-1/2

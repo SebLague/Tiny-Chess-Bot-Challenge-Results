@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "6"]
+[White "timecat-mini (by: Gourab Ghosh)"]
+[Black "LynchBot (by: Gary Lynch)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e6 2. Nf3 d5 3. Bb5+ c6 4. Bd3 dxe4 5. Bxe4 Nf6 6. Nc3 Bb4 7. Qe2 Nbd7 8. d4 Nxe4 9. Qxe4 Nf6 10. Qd3 O-O 11. Be3 Nd5 12. Ng5 f5 13. O-O Nxe3 14. Qxe3 f4 15. Nxe6 fxe3 16. Nxd8 exf2+ 17. Rxf2 Rxd8 18. Re1 h6 19. a3 Ba5 20. Re4 Bb6 21. Rd2 Bf5 22. Rf4 g6 23. b4 Rac8 24. Nd1 Re8 25. c3 a5 26. Rf1 Bc7 27. c4 Rcd8 28. Nc3 Re3 29. Ne2 Rxa3 30. bxa5 Bxa5 31. Rb2 Bd3 32. Rf6 Re8 33. Kf2 Ra1 34. Nf4 Bc3 35. Nxd3 Bxd4+ 36. Kf3 Bxf6 37. Re2 Rf1+ 38. Rf2 Rd1 39. Nf4 g5 40. Nh5 Bd4 41. g4 Re3+ 42. Kg2 Ra3 43. h3 Bxf2 44. Nf6+ Kf7 45. Ne4 Bh4 46. c5 Ra2+ 47. Nd2 Rdxd2+ 48. Kf3 Ra3+ 49. Ke4 Kg6 50. Ke5 Re3# 0-1

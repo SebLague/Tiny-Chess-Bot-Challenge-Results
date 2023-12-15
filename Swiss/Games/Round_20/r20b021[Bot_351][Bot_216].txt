@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "19"]
+[White "Capybara (by: Matěj Fencl)"]
+[Black "Average Chess bot (by: )"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. d4 e6 3. Nf3 Nf6 4. e5 Ne4 5. Bd3 d5 6. Nbd2 Nxd2 7. Bxd2 f6 8. O-O Be7 9. Qe2 fxe5 10. dxe5 Bc5 11. c3 Kd7 12. b4 Bb6 13. Ng5 Qg8 14. b5 Ne7 15. a4 h6 16. a5 Bc5 17. Nf3 Nf5 18. c4 Qf7 19. cxd5 exd5 20. Rac1 Ba3 21. g4 Ne7 22. Nd4 Kd8 23. Rc2 Ng6 24. e6 Qf6 25. Rd1 Nf4 26. Bxf4 Qxf4 27. Bf5 Ke7 28. Nf3 Rd8 29. Rc3 Bb4 30. Ne5 Ke8 31. Rxc7 Rd6 32. Bg6+ Kd8 33. Rf7 Qg5 34. Nc6+ Rxc6 35. Rxd5+ Qxd5 36. e7+ Kc7 37. e8=Q+ Kb8 38. bxc6 Qxf7 39. Bxf7 Bxa5 40. c7+ Bxc7 41. Qxc8+ Kxc8 42. Qe6+ Kb8 43. Qe8+ Bd8 44. Qxd8# 1-0

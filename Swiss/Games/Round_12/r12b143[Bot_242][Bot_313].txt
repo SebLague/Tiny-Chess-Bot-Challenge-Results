@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "11"]
+[White "SlothBot (by: 0xFF)"]
+[Black "Minerva (by: Leo)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. Nf3 e6 2. Nc3 Qf6 3. d4 Bb4 4. Bg5 Bxc3+ 5. bxc3 Qf5 6. e3 Qa5 7. Qd2 h6 8. Bf4 Nf6 9. Bd3 O-O 10. O-O-O Qxa2 11. Qe1 e5 12. dxe5 Nh5 13. Bf5 Nxf4 14. exf4 g6 15. Be4 d5 16. Bxd5 Qa4 17. Kb1 Qb5+ 18. Bb3 Bg4 19. Rd5 Qb6 20. Nd2 Bf5 21. Qe2 Qc6 22. Ne4 Bxe4 23. Qxe4 Kg7 24. c4 a5 25. f5 Kg8 26. f6 Ra6 27. c5 a4 28. Bc4 a3 29. Bxa6 bxa6 30. Ka2 Qe6 31. Kxa3 Nc6 32. Re1 Rb8 33. c3 Rb5 34. h3 Ra5+ 35. Kb2 Nxe5 36. Qxe5 Rb5+ 37. Kc1 Qxe5 38. Rexe5 Kh7 39. Re7 g5 40. Rxf7+ Kg6 41. Rxc7 Kxf6 0-1

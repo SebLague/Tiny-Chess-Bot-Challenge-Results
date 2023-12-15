@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "58"]
+[White "StallerBot (by: Ean)"]
+[Black "MaterFromRadiatorSprings (by: Markus Grand Petersen)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d3 e6 2. Bg5 Bb4+ 3. Nd2 Qxg5 4. c3 Be7 5. h4 Qe5 6. Nb1 g5 7. g3 gxh4 8. gxh4 Qf5 9. e3 Qg6 10. Nd2 Bxh4 11. Ngf3 Be7 12. b4 Qf6 13. Rc1 Nc6 14. a3 Qf5 15. e4 Qf4 16. d4 Kd8 17. Bd3 f5 18. Qc2 fxe4 19. Bxe4 b6 20. Rxh7 Rxh7 21. Bxh7 Nf6 22. Bd3 Qh6 23. Be4 Nxe4 24. Qxe4 Qh1+ 25. Nf1 Qxf3 26. Qxf3 Bf8 27. Qxf8# 1-0

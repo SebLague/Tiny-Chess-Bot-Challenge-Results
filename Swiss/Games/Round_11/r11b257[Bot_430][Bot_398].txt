@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "10"]
+[White "KnightMare (by: Dom)"]
+[Black "ChessGPT (by: DeepGoldenCrown)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. c3 h5 2. b3 g6 3. g3 Nf6 4. f3 Nh7 5. g4 hxg4 6. fxg4 Ng5 7. d3 Rh4 8. Bxg5 Rxg4 9. Bc1 Rh4 10. Kd2 Rf4 11. Ke1 Rg4 12. Kf2 Rh4 13. Kg3 Rh5 14. Kg4 Ra5 15. Kg3 Rb5 16. a4 Ra5 17. b4 Rd5 18. c4 Rd4 19. Bb2 Rd6 20. Bc1 Rd4 21. Bb2 Rd6 22. Bc1 Rd4 1/2-1/2

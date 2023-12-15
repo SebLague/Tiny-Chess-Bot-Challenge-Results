@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "25"]
+[White "Asymptotically optimal (by: Graham Gayler)"]
+[Black "Mirror Bot (by: JuNi)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Na3 Na6 2. h4 h5 3. Rh2 Rh7 4. Rh3 Rh6 5. Re3 Re6 6. Rb1 Rb8 7. Rxe6 fxe6 8. Ra1 Ra8 9. c3 c6 10. Rb1 Rb8 11. Qc2 Qc7 12. d3 d6 13. Kd1 Kd8 14. Ke1 Ke8 15. Kd1 Kd8 16. Ke1 Ke8 1/2-1/2

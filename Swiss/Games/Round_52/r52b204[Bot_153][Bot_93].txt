@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "51"]
+[White "WhateverBot (by: Alec Holden)"]
+[Black "AIsaac (by: Isaac Ellwood)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 h5 2. e3 g5 3. Bb5 f5 4. d3 e5 5. Bd2 c5 6. Nf3 Qb6 7. Nxg5 a5 8. O-O h4 9. Bc3 f4 10. Bxe5 Nf6 11. Bxf4 c4 12. dxc4 Bxa3 13. bxa3 a4 14. Bxb8 Rxb8 15. Bxa4 Qa5 16. Nh3 Qxa4 17. Nf4 Qxc4 18. Ng6 Rg8 19. Nf4 Ke7 20. g3 Kf7 21. Kg2 Ke7 22. Qd3 Qc6+ 23. Kh3 hxg3 24. fxg3 Rh8+ 25. Qh7+ Rxh7+ 26. Nh5 Rxh5# 0-1

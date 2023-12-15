@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "8"]
+[White "Buildabot (by: Buildasaurus)"]
+[Black "The Seeker (by: Lucas Pellegrinelli)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 c6 2. e4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg4 6. Be2 Qa5 7. O-O Nf6 8. d4 Nh5 9. Ne5 Nxg3 10. fxg3 Bxe2 11. Qxe2 Qd5 12. Nxf7 Rg8 13. c3 g6 14. Ng5 Bg7 15. Re1 Bxd4+ 16. cxd4 Qxd4+ 17. Kh1 e5 18. Nf3 Qd5 19. Nxe5 Qb5 20. Nc4+ Kd8 21. Qe7+ Kc8 22. Nd6# 1-0

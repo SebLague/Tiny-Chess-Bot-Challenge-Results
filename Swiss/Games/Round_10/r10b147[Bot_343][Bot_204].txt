@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "9"]
+[White "Freedom_Fighter v.83 (by: Kongo Landwalker)"]
+[Black "Blindo (by: MS)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e5 2. Qh5 Nf6 3. Qxe5+ Be7 4. Bc4 Nc6 5. Bxf7+ Kxf7 6. Qf5 Nb4 7. Ke2 Bd6 8. Nf3 Re8 9. Ng5+ Kg8 10. Ne6 Qe7 11. Nc3 dxe6 12. Qg5 Nxc2 13. d3 Nxa1 14. h4 Bb4 15. Bd2 Bxc3 16. Bxc3 Rd8 17. Rxa1 Rd6 18. Rd1 Rc6 19. Rc1 Ra6 20. Bxf6 Qf8 21. Rxc7 Rxa2 22. Rxg7+ Kh8 23. Rg8# 1-0

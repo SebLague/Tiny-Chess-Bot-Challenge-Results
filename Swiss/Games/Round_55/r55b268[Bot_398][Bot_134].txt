@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "54"]
+[White "ChessGPT (by: DeepGoldenCrown)"]
+[Black "crapus bottus (by: h1387xd)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 g5 2. Ne2 Nh6 3. Ng3 f5 4. Nxf5 c5 5. Nxh6 Qc7 6. b3 Qf4 7. exf4 Na6 8. Bxa6 bxa6 9. fxg5 Rb8 10. c3 Rxb3 11. Qxb3 Kd8 12. Qa4 Bg7 13. Kd1 Bxc3 14. Nxc3 Re8 15. Qa5# 1-0

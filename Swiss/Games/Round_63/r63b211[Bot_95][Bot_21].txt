@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "62"]
+[White "Two Day Bot (by: )"]
+[Black "At least 2 IQ (by: Evan Finnigan)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 f5 2. h4 a5 3. b3 b5 4. Nd4 d5 5. Nxb5 c6 6. N5a3 Qc7 7. d4 g6 8. Bg5 e6 9. b4 Bxb4+ 10. c3 Bxa3 11. Nxa3 Ba6 12. Qb3 Nd7 13. Kd2 Qd6 14. Nb1 c5 15. dxc5 Qxc5 16. Kc2 Qxf2 17. Kc1 Qe1+ 18. Kb2 Nc5 19. Qc2 Rb8+ 20. Ka3 Rb6 21. Rg1 Bc4 22. Bc1 Qxh4 23. e4 Bxf1 24. Rxf1 fxe4 25. Rf8+ Kxf8 26. Bh6+ Nxh6 27. g4 Nxg4 28. c4 Qh3+ 29. Nc3 dxc4 30. Rg1 Ne3 31. Qf2+ Kg8 32. Nb5 Nc2+ 33. Kb2 Rxb5+ 34. Kxc2 Qd3+ 35. Kc1 Rb1# 0-1

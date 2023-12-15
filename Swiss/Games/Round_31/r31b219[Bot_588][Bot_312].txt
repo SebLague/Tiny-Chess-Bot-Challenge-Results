@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "30"]
+[White "Mobilibot (by: Gabriel N.)"]
+[Black "TBbot (by: TBMPFW)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Qh5 Qf6 3. Bb5 Qxf2+ 4. Kxf2 Nc6 5. Qxe5+ Nxe5 6. Nf3 Ng6 7. d4 Nf6 8. Nc3 c6 9. Bf4 cxb5 10. Bd6 Bxd6 11. Ne5 Nxe5 12. dxe5 h5 13. exd6 a5 14. e5 Ng4+ 15. Ke2 f5 16. Nd5 Nxe5 17. Nc7+ Kf7 18. h4 Rb8 19. Rh3 Ng6 20. Rd1 b6 21. Re3 Ne5 22. Rxe5 Kg6 23. Re6+ dxe6 24. d7 Ba6 25. d8=Q Rbxd8 26. Nxe6 Rhg8 27. Nxd8 f4 28. Rd6+ Kh7 29. Rd7 Bc8 30. Ne6 Bxd7 31. Ng5+ Kh8 32. Nf7+ Kh7 33. Ne5 f3+ 34. Ke3 fxg2 35. Nxd7 g1=Q+ 36. Ke4 Qg4+ 37. Ke3 Rh8 38. Ne5 Qf5 39. Kd4 g5 40. hxg5 Qe4+ 41. Kxe4 h4 42. g6+ Kg8 43. Nd7 a4 44. a3 Kg7 45. Kf5 Rh5+ 46. Ke4 Kh8 47. Ne5 Kg7 48. c3 Rxe5+ 49. Kxe5 Kxg6 50. Ke6 h3 51. Ke5 h2 52. Ke4 h1=Q+ 53. Ke3 b4 54. Kd3 Qa8 55. Kd2 Qb7 56. cxb4 b5 57. b3 axb3 58. a4 bxa4 59. Ke2 b2 60. b5 b1=Q 61. Kf2 Q1xb5 62. Kg3 Q5b6 63. Kg4 Qg1+ 64. Kf4 Qg5# 0-1

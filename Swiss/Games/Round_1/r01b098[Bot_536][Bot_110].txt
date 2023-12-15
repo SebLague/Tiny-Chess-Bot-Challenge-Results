@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "SSComp1 (by: ShadowStar019)"]
+[Black "EvilMirror (by: Hagan Gray)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 d6 2. Qf3 Qd7 3. Nc3 Nf6 4. Bb5 Qxb5 5. Nxb5 Ng4 6. Nxc7+ Kd8 7. Nxa8 Nxf2 8. Kxf2 Be6 9. Qxb7 Bxa2 10. Qc7+ Ke8 11. Qc8# 1-0

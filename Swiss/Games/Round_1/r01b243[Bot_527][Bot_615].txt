@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "Stickleback (by: Brent Mardell)"]
+[Black "Anty (by: Emanuele Sorce)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 d5 2. Nf3 e5 3. dxe5 Bg4 4. Qxd5 Qg5 5. Nxg5 f6 6. Ne6 Bxe6 7. Qxe6+ Ne7 8. Nc3 c5 9. exf6 gxf6 10. Qxf6 Rg8 11. e4 Nd5 12. Nxd5 Nc6 13. Qxf8+ Kxf8 14. Bb5 h5 15. Bxc6 bxc6 16. Ne3 Rxg2 17. Nxg2 Kf7 18. Bg5 Rg8 19. Ne3 Rxg5 20. e5 Kg8 21. e6 Rg1+ 22. Rxg1+ Kh8 23. e7 a6 24. e8=Q+ Kh7 25. Qxh5# 1-0

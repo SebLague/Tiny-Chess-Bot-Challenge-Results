@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "16"]
+[White "BIG CHUMPER V6.0 (by: Pedro Contipelli)"]
+[Black "Ben's Bot (by: Ben Clingenpeel)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 d5 2. d4 Bf5 3. Nf3 Qd6 4. h4 Nc6 5. e3 O-O-O 6. h5 Kb8 7. Nb5 Qd7 8. Ng5 e6 9. g4 h6 10. gxf5 hxg5 11. fxe6 Qxe6 12. a4 g4 13. f3 gxf3 14. Qxf3 a6 15. Nc3 Nxd4 16. Qf2 Nf6 17. Rh4 Ng4 18. Rxg4 Qxg4 19. exd4 Qxh5 20. a5 f5 21. Bf4 Be7 22. b3 Bh4 23. Bg3 Bxg3 24. Qxg3 g5 25. b4 f4 26. Qf2 f3 27. O-O-O g4 28. Bd3 Qh2 29. Rd2 Qd6 30. Na2 Qf4 31. c3 Rh1+ 32. Kb2 g3 33. Kb3 gxf2 34. Rxf2 Qe3 35. Rf1 Rxf1 36. Bxf1 Qd2 37. Ka3 Rh8 38. b5 Rh2 39. Nb4 Qxc3+ 40. Ka4 Rb2 41. Nxa6+ bxa6 42. bxa6 Qb4# 0-1

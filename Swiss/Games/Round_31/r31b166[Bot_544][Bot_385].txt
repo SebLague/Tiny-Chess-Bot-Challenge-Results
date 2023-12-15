@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "30"]
+[White "Saint Charles Bot (by: DATA USP)"]
+[Black "3D.Opening Bot (by: Mark Grennan)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 d5 2. c4 Nc6 3. cxd5 Nf6 4. dxc6 bxc6 5. Qc2 Kd7 6. Qf5+ Kd6 7. Nc4# 1-0

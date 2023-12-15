@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "60"]
+[White "Rodders (by: Chipperphilly)"]
+[Black "Running Bot (by: Chris Pontius)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c3 d5 2. h4 Nd7 3. Nf3 c5 4. Rh2 e6 5. d4 cxd4 6. Qxd4 Qb6 7. g4 Ngf6 8. Qxb6 axb6 9. Rg2 Bd6 10. a4 e5 11. Ra2 O-O 12. Nfd2 Nc5 13. g5 Nh5 14. b3 Bf5 15. Ra3 Bxb1 16. Nxb1 Nd7 17. Ra1 g6 18. b4 b5 19. a5 b6 20. Na3 bxa5 21. Nxb5 Bxb4 22. cxb4 axb4 23. Rxa8 Rxa8 24. Rg4 Kg7 25. Rxb4 f6 26. Nc3 Ra7 27. Nxd5 fxg5 28. hxg5 Kf7 29. e4 Ra1 30. Kd1 Nc5 31. Be2 Ng7 32. Nc7 Ra7 33. Bc4+ Ke7 34. Nd5+ Kd7 35. Nb6+ Kc7 36. Bb2 Nxe4 37. Bxe5+ Kc6 38. Bxg7 Rxg7 39. f4 Kc5 40. Rb2 Kd4 41. Kc1 Rb7 42. Bg8 Rc7+ 43. Kb1 Kd3 44. Ka1 Ra7+ 45. Ba2 Nc3 46. Rg2 Kd4 47. Nc8 Ra6 48. Rc2 Kd3 49. Rh2 Ke4 50. Rf2 Ke3 51. Rb2 Ra5 52. Rc2 Kd3 53. Rg2 Ke4 54. Rf2 Ke3 55. Rb2 Ra6 56. f5 gxf5 57. Rc2 Kd3 58. Rf2 Ke3 59. Rb2 f4 60. Rh2 f3 61. Rc2 Kd3 62. Rf2 Ke3 63. Rh2 f2 64. Rh3+ Kd2 65. Kb2 Rxa2+ 66. Kb3 f1=Q 67. Rxc3 Qb5+ 68. Kxa2 Kxc3 69. Na7 Qb2# 0-1

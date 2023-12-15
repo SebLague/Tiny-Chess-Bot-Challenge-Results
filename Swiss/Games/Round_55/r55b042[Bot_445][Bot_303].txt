@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "54"]
+[White "KunoVonHagenBot (by: Jakob)"]
+[Black "Electric Shockwave Gambit (by: Valentin)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 b6 4. Bf4 Bb7 5. Bb5+ Nbd7 6. Qd3 a6 7. Ba4 b5 8. Bb3 c5 9. Qe3 cxd4 10. Bxf7+ Kxf7 11. Qxd4 e5 12. Qd2 b4 13. Nd5 Nxe4 14. Qxb4 Bxd5 15. c4 Rb8 16. Qa3 Bxc4 17. Qf3 Ndf6 18. b3 Qa5+ 19. Kd1 exf4 20. Qxf4 Rxb3 21. Nh3 Rd3+ 22. Kc2 Rd2+ 23. Kc1 Qc3+ 24. Kb1 Bd3# 0-1

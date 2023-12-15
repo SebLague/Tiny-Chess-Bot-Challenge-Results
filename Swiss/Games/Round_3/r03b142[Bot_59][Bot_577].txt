@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "Generic Chess Bot #1000000 (by: Anthony)"]
+[Black "Butter robot (by: DODIK)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Na6 2. d4 c5 3. d5 Qa5+ 4. c3 Nc7 5. e4 Kd8 6. Ne5 Ke8 7. Nxf7 Kxf7 8. Qh5+ g6 9. Qf3+ Ke8 10. d6 exd6 11. Bc4 d5 12. exd5 b5 13. d6 bxc4 14. dxc7 d5 15. Qxd5 Qxc7 16. Qxa8 Qb7 17. Qxb7 Bxb7 18. O-O a5 19. Re1+ Kd7 20. Na3 a4 21. Nxc4 Ba6 22. Ne5+ Kc7 23. Nf7 Bg7 24. Re8 Kd7 25. Ra8 Bb7 26. Ra7 Kc6 27. Nd8+ Kd5 28. Nxb7 a3 29. Rxa3 Kc6 30. Na5+ Kb5 31. Nb7 Kc6 32. Rb3 Kd5 33. Na5 h5 34. Rb6 Ne7 35. Bg5 Nf5 36. Rxg6 Bf8 37. h3 h4 38. Rf6 Ne7 39. Rxf8 Rxf8 40. Bxe7 Ra8 41. Rd1+ Ke6 42. Bd8 Kf7 43. Bc7 Ra7 44. Bb6 Ra6 45. Nc4 Rxa2 46. Bxc5 Ke6 47. Rd8 Ra1+ 48. Kh2 Kf5 49. Rf8+ Ke4 50. Bd6 Kd3 51. Rf4 Ke2 52. b4 Kd3 53. Bc5 Kxc3 54. Bd4+ Kxc4 55. Bxa1+ Kb3 56. Bg7 Ka2 57. Rxh4 Kb1 58. Rf4 Kc1 59. Rf6 Kb1 60. b5 Ka1 61. f3 Kb1 62. Kg1 Ka1 63. Bh6 Kb1 64. Bg7 Ka1 65. h4 Kb1 66. f4 Ka1 67. Bh8 Kb1 68. Re6 Kc1 69. Be5 Kb1 70. Kf1 Kc1 71. Rd6 Kb1 72. Kf2 Kc1 73. Rf6 Kb1 74. Rf5 Kc1 75. Kf1 Kd1 76. Bb8 Kd2 77. Rf6 Kd1 78. Rf7 Kd2 79. Rf6 Kd1 80. Rb6 Kd2 81. h5 Kd1 82. Rf6 Kd2 83. h6 Kd1 84. h7 Kd2 85. Rc6 Kd3 86. Bd6 Ke3 87. Bb8 Kd2 88. h8=Q Kd1 89. Qe5 Kd2 90. Rc8 Kd1 91. Qc5 Kd2 92. Be5 Kd1 93. Qb6 Kd2 94. Rc3 Kd1 95. Qd8# 1-0

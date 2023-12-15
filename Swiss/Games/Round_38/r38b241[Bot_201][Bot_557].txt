@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "37"]
+[White "charge forward v1 (by: steel chair)"]
+[Black "Achilles Random (by: Achilles)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 e6 2. g4 Qxh4 3. Rxh4 Be7 4. Rxh7 Rxh7 5. f4 Bh4# 0-1

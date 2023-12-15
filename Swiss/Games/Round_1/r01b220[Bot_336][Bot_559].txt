@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "EpsilonCheck (by: aymco)"]
+[Black "Chark Bot V2 (by: Team Chark)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. h4 e5 3. Qf3 Nd4 4. Qd3 Bc5 5. b4 Bb6 6. c3 Ne6 7. Nf3 Qf6 8. g4 Ne7 9. g5 Qf4 10. c4 Nd4 11. Bg2 Nxf3+ 12. Bxf3 Nc6 13. b5 Bd4 14. Nc3 Nb4 15. Qb1 Qxf3 16. O-O Qg3+ 17. Kh1 Qh3+ 18. Kg1 Qg4+ 19. Kh1 Qf4 20. Qxb4 Qxh4+ 21. Kg2 d6 22. Kg1 Bh3 23. Kh2 Bxf1+ 24. Kg1 Qxf2+ 25. Kh1 O-O 26. a4 Kh8 27. a5 Kg8 28. Ba3 Qf3+ 29. Kh2 Qf4+ 30. Kh1 Qg4 31. Rxf1 Qg3 32. Nd5 Qh3# 0-1

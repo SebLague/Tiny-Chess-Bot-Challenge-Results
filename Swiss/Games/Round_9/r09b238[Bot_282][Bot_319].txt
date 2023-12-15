@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "8"]
+[White "Hippo (by: MonteDegro)"]
+[Black "GOYO Bot v1.1.2 (by: Goyo)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. d4 Nc6 2. d5 Ne5 3. Nf3 Nxf3+ 4. exf3 e5 5. Nc3 Nf6 6. Be3 Qe7 7. Qd3 Qb4 8. a3 Qxb2 0-1

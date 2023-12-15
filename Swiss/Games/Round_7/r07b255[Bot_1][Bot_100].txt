@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "6"]
+[White "The Chotic bot (by: EV3L1N)"]
+[Black "PrayForMeBot (by: João)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c4 f6 2. d3 c6 3. g3 a5 4. Bf4 Ra7 5. Na3 c5 6. b3 g5 7. Be3 Kf7 8. f3 Kg6 9. Nc2 Na6 10. a4 Qc7 11. Ra2 d6 12. Qa1 Qb6 13. Bf4 gxf4 14. Qxf6+ Kxf6 15. Nh3 Bxh3 16. Nd4 Bxf1 17. Rd2 cxd4 18. Kxf1 Qxb3 19. Rg1 Qxd3 20. Rh1 Qxd2 21. gxf4 Qd1+ 22. Kg2 Qxh1+ 23. Kh3 Qf1+ 24. Kg4 Qh1 25. e4 Qf1 26. Kh5 Qh3# 0-1

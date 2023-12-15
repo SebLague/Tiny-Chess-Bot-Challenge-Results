@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "36"]
+[White "Hippo (by: MonteDegro)"]
+[Black "Arctiform's Bot (by: Arctiform)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 c6 2. Qd3 h5 3. Bf4 e6 4. Nc3 Qa5 5. Nf3 b6 6. Ne5 d6 7. Nc4 Qb4 8. a3 a6 9. axb4 h4 10. Nxb6 Ra7 11. Nxc8 Ra8 12. Ne4 d5 13. Ned6+ Kd8 14. Nxf7+ Kxc8 15. Nxh8 Bxb4+ 16. c3 Nd7 17. Rxa6 Ngf6 18. Rxa8+ Nb8 19. Qa6+ Kd8 20. Rxb8+ Ke7 21. Qa7+ Nd7 22. Bg5+ Kd6 23. Nf7# 1-0

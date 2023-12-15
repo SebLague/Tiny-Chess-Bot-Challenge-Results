@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "7"]
+[White "tom (by: Christopher Hosken & Thomas Lower)"]
+[Black "ThinkerBot5000 (by: Bear)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 h5 2. h4 e5 3. g4 hxg4 4. f4 gxf3 5. d4 f2+ 6. Kxf2 Rxh4 7. Rxh4 Qxh4+ 8. Kf3 Qh5+ 9. Ke3 Qxd1 10. Ne2 Qxf1 11. dxe5 Qd1 12. c4 g5 13. b4 Bxb4 14. a4 Ke7 15. e6 Kxe6 16. e5 Kxe5 17. c5 Bxc5+ 18. Kf3 Bd4 19. Nc3 Qd3+ 20. Be3 Bxe3 21. a5 f5 22. a6 bxa6 23. Nb5 Bb7+ 24. Kg3 Bg1# 0-1

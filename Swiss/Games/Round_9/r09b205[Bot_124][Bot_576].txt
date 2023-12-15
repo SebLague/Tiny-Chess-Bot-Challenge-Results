@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "8"]
+[White "Depth2 (by: David Montealegre)"]
+[Black "EvilerBot (by: Noah)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 f6 2. Nd4 e5 3. Nb5 Na6 4. N1c3 c5 5. Ne4 g5 6. Nbc3 Nc7 7. a3 f5 8. Ng3 Ne7 9. e3 Bh6 10. h3 O-O 11. Nge2 Kh8 12. Ng3 Rf6 13. Nb1 b5 14. d3 Kg7 15. Qh5 Qf8 16. Nd2 b4 17. axb4 Rd6 18. bxc5 g4 19. cxd6 a6 20. dxc7 Kh8 21. hxg4 Bf4 22. exf4 Kg8 23. Qxh7# 1-0

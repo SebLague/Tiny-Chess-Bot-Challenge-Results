@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "SaveBot (or, "winning bot" as an alternative) (by: Rudy)"]
+[Black "AchillesAlpha (by: Achilles)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 c6 2. Rb1 Na6 3. Ra1 Nb4 4. Rb1 Nxc2+ 5. Qxc2 e6 6. Qxc6 dxc6 7. Kd1 Qd5 8. Ke1 Qxa2 9. Kd1 Qb3+ 10. Ke1 Rb8 11. Ra1 Nf6 12. Rb1 Qa2 13. Kd1 Ng4 14. Ke1 Qxa3 15. bxa3 Nxf2 16. Kxf2 Bc5+ 17. Ke1 Be7 18. Rxb7 Rxb7 19. Kd1 Rb1 20. Ke1 Bxa3 21. Kd1 Rxc1# 0-1

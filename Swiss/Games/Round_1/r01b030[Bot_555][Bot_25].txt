@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "Guppy (by: Rowburt)"]
+[Black "SimpleGuy (by: Kurt St)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Na6 2. Qf3 Nf6 3. e5 Rb8 4. exf6 Ra8 5. fxg7 d6 6. gxh8=Q Kd7 7. Bxa6 Ke8 8. Qxh7 Kd7 9. Qff5+ Kc6 10. Qb5# 1-0

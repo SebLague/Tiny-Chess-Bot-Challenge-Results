@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "41"]
+[White "Fishstock (by: Jess Baut & Hans)"]
+[Black "StockShrimp (by: Diplomancer)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d3 e5 2. Nd2 Bb4 3. c3 Bc5 4. e3 Qh4 5. g3 Qh6 6. Ne2 Qc6 7. Rg1 Qd5 8. a4 Qxd3 9. b3 g5 10. Ra2 d6 11. Rh1 Qd5 12. Nd4 Qxh1 13. Ne2 Be6 14. Ng1 Qxg1 15. Ne4 Bh3 16. Nxd6+ cxd6 17. Qd5 Qxf1+ 18. Kd2 Qxf2+ 19. Kd1 Bg4+ 20. Qf3 Bxf3+ 21. Re2 Qxe2# 0-1

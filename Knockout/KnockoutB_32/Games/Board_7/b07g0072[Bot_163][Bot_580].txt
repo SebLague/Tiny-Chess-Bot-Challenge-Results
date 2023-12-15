@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Knockout 32"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "Grenouille (by: mcngnt)"]
+[Black "Tyrant's V9 (by: Tyrant)"]
+[Result "0-1"]
+[TimeControl "30+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. d4 e6 3. c4 b6 4. a3 Ba6 5. Qc2 Bb7 6. Nc3 c5 7. dxc5 Bxc5 8. b4 Bxf3 9. exf3 Bd4 10. Bb2 O-O 11. O-O-O e5 12. Bd3 Nc6 13. Rhf1 Rc8 14. Kb1 g6 15. b5 Na5 16. Qa4 Qc7 17. Nd5 Nxd5 18. cxd5 Qc5 19. Bxd4 exd4 20. Be2 Rfe8 21. Rfe1 Qc3 22. Ka2 d3 23. Qb4 Qc2+ 24. Qb2 Qc4+ 25. Kb1 Rxe2 26. Rxe2 dxe2 27. Rh1 Qd3+ 28. Ka1 Nb3+ 29. Ka2 Rc2 30. a4 Rxb2+ 31. Kxb2 Nd4 32. Ka1 Qa3+ 33. Kb1 Qb3+ 34. Ka1 Nc2# 0-1

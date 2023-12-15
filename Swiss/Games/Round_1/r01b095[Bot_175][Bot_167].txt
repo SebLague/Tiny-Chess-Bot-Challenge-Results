@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "jebChess (by: jibux)"]
+[Black "Betelchess (by: VY Canis Majoris (also special thanks to Gurren Lagann))"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 c5 2. Qg4 Qa5 3. Be2 Kd8 4. Qc4 Ke8 5. Qb5 Kd8 6. Qxa5+ Ke8 7. Qxc5 Kd8 8. Qa5+ Ke8 9. c4 Nc6 10. Qb5 Kd8 11. Qd5 Ke8 12. Bh5 Kd8 13. Bxf7 Kc7 14. Nc3 Kb6 15. c5+ Ka5 16. Qb3 d5 17. Qa3# 1-0

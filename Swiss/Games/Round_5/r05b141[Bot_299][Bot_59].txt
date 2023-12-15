@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "4"]
+[White "MaterFromRadiatorSprings (by: Markus Grand Petersen)"]
+[Black "Generic Chess Bot #1000000 (by: Anthony)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 Nf6 2. Qf3 c6 3. Kd1 d6 4. Qf4 Bg4+ 5. f3 Bc8 6. Na3 Qa5 7. Nc4 Qb4 8. a3 Qc5 9. b4 Qd5 10. Bb2 g5 11. Qd4 e5 12. Qc3 g4 13. Nb6 axb6 14. Bc4 Ne4 15. Qb3 Qxd2# 0-1

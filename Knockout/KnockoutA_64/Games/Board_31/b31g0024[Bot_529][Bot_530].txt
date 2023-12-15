@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Knockout 64"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "-1"]
+[White "NNBot (by: Jamie Whiting)"]
+[Black "Algernon (by: White Mouse)"]
+[Result "0-1"]
+[TimeControl "30+0.1"]
+[Termination "Checkmate"]
+
+1. e4 c5 2. Ne2 d6 3. Nbc3 Nf6 4. d3 Nc6 5. d4 cxd4 6. Nxd4 Nxd4 7. Qxd4 e5 8. Qa4+ Bd7 9. Qb3 Bc6 10. Bc4 Qd7 11. f3 g6 12. O-O Bg7 13. Nb5 O-O 14. Rd1 Bxb5 15. Bxb5 Qc7 16. Be3 Rad8 17. Rac1 h6 18. g3 Kh8 19. Bd3 b6 20. Qc4 Qd7 21. a4 d5 22. exd5 Nxd5 23. Bf2 Nf6 24. Kg2 Rc8 25. Qa6 Qc7 26. a5 Rb8 27. axb6 axb6 28. Qb5 Rfe8 29. Re1 Re6 30. Qb3 Kh7 31. Bc4 Re7 32. Be3 Rc8 33. Ba6 Rb8 34. Rcd1 Nd7 35. Bc4 Nc5 36. Qb5 Nd7 37. Rd2 Rc8 38. b3 e4 39. Rf1 exf3+ 40. Rxf3 Ne5 41. Bf4 Rf8 42. Rfd3 Qb8 43. Bxe5 Rxe5 44. Rd5 Qb7 45. Qd7 Qa8 46. Rd1 Re3 47. Kg1 Rc3 48. Bd3 Kg8 49. Qd6 Re8 50. Bb5 Rec8 51. Qxb6 Rxc2 52. Ba6 Rf8 53. Bf1 Qa2 54. h3 Rb2 55. R1d3 Qb1 56. Rd7 Qc2 57. Rd2 Qxd2 58. Rxd2 Rxd2 59. Kh1 Rc8 60. Bc4 Re8 61. Qg1 Ra8 62. Bd5 Ra1 63. Qxa1 Bxa1 64. Bc6 Be5 65. b4 Bxg3 66. b5 Rh2+ 67. Kg1 Rb2 68. b6 Bf2+ 69. Kh1 Bxb6 70. Bd7 Kg7 71. Bc8 h5 72. Bb7 Bc7 73. Bc8 Rh2+ 74. Kg1 h4 75. Bg4 f5 76. Bf3 Rxh3 77. Ba8 f4 78. Kg2 Rg3+ 79. Kf1 f3 80. Ke1 Ba5+ 81. Kf1 Bb6 82. Bxf3 Rxf3+ 83. Ke2 Re3+ 84. Kf1 Rg3 85. Ke1 h3 86. Kf1 Rg1+ 87. Ke2 h2 88. Kd3 h1=Q 89. Kc4 Qe4+ 90. Kb3 Rg3+ 91. Kb2 Qe2+ 92. Kb1 Rg1# 0-1

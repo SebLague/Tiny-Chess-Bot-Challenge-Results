@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "50"]
+[White "SimplerBot (by: Rick Schaffer)"]
+[Black "Strikeeaglechess (by: Strikeeaglechase)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 d5 2. Nh3 Bxh3 3. gxh3 d4 4. Ne4 Nf6 5. d3 Nc6 6. e3 Nxe4 7. dxe4 e5 8. Bd2 Bc5 9. Qf3 O-O 10. O-O-O dxe3 11. fxe3 Qg5 12. Bc4 Rad8 13. Rdg1 Qe7 14. Rg2 a5 15. Rhg1 g6 16. Rxg6+ Kh8 17. Rg7 Qd6 18. Qh5 h6 19. Kb1 Qf6 20. R7g6 Qxg6 21. Rxg6 Bxe3 22. Bxe3 Rd1+ 23. Bc1 Rxc1+ 24. Kxc1 fxg6 25. Qxh6# 1-0

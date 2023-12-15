@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "10"]
+[White "GoblinArmy (by: TheChroniclerDelta)"]
+[Black "CapivaraBot (by: Danilo Luiz Rheinheimer)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h3 h5 2. a3 g5 3. a4 f5 4. h4 gxh4 5. b4 e5 6. c3 d5 7. c4 dxc4 8. e3 Bxb4 9. Bxc4 Qg5 10. f4 Qxg2 11. fxe5 Qxh1 12. Bxg8 Qxg1+ 13. Ke2 Rxg8 14. Qxg1 Rxg1 15. d3 Rxc1 16. Ra2 Rxb1 17. d4 c5 18. dxc5 Bxc5 19. Kf3 b5 20. axb5 Rxb5 21. Rxa7 Bxa7 22. e6 Bxe6 23. e4 fxe4+ 24. Kxe4 h3 25. Kf3 h4 26. Kf4 h2 27. Ke4 h1=Q+ 28. Kf4 h3 29. Kg3 h2 30. Kh4 Bf2# 0-1

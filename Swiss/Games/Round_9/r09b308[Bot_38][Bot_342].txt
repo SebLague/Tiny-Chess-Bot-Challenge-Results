@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "8"]
+[White "Asymptotically optimal (by: Graham Gayler)"]
+[Black "GenerousBoi (by: Uls)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. Na3 c5 2. Nb5 h6 3. Rb1 e5 4. c3 Qc7 5. Nd6+ Ke7 6. Qc2 Qxd6 7. b4 e4 8. g3 e3 9. fxe3 Nf6 10. Kf2 Qc7 11. bxc5 Ng4+ 12. Ke1 h5 13. Bg2 Rh7 14. Qxh7 b5 15. Qxg7 Qxg3+ 16. hxg3 Bxg7 17. Ra1 d5 18. Bxd5 Bxc3 19. Kd1 Nxe3+ 20. dxe3 Bxa1 21. Rxh5 a5 22. Kc2 a4 23. Kb1 Bh3 24. Nxh3 Bb2 25. Kxb2 Kd7 26. Be4 Na6 27. Bd3 Nxc5 28. Bc4 Kc8 29. Ka1 Kb7 30. Nf4 Ka6 31. Rh1 Kb7 32. Bd5+ Kb6 33. Kb1 Rg8 34. Rh6+ f6 35. Rxf6+ Ka7 36. Ka1 Rxg3 37. Rf8 Kb6 38. Kb1 Ka6 39. Rb8 Rg7 40. Ka1 Ka5 41. Rg8 Rh7 42. Kb1 Ka6 43. Ka1 Ka5 44. Kb1 Re7 45. Rd8 Kb6 46. Rg8 Ka5 47. Bf3 Re6 48. Kb2 Rc6 49. Bxc6 Nd7 50. Re8 Nc5 51. Ka1 Ka6 52. Re5 Nb3+ 53. axb3 axb3 54. Rxb5 Ka7 55. Rxb3 Ka6 56. Kb1 Ka5 57. Bh1 Ka4 58. Ka1 Kxb3 59. Nd3 Kc2 60. Ka2 Kd1 61. Bb2 Kxe2 62. Bf6 Kxe3 63. Ka1 Kxd3 64. Bc6 Ke3 65. Kb1 Kf4 66. Ka1 1-0

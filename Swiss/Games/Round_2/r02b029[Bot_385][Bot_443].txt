@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "3D.Opening Bot (by: Mark Grennan)"]
+[Black "LunarBot (by: LunarTech)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. Nc3 Nc6 3. Nf3 e6 4. Kd2 Bb4 5. Kd3 Bxc3 6. Kxc3 Ne4+ 7. Kb3 Nxf2 8. Qe1 Nxh1 9. Ka3 Qe7+ 10. b4 Qd6 11. Kb2 Nxd4 12. Nxd4 Qxd4+ 13. Kb1 O-O 14. Bb2 Qf4 15. Qc1 Qxh2 16. Qd1 Qf4 17. Qc1 Qxb4 18. Qd1 Ng3 19. Kc1 Qf4+ 20. Kb1 Nxf1 21. Bc1 Qb4+ 22. Bb2 Ne3 23. Qc1 Nc4 24. a3 Nd2+ 25. Ka2 Qc4# 0-1

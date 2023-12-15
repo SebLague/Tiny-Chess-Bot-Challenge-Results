@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "57"]
+[White "DrawMachine (by: Rune)"]
+[Black "nadjBot (by: Arman N)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Stalemate"]
+
+1. f4 a5 2. c3 a4 3. e4 a3 4. bxa3 Rxa3 5. Bxa3 b5 6. Bxb5 c5 7. Bxc5 Qa5 8. Qb3 Qxb5 9. Qxb5 e5 10. Qxb8 Bxc5 11. Qxe5+ Be7 12. Qxg7 Ba3 13. Qxh8 Bc1 14. Qxg8+ Ke7 15. Qxh7 Bxd2+ 16. Kd1 Bxc3 17. Nxc3 d5 18. Nxd5+ Kd6 19. Qxf7 Bh3 20. Nxh3 Kc5 21. a3 Kc4 22. Ne3+ Kc3 23. Nd5+ Kb2 24. Qg7+ Kb3 25. g3 Ka4 26. Qd4+ Kb3 27. a4 1/2-1/2

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "46"]
+[White "Rigel (by: Antares (Github: Alex2262))"]
+[Black "Zambroni V.4.1.4 (by: JoeyZeeeeeee)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. Nf3 g6 3. Nc3 Bg7 4. e4 d6 5. h3 O-O 6. Bg5 Nc6 7. a3 Re8 8. d5 Ne5 9. Nxe5 dxe5 10. Qf3 h6 11. Be3 Bd7 12. O-O-O c6 13. dxc6 bxc6 14. Kb1 Qc7 15. Bc4 Rac8 16. Na4 Rcd8 17. Nc5 Bc8 18. Rxd8 Rxd8 19. Rd1 Rxd1+ 20. Qxd1 a5 21. Qd2 h5 22. f3 Nd7 23. Nb3 a4 24. Qa5 Qxa5 25. Nxa5 c5 26. Bb5 e6 27. Bxa4 Nb6 28. Be8 Bd7 29. Bxc5 Bxe8 30. Bxb6 h4 31. Ka2 Ba4 32. c4 Bh6 33. b3 Be8 34. b4 Bf4 35. c5 Be3 36. Bd8 Kg7 37. c6 f6 38. c7 Bd7 39. Nc4 Bf2 40. Nd6 f5 41. c8=B Bxc8 42. Nxc8 fxe4 43. fxe4 Kf7 44. Nd6+ Kg7 45. b5 g5 46. b6 Kg6 47. b7 Ba7 48. Nb5 Bb8 49. Bc7 Bxc7 50. Nxc7 g4 51. b8=Q Kg7 52. hxg4 h3 53. Qe8 hxg2 54. Nxe6+ Kh7 55. Qd7+ Kg6 56. Qg7# 1-0

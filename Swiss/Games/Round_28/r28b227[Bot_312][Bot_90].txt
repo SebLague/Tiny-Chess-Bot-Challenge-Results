@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "27"]
+[White "TBbot (by: TBMPFW)"]
+[Black "Hungry For Mates (by: Bisque)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g4 Na6 2. d4 Rb8 3. c3 Ra8 4. f4 Rb8 5. e3 Ra8 6. f5 Rb8 7. h4 Ra8 8. h5 Rb8 9. g5 Ra8 10. b4 Rb8 11. b5 Ra8 12. bxa6 Rb8 13. axb7 Ra8 14. bxa8=R Ba6 15. Rxd8+ Kxd8 16. Bxa6 Ke8 17. a3 Kd8 18. Ne2 Ke8 19. h6 Kd8 20. e4 Ke8 21. hxg7 Kd8 22. gxf8=Q# 1-0

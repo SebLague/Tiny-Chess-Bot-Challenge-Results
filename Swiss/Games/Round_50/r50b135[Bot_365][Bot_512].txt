@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "49"]
+[White "KU_AI_BOT (by: Daniel Johnson)"]
+[Black "LiL Scoot (by: Scoutamass)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e6 2. Qf3 Qg5 3. h4 Qc5 4. Qc3 Qxc3 5. dxc3 Nc6 6. Be3 a5 7. Bb5 Ne5 8. Nf3 Nxf3+ 9. gxf3 c6 10. Bd3 Bd6 11. Nd2 Nf6 12. Nc4 Bc7 13. Nb6 Bxb6 14. Bxb6 a4 15. Rg1 Rg8 16. Ke2 a3 17. b4 d5 18. e5 Nd7 19. Be3 Nxe5 20. Bf4 Nxd3 21. cxd3 g5 22. Be5 Rg6 23. h5 Rg8 24. Kd2 Ra6 25. Rab1 g4 26. fxg4 Rg5 27. Bf6 Rg8 28. c4 dxc4 29. dxc4 Bd7 30. Rg3 Rf8 31. Rd3 e5 32. c5 e4 33. Re1 h6 34. Rxe4+ Be6 35. Rd8# 1-0

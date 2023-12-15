@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "27"]
+[White "DotBot (by: Jonas // dotwalking)"]
+[Black "#enpassant4ever (by: trueberryless)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 a6 2. f4 b5 3. d4 d6 4. Qe2 Nd7 5. Qf2 g5 6. fxg5 Ne5 7. dxe5 dxe5 8. Qe2 Be6 9. g3 Bxa2 10. Rxa2 Rc8 11. Rxa6 Qd7 12. Nf3 Qg4 13. Qxb5+ c6 14. Nxe5 cxb5 15. Nxg4 Rxc2 16. Bxb5+ Rc6 17. Rxc6 Bg7 18. Rd6+ Kf8 19. Rc6 Bxb2 20. Bxb2 e6 21. Rc8+ Ke7 22. Ba3# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "4"]
+[White "Turochamp (Modern) (by: P Rivero)"]
+[Black "BarschBot (by: Bobitsmagic)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qd3 Bd6 5. Be3 Nf6 6. O-O-O Ne5 7. Qd4 Neg4 8. Nf3 a5 9. Bg5 h6 10. Bh4 g5 11. h3 Bf4+ 12. e3 Bd6 13. Bg3 Bxg3 14. fxg3 Nf2 15. Nd5 Nxh1 16. Nxf6+ Kf8 17. Nxd7+ Bxd7 18. Qxh8+ Ke7 19. Qe5+ Kf8 20. Bb5 c6 21. Bc4 Nf2 22. Rd6 g4 23. Qh8+ Ke7 24. Qf6+ Kf8 25. Qxf7# 1-0

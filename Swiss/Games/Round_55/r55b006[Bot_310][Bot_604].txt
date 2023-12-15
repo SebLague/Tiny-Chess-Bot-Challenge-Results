@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "54"]
+[White "LynchBot (by: Gary Lynch)"]
+[Black "Thunker Weed (by: American Jeff)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 exd5 5. Nf3 Be6 6. Be3 Bd6 7. Qb3 b6 8. Ng5 Bf5 9. Nb5 Nc6 10. Rc1 Na5 11. Nxd6+ cxd6 12. Qb5+ Bd7 13. Qb4 Nc4 14. Bf4 a5 15. Qb3 a4 16. Qb4 Nh5 17. e3 Nxf4 18. exf4 O-O 19. Bxc4 dxc4 20. Rxc4 Re8+ 21. Kf1 Qe7 22. Rc1 Rac8 23. Rb1 Qe2+ 24. Kg1 Rc2 25. Ra1 Qxf2# 0-1

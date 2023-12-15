@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "One-Line Chess (by: Kaydon Sloan)"]
+[Black "BongCloudBot (by: Ben)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c4 e5 2. e3 Ke7 3. d4 Ke8 4. dxe5 Ke7 5. e4 Ke8 6. Nc3 Ke7 7. Nd5+ Ke8 8. f4 Qh4+ 9. g3 Kd8 10. gxh4 Ke8 11. Nxc7+ Ke7 12. Nxa8 Ke8 13. Nc7+ Ke7 14. Qd6+ Kd8 15. Qxf8+ Kxc7 16. Qxg7 Kb6 17. Qxh8 Ka5 18. Qxg8 Ka4 19. Qg3 Kb4 20. Qa3# 1-0

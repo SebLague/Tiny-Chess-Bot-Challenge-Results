@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "11"]
+[White "Baloo-D (by: Dimitri)"]
+[Black "Bongcloud Bot (by: lurendrei)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 g5 2. d4 Bh6 3. Bb5 Nf6 4. e5 c6 5. exf6 cxb5 6. fxe7 Qxe7+ 7. Ne2 b4 8. h4 Nc6 9. O-O d5 10. Qe1 O-O 11. Bd2 Be6 12. Be3 Bg4 13. Qxb4 Qxb4 14. a3 Qxb2 15. c3 Bxe2 16. hxg5 Bxf1 17. Ra2 Qxa2 18. gxh6 Qxb1 19. Kh2 Qe4 20. Kg3 f5 21. Bd2 Qg4+ 22. Kh2 Qxg2# 0-1

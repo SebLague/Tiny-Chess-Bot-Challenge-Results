@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "Spaghetto (by: Skae (Francesco))"]
+[Black "BotThatLikesToPlayChess™ (by: Gary Dale)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. Nc3 Na6 3. e4 Nb4 4. e5 Nh5 5. a3 Na6 6. Ng5 Nf4 7. Qf3 f6 8. Qxf4 Rb8 9. Bc4 Ra8 10. Bf7# 1-0

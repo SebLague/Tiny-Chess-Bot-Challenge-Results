@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "21"]
+[White "Toribot (by: Yujan Subedi)"]
+[Black "Octobot (by: Andrea Colognese)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. b4 e6 2. c3 Qh4 3. d4 Nc6 4. d5 Qe4 5. dxc6 bxc6 6. Qa4 Bc5 7. Na3 a5 8. e3 Bb7 9. f3 Qe5 10. Nb1 axb4 11. Qb3 Bxe3 12. Kd1 Bb6 13. Nh3 bxc3 14. Qc2 Qh5 15. g4 Qe5 16. Be2 c5 17. Qxc3 Qxc3 18. Nxc3 Nf6 19. Rf1 Ke7 20. Bg5 h6 21. Bf4 Ra3 22. Be5 d6 23. Nb1 Re3 24. Bf4 Nxg4 25. Rg1 Bxf3 26. Bxf3 Rxf3 27. Rxg4 Ra8 28. Ng5 hxg5 29. Bxg5+ f6 30. Ke2 Rh3 31. Bf4 g5 32. Be3 Rxh2+ 33. Ke1 Rh3 34. Bxg5 fxg5 35. Rg1 Rg8 36. Kf1 Rf8+ 37. Kg2 Rhf3 38. Kh1 Rh8+ 39. Kg2 Rf2+ 40. Kxf2 c4+ 41. Kf3 Bxg1 42. Nd2 Bd4 43. Rc1 c3 44. Nb3 Rf8+ 45. Kg3 Bg7 46. Na5 Kd7 47. Nb7 Ra8 48. Rf1 Be5+ 49. Kg4 Kc6 50. Nxd6 c2 51. Nc4 Kc5 52. Rc1 Kxc4 53. a3 Kb3 54. Kxg5 Bd4 55. Kf4 Bb2 56. Rxc2 Ra4+ 57. Rc4 Rxc4+ 58. Ke3 Bxa3 59. Kd2 Rc3 60. Kd1 Re3 61. Kd2 Bc5 62. Kc1 e5 63. Kd2 e4 64. Kd1 c6 65. Kd2 Bd4 66. Kc1 c5 67. Kd2 c4 68. Kc1 c3 69. Kd1 c2+ 70. Kd2 c1=Q+ 71. Kxc1 Bc3 72. Kb1 Re1# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Knockout 64"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "-1"]
+[White "Thunker Weed (by: American Jeff)"]
+[Black "The Grandiloquent Intelligentsia of Magnanimous Strategem: A Prodigiously Resplendent Embodiment of Erudite Chess Esotericism, Exuding Enigmatic Brilliance and Sublime Eloquence Whilst Enchantingly Tempering the Hallowed Battlefield of Intellectual Duels, Endeavoring to Transcend Acumen and Ascend to the Pantheon of Learned Peregrinations with an Efficacious Arsenal of Foresight and Sagacity, Humbling Opponents with Refined Gallantry, and Beckoning Discerning Disciples to Witness the Manifest Veracity of its Ascent to a Formidable Elo Quintessence (by: Giles Corey)"]
+[Result "1-0"]
+[TimeControl "30+0.1"]
+[Termination "Checkmate"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 Bb4 5. Bg2 O-O 6. O-O Re8 7. d3 Nd4 8. Be3 c5 9. a3 Ba5 10. Bg5 Qb6 11. e3 Nxf3+ 12. Bxf3 h6 13. Na4 Qc7 14. Bxf6 gxf6 15. Nxc5 Qxc5 16. b4 Bxb4 17. axb4 Qxb4 18. Rb1 Qf8 19. Bxb7 Rb8 20. Bd5 Rxb1 21. Qxb1 d6 22. Qb4 Be6 23. Ra1 Bxd5 24. cxd5 Qe7 25. Qg4+ Kh7 26. Qf5+ Kg7 27. Ra6 Rb8 28. Ra4 Rb1+ 29. Kg2 Qb7 30. Rg4+ Kf8 31. Qxf6 Qb6 32. Qxh6+ Ke7 33. Rg7 Ke8 34. Qf6 Rb3 35. Qxf7+ Kd8 36. Rg8# 1-0

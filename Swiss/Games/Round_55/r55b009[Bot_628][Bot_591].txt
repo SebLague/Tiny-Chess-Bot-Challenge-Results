@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "54"]
+[White "King Gᴀᴍʙᴏᴛ Ⅳ (by: ToTheAnd (aka toanth))"]
+[Black "Rigel (by: Antares (Github: Alex2262))"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. d4 e6 3. Bf4 c5 4. e3 cxd4 5. exd4 Be7 6. Nc3 O-O 7. Bd3 d5 8. Ke2 Qb6 9. Rb1 Nh5 10. Ke3 Nxf4 11. Kxf4 Nc6 12. Kg4 e5+ 13. Kg3 e4 14. Nxd5 Bd6+ 15. Ne5 Qxd4 16. f4 exf3 17. gxf3 Qxe5+ 18. Kh4 g6 19. f4 Qxd5 20. Qf1 Qh5+ 21. Kg3 Qg4+ 22. Kf2 Re8 23. b4 Nxb4 24. Be4 Rxe4 25. Qe1 Bc5+ 26. Qe3 Bxe3+ 27. Ke1 Nxc2+ 28. Kf1 Rxf4# 0-1

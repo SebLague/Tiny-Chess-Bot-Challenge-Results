@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "51"]
+[White "simpleval (portmonteau of simple eval) (by: hokurou)"]
+[Black "At least 2 IQ (by: Evan Finnigan)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 e5 2. h5 Nf6 3. c4 c5 4. a4 e4 5. f4 Qc7 6. f5 Qg3# 0-1

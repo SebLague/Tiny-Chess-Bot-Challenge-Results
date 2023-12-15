@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "23"]
+[White "ConniBot (by: connorf25)"]
+[Black "MyFirstChessEngine (by: Jake Forsey)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Nf3 Nc6 2. Nc3 e6 3. Rb1 a5 4. Ne4 Be7 5. e3 Nf6 6. Nxf6+ Bxf6 7. Bd3 Nb4 8. Bc4 Nxc2+ 9. Qxc2 Qe7 10. Bd3 Kd8 11. O-O Ra7 12. Kh1 Re8 13. Bxh7 Qb4 14. Be4 b6 15. d3 Rh8 16. Bd2 Qb5 17. Rfc1 d5 18. Nd4 Bxd4 19. exd4 dxe4 20. dxe4 Rb7 21. Bf4 Re8 22. Bxc7+ Ke7 23. Be5 Bd7 24. Bxg7 Rc8 25. Qd2 Rxc1+ 26. Rxc1 Qb4 27. Bf6+ Kxf6 28. Rc3 Ke7 29. Qg5+ Ke8 30. Qg8+ Qf8 31. Qxf8+ Kxf8 32. e5 Ba4 33. Kg1 Ke7 34. Kh1 Kf8 35. Kg1 Ke7 36. Kh1 Kf8 1/2-1/2

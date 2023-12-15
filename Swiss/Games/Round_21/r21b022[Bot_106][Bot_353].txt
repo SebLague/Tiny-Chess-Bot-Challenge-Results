@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "20"]
+[White "Miluva v2 [2550] (by: Möhrchen (Thilo M.))"]
+[Black "Hrustco Bot (by: migrin)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. d4 d5 3. exd5 Qxd5 4. Nf3 Bg4 5. Nc3 Qf5 6. d5 Ne5 7. Be2 Bxf3 8. gxf3 Nf6 9. f4 Ned7 10. Nb5 O-O-O 11. c4 a6 12. Nd4 Qe4 13. f3 Qg6 14. Be3 Qg2 15. Kd2 Re8 16. f5 Ne5 17. Kc1 b5 18. b3 bxc4 19. bxc4 Kb8 20. Rb1+ Ka8 21. Rg1 Qxg1 22. Bxg1 Rb8 23. Rxb8+ Kxb8 24. Qb3+ Kc8 25. c5 Nfd7 26. Bxa6+ Kd8 27. Nc6+ Nxc6 28. dxc6 e6 29. Qb7 Nf6 30. Qc8+ Ke7 31. Qxc7+ Ke8 32. Qc8+ Ke7 33. c7 exf5 34. Qd8+ Ke6 35. c8=Q+ Nd7 36. Bc4+ Ke5 37. Qcc7+ Bd6 38. Qxd6# 1-0

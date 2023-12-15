@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "42"]
+[White "AttackBot (by: Kai Tabuchi (9 Years Old))"]
+[Black "Stickleback (by: Brent Mardell)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. b4 d5 2. Bb2 e5 3. Bxe5 Bxb4 4. Bxc7 Qxc7 5. Qc1 Qxc2 6. Qxc2 Nf6 7. Qxc8+ Ke7 8. Qxh8 Nc6 9. Qxa8 Bxd2+ 10. Kxd2 Ne4+ 11. Kc1 d4 12. Kd1 Nxf2+ 13. Kc1 Nxh1 14. Kd1 Nf2+ 15. Kc1 Ke6 16. Qxb7 f5 17. Qxc6+ Ke5 18. Kb2 h6 19. Qc4 Ke4 20. Qa4 f4 21. Qxa7 d3 22. Qxf2 dxe2 23. Kc1 exf1=Q+ 24. Qxf1 f3 25. Kb2 fxg2 26. Kc2 gxf1=Q 27. Kb2 Qxg1 28. Kc2 Qxh2+ 29. Kc1 Qe2 30. Na3 Kd3 31. Nc4 Qc2# 0-1

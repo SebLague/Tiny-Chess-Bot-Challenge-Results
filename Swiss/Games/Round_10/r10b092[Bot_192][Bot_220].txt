@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "9"]
+[White "Jormungandr (but scuffed) (by: CptShini)"]
+[Black "The Grandma (by: TimFW)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d3 d5 2. c3 c5 3. Qa4+ Nc6 4. Qb5 e5 5. Qb3 Nf6 6. f4 h5 7. h4 Qe7 8. Qa4 Bd7 9. Be3 Rd8 10. Bf2 b5 11. Qxb5 Nd4 12. Qxd7+ Rxd7 13. cxd4 exd4 14. Na3 Ng4 15. Nb1 Nxf2 16. Kxf2 Qe3+ 17. Ke1 Qc1+ 18. Kf2 Qxb2 19. Nf3 Qxa1 20. Ne5 Qxb1 21. Nxd7 Kxd7 22. Rh3 Qxa2 23. g3 Qd2 24. Rh2 Kd6 25. Bg2 Qe3+ 26. Kf1 Qxg3 27. Rh1 Qxf4+ 28. Kg1 Be7 29. e3 Qxe3+ 30. Kh2 Qf4+ 31. Kg1 Rb8 32. Bf1 Qg3+ 33. Bg2 Rb1# 0-1

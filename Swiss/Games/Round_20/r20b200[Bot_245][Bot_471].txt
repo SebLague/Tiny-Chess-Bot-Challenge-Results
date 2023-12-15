@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "19"]
+[White "Gen-Eric (by: Pressgoal)"]
+[Black "ABadBot (by: Lucas)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 a6 2. e4 e6 3. h4 Ra7 4. Nb1 Nf6 5. a3 Nxe4 6. b4 Qf6 7. d4 Qxf2# 0-1

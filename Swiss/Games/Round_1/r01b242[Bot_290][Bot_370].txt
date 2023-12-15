@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "Blizzard (by: Aurora)"]
+[Black "TuroChampEx (by: code<metas>)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. Bd2 Nc6 3. b4 Nxd4 4. e4 Nxe4 5. Be3 Nf5 6. c3 Nxe3 7. Qd4 Nc2+ 8. Kd1 Nxd4 9. cxd4 Nxf2+ 10. Kc1 e5 11. dxe5 Qg5+ 12. Kb2 Qxe5+ 13. Kc1 Qxa1 14. h3 Bxb4 15. Rh2 Bc3 16. Bb5 Ke7 17. Be2 Kd6 18. a4 Kc5 19. Rh1 Kb4 20. a5 Ka4 21. Bd1+ Kxa5 22. Bf3 Ka4 23. Bd1+ Kb4 24. Be2 Kb3 25. Bd1+ Ka2 26. Bb3+ Kxb3 27. g4 Ka2 28. Ne2 Kb3 29. Nd4+ Ka4 30. Kc2 Qb2# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "58"]
+[White "CrimesAgainstDotNet (by: Reckoner (Robyn))"]
+[Black "HubertusChess (by: Oristur)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Qf3 Nd4 3. Qc3 e5 4. Bc4 Qg5 5. Bd5 c6 6. Nh3 Qxg2 7. Bxf7+ Kxf7 8. Ng5+ Ke8 9. Rf1 Qxg5 10. Qd3 Qg2 11. h3 d5 12. Nc3 Bxh3 13. Nxd5 cxd5 14. exd5 e4 15. Qc4 b5 16. Kd1 Qf3+ 17. Ke1 bxc4 18. Rb1 Qe2# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "16"]
+[White "Sleepy panda bot (by: Quinten F)"]
+[Black "Pawnish Punisher (by: Leon)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 c6 2. e4 Qa5+ 3. Nd2 Qb6 4. Qg4 Qxd4 5. Qxd7+ Kxd7 6. Ne2 Qa4 7. c3 Kd6 8. b4 Qc2 9. Nc4+ Kc7 10. Bf4+ Kd7 11. Ne5+ Ke8 12. Bd2 Qb2 13. Rd1 Qxa2 14. Nd4 Kd8 15. Ndxc6+ bxc6 16. Bg5+ Kc7 17. Bxe7 Bxe7 18. Nxf7 Qxf7 19. Ra1 Qb3 20. Kd2 Qb2+ 21. Kd3 Qxa1 22. Kc2 Qa2+ 23. Kc1 Qxf2 24. Kd1 Bg5 25. Be2 Qxg2 26. Rg1 Qxg1+ 27. Kc2 Qh1 28. e5 Qxh2 29. c4 Qxe2+ 30. Kc3 Kb7 31. c5 Be6 32. b5 Qd2# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "35"]
+[White "NinjaBot (by: Jinan Dangor)"]
+[Black "SepukuBot (by: Madhu)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 c5 2. Qg4 Qa5 3. b4 Qxb4 4. Qxb4 cxb4 5. Bb5 Kd8 6. Nh3 f6 7. f3 d6 8. Nf4 a5 9. d4 f5 10. h4 Nf6 11. Bb2 b6 12. d5 g6 13. Bd4 Kc7 14. Bxf6 exf6 15. Nd2 Bh6 16. Kf2 Rd8 17. h5 g5 18. Nd3 g4 19. Kf1 gxf3 20. Nxf3 Bxe3 21. a3 bxa3 22. Rh4 Rg8 23. Rxa3 Rg4 24. Rxg4 fxg4 25. Nh4 g3 26. Ra4 h6 27. Rc4+ Kb7 28. Re4 Bg5 29. Re7+ Nd7 30. Nf5 Ra7 31. Nxd6+ Kc7 32. Nf5 Rb7 33. d6+ Kd8 34. Nxg3 Bh4 35. Nf5 Rc7 36. dxc7+ Kxc7 37. Nxh4 Kd6 38. Nf5+ Kc7 39. Nxh6 Kd6 40. Nf5+ Kc7 41. h6 Kd8 42. h7 Nf8 43. h8=Q Bd7 44. Rxd7+ Kc8 45. Qxf8# 1-0

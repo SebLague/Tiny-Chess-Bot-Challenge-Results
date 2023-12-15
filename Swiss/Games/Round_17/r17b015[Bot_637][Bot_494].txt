@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "16"]
+[White "MiniMagnus (by: Erik Fast)"]
+[Black "Nathe-Bot (by: NatheSpike)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nc3 Nf6 3. d4 exd4 4. Qxd4 Nc6 5. Qc4 Bb4 6. Bg5 O-O 7. O-O-O Bxc3 8. bxc3 h6 9. Bf4 Qe7 10. f3 d6 11. Qb3 Ne5 12. h4 c5 13. Kb1 Be6 14. c4 Nh5 15. Bxe5 dxe5 16. Ne2 b5 17. Qb2 Bxc4 18. Nc3 Ng3 19. Bxc4 bxc4 20. Nd5 Qd6 21. Qc3 Nxh1 22. Rxh1 Rfb8+ 23. Ka1 Rb7 24. Qxc4 h5 25. g4 hxg4 26. fxg4 Qe6 27. g5 Qg4 28. Nc3 Rc8 29. Qd5 Re7 30. Qd2 Rd7 31. Qf2 c4 32. Rb1 Qh3 33. Qe1 Qh2 34. Rb2 Rd2 35. Nd5 c3 36. Rb3 Rxc2 37. Qb1 Qd2 38. Ne7+ Kh8 39. Nxc8 Rc1 40. Qxc1 Qxc1+ 41. Rb1 Qd2 42. Ne7 c2 43. a3 Qd6 44. Ka2 cxb1=B+ 45. Kxb1 Qxe7 46. Ka2 Kh7 47. a4 Qb4 48. a5 Kg6 49. a6 Qxe4 50. Ka1 Qxh4 51. Kb1 Qf2 52. Ka1 e4 53. Kb1 Qd2 54. Ka1 e3 55. Kb1 e2 56. Ka1 e1=B 57. Kb1 Qe2 58. Ka1 Bc3+ 59. Kb1 Qb2# 0-1

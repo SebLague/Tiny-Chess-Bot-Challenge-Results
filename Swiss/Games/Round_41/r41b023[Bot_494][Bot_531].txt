@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "40"]
+[White "Nathe-Bot (by: NatheSpike)"]
+[Black "Comet (by: Flynow10)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. d4 d5 3. exd5 Qxd5 4. Nf3 Bg4 5. Nc3 Qe6+ 6. Be3 Bxf3 7. Qxf3 Nxd4 8. Qxb7 Rc8 9. O-O-O Nf6 10. Rxd4 a5 11. Bc4 Qf5 12. Bb5+ c6 13. Bxc6+ Rxc6 14. Qxc6+ Qd7 15. Qa8+ Qc8 16. Qxc8# 1-0

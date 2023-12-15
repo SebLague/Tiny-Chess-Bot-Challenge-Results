@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "55"]
+[White "KBot (by: Kristian Mischke)"]
+[Black "Bruteforcer (by: SiestaGuru)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d3 e6 2. a4 Qf6 3. a5 Nc6 4. Ra2 Nxa5 5. Rxa5 Bb4+ 6. Bd2 Bxa5 7. Bxa5 Qxb2 8. Bc3 Qb6 9. Bxg7 Ne7 10. Bxh8 Ng6 11. Bf6 Nf4 12. Nh3 Nxh3 13. gxh3 Qd6 14. Qc1 b6 15. Qd2 Ba6 16. Qh6 Qb4+ 17. Nc3 e5 18. Bxe5 Qa3 19. Qxh7 Bb7 20. Bg2 Bxg2 21. Qg8+ Ke7 22. Qxg2 Qc1+ 23. Nd1 c6 24. Qg7 d5 25. Qf6+ Kd7 26. Qxf7+ Kd8 27. Rg1 Qh6 28. Rg8+ Qf8 29. Rxf8# 1-0

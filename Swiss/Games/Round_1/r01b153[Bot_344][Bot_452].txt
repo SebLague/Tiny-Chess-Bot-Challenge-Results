@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "DD9's chess bot (by: DigestDig9)"]
+[Black "Midnight Oil (by: Danny Boy)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Illegal move"]
+
+1. d4 d5 2. f4 Nc6 3. Be3 Nf6 4. Bf2 Qd6 5. Bh4 Qb4+ 6. Kf2 Ne4+ 7. Ke3 Qxb2 8. Bxe7 Nxe7 9. Nf3 Nf5+ 10. Kd3 Qb5+ 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "51"]
+[White "Arctiform's Bot (by: Arctiform)"]
+[Black "ILVM (by: Wincent01)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g4 a5 2. h4 b5 3. e4 b4 4. Bb5 Bb7 5. e5 Bxh1 6. f4 Be4 7. c4 c6 8. Ba4 Bd3 9. c5 e6 10. Qb3 Qxh4+ 11. Kd1 Qxg4+ 12. Ke1 Qxg1# 0-1

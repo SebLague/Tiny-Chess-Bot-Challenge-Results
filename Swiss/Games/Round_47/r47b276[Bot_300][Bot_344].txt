@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "46"]
+[White "Bob (Looser) (by: Flo)"]
+[Black "DD9's chess bot (by: DigestDig9)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f4 d5 2. d4 c6 3. Qd3 Be6 4. Be3 Bd7 5. Qa3 Bf5 6. Qa4 Bxc2 7. Qxc2 Qb6 8. Qg6 Qxb2 9. Qh6 b5 10. Qe6 b4 11. Qc8# 1-0

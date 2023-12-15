@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "35"]
+[White "Hammerhead (by: mhart)"]
+[Black "Jack (by: Antonio P)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g3 d6 2. Bg2 Nf6 3. b3 Kd7 4. Bh3+ Kc6 5. c3 Kb5 6. c4+ Ka6 7. Bg2 Bf5 8. Na3 Be4 9. Bb2 Bxg2 10. Bxf6 exf6 11. Nb5 Bxh1 12. h4 c6 13. Na3 Ka5 14. Qc2 d5 15. Qxh7 Rxh7 16. c5 Kb4 17. d4 Kxa3 18. O-O-O Qa5 19. Kb1 Be4+ 20. Rd3 Bxd3+ 21. exd3 Qe1+ 22. Kc2 Na6 23. g4 Nb4# 0-1

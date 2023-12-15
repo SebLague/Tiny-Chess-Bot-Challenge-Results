@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "50"]
+[White "TinyNoTimeToCodeChessEngine (by: )"]
+[Black "Blitztron (by: Cameron Dugan)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a4 d5 2. e3 e6 3. Bb5+ c6 4. Bd3 Nd7 5. Bf1 h6 6. Nf3 a5 7. b3 Qf6 8. Ra2 g6 9. Bb2 e5 10. c4 d4 11. exd4 exd4 12. Nxd4 Qe7+ 13. Be2 Rh7 14. Qc2 Nb8 15. Kd1 Ra7 16. Re1 Bf5 17. Nxf5 Qg5 18. Qe4+ Kd7 19. Qd4+ Kc8 20. Nxh6 c5 21. Qg4+ Qxg4 22. Bxg4+ Kd8 23. Nxg8 b6 24. Bf6+ Kc7 25. Re8 Kd6 26. Be5+ Kc6 27. Bf3+ Kd7 28. Nf6# 1-0

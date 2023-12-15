@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "54"]
+[White "NostradamusChessNN (by: _Mus)"]
+[Black "LeMaire (by: Beaud Rémi and Mechulam Antoine)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Nc3 Nf6 3. Nf3 d6 4. d4 a6 5. Be2 Ra7 6. d5 Ne5 7. Be3 Nxf3+ 8. Bxf3 Ra8 9. O-O Qd7 10. Rc1 e5 11. dxe6 Qxe6 12. Nd5 Nxd5 13. exd5 Qe5 14. Bd4 Qf5 15. Qd3 Qxd3 16. cxd3 Bf5 17. Rxc7 Kd8 18. Rxf7 Bxd3 19. Re1 Rg8 20. Bb6+ Kc8 21. Re8# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "6"]
+[White "Sky-Bot (by: Sky64Redstone)"]
+[Black "EpsilonCheck (by: aymco)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e5 2. Nf3 Nc6 3. e4 Bc5 4. Nxe5 Nxe5 5. d4 d6 6. dxc5 dxc5 7. Qxd8+ Kxd8 8. Bf4 f6 9. O-O-O Bd7 10. Be2 Ne7 11. Bxe5 fxe5 12. Bg4 h5 13. Bxd7 a5 14. Nb5 g5 15. Be6+ Nd5 16. Rxd5+ Ke7 17. Nxc7 Ra7 18. Rd7+ Kf6 19. Bf5 g4 20. Nd5+ Kg5 21. Rg7+ Kh4 22. h3 gxh3 23. Rxh3# 1-0

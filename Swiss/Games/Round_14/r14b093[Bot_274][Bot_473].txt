@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "13"]
+[White "BoringBot (by: Carson Bates)"]
+[Black "Mulch Winnums (by: Feeding Plants)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f3 e5 2. g3 Nf6 3. d4 exd4 4. Qxd4 Nc6 5. Qe3+ Be7 6. h4 d5 7. a4 Bf5 8. c3 Nh5 9. f4 Be4 10. Rh2 b6 11. Nd2 Bc5 12. Nxe4 Bxe3 13. Bxe3 dxe4 14. g4 Ng3 15. Bg2 Qd7 16. g5 Qg4 17. Bh3 Qh5 18. Bf2 Nxe2 19. Nxe2 O-O 20. Nd4 Nxd4 21. cxd4 Qf3 22. Kf1 e3 23. g6 hxg6 24. f5 gxf5 25. Ra3 Rae8 26. d5 e2+ 27. Ke1 Qxd5 28. Bd4 Qxd4 29. Rxe2 Rxe2+ 30. Kxe2 Qxb2+ 31. Kd1 Qxa3 32. Kd2 Qxh3 33. h5 Qh4 34. Kc3 Qxa4 35. Kd2 Qg4 36. Kd3 Qxh5 37. Kc3 Qe2 38. Kb3 Qd3+ 39. Ka2 Re8 40. Ka1 Qd2 41. Kb1 Re1# 0-1

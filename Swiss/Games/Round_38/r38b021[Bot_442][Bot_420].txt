@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "37"]
+[White "Tarch (by: Taras Vuk)"]
+[Black "NostradamusChessNN (by: _Mus)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 Nc6 4. c4 Be6 5. cxd5 Qxd5 6. Nc3 Qh5 7. Be2 O-O-O 8. O-O Rg8 9. e4 h6 10. Bd2 Bg4 11. e5 Nxd4 12. Nxd4 Rxd4 13. exf6 exf6 14. Bxg4+ Rxg4 15. Bf4 Qg6 16. Qf3 Bc5 17. Rac1 Qf5 18. Nd5 Rxf4 19. Nxf4 Bd6 20. Rc4 Be5 21. Qd5 Qd7 22. Qxd7+ Kxd7 23. Rd1+ Kc8 24. Nd5 Kb8 25. Ne7 Rf8 26. Nf5 Bxb2 27. Nxg7 b6 28. Nf5 h5 29. Rh4 Rh8 30. Rd7 Rf8 31. Rxh5 Kc8 32. Rd1 Re8 33. Rh7 Re5 34. g4 Re4 35. h3 Ra4 36. Rxf7 Rxa2 37. Ne7+ Kb8 38. Kg2 b5 39. Rd2 a5 40. Nd5 b4 41. Nxc7 Kb7 42. Rd6 Be5 43. Na6+ Ka8 44. Rd8+ Bb8 45. Rxb8# 1-0

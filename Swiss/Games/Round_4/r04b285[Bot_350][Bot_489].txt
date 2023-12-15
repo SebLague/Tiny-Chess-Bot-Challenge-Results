@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "3"]
+[White "InsufficientBot (by: Sep)"]
+[Black "NoTimeLeft (by: F&F)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d3 e5 2. h4 Bb4+ 3. Qd2 Bxd2+ 4. Nxd2 d5 5. Rh3 Bxh3 6. gxh3 Qxh4 7. Bg2 Qg5 8. Bxd5 Qxg1+ 9. Nf1 c6 10. Bxf7+ Kxf7 11. a3 Qh1 12. c3 Qxh3 13. Ne3 Qc8 14. Rb1 Kf6 15. Ra1 h5 16. Bd2 Qe6 17. Nd1 Qd5 18. Kf1 Qh1# 0-1

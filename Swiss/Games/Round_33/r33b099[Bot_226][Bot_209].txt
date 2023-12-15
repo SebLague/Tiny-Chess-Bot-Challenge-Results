@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "32"]
+[White "Bob (by: Evan Leach)"]
+[Black "SimpleMCTS (by: GinoPerrotta)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e6 2. Bc4 Qf6 3. Ne2 Bc5 4. O-O Nc6 5. d4 Nxd4 6. Nxd4 Bxd4 7. e5 Qxe5 8. Nd2 Qc5 9. Be2 Qg5 10. Nf3 Qf5 11. Qxd4 b5 12. Bxb5 Qxb5 13. Qxg7 Ba6 14. Re1 h6 15. Qxh8 O-O-O 16. Bd2 f6 17. b3 Bb7 18. c4 Qb6 19. Kf1 Qd6 20. Bxh6 Nxh6 21. Qxh6 Bxf3 22. gxf3 Qd4 23. Rad1 Qc3 24. Qh5 f5 25. Qh3 a6 26. Re2 Rg8 27. Rxd7 Kxd7 28. Re3 Qg7 29. a4 Qg6 30. f4 Rf8 31. a5 c6 32. Rg3 Qf6 33. Kg2 Kc8 34. Rg5 c5 35. Qe3 Kb7 36. Qxc5 Rd8 37. Qb6+ Ka8 38. Qxa6+ Kb8 39. Qc6 Rd3 40. Qb6+ Kc8 41. Rg8+ Kd7 42. c5 Ke7 43. Qb5 Rd7 44. c6 Qf7 45. Qb8 Rd3 46. c7 Qh7 47. Qd8+ Rxd8 48. cxd8=Q+ Kf7 49. Qf8# 1-0

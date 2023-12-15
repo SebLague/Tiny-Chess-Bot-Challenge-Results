@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "7"]
+[White "MiaKBotv4.4 (by: Mia Kellett)"]
+[Black "DoesTheBotNameHasACharacterLimitBecauseIAmSureThisCanGetInterestingAndIAmNotTalkingAboutTheBotIMeanSeriouslyTheBotIsBasicalyUselessButThatWasFunnyThanksSmileyFace (by: zappynou)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e6 2. Nf3 h6 3. Ne4 Ke7 4. Nd4 Ke8 5. Nf3 Ke7 6. Ne5 Ke8 7. Nc3 Ke7 8. Nd3 Kd6 9. Ne4+ Kd5 10. Nc3+ Kc4 11. b3+ Kd4 12. e3# 1-0

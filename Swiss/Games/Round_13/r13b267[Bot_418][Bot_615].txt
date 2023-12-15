@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "12"]
+[White "Wee fella (by: Samm)"]
+[Black "Anty (by: Emanuele Sorce)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 c5 2. dxc5 Na6 3. e4 Rb8 4. e5 g5 5. Bxg5 Qc7 6. a4 Qb6 7. cxb6 h6 8. bxa7 Nb4 9. axb8=Q Nc6 10. Qxc8+ Nd8 11. Qdxd7# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "7"]
+[White "Betelchess (by: VY Canis Majoris (also special thanks to Gurren Lagann))"]
+[Black "AeroBot (by: vakqDev)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 c6 2. Qd3 Qa5+ 3. Bd2 d5 4. Bb4 Qxb4+ 5. Nd2 h5 6. Kd1 Qb6 7. Kc1 Bd7 8. Kb1 h4 9. Ndf3 Bh3 10. Kc1 Nd7 11. Kb1 Rd8 12. Kc1 c5 13. Kb1 e5 14. Kc1 Qe6 15. Kb1 Rc8 16. Kc1 Qh6+ 17. Kb1 exd4 18. c3 Ke7 19. Kc2 Rc7 20. Kb1 Qb6 21. Kc1 Qa6 22. Kb1 Qd6 23. Kc1 Qf4+ 24. Kb1 Qxh2 25. Kc1 Rh6 26. Kb1 a6 27. Kc1 Qf4+ 28. Kb1 Kd6 29. Kc2 Nb6 30. Kb1 Nf6 31. Kc2 Bxg2 32. Kb1 Qd2 33. b3 Qc2+ 34. Kxc2 Rh8 35. Kc1 g5 36. Kb1 Rd7 37. Kc1 Nc8 38. Kb1 g4 39. Kc1 Ne7 40. Kb1 Nh5 41. Kc1 g3 42. Kb1 c4 43. Kc1 cxd3 44. Kb1 Rc7 45. Kc1 Bh6+ 46. Kb1 Rc6 47. Kb2 Nf4 48. Re1 Neg6 49. Rc1 Kd7 50. Rb1 Re8 51. Re1 Ne5 52. Rc1 dxc3+ 53. Rxc3 Rg8 54. Kb1 Bf8 55. Ka1 Neg6 56. Kb1 h3 57. Ka1 d4 58. Kb1 Rc8 59. Ka1 Rc4 60. Kb1 Kc8 61. Ka1 Rh8 62. Kb1 dxc3 63. Ka1 Kc7 64. Kb1 Bxf1 65. Ka1 a5 66. Kb1 c2+ 67. Ka1 c1=Q# 0-1

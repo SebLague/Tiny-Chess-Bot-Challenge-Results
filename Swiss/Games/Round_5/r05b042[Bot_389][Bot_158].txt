@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "4"]
+[White "BoyaChess v5 (by: ArxelBlw)"]
+[Black "Turochamp (Faithful) (by: P Rivero)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 e6 2. Nc3 Nc6 3. e4 Qf6 4. Be3 Bb4 5. e5 Qg6 6. Nf3 Nge7 7. Bd3 Bxc3+ 8. bxc3 Qg4 9. h3 Qxg2 10. Rh2 Qxh2 11. Nxh2 O-O 12. Qh5 g6 13. Qh6 b6 14. Ng4 Nd5 15. Nf6+ Nxf6 16. exf6 Nxd4 17. Qg7# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "50"]
+[White "FancyDefenceFence (by: FancyDefenceFenceFan)"]
+[Black "TimsBot (by: Thomas Dvorak)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e5 2. d4 exd4 3. c4 dxc3 4. Qb3 cxb2 5. Bd2 bxa1=R 6. Qxf7+ Kxf7 7. Ne2 Rxa2 8. Bc3 h5 9. Na3 Bxa3 10. Ba1 g5 11. Bxh8 d5 12. g3 Rxe2+ 13. Kxe2 c5 14. f3 b5 15. Kd1 a5 16. Bxb5 h4 17. Be8+ Ke6 18. Bf7+ Kf5 19. g4# 1-0

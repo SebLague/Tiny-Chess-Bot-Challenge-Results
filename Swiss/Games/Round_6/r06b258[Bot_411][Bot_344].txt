@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "5"]
+[White "StallerBot (by: Ean)"]
+[Black "DD9's chess bot (by: DigestDig9)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Illegal move"]
+
+1. d3 d5 2. c4 d4 3. c5 Be6 4. e3 Bd5 5. Qa4+ 1-0

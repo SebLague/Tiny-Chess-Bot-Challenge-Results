@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "29"]
+[White "NNBot (by: Jamie Whiting)"]
+[Black "FloppyChess 4.2 (by: Omsk)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Insufficient material"]
+
+1. Nf3 Nf6 2. Nc3 d5 3. e3 e6 4. d4 c5 5. Bb5+ Bd7 6. O-O Bxb5 7. Nxb5 Nc6 8. Re1 a6 9. Nc3 Bd6 10. e4 dxe4 11. dxc5 Bxc5 12. Qxd8+ Rxd8 13. Nxe4 Nxe4 14. Rxe4 O-O 15. Be3 Bxe3 16. Rxe3 Rd5 17. g3 a5 18. Rb3 b5 19. Rc3 Rc8 20. Re1 Rdd8 21. Kg2 Ne7 22. Rxc8 Rxc8 23. Nd4 b4 24. a3 bxa3 25. bxa3 Rc4 26. Rd1 Nd5 27. Rd3 a4 28. Nb5 Rxc2 29. Rd4 g6 30. Rxa4 Ne3+ 31. Kf3 Nd1 32. Rd4 Rxf2+ 33. Ke4 Nb2 34. h4 Re2+ 35. Kf3 Rc2 36. Ke4 Rc1 37. Nd6 Re1+ 38. Kf3 Ra1 39. Nb5 Kg7 40. Ke2 Rg1 41. Rb4 Rg2+ 42. Kf3 Rd2 43. Ke3 Rc2 44. g4 Nd1+ 45. Kd3 Ra2 46. g5 h6 47. Rf4 hxg5 48. hxg5 Nf2+ 49. Kc4 e5 50. Rf3 Ne4 51. Re3 Nxg5 52. Rxe5 Ne6 53. Re1 g5 54. Kb3 Rf2 55. Rc1 g4 56. Rc3 Rf3 57. Nd6 Kg6 58. Ne4 Rxc3+ 59. Kxc3 Kf5 60. Kd3 Kf4 61. Nf6 g3 62. Nh5+ Kf3 63. Nxg3 Kxg3 64. Ke4 Nc5+ 65. Kf5 Kf3 66. Kf6 Ke3 67. Kxf7 Kd4 68. Ke7 Ne4 69. Ke6 Nd2 70. a4 Kc4 71. Kd7 Kb4 72. Kd6 Nb1 73. Kc6 Kxa4 1/2-1/2

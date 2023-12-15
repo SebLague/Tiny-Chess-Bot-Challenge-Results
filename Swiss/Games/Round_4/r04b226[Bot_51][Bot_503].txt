@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "3"]
+[White "Shenanigator (by: Gary Wawn)"]
+[Black "Max-Max-Bot (by: Tejas)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nc3 Bb4 3. Nd5 Bc5 4. b4 Bd4 5. c3 Bb6 6. Nf3 d6 7. d4 exd4 8. Qa4+ Bd7 9. Qd1 dxc3 10. Nxb6 axb6 11. Qd4 c2 12. Qxg7 Qf6 13. Bb2 Qxg7 14. Bxg7 Ra3 15. Bxh8 Rxf3 16. gxf3 c5 17. bxc5 h5 18. cxd6 f5 19. Rg1 Nh6 20. Rg6 fxe4 21. Rxh6 e3 22. Bb2 exf2+ 23. Kxf2 Nc6 24. Re1+ Kf8 25. Bc4 Ne5 26. Bxe5 c1=Q 27. Rh8# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "53"]
+[White "roboleon v4.1 bugfixed (by: CLEC)"]
+[Black "Hippo (by: MonteDegro)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. Nf3 d5 2. Nc3 d4 3. Na4 b5 4. Nc5 Qd5 5. Nd3 Nf6 6. Ng1 Nc6 7. a4 Rb8 8. axb5 Rxb5 9. f4 a5 10. Nf2 e5 11. e4 dxe3 12. Bxb5 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "63"]
+[White "NNBot (by: Jamie Whiting)"]
+[Black "200 Tokens Monstrosity (by: ErwanF)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 e6 2. Nc3 Qf6 3. d4 Bb4 4. Bg5 Qf5 5. Bd2 Nf6 6. e3 Nc6 7. Nb5 Bxd2+ 8. Nxd2 Kd8 9. Bd3 Qg5 10. O-O Nb4 11. Nf3 Qh5 12. Qd2 Nxd3 13. Qxd3 a6 14. Nc3 d6 15. e4 Bd7 16. e5 Nd5 17. Nxd5 exd5 18. Qb3 Bc6 19. exd6 cxd6 20. Rfe1 Kd7 21. Qc3 Qg4 22. Re5 f6 23. h3 Qf4 24. Rh5 g6 25. g3 Qe4 26. Re1 gxh5 27. Rxe4 dxe4 28. Nh4 Rhg8 29. Qb3 d5 30. Qe3 Rg5 31. Qf4 Ke6 32. Qc7 e3 33. Ng2 exf2+ 34. Kxf2 Rh8 35. Nf4+ Kf5 36. Qf7 Rgg8 37. Qe6+ Kg5 38. h4+ Kh6 39. Qxf6+ Rg6 40. Nxg6 Rg8 41. Ne5+ Rg6 42. Nf7# 1-0

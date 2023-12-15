@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "51"]
+[White "Sørensen's Minimax (by: Victor)"]
+[Black "StackFish (by: battlecoder)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 Nf6 2. Qf3 d5 3. Qf4 Ne4 4. Nc3 g5 5. Qe5 f6 6. Qd4 Nc6 7. Qa4 Nc5 8. Qb5 e5 9. Be2 Bf5 10. Bh5+ Kd7 11. Nxd5 Ke6 12. Nc3 Kd6 13. b4 Ne4 14. Qd5+ Ke7 15. Qf7+ Kd6 16. Nb5# 1-0

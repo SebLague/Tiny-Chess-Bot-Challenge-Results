@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "58"]
+[White "Celluar Automaton Iterated (by: Pix)"]
+[Black "SlothBot (by: 0xFF)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. c3 Nf6 2. e3 e5 3. f3 d5 4. Bb5+ c6 5. Bf1 Bd6 6. Ne2 O-O 7. Qc2 e4 8. Ng1 Qc7 9. Qb3 Bxh2 10. Qc2 Qg3+ 11. Kd1 Bxg1 12. Be2 Qxg2 13. Rh4 Bxe3 14. dxe3 exf3 15. Rb4 Qg1+ 16. Kd2 Ne4+ 17. Kd3 fxe2 18. Kxe2 Qh2+ 19. Ke1 1-0

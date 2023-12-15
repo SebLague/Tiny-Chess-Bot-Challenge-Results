@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "42"]
+[White "HERO-bot (by: ELEMENTLHERO)"]
+[Black "NotSoEvilBot (by: AntVil)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 a6 2. Nf3 a5 3. b4 axb4 4. Nd5 b3 5. Nxc7+ Qxc7 6. c4 bxa2 7. c5 b6 8. g3 bxc5 9. Ne5 c4 10. Nxc4 d6 11. Nb6 Qxc1 12. Qxc1 d5 13. Qxc8# 1-0

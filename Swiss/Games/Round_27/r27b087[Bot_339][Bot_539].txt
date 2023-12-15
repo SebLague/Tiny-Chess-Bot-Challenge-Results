@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "26"]
+[White "TinyNoTimeToCodeChessEngine (by: )"]
+[Black "Nautilus (by: Sherlock)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a4 d5 2. e3 Nc6 3. Bb5 e5 4. Qh5 e4 5. Qe5+ Be6 6. Bxc6+ bxc6 7. Nc3 Nf6 8. Qg5 h6 9. Qe5 Bd6 10. d4 Bxe5 11. dxe5 Nh5 12. Nge2 Qg5 13. g4 Bxg4 14. Rg1 Qh4 15. Nd4 Bd7 16. Rh1 O-O 17. Rb1 Rae8 18. Nb3 Rxe5 19. Nc5 Bg4 20. Rg1 Rf5 21. N3xe4 dxe4 22. Nxe4 Re8 23. Ng3 Qxh2 24. Nxf5 Qxg1+ 25. Kd2 Qxf2+ 26. Kc3 Bxf5 27. Bd2 Rd8 28. Rd1 Qe2 29. e4 Qxe4 30. Re1 Qxc2+ 31. Kb4 Rd4+ 32. Ka3 Rxa4# 0-1

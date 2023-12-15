@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "15"]
+[White "Tarch (by: Taras Vuk)"]
+[Black "Nathe-Bot (by: NatheSpike)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 d5 2. Nf3 Nf6 3. Nc3 e6 4. g3 c5 5. e3 Nc6 6. Bg2 Bd6 7. O-O O-O 8. a4 a6 9. Re1 Bd7 10. dxc5 Bxc5 11. Bd2 e5 12. Rc1 e4 13. Ng5 Qc8 14. Nxd5 Nxd5 15. Nxe4 Be7 16. c4 Ndb4 17. Bxb4 Bxb4 18. Nc3 Re8 19. Qb3 a5 20. Rcd1 Be6 21. f4 Ne7 22. Bd5 Bxd5 23. cxd5 Nf5 24. Kf2 Qc5 25. Rd3 Rac8 26. Qc2 Nd6 27. Rc1 Ne4+ 28. Kf3 Qe7 29. Qe2 Bxc3 30. bxc3 Nc5 31. Rdd1 Qe4+ 32. Kf2 Qxa4 33. c4 Qd7 34. Kg2 a4 35. Re1 Nb3 36. Rc3 b5 37. e4 Qe7 38. Qc2 Qc5 39. d6 Qc6 40. c5 f5 41. d7 Qxd7 42. c6 Qe6 43. c7 fxe4 44. Rc6 Qd5 45. Qc3 e3+ 46. Kh3 e2 47. Kg4 Nd2 48. Qc1 Qd7+ 49. f5 Re4+ 50. Kh3 Re5 51. Re6 Rxe6 52. fxe6 Qxe6+ 53. Kg2 Qe4+ 54. Kh3 Nf3 55. Rxe2 Qxe2 56. Qc5 Qe5 57. Qa7 Ne1 58. Qc5 Qxc5 59. Kg4 g6 60. Kf4 Qd4+ 61. Kg5 Nf3+ 62. Kh6 Qg7# 0-1

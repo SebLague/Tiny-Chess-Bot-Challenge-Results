@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "10"]
+[White "AIsaac (by: Isaac Ellwood)"]
+[Black "Good Bot Bad Bot (But Really, Both Are Terrible Bots, Also This In The Parenthesis Is Part Of The Name) (by: Legend)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 c6 2. g4 Nh6 3. e4 Nxg4 4. Bc4 Nxf2 5. Kxf2 g6 6. Ke1 Na6 7. Kf1 Nc5 8. Ke1 Nxe4 9. d4 f6 10. b4 g5 11. Qh5# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "45"]
+[White "ONE MOVE TO RULE THEM ALL (by: b4ux1t3)"]
+[Black "Captain Botvious (by: Selim Sheta)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 d5 2. c4 dxc4 3. Qa4+ c6 4. Qxc4 Qa5+ 5. Qc3 Qxc3+ 6. bxc3 Bd7 7. Bd2 Na6 8. f3 O-O-O 9. d5 cxd5 10. Bh6 Nxh6 11. Na3 e5 12. c4 Bxa3 13. cxd5 Bb4+ 14. Kd1 Ba4+ 15. Kc1 Rxd5 16. h3 Ba3+ 17. Kb1 Rd1# 0-1

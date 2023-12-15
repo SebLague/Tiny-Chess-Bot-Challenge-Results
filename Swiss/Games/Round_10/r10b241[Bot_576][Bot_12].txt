@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "9"]
+[White "EvilerBot (by: Noah)"]
+[Black "Aggressive Fool (by: ZZKer (she/her pronouns))"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 d6 2. e3 Na6 3. Bxa6 bxa6 4. g4 Bxg4 5. d3 Bxf3 6. Qxf3 Kd7 7. Qxa8 Qxa8 8. O-O Qh1+ 9. Kxh1 d5 10. Rd1 Kc8 11. h3 Nh6 12. d4 Kd8 13. f3 e5 14. Rd3 exd4 15. Bd2 dxe3 16. Rxe3 c5 17. c3 g5 18. h4 gxh4 19. a3 Kc8 20. Re1 d4 21. Bxh6 Bxh6 22. Re4 dxc3 23. Nxc3 Be3 24. Rxe3 h3 25. Nb1 Kb8 26. a4 Kc7 27. Rea3 Rd8 28. Nc3 Rd1+ 29. Nxd1 Kc6 30. Re3 a5 31. Nf2 a6 32. Raa3 Kb7 33. Nd3 h2 34. Re1 Ka8 35. Kxh2 h6 36. Rd1 f5 37. Rf1 h5 38. Nf4 Kb7 39. Nd3 Ka7 40. Raa1 Kb7 41. Nf4 h4 42. Rfb1 Kb6 43. Ne2 h3 44. Rg1 c4 45. Raf1 Kb7 46. Rg5 Ka7 47. Ng3 Ka8 48. Nh5 c3 49. bxc3 Ka7 50. Rg7+ Ka8 51. Rd1 f4 52. Rd8# 1-0

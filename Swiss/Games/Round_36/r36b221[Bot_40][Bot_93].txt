@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "35"]
+[White "holcak-bot (by: Petr Holčák)"]
+[Black "AIsaac (by: Isaac Ellwood)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. h4 h5 2. f4 f5 3. d4 e5 4. dxe5 Bb4+ 5. Kf2 Bc5+ 6. Kg3 g5 7. Nh3 g4 8. c4 gxh3 9. gxh3 Ke7 10. a4 Ke6 11. a5 Ke7 12. b3 Ke6 13. Nc3 Ke7 14. Nd5+ Ke6 15. Nc3 Ke7 16. Nd5+ Ke6 17. Nc3 1/2-1/2

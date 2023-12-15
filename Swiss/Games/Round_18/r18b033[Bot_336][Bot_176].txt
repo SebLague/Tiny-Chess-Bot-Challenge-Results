@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "17"]
+[White "EpsilonCheck (by: aymco)"]
+[Black "Euphoria (by: Andrew Merrill)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. h4 Nf6 3. Nc3 e5 4. Bc4 Nxe4 5. Nxe4 d5 6. d3 dxc4 7. dxc4 Qxd1+ 8. Kxd1 Bg4+ 9. Nf3 O-O-O 10. Bd2 f5 11. Ng5 e4 12. Nf7 exf3 13. g3 Bc5 14. Nxh8 Bxf2 15. Nf7 Rd7 16. Ng5 Be3 17. Re1 f2+ 18. Kc1 fxe1=Q# 0-1

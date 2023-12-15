@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "38"]
+[White "The Chotic bot (by: EV3L1N)"]
+[Black "Edbd (by: Ahmad)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. e3 h5 2. e4 g5 3. a3 f5 4. Nc3 fxe4 5. Nf3 exf3 6. b3 fxg2 7. Ne4 gxf1=B 8. h4 gxh4 9. Rg1 e5 10. Qg4 hxg4 11. Rxg4 1-0

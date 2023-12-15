@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "56"]
+[White "ImpossiBot (by: StefanDeSterke)"]
+[Black "Look Ma, No Piece Square Table (by: DegaLaman)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 Na6 2. Rb1 Nb4 3. Ra1 Rb8 4. f4 Ra8 5. Kf2 Rb8 6. Ke1 Nd5 7. d4 Ra8 8. e4 Nb4 9. d5 Na6 10. Bxa6 bxa6 11. f5 Rb8 12. Kf1 Rb4 13. e5 a5 14. c4 Rb6 15. h3 Rb4 16. Bd2 Rxb2 17. Nb5 Ba6 18. a4 c6 19. Bc3 cxb5 20. axb5 Rxb5 21. cxb5 Bxb5+ 22. Ke1 a4 23. h4 Qb6 24. Qf3 Qb7 25. h5 Nh6 26. f6 Rg8 27. fxe7 Bxe7 28. Bd2 Rh8 29. Rb1 Qb8 30. d6 Bd8 31. Ne2 Qb6 32. Nc3 a6 33. Nxb5 axb5 34. Qe2 Qc6 35. Rxb5 Nf5 36. e6 Nxd6 37. exd7+ Kxd7 38. Qg4+ Ke7 39. Rb4 Re8 40. Kd1 Kf8 41. Rxa4 Ne4 42. Rxe4 Rxe4 43. Qf5 Qa4+ 44. Kc1 Rc4+ 45. Kb2 Bf6+ 46. Qxf6 Qc2+ 47. Ka1 Ra4# 0-1

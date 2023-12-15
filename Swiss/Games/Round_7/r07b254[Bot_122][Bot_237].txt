@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "6"]
+[White "TeacherBot (by: qumquat)"]
+[Black "DeepDumb (by: OutdoorsyEngineer)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 c6 2. Bc4 e5 3. Qh5 Qa5 4. Qxf7+ Kd8 5. Nh3 Qa4 6. Qe6 Nf6 7. Kd1 Ng4 8. Nc3 Qb4 9. Qd6 Qb6 10. Nf4 Qxf2 11. h4 exf4 12. Bf1 Nh2 13. Qd4 f3 14. Qc5 Bxc5 15. g3 Nxf1 16. Nb1 Qe2# 0-1

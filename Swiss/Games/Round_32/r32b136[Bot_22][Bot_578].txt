@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "31"]
+[White "BigBrainBot (by: Leo)"]
+[Black "Exceptionally mid (by: Evan Rogerson)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nc6 2. Nc3 Nb4 3. a3 Na6 4. d4 d6 5. Qd3 Nb8 6. Bf4 Bg4 7. Qb5+ Nc6 8. Qxb7 Na5 9. Qa6 c6 10. b4 Qc8 11. Qxa5 f5 12. O-O-O h6 13. h3 g5 14. hxg4 gxf4 15. gxf5 Qd8 16. Rh4 Bg7 17. Rxf4 Qxa5 18. bxa5 h5 19. Kb2 Bh6 20. Rh4 Nf6 21. e4 d5 22. e5 Nd7 23. Bd3 c5 24. dxc5 Nxc5 25. Bb5+ Kf8 26. Rxd5 a6 27. Bc4 Rc8 28. Rd1 e6 29. f6 Rh7 30. Re1 Rb8+ 31. Ka1 Rc7 32. Rxh5 Nd7 33. Rxh6 Rbb7 34. Bxe6 Rxc3 35. Rh8# 1-0

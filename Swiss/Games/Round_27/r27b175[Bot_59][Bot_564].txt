@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "26"]
+[White "Generic Chess Bot #1000000 (by: Anthony)"]
+[Black "Elf-1200 (by: Elliot Throop)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 d5 2. e3 Nc6 3. Ng5 Qd6 4. Bb5 Nf6 5. Qf3 Bg4 6. Qf4 e5 7. Qg3 a6 8. Bxc6+ bxc6 9. Qh4 Qb4 10. a3 Qc4 11. f3 Be7 12. fxg4 Kd7 13. Nxf7 Nxg4 14. Qh3 Ke6 15. Nxh8 Rxh8 16. d4 h5 17. Kd2 Rf8 18. dxe5 Rf2+ 19. Kd1 Qe2# 0-1

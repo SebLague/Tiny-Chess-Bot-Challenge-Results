@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "11"]
+[White "TinyLispChessBot (by: tr00)"]
+[Black "SFN v 2.0 (by: SFN)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Na3 h5 2. Nb5 Rh6 3. Rb1 Rb6 4. e3 Rxb5 5. Bxb5 Nf6 6. Kf1 c6 7. Ba4 Ne4 8. Qxh5 Qb6 9. Ke1 Qxe3+ 10. fxe3 c5 11. Qh8 e6 12. d3 b5 13. Bxb5 e5 14. dxe4 g6 15. Qxe5+ Be7 16. Kd1 Bb7 17. Qh8+ Bf8 18. Qe5+ Be7 19. Qh8+ Bf8 20. Qe5+ Kd8 21. Qh8 Kc8 22. Qxf8+ Kc7 23. Qe8 f5 24. exf5 Na6 25. Qxd7+ Kb6 26. fxg6 Rg8 27. Bf1 Rxg6 28. Qb5+ Kc7 29. Qa5+ Kd7 30. Qb5+ Ke7 31. Qxb7+ Ke8 32. Qe4+ Kf8 33. Qf5+ Ke7 34. Qe4+ Kd8 35. Qd3+ Ke7 36. Qe4+ Kf7 37. Bc4+ Kf8 38. Qf5+ Ke8 39. Qxg6+ Kd7 40. Qxa6 Kd8 41. Qxa7 Kc8 42. Ke1 Kd8 43. Kd1 Kc8 44. Ke1 Kd8 45. Kd1 1/2-1/2

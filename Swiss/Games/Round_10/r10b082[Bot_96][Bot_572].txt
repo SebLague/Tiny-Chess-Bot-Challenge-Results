@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "9"]
+[White "Chess Bot (by: M)"]
+[Black "Vast V2 (by: Joseph Pasfield)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 Qe7 4. d4 d6 5. Bb5+ c6 6. Bd3 dxe5 7. Be3 Qb4+ 8. c3 Qxb2 9. dxe5 Ng4 10. Bd4 Qxa1 11. h3 Nh6 12. f4 c5 13. Be3 Qxa2 14. Nd2 Qa3 15. Nb1 Qa5 16. g4 g6 17. f5 Nc6 18. fxg6 hxg6 19. Bc4 Nxe5 20. Bb3 Nhxg4 21. Bf4 Qa6 22. Ba4+ b5 23. Bb3 c4 24. Rf1 Rxh3 25. Bc2 Bg7 26. Nd2 Ne3 27. Bxe3 Rxe3+ 28. Kf2 Rxc3 29. Nxc4 Qf6+ 30. Ke1 Qh4+ 31. Kd2 Nxc4+ 32. Kc1 Qg5+ 33. Kb1 Na3+ 34. Ka2 Rxc2+ 35. Qxc2 Be6+ 36. Qb3 Qd2+ 37. Kxa3 Bf8+ 38. Qb4 Bxb4# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "9"]
+[White "RichyRoo (by: devrichgg)"]
+[Black "More Recursion! (by: Bden)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 d5 2. Nf3 c6 3. Rb1 Qa5 4. Rg1 Bg4 5. Ne5 Bh5 6. Ra1 d4 7. Nc4 dxc3 8. Nxa5 cxd2+ 9. Bxd2 b5 10. Nb7 f5 11. a4 bxa4 12. Rxa4 a6 13. Rd4 Nf6 14. Rd8+ Kf7 15. Bf4 e6 16. Rxb8 Rxb8 17. Bxb8 Bb4+ 18. c3 Be7 19. Bf4 Ne4 20. Qd7 Nxf2 21. Kxf2 Bxe2 22. Bxe2 Rg8 23. Bxa6 Rh8 24. Qxc6 Bf6 25. Qd7+ Kg8 26. Qe8# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "58"]
+[White "TeacherBot (by: qumquat)"]
+[Black "HERO-bot (by: ELEMENTLHERO)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 h5 2. Bc4 b5 3. Qxh5 Rh6 4. Qxf7# 1-0

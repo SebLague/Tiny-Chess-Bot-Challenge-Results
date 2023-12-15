@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "10"]
+[White "holcak-bot (by: Petr Holčák)"]
+[Black "NameGoesThere's bot (by: NameGoesThere)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 e5 2. h5 d5 3. a4 e4 4. f4 d4 5. c4 Ne7 6. b4 Nd7 7. g4 f6 8. b5 c5 9. Nh3 Qc7 10. f5 Qg3+ 11. Nf2 Ne5 12. g5 fxg5 13. f6 Nf5 14. fxg7 Bxg7 15. a5 Nd3+ 16. exd3 exd3 17. Na3 Qe5+ 18. Ne4 Qxe4+ 19. Kf2 Qxh1 20. Bxd3 Qxd1 21. Bb2 Qxd2+ 22. Kf3 Qxd3+ 23. Kg4 Qg3# 0-1

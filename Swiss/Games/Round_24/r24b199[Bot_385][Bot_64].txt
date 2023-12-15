@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "23"]
+[White "3D.Opening Bot (by: Mark Grennan)"]
+[Black "offtensive Crane (by: Joao Santos)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. d4 b6 2. Nc3 c6 3. Nf3 d6 4. Ng5 f6 5. Nge4 f5 6. Ng3 e6 7. Qd3 g6 8. Qf3 c5 9. Qxa8 Nd7 10. Qxa7 Ndf6 11. dxc5 bxc5 12. Bg5 Ng4 13. Bxd8 Kxd8 14. e3 h6 15. Bc4 e5 16. Qb6+ Kd7 17. Qa7+ Kd8 18. Qb6+ Kd7 19. Qa7+ Kd8 1/2-1/2

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "9"]
+[White "PAtATtO (by: Willem Paternotte)"]
+[Black "applemethod-orz (by: RedBlackTree)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f4 e6 2. Nf3 Ne7 3. d3 c6 4. Qd2 Na6 5. h3 Rb8 6. Rg1 f5 7. d4 Qc7 8. Rh1 Nd5 9. h4 c5 10. Rh2 cxd4 11. h5 Ne3 12. Nxd4 Qxf4 13. Qd3 Bb4+ 14. c3 Bxc3+ 15. bxc3 Qg3+ 16. Kd2 Nxf1+ 17. Kc2 Qxh2 18. Kb2 Qxg2 19. c4 Nc5 20. Ka3 Nxd3 21. exd3 Qh3 22. Nc3 Qxd3 23. Bb2 Ne3 24. Kb3 Qxd4 25. c5 Qc4+ 26. Ka3 Nc2# 0-1

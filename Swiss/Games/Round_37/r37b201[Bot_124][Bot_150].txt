@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "36"]
+[White "Depth2 (by: David Montealegre)"]
+[Black "jmcgbot (by: jmcg)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 c5 2. Ne4 e5 3. Nf3 f5 4. Nc3 a6 5. Nxe5 Qe7 6. Nf3 g6 7. e3 h5 8. Ne2 d5 9. Nf4 Qd6 10. Nd3 b5 11. Ng1 g5 12. Nf3 c4 13. Nc5 Qxc5 14. Nxg5 h4 15. Nf3 a5 16. Ne5 Ne7 17. c3 Bg7 18. Nf3 a4 19. b4 axb3 20. a3 Nd7 21. Ng5 Bf6 22. Bxc4 Qxc4 23. Ne6 Ng6 24. d3 Qxc3+ 25. Kf1 b2 26. Bxb2 Qxb2 27. Qf3 Qxa1+ 28. Ke2 Qb2+ 29. Kd1 Qa1+ 30. Kd2 Qb2+ 31. Kd1 Qa1+ 32. Ke2 Qb2+ 33. Ke1 Bc3+ 34. Kf1 Qc1+ 35. Ke2 Qxh1 36. Qxf5 Qxh2 37. Qxd5 Rxa3 38. Qg5 Ra2+ 39. Kf3 Nde5+ 40. Ke4 Bxe6 41. d4 Rh5 42. Qxh5 Qxg2+ 43. f3 Qc2# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "MirrorBot (by: Jackk)"]
+[Black "InfuehrDaniel MCTS (by: Daniel Infuehr)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d3 e5 2. e4 Qh4 3. Qh5 Bb4+ 4. Nd2 Bc3 5. bxc3 Qf6 6. Qxf7+ Qxf7 7. Rb1 Ne7 8. Ne2 g5 9. g4 b6 10. Rxb6 d6 11. Nb1 Qf3 12. Bxg5 axb6 13. Bxe7 Kxe7 14. Ng3 Qf7 15. Ne2 Kd8 16. Nc1 Qf3 17. c4 Bxg4 18. Nb3 Qd1# 0-1

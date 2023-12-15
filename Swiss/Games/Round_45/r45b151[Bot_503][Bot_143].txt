@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "44"]
+[White "Max-Max-Bot (by: Tejas)"]
+[Black "abariba (by: abariba)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 a5 2. Bc4 e6 3. e5 Qg5 4. Nf3 Qxg2 5. Rg1 Qh3 6. Rg3 Qf5 7. Kf1 h5 8. d4 Qe4 9. Nc3 Qc6 10. Bb5 Qb6 11. b4 axb4 12. d5 bxc3 13. a4 h4 14. Be3 Qa5 15. Rh3 g5 16. Nxg5 b6 17. dxe6 fxe6 18. Qf3 Qxb5+ 19. axb5 Rxa1+ 20. Kg2 c5 21. Qf7+ Kd8 22. Qxf8+ Kc7 23. Ne4 c4 24. f4 Rd1 25. Qe8 Bb7 26. Bxb6+ Kxb6 27. Qxb8 Nf6 28. Qxh8 Bxe4+ 29. Kf2 Ng4+ 30. Ke2 Rd2+ 31. Ke1 Rxc2 32. Rxh4 Rc1+ 33. Ke2 Bd3+ 34. Kf3 Nxh2+ 35. Rxh2 Rf1+ 36. Kg4 Rg1+ 37. Kh5 Bg6+ 38. Kh6 Be4 39. Qd8+ Kc5 40. Qe7+ Kxb5 41. Qxd7+ Kb4 42. Qe7+ Kb3 43. Qc5 Rg6+ 44. Kh5 Rg3 45. Qb6+ Ka3 46. Kh4 Rf3 47. Qd6+ Ka4 48. Qxe6 Rxf4+ 49. Kg5 Rf5+ 50. Kh6 Ka3 51. Qxc4 Bb1 52. Qxc3+ Ka4 53. Rb2 Rh5+ 54. Kxh5 Bg6+ 55. Kh6 Bc2 56. Qb4# 1-0

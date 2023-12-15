@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "58"]
+[White "GOYO Bot v1.1.2 (by: Goyo)"]
+[Black "DrunkBot (by: rootNico)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 h5 2. e5 a5 3. Bd3 Nh6 4. Qxh5 c6 5. Bc4 g6 6. Qf3 d5 7. Qe3 f5 8. Qd4 b5 9. Qf4 Be6 10. Qe3 Bf7 11. Nc3 Qd7 12. Nf3 bxc4 13. Nd4 Qc8 14. Nf3 Na6 15. Nd4 Nb8 16. Nf3 a4 17. Nd4 f4 18. Qxf4 Ng8 19. Qe3 Rh5 20. Nf3 Bh6 21. Nd4 Bxe3 22. fxe3 Rf5 23. Nxf5 a3 24. Ng7+ Kd7 25. e6+ Bxe6 26. Nxe6 d4 27. Nxd4 axb2 28. Bxb2 Ra7 29. Rd1 g5 30. Ne4 Qc7 31. Nc5+ Kd6 32. Ne4+ Ke5 33. Nf3+ Kd5 34. Nc3+ Kd6 35. Ne4+ Ke6 36. Nfxg5+ Kd5 37. Nc3+ Kd6 38. Nge4+ Ke5 39. Ne2+ Kf5 40. Nd4+ Kg4 41. Nf2+ Kh5 42. g4+ Kg6 43. Ne6 Qd7 44. Nf4+ Kh6 45. Bh8 Qd8 46. h4 Ra6 47. g5+ Kh7 48. g6+ Kxh8 49. g7+ Kh7 50. Rh3 Nd7 51. h5 Kh6 52. Ng4+ Kh7 53. Rh2 Qe8 54. Rh3 Nc5 55. Rh2 Ra3 56. Rh3 Qd7 57. Rh2 Qa7 58. Rh3 Qa6 59. Rh2 e6 60. Rg2 Ra4 61. Rh2 Qa7 62. Rh3 Qa5 63. Rh2 Ra3 64. Rg2 Qb5 65. Rh2 Ne7 66. g8=Q+ Kxg8 67. Nf6+ Kg7 68. Rg2+ Kf8 69. Nh7+ Kf7 70. Ng5+ Kg8 71. Ngh3+ Kf8 72. Ng5 Qa4 73. Nh7+ Kf7 74. Ng5+ Kf8 75. Nh7+ Ke8 76. Nf6+ Kd8 77. Re2 Qb3 78. axb3 cxb3 79. d4 Ra6 80. dxc5+ Kc8 81. Nxe6 Ra2 82. Rd6 Rb2 83. Nd4 Nf5 84. Rxc6+ Kb8 85. Nxf5 Rxc2 86. Rb6+ Ka7 87. Rxb3 Ka6 88. Rxc2 Ka7 89. Ra2# 1-0

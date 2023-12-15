@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "40"]
+[White "Single Player (by: Salty Scientist)"]
+[Black "GM Manneken pis (by: Broguld)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 h5 2. Qg4 hxg4 3. Nc3 g3 4. Bc4 b5 5. Nf3 bxc4 6. Ne5 d6 7. hxg3 Rxh1+ 8. Ke2 dxe5 9. d3 cxd3+ 10. cxd3 Bg4+ 11. Kd2 g5 12. Kc2 f5 13. Bd2 Rxa1 14. Nd5 Qxd5 15. Bc1 Qc5+ 16. Kb3 Bd1# 0-1

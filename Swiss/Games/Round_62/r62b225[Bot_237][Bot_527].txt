@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "61"]
+[White "DeepDumb (by: OutdoorsyEngineer)"]
+[Black "Stickleback (by: Brent Mardell)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. h3 d5 3. Bc4 dxc4 4. Na3 Nf6 5. Qe2 Nxe4 6. Qh5 Nxf2 7. Kxf2 Bc5+ 8. Ke1 Nc6 9. Qe2 Be6 10. b4 cxb3 11. d4 Qxd4 12. Rb1 bxc2 13. Rxb7 O-O 14. Qxc2 Bxa3 15. Bxa3 Rfb8 16. Qxc6 Rxb7 17. Qxb7 Rb8 18. Qxb8+ Bc8 19. Qxc8+ Qd8 20. Qxd8# 1-0

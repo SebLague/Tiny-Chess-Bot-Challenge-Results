@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "21"]
+[White "SlothBot (by: 0xFF)"]
+[Black "WingBot (by: Benjamin Iserman)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Na6 2. d4 Nf6 3. Nc3 b6 4. e4 c6 5. Ne5 e6 6. Bc4 Bb4 7. Bd3 Ke7 8. O-O Ke8 9. a3 Ba5 10. b4 Ke7 11. bxa5 bxa5 12. Bf4 Qb6 13. Bc4 d6 14. Rb1 Qc7 15. Ng4 g6 16. Bg5 h5 17. Nxf6 Kd8 18. Nfd5+ Kd7 19. Nxc7 Kxc7 20. Qf3 Rh7 21. Qf6 Kd7 22. Bxe6+ fxe6 23. Qd8# 1-0

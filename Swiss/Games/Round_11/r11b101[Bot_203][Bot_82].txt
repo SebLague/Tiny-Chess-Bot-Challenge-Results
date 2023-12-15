@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "10"]
+[White "1o1 (by: Pavan Manish)"]
+[Black "Bruteforcer (by: SiestaGuru)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. d4 dxe4 3. Nf3 exf3 4. gxf3 e5 5. c3 Qe7 6. Be3 Bf5 7. Qb3 c6 8. Bc4 exd4 9. cxd4 Bxb1 10. Rxb1 Na6 11. Bxa6 bxa6 12. a3 a5 13. h3 Nh6 14. Kd1 Nf5 15. Re1 O-O-O 16. Qd3 Nxe3+ 17. fxe3 c5 18. Qc3 Qc7 19. Kc1 cxd4 20. Qxc7+ Kxc7 21. e4 Rd6 22. Kc2 Rf6 23. Kc1 Rxf3 24. Ra1 Rxh3 25. Kb1 Re3 26. Rxe3 dxe3 27. Ka2 Bd6 28. Rc1+ Kb8 29. Rc3 e2 30. Re3 Re8 31. Rxe2 h5 32. Rd2 Bf4 33. Rd5 Re5 34. Rxe5 Bxe5 35. b4 h4 36. b5 h3 37. Kb3 h2 38. Ka4 h1=Q 39. Kb3 Qxe4 40. Ka2 Qc2# 0-1

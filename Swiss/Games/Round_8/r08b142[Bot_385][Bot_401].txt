@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "7"]
+[White "3D.Opening Bot (by: Mark Grennan)"]
+[Black "BlindfoldBot (by: Mk-0)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. d4 a6 2. Nc3 a5 3. Nf3 a4 4. Ne5 d6 5. Nc4 d5 6. Ne3 c6 7. Qd3 a3 8. bxa3 e6 9. Nb1 Qa5+ 10. Kd1 b6 11. Qb3 b5 12. c4 bxc4 13. Qb2 Qa4+ 14. Nc2 f6 15. Rg1 Bd6 16. Rh1 Bf8 17. Rg1 Bd6 18. Rh1 Bf8 1/2-1/2

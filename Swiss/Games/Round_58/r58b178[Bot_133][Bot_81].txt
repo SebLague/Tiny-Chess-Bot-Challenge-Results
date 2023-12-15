@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "57"]
+[White "MinimaxAttackerBot5000 (by: ChrisCat123)"]
+[Black "Paroch (by: Bronson)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 c5 2. Rb1 h5 3. Ra1 d6 4. Nb5 a5 5. e3 d5 6. Qf3 h4 7. Kd1 e5 8. Ke1 g6 9. Kd1 g5 10. Ke1 b6 11. Kd1 f6 12. Ke1 f5 13. Kd1 a4 14. Ke1 e4 15. Qh3 g4 16. Nd6+ Bxd6 17. Bb5+ Kf8 18. Bc6 gxh3 19. Bxa8 hxg2 20. Bxd5 gxh1=Q 21. Kf1 Ba6+ 22. d3 Bxd3+ 23. cxd3 Qxh2 24. dxe4 fxe4 25. Rb1 b5 26. Ra1 b4 27. Rb1 c4 28. Ra1 c3 29. bxc3 bxc3 30. Rb1 h3 31. Bxg8 Qg2+ 32. Ke2 Qg4+ 33. f3 exf3+ 34. Nxf3 Qg2+ 35. Kd3 Be5+ 36. Ke4 Nd7 37. Rb5 Qa8+ 38. Kd3 Qg6+ 39. Ke2 Qc2+ 40. Bd2 cxd2 41. Nxd2 Qg2+ 42. Ke1 Qcxd2# 0-1

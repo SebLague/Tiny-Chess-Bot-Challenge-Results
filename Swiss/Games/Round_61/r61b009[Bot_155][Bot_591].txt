@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "60"]
+[White "CompressionBot (by: Nathan George)"]
+[Black "Rigel (by: Antares (Github: Alex2262))"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. Nc3 d5 3. d4 e6 4. e3 c5 5. Bb5+ Bd7 6. O-O Bxb5 7. Nxb5 a6 8. Nc3 Nc6 9. Ne5 Qc7 10. Nxc6 Qxc6 11. g4 h6 12. Qf3 Bd6 13. a3 O-O 14. Re1 Rac8 15. Qg2 cxd4 16. exd4 Qb6 17. Rd1 Rc4 18. g5 hxg5 19. Bxg5 Nh5 20. Rdb1 Qxd4 21. Rd1 Qg4 22. h3 Qxg2+ 23. Kxg2 Be5 24. Kg1 Rfc8 25. Rab1 b5 26. Rd3 Bxc3 27. bxc3 Rxc3 28. Rxc3 Rxc3 29. a4 bxa4 30. Rb6 f6 31. Be3 e5 32. Rxa6 d4 33. Ra8+ Kf7 34. Ra7+ Ke6 35. Bc1 Rxc2 36. Ba3 d3 37. Rxa4 d2 38. Ra6+ Kf5 39. Rd6 Rc1+ 40. Kh2 d1=Q 41. Rxd1 Rxd1 42. Bf8 Ke4 43. Kg2 Nf4+ 44. Kg3 Rg1+ 45. Kh2 Rg2+ 46. Kh1 Kf3 47. Bc5 Nxh3 48. Be3 Rg4 49. Kh2 Rh4 50. Bg5 fxg5 51. Kh1 Nxf2+ 52. Kg1 Rh1# 0-1

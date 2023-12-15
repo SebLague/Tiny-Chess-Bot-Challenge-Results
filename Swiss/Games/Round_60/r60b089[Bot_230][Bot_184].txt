@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "59"]
+[White ":3 (by: Lauri Räsänen)"]
+[Black "Chessinator 3000 (by: )"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. e4 e5 2. c3 Qf6 3. h4 Bc5 4. Nf3 Qb6 5. Nxe5 Bxf2+ 6. Ke2 Nc6 7. d4 Bg3 8. Nc4 Qb5 9. Ke3 Bf4+ 10. Kxf4 Ke7 0-1

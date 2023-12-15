@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "6"]
+[White "Headless Chicken (by: Nat)"]
+[Black "YDepth (by: Jerome Engelbrecht)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qd5 Nf6 5. Qb5 Nxe4 6. Bf4 Bc5 7. Ne2 Bxf2+ 8. Kd1 Bb6 9. Nbc3 Nf2+ 10. Ke1 Nxh1 11. g3 Qe7 12. Bg2 Nd4 13. Qd3 Nf2 14. Kxf2 Nxc2+ 15. Kf1 Nxa1 16. Nd5 Qc5 17. Be3 Qd6 18. Qe4+ Kf8 19. Bf4 Qe6 20. Qxe6 fxe6 21. Nxc7 Bxc7 22. Bxc7 Kf7 23. Bd6 Kf6 24. Be4 h6 25. Nc3 a5 26. Ke1 Ra6 27. Bc5 Ke5 28. Kd1 d5 29. Bd3 Rc6 30. Be3 d4 31. Bf4+ Kf6 32. Ne4+ Kf7 33. Nd6+ Ke7 34. Nxc8+ Rhxc8 35. Bd2 a4 36. Bb4+ Kf6 37. Bd2 Rb6 38. b4 axb3 39. axb3 Nxb3 40. h3 Nxd2 41. Kxd2 Rc3 42. Be4 Rb2+ 43. Kd1 Rh2 44. g4 Rg3 45. g5+ Rxg5 46. Bxb7 Rg1# 0-1

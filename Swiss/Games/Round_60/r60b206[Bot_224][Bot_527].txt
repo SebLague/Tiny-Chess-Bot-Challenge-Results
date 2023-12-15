@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "59"]
+[White "RP Bot (by: Matt Enad (RobProductions))"]
+[Black "Stickleback (by: Brent Mardell)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 d5 2. c3 Nf6 3. Qa4+ Nc6 4. Nf3 e5 5. Nxe5 Be6 6. e3 Bd6 7. Nxc6 bxc6 8. Qxc6+ Kf8 9. f3 Qe7 10. Qxa8+ Bc8 11. Qxc8+ Qd8 12. Qxd8+ Ne8 13. Kd1 Kg8 14. Qxe8+ Bf8 15. Qa8 h6 16. Ke1 h5 17. f4 h4 18. Qxa7 Bd6 19. Kd2 h3 20. gxh3 Rh7 21. Ke2 f6 22. Qa8+ Kf7 23. Qxd5+ Kg6 24. e4 Bxf4 25. Bxf4 Rh5 26. Rg1+ Kh7 27. Qxh5+ Kg8 28. Qh4 g5 29. Qh6 c6 30. Qxf6 g4 31. Rxg4+ Kh7 32. Qh4# 1-0

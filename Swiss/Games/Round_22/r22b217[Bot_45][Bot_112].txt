@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "21"]
+[White "HopeBot (by: Chinmay Krishna)"]
+[Black "Saubstauga (by: Dominik)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 g5 2. Qh5 e5 3. Bb5 c5 4. h4 a5 5. hxg5 b6 6. Bc4 d6 7. Qxf7# 1-0

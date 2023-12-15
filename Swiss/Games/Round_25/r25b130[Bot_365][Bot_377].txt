@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "24"]
+[White "KU_AI_BOT (by: Daniel Johnson)"]
+[Black "Big Carl (by: Nathaniel D)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. e5 c6 3. exf6 exf6 4. Bc4 b5 5. Qe2+ Be7 6. Bb3 d5 7. d4 a6 8. Bd2 Ra7 9. Bb4 Rf8 10. Nc3 Be6 11. Bxe7 Rxe7 12. O-O-O Qd7 13. Qe3 h5 14. Qg3 Qd8 15. Qxg7 Nd7 16. h3 f5 17. Re1 Qb8 18. Qg3 Qxg3 19. fxg3 Nb6 20. Rxe6 fxe6 21. Nf3 Rg8 22. Ne5 Rgg7 23. Ne2 a5 24. a3 Rh7 25. Kd1 Rc7 26. Nf4 Rhg7 27. Kc1 Ra7 28. c3 Rae7 29. Bd1 Rg5 30. h4 Rgg7 31. Bxh5+ Kd8 32. Nxc6+ Kd7 33. Nxa5 Kd6 34. Kb1 Rxg3 35. Re1 Ra7 36. Rxe6+ Kc7 37. Rc6+ Kd8 38. Ne6+ Ke7 39. Rxb6 Rxa5 40. Nf4 Rg7 41. Nxd5+ Kd8 42. Rb8+ Kd7 43. Be8+ Ke6 44. Nf4+ Kf6 45. Nh5+ Ke7 46. Nxg7 Kf6 47. Rb7 f4 48. Bh5 b4 49. Rf7# 1-0

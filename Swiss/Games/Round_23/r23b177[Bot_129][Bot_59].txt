@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "22"]
+[White "Chemibot (by: Mike Chemi)"]
+[Black "Generic Chess Bot #1000000 (by: Anthony)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. g4 Nc6 2. Bg2 d5 3. g5 a5 4. c3 e5 5. h4 Bf5 6. Qb3 Ra7 7. a4 h6 8. f3 hxg5 9. hxg5 Rxh1 10. Bxh1 Qxg5 11. Kf1 Bc5 12. e3 Bd3+ 13. Kf2 Qh4+ 14. Kg2 Bc4 15. Qc2 Qg5+ 16. Kf2 Qh4+ 17. Kg2 Qg5+ 18. Kf2 Qh4+ 19. Kg2 1/2-1/2

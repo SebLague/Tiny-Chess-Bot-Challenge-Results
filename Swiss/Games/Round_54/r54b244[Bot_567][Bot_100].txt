@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "53"]
+[White "Traderino (by: BenLS)"]
+[Black "PrayForMeBot (by: João)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 d5 2. a3 g5 3. hxg5 e5 4. d3 Qxg5 5. Bxg5 Nc6 6. g4 Nh6 7. c4 Be7 8. Bxh6 b5 9. cxd5 Kd8 10. dxc6 Ke8 11. Rh3 b4 12. f3 Bd6 13. Kf2 bxa3 14. bxa3 Ba6 15. Nc3 Bxa3 16. Rxa3 f5 17. Rxa6 Rf8 18. Bxf8 Rd8 19. Nb5 Ra8 20. e4 f4 21. Bb4 h5 22. Rxh5 Rc8 23. Rxa7 Kd8 24. Rh8# 1-0

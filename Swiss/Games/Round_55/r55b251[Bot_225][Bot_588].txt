@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "54"]
+[White "MinimalBot (by: GreenSalad_)"]
+[Black "Mobilibot (by: Gabriel N.)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 e5 2. Nb5 Qh4 3. Nxc7+ Kd8 4. Ne6+ dxe6 5. g4 Bb4 6. Bh3 e4 7. g5 Qxh3 8. Nxh3 Nc6 9. c3 Bd6 10. Nf4 Bxf4 11. e3 Bd6 12. Qh5 g6 13. Qh6 Nxh6 14. gxh6 Bd7 15. b4 Kc7 16. f4 exf3 17. Kf2 Nd4 18. exd4 Bb5 19. c4 Bxc4 20. d3 Bg3+ 21. hxg3 Bxd3 22. Bf4+ e5 23. Bxe5+ Kd7 24. Bb8 Raxb8 25. Rac1 Rbc8 26. Rc7+ Rxc7 27. Re1 Rc2+ 28. Re2 Rxe2+ 29. Kxf3 g5 30. b5 Rxa2 31. Kg4 Rg8 32. d5 Rh2 33. d6 Be4 34. b6 f5# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "16"]
+[White "BOTvinnik (by: Paul Smooth)"]
+[Black "Botje9000 (by: StarJay)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e6 2. d4 Qh4 3. Nc3 Bb4 4. Bd2 h5 5. a3 Bxc3 6. Bxc3 Qxe4+ 7. Be2 Qxg2 8. Bf3 Qg6 9. Qe2 Kd8 10. d5 exd5 11. Bxd5 Rh6 12. Bd2 Nf6 13. Bg5 Qxg5 14. Bxb7 Bxb7 15. Nf3 Qd5 16. Rg1 Ng4 17. Ng5 Qxg5 18. h3 Ba6 19. Qe4 Rd6 20. Rd1 Rxd1+ 21. Kxd1 Kc8 22. Rxg4 hxg4 23. hxg4 Nc6 24. Qe8+ Kb7 25. Qxf7 Qxg4+ 26. Kc1 Bc4 27. Qxc4 Qxc4 28. Kd1 Re8 29. b4 Nxb4 30. axb4 Ka6 31. c3 Qxc3 32. b5+ Ka5 33. f3 Ka4 34. f4 Ka3 35. f5 Ka2 36. b6 Ka1 37. f6 Re1# 0-1

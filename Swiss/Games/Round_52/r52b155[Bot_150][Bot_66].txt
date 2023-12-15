@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "51"]
+[White "jmcgbot (by: jmcg)"]
+[Black "CapivaraBot (by: Danilo Luiz Rheinheimer)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 h5 2. f4 d5 3. e5 f5 4. exf6 gxf6 5. d4 a5 6. h4 e6 7. g3 c5 8. dxc5 Bxc5 9. c3 b6 10. b3 f5 11. a4 d4 12. cxd4 Bxd4 13. Qf3 Nd7 14. Qxa8 Bxa1 15. Qc6 e5 16. fxe5 Bxe5 17. Ne2 Ne7 18. Qa8 Ng8 19. Nd2 Ne7 20. Bh3 Nf8 21. Nc4 Bg7 22. Bg2 Nh7 23. Qf3 Nf8 24. Qa8 Nh7 25. Bf3 Nf8 26. Bg5 Ne6 27. Bxe7 Kxe7 28. Ne3 Nf8 29. O-O Ng6 30. Bc6 Qc7 31. Nd5+ Kd8 32. Nxc7 Kxc7 33. Bd5 Nf8 34. Rc1+ Bc3 35. Rxc3+ Kd8 36. Rxc8+ Ke7 37. Qc6 b5 38. Re8# 1-0

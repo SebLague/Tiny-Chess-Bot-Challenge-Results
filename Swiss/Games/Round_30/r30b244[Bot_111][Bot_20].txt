@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "29"]
+[White "No Brain but Hungry (by: Pete)"]
+[Black "Queen's Gam-bot (by: Mateo Saldivar (ZiroDev))"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 d5 2. d3 Bg4 3. e3 Bc8 4. Nb1 Bh3 5. gxh3 c5 6. a3 c4 7. d4 e5 8. dxe5 d4 9. Bxc4 Bb4+ 10. axb4 Qb6 11. e4 Qxb4+ 12. Nc3 Qxc4 13. Nb1 a6 14. Bg5 Nf6 15. exf6 Qb4+ 16. Kf1 Qc4+ 17. Kg2 gxf6 18. Bxf6 d3 19. Bxh8 f5 20. exf5 Qg8+ 21. Bg7 Qd5+ 22. Nf3 h6 23. Bxh6 Qg8+ 24. Bg5 Qe6 25. fxe6 Nd7 26. cxd3 Nc5 27. e7 Nd7 28. Qg1 Nb6 29. Nc3 Nc8 30. d4 Rb8 31. Na2 Nb6 32. h4 Na8 33. Qf1 b5 34. Kh3 Rd8 35. exd8=Q+ Kf7 36. Qxa8 Kg6 37. Qxa6+ Kf7 38. Qaxb5 Kg6 39. Qa6+ Kf7 40. Qfc4+ Kg7 41. Qh6# 1-0

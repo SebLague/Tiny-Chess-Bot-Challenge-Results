@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "9"]
+[White "LunarBot (by: LunarTech)"]
+[Black "Miluva v2 [2550] (by: Möhrchen (Thilo M.))"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 d5 2. Nd4 e5 3. Nf3 e4 4. Nd4 c5 5. Nb5 Nf6 6. d4 a6 7. N5c3 cxd4 8. Qxd4 Nc6 9. Qa4 d4 10. Nd1 b5 11. Qb3 Be6 12. Qg3 Nb4 13. Na3 Nxa2 14. Bg5 Bd6 15. Bxf6 Qa5+ 16. c3 Bxg3 17. Bxg7 dxc3 18. Nc4 Nb4 19. fxg3 Qxa1 20. Nd6+ Kd7 21. Bxc3 e3 22. Bxb4 Bb3 23. Nxf7 Qxd1# 0-1

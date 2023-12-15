@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "44"]
+[White "ScholarsBot (by: magic216)"]
+[Black "Why Use Full Brain (by: JustAdy)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Bc4 d6 3. Qh5 Ne7 4. Qxf7+ Kd7 5. b3 Nc6 6. Be6# 1-0

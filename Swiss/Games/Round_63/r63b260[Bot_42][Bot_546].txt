@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "62"]
+[White "dumbot (by: slothinahat)"]
+[Black "dumber (by: daw._.dev)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f4 Nc6 2. Kf2 Nf6 3. f5 a6 4. h3 a5 5. b3 b6 6. Ba3 Bb7 7. Bxe7 Qxe7 8. a3 O-O-O 9. d3 Qe5 10. e3 Qe6 11. fxe6 fxe6 12. c4 Bc5 13. Ke2 e5 14. Nc3 d6 15. Rc1 g6 16. Qe1 g5 17. Qd1 h6 18. Rc2 h5 19. Ke1 h4 20. Kf2 Bxa3 21. Qg4+ Nd7 22. Qxd7+ Kxd7 23. Rc1 Bxc1 24. Nd5 Bb2 25. Nxb6+ cxb6 26. Kf3 Kc8 27. b4 axb4 28. Ke4 Nd4# 0-1

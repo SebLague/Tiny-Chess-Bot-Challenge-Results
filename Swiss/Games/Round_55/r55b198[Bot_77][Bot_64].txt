@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "54"]
+[White "OrionChessEngine (by: Maarten Peels)"]
+[Black "offtensive Crane (by: Joao Santos)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 b6 2. e4 c6 3. Nc3 c5 4. Ne5 d6 5. Bb5+ Bd7 6. Nxd7 Nxd7 7. O-O e6 8. g3 f6 9. Qg4 e5 10. Bc6 Rb8 11. Qe6+ Be7 12. Nb5 Nh6 13. Nxd6+ Kf8 14. Bxd7 Bxd6 15. Qxd6+ Kf7 16. Qe6+ Kg6 17. Bb5 Qf8 18. Qh3 Nf7 19. Be2 h5 20. Qf5+ Kh6 21. Qxh5# 1-0

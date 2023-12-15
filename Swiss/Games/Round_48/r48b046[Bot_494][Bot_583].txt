@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "47"]
+[White "Nathe-Bot (by: NatheSpike)"]
+[Black "Tiny Chess Duck (by: rocketduck_m07)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. d4 e6 3. Nf3 Nf6 4. e5 Ne4 5. Bd3 d5 6. O-O Be7 7. c3 O-O 8. Be3 Ng5 9. Nbd2 Bd7 10. Re1 Rc8 11. h3 a6 12. Qc2 f5 13. exf6 Bxf6 14. Nxg5 Bxg5 15. Bxh7+ Kh8 16. Nf3 Bxe3 17. Rxe3 Ne7 18. Rae1 c6 19. Ng5 Nf5 20. Bxf5 exf5 21. Re7 Kg8 22. Qe2 Re8 23. Qh5 Rxe7 24. Qh7+ Kf8 25. Qh8# 1-0

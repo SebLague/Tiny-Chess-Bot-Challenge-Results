@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "55"]
+[White "Capybara (by: Matěj Fencl)"]
+[Black "timecat-mini (by: Gourab Ghosh)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 Nc6 4. c4 Nb6 5. d5 Nb4 6. c5 N6xd5 7. a3 e6 8. axb4 Qh4 9. Nf3 Qxb4+ 10. Bd2 Qxb2 11. Ra5 b6 12. cxb6 cxb6 13. Rb5 Qa1 14. Bc4 Nc7 15. Rb3 Bb7 16. O-O Qa4 17. Qc2 d6 18. Bf4 Bxf3 19. gxf3 d5 20. Bb5+ Nxb5 21. Qc6+ Ke7 22. Rxb5 Rd8 23. Bg5+ f6 24. exf6+ gxf6 25. Re1 Rd6 26. Qb7+ Ke8 27. Nc3 Qc4 28. Rxd5 Qc6 29. Qb8+ Kf7 30. Qxa7+ Kg6 31. Bxf6 exd5 32. Bxh8 d4 33. Ne4 Rd8 34. Nf6 Be7 35. Ng4 Qc5 36. Rxe7 Qc1+ 37. Kg2 Rd6 38. Re6+ Rxe6 39. Qg7+ Kh5 40. Nf6+ Rxf6 41. Qg4+ Kh6 42. Bg7# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "54"]
+[White "PecanPie (by: PecanPie)"]
+[Black "SemiroseBot (by: Semirose)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 d5 2. Nc3 Nf6 3. Bf4 c5 4. e3 cxd4 5. exd4 Qa5 6. Nf3 Ne4 7. Bd2 Nxd2 8. Nxd2 e6 9. Qg4 Nc6 10. Bb5 a6 11. Bxc6+ bxc6 12. O-O g6 13. Qf4 Bg7 14. Nb3 Qd8 15. a3 O-O 16. h3 Re8 17. Rae1 Qe7 18. Re3 Bd7 19. Rfe1 Rad8 20. Nc5 Bc8 21. Nd3 g5 22. Qg4 f5 23. Qxf5 Bxd4 24. R3e2 e5 25. Qf3 Qg7 26. Nb4 e4 27. Nxe4 dxe4 28. Rxe4 Rf8 29. Qb3+ Kh8 30. R4e2 Qf6 31. Kh1 g4 32. Rf1 gxh3 33. f4 a5 34. Nd3 hxg2+ 35. Rxg2 Bh3 36. Rff2 Bxg2+ 37. Rxg2 Qh6+ 38. Rh2 Qg6 39. Rg2 Qh5+ 40. Rh2 Qf3+ 41. Rg2 Qh3+ 42. Rh2 Qf1# 0-1

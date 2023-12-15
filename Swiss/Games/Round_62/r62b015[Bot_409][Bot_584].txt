@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "61"]
+[White "Ben's Bot (by: Ben Clingenpeel)"]
+[Black "Sentinel (by: Arandomnoob)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. Qd3 d5 3. Nc3 e6 4. Bg5 h6 5. Bxf6 Qxf6 6. Nf3 Nc6 7. Kd2 Nb4 8. Qe3 Bd6 9. Ne5 c5 10. Nb5 Bb8 11. Qc3 Qxf2 12. dxc5 O-O 13. Nd6 b6 14. Nexf7 bxc5 15. g3 Ba6 16. a3 Nc6 17. b4 Rxf7 18. Nxf7 Qxf7 19. Qxc5 Be5 20. Rb1 Rc8 21. Qe3 Bf6 22. h4 Nd4 23. Rc1 Nf5 24. Qf3 Bc3+ 25. Qxc3 Rxc3 26. Kxc3 Nxg3 27. Rg1 Qf4 28. Bh3 Nxe2+ 29. Kb2 Nxg1 30. Bxe6+ Kf8 31. Kb1 Ne2 32. Rh1 Qe3 33. Bxd5 Nc3+ 34. Kb2 Nxd5 35. Rc1 Qc3+ 36. Kb1 Qxa3 37. c4 Qb3+ 38. Ka1 Nxb4 39. Rf1+ Kg8 40. Rf2 Nd3 41. Rg2 Qd1+ 42. Ka2 Bxc4+ 43. Ka3 Qb3# 0-1

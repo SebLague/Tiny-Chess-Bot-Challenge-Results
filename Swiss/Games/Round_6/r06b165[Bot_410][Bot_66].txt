@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "5"]
+[White "Lamorran (by: Morra)"]
+[Black "CapivaraBot (by: Danilo Luiz Rheinheimer)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 h5 2. Nc3 f5 3. Ne5 g5 4. Ng6 Rh7 5. d4 Bh6 6. Rg1 d5 7. Be3 a5 8. Ne5 e6 9. Qd3 c6 10. O-O-O b5 11. Qd2 h4 12. Kb1 f4 13. Qd3 Nf6 14. Nxd5 exd5 15. Qg6+ Kf8 16. Bd2 g4 17. Rh1 b4 18. Rg1 Qe7 19. f3 gxf3 20. gxf3 c5 21. Bg2 cxd4 22. Nd3 a4 23. Bxb4 Qxb4 24. Qxf6+ Rf7 25. Qxh6+ Rg7 26. Nxb4 h3 27. Bxh3 Bxh3 28. Rxg7 Be6 29. Qf6+ Bf7 30. Qxf7# 1-0

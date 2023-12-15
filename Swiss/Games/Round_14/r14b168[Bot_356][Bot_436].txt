@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "13"]
+[White "AlaskaBot (by: Arttu Halonen)"]
+[Black "King Shuffler (by: Team Thursday)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 e6 2. Nd4 Ke7 3. e4 c5 4. Ne2 Nc6 5. f4 Ke8 6. d3 Qh4+ 7. g3 c4 8. gxh4 Nb4 9. dxc4 Be7 10. e5 Bxh4+ 11. Kd2 Kf8 12. Nd4 g5 13. Be2 gxf4 14. Nc3 Bf2 15. Nf3 Ke7 16. Ne4 Be3+ 17. Ke1 Bxc1 18. Qxc1 b6 19. Nd4 Nh6 20. c3 Na6 21. Qxf4 Bb7 22. Qf6+ Ke8 23. Qxh8+ Ke7 24. Qf6+ Kf8 25. Qxh6+ Ke7 26. Qh4+ Kf8 27. Qxh7 Ke7 28. Qh4+ Ke8 29. Qh8+ Ke7 30. Qf6+ Kf8 31. Qh8+ Ke7 32. Qh3 Bxe4 33. Qh4+ Ke8 34. Qxe4 Rd8 35. b4 Nb8 36. h4 Ke7 37. h5 Kf8 38. a4 a6 39. h6 Ke7 40. Qh4+ Ke8 41. h7 f6 42. h8=Q+ Ke7 43. Q4h7# 1-0

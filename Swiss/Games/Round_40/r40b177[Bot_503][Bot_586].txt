@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "39"]
+[White "Max-Max-Bot (by: Tejas)"]
+[Black "FINCh (by: AMCR Studios (Heather Costello & Tesseract King))"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nc6 2. Bg5 f6 3. Bh4 d5 4. f4 Qd6 5. Qd2 Bd7 6. Qc3 Nd8 7. e3 Kf7 8. b4 b6 9. b5 g6 10. Bd3 Ne6 11. g4 Bg7 12. a4 Ke8 13. Qb3 Rc8 14. c4 dxc4 15. Qxc4 Nxf4 16. exf4 Nh6 17. d5 Nxg4 18. h3 Ne3 19. Qe4 Nxd5 20. Kd2 Nxf4 21. Bg3 Bxb5 22. Bxf4 e5 23. axb5 Qd7 24. Rxa7 Kf7 25. Be3 Rhe8 26. h4 Kg8 27. Qb7 Rcd8 28. Qe4 Rc8 29. Qc4+ Kf8 30. Qb4+ Kg8 31. Bxb6 Bh6+ 32. Ke2 Qxd3+ 33. Kxd3 cxb6 34. Qb3+ Kh8 35. Ke2 Rc2+ 36. Qxc2 f5 37. Qc7 Kg8 38. Qxh7+ Kf8 39. Qh8# 1-0

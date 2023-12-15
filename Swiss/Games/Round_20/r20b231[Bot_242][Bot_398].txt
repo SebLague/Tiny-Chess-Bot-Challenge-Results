@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "19"]
+[White "SlothBot (by: 0xFF)"]
+[Black "ChessGPT (by: DeepGoldenCrown)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 h5 2. Nc3 f5 3. Nh4 g5 4. Ng6 Rh6 5. Nxf8 Kxf8 6. d4 Kf7 7. h4 Ke6 8. hxg5 Rg6 9. d5+ Ke5 10. f4+ Kd6 11. Nb5+ Kc5 12. Qd4+ Kxb5 13. e3+ Ka5 14. Bd2# 1-0

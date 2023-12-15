@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "47"]
+[White "The Fisher (by: Unodus)"]
+[Black "Mobilibot (by: Gabriel N.)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 e5 2. e4 Bb4 3. Bc4 d5 4. O-O dxc4 5. b3 Qd3 6. a3 Bg4 7. Qe1 Qxf3 8. d3 Bd2 9. d4 Qxg2+ 10. Kxg2 Bh3+ 11. Kg1 Ne7 12. Nxd2 c3 13. Nc4 Nbc6 14. Bg5 Nxd4 15. Bxe7 Nf3+ 16. Kh1 Kxe7 17. Qe3 Rad8 18. Qxf3 Be6 19. Rfe1 Bxc4 20. bxc4 Rd6 21. c5 Rg6 22. Rab1 Rd8 23. Qf5 Rg1+ 24. Rxg1 Kf8 25. Rxb7 g6 26. Qf3 Kg7 27. Rg2 h5 28. Rxa7 h4 29. Rxg6+ Kxg6 30. Ra6+ c6 31. Rxc6+ Kg7 32. Qf6+ Kf8 33. Qxd8+ Kg7 34. Qf6+ Kf8 35. Rc8# 1-0

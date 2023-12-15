@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "12"]
+[White "SmallSearchAll (by: QuarksandAces (YT))"]
+[Black "KU_AI_BOT (by: Daniel Johnson)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 e5 2. Nb5 a6 3. Na3 Qh4 4. Nf3 Qe4 5. Nb1 Nc6 6. Rg1 Be7 7. Rh1 Nd4 8. Na3 Nh6 9. Rb1 Bxa3 10. bxa3 Nxc2+ 11. Qxc2 Qxc2 12. Ra1 d6 13. Ng5 f6 14. Nf3 Bg4 15. e3 Kd8 16. Rg1 a5 17. h3 Be6 18. Ke2 e4 19. Ne1 Bc4+ 20. Nd3 Re8 21. Ke1 exd3 22. Rh1 Kd7 23. Rg1 Bxa2 24. Rh1 Bd5 25. Rg1 Rxe3+ 26. fxe3 Re8 27. Kf2 Rxe3 28. Kxe3 Nf5+ 29. Kf4 Kc8 30. Kxf5 Qc4 31. Rb1 Kd8 32. Ra1 Ke8 33. Rb1 Kf7 34. Ra1 Bxg2 35. Rxg2 g6+ 36. Rxg6 hxg6# 0-1

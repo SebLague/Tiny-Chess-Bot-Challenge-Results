@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "31"]
+[White "ImpossiBot (by: StefanDeSterke)"]
+[Black "R2D2 (by: Andrei Taropa)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 e5 2. Rb1 d5 3. Ra1 Bg4 4. Rb1 Bb4 5. Ra1 d4 6. Rb1 Qd5 7. b3 Nf6 8. Ra1 O-O 9. Bb2 Kh8 10. Nb1 Na6 11. f3 Bf5 12. c3 Bc5 13. cxd4 exd4 14. d3 Rae8 15. h4 Nb4 16. Kf2 Qe5 17. g4 Bd6 18. Rh3 Be6 19. Na3 h5 20. Nc4 Qf4 21. Nxd6 cxd6 22. Bc1 Nxg4+ 23. Kg2 Ne3+ 24. Bxe3 Bxh3+ 25. Nxh3 Qxe3 26. a3 Nd5 27. Qe1 Nc3 28. Ng1 Re6 29. Kh1 d5 30. Qc1 Rb6 31. Qxe3 dxe3 32. b4 d4 33. Kg2 Re8 34. Kh1 Rh6 35. Bh3 Rf6 36. Kg2 Rf8 37. Kg3 Kg8 38. Kg2 Nd5 39. Bd7 Nf4+ 40. Kg3 Rd8 41. Bb5 Rd5 42. Ba4 Rdf5 43. Bd7 Nxe2+ 44. Nxe2 Rxf3+ 45. Kg2 Rf2+ 46. Kg1 Rxe2 47. Bc8 Ref2 48. Bxb7 Rg6+ 49. Kh1 e2 50. Re1 Rf1+ 51. Kh2 Rxe1 52. Bf3 Rh1+ 53. Bxh1 e1=Q 54. Kh3 Qg3# 0-1

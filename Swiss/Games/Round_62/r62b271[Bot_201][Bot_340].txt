@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "61"]
+[White "charge forward v1 (by: steel chair)"]
+[Black "PacifistBot (by: Noano01)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 Nf6 2. g4 Nc6 3. f4 Nd4 4. e4 e5 5. fxe5 d5 6. exf6 Be6 7. fxg7 f5 8. gxh8=B Kf7 9. exf5 Bd6 10. fxe6+ Kf8 11. c4 Bg3# 0-1

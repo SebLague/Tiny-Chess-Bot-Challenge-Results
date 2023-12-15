@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "18"]
+[White "WhyAmIABot (by: Levi)"]
+[Black "chaos bot (by: zer0)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g3 e5 2. e3 Ne7 3. Nh3 Ng8 4. Nc3 Ke7 5. Bb5 Nh6 6. Qh5 Rg8 7. Qxe5# 1-0

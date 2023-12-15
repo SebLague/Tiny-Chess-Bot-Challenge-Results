@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "44"]
+[White "Bongcloud Bot (by: lurendrei)"]
+[Black "CalcCheck (by: CowSoCool37)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Ke2 d5 3. exd5 Qxd5 4. Nc3 Qe5+ 5. Kd3 Bf5+ 6. Kc4 Qd4+ 7. Kb3 Qb4# 0-1

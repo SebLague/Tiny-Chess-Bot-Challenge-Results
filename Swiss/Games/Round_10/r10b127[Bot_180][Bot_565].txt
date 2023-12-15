@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "9"]
+[White "Sørensen's Minimax (by: Victor)"]
+[Black "Reckless Ragnar (by: Magnús  Á. Magnússon)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 Nc6 2. Qg4 d5 3. Qh5 Nf6 4. Qh4 a6 5. Qa4 Bf5 6. Be2 Be4 7. h4 Bxg2 8. Rh2 Be4 9. Nc3 b5 10. Bxb5 axb5 11. Qxb5 Qd6 12. Nxe4 Nxe4 13. Rg2 e5 14. Qb7 Rb8 15. Qa6 Qd7 16. Nf3 Nc5 17. Nxe5 Nxe5 18. Qa5 Nc6 19. Qc3 Na4 20. Qd3 Nxb2 21. Bxb2 Rxb2 22. Qc3 Rb4 23. Ke2 Rxh4 24. Rb1 Rc4 25. Qd3 Nb4 26. Qa3 Qc6 27. Qa7 Kd7 28. Rg5 f6 29. Rg3 Nxc2 30. Qb8 Re4 31. Rh1 Qa6+ 32. d3 Rb4 33. Qxb4 Nxb4 34. Rg4 Qxa2+ 35. Kf3 Nxd3 36. Rg2 Qc4 37. Ke2 Ne1+ 38. Kxe1 Bb4+ 39. Kd1 Qd3+ 40. Kc1 Rb8 41. Rxg7+ Ke8 42. Rxc7 Kd8 43. Ra7 h6 44. Rxh6 Bf8 45. Rh8 Rb1# 0-1

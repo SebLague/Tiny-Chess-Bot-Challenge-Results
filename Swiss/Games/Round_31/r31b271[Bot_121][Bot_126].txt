@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "30"]
+[White "broken bot (by: Raj Gaurav)"]
+[Black "Shakki botti (by: bobq)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. h4 Na6 2. g4 Nb4 3. f4 Nd3+ 4. cxd3 Nf6 5. e4 c5 6. b4 cxb4 7. a4 Qb6 8. h5 Qe3+ 9. dxe3 a5 10. h6 gxh6 11. g5 Rg8 12. gxh6 Ng4 13. f5 Nxh6 14. f6 exf6 15. e5 fxe5 16. e4 Bc5 17. d4 exd4 18. e5 Be7 19. e6 Nf5 20. exf7+ Kxf7 21. Nh3 Bh4+ 22. Nf2 Re8+ 23. Be2 Ng3 24. Ng4 Rxe2+ 25. Qxe2 Nh5+ 26. Nf2 Ng3 27. Ng4 Nh5+ 28. Nf2 Ng3 29. Ng4 1/2-1/2

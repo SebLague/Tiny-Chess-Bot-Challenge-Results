@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "41"]
+[White "GM Manneken pis (by: Broguld)"]
+[Black "MiaKBotv4.4 (by: Mia Kellett)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nc6 2. d5 Ne5 3. Qd4 Ng6 4. Qg4 Ne5 5. Qe4 Ng6 6. Qf5 Nf6 7. e4 e6 8. dxe6 Bb4+ 9. c3 Bd6 10. exd7+ Bxd7 11. Bb5 c6 12. Bxc6 bxc6 13. Qg5 Bf4 14. Bxf4 Nxe4 15. Qh5 Nxf4 16. Qe5+ Qe7 17. Qxf4 Ng3+ 18. Qe3 Nxh1 19. Kd2 Bg4 20. Qd4 Qg5+ 21. f4 Qd5 22. Qxd5 cxd5 23. h3 Rb8 24. hxg4 Rxb2+ 25. Kc1 Rxg2 26. Nh3 Rg3 27. Ng5 h6 28. Nxf7 Kxf7 29. g5 Rg1+ 30. Kd2 Rg2+ 31. Kc1 Rf2 32. g6+ Kxg6 33. c4 Rf1+ 34. Kd2 dxc4 35. a4 Rf2+ 36. Kc1 Rf1+ 37. Kd2 Rxf4 38. a5 Rf2+ 39. Kc3 Rf3+ 40. Kxc4 Rf4+ 41. Kd5 Rf5+ 42. Ke6 Rf6+ 43. Ke7 Rf7+ 44. Ke6 Re8+ 45. Kd6 Rf6+ 46. Kd7 Re1 47. Ra4 Rf7+ 48. Kd8 Rf8+ 49. Kd7 Rxb1 50. Rg4+ Kf5 51. Rxg7 Rb7+ 52. Kd6 Rxg7 53. a6 Rc8 54. Kd5 Rd7# 0-1

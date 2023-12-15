@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "35"]
+[White "CrystalBowl (by: Daugsilius)"]
+[Black "SimpleBot (by: :LMProgramming)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e6 2. Rb1 Qh4 3. Nf3 Bc5 4. Nxh4 Nc6 5. Ra1 Nf6 6. e3 a5 7. Rg1 h6 8. Rh1 Ke7 9. Rb1 Nb4 10. Ke2 Ng4 11. a3 Ra6 12. axb4 axb4 13. b3 bxc3 14. dxc3 e5 15. Qe1 e4 16. Rg1 Nxh2 17. Nf5+ Kf6 18. Nxh6 Rxh6 19. f3 Nxf1 20. Kxf1 Ke5 21. Rh1 Rxh1+ 22. Kf2 Rxe1 23. f4+ Kf5 24. Kxe1 Kg4 25. Ke2 Kg3 26. Ke1 Kxg2 27. b4 d5 28. bxc5 Bg4 29. Rxb7 Rh6 30. Rb1 Rh1+ 31. Kd2 Rd1# 0-1

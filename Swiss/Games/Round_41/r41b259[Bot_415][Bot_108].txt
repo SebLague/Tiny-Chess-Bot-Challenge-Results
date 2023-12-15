@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "40"]
+[White "SYSMER (by: YannM)"]
+[Black "Matey (by: Conor)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 Nc6 2. Nf3 Nb4 3. Nc4 Nd5 4. Nd4 Nf4 5. Na5 Nd5 6. Nxb7 Bxb7 7. Nb5 Nf4 8. Nxa7 Rxa7 9. a3 Ra5 10. Rb1 Rb5 11. b3 Rc5 12. Rb2 Rd5 13. c3 Re5 14. e3 Rd5 15. exf4 Rd6 16. Ke2 Re6+ 17. Kd3 Rd6+ 18. Kc4 Rc6+ 19. Kb5 Re6 20. Qc2 Rd6 21. d3 Rd5+ 22. Ka4 Qa8+ 23. Kb4 e6+ 24. Kc4 Qxa3 25. Bd2 Qa6# 0-1

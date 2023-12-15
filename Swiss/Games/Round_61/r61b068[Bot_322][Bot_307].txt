@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "60"]
+[White "BarschBot (by: Bobitsmagic)"]
+[Black "Stephanee (by: Elijah Bradshaw)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. e5 Nc6 3. d4 e6 4. h4 f6 5. Bb5 a6 6. Bd3 Nxd4 7. Qh5+ g6 8. Bxg6+ hxg6 9. Qxh8 Nxc2+ 10. Ke2 fxe5 11. Qxg8 Qf6 12. Bg5 Qg7 13. Qxg7 Bxg7 14. Nc3 Nxa1 15. Nf3 Nc2 16. Kd2 Nd4 17. Ng1 Nb5 18. Kc1 Nd6 19. h5 gxh5 20. Nce2 Ne4 21. f4 exf4 22. Nf3 e5 23. Rxh5 Bg4 24. Rh7 Kf8 25. Bh6 Bxh6 26. Rh8+ Kg7 27. Rxa8 Nc5 28. Nc3 d4 29. Nd5 e4 30. Nd2 e3 31. Nf3 e2 32. Nxc7 Bxf3 33. Ne8+ Kg6 34. Kd2 Bg4 35. Rxa6+ bxa6 36. Ke1 Bg5 37. Nd6 Bh4+ 38. g3 Bxg3+ 39. Kd2 e1=Q+ 40. Kc2 d3# 0-1

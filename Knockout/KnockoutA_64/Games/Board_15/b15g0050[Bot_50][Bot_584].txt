@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Knockout 64"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "-1"]
+[White "TLMChessBot [v1-1250] (by: Möhrchen (Thilo))"]
+[Black "Sentinel (by: Arandomnoob)"]
+[Result "0-1"]
+[TimeControl "30+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. Nxe5 Nf5 8. Nf3 Be7 9. g4 Nd6 10. h3 h5 11. Qe1 hxg4 12. hxg4 Bxg4 13. Ng5 f6 14. Ne6 Bf3 15. Nxg7+ Kf8 16. Qxe7+ Qxe7 17. Rd1 Rh1# 0-1

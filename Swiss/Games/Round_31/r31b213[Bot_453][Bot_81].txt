@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "30"]
+[White "Chessica (by: Nicky Kitchingman)"]
+[Black "Paroch (by: Bronson)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a3 e5 2. b3 h5 3. c3 d5 4. d3 f6 5. e3 h4 6. a4 c6 7. d4 e4 8. f3 g6 9. Kd2 b6 10. Ke1 f5 11. g3 hxg3 12. fxe4 dxe4 13. h3 g5 14. b4 Ne7 15. c4 a6 16. a5 bxa5 17. bxa5 c5 18. d5 Bd7 19. d6 Ng8 20. Kd2 Bxd6 21. Ke1 g2 22. Bxg2 Bg3+ 23. Kf1 Rxh3 24. Rxh3 f4 25. Rxg3 fxg3 26. Qd5 Qf6+ 27. Ke1 Qf2+ 28. Kd1 Qxg1+ 29. Kc2 Qxg2+ 30. Kb3 Ba4+ 31. Rxa4 Ra7 32. Qxg8+ Kd7 33. Qxb8 Rb7+ 34. Qxb7+ Ke8 35. Kc3 g4 36. Kb3 Qf3 37. Qd5 g2 38. Ka2 Qe2+ 39. Ka1 g1=Q 40. Qxe4+ Kd8 41. Ra2 Qed1 42. Rd2+ Qxd2 43. Bxd2 g3 44. Ka2 g2 45. Ka1 Qf2 46. Ka2 g1=Q 47. Ka1 Qxd2 48. Qd4+ cxd4 49. exd4 Qdxd4+ 50. Ka2 Qxc4+ 51. Ka1 Qc3+ 52. Ka2 Qg8# 0-1

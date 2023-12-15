@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "5"]
+[White "Pharouk (by: Pydjama)"]
+[Black "Sleepy panda bot (by: Quinten F)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c4 e6 2. e3 f5 3. Bd3 Qg5 4. g3 Nf6 5. h4 Qxg3 6. fxg3 Bd6 7. Qf3 O-O 8. a4 Bxg3+ 9. Qxg3 d6 10. Qg5 h6 11. Qg6 Bd7 12. b4 Be8 13. Qg3 Bxa4 14. Rxa4 Nc6 15. Nf3 Nxb4 16. Rxb4 Ne4 17. Qf4 Nc5 18. Be2 h5 19. Qd4 g6 20. Bb2 Kf7 21. Qg7+ Ke8 22. d4 f4 23. Qxg6+ Kd8 24. dxc5 fxe3 25. Ng5 dxc5 26. Nxe6+ Kd7 27. Nxf8+ Ke7 28. Qf6+ Ke8 29. Rxb7 a5 30. Bxh5# 1-0

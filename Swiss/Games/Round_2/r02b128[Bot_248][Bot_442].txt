@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "SimpleMinds (by: Karl Jungtow)"]
+[Black "Tarch (by: Taras Vuk)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Bb5 a6 5. Bd3 Bd6 6. Nc3 O-O 7. a4 Nd4 8. Nxd4 exd4 9. Ne2 c5 10. b3 Re8 11. Ba3 Nxe4 12. O-O Qf6 13. h4 Qxh4 14. g3 Qh6 15. Nc1 Nxd2 16. Bb2 b6 17. f4 Bb7 18. Qxd2 Qh1+ 19. Kf2 Qh2# 0-1

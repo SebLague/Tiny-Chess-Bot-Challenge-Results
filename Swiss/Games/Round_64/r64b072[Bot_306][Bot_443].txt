@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "63"]
+[White "czechmayte (by: dotpy/jayden van zuydam)"]
+[Black "LunarBot (by: LunarTech)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 Nf6 2. e4 Nc6 3. Bc4 Nxe4 4. Nxe4 d5 5. Bd3 dxe4 6. Bxe4 Qd6 7. Ne2 Bg4 8. h3 Bh5 9. c3 Bg6 10. Ng3 Qe6 11. Qg4 Qxg4 12. hxg4 Bxe4 13. Nxe4 Ne5 14. d4 Nxg4 15. Bf4 Kd7 16. O-O Nh6 17. Rad1 Nf5 18. Ng5 f6 19. Nf7 Rg8 20. g4 Nh6 21. Nxh6 gxh6 22. Kg2 Rxg4+ 23. Kf3 Rg6 24. Rfe1 Kc6 25. d5+ Kd7 26. a4 f5 27. Re5 Rb6 28. Rd2 Rf6 29. Rd1 Bg7 30. a5 Raf8 31. Rde1 R8f7 32. R5e3 Ra6 33. b4 Raf6 34. c4 Rg6 35. Rd1 Kc8 36. c5 Kd7 37. b5 Bb2 38. a6 bxa6 39. c6+ Kc8 40. bxa6 Bf6 41. Rb3 Rg4 42. Rb7 Rxf4+ 43. Kxf4 Bg5+ 44. Kf3 e5 45. dxe6 Rg7 46. Rd7 Rg6 47. e7 Bxe7 48. Rxe7 Rg8 49. Rexc7+ Kd8 50. Rxa7 Rg3+ 51. Kxg3 f4+ 52. Kg2 f3+ 53. Kf1 h5 54. Ke1 h6 55. Kd1 h4 56. Kc1 h5 57. Kb1 h3 58. Ka1 h2 59. Ka2 h1=Q 60. Rd7+ Ke8 61. Ra8# 1-0

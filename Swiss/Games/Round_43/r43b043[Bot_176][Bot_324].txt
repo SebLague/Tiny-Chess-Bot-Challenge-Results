@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "42"]
+[White "Euphoria (by: Andrew Merrill)"]
+[Black "RayBot (by: Shahriar Rayed)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 d5 2. c4 dxc4 3. Na3 e6 4. Nxc4 b5 5. Nce5 f6 6. Nd3 Qd5 7. a4 Bd7 8. axb5 Qxb5 9. e3 Nc6 10. Nde5 Qb4 11. Nxd7 Kxd7 12. Ra6 Nh6 13. Qc2 Bc5 14. Bc4 Nd8 15. O-O c6 16. d4 Bd6 17. e4 Ndf7 18. Rd1 Ng4 19. h3 Ngh6 20. e5 Bc7 21. Bxe6+ Kxe6 22. Qxc6+ Bd6 23. d5+ Ke7 24. exd6+ Nxd6 25. Qc7+ Kf8 26. Rxd6 Qb3 27. Rxf6+ Kg8 28. Bxh6 Qxd1+ 29. Kh2 Qh1+ 30. Kxh1 gxf6 31. Qg7# 1-0

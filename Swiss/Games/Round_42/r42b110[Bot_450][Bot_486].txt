@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "41"]
+[White "Optimus (by: Adt)"]
+[Black "QuaviverBot (by: CantWontDo)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Illegal move"]
+
+1. e4 d5 2. e5 c6 3. d4 Qc7 4. Be3 b5 5. Bd3 g6 6. Nd2 Nd7 7. e6 1-0

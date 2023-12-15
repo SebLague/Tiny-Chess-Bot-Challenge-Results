@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "55"]
+[White "MaterFromRadiatorSprings (by: Markus Grand Petersen)"]
+[Black "GOYO Bot v1.1.2 (by: Goyo)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e5 2. Qg4 Nc6 3. Bb5 Nf6 4. Qf3 Nb4 5. Kd1 Bc5 6. Qg3 Nbd5 7. c4 Ne4 8. Qxe5+ Kf8 9. Qxe4 Nb4 10. a3 d6 11. Qf3 Nd3 12. b4 Ne5 13. Qg3 Nd3 14. bxc5 dxc5 15. Nc3 a5 16. Nd5 f5 17. Nxc7 h5 18. Nxa8 Nxc1 19. Rxc1 Qd3 20. Qb8 Qf1+ 21. Kc2 Qxf2 22. Qxc8+ Ke7 23. Qxh8 Qxg2 24. Qe8+ Kf6 25. Qf8+ Kg6 26. Be8+ Kh6 27. Qh8+ Kg5 28. Qxg7+ Kh4 29. Qxg2 f4 30. Nf3# 1-0

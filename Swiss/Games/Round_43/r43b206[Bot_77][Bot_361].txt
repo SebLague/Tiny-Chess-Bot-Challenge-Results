@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "42"]
+[White "OrionChessEngine (by: Maarten Peels)"]
+[Black "Thulium (by: Valentin POQUET)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 e6 2. e4 Qf6 3. e5 Qh6 4. d3 Qh5 5. Qd2 Qf5 6. Qc3 Qg6 7. Kd1 b6 8. Qxc7 Ba6 9. Bf4 d5 10. exd6 f6 11. b3 b5 12. Qc3 f5 13. Qd4 Qg4 14. c3 g6 15. Qxh8 Qxf4 16. Qxg8 Qxd6 17. b4 Qb6 18. Qxh7 Qxf2 19. Qxg6+ Ke7 20. Qh7+ Bg7 21. Qxg7+ Kd6 22. c4 bxc4 23. Qf8+ Kd5 24. dxc4+ Bxc4 25. Bxc4+ Kxc4 26. Nfd2+ Qxd2+ 27. Nxd2+ Kd3 28. a4 Nc6 29. Qh6 Nxb4 30. Qxe6 f4 31. h4 Rb8 32. Qh3+ f3 33. Qxf3+ Kd4 34. g3 Rb6 35. Qe2 Rb8 36. Qd3+ Nxd3 37. Rg1 Nb4 38. Nf3+ Kc3 39. g4 Nd3 40. Ne1 Nxe1 41. Kxe1 Rh8 42. Ra3+ Kb2 43. Rh3 Re8+ 44. Kf1 Rf8+ 45. Kg2 Rf4 46. Rh2 Rxa4 47. Kh1+ Ka3 48. Rg3+ Kb4 49. Kg1 Ra1+ 50. Kg2 Ra2+ 51. Kh3 Rxh2+ 52. Kxh2 a6 53. Kh1 a5 54. Rg1 a4 55. Kg2 a3 56. Kf1 a2 57. Ke2 a1=Q 58. Rxa1 Kb3 59. Ra8 Kb2 60. Rh8 Ka1 61. Rg8 Kb1 62. Rd8 Ka1 63. Kd1 Ka2 64. Rg8 Ka1 65. Rf8 Kb1 66. Kd2 Ka1 67. Kc1 Ka2 68. g5 Ka3 69. Kb1 Kb3 70. Ka1 Kc2 71. Ka2 Kc1 72. Rh8 Kd1 73. h5 Kc1 74. Ka3 Kb1 75. Kb3 Ka1 76. Kc2 Ka2 77. Ra8# 1-0

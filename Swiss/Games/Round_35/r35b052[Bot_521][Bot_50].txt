@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "34"]
+[White "LIA Chess (by: Patrick und Jannik)"]
+[Black "TLMChessBot [v1-1250] (by: Möhrchen (Thilo))"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 a5 2. d4 e6 3. Nf3 Bb4 4. a3 Bxc3+ 5. bxc3 Nf6 6. Bg5 h6 7. Bxf6 Qxf6 8. Rc1 Qe7 9. a4 Qa3 10. Kd2 Qxa4 11. Ne5 d6 12. Ra1 Qb5 13. e4 Qb6 14. Nc4 Qc6 15. Qg4 g5 16. Rxa5 Rxa5 17. Nxa5 Qa4 18. Nc4 b5 19. Nb2 Qa5 20. Qe2 b4 21. Qb5+ Qxb5 22. Bxb5+ c6 23. Ba4 bxc3+ 24. Kxc3 Ba6 25. h4 gxh4 26. Rxh4 f5 27. exf5 exf5 28. Nd1 Bb5 29. Bxb5 cxb5 30. Ne3 f4 31. Rxf4 Nc6 32. d5 Ne5 33. Kb4 h5 34. Kxb5 Kd7 35. Kb4 Rb8+ 36. Kc3 Rb5 37. Rh4 Ng4 38. Rxh5 Rc5+ 39. Kd2 Nxe3 40. fxe3 Kc7 41. e4 Kb6 42. Rh6 Kc7 43. Rh7+ Kc8 44. g4 Rc4 45. Kd3 Ra4 46. g5 Ra1 47. g6 Rd1+ 48. Kc3 Kb8 49. g7 Rg1 50. Kc4 Ka8 51. Kb5 Rb1+ 52. Kc6 Rg1 53. Rh8+ Ka7 54. g8=Q Rxg8 55. Rxg8 Ka6 56. Ra8# 1-0

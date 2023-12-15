@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "25"]
+[White "Malina (by: Tadeam)"]
+[Black "WitwerMacher (by: Yannik Bleilinger)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 Na6 2. g4 Rb8 3. f4 b6 4. e4 Nc5 5. d4 Nxe4 6. c4 e6 7. b4 Bxb4+ 8. Nd2 Ng3 9. Rh3 Bc3 10. Kf2 Bxa1 11. a4 Nxf1 12. h5 Nxd2 13. g5 Nxc4 14. h6 gxh6 15. gxh6 Qf6 16. f5 Qxf5+ 17. Qf3 Bxd4+ 18. Kg3 Qg6+ 19. Bg5 Qxg5+ 20. Kh2 Qxg1# 0-1

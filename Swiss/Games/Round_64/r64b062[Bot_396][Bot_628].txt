@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "63"]
+[White "Baby Squid (by: Jonas Tyroller)"]
+[Black "King Gᴀᴍʙᴏᴛ Ⅳ (by: ToTheAnd (aka toanth))"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. d4 d5 3. c4 dxe4 4. d5 Ne5 5. Qd4 Ng6 6. Qxe4 Nf6 7. Qd3 e5 8. Nc3 Bb4 9. Bd2 Kd7 10. Nb5 Bxd2+ 11. Qxd2 a6 12. Nc3 Kd6 13. Qe3 c5 14. dxc6 Kxc6 15. Nf3 Qb6 16. Qxb6+ Kxb6 17. Bd3 e4 18. Bxe4 Nxe4 19. Nxe4 Re8 20. Ng5 f5 21. f3 fxe4 22. Nxe4 Bf5 23. O-O-O Bxe4 24. fxe4 Rxe4 25. b3 Rae8 26. g3 Ne5 27. Rhf1 Ka5 28. a3 b5 29. cxb5 axb5 30. Rd6 Re2 31. h3 Rg2 32. g4 Rg3 33. b4+ Ka4 34. Ra6+ Kb3 35. Rh1 Rc8+ 36. Kd1 Rd3+ 37. Ke1 Rc1+ 38. Kf2 Rc2+ 39. Ke1 Nf3+ 40. Kf1 Rd1# 0-1

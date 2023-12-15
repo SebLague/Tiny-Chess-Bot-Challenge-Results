@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "58"]
+[White "Minimaxibon v1 (by: NotSureWhyThisWorks)"]
+[Black "NotQuiteRandomGamblerAndPruner (by: Taco Olmer)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e6 2. e4 Qh4 3. Nge2 a5 4. Nb5 Na6 5. Nec3 c6 6. Nd4 Qf6 7. Nb3 Nb8 8. Qf3 Qxf3 9. gxf3 a4 10. Nd4 Bc5 11. Nde2 Kf8 12. e5 Ra5 13. Ne4 Bb4 14. a3 Be7 15. d4 b5 16. Bd2 Ra7 17. Bb4 Bxb4+ 18. axb4 Bb7 19. Nd6 Ba6 20. Bg2 Ne7 21. Nf4 g5 22. Nh3 Rg8 23. b3 g4 24. Nf4 gxf3 25. Bxf3 Nf5 26. Nxf5 exf5 27. bxa4 Bb7 28. a5 Na6 29. Rb1 Nc7 30. Kd1 Ba8 31. Kc1 c5 32. Bxa8 Rxa8 33. bxc5 Rg4 34. Ne2 Rxa5 35. Ng3 Rxd4 36. Nxf5 Re4 37. f4 Rxf4 38. Nd6 Ra2 39. Nxb5 Rc4 40. Nxc7 Raxc2+ 41. Kd1 Rxc5 42. Rb8+ Kg7 43. Rg1+ Kh6 44. Rb6+ Kh5 45. Rg7 Rc1+ 46. Kd2 R5c2+ 47. Kd3 Rc3+ 48. Kd4 Rc4+ 49. Kd3 R1c3+ 50. Kd2 Rc2+ 51. Kd1 Rxc7 52. Rxh7+ Kg5 53. Rxf7 Rxh2 54. Rd6 Ra7 55. Rg7+ Kf4 56. Rd4+ Kxe5 57. Ra4 Rxa4 58. Rg5+ Kf6 59. Rc5 Raa2 60. Kc1 Ra1# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "14"]
+[White "BadBot (by: Daniel)"]
+[Black "quick and dirty (by: Rafael)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e6 2. g3 Qf6 3. Na3 Bxa3 4. g4 Bd6 5. Nf3 Qg6 6. Ng1 Qe4 7. d3 Qxh1 8. Kd2 Qxg1 9. e4 Qxf2+ 10. Kc3 Qxh2 11. a3 Qh1 12. Qd2 Qxf1 13. Ra2 Bf4 14. b4 Bxd2+ 15. Bxd2 Qb1 16. Kd4 Qxa2 17. a4 Qxc2 18. Bf4 Nc6+ 19. Ke3 Nxb4 20. Bxc7 Qxc7 21. Kd4 Nc2# 0-1

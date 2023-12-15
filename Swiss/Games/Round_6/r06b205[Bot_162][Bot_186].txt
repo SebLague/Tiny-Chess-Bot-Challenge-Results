@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "5"]
+[White "BitBlunderer (by: Till Zemann (GitHub: https://github.com/till2 :D))"]
+[Black "epik chess mastah (by: sten)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nc6 2. Nc3 Nf6 3. e4 e6 4. Bb5 Bb4 5. e5 Ng4 6. Ne4 Ngxe5 7. c3 Be7 8. Bxc6 Nd3+ 9. Kf1 dxc6 10. Kg1 Nxc1 11. Qxc1 Qd5 12. Ne5 Qxe5 13. d3 O-O 14. Nd2 Qd6 15. Qc2 Qd5 16. f4 Bd6 17. c4 Qd4+ 18. Kf1 Qxf4+ 19. Ke2 e5 20. Nb3 Be6 21. g3 Bg4+ 22. Ke1 Bb4+ 23. Qd2 Bxd2+ 24. Nxd2 Qe3+ 25. Kf1 Bh3# 0-1

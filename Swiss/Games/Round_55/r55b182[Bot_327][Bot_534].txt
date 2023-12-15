@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "54"]
+[White "FunBot (by: Paul Spooner AKA Dudecon)"]
+[Black "DARKCIDER-9000 (by: Alfie Elliott )"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c3 Nc6 2. e4 Nf6 3. d3 Ne5 4. b4 a6 5. a3 b6 6. f4 Nc6 7. g3 b5 8. Ne2 d6 9. Ng1 Bg4 10. Qb3 g6 11. Bg2 h5 12. Nd2 e6 13. h4 Na7 14. d4 Nc6 15. Nf1 Na7 16. Ne3 Nd5 17. exd5 a5 18. bxa5 exd5 19. Nxd5 c6 20. Bd2 cxd5 21. Bxd5 Qe7+ 22. Ne2 Qxe2# 0-1

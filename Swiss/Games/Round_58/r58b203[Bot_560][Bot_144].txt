@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "57"]
+[White "MiaKBotv4.4 (by: Mia Kellett)"]
+[Black "Caissa Alexander (by: Ephraim225)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e5 2. Nf3 Bc5 3. Nxe5 d6 4. Ne4 Bd4 5. Nd3 d5 6. Nc3 Qd6 7. Rb1 Bf5 8. Ra1 Nc6 9. Rb1 O-O-O 10. Ra1 Re8 11. Rb1 h5 12. Ra1 a6 13. Rb1 Nf6 14. Ra1 Ng4 15. Rb1 h4 16. Ra1 g5 17. Rb1 Rh6 18. Ra1 Nxf2 19. Nxf2 Nb4 20. Nd3 Nc6 21. Rb1 Bxd3 22. cxd3 Nb4 23. Ra1 Nxd3# 0-1

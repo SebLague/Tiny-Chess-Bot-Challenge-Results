@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "35"]
+[White "PrayForMeBot (by: João)"]
+[Black "No Brain but Hungry (by: Pete)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 a5 2. e4 b6 3. Be2 c6 4. Bf1 e6 5. h4 Bb4+ 6. Nc3 Ke7 7. g3 Qe8 8. Bg2 f6 9. Bf1 Qf7 10. a3 Bd6 11. Be3 Qg6 12. h5 Qf7 13. Be2 Qf8 14. Bd2 Qf7 15. Bc1 Bc7 16. Kf1 Bd6 17. Nd5+ cxd5 18. exd5 exd5 19. f4 a4 20. Nh3 Ra5 21. Be3 Qe8 22. Qd3 h6 23. Rb1 Kf8 24. b4 Ra7 25. Qa6 Rxa6 26. f5 Qxe3 27. Rc1 Qxc1+ 28. Kg2 Qxc2 29. Ng1 Qxf5 30. Nh3 Ra8 31. Bd3 Qxd3 32. Kf2 Bxg3+ 33. Kg2 Qxd4 34. Nf2 Bxf2 35. Rh2 Qg4+ 36. Kxf2 Qd4+ 37. Ke1 Qg1+ 38. Kd2 Qxh2+ 39. Kd1 Qxh5+ 40. Kc2 Qg6+ 41. Kd1 Qb1+ 42. Kd2 Qa2+ 43. Kd3 Qxa3+ 44. Kc2 Qxb4 45. Kc1 Qf4+ 46. Kc2 Qc4+ 47. Kb1 Qb4+ 48. Kc2 Qe4+ 49. Kc3 Qc4+ 50. Kb2 Qd4+ 51. Kb1 Qd3+ 52. Ka2 Qc4+ 53. Kb1 Qf1+ 54. Ka2 Qf2+ 55. Ka1 Qe1+ 56. Ka2 Qe2+ 57. Ka1 Qf1+ 58. Ka2 Qg2+ 59. Kb1 Qh1+ 60. Ka2 Qh2+ 61. Ka3 Qd6+ 62. Ka2 Qc6 63. Kb1 Qb5+ 64. Kc2 Qe2+ 65. Kb1 Qe1+ 66. Kc2 Qf2+ 67. Kb1 Qg1+ 68. Kc2 Qg6+ 69. Kc3 Qg3+ 70. Kc2 Qb3+ 71. Kd2 Qa2+ 72. Kc3 Qb3+ 73. Kd4 Nc6# 0-1

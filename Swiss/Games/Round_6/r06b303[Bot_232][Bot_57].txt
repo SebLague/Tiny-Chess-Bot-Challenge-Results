@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "5"]
+[White "Wandering King (by: Elliott D)"]
+[Black "Obi (by: Carson Ouckama)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nh3 f5 2. e4 Kf7 3. Ke2 fxe4 4. Ke1 e5 5. Ke2 c5 6. Ke1 d5 7. Ke2 Bg4+ 8. Ke3 Bxd1 9. g4 Bxg4 10. Ng1 Qg5+ 11. f4 Qxf4# 0-1

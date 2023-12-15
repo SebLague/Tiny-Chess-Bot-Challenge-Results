@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "46"]
+[White "OrionChessEngine (by: Maarten Peels)"]
+[Black "Rubber Ducky (by: Joël)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. e5 Ne4 3. Bd3 Nc5 4. Kf1 Nxd3 5. cxd3 a5 6. Nc3 Na6 7. Nge2 h5 8. Nf4 g5 9. Nxh5 Nc5 10. Qf3 g4 11. Qxg4 Nxd3 12. Nf6+ exf6 13. b3 d6 14. Na4 Bxg4 15. exf6 Qxf6 16. Rg1 Qxf2# 0-1

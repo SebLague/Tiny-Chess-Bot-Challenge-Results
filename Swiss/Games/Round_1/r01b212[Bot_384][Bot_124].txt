@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "Baloo-D (by: Dimitri)"]
+[Black "Depth2 (by: David Montealegre)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. e5 Ne4 3. Nc3 Nxc3 4. dxc3 Nc6 5. Bf4 g6 6. Bg3 h6 7. Qg4 g5 8. O-O-O b6 9. Bb5 Nb8 10. Qe4 c6 11. Be2 Qc7 12. Bh5 e6 13. Nf3 d5 14. exd6 Qd8 15. Ne5 Bxd6 16. Qf3 O-O 17. Nxc6 Nxc6 18. Rxd6 Qxd6 19. Bxd6 Rd8 20. Qxc6 Bb7 21. Qxb7 Rxd6 22. Qxa8+ Kg7 23. Qxa7 Kg8 24. Qb8+ Kg7 25. Qxd6 b5 26. Be2 e5 27. Qxe5+ Kg6 28. Bxb5 g4 29. Bd3+ f5 30. Qxf5+ Kg7 31. Qxg4+ Kf6 32. Qg6+ Ke5 33. Re1+ Kd5 34. Re6 h5 35. Kb1 h4 36. Ka1 h3 37. gxh3 Kc5 38. Kb1 Kd5 39. Kc1 Kc5 40. Kd1 Kd5 41. Ke1 Kc5 42. Kf1 Kd5 43. Kg1 Kc5 44. Kh1 Kd5 45. Kg2 Kc5 46. Kg1 Kd5 47. Kf1 Kc5 48. Ke1 Kd5 49. Kd1 Kc5 50. Kc1 Kd5 51. Kb1 Kc5 52. Ka1 Kd5 53. Re1 Kc5 54. Rg1 Kd5 55. Rg5# 1-0

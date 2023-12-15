@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "53"]
+[White "WhyAmIABot (by: Levi)"]
+[Black "Anty (by: Emanuele Sorce)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d3 b6 2. e4 e6 3. c3 Qh4 4. Ne2 Bc5 5. Qb3 Qf4 6. Bxf4 a6 7. Bxc7 Bxf2+ 8. Kxf2 Nf6 9. Qxb6 g6 10. Bxb8 Bb7 11. Qxb7 Rxb8 12. Qxb8+ Ke7 13. Qxh8 Nd5 14. exd5 f6 15. Qxh7+ Kd6 16. dxe6 Kd5 17. exd7 Kc6 18. d8=Q g5 19. Qxf6+ Kb5 20. Qxg5+ Kb6 21. Qf6+ Ka5 22. Qd8+ Kb5 23. Na3+ Kc5 24. Qhc7# 1-0

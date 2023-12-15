@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "44"]
+[White "SatanBot (by: odin7053@discord)"]
+[Black "Monster Queen (by: Andro 65)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Na6 2. e5 h6 3. g3 Rh7 4. h4 Nb4 5. h5 Nxa2 6. Rxa2 g5 7. g4 e6 8. Ra5 c6 9. Ra2 Qf6 10. Ra5 Qe7 11. Ra1 a6 12. d3 Qb4+ 13. Ke2 Qd2+ 14. Kxd2 Bb4+ 15. Ke2 Bc5 16. Kf3 f5 17. Ke2 fxg4 18. b3 Ba7 19. Ke1 Re7 20. Qxg4 Rb8 21. Qc4 b5 22. Qe4 Bd4 23. Qxd4 g4 24. Qxg4 Rb7 25. Qxg8# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "49"]
+[White "PlinkBot (by: superplink)"]
+[Black "jebChess (by: jibux)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 f6 2. Nc3 c6 3. d4 Qa5 4. Qd2 Qf5 5. e4 Qa5 6. Bd3 b5 7. O-O b4 8. Ne2 Ba6 9. Re1 Bxd3 10. Qxd3 Qb5 11. Qb3 e6 12. Bf4 Na6 13. Rad1 c5 14. h4 c4 15. Qe3 Qa5 16. Nc1 O-O-O 17. g3 d5 18. exd5 exd5 19. Qe6+ Kb7 20. Qf7+ Ka8 21. Re8 Rxe8 22. Qxe8+ Kb7 23. Qxf8 g5 24. Qg7+ Ne7 25. Qxe7+ Ka8 26. Qxf6 gxf4 27. Qxh8+ Nb8 28. gxf4 Kb7 29. Qxh7+ Ka8 30. Qg8 c3 31. Nb3 Qb5 32. bxc3 bxc3 33. Ne5 a6 34. Nc5 Ka7 35. Qxd5 Qb6 36. f3 Qc7 37. h5 Qg7+ 38. Ng6 Qc7 39. Qb3 Nd7 40. Qf7 a5 41. Nxd7 Qb7 42. Nde5 Qxf7 43. Nxf7 Kb6 44. Rd3 Kc6 45. Rxc3+ Kd5 46. Rd3 Ke6 47. Nfe5 Kd6 48. Nc4+ Ke6 49. Nxa5 Kf7 50. Rd1 Kg7 51. Re1 Kf7 52. Nc6 Kg7 53. Re5 Kf7 54. Rd5 Kg7 55. Rd7+ Kg8 56. Nge5 Kf8 57. h6 Kg8 58. h7+ Kf8 59. h8=R# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "55"]
+[White "ItPlaysBetterThanMe (by: RB)"]
+[Black "ScholarsBot (by: magic216)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a4 e5 2. d3 Bc5 3. d4 Qh4 4. dxc5 Qxf2+ 5. Kxf2 e4 6. g4 e3+ 7. Kxe3 f5 8. gxf5 d6 9. cxd6 Kf8 10. dxc7 Ke7 11. Qd8+ Kf7 12. Qd5+ Be6 13. fxe6+ Kf8 14. Qd8# 1-0

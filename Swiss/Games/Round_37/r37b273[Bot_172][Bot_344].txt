@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "36"]
+[White "Kaan's Majestic Gentlemen (by: Level 0 Kaan)"]
+[Black "DD9's chess bot (by: DigestDig9)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a4 d5 2. Nh3 d4 3. Ng1 Be6 4. c3 Bc4 5. e4 Bxf1 6. g4 Bd3 7. Na3 Bxe4 8. cxd4 Bd5 9. Nh3 Bc6 10. O-O Be4 11. Ng5 Bd3 12. Re1 Ba6 13. d5 Bd3 14. Qc2 Bxc2 15. Nxc2 c5 16. Na3 b6 17. a5 bxa5 18. h4 a4 19. d4 cxd4 20. Kf1 d3 21. Nb5 Qxd5 22. Rxa4 Qh1# 0-1

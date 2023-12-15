@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "28"]
+[White "Jbot (by: KaraokeCzar)"]
+[Black "QuaviverBot (by: CantWontDo)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 Nf6 2. f3 e6 3. Nh3 c6 4. Rb1 g6 5. Ra1 b5 6. Nb1 e5 7. Kf2 d5 8. Ke1 Bxh3 9. gxh3 Ne4 10. e3 Qh4+ 11. Ke2 Qf2+ 12. Kd3 Nc5+ 13. Kc3 d4+ 14. Kb4 Nb7+ 15. Kb3 Na5# 0-1

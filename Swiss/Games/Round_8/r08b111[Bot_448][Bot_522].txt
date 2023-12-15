@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "7"]
+[White "Paradox Bot (by: Kekz)"]
+[Black "Pharouk (by: Pydjama)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 c6 2. Nd2 d5 3. Nb3 Qb6 4. Bd2 h5 5. Ba5 Qb5 6. a4 Qa6 7. Bc7 Qc4 8. e3 Bg4 9. f3 Bxf3 10. Nxf3 e5 11. Bxc4 dxc4 12. Nbd2 exd4 13. Bxb8 dxe3 14. Qe2 Ne7 15. Qxe3 c3 16. bxc3 Rxb8 17. Qxa7 Rd8 18. Qxb7 g6 19. Ne4 f5 20. Nf2 h4 21. Nd3 Bg7 22. Ra3 h3 23. gxh3 Rxh3 24. Kf2 Bh6 25. Re1 Bg5 26. Nxg5 Rxh2+ 27. Kg1 Rd7 28. Qc8+ Rd8 29. Rxe7+ Kxe7 30. Qe6+ Kf8 31. Qf7# 1-0

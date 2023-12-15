@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "10"]
+[White "Peeter 1 (by: Gouuu)"]
+[Black "ABadBot (by: Lucas)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. e3 Nf6 2. d4 c6 3. b4 Qb6 4. c3 Qc7 5. g3 Kd8 6. h4 Ke8 7. h5 Kd8 8. a4 Rg8 9. a5 Rh8 10. Ra2 Rg8 11. f4 g6 12. h6 g5 13. Rhh2 gxf4 14. exf4 Rxg3 15. Nf3 Ng4 16. Rhg2 Rxg2 17. Bxg2 Ke8 18. Ng1 Nxh6 19. Qd3 f5 20. c4 Qd6 21. c5 Qe6+ 22. Re2 Qf6 23. b5 cxb5 24. Bb2 Qg6 25. Qxb5 Qg3+ 26. Rf2 Qe3+ 27. Ne2 1-0

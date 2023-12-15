@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "39"]
+[White "KnightMare (by: Dom)"]
+[Black "Shielded Minibot (by: Sesen)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c3 Na6 2. f4 Nc5 3. Qc2 e6 4. g3 Qe7 5. b4 Na6 6. b5 Nb8 7. Ba3 Qf6 8. Bxf8 Kxf8 9. Qc1 e5 10. fxe5 Qxe5 11. a4 Qe4 12. Bg2 Qxg2 13. Ra2 Qxh1 14. Qa3+ d6 15. Kf1 Bh3+ 16. Kf2 Qg2+ 17. Ke3 Qxg1+ 18. Ke4 Qxb1+ 19. Kd5 Nf6+ 20. Kc4 Be6+ 21. Kd4 Qe4# 0-1

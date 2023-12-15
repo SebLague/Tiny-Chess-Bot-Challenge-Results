@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "7"]
+[White "SimpleMinds (by: Karl Jungtow)"]
+[Black "CapivaraBot (by: Danilo Luiz Rheinheimer)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 h5 2. Bc4 g5 3. d4 e6 4. Nc3 c5 5. Be3 cxd4 6. Qxd4 Rh7 7. Nf3 f6 8. Qd3 a5 9. e5 f5 10. Bxe6 dxe6 11. Nxg5 Qxd3 12. cxd3 Rh8 13. h3 h4 14. Ke2 a4 15. Nb5 Ne7 16. Nc7+ Kd8 17. Nxa8 b5 18. Nf7+ Ke8 19. Nxh8 b4 20. Nc7+ Kd8 21. Rac1 b3 22. Nf7+ Kd7 23. Nd6 bxa2 24. Ncb5 f4 25. Rc7+ Kd8 26. Nf7+ Ke8 27. Nbd6# 1-0

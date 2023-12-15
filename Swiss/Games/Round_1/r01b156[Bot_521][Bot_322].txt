@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "LIA Chess (by: Patrick und Jannik)"]
+[Black "BarschBot (by: Bobitsmagic)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e5 2. Nf3 Nc6 3. e4 Nf6 4. Bb5 Nd4 5. Nxe5 Nxb5 6. Nxb5 Bd6 7. Nc4 Nxe4 8. Qe2 Qe7 9. Ncxd6+ cxd6 10. Nc7+ Kd8 11. Nxa8 Nf6 12. Qxe7+ Kxe7 13. f3 d5 14. Nc7 Kd8 15. Nb5 Re8+ 16. Kf2 Re7 17. Nxa7 d6 18. Nxc8 Kxc8 19. d3 d4 20. Bg5 Re5 21. Bxf6 gxf6 22. Rhe1 Rb5 23. Re7 Rxb2 24. Rc1 Rxa2 25. Rxf7 h5 26. Rxf6 Kd7 27. Rf5 h4 28. Rf4 b5 29. Rxd4 Ra4 30. Rxa4 bxa4 31. Ra1 a3 32. Rxa3 Kc6 33. Ra5 Kb6 34. Rh5 Kb7 35. Ke3 h3 36. gxh3 Kc7 37. Kd4 Kc6 38. Rh6 Kc7 39. Kd5 Kb6 40. Rxd6+ Kb5 41. f4 Kb4 42. f5 Kc3 43. Rc6+ Kb4 44. f6 Ka3 45. Rb6 Ka2 46. f7 Ka3 47. f8=R Ka2 48. Ra8# 1-0

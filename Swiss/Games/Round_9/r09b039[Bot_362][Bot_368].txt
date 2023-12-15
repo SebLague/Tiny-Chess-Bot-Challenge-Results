@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "8"]
+[White "nimbot (by: )"]
+[Black "Chip (by: Evan)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nh3 e5 2. Ng1 Nf6 3. b3 Nc6 4. c3 Bd6 5. a3 O-O 6. Ra2 Re8 7. Rc2 a5 8. Rb2 e4 9. g3 Be5 10. a4 d5 11. f4 Bd6 12. Kf2 Bg4 13. Qe1 Bf5 14. Kg2 Rc8 15. e3 Ne7 16. Bb5 c6 17. Be2 Ng6 18. c4 Bc7 19. Qd1 dxc4 20. bxc4 b6 21. Kf2 Qe7 22. Bf1 Ng4+ 23. Ke1 Rcd8 24. Ke2 Nxh2 25. Bh3 Ng4 26. Qb3 h5 27. Qa2 h4 28. Qa1 hxg3 29. Bg2 Nf2 30. Kf1 Nxh1 31. Bxh1 Qc5 32. Rc2 Nxf4 33. d4 exd3 34. Rc3 d2 35. Bxd2 Bxb1 36. Qxb1 Rxd2 37. Ke1 Rxe3+ 38. Kxd2 Qd4+ 39. Rd3 Rxd3+ 40. Qxd3 Qxd3+ 41. Kc1 Qxc4+ 42. Kd1 Bd6 43. Be4 Qxe4 44. Kc1 Ba3+ 45. Kd1 Qd3+ 46. Ke1 Bb4# 0-1

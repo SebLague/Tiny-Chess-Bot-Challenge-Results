@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "24"]
+[White "PAtATtO (by: Willem Paternotte)"]
+[Black "Chemibot (by: Mike Chemi)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d3 e5 2. Qd2 h5 3. g3 f6 4. Bg2 f5 5. a4 Bc5 6. Kf1 Bxf2 7. a5 Bc5 8. Ra2 g6 9. b3 d6 10. Bc6+ bxc6 11. Ra1 Bd4 12. c3 Bc5 13. Ra4 d5 14. h3 a6 15. Rh2 Bxg1 16. Kxg1 c5 17. e3 g5 18. Qd1 Bd7 19. Ra1 c6 20. Qe1 e4 21. Rd2 g4 22. Qf1 gxh3 23. Rh2 exd3 24. Qxd3 d4 25. c4 Qg5 26. Rxh3 dxe3 27. Qd1 f4 28. g4 Bxg4 29. Rxe3+ fxe3 30. Qe1 Bh3+ 31. Qg3 Qxg3+ 32. Kh1 Qg2# 0-1

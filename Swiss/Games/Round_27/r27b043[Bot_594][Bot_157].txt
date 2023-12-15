@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "26"]
+[White "FetaCheese_Bot (by: Dimitris Dallas)"]
+[Black "Turochamp (Modern) (by: P Rivero)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 e6 2. Nf3 d5 3. Nc3 Nc6 4. a4 Bb4 5. e3 Nge7 6. Bd2 O-O 7. h4 Bd7 8. g4 f5 9. gxf5 Nxf5 10. Bd3 Qf6 11. Be2 Bd6 12. Nb5 e5 13. Nxd6 Nxd6 14. Bc3 e4 15. Ne5 Qxf2+ 16. Kd2 Nxe5 17. dxe5 Nc4+ 18. Kc1 Nxe3 19. Qe1 Qf4 20. Bd2 Nxc2 21. Kxc2 e3 22. Bb4 c5 23. Bxc5 Rac8 24. b4 b6 25. Ba6 bxc5 26. Bxc8 Rxc8 27. bxc5 Bxa4+ 28. Kb2 Rb8+ 29. Ka3 Bc2 30. Qa5 Qc4 31. Rhb1 Rb3+ 32. Rxb3 Qxb3# 0-1

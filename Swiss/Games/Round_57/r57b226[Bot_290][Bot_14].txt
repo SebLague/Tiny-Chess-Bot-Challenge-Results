@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "56"]
+[White "Blizzard (by: Aurora)"]
+[Black "simpleval (portmonteau of simple eval) (by: hokurou)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 h5 2. e4 h4 3. Bd2 g6 4. Be2 f6 5. Nc3 a5 6. Nf3 e6 7. d5 c5 8. dxe6 dxe6 9. Be3 Qb6 10. Nb5 a4 11. e5 f5 12. O-O Ne7 13. Nbd4 cxd4 14. Nxd4 Qxb2 15. Bb5+ Kf7 16. Bc1 Qxa1 17. Be3 Qxa2 18. Bc4 Qxc4 19. Nxf5 Nxf5 20. f4 Nxe3 21. Qa1 Nxf1 22. h3 Nd2 23. c3 Qxf4 24. Kh1 Qxe5 25. c4 Qxa1+ 26. Kh2 Nxc4 27. g4 Bd6+ 28. Kg2 Ne3+ 29. Kf2 Nd1+ 30. Ke1 Nb2+ 31. Kd2 Nc4+ 32. Kc2 Ne3+ 33. Kd2 Nf1+ 34. Kc2 Qa2+ 35. Kc1 Bf4+ 36. Kd1 Ne3+ 37. Ke1 Bg3# 0-1

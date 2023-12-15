@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "13"]
+[White "CyberPawn (by: PotatosDispenser)"]
+[Black "Butter Bot, the bot with the butter on him (by: siued)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. Nc3 e6 2. Nf3 Bb4 3. e4 Nc6 4. Bc4 Qf6 5. O-O h5 6. d3 Nd4 7. Nxd4 Bxc3 0-1

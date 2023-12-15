@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "15"]
+[White "Shadow's Unfinished Bot (by: shadowcage72)"]
+[Black "J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J (by: Thunderous Echo)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e5 2. Nc3 Qh4 3. d4 exd4 4. exd4 Bb4 5. g4 d5 6. Bb5+ Kf8 7. h3 Bd7 8. Bxd7 Nxd7 9. Nf3 Bxc3+ 10. bxc3 Qf6 11. O-O Qa6 12. Bg5 h6 13. Bd2 c5 14. a4 Re8 15. Ne5 Nxe5 16. dxe5 Qc4 17. f4 d4 18. cxd4 Qxd4+ 19. Rf2 b6 20. c3 Qd3 21. Rf3 Qe4 22. Be3 h5 23. Qd6+ Ne7 24. Rg3 h4 25. Rg2 Qxe3+ 26. Rf2 Qxc3 27. Rb1 Rh6 28. e6 Rxe6 29. Qe5 Rxe5 30. fxe5 Qe3 31. a5 Rd8 32. axb6 Rd2 33. Rf1 Qg3+ 34. Kh1 Rxf2 35. Rxf2 Qxf2 36. bxa7 Qf3+ 37. Kh2 Nc8 38. e6 Qg3+ 39. Kh1 Qxh3+ 40. Kg1 Qxg4+ 41. Kf2 Nxa7 42. exf7 h3 43. Ke3 Kxf7 44. Kd2 h2 45. Kc3 h1=Q 46. Kd3 Qd4+ 47. Ke2 Qhd1# 0-1

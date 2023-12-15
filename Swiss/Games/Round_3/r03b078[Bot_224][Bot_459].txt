@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "RP Bot (by: Matt Enad (RobProductions))"]
+[Black "StockShrimp (by: Diplomancer)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 c6 2. e4 d5 3. e5 Qb6 4. c3 Bf5 5. f3 a5 6. f4 e6 7. Kf2 Nh6 8. Ke1 Ng4 9. Qe2 Be7 10. Kd1 g6 11. Qe1 h5 12. Qe2 h4 13. Nf3 Qb5 14. Qxb5 cxb5 15. Bxb5+ Kd8 16. Ke1 Be4 17. Kf1 a4 18. Be2 h3 19. Kg1 hxg2 20. Kxg2 Nc6 21. Bb5 Ra5 22. Na3 Bxa3 23. Bxc6 Bxb2 24. Bxd5 Bxa1 25. Bxe4 Bxc3 26. Bxb7 f5 27. Ba3 Rb5 28. Ba6 Ra5 29. Be2 Ne3+ 30. Kg1 Nc2 31. Bc1 Bxd4+ 32. Nxd4 Nxd4 33. Bd1 Rh3 34. Bb2 Rd3 35. Kf2 Rd2+ 36. Ke3 Rxb2 37. Kd3 Nb5 38. Bf3 Rxa2 39. Kc4 Rb2 40. Rd1+ Kc8 41. Ra1 Kd8 42. h3 Ra6 43. Kc5 Na7 44. Rd1+ Ke8 45. Kc4 Nc6 46. Rc1 a3 47. Kc3 Na5 48. Kd3 Nb3 49. Rc3 Nd2 50. Bd1 a2 51. Bh5 a1=Q 52. Bxg6+ Kd8 53. Bh5 Qf1+ 54. Kd4 Qxf4+ 55. Kd3 Qe4# 0-1

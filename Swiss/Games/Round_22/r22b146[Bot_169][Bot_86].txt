@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "21"]
+[White "TalkChess (by: Thomas Jahn, Mike Sherwin, Dmitry Shechtman)"]
+[Black "Blitztron (by: Cameron Dugan)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 d5 2. Nf3 f5 3. d4 Qd6 4. Be3 Qb4 5. Ne5 e6 6. Rb1 Bd6 7. Qd3 c6 8. a3 Qb6 9. Kd2 Ne7 10. Kd1 Bc7 11. Nf3 f4 12. Bd2 a5 13. e4 Kd7 14. Kc1 Re8 15. exd5 Nxd5 16. Qxh7 Re7 17. Bd3 Nxc3 18. Bxc3 Bd6 19. Qe4 a4 20. Rd1 Ke8 21. Ra1 Ra7 22. Rb1 Qc7 23. Ne5 Bxe5 24. dxe5 g5 25. Ra1 Qb6 26. Qd4 Qxd4 27. Bxd4 Ra5 28. Rb1 c5 29. Bc3 Ra7 30. Ra1 Kd7 31. Rb1 Kd8 32. Ra1 Rg7 33. Rb1 f3 34. gxf3 Kd7 35. Re1 Rg8 36. Ra1 Ke8 37. Bc4 Kf8 38. Rb1 Nc6 39. Ra1 Kg7 40. Rb1 Rd8 41. Bd3 g4 42. fxg4 Ne7 43. g5 Rf8 44. Rf1 Rh8 45. Rh1 Rh5 46. h4 Nd5 47. Ra1 Kf8 48. Rb1 Rh8 49. h5 b6 50. g6 Bd7 51. h6 Ke7 52. g7 Rd8 53. h7 Nxc3 54. g8=Q Na2+ 55. Kd2 Rf8 56. Kd1 Rxg8 57. hxg8=Q Be8 58. Ke1 Ra8 59. Kf1 Kd7 60. Kg1 Rd8 61. Kg2 Kc7 62. Qxe6 Bc6+ 63. f3 Bxf3+ 64. Kxf3 Rf8+ 65. Kg2 Nc3 66. Kg1 Nxb1 67. Kg2 Kb7 68. Rxb1 Rh8 69. Rd1 Ka8 70. Qxb6 Rg8+ 71. Kf2 Rf8+ 72. Ke2 Rf4 73. Qxc5 Kb7 74. Qa5 Kc8 75. Rf1 Rh4 76. Kd1 Kd7 77. Rf7+ Ke6 78. Qc7 Rh1+ 79. Bf1 Rxf1+ 80. Rxf1 Kd5 81. Rf7 Kd4 82. Qd6+ Ke4 83. Kc1 Ke3 84. Qd3# 1-0

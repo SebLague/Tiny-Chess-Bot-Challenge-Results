@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "38"]
+[White "BitBlunderer (by: Till Zemann (GitHub: https://github.com/till2 :D))"]
+[Black "holcak-bot (by: Petr Holčák)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 h5 2. e4 c5 3. Nc3 a5 4. d4 cxd4 5. Nd5 e6 6. Nh4 Qxh4 7. Nc7+ Kd8 8. Nxa8 Qxe4+ 9. Be3 dxe3 10. fxe3 h4 11. Qd2 a4 12. Qa5+ Ke8 13. Qc3 g5 14. Qxh8 Ne7 15. Nc7+ Kd8 16. Nd5 Nxd5 17. Qxf8+ Kc7 18. Qxf7 e5 19. Qf3 Qxc2 20. Qxd5 b6 21. Qxe5+ Kd8 22. Qxg5+ Ke8 23. Qh5+ Kf8 24. Bd3 Qxd3 25. Qh8+ Kf7 26. Qxc8 d5 27. Rf1+ Kg7 28. Qxb8 Qxe3+ 29. Kd1 b5 30. Qb7+ Kh8 31. Rf8# 1-0

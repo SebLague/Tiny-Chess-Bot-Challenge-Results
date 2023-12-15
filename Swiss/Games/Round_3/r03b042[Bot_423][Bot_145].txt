@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "NightBot (by: Matthias Kruis)"]
+[Black "Astolfo (by: Illuminate)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 d5 2. d4 Nf6 3. e3 Nbd7 4. Nf3 e6 5. Bd3 Bb4 6. O-O Bxc3 7. bxc3 Ne4 8. c4 O-O 9. Ba3 Re8 10. Rc1 Nc3 11. Qe1 Ne4 12. cxd5 exd5 13. c4 Nb6 14. cxd5 Nxd5 15. Ne5 f6 16. Bxe4 fxe5 17. dxe5 Rxe5 18. Bf3 a6 19. Qd2 Be6 20. Qb2 Rg5 21. Qxb7 Qb8 22. Qc6 Bf7 23. Rfd1 Rg6 24. Qd7 c6 25. Rxc6 Nb6 26. Qd4 Rxc6 27. Qd8+ Qxd8 28. Rxd8+ Rxd8 29. h4 Rc2 30. Bb4 Rxa2 31. Bc3 Nc4 32. Bd4 Bd5 33. Bxd5+ Rxd5 34. g3 Nd2 35. Kg2 Ne4 36. Kf3 Nxf2 37. g4 Rd7 38. Kg3 Re7 39. Bb6 Re4 40. Kf3 Rxg4 41. e4 Rg6 42. Bd4 Nxe4 43. Kf4 Rh6 44. h5 Rxh5 45. Bb6 Rh4+ 46. Ke5 Nc3 47. Kf5 Rd2 48. Ke6 Re4+ 49. Kf5 Rd5# 0-1

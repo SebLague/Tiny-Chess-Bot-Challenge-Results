@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "28"]
+[White "Paradox Bot (by: Kekz)"]
+[Black "Bongcloud Bot (by: lurendrei)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 g5 2. Bxg5 Bh6 3. Bxh6 Nxh6 4. d5 c6 5. Nf3 Qb6 6. Nc3 Qxb2 7. Kd2 cxd5 8. Nxd5 Kd8 9. Qb1 Qxb1 10. Rxb1 Nc6 11. Nb4 Ng4 12. Nxc6+ bxc6 13. Rb4 Nxf2 14. Rg1 d6 15. Ke1 Ng4 16. Rc4 c5 17. h3 Nf6 18. e4 e5 19. Kd1 Rb8 20. Kc1 Be6 21. Ra4 Rb4 22. Rxa7 Nxe4 23. Ra8+ Bc8 24. Ba6 Kc7 25. Bxc8 Rxc8 26. Ra7+ Rb7 27. Rxb7+ Kxb7 28. Kb2 c4 29. Rb1 Re8 30. Re1 c3+ 31. Kb3 d5 32. Kb4 f5 33. g4 f4 34. a3 Ka6 35. a4 h6 36. Rd1 d4 37. Re1 Rb8+ 38. Ka3 Nd2 39. Nxe5 Rb2 40. Rd1 f3 41. a5 Kb5 42. Rxd2 cxd2 43. Nd3 d1=Q 44. Kxb2 Qxd3 45. cxd3 f2 46. h4 f1=Q 47. g5 Ka4 48. gxh6 Qe2+ 49. Kb1 Kb3 50. Ka1 Qe1# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "54"]
+[White "WhateverBot (by: Alec Holden)"]
+[Black "Better than my maker :p (by: Bobinou)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nh3 e6 2. d3 Ke7 3. Bg5+ f6 4. Bd2 Kd6 5. Bb4+ c5 6. Ba3 Qa5+ 7. Nd2 Kd5 8. e4+ Kd4 9. Be2 Ke5 10. O-O Kd4 11. Nf3# 1-0

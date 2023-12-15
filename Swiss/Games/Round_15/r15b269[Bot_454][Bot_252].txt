@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "14"]
+[White "The Mad King (by: Coding With Avaclava)"]
+[Black "#enpassant4ever (by: trueberryless)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c3 h5 2. h3 a5 3. e3 e5 4. Ke2 Nf6 5. h4 Ng4 6. e4 Qxh4 7. Rxh4 Nxf2 8. Kxf2 a4 9. g3 Bd6 10. c4 Rh6 11. d3 Kf8 12. Bxh6 gxh6 13. Qxh5 Be7 14. Qxe5 Bxh4 15. Qxc7 Bxg3+ 16. Qxg3 h5 17. c5 h4 18. Qxh4 d6 19. cxd6 Na6 20. Qh8# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "56"]
+[White "Simple Minimax (by: Sidewinder7)"]
+[Black "Quinchessential (by: Isaac Sterling)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e6 2. Qh5 Qf6 3. Nf3 Bb4 4. Bb5 Ne7 5. O-O a6 6. Nc3 axb5 7. Qxb5 Bxc3 8. d3 Bd4 9. Nxd4 Qxd4 10. Bh6 gxh6 11. Rfc1 Rg8 12. Kh1 Qxf2 13. Rg1 Qxc2 14. d4 Qxe4 15. h3 Qxd4 16. Rgc1 Qe4 17. Rc2 Qxc2 18. Rg1 Rxa2 19. h4 Qe4 20. Qb4 Qxb4 21. Rc1 Rxb2 22. Ra1 Qxh4+ 23. Kg1 Rgxg2+ 24. Kf1 Qf2# 0-1

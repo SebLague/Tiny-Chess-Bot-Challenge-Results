@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "12"]
+[White "EndgameEnigma (by: jostflo)"]
+[Black "GOYO Bot v1.1.2 (by: Goyo)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e5 2. Nf3 Nc6 3. d3 Nb4 4. Bg5 Nc6 5. Ne4 Bb4+ 6. c3 d5 7. Nxe5 Nxe5 8. Qa4+ b5 9. Qxb5+ Kf8 10. cxb4 dxe4 11. Bxd8 exd3 12. Qxe5 d2+ 13. Kxd2 a6 14. Bxc7 g6 15. Qxh8 f5 16. Rc1 h5 17. Qh7 h4 18. Qxg6 Ne7 19. Qf6+ Kg8 20. Qxe7 a5 21. Rc4 a4 22. Qxh4 Ra6 23. Qd8+ Kf7 24. Qxc8 Rf6 25. Rc5 Rg6 26. Qxf5+ Kg8 27. Qxg6+ Kf8 28. Bd6# 1-0

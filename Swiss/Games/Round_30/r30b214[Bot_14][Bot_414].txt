@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "29"]
+[White "simpleval (portmonteau of simple eval) (by: hokurou)"]
+[Black "Aron's engine (by: Aron Martens)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. h4 Na6 2. g4 Rb8 3. f4 Ra8 4. e4 Nb4 5. a3 Nc6 6. c4 Rb8 7. h5 Ra8 8. g5 Rb8 9. f5 Ra8 10. c5 Rb8 11. a4 Ra8 12. d3 Rb8 13. b3 Ra8 14. Nh3 Rb8 15. Nf4 Ra8 16. Nd5 Rb8 17. Nf4 Ra8 18. Nd5 Rb8 19. Nf4 1/2-1/2

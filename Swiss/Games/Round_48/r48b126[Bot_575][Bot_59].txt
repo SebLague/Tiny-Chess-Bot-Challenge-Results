@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "47"]
+[White "Michael's Bot (by: MichaelW)"]
+[Black "Generic Chess Bot #1000000 (by: Anthony)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. e3 Nf6 2. Qf3 c5 3. b4 cxb4 4. Qf4 Qa5 5. Qc4 Na6 6. Qf4 Nb8 7. Qc4 Na6 8. Qf4 Nb8 1/2-1/2

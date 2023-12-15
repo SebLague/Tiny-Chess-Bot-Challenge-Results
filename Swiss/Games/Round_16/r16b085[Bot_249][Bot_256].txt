@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "15"]
+[White "damlamen (by: Bora)"]
+[Black "GulcarBot (by: Gulcar)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 c6 2. Bc4 Qa5 3. Bxf7+ Kxf7 4. Qe2 e5 5. b4 Bxb4 6. c3 Bc5 7. d4 Bxd4 8. Kf1 Bb6 9. c4 Bd4 10. Bd2 Qc5 11. Nc3 Qa3 12. Nb1 Qb2 13. Qh5+ g6 14. Qf3+ Kg7 15. Bc3 Qc1+ 16. Ke2 Qc2+ 17. Kf1 Qc1+ 18. Ke2 d5 19. cxd5 b6 20. Qg3 Ba6+ 21. Qd3 Qc2+ 22. Kf3 Qxf2+ 23. Kg4 Bc8+ 24. Kg5 Qf4# 0-1

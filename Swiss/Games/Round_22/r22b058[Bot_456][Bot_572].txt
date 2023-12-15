@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "21"]
+[White "HikuBot (by: Hikushii)"]
+[Black "Vast V2 (by: Joseph Pasfield)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. Bc4 Bc5 5. O-O O-O 6. d3 d6 7. Bg5 Nd4 8. Nxd4 Bxd4 9. Nd5 c6 10. Nxf6+ gxf6 11. Bh6 d5 12. Qf3 Kh8 13. Bxf8 dxc4 14. c3 Bb6 15. Bh6 cxd3 16. Qg3 Qg8 17. Qxd3 Be6 18. Rfe1 Rd8 19. Qf3 Qg6 20. Be3 Bg4 21. Qg3 Rd3 22. a3 Qxe4 23. Bxb6 Qxe1+ 24. Rxe1 Rxg3 25. hxg3 axb6 26. Re3 Be6 27. a4 Kg7 28. b4 Bc4 29. a5 b5 30. f4 exf4 31. gxf4 Kf8 32. f5 Bb3 33. Kf2 Bc2 34. g4 Bb3 35. Kg3 Ba2 36. Kh4 Bc4 37. g5 Kg7 38. Re7 Bd3 39. gxf6+ Kxf6 40. Rxb7 Be4 41. a6 c5 42. Rxb5 cxb4 43. cxb4 h6 44. Ra5 Bh1 45. b5 Ke5 46. b6+ Kd6 47. Rb5 Bb7 48. axb7 Kc6 49. b8=Q Kxb5 50. Qc7 Kb4 51. b7 Ka3 52. b8=Q h5 53. Qca7# 1-0

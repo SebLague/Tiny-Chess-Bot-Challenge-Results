@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "40"]
+[White "Bob (by: Kökényesi Attila (UltraGeek))"]
+[Black "Shadow (by: Zaid Alas4)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g3 e5 2. d3 b5 3. b3 f5 4. f3 Qf6 5. Bb2 Ba6 6. Qd2 g5 7. Qd1 c6 8. h3 Qf7 9. b4 Qxa2 10. Rxa2 Bxb4+ 11. Kf2 Ne7 12. Bxe5 d5 13. Bxh8 Bd6 14. g4 fxg4 15. hxg4 b4 16. d4 Bxe2 17. Qc1 Bxf1 18. Kxf1 Bh2 19. Ne2 c5 20. dxc5 Ng8 21. Qe3+ Be5 22. Bxe5 b3 23. Ra1 bxc2 24. Nd2 c1=Q+ 25. Kf2 Qxa1 26. Rh2 Qxe5 27. Qa3 Qxe2+ 28. Kg1 Qxd2 29. Rh1 Na6 30. c6 d4 31. Rxh7 Nf6 32. Rh1 Nxg4 33. Rh8+ Kf7 34. Rh1 Qf2# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "Anarchy Bot (by: Malcolm)"]
+[Black "EldenBot (by: Ghost_Dev_84)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c3 a6 2. e3 a5 3. Qh5 a4 4. Bd3 a3 5. Nxa3 b6 6. Bxh7 b5 7. Nxb5 c6 8. Nd4 c5 9. Qd5 cxd4 10. Bxg8 dxe3 11. Qxf7# 1-0

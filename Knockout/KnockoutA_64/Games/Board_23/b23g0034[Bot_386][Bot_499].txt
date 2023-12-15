@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Knockout 64"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "-1"]
+[White "Dream (by: Saharsh)"]
+[Black "ErwanF (by: ErwanF)"]
+[Result "0-1"]
+[TimeControl "30+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. c4 c5 3. g3 e6 4. Bg2 Nc6 5. O-O d5 6. cxd5 exd5 7. d4 Be7 8. dxc5 Bxc5 9. Bg5 Be6 10. Nc3 O-O 11. Bxf6 Qxf6 12. Nxd5 Qxb2 13. Rc1 Bxd5 14. Qxd5 Bb6 15. Rce1 Rad8 16. Qb3 Qxb3 17. axb3 Rfe8 18. e3 Rd3 19. Rb1 Bc5 20. Ng5 h6 21. Ne4 Bb4 22. Rfd1 Rdd8 23. Rxd8 Rxd8 24. Bh3 Re8 25. f3 Rf8 26. Rd1 f5 27. Nf2 Bc5 28. Rd7 Bxe3 29. Rxb7 Rd8 30. Rc7 Nb4 31. Re7 Bc5 32. Re2 Nd3 33. b4 Bxf2+ 34. Rxf2 Nxf2 35. Kxf2 Rd2+ 36. Kg1 g6 37. b5 Kf7 38. Bf1 Ke6 39. Bc4+ Ke5 40. Bf7 g5 41. Be8 Rb2 42. Bd7 h5 43. Bc6 h4 44. f4+ gxf4 45. gxh4 Kd4 46. h5 Ke3 47. Bg2 Rxb5 48. Bf1 Rb1 49. h6 f3 50. h7 Rb8 51. Bc4 Rh8 52. h3 Rxh7 53. Bf1 f4 54. Kh2 f2 55. Bc4 Rd7 56. Kg2 f3+ 57. Kg3 Rd1 58. h4 f1=Q 59. Bxf1 Rxf1 60. Kh2 f2 61. h5 Kf3 62. h6 Rd1 63. h7 f1=Q 64. h8=Q Rd2# 0-1

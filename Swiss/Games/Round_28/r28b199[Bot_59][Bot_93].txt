@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "27"]
+[White "Generic Chess Bot #1000000 (by: Anthony)"]
+[Black "AIsaac (by: Isaac Ellwood)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Stalemate"]
+
+1. Nf3 h5 2. c3 f5 3. Ne5 g5 4. Qb3 d5 5. Ng6 Rh7 6. e4 fxe4 7. Qb4 Kd7 8. Qd4 Kc6 9. Qa4+ b5 10. Qxb5+ Kd6 11. Nxf8 Qxf8 12. c4 dxc4 13. Bxc4 e5 14. Qd5+ Ke7 15. Qc5+ Ke8 16. Bb5+ c6 17. Bxc6+ Nxc6 18. Qxc6+ Rd7 19. Qxa8 Qc5 20. Nc3 a5 21. Nxe4 Qc7 22. d3 Rd4 23. Bxg5 h4 24. Nf6+ Nxf6 25. Bxf6 a4 26. g3 hxg3 27. fxg3 Qc5 28. h3 Qb4+ 29. Kf1 Qc5 30. Qf3 e4 31. Qf2 Qf5 32. Qxf5 Bxf5 33. Bxd4 exd3 34. h4 d2 35. Rd1 Bd3+ 36. Kf2 Be4 37. Rh2 Bd5 38. a3 Bg8 39. Ke2 Bc4+ 40. Kxd2 Bg8 41. Rg1 Bh7 42. Be3 Bg8 43. Kc3 Bh7 44. Kb4 Bg8 45. Kxa4 Bh7 46. Bc5 Bg8 47. Re1+ Kd8 48. Rd2+ Kc8 49. Re8+ Kc7 50. Bd6+ Kd7 51. Rxg8 Ke6 52. Rd4 Kf7 53. Rb8 Kg7 54. g4 Kh7 55. Kb4 Kg7 56. Kb5 Kh7 57. Kc6 Kg7 58. Bc5 Kh7 59. Rb7+ Kh8 60. Rd3 Kg8 61. Ra7 Kh8 62. Rb7 Kg8 63. Be3 Kh8 64. h5 Kg8 65. Rd6 Kh8 66. Rg6 1/2-1/2

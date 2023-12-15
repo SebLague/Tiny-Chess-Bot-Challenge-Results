@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "62"]
+[White "AUR Chessbot (by: Soul Senshi)"]
+[Black "Vito (by: Tjuli)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 c6 2. Nf3 Qa5 3. Rg1 Nf6 4. Rh1 Nd5 5. Rb1 Qb6 6. e4 Nf4 7. Ne2 Nxe2 8. Kxe2 Qa6+ 9. Ke1 Qxa2 10. Bc4 Qxb1 11. Bxf7+ Kxf7 12. Ne5+ Ke6 13. Nd3 Na6 14. Qg4+ Kf7 15. e5 Qxc2 16. e6+ dxe6 17. Ne5+ Ke8 18. Qc4 Qxc4 19. Nxc4 Nb4 20. Ne5 c5 21. b3 Bd7 22. Rf1 Bb5 23. Rg1 Nd3+ 24. Nxd3 Bxd3 25. Kd1 c4 26. Re1 cxb3 27. Rxe6 Kd7 28. Re5 Kd6 29. Bb2 e6 30. Kc1 Bf1 31. g3 Bd3 32. Kd1 Be7 33. f4 Bf6 34. Ba3+ Kd7 35. Re3 Bc2+ 36. Kc1 Rac8 37. Bb4 b2# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "9"]
+[White "Natrix (by: Pouek_)"]
+[Black "SimpleMinds (by: Karl Jungtow)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e5 2. b3 Qf6 3. Nd5 Qc6 4. c4 Qc5 5. Bb2 b5 6. Bxe5 d6 7. Bb2 bxc4 8. bxc4 Bd7 9. Qc2 Na6 10. Nf3 f5 11. Nf4 Nb4 12. Qc3 Nf6 13. d4 Qa5 14. Qe3+ Ne4 15. Kd1 Qa4+ 16. Ke1 Nc2+ 17. Kd1 Nxe3+ 18. Ke1 Qd1+ 19. Rxd1 Nc2# 0-1

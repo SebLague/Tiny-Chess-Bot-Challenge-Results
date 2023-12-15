@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "7"]
+[White "MyFirstChessEngine (by: Jake Forsey)"]
+[Black "Arctiform's Bot (by: Arctiform)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 g5 2. Nf3 g4 3. Ng5 h5 4. Nd5 e5 5. Ne4 Qh4 6. Nxc7+ Ke7 7. g3 Bh6 8. Nxa8 f5 9. Nc7 fxe4 10. gxh4 b6 11. Nd5+ Kd6 12. Nc3 a5 13. Nxe4+ Kd5 14. Nc3+ Kc4 15. e3+ Kc5 16. d4+ Kd6 17. dxe5+ Kxe5 18. Qd4+ Kf5 19. Qxh8 Bf8 20. Bd3+ Ke6 21. Qxg8+ Ke5 22. Qh8+ Ke6 23. Qxf8 Bb7 24. Qe8+ Kd6 25. Qxb8+ Ke7 26. Qxb7 Kf8 27. Qxd7 Kg8 28. Qh7+ Kf8 29. Bg6 b5 30. Qf7# 1-0

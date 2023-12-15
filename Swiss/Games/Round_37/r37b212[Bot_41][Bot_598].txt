@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "36"]
+[White "RichyRoo (by: devrichgg)"]
+[Black "WingBot (by: Benjamin Iserman)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e5 2. Nf3 Bd6 3. Rb1 Qf6 4. Rg1 Na6 5. Ra1 Nh6 6. Nb1 b6 7. g4 c6 8. c4 g6 9. h3 Ke7 10. Rg3 Ke6 11. Nh4 Qxh4 12. a3 f6 13. d4 Ke7 14. dxe5 Bxe5 15. Re3 Ke6 16. Qd4 Ke7 17. Nd2 Ke6 18. b4 Ke7 19. a4 Nxb4 20. Raa3 Nc2+ 21. Kd1 Nxd4 22. Rad3 Qxf2 23. Ba3+ Ke6 24. Bb4 g5 25. h4 Qxh4 26. Rxd4 a6 27. Rd6+ Kf7 28. Rdd3 Qxg4 29. Nf3 Qxc4 30. Nxe5+ fxe5 31. Rf3+ Kg7 32. Rd6 Qxb4 33. Rd2 Qb1# 0-1

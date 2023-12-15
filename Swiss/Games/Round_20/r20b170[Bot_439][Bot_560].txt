@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "19"]
+[White "Hershel (by: Nolan)"]
+[Black "MiaKBotv4.4 (by: Mia Kellett)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Nf3 Nc6 2. d3 Nf6 3. Nc3 Rb8 4. Bf4 Ra8 5. Kd2 Rb8 6. Qe1 Ra8 7. Qd1 Rg8 8. Bg5 Rb8 9. Qe1 Ra8 10. Qd1 Rh8 11. Bxf6 gxf6 12. Nd5 Bh6+ 13. e3 Ne5 14. Be2 Nc6 15. Bf1 Rb8 16. Qe1 Ne5 17. Be2 Nc6 18. Bf1 Ra8 19. Qd1 1/2-1/2

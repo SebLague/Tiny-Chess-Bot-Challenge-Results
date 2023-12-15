@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "30"]
+[White "Pawnish Punisher (by: Leon)"]
+[Black "Stickleback (by: Brent Mardell)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 e5 2. Rb1 d5 3. Ra1 Nf6 4. c3 Bxa3 5. Qa4+ Nc6 6. Qxa3 Be6 7. Qb3 O-O 8. Qxb7 Rb8 9. Qxc6 Re8 10. Qa6 d4 11. Qxa7 dxc3 12. dxc3 Rxb2 13. Bxb2 Qd2+ 14. Kxd2 Ne4+ 15. Kd3 Nxf2+ 16. Qxf2 e4+ 17. Kc2 e3 18. Qf3 Rd8 19. Qxe3 Rd6 20. Qa7 Rd2+ 21. Kxd2 Bg4 22. Qa8+ Bc8 23. Qxc8# 1-0

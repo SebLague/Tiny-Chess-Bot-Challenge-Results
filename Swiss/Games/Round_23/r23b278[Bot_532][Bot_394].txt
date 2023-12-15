@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "22"]
+[White "PracticeBot (by: liamkc)"]
+[Black "Why Use Full Brain (by: JustAdy)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. b4 e5 2. d4 exd4 3. Qxd4 Ne7 4. Qxd7+ Nxd7 5. Na3 Ng8 6. g4 Bxb4+ 7. Bd2 Bxa3 8. c3 Ne7 9. g5 Ng8 10. Rc1 Bxc1 11. Bxc1 h5 12. c4 f5 13. h4 c5 14. f4 a5 15. Kd1 g6 16. Kd2 b6 17. Ke1 a4 18. Bb2 Ne7 19. Bxh8 a3 20. Bg2 Ng8 21. Bxa8 Ne7 22. Bg7 Ng8 23. Bf8 Nxf8 24. Nf3 Ne7 25. Nd2 Nh7 26. Bf3 Nf8 27. Bxh5 gxh5 28. Kd1 Nh7 29. Rh3 Nf8 30. Rxa3 Nh7 31. Ra6 Bxa6 32. Kc2 Nf8 33. Kc1 Nh7 34. e4 Nf8 35. exf5 Nxf5 36. Ne4 Nxh4 37. Nxc5 bxc5 38. Kb2 Bxc4 39. Ka3 Nh7 40. f5 Nxg5 41. Ka4 Qa8# 0-1

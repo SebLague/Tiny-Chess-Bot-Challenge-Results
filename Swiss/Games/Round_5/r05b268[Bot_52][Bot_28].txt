@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "4"]
+[White "SimpleBearSearch (by: PizzasBear)"]
+[Black "Memelord (by: Alex Kubanek)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e5 2. a3 Ke7 3. d4 Nc6 4. dxe5 d5 5. Qxd5 f5 6. Bg5+ Nf6 7. Qxd8+ Nxd8 8. exf6+ Kd6 9. O-O-O Ke5 10. Rxd8 h6 11. fxg7 a5 12. gxh8=Q+ Bg7 13. Qxg7+ Ke6 14. Qf6# 1-0

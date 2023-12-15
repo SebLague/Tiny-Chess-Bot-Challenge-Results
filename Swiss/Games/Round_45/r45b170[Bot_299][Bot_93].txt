@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "44"]
+[White "MaterFromRadiatorSprings (by: Markus Grand Petersen)"]
+[Black "AIsaac (by: Isaac Ellwood)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 h5 2. Qf3 g5 3. Na3 e5 4. Nb5 c5 5. Qd5 f6 6. Nd6+ Bxd6 7. Qxd6 b6 8. Qd5 Nc6 9. Bb5 a6 10. Bxc6 dxc6 11. Qxc6+ Bd7 12. Qb7 Bb5 13. Qg7 Rh6 14. Qxg8+ Ke7 15. Qg7+ Ke8 16. Qxh6 h4 17. Qh7 f5 18. Qg8+ Kd7 19. Qd5+ Ke8 20. Qxe5+ Qe7 21. Qd5 Qd8 22. Qe6+ Qe7 23. Qg8+ Qf8 24. Qxg5 f4 25. Qe5+ Qe7 26. Qh5+ Qf7 27. Qxh4 fxe3 28. Qe4+ Kd7 29. fxe3 Qf1# 0-1

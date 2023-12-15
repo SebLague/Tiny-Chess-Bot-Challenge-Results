@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "38"]
+[White "NotSoEvilBot (by: AntVil)"]
+[Black "MirrorBot (by: Jackk)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. a3 a6 2. b3 b6 3. c3 c6 4. d3 d6 5. e3 e6 6. f3 f6 7. g3 g6 8. h3 h6 9. a4 a5 10. b4 axb4 11. cxb4 b5 12. axb5 cxb5 13. Rxa8 Ba6 14. Rxa6 Nxa6 15. d4 d5 16. e4 dxe4 17. fxe4 e5 18. dxe5 fxe5 19. Qxd8+ Kxd8 20. g4 g5 21. h4 gxh4 22. g5 hxg5 23. Bxg5+ Ke8 24. Bxb5+ Kf7 25. Bxa6 Bxb4+ 26. Nd2 Ba3 27. Bxh4 Rxh4 28. Rxh4 Ke8 29. Ne2 Ne7 30. Nb1 Ng8 31. Nxa3 Ne7 32. Nc1 Nc8 33. Bxc8 Ke7 34. Na2 Ke8 35. Nc1 Kf7 36. Na2 Ke8 37. Nc1 1/2-1/2

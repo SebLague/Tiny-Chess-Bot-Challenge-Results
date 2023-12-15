@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "20"]
+[White "SimpleBot (by: :LMProgramming)"]
+[Black "Trogdor (by: Zaph)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 b6 2. Qh5 d6 3. Qb5+ c6 4. Qh5 Qd7 5. Bc4 Qd8 6. Nc3 a5 7. a3 c5 8. Bb5+ Bd7 9. Nd5 Bxb5 10. Qg4 Qc8 11. Qxc8# 1-0

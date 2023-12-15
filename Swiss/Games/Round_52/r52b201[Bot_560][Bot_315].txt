@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "51"]
+[White "MiaKBotv4.4 (by: Mia Kellett)"]
+[Black "BadMeetsEvil (by: Nathan)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 f5 2. Nf3 a5 3. Nd4 Ra6 4. Nxf5 c5 5. Ne4 b5 6. Nxc5 Rc6 7. Nd3 a4 8. Ne5 Rc7 9. e3 g5 10. Qh5# 1-0

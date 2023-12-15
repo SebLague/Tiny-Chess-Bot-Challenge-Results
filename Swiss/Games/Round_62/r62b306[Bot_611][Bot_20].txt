@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "61"]
+[White "Splinter (by: Fungi Forrest & Fedora Noah)"]
+[Black "Queen's Gam-bot (by: Mateo Saldivar (ZiroDev))"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Na3 d6 2. Rb1 c5 3. Ra1 Bh3 4. Rb1 Qb6 5. Ra1 c4 6. Rb1 Be6 7. Ra1 Bg4 8. Rb1 Bxe2 9. Kxe2 c3 10. Ke1 h5 11. Ke2 cxd2 12. Kxd2 Qb4+ 13. Ke2 Qe4+ 14. Be3 Qg4+ 15. Ke1 b5 16. Kd2 h4 17. Kc1 h3 18. Kd2 Kd7 19. Kc1 Rh6 20. Kd2 Qd4+ 21. Kc1 Qg4 22. Kd2 Rh8 23. Kc1 Rh6 1/2-1/2

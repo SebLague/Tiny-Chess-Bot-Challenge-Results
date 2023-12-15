@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "11"]
+[White "simple chess bot (by: 4a0I)"]
+[Black "The Seeker (by: Lucas Pellegrinelli)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 d5 2. Bb5+ Bd7 3. Bxd7+ Nxd7 4. Qg4 e5 5. Nc3 Nb6 6. d3 Qe7 7. Kd1 Qe6 8. Qxe6+ fxe6 9. Nf3 Nd7 10. Nb5 Bd6 11. Nxd6+ cxd6 12. Ng5 Nc5 13. b4 Na4 14. Nxe6 Nc3+ 15. Kd2 Kf7 16. Ng5+ Kg6 17. Kxc3 Kxg5 18. e4+ Kh5 19. exd5 Ne7 20. Kb3 Nxd5 21. g4+ Kxg4 22. Rg1+ Kh3 23. Rxg7 Rag8 24. Rxb7 Rb8 25. Rxb8 Rxb8 26. c3 Kxh2 27. Bg5 a5 28. a3 a4+ 29. Kc2 Rc8 30. c4 Nb6 31. Be7 d5 32. c5 Nd7 33. Bg5 Kg2 34. Bh4 Rc6 35. Re1 Rh6 36. Bg3 Re6 37. d4 Rg6 38. dxe5 Rh6 39. Rd1 Rh1 40. Rxd5 Nf8 41. Rd6 Ra1 42. Kb2 Re1 43. Rh6 Re2+ 44. Kc1 Re1+ 45. Kc2 Rh1 46. Rxh1 Kxh1 47. Bf4 Kg1 48. Be3 Ng6 49. f4+ Kg2 50. Kd3 Kf3 51. c6 Nxf4+ 52. Bxf4 Kxf4 53. e6 Ke5 54. e7 Kd5 55. e8=Q Kd6 56. Ke4 Kc7 57. Qd7+ Kb6 58. Qb7# 1-0

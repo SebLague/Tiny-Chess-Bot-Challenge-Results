@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "45"]
+[White "Memelord (by: Alex Kubanek)"]
+[Black "nadjBot (by: Arman N)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. e4 a5 2. Ke2 a4 3. h4 a3 4. b4 Ra4 5. Bb2 axb2 6. Ke1 bxa1=Q 7. Ke2 Qxb1 8. Qc1 Qxc1 9. h5 Qxf1+ 10. Kxf1 Rxa2 11. Ke2 Rxc2 12. Nh3 Rxd2+ 13. Kf3 Rxf2+ 14. Kg3 Rxg2+ 15. Kh4 Rg1 16. Nf2 Rxh1+ 17. Nh3 Rxh3+ 18. Kxh3 b5 19. Kg2 c5 20. Kh3 cxb4 21. Kg2 b3 22. Kf1 b2 23. Ke2 b1=Q 24. Kf3 Qxe4+ 25. Kxe4 b4 26. Kd5 b3 27. Ke4 b2 28. h6 b1=Q+ 29. Ke5 gxh6 30. Kd5 Qa1 31. Ke4 Qb1+ 32. Kd5 Qa1 33. Ke4 Qb1+ 34. Kd5 1/2-1/2

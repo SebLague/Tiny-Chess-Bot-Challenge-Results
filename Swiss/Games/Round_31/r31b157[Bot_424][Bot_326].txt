@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "30"]
+[White "ILVM (by: Wincent01)"]
+[Black "Jbot (by: KaraokeCzar)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. a4 h5 2. b4 g5 3. c4 e5 4. b5 d5 5. Ba3 dxc4 6. Bb2 f6 7. e4 Be6 8. f3 c5 9. g3 a5 10. h3 b6 11. Kf2 h4 12. g4 Ne7 13. Ke1 Nd7 14. Ke2 c3 15. Bxc3 f5 16. gxf5 Bg8 17. d3 c4 18. f4 gxf4 19. Ke1 cxd3 20. Qxd3 Nb8 21. Qf3 Nc8 22. Rh2 Na7 23. Rh1 Nc8 24. Rh2 Na7 25. Rh1 Nc8 1/2-1/2

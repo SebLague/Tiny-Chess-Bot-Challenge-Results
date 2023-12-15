@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "6"]
+[White "OrionChessEngine (by: Maarten Peels)"]
+[Black "GM Manneken pis (by: Broguld)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 c5 2. Nc3 Qa5 3. Ne5 c4 4. f4 h5 5. Nxc4 Qc5 6. Ne3 a5 7. d4 Qb4 8. Nd5 Qc4 9. Nb6 Qb4 10. Nxa8 Na6 11. e4 b5 12. Bxb5 g5 13. Bxa6 Bxa6 14. fxg5 Kd8 15. g6 fxg6 16. Bf4 d6 17. Nc7 Kxc7 18. g4 e5 19. h4 exf4 20. Kf2 Qc4 21. gxh5 Rxh5 22. Nd5+ Kd8 23. Qg4 Qxd4+ 24. Ke1 Qxe4+ 25. Ne3 Qxh1+ 26. Kd2 fxe3+ 27. Kc3 Qxa1 28. Qc8+ Bxc8 29. Kc4 e2 30. Kb3 e1=Q 31. Ka3 Qb4# 0-1

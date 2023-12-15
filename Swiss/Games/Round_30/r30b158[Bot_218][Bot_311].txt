@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "29"]
+[White "Epimetheus (by: George Bland)"]
+[Black "MyFirstChessEngine (by: Jake Forsey)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 Nc6 2. Qg4 Nh6 3. Qc4 Rb8 4. Nf3 Ra8 5. Nc3 Rb8 6. Bd3 Ra8 7. Qf4 Ng8 8. a4 d5 9. Nb5 e5 10. Nxe5 Nxe5 11. Qxe5+ Qe7 12. Nxc7+ Kd8 13. Qg3 Qxc7 14. Bxh7 Rxh7 15. Qxc7+ Kxc7 16. h4 Bf5 17. d3 Bd6 18. Bd2 Nf6 19. Ba5+ Kd7 20. Ke2 Be5 21. Bc3 Bxc3 22. bxc3 Bg4+ 23. f3 Be6 24. Rab1 Rb8 25. h5 Rxh5 26. Rxh5 Nxh5 27. Kf1 Ng3+ 28. Kg1 Ne2+ 29. Kf1 Nxc3 30. Rb4 Kc7 31. Rh4 Rg8 32. Ke1 Ra8 33. Kf1 Nd1 34. Ke2 g5 35. Kxd1 gxh4 36. Kc1 Rg8 37. Kb1 Rxg2 38. Kc1 Rg1+ 39. Kb2 Rg7 40. Ka1 Rg3 41. c3 Rxf3 42. a5 Rxe3 43. a6 bxa6 44. Kb1 Re1+ 45. Kb2 h3 46. Ka2 h2 47. Ka3 h1=Q 48. d4 Ra1+ 49. Kb2 Qb1# 0-1

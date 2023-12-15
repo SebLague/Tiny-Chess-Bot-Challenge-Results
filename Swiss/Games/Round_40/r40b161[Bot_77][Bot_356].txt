@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "39"]
+[White "OrionChessEngine (by: Maarten Peels)"]
+[Black "AlaskaBot (by: Arttu Halonen)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nf3 Bd6 3. Nc3 Nf6 4. Be2 Nc6 5. Nb5 Nxe4 6. Nxd6+ cxd6 7. d4 exd4 8. Rg1 d5 9. Kf1 g6 10. Bb5 f5 11. Ba4 g5 12. Nxd4 Nxd4 13. Qxd4 O-O 14. Qxd5+ Kg7 15. c4 d6 16. Qxe4 fxe4 17. Ke1 Bf5 18. f3 Qa5+ 19. Kd1 Qxa4+ 20. b3 Qb4 21. fxe4 Bxe4 22. Bxg5 Bf5 23. a3 Qxb3+ 24. Ke1 Qxc4 25. Kd1 Qc2+ 26. Ke1 d5 27. Kf1 Qc4+ 28. Kf2 d4 29. Rgb1 Bxb1+ 30. Ke1 Bf5 31. Be3 dxe3 32. Kd1 Qf1# 0-1

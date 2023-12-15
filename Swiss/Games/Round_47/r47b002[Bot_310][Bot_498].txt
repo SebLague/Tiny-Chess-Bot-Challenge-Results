@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "46"]
+[White "LynchBot (by: Gary Lynch)"]
+[Black "Kinglet (by: Skolin + World + Abyss)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 exd5 5. Nf3 Nc6 6. Bg5 Be7 7. Qb3 Na5 8. Qc2 O-O 9. O-O-O Nc6 10. a3 Bg4 11. Ne5 Be6 12. e3 h6 13. Bf4 Nxe5 14. dxe5 Nh5 15. Bg3 c6 16. Bd3 Rc8 17. Rhe1 Qc7 18. f4 Nxg3 19. hxg3 Bg4 20. Be2 Qd7 21. e4 d4 22. f5 Bxe2 23. Nxe2 Bg5+ 24. Kb1 c5 25. Qc4 Rfe8 26. Nf4 Rxe5 27. Nd5 Qe8 28. Qd3 Rd8 29. Nf4 c4 30. Qxc4 Bxf4 31. gxf4 Rxe4 32. Qb4 Qc6 33. g3 Rxe1 34. Rxe1 d3 35. Qd2 b6 36. Re7 Qh1+ 37. Qe1 Qd5 38. Qd2 Qxf5 39. Rxa7 Qe4 40. g4 Qe2 41. Qxe2 dxe2 42. Re7 Rd1+ 43. Kc2 e1=Q 44. Rxe1 Rxe1 45. g5 hxg5 46. fxg5 Rg1 47. Kd2 Rxg5 48. Kc3 Kf8 49. a4 Ke7 50. b4 Kd6 51. Kc4 Rd5 52. a5 bxa5 53. bxa5 Rxa5 54. Kd3 Re5 55. Kc2 g5 56. Kd2 g4 57. Kd3 g3 58. Kc2 g2 59. Kb1 Re2 60. Ka1 g1=Q# 0-1

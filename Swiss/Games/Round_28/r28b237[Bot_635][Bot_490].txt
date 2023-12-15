@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "27"]
+[White "BotTheBuilder (by: Stelio Dalakas)"]
+[Black "Trogdor (by: Zaph)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g3 h5 2. Bg2 a5 3. a3 d6 4. f4 e6 5. Bxb7 Bxb7 6. Nf3 Bxf3 7. d3 Bxh1 8. Nc3 Nh6 9. Rb1 Qd7 10. e4 Ng8 11. Bd2 Nf6 12. Qxh5 Nxh5 13. b4 g6 14. Kd1 Nc6 15. Rb2 Rb8 16. h4 Nxg3 17. bxa5 Rxb2 18. f5 Rxh4 19. Bc1 Nxa5 20. Kd2 Nc6 21. Bxb2 Nf1+ 22. Ke1 Be7 23. fxe6 Qxe6 24. Kd1 Qf6 25. e5 Qxe5 26. Ne4 Qxb2 27. Ke2 Qxc2+ 28. Ke1 Kd8 29. Nxd6 Qc1+ 30. Kf2 cxd6 31. Ke2 Rh2# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "31"]
+[White "Marvin (by: Kerem Bekmez)"]
+[Black "Chessetor, Destroyer of Boards (by: Badoobicus)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e5 2. d3 Qe7 3. e3 c5 4. Qd2 Na6 5. Kd1 Nc7 6. f4 Ne6 7. fxe5 Ng5 8. h4 Qxe5 9. hxg5 Qxg5 10. d4 Qg4+ 11. Nf3 Rb8 12. d5 Qg3 13. Ne4 Qg4 14. Nc3 Qb4 15. a3 Nf6 16. axb4 a6 17. bxc5 Bxc5 18. Qe1 Rf8 19. Qg3 Ra8 20. d6 g6 21. Qe5+ Kd8 22. Qe7# 1-0

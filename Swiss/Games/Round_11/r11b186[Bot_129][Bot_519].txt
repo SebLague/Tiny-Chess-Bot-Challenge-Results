@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "10"]
+[White "Chemibot (by: Mike Chemi)"]
+[Black "BasicAlphaBeta (by: ThonyDragon)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g4 e6 2. Bg2 Bc5 3. b3 Bxf2+ 4. Kf1 Qf6 5. Nh3 Qxa1 6. Nxf2 Qxb1 7. a4 Qa1 8. h4 h5 9. e4 g6 10. gxh5 Rxh5 11. c4 Qf6 12. b4 Kf8 13. Ba3 Rh7 14. b5+ Ne7 15. e5 Qh8 16. Bxe7+ Kxe7 17. d4 Rxh4 18. c5 Rh2 19. Qd2 Kf8 20. a5 Ke8 21. Qg5 Qh7 22. a6 d5 23. cxd6 cxd6 24. exd6 Rxh1+ 25. Bxh1 f5 26. axb7 Bxb7 27. Qe7+ Qxe7 28. dxe7 Bxh1 29. Nxh1 Kxe7 30. Ke2 Nd7 31. Kd3 Rh8 32. Nf2 Rc8 33. Nh3 Nf8 34. Kd2 Kf6 35. Nf4 Rc4 36. Kd3 Rc7 37. Kd2 Ke7 38. d5 Rc5 39. d6+ Kd7 40. Nd3 Rxb5 41. Kc3 Rb1 42. Ne5+ Kxd6 43. Kc2 Ra1 44. Nc4+ Kd7 45. Ne5+ Kd8 46. Kb3 f4 47. Nf7+ Ke8 48. Nd6+ Ke7 49. Nc8+ Kd7 50. Kb2 Ra6 51. Kc3 Rc6+ 52. Kd4 Kxc8 53. Ke4 Rc4+ 54. Ke5 f3 55. Kd6 f2 56. Ke7 Rf4 57. Kd6 f1=Q 58. Ke5 Qc4 59. Kd6 Qc7# 0-1

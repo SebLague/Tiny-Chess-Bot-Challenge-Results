@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "31"]
+[White "Minimaxibon v1 (by: NotSureWhyThisWorks)"]
+[Black "abariba (by: abariba)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 c5 2. Nf3 f5 3. Nd5 Nf6 4. Nxf6+ gxf6 5. e3 d5 6. Bb5+ Kf7 7. Nh4 Ke6 8. Bd3 Ke5 9. Qe2 a5 10. Kd1 a4 11. Re1 b6 12. Rb1 e6 13. Ra1 Rg8 14. Qh5 Ra7 15. e4 Kd6 16. exd5 Kxd5 17. Qf3+ Kd6 18. Bb5 Kc7 19. Qh5 Qe7 20. Nxf5 exf5 21. Rxe7+ Bxe7 22. Qxh7 Bd7 23. Bxd7 Kxd7 24. Qxg8 Kc7 25. Qh7 Nc6 26. Qxf5 a3 27. bxa3 c4 28. Bb2 Bxa3 29. Bxf6 Ra5 30. Qf4+ Kd7 31. Qg4+ Kd6 32. Qxc4 b5 33. Qf4+ Kd7 34. Qf5+ Kc7 35. d4 Bb4 36. d5 Be7 37. dxc6 Bxf6 38. Qf4+ Kxc6 39. Qxf6+ Kb7 40. Qf3+ Kb8 41. Qb3 Ka7 42. Qe3+ Ka6 43. Qd3 Ra4 44. Kc1 Rc4 45. Qa3+ Kb6 46. Kb1 Re4 47. Qd6+ Ka7 48. Qc5+ Kb8 49. Qxb5+ Kc7 50. Kb2 Rg4 51. Rg1 Kd6 52. Rd1+ Rd4 53. Rxd4+ Ke6 54. Rd7 Kf6 55. Ka1 Ke6 56. g4 Kf6 57. Qf5# 1-0

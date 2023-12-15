@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "19"]
+[White "TuroChampEx (by: code<metas>)"]
+[Black "RayBot (by: Shahriar Rayed)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 d5 2. e3 Nc6 3. d4 e6 4. Bd2 Qf6 5. Nc3 a6 6. a4 Bd6 7. h4 h6 8. h5 Bd7 9. Rb1 g5 10. Ng1 Nb4 11. Rc1 Qf5 12. g4 Qh7 13. Nge2 Nf6 14. f3 b5 15. b3 bxa4 16. Nxa4 Bxa4 17. bxa4 Kd7 18. Kf2 a5 19. Bg2 c6 20. Be1 Rhb8 21. Kf1 Rb7 22. Rb1 Rb6 23. c3 Nc2 24. Bd2 Nxe3+ 25. Bxe3 Rxb1 26. Bc1 Ra1 27. Qb3 Rb8 28. Qd1 Rb2 29. Kf2 Rc2 30. Ke1 Ba3 31. Bd2 Rxd1+ 32. Kxd1 Qd3 33. Ke1 Qxd2+ 34. Kf2 Qxe2+ 35. Kg1 Qxg2# 0-1

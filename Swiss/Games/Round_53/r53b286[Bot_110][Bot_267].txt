@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "52"]
+[White "EvilMirror (by: Hagan Gray)"]
+[Black "TimsBot (by: Thomas Dvorak)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e5 2. d4 exd4 3. Qxd4 h5 4. a4 g5 5. b4 f5 6. c4 Ke7 7. Qxh8 c6 8. f3 b5 9. g4 hxg4 10. axb5 gxf3 11. bxc6 dxc6 12. Qxg8 c5 13. Qxf8+ Kd7 14. Qxd8+ Ke6 15. Qxc8+ Nd7 16. Ne2 cxb4 17. Qxa8 fxe2 18. Kxe2 a5 19. h4 gxh4 20. Rxa5 f4 21. c5 h3 22. Ra6+ Nb6 23. Rxb6+ Kf7 24. Rxh3 fxe3 25. Rh7# 1-0

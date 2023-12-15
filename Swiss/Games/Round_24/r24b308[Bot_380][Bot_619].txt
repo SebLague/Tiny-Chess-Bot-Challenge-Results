@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "23"]
+[White "Funko Bot (by: Sky Sherwood)"]
+[Black "Bad Player (by: Geopardgame)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. h4 e5 2. Rh2 f6 3. a4 a6 4. e4 b6 5. Bxa6 c5 6. c3 Ne7 7. Bxc8 Rg8 8. a5 Ng6 9. Qa4 Nh8 10. Bxd7+ Ke7 11. axb6 Qc8 0-1

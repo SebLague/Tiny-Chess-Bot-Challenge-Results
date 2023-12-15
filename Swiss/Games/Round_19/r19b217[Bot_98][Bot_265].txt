@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "18"]
+[White "Shadow (by: Zaid Alas4)"]
+[Black "SimpleBot (by: Tim Zollner)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e6 2. d4 Be7 3. Nd2 Nf6 4. Qe2 Nc6 5. e5 Nd5 6. a4 O-O 7. Qd3 Ndb4 8. Qxh7+ Kxh7 9. Ra2 Nxc2+ 10. Ke2 N6b4 11. Nc4 Nxd4+ 12. Ke1 b5 13. axb5 Nxb5 14. Rxa7 Nxa7 15. Nh3 Nc2+ 16. Ke2 g5 17. Bxg5 Bxg5 18. Nxg5+ Qxg5 19. Nd2 Nd4+ 20. Kd3 Ba6+ 21. Kxd4 Qxd2+ 22. Kc5 d6+ 23. exd6 Qxd6# 0-1

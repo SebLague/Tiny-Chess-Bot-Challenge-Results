@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "15"]
+[White "EldenBot (by: Ghost_Dev_84)"]
+[Black "TheGriefer (by: evgiz0r)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a3 Na6 2. b3 c5 3. c3 b5 4. d3 h6 5. e3 Bb7 6. f3 Nc7 7. g3 Nf6 8. h3 e6 9. a4 Bd6 10. axb5 Bxg3+ 11. Kd2 Nxb5 12. b4 Qc8 13. bxc5 Qxc5 14. c4 Nd6 15. d4 Nxc4+ 16. Bxc4 Qxc4 17. e4 Qxd4+ 18. Kc2 Rc8+ 19. Nc3 Rxc3+ 20. Kb1 Qxd1 21. f4 Rxc1+ 22. Ka2 Rxa1+ 23. Kb2 Bxe4 24. h4 Bxh1 25. f5 Qd4+ 26. Kc2 Qe4+ 27. Kb2 Qb1+ 28. Kc3 Qxg1 29. fxe6 fxe6 30. h5 d6 31. Kb2 Nxh5 32. Kc2 a5 33. Kb2 Qb1+ 34. Kc3 Ra3+ 35. Kd2 Qe1+ 36. Kc2 Rc3+ 37. Kb2 Rc4 38. Ka2 Qf2+ 39. Ka1 g5 40. Kb1 d5 41. Ka1 Qb6 42. Ka2 e5 43. Ka1 g4 44. Ka2 d4 45. Ka1 Be1 46. Ka2 d3 47. Ka1 g3 48. Ka2 Rc1 49. Ka3 d2 50. Ka2 Qb1+ 51. Ka3 Rc3+ 52. Ka4 d1=B+ 53. Kxa5 g2 54. Ka6 g1=Q 55. Ka5 e4 56. Ka6 e3 57. Ka5 Qd3 58. Kb4 Qc2 59. Ka5 Rc6+ 60. Kb5 Bg3 61. Kb4 e2 62. Ka3 Qa4+ 63. Kb2 Rc2+ 64. Kb1 Rc3 65. Kb2 Rc5 66. Kb1 Rc7 67. Kb2 Rc8 68. Kb1 Qc2+ 69. Ka1 Qc6 70. Kb1 Qb7+ 71. Ka1 Qg7+ 72. Kb1 Be4+ 73. Ka2 Bd5+ 74. Kb1 Qg6+ 75. Ka1 Qf6+ 76. Kb1 Be4+ 77. Ka2 Rc2+ 78. Kb1 Qe7 79. Ka1 Qea7+ 80. Kb1 Rc4+ 81. Kb2 Rb4+ 82. Kc1 Bb3+ 83. Kb2 Bc4+ 84. Kc3 Qe1# 0-1

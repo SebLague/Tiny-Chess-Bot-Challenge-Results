@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "50"]
+[White "Traderino (by: BenLS)"]
+[Black "Version 8 (by: Whoever)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c3 e5 2. e3 Qh4 3. c4 Bb4 4. Qf3 d6 5. Qh3 Bxh3 6. gxh3 Ne7 7. Kd1 Qxf2 8. e4 Qxf1+ 9. Kc2 Qxc4+ 10. Nc3 O-O 11. Kb1 Qd3# 0-1

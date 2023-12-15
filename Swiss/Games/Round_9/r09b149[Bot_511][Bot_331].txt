@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "8"]
+[White "roboleon v4.1 bugfixed (by: CLEC)"]
+[Black "YAMMB  (by: Dovakin7)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 e6 2. d4 c5 3. dxc5 Bxc5 4. Bf4 Qb6 5. Qc1 Bxf2+ 6. Kd1 d6 7. e4 e5 8. Bg5 Bg4 9. h3 Bxf3+ 10. gxf3 f6 11. Bd2 Qd4 12. c3 Qa4+ 13. Qc2 Qxc2+ 14. Kxc2 h5 15. Na3 h4 16. Nc4 Kd7 17. Be1 Bxe1 18. Rxe1 b5 19. Ne3 Kc6 20. Rg1 Rh7 21. c4 b4 22. Nd5 a5 23. f4 exf4 24. Nxf4 Kd7 25. Bd3 Nc6 26. Kd2 Ne5 27. Be2 Ne7 28. Rh1 f5 29. exf5 Nxf5 30. Nd5 Rb8 31. Rh2 Nd4 32. Bg4+ Kc6 33. Ne3 Ndf3+ 34. Bxf3+ Nxf3+ 35. Kc2 Nxe1+ 36. Kb1 Re8 37. Nf5 g6 38. Nd4+ Kc5 39. Nb3+ Kxc4 40. Nxa5+ Kb5 41. Nb3 Nf3 42. Rg2 Rc7 43. a3 Re3 44. a4+ Kxa4 45. Nc1 Kb5 46. Rc2 Rxc2 47. Kxc2 Nd4+ 48. Kd2 Rxh3 49. Na2 Rh2+ 50. Kc1 h3 51. Kd1 Rxb2 52. Kc1 Rxa2 53. Kb1 Rc2 54. Ka1 h2 55. Kb1 h1=Q# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "38"]
+[White "Anty (by: Emanuele Sorce)"]
+[Black "Saubstauga (by: Dominik)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d3 h5 2. e4 h4 3. Qg4 d6 4. Kd2 Bxg4 5. Nc3 g5 6. Nh3 e5 7. Nd5 c5 8. g3 b5 9. b4 a6 10. Kc3 cxb4+ 11. Kd2 a5 12. Nhf4 a4 13. Ng2 h3 14. c3 bxc3+ 15. Ke3 c2 16. f4 gxf4+ 17. Ngxf4 exf4+ 18. Kxf4 Bc8 19. Bb2 Rh7 20. Bd4 a3 21. Be5 dxe5+ 22. Kf3 Nh6 23. Rb1 cxb1=B 24. Nf6+ Ke7 25. Ng8+ Nxg8 26. Bg2 Bxd3 27. Rb1 Bxb1 28. Bh1 Bxa2 29. Bg2 f6 30. Bf1 b4 31. Ba6 Bd7 32. Bc4 Nh6 33. Ke2 Bxc4+ 34. Kf3 b3 35. Kf2 b2 36. Ke3 b1=B 37. Kd2 Qa5+ 38. Kd1 Bg4+ 39. Kc1 Qe1# 0-1

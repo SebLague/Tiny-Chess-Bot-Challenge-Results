@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "42"]
+[White "Optimus (by: Adt)"]
+[Black "BackupBotCuzIDeletedPreviousGoodOne (by: _deeznuts420)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. d4 e6 3. d5 exd5 4. exd5 Bb4+ 5. Ke2 Qe7+ 6. Kd3 Qd6 7. Qh5 Be1 8. Nh3 Nb4+ 9. Kc4 Ne7 10. Na3 Nbxd5 11. Rb1 Nb6+ 12. Kb3 Qb4# 0-1

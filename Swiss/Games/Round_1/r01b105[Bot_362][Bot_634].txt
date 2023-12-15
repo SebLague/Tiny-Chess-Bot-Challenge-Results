@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "nimbot (by: )"]
+[Black "AeroBot (by: vakqDev)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nh3 h6 2. d4 c5 3. dxc5 Qb6 4. cxb6 d5 5. bxa7 Nf6 6. axb8=Q g5 7. Qxa8 e5 8. Qxc8+ Ke7 9. Qxb7+ Ke8 10. Qc8+ Ke7 11. Qf5 Kd6 12. Qxf6+ Kc7 13. Qxh8 Kb7 14. Qxf8 Ka6 15. Qxh6+ Kb7 16. Qxd5+ Kc7 17. Qa6 Kb8 18. Qxe5# 1-0

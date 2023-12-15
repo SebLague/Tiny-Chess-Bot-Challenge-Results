@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "51"]
+[White "SepukuBot (by: Madhu)"]
+[Black "HalfWit (by: Steven Christy)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g4 Na6 2. c3 c5 3. Qb3 f6 4. Qd5 Nh6 5. g5 fxg5 6. Qxg5 b5 7. d3 Ng8 8. Be3 Bb7 9. f3 Qc8 10. Na3 Qc6 11. Bh3 d5 12. Bf1 O-O-O 13. Bh3+ Kb8 14. Qe5+ Ka8 15. Bf5 h5 16. h3 Qf6 17. Qe6 Qh4+ 18. Kd1 Qa4+ 19. Kc1 Nc7 20. Qf7 c4 21. d4 Nf6 22. Bf4 Kb8 23. Bg6 e5 24. Bxe5 Qd1+ 25. Kxd1 Bxa3 26. Qxc7+ Ka8 27. bxa3 Rd7 28. Rb1 Rxc7 29. Bxc7 Ba6 30. f4 h4 31. Bf7 Rh7 32. a4 Kb7 33. axb5 Bxb5 34. Be5 Ka6 35. a3 Ba4+ 36. Kc1 Ka5 37. f5 Ka6 38. e3 Ka5 39. Bxf6 gxf6 40. Bxd5 Be8 41. Bxc4 Rd7 42. e4 Rc7 43. Rb8 Rxc4 44. Rxe8 Ka4 45. e5 Rxc3+ 46. Kd2 Rxa3 47. exf6 Kb5 48. f7 Ra2+ 49. Kc1 Ra1+ 50. Kb2 Ra4 51. f8=Q Rxd4 52. Qf6 Rb4+ 53. Kc3 Rc4+ 54. Kd3 Rc5 55. Rb8+ Ka4 56. Qa1# 1-0

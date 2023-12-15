@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "11"]
+[White "LPS (by: fhyyBy2)"]
+[Black "Basic Bot (by: G0ldSt0ne)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. b4 Na6 2. b5 Nb4 3. a3 Nd5 4. c4 Nb6 5. Qb3 d6 6. Bb2 Bf5 7. Nc3 Qd7 8. Ra2 Qd8 9. Nd1 Nxc4 10. Ba1 Qd7 11. Bc3 Be6 12. Bb4 Nxd2 13. Bxd2 Bxb3 14. Ra1 Qxb5 15. Nc3 Qa5 16. Ne4 Qd5 17. Nf6+ Nxf6 18. Bc3 Ne4 19. Nf3 Nxc3 20. Rc1 Na2 21. Nd2 Nxc1 22. Nxb3 Qxb3 23. Kd2 Qb2+ 24. Ke1 Qc3+ 25. Kd1 Nb3 26. Rg1 Qc1# 0-1

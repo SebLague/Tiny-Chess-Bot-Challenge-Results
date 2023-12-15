@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "20"]
+[White "Queen's Gam-bot (by: Mateo Saldivar (ZiroDev))"]
+[Black "TeddyBearBot (by: mathabs)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. d3 Na6 2. Bd2 Rb8 3. Be3 Ra8 4. Qd2 Rb8 5. Qb4 Ra8 6. Bb6 Rb8 7. Qc4 Ra8 8. b4 Rb8 9. e4 Ra8 10. Kd1 Rb8 11. Bd4 Ra8 12. Nf3 Rb8 13. a3 Ra8 14. Bb6 Rb8 15. Bxa7 Ra8 16. Qc3 Rxa7 17. Ne5 Ra8 18. Nxd7 Kxd7 19. Qd4+ Kc6 20. b5+ Kxb5 21. Nc3+ Ka5 22. Qc5+ Nxc5 23. Nd5 Ka4 24. Nb6+ Ka5 25. Nc4+ Ka4 26. Nb2+ Ka5 27. Nc4+ Ka4 28. Nb6+ Ka5 29. d4 Kxb6 30. Kc1 Ka5 31. Ba6 Ka4 32. Bb5+ Ka5 33. Ba6 Ka4 34. Rb1 Kxa3 35. Rb3+ Ka2 36. Ra3+ Kxa3 37. Kb1 Ka4 38. Bc4 Ka3 39. Ba6 Ka4 40. Bb5+ Ka3 41. Ba6 1/2-1/2

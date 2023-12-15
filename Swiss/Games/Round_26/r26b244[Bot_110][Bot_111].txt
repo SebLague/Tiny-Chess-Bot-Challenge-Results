@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "25"]
+[White "EvilMirror (by: Hagan Gray)"]
+[Black "No Brain but Hungry (by: Pete)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 e6 2. a4 Bb4+ 3. Qd2 Bxd2+ 4. Kxd2 Qg5+ 5. Ke1 Qxc1# 0-1

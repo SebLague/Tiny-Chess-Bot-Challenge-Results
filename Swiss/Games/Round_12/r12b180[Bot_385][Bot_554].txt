@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "11"]
+[White "3D.Opening Bot (by: Mark Grennan)"]
+[Black "The Fisher (by: Unodus)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 e6 2. Nc3 Qf6 3. Be3 Bb4 4. Kd2 Qf5 5. Rc1 Qd5 6. Kd3 Qh5 7. Nb1 Qb5+ 8. Ke4 Qf5# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "12"]
+[White "CosmoDMBot (by: CosmoDM)"]
+[Black "jebChess (by: jibux)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. d4 c6 3. Nc3 Qa5 4. Qf3 Ng8 5. Kd1 Qb4 6. Qd3 d6 7. h3 h5 8. Nce2 c5 9. a3 Qa4 10. dxc5 dxc5 11. Qd5 e6 12. Qa2 Qxe4 13. Qb3 Qd5+ 14. Qxd5 exd5 15. Nc3 d4 16. Nd5 Kd7 17. Bf4 Bd6 18. Bb5+ Nc6 19. Ba4 b5 20. Bxb5 Rb8 21. Bxd6 Rxb5 22. a4 Ra5 23. Bg3 h4 24. Bh2 c4 25. Nf4 g5 26. b3 gxf4 27. bxc4 Ba6 28. Ne2 Bxc4 29. Ng1 Rg5 30. Nf3 Rxg2 31. Nd2 Be6 32. Ke1 Nb4 33. Rc1 d3 34. Kf1 Bxh3 35. Bxf4 Rh2+ 36. Ke1 Rxh1+ 37. Nf1 Rxf1+ 38. Kd2 Rxf2+ 39. Kc3 Rxf4 40. Rd1 Nd5+ 41. Kb2 Bf5 42. Kc1 dxc2 43. Rxd5+ Ke6 44. Rxf5 Rxf5 45. Kxc2 h3 46. Kc1 Rf2 47. Kb1 h2 48. Ka1 h1=Q# 0-1

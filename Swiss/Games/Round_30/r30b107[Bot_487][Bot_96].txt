@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "29"]
+[White "Rodders (by: Chipperphilly)"]
+[Black "Chess Bot (by: M)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. g3 e5 2. Bh3 d5 3. Bxc8 Qxc8 4. Kf1 Nc6 5. Nc3 d4 6. Nb5 a6 7. Na3 Bd6 8. Nf3 e4 9. Ng5 Nf6 10. Kg2 b5 11. h4 h6 12. Nh3 g5 13. hxg5 hxg5 14. Nxg5 Rxh1 15. Qxh1 Ke7 16. Qh6 Qf5 17. d3 Ng4 18. Qh3 Qxf2+ 19. Kh1 Rh8 20. Nh7 Qe1+ 21. Kg2 Qf2+ 22. Kh1 Qe1+ 23. Kg2 Qf2+ 24. Kh1 1/2-1/2

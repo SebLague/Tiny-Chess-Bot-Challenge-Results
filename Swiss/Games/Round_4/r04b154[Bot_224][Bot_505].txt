@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "3"]
+[White "RP Bot (by: Matt Enad (RobProductions))"]
+[Black "Terminus (by: Slayer8274)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 f5 2. Nc3 d6 3. Nf3 e6 4. e3 c6 5. Kd2 Qa5 6. Ne1 Kd7 7. a3 Kc7 8. Nf3 Kb6 9. b4 Na6 10. bxa5+ Kxa5 11. Ke1 g6 12. Qd2 Nb4 13. Nd5 e5 14. Qxb4# 1-0

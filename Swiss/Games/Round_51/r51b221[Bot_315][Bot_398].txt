@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "50"]
+[White "BadMeetsEvil (by: Nathan)"]
+[Black "ChessGPT (by: DeepGoldenCrown)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d3 f5 2. b4 b6 3. Bg5 Nf6 4. Nf3 Kf7 5. c4 f4 6. Bxf4 Ke8 7. g3 Na6 8. Nh4 Nxb4 9. h3 Nxa2 10. Rxa2 h6 11. Be5 Ng4 12. hxg4 d6 13. Ba1 Bxg4 14. f4 Bxe2 15. Kxe2 e5 16. Nf5 exf4 17. gxf4 Rb8 18. Rxa7 b5 19. cxb5 Rxb5 20. Ng3 Kd7 21. Na3 Rb4 22. Rg1 Rxf4 23. Bb2 Kc6 24. Bh3 Kc5 25. Ra5+ Kb4 26. Rb5# 1-0

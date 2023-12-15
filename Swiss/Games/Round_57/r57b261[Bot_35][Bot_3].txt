@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "56"]
+[White "chaos bot (by: zer0)"]
+[Black "Pancake (by: EaglePancake)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 e6 2. Nf3 Qxh4 3. Rxh4 Ba3 4. Nxa3 Kd8 5. Rxh7 Rxh7 6. Ne5 a6 7. Nxf7+ Ke8 8. g3 Kxf7 9. e3 Kf6 10. Bd3 Rh1+ 11. Bf1 Rxf1+ 12. Kxf1 Kf7 13. c4 g5 14. b3 c5 15. f4 gxf4 16. gxf4 e5 17. fxe5 d6 18. exd6 Bh3+ 19. Kf2 Nc6 20. Ke2 Bf1+ 21. Kxf1 Na5 22. b4 Nxc4 23. Nxc4 cxb4 24. Kg1 Nf6 25. Kf2 Ne4+ 26. Ke2 Nc3+ 27. dxc3 bxc3 28. Qd5+ Kf8 29. Qxb7 Ra7 30. Qxa7 c2 31. Qxa6 Kg8 32. Nb2 Kf8 33. Qa7 Ke8 34. Qe7# 1-0

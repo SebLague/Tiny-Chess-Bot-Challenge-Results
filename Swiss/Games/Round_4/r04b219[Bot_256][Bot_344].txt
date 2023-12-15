@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "3"]
+[White "GulcarBot (by: Gulcar)"]
+[Black "DD9's chess bot (by: DigestDig9)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Qe2 c5 3. Qc4 Bd6 4. Qd3 Bc7 5. Nc3 Bb6 6. Nb5 Ba5 7. Qd5 Bxd2+ 8. Bxd2 Qb6 9. Qxe5+ Kf8 10. Nc7 Qc6 11. Qe8# 1-0

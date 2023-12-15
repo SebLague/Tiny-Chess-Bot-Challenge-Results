@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "57"]
+[White "The Peaceful King (by: Sam Lefforge)"]
+[Black "RandomUnoptimisedBot (by: Zhanybek)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a4 h5 2. a5 c5 3. d4 a6 4. Kd2 Rh6 5. Kd3 b6 6. Ke4 Rf6 7. Kd5 Rf3 8. Ke5 Nf6 9. c4 Qc7# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "10"]
+[White "ABot (by: August)"]
+[Black "BitBlunderer (by: Till Zemann (GitHub: https://github.com/till2 :D))"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h3 Nf6 2. Rh2 Nc6 3. d3 e5 4. Kd2 Bb4+ 5. Ke3 Nd5+ 6. Kf3 Qh4 7. Be3 Nd4+ 8. Bxd4 e4+ 9. dxe4 Qf4# 0-1

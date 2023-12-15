@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "32"]
+[White "Asymptotically optimal (by: Graham Gayler)"]
+[Black "Bobobot (by: Lino)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. e4 g6 2. Bc4 c6 3. Kf1 h5 4. Ke1 a5 5. Qxh5 Qb6 6. Qxh8 Qxf2+ 7. Kxf2 f6 8. Qxg8 Kd8 9. Qxf8+ Kc7 10. Ke1 Kd6 11. Qxc8 Ra7 12. Kd1 Ra8 13. Ke1 Ra7 14. Qxb8+ Kc5 15. Qxb7 Kd6 16. Qxa7 e5 17. Qxd7+ Kxd7 18. Bd5 Kc7 19. Kf2 Kb7 20. Ke1 Kc7 21. c4 Kd6 22. b4 Kc7 23. bxa5 Kd7 24. g3 Ke7 25. Bxc6 Kf7 26. d3 g5 27. Be8+ Kg7 28. Kd1 f5 29. Ba4 Kh8 30. Nd2 Kg8 31. Ke1 Kh8 32. Kd1 Kg8 33. Bd7 Kh8 34. Ke2 Kg8 35. Ba4 Kh8 36. Kd1 1/2-1/2

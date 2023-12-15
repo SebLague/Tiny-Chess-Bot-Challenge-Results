@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "25"]
+[White "WingBot (by: Benjamin Iserman)"]
+[Black "Vito (by: Tjuli)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e6 2. Bc4 Qg5 3. Qf3 Qf6 4. Nh3 Qxf3 5. gxf3 Nc6 6. Nc3 Ne5 7. O-O Nxc4 8. b3 Na3 9. Kh1 Nxc2 10. Rb1 Ba3 11. d3 Bxc1 12. Rbxc1 Nb4 13. Rcd1 f5 14. a3 Nc6 15. Kg1 Nge7 16. Kh1 Rf8 17. Kg1 Nd4 18. Kh1 Nxf3 19. Ra1 fxe4 20. Nxe4 Nd4 21. Rab1 Rf3 22. Kg1 Rxh3 23. Kh1 Rxd3 24. a4 Nxb3 25. f4 Re3 26. Nf2 Nd2 27. Kg1 Nxb1 28. Rxb1 Ra3 29. Kf1 Nd5 30. Ke1 Rxa4 31. Kd1 Nc3+ 32. Kc1 Nxb1 33. Kxb1 Rxf4 34. Ka1 Rxf2 35. Kb1 Rxh2 36. Ka1 Ke7 37. Kb1 Kd6 38. Ka1 Kd5 39. Kb1 d6 40. Ka1 Bd7 41. Kb1 Rf8 42. Ka1 Rf1# 0-1

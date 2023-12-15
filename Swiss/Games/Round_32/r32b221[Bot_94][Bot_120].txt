@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "31"]
+[White "5KindsOfChessplayers (by: Hulululu)"]
+[Black "EldenBot (by: Ghost_Dev_84)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d3 a6 2. Kd2 a5 3. Ke1 a4 4. Kd2 a3 5. c4 axb2 6. Bxb2 b6 7. Kc1 b5 8. cxb5 c6 9. Be5 cxb5 10. Kc2 b4 11. Bxb8 b3+ 12. Kc1 bxa2 13. Bg3 axb1=Q+ 14. Rxb1 d6 15. Rb6 d5 16. Rb1 d4 17. Qe1 e6 18. Kc2 e5 19. Rc1 e4 20. Bh4 exd3+ 21. exd3+ Be6 22. Bxd8 f6 23. Qe4 f5 24. Qxa8 f4 25. Kb1 f3 26. Ka1 fxg2 27. Bxg2 g6 28. Rb1 g5 29. Rc1 g4 30. Rb1 g3 31. Rc1 gxh2 32. Rb1 hxg1=Q 33. Rbxg1 h6 34. Rb1 h5 35. Rbc1 h4 36. Rb1 h3 37. Rbc1 hxg2 38. Rhd1 g1=Q 39. Re1 Ba3 40. Kb1 Bxc1 41. Rxe6+ Ne7 42. Qc6+ Kxd8 43. Rd6# 1-0

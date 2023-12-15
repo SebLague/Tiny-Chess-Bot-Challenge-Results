@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "11"]
+[White "StackFish (by: battlecoder)"]
+[Black "Beancounting_pawnpusher (by: Arnt Veenstra)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 c5 2. Ne4 e5 3. e3 f5 4. Qh5+ g6 5. Qf3 fxe4 6. Qxe4 d6 7. Nf3 a5 8. Bd3 g5 9. Bb5+ Nd7 10. Qf5 Qb6 11. Ba4 Qb4 12. Qe6+ Kd8 13. Bb3 g4 14. a3 Qe4 15. d3 Qg6 16. Qxg6 hxg6 17. Ng5 Nh6 18. Ne6+ Ke7 19. O-O a4 20. Bc4 Nf6 21. Nxf8 Rxf8 22. e4 Nf7 23. Be3 b6 24. b4 Nd8 25. Bg5 Nf7 26. Bh4 g5 27. Bg3 Nh5 28. Bd5 Nxg3 29. fxg3 Rb8 30. bxc5 dxc5 31. Ra2 Nd6 32. Rb1 Bd7 33. Rab2 b5 34. c4 Rf6 35. cxb5 Rxb5 36. Rxb5 Bxb5 37. d4 cxd4 38. h3 gxh3 39. gxh3 Rf3 40. Kg2 Re3 41. Rb2 Rxa3 42. h4 gxh4 43. gxh4 Bd3 44. Rd2 Kd8 45. Rd1 Bxe4+ 46. Bxe4 Nxe4 47. Kf1 Rh3 48. Re1 Rh1+ 49. Ke2 d3+ 50. Kd1 a3 51. Rxh1 a2 52. Rf1 a1=Q# 0-1

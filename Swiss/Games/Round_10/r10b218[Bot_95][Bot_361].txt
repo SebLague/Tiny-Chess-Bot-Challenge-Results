@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "9"]
+[White "Two Day Bot (by: )"]
+[Black "Thulium (by: Valentin POQUET)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 e6 2. g4 Qf6 3. a3 Bc5 4. Bg2 Qf4 5. b4 Bb6 6. e3 Qxg4 7. Bf1 Qh5 8. Qe2 Qg4 9. b5 Qh5 10. c4 Qg4 11. Nc3 Qh5 12. Rg1 f5 13. Rxg7 Nf6 14. Ra2 d6 15. e4 f4 16. Rg1 Qh6 17. d4 Qh5 18. Bxf4 Rf8 19. Kd2 Rf7 20. e5 Nfd7 21. Rg8+ Nf8 22. Bg3 dxe5 23. dxe5 Rf5 24. h4 Rf7 25. Rb2 Rf5 26. Qe4 Rf7 27. Qd3 h6 28. Kc1 Bc5 29. Rc2 Bxa3+ 30. Kd1 Re7 31. Qd4 Qxf3+ 32. Kd2 a5 33. Rxf8+ Qxf8 34. Qg4 Rf7 35. Qh5 Ra7 36. f4 Ra8 37. Bh3 Ra7 38. Ke1 Qg7 39. Bh2 Ra8 40. Kf2 Qh7 41. Rd2 Bc5+ 42. Kf3 Bb4 43. Qxf7+ Qxf7 44. Bg1 Bxc3 45. Rd3 Be1 46. h5 Qxh5+ 47. Ke3 Qxh3+ 48. Kd4 Qf1 49. Ra3 Qxg1+ 50. Kd3 Qg3+ 51. Kc2 Qxa3 52. Kd1 Qa2 53. Kxe1 Qxc4 54. Kd2 Qxb5 55. Kc1 Qd7 56. Kb2 Ra6 57. Kb1 Rb6+ 58. Kc1 Qd3 59. f5 Rb1# 0-1

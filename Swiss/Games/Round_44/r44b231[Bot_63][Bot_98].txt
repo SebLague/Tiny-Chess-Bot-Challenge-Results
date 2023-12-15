@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "43"]
+[White "SatanBot (by: odin7053@discord)"]
+[Black "Shadow (by: Zaid Alas4)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f4 e5 2. fxe5 Ba3 3. bxa3 c5 4. h3 Nc6 5. a4 Nxe5 6. g3 Nc6 7. g4 Qh4# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "63"]
+[White "broken bot (by: Raj Gaurav)"]
+[Black "MirrorBot (by: Jackk)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. h4 h5 2. g4 hxg4 3. f4 gxf3 4. exf3 f6 5. d4 d5 6. c4 dxc4 7. b4 cxb3 8. axb3 b6 9. h5 Rxh5 10. d5 Qxd5 11. f4 f5 12. b4 b5 13. Nh3 Nh6 14. Ng5 Ng4 15. Nh7 Nh2 16. Nxf8 Nxf1 17. Nh7 Nh2 18. Nf8 Nf1 19. Nh7 Nh2 20. Nf8 Nf1 1/2-1/2

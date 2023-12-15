@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "31"]
+[White "Hippo (by: MonteDegro)"]
+[Black "TeacherBot (by: qumquat)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. d4 h6 2. Qd3 Nf6 3. h4 h5 4. Nf3 Ne4 0-1

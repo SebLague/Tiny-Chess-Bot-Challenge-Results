@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "27"]
+[White "AchillesAlpha (by: Achilles)"]
+[Black "Garbage Bot (by: Big Nerd)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a3 h5 2. f3 d5 3. Nc3 d4 4. Nb5 f5 5. Nxc7+ Qxc7 6. c3 dxc3 7. bxc3 e6 8. Ra2 Kd8 9. Rc2 b5 10. Bb2 Qb6 11. Bc1 Qd6 12. Kf2 Qb6+ 13. Ke1 a6 14. Nh3 Bd6 15. Nf2 g6 16. Nd3 Kc7 17. Ne5 Bxe5 18. c4 bxc4 19. Rxc4+ Kd8 20. Rb4 Bg3+ 21. hxg3 Qa7 22. Bb2 Rh6 23. Bd4 Qd7 24. Ra4 a5 25. Bb6+ Ke7 26. Rg1 Qe8 27. Rxa5 Rxa5 28. Bxa5 Qc6 29. Bb4+ Kf6 30. Qa1+ Kg5 31. f4+ Kg4 32. Bc3 Kxg3 33. e3 Qe8 34. Bg7 Rh7 35. d3 Nd7 36. Bb2 Nb6 37. Kd2 Re7 38. Qe1+ Kh2 39. Qf2 Bb7 40. g3+ Bg2 41. Qxg2# 1-0

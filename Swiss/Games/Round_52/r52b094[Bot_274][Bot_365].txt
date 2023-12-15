@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "51"]
+[White "BoringBot (by: Carson Bates)"]
+[Black "KU_AI_BOT (by: Daniel Johnson)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f3 e6 2. g3 Qg5 3. d3 Qc5 4. h4 Qe5 5. g4 Qg3+ 6. Kd2 Bb4+ 7. c3 Bc5 8. d4 Bd6 9. e4 b6 10. b4 Qf4+ 11. Ke1 Qg3+ 12. Kd2 Qf2+ 13. Be2 Bf4+ 14. Kc2 Bg3 15. h5 Qg2 16. Nh3 Nc6 17. d5 exd5 18. exd5 Nxb4+ 19. cxb4 Be5 20. Bb2 Bd6 21. Bxg7 h6 22. Bxh8 Ba6 23. Kd2 Bxb4+ 24. Bc3 Bd6 25. Qf1 Qxf1 26. Bxf1 Bb7 27. Bc4 O-O-O 28. Rd1 Re8 29. Kd3 Bc5 30. Bd4 Bf8 31. g5 hxg5 32. Nxg5 Kb8 33. Nxf7 Nh6 34. Nxh6 Bxh6 35. a4 d6 36. Kc3 Re3+ 37. Bxe3 Bg7+ 38. Bd4 Bh6 39. a5 c5 40. dxc6 Bxc6 41. axb6 axb6 42. Be2 Bf4 43. Bxb6 Bg3 44. Bd4 Bf4 45. Bg7 Bg3 46. Nd2 d5 47. h6 d4+ 48. Kb2 d3 49. h7 Kb7 50. Bf1 Bd6 51. h8=Q Bb8 52. Bh3 Bd7 53. Bxd7 Kb6 54. Qxb8+ Kc5 55. Ra5# 1-0

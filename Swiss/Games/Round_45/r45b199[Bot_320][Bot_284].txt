@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "44"]
+[White "lowEloBrain (by: bbb908)"]
+[Black "Arctiform's Bot (by: Arctiform)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Qg4 Qf6 3. Bc4 d6 4. Qxc8+ Ke7 5. Qxb7 Nd7 6. Qxa8 a5 7. Qxa5 c6 8. g4 g5 9. Nh3 h6 10. Qc7 c5 11. Bb5 Bg7 12. Qc8 Rh7 13. Qxg8 Qg6 14. Nf4 Qxe4+ 15. Kd1 Qxh1+ 16. Ke2 exf4 17. Qxh7 Qxc1 18. Qxg7 Nb8 19. Na3 Qxa1 20. Qxh6 Qxa2 21. Nb1 Qxb1 22. Qh3 Qxb2 23. Bd3 f6 24. Qh6 Qe5+ 25. Kd1 f3 26. Qh3 Qa1# 0-1

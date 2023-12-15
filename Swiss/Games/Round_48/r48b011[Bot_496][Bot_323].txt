@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "47"]
+[White "Ace V1.0.0 (by: Atad)"]
+[Black "Quantum (by: devLIPEr)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Nf3 Nf6 3. e5 Ng4 4. d4 d5 5. Be2 Bf5 6. Nh4 e6 7. Nxf5 exf5 8. Nc3 Bb4 9. Bxg4 fxg4 10. Qxg4 g6 11. Bg5 Qd7 12. Qf4 O-O 13. Bf6 Rae8 14. Qh6 Rxe5+ 15. dxe5 Bxc3+ 16. bxc3 Qd6 17. Qg7# 1-0

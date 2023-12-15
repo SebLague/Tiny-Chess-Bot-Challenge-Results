@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "47"]
+[White "quick and dirty (by: Rafael)"]
+[Black "GOYO Bot v1.1.2 (by: Goyo)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Nc3 e5 2. Nd5 e4 3. c3 Nc6 4. Qc2 Ne5 5. Qxe4 Qg5 6. Nxc7+ Kd8 7. Nxa8 Nf6 8. Qe3 Qxe3 9. fxe3 Ne4 10. d4 g5 11. dxe5 h5 12. Rb1 h4 13. Nf3 Nc5 14. Nd4 Ne4 15. Ra1 Nc5 16. Rb1 Ne4 17. Ra1 Nc5 18. Rb1 1/2-1/2

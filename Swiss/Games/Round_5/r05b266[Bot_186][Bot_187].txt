@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "4"]
+[White "epik chess mastah (by: sten)"]
+[Black "DrawMachine (by: Rune)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 b5 2. Nd4 b4 3. d3 g6 4. Nd2 h5 5. Ne4 Nf6 6. Nxf6+ exf6 7. Bf4 Bb7 8. Qd2 a5 9. Rg1 Ra7 10. Nb5 c6 11. Nc7+ Ke7 12. Qe3# 1-0

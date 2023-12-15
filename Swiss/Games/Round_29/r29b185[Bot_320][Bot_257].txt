@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "28"]
+[White "lowEloBrain (by: bbb908)"]
+[Black "MrMeow (by: Loca1Gh0st)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e6 2. Qg4 Qf6 3. Bc4 Bb4 4. Qh5 Qf4 5. h3 Qxe4+ 6. Kd1 Qxc4 7. Qe5 Qf1+ 8. Qe1 Qxg2 9. Ne2 Qf3 10. Rf1 Nc6 11. h4 Nd4 12. c4 Nf6 13. Rg1 Ng4 14. h5 Nxf2+ 15. Qxf2 Qxf2 16. Rxg7 Qf1# 0-1

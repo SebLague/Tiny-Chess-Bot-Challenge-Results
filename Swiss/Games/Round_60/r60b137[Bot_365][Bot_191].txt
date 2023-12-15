@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "59"]
+[White "KU_AI_BOT (by: Daniel Johnson)"]
+[Black "Igris (by: Deathfile78)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. g3 Nf6 3. c3 Nxe4 4. Qh5 Nf6 5. Qb5 a6 6. Qg5 Ne4 7. Qe3 d5 8. Qf3 Ne5 9. Qe2 Bg4 10. f3 Bh5 11. d4 Ng6 12. g4 Bxg4 13. fxg4 e6 14. g5 b5 15. Nh3 c6 16. Nf4 Nxf4 17. Bxf4 g6 18. Be5 Rg8 19. Bg2 Nxg5 20. Kd1 f6 21. Bf4 e5 22. Bxg5 fxg5 23. Qxe5+ Kd7 24. Bh3+ g4 25. Bxg4# 1-0

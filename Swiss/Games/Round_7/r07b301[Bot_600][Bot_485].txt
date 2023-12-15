@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "6"]
+[White "Edbd (by: Ahmad)"]
+[Black "Search 1.0 (by: Rayansh)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. h4 Nc6 2. g4 Nb4 3. f4 Nxc2+ 4. Qxc2 Nf6 5. e4 Nxe4 6. d4 e6 0-1

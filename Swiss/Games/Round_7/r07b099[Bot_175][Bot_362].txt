@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "6"]
+[White "jebChess (by: jibux)"]
+[Black "nimbot (by: )"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 g6 2. Qg4 h6 3. Qd4 Rh7 4. Bc4 Bg7 5. Qf4 e6 6. d4 Kf8 7. Bd3 Ke8 8. Bd2 g5 9. Qf3 Rh8 10. Bb4 Bf8 11. Bxf8 Kxf8 12. d5 Nf6 13. dxe6 dxe6 14. Bc4 g4 15. Qg3 Qd6 16. Qxd6+ cxd6 17. Bd3 g3 18. fxg3 Nd5 19. e4 Ne3 20. Kd2 Ng4 21. Ke1 Ne3 22. Kd2 Ng4 23. Ke2 Nc6 24. h3 Nge5 25. Nf3 Nxd3 26. cxd3 Rg8 27. g4 Nb8 28. Rc1 Bd7 29. Rc7 b6 30. Nbd2 f5 31. exf5 exf5 32. Rxd7 Nxd7 33. gxf5 Rxg2+ 34. Kf1 Rg3 35. Kf2 Rxh3 36. Nc4 b5 37. Nxd6 b4 38. Rg1 b3 39. axb3 Rb8 40. Kg2 Rh5 41. Rh1 Rxh1 42. Kxh1 Rxb3 43. Ne5 Nxe5 44. f6 Rxb2 45. Nc4 Rb1+ 46. Kg2 Nxc4 47. dxc4 Kf7 48. Kf3 Kxf6 49. Ke4 Ke6 50. Kd3 Ke5 51. Kc2 Ra1 52. Kb2 Rd1 53. Kc2 Rd4 54. Kb3 h5 55. c5 Kd5 56. c6 Rc4 57. Ka2 h4 58. c7 h3 59. c8=Q Rxc8 60. Kb2 h2 61. Kb1 h1=Q+ 62. Kb2 Qd1 63. Ka2 Rb8 64. Ka3 Qa1# 0-1

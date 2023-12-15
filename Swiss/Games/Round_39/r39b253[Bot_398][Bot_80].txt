@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "38"]
+[White "ChessGPT (by: DeepGoldenCrown)"]
+[Black "Knightmare (by: Miguel Piedrafita)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. g3 Na6 2. f3 Rb8 3. c4 Ra8 4. c5 Nxc5 5. Nc3 Rb8 6. h4 Ra8 7. e3 Rb8 8. Ke2 Ra8 9. d3 Nxd3 10. Kxd3 Rb8 11. Nge2 Ra8 12. Bh3 Rb8 13. Kc2 Ra8 14. Kb1 Rb8 15. Kc2 Ra8 16. Kb1 Rb8 17. Kc2 1/2-1/2

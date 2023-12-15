@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "62"]
+[White "Der wilde Kaiser (by: Headyyy1337)"]
+[Black "The Seeker (by: Lucas Pellegrinelli)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 d5 2. Nc3 e5 3. Bd3 Bb4 4. a3 Bxc3 5. dxc3 Kf8 6. Bb5 Nf6 7. Nf3 Bg4 8. h3 Bh5 9. g4 Nxg4 10. hxg4 Bxg4 11. Nxe5 Bxd1 12. Kxd1 Qf6 13. Ng4 Qf3+ 14. Be2 Qxh1+ 15. Kd2 Nd7 16. b3 f5 17. Bb2 Qh4 18. Rg1 h5 19. f3 hxg4 20. Rxg4 fxg4 21. Bb5 Qf2+ 22. Kc1 Qe1# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "3"]
+[White "CrimesAgainstDotNet (by: Reckoner (Robyn))"]
+[Black "Miluva v2 [2550] (by: Möhrchen (Thilo M.))"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Bc5 4. Bc4 d6 5. Na4 Bg4 6. h3 Bxf3 7. Qxf3 Qf6 8. Bd5 Nd4 9. Bxf7+ Kxf7 10. Qh5+ Ke7 11. Kd1 Qxf2 12. Nxc5 Nf6 13. Nd3 Qxg2 14. Ne1 Qxh1 15. Qg5 Qxe1+ 16. Kxe1 Nf3+ 17. Ke2 Nxg5 18. d3 Nxh3 19. Be3 Ke6 20. Rh1 Nf4+ 21. Kf3 g5 22. Rh6 Kf7 23. Kg3 Rhe8 24. a4 d5 25. exd5 N6xd5 26. Bd2 Kg7 27. Rh1 Rad8 28. a5 h5 29. Kh2 Kg8 30. Re1 g4 31. Re4 h4 32. Kh1 g3 33. a6 bxa6 34. c4 Nf6 35. Re1 Nxd3 36. Re2 h3 37. Be3 Ng4 38. Bxa7 Ndf2+ 39. Rxf2 Rd1+ 40. Rf1 g2+ 41. Kg1 gxf1=Q# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "6"]
+[White "Turtle (by: Geezmo)"]
+[Black "Good Bot Bad Bot (But Really, Both Are Terrible Bots, Also This In The Parenthesis Is Part Of The Name) (by: Legend)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f4 h5 2. h4 b6 3. b4 Nc6 4. d4 Nxb4 5. e4 Nxc2+ 6. Kd2 Nxd4 7. g4 hxg4 8. a4 Rxh4 9. Bb5 Rxh1 10. Bxd7+ Qxd7 11. f5 Nxf5+ 12. Kc3 Qxd1 13. exf5 Qxc1+ 14. Kb3 Qxb1+ 15. Ka3 Qxa1+ 16. Kb3 Qxa4+ 17. Kc3 Bxf5 18. Nf3 gxf3 19. Kb2 O-O-O 20. Kc3 f2 21. Kb2 Be4 22. Kc3 c5 23. Kb2 Bg6 24. Kc3 Kb7 25. Kb2 Rdd1 26. Kc3 Ra1 27. Kb2 Qb4# 0-1

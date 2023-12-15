@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "49"]
+[White "Hrustco Bot (by: migrin)"]
+[Black "kesslbot (by: kesslwovv)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e6 2. Nc3 d5 3. Bb5+ c6 4. Bd3 b5 5. Nf3 b4 6. Ne2 dxe4 7. Bxe4 Nf6 8. d3 Nxe4 9. dxe4 Qxd1+ 10. Kxd1 Bc5 11. Be3 Bxe3 12. fxe3 Nd7 13. e5 Bb7 14. e4 Nc5 15. Ng3 O-O 16. Kc1 a5 17. Kb1 a4 18. a3 b3 19. cxb3 Nxb3 20. Ra2 Ba6 21. Rd1 Bc4 22. Rd6 Rfc8 23. Kc2 Nd4+ 24. Nxd4 Bxa2 25. Nxc6 Ra6 26. Rd8+ Rxd8 27. Nxd8 Ra7 28. Ne2 Rc7+ 29. Nc3 Bb3+ 30. Kb1 Kf8 31. g4 Ke8 32. Nxe6 fxe6 33. Kc1 Rf7 34. h3 Rf1+ 35. Kd2 Rh1 36. Ke2 Rxh3 37. Kf2 Rh2+ 38. Ke3 Rxb2 39. Kf4 Kd7 40. g5 Kc6 41. Ke3 Rg2 42. g6 hxg6 43. Ne2 Bc4 44. Nc3 Rc2 45. Nd1 Kc5 46. Nf2 Re2+ 47. Kf3 Kd4 48. Kg3 Re3+ 49. Kh4 Rxa3 50. Kg4 Rb3 51. Kf4 a3 52. Kg5 a2 53. Kxg6 Rg3+ 54. Kh5 a1=Q 55. Kh4 Qg1 56. Ng4 Rxg4+ 57. Kh5 Rg5+ 58. Kh4 Qg4# 0-1

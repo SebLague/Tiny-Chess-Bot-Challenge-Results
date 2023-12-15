@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "45"]
+[White "FENcer (by: Shlynz)"]
+[Black "SimpleMCTS (by: GinoPerrotta)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nc6 2. Nc3 Nf6 3. e3 e5 4. Bb5 Bb4 5. Ke2 Qe7 6. Qf1 Qc5 7. Kd1 b6 8. Bxc6 dxc6 9. d4 exd4 10. exd4 Qd6 11. Bg5 Bg4 12. Bxf6 Qxf6 13. Qe2+ Kf8 14. Qe3 Kg8 15. Ne4 Qf5 16. Kc1 Qd5 17. Neg5 Rb8 18. Qf4 Be6 19. Qxc7 Re8 20. Qxa7 Qb5 21. Nxe6 fxe6 22. Qd7 Ra8 23. Qxe6+ Kf8 24. Ne5 Qd5 25. Nd7+ Qxd7 26. Qxd7 c5 27. Qb7 Re8 28. Qxb6 Re4 29. dxc5 Rg8 30. Qb8+ Kf7 31. Qb7+ Re7 32. Qxb4 Rd8 33. Qh4 Ree8 34. Qxh7 Rd4 35. Qh5+ g6 36. Qf3+ Kg8 37. Qf6 Rg4 38. Qc6 Rge4 39. Qxg6+ Kf8 40. Qf5+ Kg8 41. Kd2 Rd4+ 42. Kc3 Ree4 43. Qg6+ Kf8 44. Qf6+ Ke8 45. Rhe1 Ra4 46. c6 Rb4 47. Rac1 Ra4 48. Rcd1 Rc4+ 49. Kd2 Ra4 50. Kc1 Rd4 51. Rxe4+ Rxe4 52. Rd8# 1-0

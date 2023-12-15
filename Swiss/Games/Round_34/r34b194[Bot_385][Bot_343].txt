@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "33"]
+[White "3D.Opening Bot (by: Mark Grennan)"]
+[Black "Freedom_Fighter v.83 (by: Kongo Landwalker)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 e6 2. Nc3 Bb4 3. Nf3 Qh4 4. Nxh4 Ne7 5. Bd2 Nbc6 6. e3 Nxd4 7. exd4 Bxc3 8. Bxc3 Nd5 9. Ba5 Nf4 10. g3 b6 11. Bb4 a5 12. Bd2 Ba6 13. Bxf4 Bxf1 14. Kxf1 Ke7 15. Qh5 a4 16. Ke2 Ra5 17. Qf3 a3 18. Bxc7 axb2 19. Rab1 Rxa2 20. Bxb6 Rc8 21. c4 Rxc4 22. Qd3 Ra5 23. Qxc4 Ra3 24. d5 d6 25. Rxb2 g5 26. Ng2 exd5 27. Qxd5 Ra6 28. Be3 g4 29. Rc1 Ra3 30. Rb7+ Kf6 31. Qxd6+ Kf5 32. Qxa3 Kf6 33. Qd6+ Kf5 34. Rxf7+ Ke4 35. Rc4# 1-0

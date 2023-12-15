@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "42"]
+[White "BitBlunderer (by: Till Zemann (GitHub: https://github.com/till2 :D))"]
+[Black "jebChess (by: jibux)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 f6 2. Nc3 c6 3. e3 Qa5 4. Bc4 Qb4 5. b3 Nh6 6. Nd4 Qa5 7. Ne4 c5 8. Qh5+ g6 9. Qxc5 Qxc5 10. Nxc5 e5 11. Ne4 exd4 12. exd4 Nc6 13. Nxf6+ Kd8 14. d5 Nb4 15. Rb1 Nxc2+ 16. Kf1 Bg7 17. Ne4 Re8 18. f4 Rxe4 19. Bb2 Rxf4+ 20. Kg1 Bd4+ 21. Bxd4 Rxd4 22. Bb5 Rxd5 23. Bc4 Rxd2 24. a4 Ne3 25. Bf1 d5 26. Ra1 d4 27. a5 Be6 28. h3 d3 29. Rh2 Re2 30. Bxe2 dxe2 31. Re1 Nhg4 32. hxg4 Rc8 33. Rxe2 Rc1+ 34. Kf2 Nxg4+ 35. Kg3 Rc3+ 36. Kf4 Nxh2 37. Rxe6 Rxb3 38. Re1 Rd3 39. Rh1 Rd4+ 40. Ke5 Rh4 41. Rd1+ Ke7 42. Rh1 Ng4+ 43. Kf4 Rxh1 44. Kxg4 Ra1 45. Kf4 Rxa5 46. Ke4 b5 47. g4 b4 48. g5 Rc5 49. Kd3 b3 50. Kd4 Kd6 51. Kd3 b2 52. Kd4 Rc2 53. Kd3 b1=Q 54. Kd4 Qb3 55. Ke4 Rc4# 0-1

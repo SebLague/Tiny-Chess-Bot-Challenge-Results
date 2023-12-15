@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "61"]
+[White "DareWitch (by: mdrwsh)"]
+[Black "EldenBot (by: Ghost_Dev_84)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 a6 2. Nd5 a5 3. Nxe7 Bxe7 4. f3 a4 5. c3 a3 6. bxa3 b6 7. Bb2 b5 8. c4 bxc4 9. Bxg7 c3 10. Bxh8 cxd2+ 11. Kxd2 c6 12. Ke1 c5 13. Kf2 c4 14. Rb1 c3 15. Rxb8 Rxb8 16. Ke1 c2 17. Qd2 c1=Q+ 18. Qxc1 d6 19. Qxc8 Rxc8 20. e4 d5 21. e5 d4 22. Be2 d3 23. Bxd3 f6 24. Bxf6 Bxf6 25. exf6 h6 26. Be4 h5 27. g3 h4 28. gxh4 Nxf6 29. Ne2 Nxe4 30. Rf1 Qd2# 0-1

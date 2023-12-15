@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "13"]
+[White "Bob (by: Evan Leach)"]
+[Black "TalkChess (by: Thomas Jahn, Mike Sherwin, Dmitry Shechtman)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Nc3 Nf6 3. d4 d5 4. Bb5 Nxe4 5. Nxe4 dxe4 6. d5 a6 7. Ba4 b5 8. Bxb5 axb5 9. dxc6 Qxd1+ 10. Kxd1 e5 11. Ne2 Bf5 12. Rf1 Bc5 13. Bd2 O-O 14. f4 Rae8 15. fxe5 Rxe5 16. b4 Bb6 17. Ke1 Rd8 18. a4 e3 19. Bc3 Red5 20. a5 Ba7 21. Rc1 Re8 22. h3 Red8 23. g4 Be4 24. Bxg7 Kxg7 25. Rg1 Bd4 26. c4 bxc4 27. Rf1 Bd3 28. Rd1 Kg8 29. Rf4 Be5 30. Rf1 Kf8 31. Rc1 c3 32. Rf3 Bxe2 33. Kxe2 Bd4 34. Rcf1 f6 35. Rf4 c2 36. Re4 Kg8 37. Ref4 Rb5 38. Re4 Rxb4 39. a6 Rb2 40. Rc1 Bc5 41. Rc4 Rd2+ 42. Kf3 Rf2+ 43. Kg3 Bb6 44. Kh4 e2 45. Kh5 Rg2 46. Kh4 Be3 47. a7 Bxa7 48. Kh5 Kf7 49. Kh4 Kg7 50. Kh5 Be3 51. R4xc2 Kf7 52. Rc3 Bxc1 53. Rxc1 Ke6 54. Kh4 Rf2 55. Kh5 Rf1 56. Rc4 Kd5 57. Ra4 e1=Q 58. Ra6 Kc4 59. Ra4+ Kc3 60. Ra3+ Kc4 61. Kh6 Kb4 62. Ra6 Kb5 63. Ra3 Kxc6 64. Ra6+ Kb7 65. Ra3 Kb6 66. Kg7 Qe4 67. Kh6 Qg6# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "32"]
+[White "SFN v 2.0 (by: SFN)"]
+[Black "MirrorBot (by: Jackk)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c3 c6 2. b4 b5 3. g3 g6 4. e4 e5 5. Bc4 bxc4 6. Ke2 Be7 7. b5 cxb5 8. g4 g5 9. Nh3 Nh6 10. Kf3 Nxg4 11. Kg3 Nh6 12. Qe1 Qa5 13. f3 f6 14. Nf2 Nf7 15. Ba3 Ba6 16. Qg1 Bxa3 17. Kh3 Qxc3 18. Qe1 Qxf3# 0-1

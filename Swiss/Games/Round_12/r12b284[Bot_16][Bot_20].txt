@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "11"]
+[White "Cirrus v0.1 (by: Bbrainstormer)"]
+[Black "Queen's Gam-bot (by: Mateo Saldivar (ZiroDev))"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Na3 d6 2. Rb1 Bh3 3. Nxh3 Qd7 4. Ra1 Qb5 5. Nxb5 g5 6. Nxg5 Na6 7. Nxd6+ cxd6 8. Nxf7 Kxf7 9. Rb1 Nc5 10. Ra1 Nd3+ 11. exd3 Rc8 12. Ke2 Bh6 13. Ke1 Kf6 14. Ke2 Be3 15. Kxe3 Rc3 16. dxc3 d5 17. Kd2 d4 18. cxd4 e5 19. dxe5+ Ke6 20. Ke1 Kxe5 21. Kd2 Nf6 22. Ke1 Ng4 23. Qxg4 Kd6 24. Kd1 Kc5 25. Ke1 Rc8 26. Qxc8+ Kb4 27. Qxb7+ Kc5 28. Qxa7+ Kb5 29. Qxh7 Ka4 30. Kd1 Kb4 31. Ke1 Ka4 32. Kd1 Kb4 33. Ke1 Ka4 1/2-1/2

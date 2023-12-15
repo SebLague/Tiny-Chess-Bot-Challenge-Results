@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "17"]
+[White "DeepDumb (by: OutdoorsyEngineer)"]
+[Black "Just Alright... Kinda... (JAK) (by: Joshnaks)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 a5 2. Na3 a4 3. Nb5 c5 4. Nc7+ Qxc7 5. Nd4 cxd4 6. h4 Qc4 7. b3 axb3 8. cxb3 Qb4 9. Qc2 Qxb3 10. Qxc8# 1-0

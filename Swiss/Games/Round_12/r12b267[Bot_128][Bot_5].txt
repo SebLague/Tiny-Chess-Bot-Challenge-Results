@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "11"]
+[White "C++IsBetterThanC# (by: Samo)"]
+[Black "AngryPiece (by: FlamingSquid)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a4 Nc6 2. a5 Nxa5 3. Rxa5 Rb8 4. Rxa7 Ra8 5. Rxa8 c6 6. d4 c5 7. dxc5 Qb6 8. cxb6 h6 9. Rxc8# 1-0

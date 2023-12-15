@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "63"]
+[White "BigBrainBot (by: Leo)"]
+[Black "NIWTFWD (by: J&J Cervenan)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Qh5 Qe7 3. Qf5 Nc6 4. Qf3 Qb4 5. Nc3 Qc5 6. Qg3 Nb4 7. Kd1 Nf6 8. d3 Nc6 9. Be3 Qb4 10. Rb1 d6 11. Kc1 Be6 12. Nf3 h6 13. Qh4 Be7 14. Bg5 O-O 15. Bd2 Nd7 16. Qg3 Bg5 17. Bxg5 hxg5 18. Nxg5 Bxa2 19. Qh4 Rfc8 20. Qh7+ Kf8 21. Ra1 Nf6 22. Qh8+ Ke7 23. Qxg7 Rg8 24. Qh6 Rh8 25. Qg7 Rhg8 26. Qh6 Qc5 27. Rxa2 Qxf2 28. Nd5+ Nxd5 29. Nf3 Ncb4 30. Kb1 Qxc2+ 31. Ka1 Qd1+ 32. Qc1 Qxc1# 0-1

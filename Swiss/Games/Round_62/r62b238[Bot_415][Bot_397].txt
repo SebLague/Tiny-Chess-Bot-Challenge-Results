@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "61"]
+[White "SYSMER (by: YannM)"]
+[Black "TinyLispChessBot (by: tr00)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Na3 Na6 2. Nf3 Nb4 3. Nc4 Rb8 4. Nd4 Ra8 5. Na5 c5 6. Nxb7 Bxb7 7. Nb5 Qb8 8. Nxa7 Rxa7 9. a3 Kd8 10. axb4 Rxa1 11. bxc5 Kc7 12. b3 Kc6 13. Bb2 Rxd1+ 14. Kxd1 Kb5 15. Bxg7 Bxg7 16. d3 Kxc5 17. Kd2 Kb4 18. e3 Ka3 19. g3 Bxh1 20. Be2 Ka2 21. Bg4 Qb4+ 22. Kc1 Qxg4 23. Kd2 Ka1 24. d4 Kb1 25. Kc3 Ka1 26. b4 Kb1 27. b5 Ka1 28. b6 Kb1 29. Kd2 Ka1 30. Kc3 Kb1 31. Kd2 Ka1 32. Kc3 1/2-1/2

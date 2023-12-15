@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "4"]
+[White "Michael's Bot (by: MichaelW)"]
+[Black "Planck Bot (by: LadyOfSpades)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 Na6 2. Qf3 Rb8 3. Qf5 Ra8 4. Be2 Rb8 5. c3 Ra8 6. d4 Rb8 7. Nd2 Ra8 8. Bd3 Rb8 9. Nh3 Ra8 10. Ng5 Rb8 11. Qxf7# 1-0

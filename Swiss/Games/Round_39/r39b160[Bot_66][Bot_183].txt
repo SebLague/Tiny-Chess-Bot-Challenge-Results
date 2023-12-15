@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "38"]
+[White "CapivaraBot (by: Danilo Luiz Rheinheimer)"]
+[Black "GPTGenerated (by: athibaul)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. h4 g6 2. g4 Nf6 3. g5 Nh5 4. e4 Ng7 5. f4 f5 6. gxf6 exf6 7. d4 Nc6 8. c4 Ne6 9. h5 Bb4+ 10. Kf2 Ncxd4 11. hxg6 Kf8 12. gxh7 d6 13. a4 c5 14. f5 Ng7 15. b3 Nc6 16. Nf3 Ne5 17. Nxe5 fxe5 18. Na3 Bc3 19. Ra2 Bb4 20. Nb5 Ne8 21. Na3 Ng7 22. Nb5 Ne8 23. Na3 Ng7 1/2-1/2

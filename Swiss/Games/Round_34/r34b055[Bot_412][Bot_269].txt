@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "33"]
+[White "MilkMindV1 (by: Josiah Jordan )"]
+[Black "AugsBot (by: Augs)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 d5 2. e3 Nc6 3. Bb5 a6 4. Bxc6+ bxc6 5. h3 Nf6 6. Nc3 Bb7 7. Ke2 e6 8. g4 Bd6 9. d3 O-O 10. g5 Nd7 11. Bd2 Ne5 12. e4 Nxf3 13. Kxf3 f6 14. Kg4 fxg5 15. Bxg5 Qe8 16. Qe2 Qg6 17. e5 h5+ 18. Kh4 Rf4+ 19. Qg4 hxg4 20. Bxf4 Be7+ 21. Kg3 gxh3+ 22. Kxh3 Qf5+ 23. Kg3 Rf8 24. Ne2 g5 25. Rag1 gxf4+ 26. Kf3+ Kf7 27. Rg4 d4 28. Nc3 dxc3 29. Rxf4 c5+ 30. Ke3 Bg5 31. Rh4 cxb2 32. Rh7+ Kg6 33. Rh4 b1=N 34. f3 Bxf4+ 35. Ke2 Kg5 36. Rg4+ Kh5 37. Rg2 Qxe5+ 38. Kf1 Nd2+ 39. Rxd2 Kh4 40. Re2 Be3 41. d4 Rxf3+ 42. Ke1 Qg3+ 43. Kd1 Rf1+ 44. Re1 Rxe1# 0-1

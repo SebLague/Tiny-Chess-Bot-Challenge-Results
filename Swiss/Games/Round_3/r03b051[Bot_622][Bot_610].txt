@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "R2D2 (by: Andrei Taropa)"]
+[Black "TinyHugeBot (by: Popax21 & atpx8)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. d4 exd4 3. Qxd4 Nf6 4. Bg5 Nc6 5. Qe3 Be7 6. Bc4 O-O 7. Nc3 Ng4 8. Bxe7 Qxe7 9. Qf4 Nce5 10. Nd5 Qd6 11. Be2 c6 12. Bxg4 cxd5 13. Kf1 dxe4 14. Qxe4 Nxg4 15. Qxg4 Re8 16. Ne2 Qd2 17. Qc4 d5 18. Qd3 Qb4 19. Qd4 Qb5 20. Re1 Bf5 21. Qc3 Rac8 22. Qb3 Qxb3 23. axb3 Rxc2 24. Rd1 Rexe2 25. Rxd5 Rxf2+ 26. Ke1 g6 27. g3 Be4 28. Rd8+ Kg7 29. Rg1 Rfe2+ 30. Kd1 Bf3 31. Ra8 Rg2+ 32. Ke1 Rxg1# 0-1

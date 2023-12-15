@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "14"]
+[White "Ace V1.0.0 (by: Atad)"]
+[Black "Sentinel (by: Arandomnoob)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 dxc6 7. Qxd8+ Kxd8 8. Bg5 h6 9. O-O-O Bd7 10. Bxf6+ gxf6 11. Bc4 Rg8 12. g3 Rg7 13. Ne2 b5 14. Nd4 Kc8 15. Be2 Rg5 16. f4 Rg7 17. c3 Bc5 18. a4 a6 19. a5 Kb7 20. Bf3 Bxd4 21. Rxd4 Bh3 22. Rhd1 Rh8 23. f5 h5 24. Rd8 Rhh7 25. Re8 Bxf5 26. exf5 Rg5 27. Rdd8 Rh8 28. Rxh8 Rg8 29. Rhxg8 h4 30. Ra8 h3 31. Rgb8# 1-0

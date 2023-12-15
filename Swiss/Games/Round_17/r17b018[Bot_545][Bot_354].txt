@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "16"]
+[White "Sven (by: Theodor)"]
+[Black "FomBot (by: fominvic81)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. e5 Qe7 8. Qe2 Nd5 9. Bd2 Bb7 10. O-O-O Bxc3 11. bxc3 Qa3+ 12. Kb1 Ba6 13. Qe4 Rb8+ 14. Qb4 Nxc3+ 15. Bxc3 Rxb4+ 16. Bxb4 Qxb4+ 17. Ka1 O-O 18. Bxa6 Rb8 19. Bb7 Rxb7 20. Rb1 Qc3+ 21. Rb2 Qxb2# 0-1

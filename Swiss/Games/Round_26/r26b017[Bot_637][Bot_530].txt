@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "25"]
+[White "MiniMagnus (by: Erik Fast)"]
+[Black "Algernon (by: White Mouse)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nc3 Nf6 3. d4 exd4 4. Qxd4 Nc6 5. Qc4 Ne5 6. Qb5 Qe7 7. Bf4 Ng6 8. Bg5 h6 9. Bxf6 Qxf6 10. Nf3 c6 11. Qf5 Qe7 12. Nd4 d5 13. Qf3 Ne5 14. Qe2 dxe4 15. Qxe4 Bd7 16. a4 g6 17. f4 Ng4 18. h4 O-O-O 19. Qxe7 Bxe7 20. Bd3 Rhe8 21. Kf1 c5 22. Nde2 c4 23. Be4 Bc5 24. b4 cxb3 25. cxb3 Nf2 26. Bxg6 fxg6 27. b4 Nxh1 28. bxc5 Bg4 29. Kg1 Bxe2 30. Kxh1 Kc7 31. Re1 Bc4 32. Rg1 Kc6 33. a5 Rd4 34. g3 Kxc5 35. Kg2 Rd2+ 36. Kh1 Rc2 37. Na4+ Kb4 38. Ra1 Bd5+ 39. Kg1 Re3 40. Nb6 Rxg3+ 41. Kf1 axb6 42. Rb1+ Kxa5 43. Ra1+ Kb4 44. Re1 Bc4+ 45. Re2 Rxe2 46. f5 Ra2+ 47. Ke1 Re3+ 48. Kd1 Bb3+ 49. Kc1 Re1# 0-1

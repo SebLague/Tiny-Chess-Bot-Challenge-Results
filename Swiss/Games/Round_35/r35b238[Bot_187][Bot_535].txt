@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "34"]
+[White "DrawMachine (by: Rune)"]
+[Black "Fishstock (by: Jess Baut & Hans)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c3 e6 2. e3 Ne7 3. g3 c6 4. d3 g6 5. Nh3 a6 6. Qg4 d5 7. Rg1 Nd7 8. b4 Ne5 9. d4 Nxg4 10. Ba3 Nxh2 11. Bb2 Nxf1 12. Rxf1 Bd7 13. Na3 Nf5 14. c4 Bxb4+ 15. Kd1 dxc4 16. Nxc4 O-O 17. Rh1 b5 18. Bc1 bxc4 19. Rg1 Bc3 20. a3 Bxa1 21. f4 Nd6 22. a4 Ne4 23. Rg2 Nc3+ 24. Ke1 Nxa4 25. Rg1 Bc3+ 26. Kd1 f5 27. Nf2 Rb8 28. Nh3 Ra8 29. Rh1 Rb8 30. Rf1 Ra8 31. Rf3 Rb8 32. g4 fxg4 33. Nf2 gxf3 34. Nh3 Ra8 35. Nf2 Rb8 36. Ng4 Kh8 37. Ba3 Rb1+ 38. Kc2 Qb6 39. Bxf8 Qb2# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "Headless Chicken (by: Nat)"]
+[Black "SemiroseBot (by: Semirose)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. d4 exd4 3. Qxd4 Nf6 4. Nf3 Nc6 5. Qc4 d5 6. exd5 Nxd5 7. Qe4+ Be7 8. Bb5 a6 9. Bxc6+ bxc6 10. c4 Nb4 11. Bg5 f6 12. Be3 f5 13. Nbd2 fxe4 14. Nxe4 Qd3 15. Nfd2 Nc2+ 16. Kd1 Bg4+ 17. f3 Nxe3+ 18. Ke1 Nc2+ 19. Kd1 Bxf3+ 20. gxf3 Nxa1 21. Rg1 O-O-O 22. Ke1 Bh4+ 23. Rg3 Bxg3+ 24. hxg3 Nc2+ 25. Kf2 Qe3+ 26. Kg2 Ne1+ 27. Kf1 Rxd2 28. Nxd2 Qxd2 29. Kg1 Qg2# 0-1

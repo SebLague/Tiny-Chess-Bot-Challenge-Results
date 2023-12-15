@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "7"]
+[White "NameGoesThere's bot (by: NameGoesThere)"]
+[Black "EndgameEnigma (by: jostflo)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. d3 Nf6 3. Ne2 d6 4. Nd2 Be6 5. a4 Ne5 6. d4 Nfg4 7. dxe5 dxe5 8. Nf3 Qc8 9. h4 a5 10. Nd2 Nxf2 11. Rh2 Qb8 12. Kxf2 Bd7 13. Ke3 Qa7+ 14. Kd3 Be6 15. c3 O-O-O 16. Kc2 Rd6 17. Nf3 Qf2 18. Nxe5 f6 19. h5 Rd8 20. Kb1 Rxd1 21. Kc2 Rxf1 22. Nd3 Qxe2+ 23. Kb1 Qxd3# 0-1

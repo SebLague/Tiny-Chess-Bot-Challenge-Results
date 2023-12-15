@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "SemiroseBot (by: Semirose)"]
+[Black "ItPlaysBetterThanMe (by: RB)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 a6 2. d4 h6 3. Nc3 e6 4. Nf3 g6 5. Bd3 b5 6. O-O c6 7. Bf4 d6 8. a4 c5 9. e5 b4 10. Ne4 dxe5 11. Bxe5 cxd4 12. Bxh8 a5 13. Bb5+ Ke7 14. Bxd4 h5 15. Bc5+ Qd6 16. Qxd6# 1-0

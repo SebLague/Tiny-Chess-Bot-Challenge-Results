@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "20"]
+[White "Bongcloud Bot (by: lurendrei)"]
+[Black "Supertask-Time-Troubles (by: TimFW)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Ke2 d5 3. exd5 Qxd5 4. Nc3 Qe6 5. Nf3 e4 6. Nd4 Qe5 7. Ke3 Bc5 8. Nb5 Nf6 9. c3 Nd5+ 10. Ke2 Bg4+ 11. f3 exf3+ 12. Kd3 fxg2 13. Nxc7+ Nxc7 14. Bxg2 Bxd1 15. Rxd1 Bxd4 16. cxd4 Qf5+ 17. Be4 Qh3+ 18. Kc4 b5+ 19. Kb4 a5+ 20. Kc5 Qe6 21. d5 Qxe4 22. Re1 Qxe1 23. a4 Ne6+ 24. dxe6 bxa4 25. exf7+ Kxf7 26. Kd4 Rd8+ 27. Kc3 Ra6 28. b4 Qe5+ 29. Kc2 Rc8+ 30. Kb1 Rxc1+ 31. Kxc1 Qxa1+ 32. Kc2 axb4 33. Kd3 Rd6+ 34. Ke4 Qe1+ 35. Kf3 Rd3+ 36. Kf4 Qh4+ 37. Ke5 Qxh2+ 38. Ke4 Qe2+ 39. Kf4 h5 40. Kf5 Rd5+ 41. Kf4 g5+ 42. Kg3 Rd3# 0-1

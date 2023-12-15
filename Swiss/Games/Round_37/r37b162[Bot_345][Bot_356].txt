@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "36"]
+[White "Lundqvision (by: paper98)"]
+[Black "AlaskaBot (by: Arttu Halonen)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Qf3 Bc5 3. d4 exd4 4. Bb5 Ne7 5. Ne2 g5 6. Bxg5 f6 7. Qxf6 Bb4+ 8. Nbc3 Bxc3+ 9. Nxc3 dxc3 10. O-O-O cxb2+ 11. Kxb2 Rg8 12. h4 c5 13. Rh3 a5 14. Rb3 h5 15. Rf3 Nf5 16. Qxd8+ Kf7 17. Qf6+ Ke8 18. Rxf5 Rxg5 19. Qf8# 1-0

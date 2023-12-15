@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "42"]
+[White "chaos bot (by: zer0)"]
+[Black "Simpleton.01 (by: Bee)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. Ng5 h6 3. Nxf7 Kxf7 4. b3 Ng4 5. c4 Nxh2 6. Rxh2 Nc6 7. Rxh6 Nd4 8. Rxh8 Nxe2 9. Kxe2 d5 10. Qc2 c5 11. Qd1 Bg4+ 12. f3 dxc4 13. fxg4 Qd3+ 14. Ke1 cxb3 15. Bxd3 bxa2 16. Rxa2 Rd8 17. Rxa7 Rxd3 18. Rxb7 Rxd2 19. Kxd2 g5 20. Rxe7+ Bxe7 21. Qf3+ Kg6 22. Rh1 Bf6 23. Qa3 c4 24. Qh3 Ba1 25. Qf3 Bg7 26. Qf5# 1-0

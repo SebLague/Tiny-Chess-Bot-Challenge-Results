@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "24"]
+[White "Beancounting_pawnpusher (by: Arnt Veenstra)"]
+[Black "LazyBot (by: Tim de Jong)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f4 e6 2. a4 Nc6 3. d4 Bb4+ 4. c3 Bd6 5. b4 Qf6 6. b5 Nce7 7. e3 Qh4+ 8. g3 Qh6 9. h4 Qg6 10. Kf2 Nf6 11. Bd3 Ne4+ 12. Kf3 Qxg3+ 13. Kxe4 f5# 0-1

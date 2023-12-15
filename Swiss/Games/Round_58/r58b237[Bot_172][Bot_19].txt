@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "57"]
+[White "Kaan's Majestic Gentlemen (by: Level 0 Kaan)"]
+[Black "AttackBot (by: Kai Tabuchi (9 Years Old))"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g4 b5 2. Bg2 Bb7 3. Bxb7 Na6 4. Bxa6 b4 5. Bb7 b3 6. cxb3 c5 7. Bxa8 Qxa8 8. f4 Qxh1 9. Kf1 Qxh2 10. Nf3 Qxf4 11. g5 Kd8 12. e3 Kc8 13. exf4 Kb7 14. g6 Ka6 15. gxf7 Ka5 16. fxg8=Q Rxg8 17. Kf2 Kb5 18. Qf1+ Ka5 19. a4 Rh8 20. Qb5# 1-0

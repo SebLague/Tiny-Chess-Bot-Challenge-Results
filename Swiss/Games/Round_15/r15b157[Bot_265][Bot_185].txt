@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "14"]
+[White "SimpleBot (by: Tim Zollner)"]
+[Black "Cirno the Smartest (by: Toffee)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. e3 c6 2. Bd3 Qa5 3. Nc3 Qe5 4. Nf3 Qa5 5. Ne4 Qh5 6. Ng3 Qa5 7. b3 Qb4 0-1

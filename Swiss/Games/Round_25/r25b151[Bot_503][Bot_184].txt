@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "24"]
+[White "Max-Max-Bot (by: Tejas)"]
+[Black "Chessinator 3000 (by: )"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 c6 2. e4 Nf6 3. e5 Ne4 4. f4 e6 5. c4 Qh4+ 6. g3 Nxg3 7. Nf3 Qh5 8. Ng1 Qxd1+ 9. Kxd1 Nxh1 10. d5 Bc5 11. dxe6 Bxg1 12. exf7+ Kxf7 13. Ke2 Bxh2 14. Kf3 Ng3 15. Bd3 d6 16. Kg2 Bf5 17. Bxf5 Nxf5 18. Kxh2 Nd7 19. exd6 Nxd6 20. b3 Rae8 21. Ba3 Re2+ 22. Kh3 Re3+ 23. Kh4 Nf5+ 24. Kg4 Kg6 25. Bc5 Nxc5 26. Na3 h5# 0-1

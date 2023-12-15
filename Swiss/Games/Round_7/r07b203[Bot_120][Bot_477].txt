@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "6"]
+[White "EldenBot (by: Ghost_Dev_84)"]
+[Black "Thrower (by: EZDragon)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a3 e6 2. b3 Qg5 3. c3 Qxg2 4. Bxg2 d5 5. d3 Nc6 6. e3 e5 7. f3 Bf5 8. h3 Bxh3 9. Bxh3 Nd4 10. exd4 f5 11. dxe5 Nf6 12. exf6 Bd6 13. fxg7 Kf7 14. gxh8=N+ Rxh8 15. a4 Rg8 16. b4 Re8+ 17. Be3 Rxe3+ 18. Ne2 Kf6 19. c4 dxc4 20. dxc4 Rxf3 21. a5 Bxb4+ 22. Nd2 Kf7 23. c5 Bxc5 24. Nxf3 Be3 25. a6 Bf2+ 26. Kxf2 c6 27. axb7 c5 28. b8=Q Kf6 29. Bxf5 a5 30. Qf8# 1-0

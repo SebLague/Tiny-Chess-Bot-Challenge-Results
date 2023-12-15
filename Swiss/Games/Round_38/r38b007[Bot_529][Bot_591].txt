@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "37"]
+[White "NNBot (by: Jamie Whiting)"]
+[Black "Rigel (by: Antares (Github: Alex2262))"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. Nc3 d5 3. e3 e6 4. d4 c5 5. Bb5+ Nbd7 6. O-O a6 7. Be2 b5 8. a4 b4 9. Na2 c4 10. Bd2 a5 11. Ne5 Bb7 12. Bf3 Nxe5 13. dxe5 Nd7 14. Bg4 Nxe5 15. Bh3 g6 16. f4 Nc6 17. Bg4 d4 18. Qe2 d3 19. cxd3 cxd3 20. Qd1 Bg7 21. Qb3 Ne7 22. Nc1 Ba6 23. Re1 Rc8 24. Qd1 Bxb2 25. Rb1 Rc2 26. Nb3 O-O 27. Na1 Bxa1 28. Rxa1 b3 29. Rc1 Qc7 30. Rxc2 dxc2 31. Qa1 Nd5 32. Qb2 Qb6 33. g3 Rd8 34. Bc1 Qb4 35. Kf2 Nc3 36. Kg2 h5 37. Bxe6 fxe6 38. e4 Nxe4 39. Qe5 Qxe1 40. Kh3 Nf2+ 41. Kh4 Qxe5 42. fxe5 Rd4+ 43. Kg5 Kg7 44. Bf4 c1=Q 45. h3 Nxh3+ 46. Kh4 Nxf4 47. g4 Qe1+ 48. Kg5 Nh3# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "3"]
+[White "SlothBot (by: 0xFF)"]
+[Black "offtensive Crane (by: Joao Santos)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 b6 2. Nc3 c6 3. h3 c5 4. e4 d6 5. Bb5+ Bd7 6. O-O Bxb5 7. Nxb5 a6 8. Nc3 c4 9. Qe2 e6 10. Qxc4 a5 11. Nb5 f6 12. Qxe6+ Be7 13. Nfd4 Nh6 14. Qd5 Ra6 15. Qg8+ Rxg8 16. Nc7+ Qxc7 17. d3 Nf7 18. Be3 g6 19. Rac1 Kd8 20. Ne6+ Kd7 21. Nxc7 Ra7 22. Nd5 Bd8 23. Bxb6 Ra6 24. Bxd8 Kxd8 25. Nxf6 Rh8 26. Nd5 g5 27. f4 gxf4 28. Rxf4 Nh6 29. Rf6 Ng8 30. Rf8+ Kd7 31. Rxb8 Nh6 32. Rxh8 Kc6 33. Rxh7 Ng8 34. Rc7+ Kb5 35. a4+ Kxa4 36. Nc3+ Kb4 37. Rc4# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "18"]
+[White "GulcarBot (by: Gulcar)"]
+[Black "Turochamp (Modern) (by: P Rivero)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Qh5 Nf6 3. Qf3 d5 4. exd5 Nd4 5. Qc3 Qxd5 6. Qxc7 Bg4 7. f3 Rc8 8. Qf4 e5 9. c4 exf4 10. cxd5 Rxc1+ 11. Kf2 Bd7 12. a4 Nc2 13. Ne2 Rd1 14. Ra3 Nxa3 15. Nxa3 Rxd2 16. Nc4 Rc2 17. b3 Nxd5 18. Ne5 Bc5+ 19. Ke1 Be6 20. Nd3 Be3 21. g4 Ke7 22. Bg2 Rhc8 23. h3 g5 24. h4 Bd2+ 25. Kf2 gxh4 26. Rxh4 Ra2 27. Bf1 Be3+ 28. Kg2 Nc3 29. Kh3 Nxe2 30. Bxe2 Rxe2 31. Rh6 Rc3 32. Ne5 Bg1 33. Kh4 Rxe5 34. Rh5 Bf2+ 35. Kh3 Rxh5+ 36. Kg2 Rd5 37. b4 Rc2 38. Kf1 Bg3 39. a5 Rd1# 0-1

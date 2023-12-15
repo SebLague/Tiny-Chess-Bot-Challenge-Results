@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "Poisoned_Offerings (by: N8)"]
+[Black "Clyde (by: Evan)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 g5 2. h4 gxh4 3. Rxh4 e5 4. Qh5 d6 5. d4 exd4 6. Bg5 Qd7 7. Rf4 c5 8. Bb5 Qxb5 9. Qxf7# 1-0

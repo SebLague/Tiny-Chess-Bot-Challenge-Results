@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "37"]
+[White "Capybara (by: Matěj Fencl)"]
+[Black "The Grandma (by: TimFW)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. d4 exd4 5. Nxd4 d5 6. Bb5 dxe4 7. Nxc6 Qxd1+ 8. Kxd1 a6 9. Ba4 Bd7 10. Ne5 Bxa4 11. Nxa4 b5 12. Nc3 b4 13. Ne2 Bc5 14. Rf1 Ke7 15. Be3 Bxe3 16. fxe3 c5 17. Ke1 Ke6 18. Nc4 g5 19. Ng3 Rhd8 20. Rf5 Ng4 21. h3 Nf6 22. Re5+ Kd7 23. Nb6+ Kd6 24. Rf5 Ke6 25. Nxa8 Rxa8 26. Rxc5 g4 27. Rd1 gxh3 28. Nf5 Ne8 29. gxh3 Kf6 30. Ng3 Ke6 31. Nxe4 f6 32. Rc6+ Ke5 33. Nc5 a5 34. Rd7 h5 35. Ke2 Kf5 36. Ne6 Kg6 37. Nf8+ Kg5 38. Rc4 Nc7 39. Rg7+ Kf5 40. Rc5+ Nd5 41. Rxd5+ Ke4 42. Rd4+ Kf5 43. Rf4+ Ke5 44. Nd7+ Kd5 45. Rxf6 Rg8 46. Rxg8 Ke4 47. Re8+ Kd5 48. Re5+ Kc4 49. Nb6# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "3"]
+[White "Why Use Full Brain (by: JustAdy)"]
+[Black "DrunkBot (by: rootNico)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. d4 Nc6 3. Nf3 Rb8 4. Ng5 Nxe4 5. Nxe4 f6 6. d5 e6 7. dxc6 Rg8 8. cxd7+ Bxd7 9. Nxf6+ Qxf6 10. Nd2 Bc5 11. g4 Qxf2# 0-1

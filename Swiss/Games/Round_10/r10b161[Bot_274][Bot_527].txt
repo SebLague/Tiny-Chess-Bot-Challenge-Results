@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "9"]
+[White "BoringBot (by: Carson Bates)"]
+[Black "Stickleback (by: Brent Mardell)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f3 d5 2. g3 e5 3. d4 exd4 4. Qxd4 Nf6 5. h4 Nc6 6. Qe3+ Ne5 7. Qxe5+ Be7 8. e4 dxe4 9. fxe4 Nxe4 10. Qxe4 Be6 11. Qxb7 Qd6 12. Qxa8+ Kd7 13. Qxh8 Bxa2 14. Bh3+ Kc6 15. Rxa2 Kd5 16. Nc3+ Kd4 17. Nb5+ Kc4 18. Nxd6+ Bxd6 19. Qxg7 Bxg3+ 20. Qxg3 f6 21. Qxc7+ Kd4 22. Qd6+ Ke4 23. Ra4# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "37"]
+[White "K53YK53Y (by: KszyKszy)"]
+[Black "OrionChessEngine (by: Maarten Peels)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. d4 exd4 3. Qxd4 d5 4. exd5 Nf6 5. Nc3 Nh5 6. Be2 a5 7. Bxh5 Qe7+ 8. Be2 b6 9. Bf4 Nc6 10. dxc6 Qxe2+ 11. Ngxe2 Ke7 12. Bxc7 Ke6 13. Qe5# 1-0

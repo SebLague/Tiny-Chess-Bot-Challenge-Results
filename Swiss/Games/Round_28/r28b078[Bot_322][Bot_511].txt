@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "27"]
+[White "BarschBot (by: Bobitsmagic)"]
+[Black "roboleon v4.1 bugfixed (by: CLEC)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nc3 Ne7 3. d4 exd4 4. Qxd4 Ng6 5. Be3 Nc6 6. Qd2 Bb4 7. a3 Bxc3 8. Qxc3 f6 9. f3 f5 10. exf5 Nf8 11. Qxg7 Qe7 12. Qxh8 b6 13. Qc3 Qe5 14. g4 Qxc3+ 15. bxc3 Ne7 16. O-O-O d5 17. Bg5 Kf7 18. Bxe7 Kxe7 19. Rxd5 Bb7 20. Rd4 Nd7 21. g5 Ne5 22. Rh4 Rh8 23. g6 h5 24. Rf4 Bc6 25. f6+ Ke8 26. g7 Rg8 27. Rf5 Nf7 28. Rxh5 Nh6 29. Rxh6 Bxf3 30. Nxf3 Kf7 31. Bc4+ Ke8 32. Be6 Kd8 33. Rd1+ Ke8 34. Rh8 c5 35. Rxg8# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "8"]
+[White "Guppy (by: Simply In Dev)"]
+[Black "kesslbot (by: kesslwovv)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. d4 d5 2. Bf4 c5 3. dxc5 e6 4. Bxb8 Rxb8 5. Qd4 Nf6 6. Nc3 Bd7 7. Nf3 Rc8 8. b4 b6 9. e4 bxc5 10. Qe5 cxb4 11. Nxd5 Ng4 12. Qb2 exd5 13. exd5 Bc5 14. Qxg7 Bxf2+ 15. Kd2 Be3+ 16. Kd1 Rf8 17. Qxh7 Qf6 18. Rb1 Nf2+ 19. Ke2 Bc5 20. Rxb4 Bb5+ 21. Rxb5 Qe7+ 22. Ne5 Qxe5+ 23. Qe4 Qxe4+ 24. Kd2 1-0

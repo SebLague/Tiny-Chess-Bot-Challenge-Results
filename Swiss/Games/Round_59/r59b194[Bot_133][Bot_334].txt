@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "58"]
+[White "MinimaxAttackerBot5000 (by: ChrisCat123)"]
+[Black "StackFish (by: battlecoder)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 e6 2. Nb5 Bb4 3. Rb1 c6 4. Nd4 c5 5. Nb3 c4 6. Na1 Qb6 7. e3 d5 8. Qe2 Ne7 9. Kd1 Nf5 10. Ke1 O-O 11. Kd1 Ba5 12. Ke1 c3 13. dxc3 Bxc3+ 14. Kd1 Ba5 15. b4 Bxb4 16. Rb2 Nc6 17. Rb1 Rb8 18. Rb2 Rd8 19. Rb1 g6 20. Rb2 Bd7 21. Rb1 Ra8 22. Rb2 a6 23. Rb1 h5 24. Rb2 Qc5 25. Qd3 Ba3 26. Nb3 Qb4 27. Rb1 Qg4+ 28. Be2 Nxe3+ 29. Qxe3 Bxc1 30. Qb6 Qxg2 31. Kxc1 Qxh1 32. Kb2 Qxh2 33. Nf3 Qh3 34. Qxb7 Ra7 35. Qb6 Rb8 36. Qc5 Qf5 37. Ka3 Qe4 38. Kb2 Qxe2 39. Ka1 Qxf3 40. c3 Qe4 41. f3 Qc2 42. Rc1 Qh2 43. Kb1 Qe5 44. Ka1 Rb5 45. Qg1 Qf4 46. Na5 Qd2 47. Nb3 Rxb3 48. axb3 Nb4 49. cxb4 Rb7 50. Qc5 Rb5 51. Rc2 Qe1+ 52. Rc1 Qe5+ 53. Qc3 Ra5+ 54. bxa5 d4 55. Re1 Qg3 56. Qc1 Qxf3 57. Qc2 Qg3 58. Rd1 e5 59. Kb1 Bf5 60. Rd3 Bxd3 61. Kc1 Qe3+ 62. Qd2 Qg1+ 63. Kb2 Qb1+ 64. Ka3 Bc2 65. Kb4 Qxb3+ 66. Kc5 Qa2 67. Kb4 d3 68. Kc5 Qa4 69. Kd5 Qa1 70. Ke4 Qd4+ 71. Kf3 Qd5+ 72. Kg3 Qe4 73. Kf2 h4 74. Kf1 Qf3+ 75. Ke1 Qd5 76. Kf1 h3 77. Ke1 Qc5 78. Kf1 e4 79. Qf2 Qxa5 80. Qf6 h2 81. Kg2 d2 82. Qf1 Qa4 83. Kxh2 d1=Q 84. Kg1 Qad4+ 85. Kg2 Q4d2+ 86. Kg1 Qg5+ 87. Kh1 Qxf1+ 88. Kh2 Qgg2# 0-1

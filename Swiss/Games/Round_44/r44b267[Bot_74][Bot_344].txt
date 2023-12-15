@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "43"]
+[White "DrunkBot (by: rootNico)"]
+[Black "DD9's chess bot (by: DigestDig9)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a4 d5 2. e4 d4 3. c4 Be6 4. Qb3 Bxc4 5. Qxc4 Qd6 6. Nc3 dxc3 7. Rb1 Qb6 8. a5 cxd2+ 9. Bxd2 Qd6 10. Kd1 e5 11. Qb3 Be7 12. Qb5+ Kd8 13. Qxb7 Bf6 14. Ke1 Bh4 15. Ba6 Bxf2+ 16. Kd1 Bd4 17. Kc1 Bxb2+ 18. Kxb2 c5 19. Kc2 Qd4 20. Qxa8 Qa4+ 21. Kc3 Qa3+ 22. Kc4 Qa2+ 23. Rb3 Qc2+ 24. Kd5 Qxb3+ 25. Kd6 Qb2 26. Bd3 Qd4+ 27. Qd5 Qa4 28. Qa8 Qb3 29. Bc4 Qxc4 30. Qxb8# 1-0

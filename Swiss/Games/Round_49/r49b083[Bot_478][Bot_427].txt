@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "48"]
+[White "KBot (by: Kristian Mischke)"]
+[Black "LeMaire (by: Beaud Rémi and Mechulam Antoine)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 Nc6 2. e4 Nf6 3. d3 d5 4. exd5 Qxd5 5. c4 Qe5+ 6. Ne2 Be6 7. Kd2 O-O-O 8. Ng3 Qc5 9. Ke2 Bg4+ 10. f3 Nd4+ 11. Kd2 Qa5+ 12. Ke3 Qe5+ 13. Kf2 Be6 14. Qe1 Qxe1+ 15. Kxe1 Rd7 16. h4 a6 17. Kf2 h6 18. Be3 Rh7 19. Rg1 c5 20. Rh1 Kc7 21. Rb1 Kb6 22. b4 Kc6 23. bxc5 Kc7 24. Rc1 Nc6 25. Ra1 Kb8 26. Rb1 Ka7 27. Nc2 Ka8 28. d4 Ka7 29. h5 Ka8 30. Re1 Ka7 31. Rc1 Ka8 32. d5 Bxd5 33. cxd5 Ne5 34. c6 Rxd5 35. c7 Nfg4+ 36. Ke2 Nxe3 37. c8=Q+ Ka7 38. Nxe3 Ra5 39. Qxf8 e6 40. Qg8 Rxa2+ 41. Nc2 Nc6 42. Qxh7 Nb4 43. Kd1 Nd5 44. Qxg7 f6 45. Ne4 Rb2 46. Ke1 e5 47. Nxf6 Nf4 48. Nd7 Ra2 49. Qg8 Nxg2+ 50. Kf2 Rxc2+ 51. Rxc2 Ne1 52. Qb8# 1-0

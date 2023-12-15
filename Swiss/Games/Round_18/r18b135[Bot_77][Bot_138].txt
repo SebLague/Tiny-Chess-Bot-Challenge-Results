@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "17"]
+[White "OrionChessEngine (by: Maarten Peels)"]
+[Black "Flaeskesteg (by: Jechto)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 e6 2. Nc3 Qf6 3. Ne4 Qf4 4. Neg5 Nc6 5. g3 Qf5 6. e3 d5 7. Bd3 Qf6 8. Nxh7 Rxh7 9. Bxh7 Nge7 10. c3 Kd8 11. Kf1 Bd7 12. Bb1 Rc8 13. Ke1 a6 14. Rg1 e5 15. Bh7 Bg4 16. Qe2 Bxf3 17. Qf1 Qh6 18. Bd3 Qxh2 19. Bxa6 bxa6 20. g4 Nb8 21. Rg3 Be4 22. Rh3 Qg2 23. Qxg2 Bxg2 24. Rh8 Ng6 25. Rh7 Nd7 26. b4 Nf6 27. b5 Nxh7 28. bxa6 Nf6 29. Kd1 Bf3+ 30. Ke1 Nxg4 31. Kf1 Nh4 32. Ke1 Ng2+ 33. Kf1 Bc5 34. Kg1 Kd7 35. Kf1 Rh8 36. Kg1 Ne1 37. a7 Rh1# 0-1

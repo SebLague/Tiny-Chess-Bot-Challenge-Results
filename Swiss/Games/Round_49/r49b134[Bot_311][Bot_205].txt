@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "48"]
+[White "MyFirstChessEngine (by: Jake Forsey)"]
+[Black "vinctus (by: vinctus)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Nc3 Nc6 2. Nf3 d5 3. e4 dxe4 4. Ng5 h6 5. Nxf7 Kxf7 6. Bc4+ Kg6 7. Nxe4 Qd4 8. Qe2 Bf5 9. Bf7+ Kxf7 10. Qh5+ Ke6 11. Ng5+ hxg5 12. Qxh8 Qe4+ 13. Kd1 Bg4+ 14. f3 Bxf3+ 15. gxf3 Qxf3+ 16. Ke1 Qxh1+ 17. Kf2 Nf6 18. Qh3+ g4 19. Qb3+ Nd5 20. Qxb7 Qxh2+ 21. Kf1 Qh1+ 22. Kf2 g3+ 23. Kxg3 Qg1+ 24. Kh3 Qh1+ 25. Kg3 Qg1+ 26. Kh3 Qh1+ 27. Kg3 1/2-1/2

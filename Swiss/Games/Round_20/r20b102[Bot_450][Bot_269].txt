@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "19"]
+[White "Optimus (by: Adt)"]
+[Black "AugsBot (by: Augs)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qd5 Nf6 5. Qc4 Bb4+ 6. c3 Bd6 7. Bg5 Ne5 8. Qd4 h6 9. Be3 Neg4 10. Nf3 Nxe3 11. fxe3 Be7 12. e5 c5 13. Qc4 d5 14. exd6 Qxd6 15. Qb5+ Bd7 16. Qxb7 Rb8 17. Qxa7 Ng4 18. e4 Qf4 19. Nbd2 Qe3+ 20. Be2 Rxb2 21. Rf1 Qxc3 22. h3 Bh4+ 23. g3 Bxg3+ 24. Rf2 Rxd2 25. Qa8+ Ke7 26. Qxh8 Rd1+ 27. Kxd1 Nxf2# 0-1

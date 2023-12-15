@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "62"]
+[White "roboleon v4.1 bugfixed (by: CLEC)"]
+[Black "TalkChess (by: Thomas Jahn, Mike Sherwin, Dmitry Shechtman)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nc6 2. e3 Nf6 3. Bb5 e6 4. Bxc6 dxc6 5. Nc3 Bc5 6. Na4 Bd6 7. Nc3 O-O 8. Qe2 e5 9. Ng5 Bf5 10. d4 Nd5 11. Nxd5 cxd5 12. Nf3 Qf6 13. dxe5 Bxe5 14. Nxe5 Qxe5 15. g4 Qe4 16. f3 Qb4+ 17. c3 Qb6 18. gxf5 Rad8 19. Kd2 Rfe8 20. Kc2 Qc6 21. Bd2 d4 22. Kb1 d3 23. Qg2 Qc4 24. Rg1 g6 25. b3 Qc5 26. Qg4 Qd5 27. Qf4 Qc5 28. b4 Qc6 29. a4 Qb6 30. b5 Qc5 31. c4 Qb6 32. Ra2 Qc5 33. h3 Qb6 34. Rg3 Qc5 35. Ra1 Qb6 36. Qh4 Qd6 37. f4 Qb6 38. Rg4 Qd6 39. Rg2 Qb6 40. Rg3 Qd6 41. Rg1 Qb6 42. Rg2 Qd6 43. Ra2 Qb6 44. e4 Qd6 45. e5 Qd4 46. fxg6 hxg6 47. Qf6 Qxc4 48. Rb2 Qxa4 49. b6 axb6 50. f5 Qe4 51. Rh2 Qxe5 52. Qxe5 Rxe5 53. fxg6 fxg6 54. Rg2 Re6 55. Rg4 Rc6 56. Rh4 Rc5 57. Rh6 g5 58. Rh5 Rdd5 59. Rh6 b5 60. Be3 Rc4 61. Re6 b4 62. Re8+ Kg7 63. Re7+ Kg8 64. Re8+ Kh7 65. Re7+ Kh8 66. Re8+ Kg7 67. Re7+ Kf8 68. Rh7 Kg8 69. Re7 Rb5 70. Rb3 Rd5 71. Rb2 Rf5 72. Re8+ Kg7 73. Rb3 Rf1+ 74. Bc1 Kf7 75. Rh8 Rfxc1+ 76. Ka2 Kg7 77. Re8 d2 78. Re7+ Kf6 79. Re6+ Kxe6 80. Re3+ Kd7 81. Rd3+ Kc6 82. Rxd2 Rh1 83. Kb3 Rc3+ 84. Kxb4 Rhxh3 85. Rg2 Rhg3 86. Rxg3 Rxg3 87. Ka5 Rg2 88. Kb4 Kb6 89. Ka4 Re2 90. Kb4 g4 91. Ka4 Re4+ 92. Kb3 Ka7 93. Kb2 Re2+ 94. Kc1 g3 95. Kd1 g2 96. Kxe2 g1=Q 97. Kd2 Qg2+ 98. Kc1 Qa2 99. Kd1 b5 100. Ke1 Qg2 101. Kd1 Qf2 102. Kc1 b4 103. Kd1 b3 104. Kc1 Qc2# 0-1

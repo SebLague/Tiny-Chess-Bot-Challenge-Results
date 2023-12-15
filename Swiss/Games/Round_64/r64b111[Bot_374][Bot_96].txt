@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "63"]
+[White "JazzBot (by: SpoXe)"]
+[Black "Chess Bot (by: M)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 e5 2. g4 d5 3. Nf3 Bd6 4. Bh3 Nc6 5. Rf1 Be6 6. Rh1 e4 7. Ng5 Nd4 8. Nxe6 Nxe6 9. Bf1 Nf6 10. e3 h5 11. gxh5 a5 12. Bb5+ c6 13. Be2 Rh6 14. f4 g6 15. hxg6 fxg6 16. d4 exd3 17. cxd3 b5 18. Bf1 g5 19. fxg5 Nxg5 20. hxg5 Rxh1 21. gxf6 Qxf6 22. Ke2 Rh2+ 23. Bg2 Rxg2+ 24. Ke1 Qh4+ 25. Kf1 Qf2# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "56"]
+[White "TinyLispChessBot (by: tr00)"]
+[Black "Crazy? I was crazy once. They Locked me in a room. A rubber room. A rubber room with rats. Rats make me crazy. (by: Big red)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Na3 Na6 2. Nb5 Nf6 3. Rb1 c5 4. Ra1 Qb6 5. e3 d5 6. Rb1 Be6 7. Ra1 g5 8. Rb1 Bh6 9. Ra1 Kd7 10. Rb1 Kc6 11. Ra1 Kd7 12. Rb1 Kc6 13. Ra1 Kd7 1/2-1/2

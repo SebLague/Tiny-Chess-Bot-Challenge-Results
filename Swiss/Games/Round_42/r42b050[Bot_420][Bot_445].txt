@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "41"]
+[White "NostradamusChessNN (by: _Mus)"]
+[Black "KunoVonHagenBot (by: Jakob)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Nc3 e5 3. Nf3 Bc5 4. Nxe5 Nxe5 5. d4 Qe7 6. Nd5 Bb4+ 7. c3 Qd8 8. cxb4 Ng6 9. Bd3 c6 10. Ne3 Qb6 11. Bd2 Qxd4 12. Bc3 Qb6 13. Bxg7 Qxb4+ 14. Bc3 Qd6 15. Bxh8 Nxh8 16. O-O Ng6 17. Bc2 Qb4 18. Rb1 Nf6 19. Re1 Nxe4 20. Bxe4 Kd8 21. Bc2 d5 22. Nxd5 cxd5 23. Qxd5+ Kc7 24. Qxf7+ Bd7 25. Rbc1 Nf8 26. Bf5+ Kb6 27. Bxd7 Nxd7 28. Qxd7 Rf8 29. Re6+ Ka5 30. Qc7+ Ka4 31. Rc4 Rf5 32. Rxb4+ Kxb4 33. Re4+ Kb5 34. Qxb7+ Kc5 35. Qc8+ Kb6 36. Qxf5 a5 37. Re6+ Kc7 38. Qf7+ Kd8 39. Re8# 1-0

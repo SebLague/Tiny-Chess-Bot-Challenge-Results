@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "20"]
+[White "WingBot (by: Benjamin Iserman)"]
+[Black "Prince of Persia (by: flabbet)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 a5 2. Bc4 Nc6 3. Qf3 Nb4 4. Qxf7# 1-0

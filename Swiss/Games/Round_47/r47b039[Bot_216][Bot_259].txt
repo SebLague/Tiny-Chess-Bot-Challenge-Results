@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "46"]
+[White "Average Chess bot (by: )"]
+[Black "DarnBot (by: Darn)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. d4 d5 3. exd5 Qxd5 4. Nf3 Bg4 5. Nc3 Qe6+ 6. Be2 Bxf3 7. gxf3 Qf6 8. d5 O-O-O 9. h4 Nd4 10. f4 Nxe2 11. Qxe2 Qf5 12. Rg1 Nf6 13. Rg5 Qh3 14. Qe3 Qxh4 15. Qxa7 Qh1+ 16. Ke2 h6 17. Re5 Nd7 18. Qa8+ Nb8 19. Rb1 Qg2 20. Ke3 f6 21. Re4 h5 22. Rb4 b6 23. Re4 h4 24. Nb5 Qh3+ 25. f3 Qf1 26. Na7+ Kd7 27. Nc6 Qg1+ 28. Kd3 f5 29. Rd4 h3 30. Nxd8 h2 31. Nc6 Qf1+ 32. Kc3 h1=Q 33. Qxb8 Qe1+ 34. Kb3 Kd6 35. Qd8+ Kc5 36. Rc4+ Kb5 37. Nd4+ Ka5 38. Ra4# 1-0

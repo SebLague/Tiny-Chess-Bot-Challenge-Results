@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Knockout 4"]
+[Site "Seb's Laptop"]
+[Date "2023.11.01"]
+[Round "3"]
+[White "smol.cs (by: Gediminas Masaitis, Goh CJ)"]
+[Black "Kinglet (by: Skolin + World + Abyss)"]
+[Result "1-0"]
+[TimeControl "30+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 b6 5. Bg5 Bb7 6. e3 h6 7. Bxf6 Qxf6 8. Be2 Bxc3+ 9. bxc3 Nc6 10. O-O O-O-O 11. c5 Kb8 12. Qa4 Rhe8 13. Ba6 Bxa6 14. Qxa6 h5 15. Rab1 h4 16. h3 g6 17. Rb5 Rg8 18. Rfb1 Rdf8 19. cxb6 cxb6 20. Rxb6+ axb6 21. Qxb6+ Kc8 22. Ne5 Qxe5 23. dxe5 g5 24. f4 gxf4 25. exf4 Rg7 26. Qb7+ Kd8 27. Rd1 Nxe5 28. fxe5 f5 29. Qa8+ Ke7 30. Rxd7+ Kxd7 31. Qxf8 Re7 32. Qf6 Rh7 33. a4 Re7 34. Qxh4 Re8 35. Qb4 Kc8 36. Qc5+ Kd8 37. Qd6+ Kc8 38. Qc6+ Kd8 39. a5 Re7 40. Qa8+ Kc7 41. Qa7+ Kd8 42. Qb8+ Kd7 43. a6 Kc6 44. Qd6+ Kb5 45. Qxe7 Kxa6 46. Qxe6+ Kb5 47. Qxf5 Kc4 48. e6 Kxc3 49. e7 Kd4 50. e8=Q Kc4 51. Qeb5+ Kd4 52. Qfd3# 1-0

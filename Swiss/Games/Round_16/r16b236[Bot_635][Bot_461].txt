@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "15"]
+[White "BotTheBuilder (by: Stelio Dalakas)"]
+[Black "CopyBot (by: bull313)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g3 b6 2. Bg2 Bb7 3. Nf3 Bxf3 4. exf3 g5 5. f4 gxf4 6. Bxa8 fxg3 7. hxg3 f5 8. a3 h6 9. Qh5# 1-0

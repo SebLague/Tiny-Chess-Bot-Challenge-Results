@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "51"]
+[White "Saint Charles Bot (by: DATA USP)"]
+[Black "Maple (by: Austin)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 e5 2. Nc4 Qg5 3. Rb1 Kd8 4. Ra1 d5 5. Nf3 Qf5 6. Ncxe5 c6 7. c4 dxc4 8. g4 Qf4 9. Qc2 h5 10. gxh5 Rxh5 11. Nxc4 Nd7 12. Nfe5 Nxe5 13. Nxe5 Qxe5 14. Qa4 Qd5 15. e4 Qd6 16. Be2 Rxh2 17. Qa5+ b6 18. Qg5+ f6 19. Qg1 Rxh1 20. Qxh1 Qc5 21. Qh7 Be6 22. b4 Qd4 23. Rb1 Bxa2 24. Rb2 Be6 25. e5 Qxe5 26. d4 Qxd4 27. Kf1 Nh6 28. Kg1 Kc7 29. Qh8 Qe5 30. Rc2 Bb3 31. Rb2 Ba4 32. Bf1 Bb5 33. Bxb5 Qe1+ 34. Kg2 Qxc1 35. Ra2 cxb5 36. Kh2 Bd6+ 37. Kg2 Qg5+ 38. Kf1 Qc1+ 39. Ke2 Qc4+ 40. Kd1 Qf1+ 41. Kc2 Qxf2+ 42. Kb1 Qe1+ 43. Kb2 Qxb4+ 44. Ka1 Be5+ 45. Rb2 Rxh8 46. Kb1 Qxb2# 0-1

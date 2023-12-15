@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "35"]
+[White "Matey (by: Conor)"]
+[Black "Asymptotically optimal (by: Graham Gayler)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 Nh6 2. Nd5 d6 3. Nf4 Kd7 4. Nd5 Kc6 5. Nb4+ Kb5 6. e3+ Ka4 7. c3+ Ka5 8. Qh5+ Bf5 9. Qh4 Bg6 10. Qg5+ Ka4 11. Qd5 Qd7 12. Qxb7 Ka5 13. Qd5+ c5 14. Qxa8 Ka4 15. Qxb8 Ka5 16. Qa8 Ka4 17. Qd5 Ka5 18. Qc4 cxb4 19. Qd5+ Ka4 20. Qc4 Ka5 21. Qd5+ Qb5 22. Qd4 Ka4 23. Qxa7+ Qa6 24. Qxa6# 1-0

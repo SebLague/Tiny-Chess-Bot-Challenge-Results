@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "6"]
+[White "More Recursion! (by: Bden)"]
+[Black "Minerva (by: Leo)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. e3 c6 2. Qh5 Qb6 3. d4 Qb4+ 4. Ke2 Qc4+ 5. Kf3 Qxf1 6. Qxf7+ Kxf7 7. g4 Qxc1 8. b3 Qb2 9. e4 Qxa1 10. Ne2 Qxa2 11. Nd2 Qxc2 12. b4 Qd3+ 13. Kg2 Qxe2 14. Nb1 Qxg4+ 15. Kf1 Qxe4 16. Kg1 Qg6+ 17. Kf1 Qe4 18. Kg1 Qg6+ 19. Kf1 Qe4 1/2-1/2

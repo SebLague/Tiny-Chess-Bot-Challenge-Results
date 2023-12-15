@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "41"]
+[White "maff-chess (by: Filip)"]
+[Black "Chemibot (by: Mike Chemi)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nf3 f6 3. d4 Bb4+ 4. c3 Ba5 5. dxe5 Bb6 6. e6 Bxf2+ 7. Kxf2 dxe6 8. Qa4+ Kf7 9. Be3 h5 10. Bb5 c6 11. Bxc6 bxc6 12. Bf4 Qb6+ 13. Qd4 Qxb2+ 14. Nbd2 a5 15. Rhb1 Qc2 16. Rxb8 c5 17. Qxc5 e5 18. Rxa8 exf4 19. Qxc8 g5 20. Qe8+ Kg7 21. Ra7+ Kh6 22. Qf8+ Kg6 23. Qg7# 1-0

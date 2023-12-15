@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "46"]
+[White "Stale (by: Noah)"]
+[Black "KU_AI_BOT (by: Daniel Johnson)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. b3 e5 2. c3 Qh4 3. a3 b6 4. d3 Bb7 5. e3 Bc5 6. g3 Qh6 7. Nf3 Qh5 8. e4 b5 9. Be2 Qh3 10. Nxe5 Qg2 11. Bf3 Qxf2# 0-1

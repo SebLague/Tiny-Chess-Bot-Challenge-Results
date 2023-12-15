@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "28"]
+[White "TimsBot (by: Thomas Dvorak)"]
+[Black "Bobobot (by: Lino)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. h4 g6 2. g4 f6 3. f4 h5 4. e4 c6 5. d4 b6 6. c4 Kf7 7. b4 a5 8. a4 g5 9. f5 Qc7 10. e5 Bb7 11. exf6 Qg3+ 12. Ke2 Qe3+ 13. Bxe3 Nh6 14. gxh5 Ng8 15. h6 Bg7 16. h7 Bf8 17. h5 Nh6 18. c5 Ng8 19. h6 Bg7 20. b5 Bf8 21. Nh3 Na6 22. Nf4 Nb8 23. Ng6 Na6 24. Nxe7 Bc8 25. Nc3 Nb8 26. Na2 Na6 27. Nb4 Nb8 28. Na6 Bg7 29. Nc7 Nxh6 30. Ne6 Ng4 31. Nf8 Nh2 32. Ne6 Na6 33. Nf8 Rg8 34. Ne6 Rh8 35. Nf8 Rg8 36. Ne6 Rh8 1/2-1/2

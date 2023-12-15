@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "62"]
+[White "mini_yoda (by: Dane Smith)"]
+[Black "Chark Bot (by: Team Chark V1)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f4 e6 2. e4 d5 3. e5 Bd7 4. Qh5 Bc5 5. Nf3 Nc6 6. Bb5 a6 7. Bxc6 Bxc6 8. Qg4 d4 9. Qxg7 Bxf3 10. Qxh8 Qh4+ 11. g3 Qg4 12. b4 Bd1 13. O-O Bxb4 14. Qxh7 Bc5 15. a4 d3+ 16. Rf2 Bxc2 17. Bb2 Bxf2+ 18. Kxf2 Qe2+ 19. Kg1 Qe1+ 20. Kg2 Ra7 21. Qxg8+ Ke7 22. Ba3+ Kd7 23. Qxf7+ Kd8 24. Qf8+ Kd7 25. Qe7+ Kc8 26. Qe8# 1-0

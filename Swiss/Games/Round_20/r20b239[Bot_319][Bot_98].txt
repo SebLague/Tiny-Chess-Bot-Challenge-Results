@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "19"]
+[White "GOYO Bot v1.1.2 (by: Goyo)"]
+[Black "Shadow (by: Zaid Alas4)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Qh5 Ne7 3. Bc4 c5 4. Bxf7# 1-0

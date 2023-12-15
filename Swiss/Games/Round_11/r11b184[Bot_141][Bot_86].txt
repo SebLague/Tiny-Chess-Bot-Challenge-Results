@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "10"]
+[White "Shielded Minibot (by: Sesen)"]
+[Black "Blitztron (by: Cameron Dugan)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 d5 2. Nf3 Bg4 3. Ne5 Be6 4. Nb5 f5 5. Nd4 Bc8 6. e3 a6 7. Nd3 Qd7 8. c3 a5 9. Ne5 Qd8 10. Qh5+ g6 11. Nxg6 hxg6 12. Qxg6+ Kd7 13. Bb5+ c6 14. Bd3 Kc7 15. Bxf5 e6 16. Nxe6+ Bxe6 17. Qxe6 Kb6 18. d3 Bg7 19. e4 dxe4 20. dxe4 Kc5 21. Be3+ Kb5 22. Qf7 Bxc3+ 23. bxc3 Ka6 24. Rd1 Qe7 25. Qc4+ b5 26. Bc8+ Qb7 27. Qc5 Nh6 28. Qb6# 1-0

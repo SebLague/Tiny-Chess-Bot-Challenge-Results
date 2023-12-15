@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "9"]
+[White "Celluar Automaton Iterated (by: Pix)"]
+[Black "StevenBot (by: Steven)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. f4 b5 2. b4 d5 3. d4 f5 4. Nf3 h5 5. Ng1 h4 6. h3 e6 7. Bd2 g6 8. Na3 a6 9. Bc1 Bxb4+ 10. Kf2 a5 11. Nb1 a4 12. Be3 c6 13. Bc1 Ra7 14. Nf3 Rhh7 15. Bb2 Rhb7 16. Qc1 Rh7 17. Rh2 Rhd7 18. Rh1 Rh7 19. Rg1 Rhf7 20. Rh1 Rh7 1/2-1/2

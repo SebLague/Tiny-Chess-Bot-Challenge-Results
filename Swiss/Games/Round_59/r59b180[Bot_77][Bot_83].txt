@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "58"]
+[White "OrionChessEngine (by: Maarten Peels)"]
+[Black "Trixie (by: ts-manuel)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Na6 2. a4 Nb4 3. c3 Nd5 4. e4 Nf4 5. d4 Ne6 6. Qd3 Nf6 7. Ne5 Rb8 8. Nd2 Nf4 9. Qc2 Ra8 10. c4 d6 11. Nd3 Nxd3+ 12. Bxd3 Ng4 13. Be2 Nf6 14. Nb3 Be6 15. d5 Bd7 16. O-O Rb8 17. Kh1 Ra8 18. Be3 Qb8 19. Nd2 Kd8 20. f4 Kc8 21. Bd4 e5 22. fxe5 dxe5 23. Bxe5 Ne8 24. Rxf7 Bb4 25. Nf3 Bg4 26. Qb3 Ba5 27. Nd4 Bd7 28. Bd3 Bb6 29. Nf3 Kd8 30. Qc3 Kc8 31. Qa3 Rg8 32. Bc3 c5 33. Be5 Bc7 34. Bxc7 Qxc7 35. Re7 Rf8 36. Bb1 Kd8 37. Qc3 Kxe7 38. Qxg7+ Nxg7 39. d6+ Qxd6 40. Kg1 Qd1+ 41. Kf2 Bxa4 42. Bc2 Qxc2+ 43. Ke1 Qxe4+ 44. Kf1 Qxc4+ 45. Ke1 Qb4+ 46. Kf2 Qxb2+ 47. Ke1 Qxa1+ 48. Kd2 Qd1+ 49. Kc3 Qc2# 0-1

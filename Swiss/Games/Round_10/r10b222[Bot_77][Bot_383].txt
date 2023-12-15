@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "9"]
+[White "OrionChessEngine (by: Maarten Peels)"]
+[Black "Bobobot (by: Lino)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 g6 2. Nf3 f6 3. Bc4 Bg7 4. Bxg8 c6 5. Bc4 h5 6. Nh4 Qb6 7. Nxg6 Qxf2+ 8. Kxf2 Bh6 9. Nxh8 a5 10. Qxh5+ Kd8 11. Qxh6 Kc7 12. Ke1 Kd6 13. a4 b5 14. axb5 Na6 15. bxa6 Bb7 16. b4 Kc7 17. axb7 Rb8 18. Rxa5 Kd8 19. g4 Kc7 20. c3 Kd8 21. Ba6 Kc7 22. h4 Kd8 23. c4 Kc7 24. c5 d6 25. d4 Rd8 26. Ra4 Rb8 27. Rh3 Rd8 28. g5 Rb8 29. gxf6 Rd8 30. fxe7 Rg8 31. Qxd6# 1-0

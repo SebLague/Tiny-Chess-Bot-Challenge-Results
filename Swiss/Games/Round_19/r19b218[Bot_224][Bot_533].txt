@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "18"]
+[White "RP Bot (by: Matt Enad (RobProductions))"]
+[Black "Stoccafisso (by: Riccardo D'Incau)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 e5 2. dxe5 Nc6 3. e4 Bd6 4. exd6 cxd6 5. Qxd6 Qe7 6. Qxe7+ Kxe7 7. Bg5+ Kd6 8. Bf4+ Kc5 9. Be3+ Kb4 10. Bd2+ Ka4 11. b3# 1-0

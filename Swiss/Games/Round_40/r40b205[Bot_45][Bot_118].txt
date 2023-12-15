@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "39"]
+[White "HopeBot (by: Chinmay Krishna)"]
+[Black "BotThatLikesToPlayChess™ (by: Gary Dale)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 c6 2. Qh5 Qb6 3. b3 Qb4 4. g3 Qe4 5. Kd1 Qxh1 6. Ba6 Qxg1+ 7. Ke2 Qxc1 8. f4 Nf6 9. Qa5 Nxa6 10. d3 Ng4 11. h3 Qxe3+ 12. Kd1 Nf2# 0-1

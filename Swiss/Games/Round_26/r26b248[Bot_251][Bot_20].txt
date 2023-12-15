@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "25"]
+[White "The Red Crayon (by: Daniel L.)"]
+[Black "Queen's Gam-bot (by: Mateo Saldivar (ZiroDev))"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. d4 e5 2. dxe5 d6 3. f4 Qh4+ 4. Kd2 Qf2 5. Nf3 d5 6. Nc3 Bb4 7. a3 Qe3+ 8. Ke1 Bxc3+ 9. Qd2 Qe4 10. Qxc3 g5 11. Nxg5 Qf5 12. Qxc7 Qd3 13. Qxc8+ Ke7 14. exd3 Nf6 15. exf6+ Kxf6 16. Qxh8+ Kf5 17. Kd1 Nc6 18. Ke1 Nb8 19. Kd1 Nc6 20. Ke1 Nb8 1/2-1/2

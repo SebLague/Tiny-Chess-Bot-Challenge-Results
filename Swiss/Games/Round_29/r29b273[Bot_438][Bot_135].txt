@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "28"]
+[White "Malina (by: Tadeam)"]
+[Black "pawnHater300 (by: hakrackete)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 a5 2. g4 a4 3. f4 a3 4. bxa3 Rxa3 5. e4 Rxa2 6. Rxa2 b5 7. d4 b4 8. c4 bxc3 9. h5 c2 10. Qf3 cxb1=Q 11. Qg2 Qxa2 12. g5 Qxg2 13. Bxg2 c5 14. dxc5 d5 15. exd5 Qxd5 16. Nf3 Qxf3 17. Bxf3 e5 18. fxe5 Bxc5 19. h6 Nxh6 20. gxh6 gxh6 21. Ba8 h5 22. Bd5 h4 23. Ba8 h3 24. Bd5 h2 25. Ba8 f5 26. exf6 h5 27. Bd5 h4 28. Ba8 h3 29. Bd5 Ba6 30. Ba8 Rf8 31. Bd5 Rxf6 32. Bg8 Bb6 33. Bh7 Re6+ 34. Kd2 Be3+ 35. Kc3 Bxc1 36. Bg8 Rc6+ 37. Kd4 Ba3 38. Bh7 Rc7 39. Bg8 Rc1 40. Bd5 Rxh1 41. Bg8 Bc8 42. Bh7 Bd6 43. Bg8 Ra1 44. Bh7 h1=Q 45. Bg8 h2 46. Bh7 Qc6 47. Bg8 h1=Q 48. Bc4 Qxc4+ 49. Kxc4 Be5 50. Kc5 Qh8 51. Kb6 Ra4 52. Kc5 Kf7 53. Kb6 Bf5 54. Kb7 Ke8 55. Kb6 Kd7 56. Kb7 Bd3 57. Kb6 Ba6 58. Ka7 Rg4 59. Kb6 Rg8 60. Ka7 Bd4+ 61. Ka8 Qh1# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "55"]
+[White "Shadow's Unfinished Bot (by: shadowcage72)"]
+[Black "C++IsBetterThanC# (by: Samo)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 a5 2. Nc3 a4 3. Bd3 c5 4. Nf3 d5 5. O-O c4 6. Be2 f5 7. Ne5 g5 8. Bh5# 1-0

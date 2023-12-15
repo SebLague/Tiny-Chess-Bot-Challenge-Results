@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "DrunkBot (by: rootNico)"]
+[Black "Average Chess bot (by: )"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f3 Nf6 2. Na3 e5 3. e4 Nxe4 4. b3 Qh4+ 5. g3 Nxg3 6. Nb1 Ne4+ 7. Ke2 Qf2+ 8. Kd3 Nc5+ 9. Kc3 Qd4# 0-1

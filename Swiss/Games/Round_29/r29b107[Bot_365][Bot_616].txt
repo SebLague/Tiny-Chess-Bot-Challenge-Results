@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "28"]
+[White "KU_AI_BOT (by: Daniel Johnson)"]
+[Black "Goldfinch (by: ATG)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. e5 Ne4 3. Qe2 d5 4. exd6 Nxd6 5. c3 Bf5 6. d3 Nc6 7. g4 Be6 8. Bg2 g6 9. Nh3 Qd7 10. Nf4 Bxg4 11. f3 Be6 12. Qe3 Nf5 13. Qe4 Nh4 14. Nxe6 Nxg2+ 15. Kf1 Qxe6 16. Qxe6 fxe6 17. Kxg2 O-O-O 18. Re1 e5 19. b3 Rxd3 20. Rf1 Bg7 21. b4 Nxb4 22. cxb4 e4 23. Nc3 Bxc3 24. Rb1 e3 25. Rb3 e2 26. Rxc3 exf1=Q+ 27. Kxf1 Rxc3 28. Bg5 Re8 29. b5 Rxf3+ 30. Kg2 Ra3 31. h3 Rxa2+ 32. Kf3 Rb2 33. Bh6 Rxb5 34. Ke4 Rh5 35. Bd2 Rh4+ 36. Kf3 Rxh3+ 37. Kg2 Rd3 38. Bb4 Kd7 39. Bc5 a5 40. Kg1 a4 41. Kf2 a3 42. Bxa3 Rxa3 43. Ke1 Ra2 44. Kd1 Kc6 45. Kc1 Kd5 46. Kb1 Re2 47. Ka1 Kc4 48. Kb1 Kb3 49. Ka1 Re1# 0-1

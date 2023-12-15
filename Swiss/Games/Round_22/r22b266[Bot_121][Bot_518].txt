@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "21"]
+[White "broken bot (by: Raj Gaurav)"]
+[Black "FancyDefenceFence (by: FancyDefenceFenceFan)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 e6 2. g4 d5 3. f4 c5 4. e4 Qb6 5. exd5 Bd7 6. dxe6 Qxe6+ 7. Ne2 Qxg4 8. d4 Qxf4 9. dxc5 Bxc5 10. c4 Bf2# 0-1

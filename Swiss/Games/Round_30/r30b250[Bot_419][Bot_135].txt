@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "29"]
+[White "PrincessAtta (by: Bowser Bowering and Allyn Lloyd)"]
+[Black "pawnHater300 (by: hakrackete)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 a5 2. d4 a4 3. e4 a3 4. d5 axb2 5. Bxb2 Rxa2 6. d6 Rxa1 7. dxc7 Rxb1 8. Qxb1 Qxc7 9. h4 Qxc2 10. Qxc2 b5 11. Qxc8# 1-0

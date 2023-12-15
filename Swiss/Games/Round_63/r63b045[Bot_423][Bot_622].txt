@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "62"]
+[White "NightBot (by: Matthias Kruis)"]
+[Black "R2D2 (by: Andrei Taropa)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 d5 2. d4 e6 3. e4 dxe4 4. Nxe4 Bb4+ 5. c3 Qd5 6. Bd3 Ba5 7. Ne2 Nc6 8. O-O e5 9. b4 Bxb4 10. cxb4 Nxd4 11. Nxd4 Qxd4 12. Bb5+ Bd7 13. Qxd4 exd4 14. Bxd7+ Kxd7 15. Bb2 Ne7 16. Rad1 Nf5 17. Ng3 Nxg3 18. fxg3 f6 19. Rxd4+ Kc8 20. Rg4 g6 21. Rh4 h5 22. Rxf6 Rd8 23. Rxg6 a5 24. b5 b6 25. Be5 Rd1+ 26. Kf2 Rd2+ 27. Kf3 Rd3+ 28. Ke4 Rd2 29. Rc6 Re2+ 30. Kf5 Ra7 31. Rxh5 Rf2+ 32. Ke6 Rf8 33. Rh7 Re8+ 34. Kf5 Rf8+ 35. Kg6 Kb8 36. Rxb6+ Ka8 37. Rc6 Rg8+ 38. Kh6 a4 39. Bxc7 Rf8 40. b6 Rb7 41. Kh5 Rfb8 42. Rc4 Rxc7 43. Rxa4+ Kb7 44. bxc7 Rc8 45. Rc4 Ka6 46. Rd7 Rh8+ 47. Kg6 Rg8+ 48. Kf7 Rc8 49. Rd8 Rxc7+ 50. Rxc7 Ka5 51. Rb8 Ka6 52. h4 Ka5 53. Ra7# 1-0

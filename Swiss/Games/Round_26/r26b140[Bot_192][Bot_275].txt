@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "25"]
+[White "Jormungandr (but scuffed) (by: CptShini)"]
+[Black "Simple Minimax (by: Sidewinder7)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 b5 2. a4 Bb7 3. axb5 Bxe4 4. c4 e6 5. d3 Bb7 6. h4 Bd6 7. f3 c5 8. Be3 Qf6 9. Bc1 Qd4 10. Ke2 Bg3 11. Kd2 d6 12. Ne2 Qf2 13. Ra3 a6 14. bxa6 Rxa6 15. Rxa6 Bf4+ 16. Kc2 Nxa6 17. Bxf4 Nc7 18. Bg3 Qxg3 19. Nxg3 Kd7 20. Kc1 Bc6 21. Qd2 Na8 22. Rg1 Nc7 23. Qe1 Nh6 24. Rh1 Ra8 25. Na3 Rxa3 26. bxa3 Nf5 27. Ne4 Bxe4 28. fxe4 Nd4 29. Qd1 Kc8 30. a4 Kb8 31. g3 f5 32. Rh3 e5 33. exf5 d5 34. Kd2 Kc8 35. Bg2 Kd7 36. Qh1 h6 37. Qg1 Ncb5 38. axb5 dxc4 39. dxc4 g5 40. hxg5 Nxf5 41. Bc6+ Kd6 42. g4 Kc7 43. gxf5 hxg5 44. Qxc5 Kb8 45. Rh7 Kc8 46. Rf7 Kb8 47. f6 Kc8 48. Ke1 Kb8 49. Qb4 Kc8 50. Rh7 Kb8 51. Qa3 Kc8 52. Kf2 Kb8 53. Qe7 Kc8 54. Bd5 Kb8 55. Ke3 Kc8 56. Be4 Kb8 57. Qc7# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "3"]
+[White "applemethod-orz (by: RedBlackTree)"]
+[Black "LunarBot (by: LunarTech)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Be2 Nf6 3. f3 d5 4. Bb5 dxe4 5. d3 exd3 6. Bg5 Qd4 7. Bxf6 Qxf6 8. Nc3 Qg6 9. Nd5 Qe6+ 10. Kf1 Qxd5 11. Qxd3 Qxd3+ 12. Bxd3 Ne5 13. Bb5+ Bd7 14. Bxd7+ Kxd7 15. b3 Nc6 16. Rd1+ Ke6 17. Re1+ Kf6 18. Re4 Rd8 19. Rf4+ Ke6 20. Re4+ Kf5 21. Rh4 Rd2 22. Rc4 Rd5 23. Ke2 Ra5 24. Kd2 Rxa2 25. Nh3 Ra5 26. Re1 Rd5+ 27. Kc1 Rd4 28. g4+ Kf6 29. g5+ Kf5 30. Re4 e5 31. Rg4 Ba3+ 32. Kb1 Rd2 33. g6 fxg6 34. Rg5+ Kf6 35. f4 Bd6 36. Kc1 Rxh2 37. Ng1 exf4 38. Rb5 Rh1 39. Kb2 Rxg1 40. c3 Re8 41. b4 f3 42. Rd5 Re2+ 43. Kb3 f2 44. Rxd6+ cxd6 45. Rf4+ Ke6 46. Kc4 Ne5+ 47. Kb5 Rg3 48. Rf8 Nf7 49. Re8+ Kf6 50. Rb8 f1=Q 51. Rc8 Rb2+ 52. c4 Qe1 53. Ka4 Qxb4# 0-1

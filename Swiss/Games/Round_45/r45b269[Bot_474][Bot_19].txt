@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "44"]
+[White "Good Bot Bad Bot (But Really, Both Are Terrible Bots, Also This In The Parenthesis Is Part Of The Name) (by: Legend)"]
+[Black "AttackBot (by: Kai Tabuchi (9 Years Old))"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 b5 2. Nxb5 Bb7 3. Nxc7+ Qxc7 4. g4 Bxh1 5. f3 Bxf3 6. exf3 Qxh2 7. Nh3 Kd8 8. g5 Kc8 9. a3 Kb7 10. c4 Kc8 11. Nf2 Kb7 12. Ra2 Kc8 13. d4 Kb7 14. Bf4 Qxf4 15. g6 Kc8 16. gxh7 Rxh7 17. Ra1 Kb7 18. Rb1 Kc8 19. Qe2 Qxd4 20. Qxe7 Bxe7 21. Ng4 Bxa3 22. bxa3 Kc7 23. Rxb8 Kxb8 24. Bg2 Qxc4 25. Nh2 Rxh2 26. Bf1 Qc1# 0-1

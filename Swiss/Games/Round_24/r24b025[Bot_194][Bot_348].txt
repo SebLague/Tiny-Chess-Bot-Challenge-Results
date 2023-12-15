@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "23"]
+[White "Deerobot (by: Hugo Ingelsson)"]
+[Black "SimplerBot (by: Rick Schaffer)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e5 2. Nf3 e4 3. Nd4 Nc6 4. Nc3 Nxd4 5. exd4 d5 6. d3 Nf6 7. dxe4 dxe4 8. Bg5 Bb4 9. Bc4 h6 10. Bh4 g5 11. Bg3 Be6 12. Bxe6 fxe6 13. Be5 O-O 14. Qe2 c6 15. O-O Bxc3 16. bxc3 Qa5 17. c4 c5 18. Bd6 cxd4 19. Bxf8 Kxf8 20. f4 g4 21. Rad1 Qc5 22. Qf2 e3 23. Qe2 Rc8 24. Qd3 Kg7 25. Rb1 b6 26. Rb3 Qxc4 27. Ra3 a5 28. Rc1 Nd5 29. Qxc4 Rxc4 30. g3 Nb4 31. Ra4 d3 32. f5 d2 33. Rb1 e2 34. f6+ Kxf6 35. Kf2 d1=Q 36. Rxd1 exd1=Q 37. Rxb4 Qxc2+ 38. Ke1 Rxb4 39. a3 Rb1# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Knockout 32"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "Nathe-Bot (by: NatheSpike)"]
+[Black "InfuehrDaniel (by: InfuehrDaniel)"]
+[Result "1-0"]
+[TimeControl "30+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 c5 2. e4 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. h3 Be6 7. Bd3 Nf6 8. O-O Be7 9. N5c3 Qd7 10. f4 exf4 11. Bxf4 O-O-O 12. Nd2 Ne5 13. Nf3 Nc4 14. b3 Nb2 15. Qe2 Kb8 16. Ng5 Nxd3 17. cxd3 Rhe8 18. d4 h6 19. Nxe6 Qxe6 20. d5 Qc8 21. Rac1 Qd7 22. Nb5 Rc8 23. Rxc8+ Rxc8 24. Qd3 a6 25. Nd4 Bf8 26. Nf5 Re8 27. Re1 Nh5 28. Be3 Nf6 29. Ng3 Qb5 30. Qd4 Qc5 31. Qxf6 gxf6 32. Bxc5 dxc5 33. Nh5 Be7 34. Rf1 c4 35. bxc4 Bc5+ 36. Kh2 Rxe4 37. Rxf6 Rxc4 38. Rxf7 Bd6+ 39. Kg1 Bc5+ 40. Kh1 Rc1+ 41. Kh2 Bd6+ 42. Ng3 Rd1 43. Rf6 Rxd5 44. Rxh6 Kc7 45. h4 Ra5 46. h5 Ra3 47. Rxd6 Kxd6 48. h6 Ra4 49. Nf5+ Ke5 50. h7 Kxf5 51. h8=Q b5 52. Qe8 Kf6 53. Qf8+ Kg5 54. Kg3 Rc4 55. Qd8+ Kf5 56. Qd5+ Kf6 57. Qd6+ Kg5 58. Qxa6 Rc3+ 59. Kf2 Rc2+ 60. Kf3 Rc3+ 61. Ke4 Rc4+ 62. Ke3 Rc5 63. Qd6 Rf5 64. Qe7+ Kh6 65. g4 Rf1 66. Qh4+ Kg7 67. Qg5+ Kh7 68. Qxb5 Rf8 69. Qd3+ Kg8 70. Qg6+ Kh8 71. g5 Rf3+ 72. Kd4 Rf4+ 73. Kd5 Rf8 74. Qh5+ Kg7 75. g6 Kf6 76. Qh7 Ra8 77. Qf7+ Kg5 78. g7 Ra5+ 79. Kc6 Ra8 80. Kb7 Rd8 81. g8=Q+ Rxg8 82. Qxg8+ Kf6 83. a4 Ke7 84. Qg6 Kd7 85. a5 Kd8 86. Qf6+ Ke8 87. a6 Kd7 88. a7 Ke8 89. a8=Q+ Kd7 90. Qg6 Ke7 91. Qf5 Kd6 92. Qd8# 1-0

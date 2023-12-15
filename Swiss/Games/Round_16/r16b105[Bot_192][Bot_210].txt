@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "15"]
+[White "Jormungandr (but scuffed) (by: CptShini)"]
+[Black "mini_yoda (by: Dane Smith)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. b3 f5 2. Ba3 e6 3. d4 Bxa3 4. Nxa3 Qe7 5. Nb1 b5 6. g3 g5 7. Qc1 Bb7 8. f3 Nc6 9. e3 Nf6 10. Bg2 e5 11. dxe5 Qxe5 12. c3 Nb4 13. Kd1 Qd6+ 14. Ke2 Qd3+ 15. Kf2 Qc2+ 16. Qxc2 Nxc2 17. g4 fxg4 18. h3 g3+ 19. Kxg3 Nxa1 20. a4 Nxb3 21. axb5 c5 22. c4 a6 23. h4 gxh4+ 24. Kxh4 axb5 25. Kg5 Ke7 26. Kh4 Ra1 27. Na3 Rxa3 28. Nh3 bxc4 29. Rb1 c3 30. Nf4 c2 31. Rf1 Kd6 32. Bh1 Ra1 33. Rc1 Rxc1 34. Kg5 Rg1+ 35. Ng2 Ke6 36. f4 Rg8+ 37. Kh4 Rxh1# 0-1

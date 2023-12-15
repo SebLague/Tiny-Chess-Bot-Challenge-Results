@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "55"]
+[White "JazzBot (by: SpoXe)"]
+[Black "NotQuiteRandomGamblerAndPruner (by: Taco Olmer)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 e6 2. g4 Qf6 3. e4 Bc5 4. Qe2 b6 5. Nc3 Ba6 6. Qf3 Bxf1 7. Kxf1 Qxf3 8. Nxf3 Be7 9. d4 Na6 10. Kg1 Bf8 11. a4 Rc8 12. Nd1 Nb8 13. Bg5 f6 14. Bc1 Nc6 15. c4 Na5 16. Ne3 Nb3 17. Rb1 Nxc1 18. Rxc1 Rb8 19. Nc2 h5 20. gxh5 Rxh5 21. b4 Kd8 22. e5 a5 23. exf6 gxf6 24. bxa5 Rxa5 25. h5 Nh6 26. d5 exd5 27. cxd5 Rxa4 28. Na1 Ra5 29. Rd1 Rba8 30. Kg2 Bd6 31. Rhf1 Nf7 32. Rg1 Ke7 33. Rge1+ Kf8 34. Kg1 Ng5 35. Nxg5 fxg5 36. Kh1 Ra3 37. Kg2 R3a4 38. Rg1 Rh4 39. Rh1 Rg4+ 40. Kh3 Raa4 41. Rc1 Rh4+ 42. Kg2 Rhf4 43. h6 Ra2 44. Rc2 Ra3 45. Rcc1 Rg4+ 46. Kf1 Kg8 47. Ke2 Re4+ 48. Kf1 Kh7 49. Kg2 Be5 50. Nc2 Ra2 51. Rce1 Rg4+ 52. Kf3 Rf4+ 53. Kg3 Bd6 54. Na1 Kg6 55. h7 Rfxf2+ 56. Kg4 Ra4+ 57. Re4 Rxe4+ 58. Kh3 Rh4# 0-1

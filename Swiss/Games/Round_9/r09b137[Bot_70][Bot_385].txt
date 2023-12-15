@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "8"]
+[White "applemethod-orz (by: RedBlackTree)"]
+[Black "3D.Opening Bot (by: Mark Grennan)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 d5 2. Bb5+ Nc6 3. c4 Nf6 4. f3 Kd7 5. Qa4 dxc4 6. Qxc4 Rb8 7. Qxf7 Kd6 8. Qc4 Na5 9. Qd4+ Nd5 10. Qxa7 Nxe3 11. dxe3 Kd5 12. Qd4+ Ke6 13. Qxd8 Ke5 14. Qxc7+ Kd5 15. Nc3+ Ke6 16. Qxb8 Kf5 17. Qxc8+ Ke5 18. Qc7+ Kf5 19. Qxa5 Ke5 20. Qd8 e6 21. f4+ Kf5 22. Qg5# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "54"]
+[White "Depth2 (by: David Montealegre)"]
+[Black "Terrible Bot (by: readerbij)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 Nh6 2. Nd5 e6 3. Ne3 Bc5 4. Nc4 Qh4 5. d4 Bxd4 6. Bxh6 gxh6 7. Nf3 Bxf2+ 8. Kd2 Qxc4 9. Ne5 Qf4+ 10. Kc3 Qxe5+ 11. Kb3 b5 12. h3 Qe4 13. a4 Qc4+ 14. Ka3 Qxa4# 0-1

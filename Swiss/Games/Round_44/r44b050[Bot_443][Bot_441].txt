@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "43"]
+[White "LunarBot (by: LunarTech)"]
+[Black "RigidBot (by: Mathias Elgaard)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. Ne5 d6 3. Nd3 Nc6 4. Nc3 d5 5. Nc5 e5 6. Nd3 d4 7. Nb5 a6 8. Na3 e4 9. Nf4 g5 10. Nh3 Qd5 11. e3 d3 12. cxd3 Bxh3 13. gxh3 exd3 14. Rg1 Bd6 15. Bg2 Ne4 16. Qg4 f5 17. Bxe4 fxe4 18. Qxg5 Ne5 19. Qh5+ Qf7 20. Qxf7+ Kxf7 21. Kd1 Nf3 22. Rg4 h5 23. Rg2 Bxh2 24. Nc4 Rag8 25. Rxg8 Rxg8 26. Ne5+ Bxe5 27. Rb1 Rg1# 0-1

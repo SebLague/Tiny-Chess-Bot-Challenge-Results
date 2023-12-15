@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "14"]
+[White "The Peaceful King (by: Sam Lefforge)"]
+[Black "Bob (Looser) (by: Flo)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d3 c5 2. Kd2 a6 3. Ke1 b6 4. Kd2 f5 5. Ke3 Nf6 6. Kf3 h5 7. Kf4 e5+ 8. Kf3 Rg8 9. Kg3 f4+ 10. Kh4 Ng4+ 11. Kh3 Nxf2# 0-1

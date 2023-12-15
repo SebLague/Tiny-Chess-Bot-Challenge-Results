@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "GM Manneken pis (by: Broguld)"]
+[Black "Bobobot (by: Lino)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 g6 2. Qd3 c6 3. Qa3 h5 4. Qc5 a5 5. Qe5 Bh6 6. Qxh8 Bd2+ 7. Nxd2 f6 8. Qxg8# 1-0

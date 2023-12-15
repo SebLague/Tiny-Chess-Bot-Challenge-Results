@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "28"]
+[White "InsufficientBot (by: Sep)"]
+[Black "Anty (by: Emanuele Sorce)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g4 e6 2. Bg2 Qf6 3. Bxb7 Bc5 4. Bxc8 Qxf2# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "11"]
+[White "MiaKBotv4.4 (by: Mia Kellett)"]
+[Black "Dried Cod (by: Josh & Laurin)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e6 2. Nf3 Qf6 3. Ne4 Qf4 4. Nc3 Bb4 5. Rb1 Nf6 6. Ra1 b6 7. Rb1 O-O 8. Ra1 Nc6 9. Rb1 Bb7 10. Ra1 Ng4 11. Rb1 Nd4 12. e3 Nxf3+ 13. gxf3 Qxf3 14. Rg1 Qxf2# 0-1

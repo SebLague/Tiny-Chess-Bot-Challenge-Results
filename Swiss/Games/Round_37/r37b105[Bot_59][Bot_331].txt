@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "36"]
+[White "Generic Chess Bot #1000000 (by: Anthony)"]
+[Black "YAMMB  (by: Dovakin7)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 e6 2. b3 Qf6 3. d4 b6 4. c3 Qf5 5. Ne5 h5 6. Qd3 Qxd3 7. exd3 d6 8. Nc4 Ba6 9. Bf4 h4 10. Nba3 f6 11. Be2 Nc6 12. Bf3 d5 13. Bxc7 Bxa3 14. Nxa3 Kd7 15. Bf4 g5 16. Be3 Bxd3 17. c4 Nge7 18. cxd5 exd5 19. Bg4+ f5 20. Bxg5 fxg4 21. Rd1 Ba6 22. h3 Rae8 23. hxg4 Nf5+ 24. Kd2 Nfxd4 25. Bf6 Rhf8 26. Bxh4 Be2 27. Rde1 Bxg4 28. Rxe8 Rxe8 29. Bf6 Re2+ 30. Kc1 Ke6 31. Bxd4 Nxd4 32. f3 Bf5 33. b4 Rxg2 34. Re1+ Kf6 35. Re8 Rxa2 36. Rf8+ Ke7 37. Rxf5 Nxf5 38. Nb5 Ne3 39. Nd4 Kf6 40. Kb1 Rf2 41. b5 Nd1 42. Nc6 Nc3+ 43. Kc1 Nxb5 44. Nb8 Rxf3 45. Kd2 Nd4 46. Kc1 Ke7 47. Kd2 a5 48. Na6 Kd6 49. Kc1 b5 50. Kd2 b4 51. Ke1 b3 52. Nc5 b2 53. Nb7+ Kc7 54. Nxa5 b1=Q+ 55. Kd2 Rd3# 0-1

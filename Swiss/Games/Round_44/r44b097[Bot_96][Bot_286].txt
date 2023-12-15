@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "43"]
+[White "Chess Bot (by: M)"]
+[Black "Headless Chicken (by: Nat)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. d4 dxe4 3. Be3 Qd6 4. Nd2 Qb4 5. Bc4 g6 6. a3 Qxb2 7. Ra2 Qc3 8. Ne2 Qa5 9. c3 Nf6 10. Nxe4 Nxe4 11. Kf1 Nd6 12. Bd3 Be6 13. Ra1 g5 14. h4 Bg7 15. hxg5 Bc4 16. Bxc4 Nxc4 17. Bf4 e5 18. dxe5 Bxe5 19. Rh4 Nc6 20. Bxe5 Nb2 21. Qb1 Nxe5 22. Qxb2 Qb6 23. Qc2 Kd8 24. f4 Nc6 25. Rd1+ Kc8 26. Rd5 Qe3 27. Nd4 Nxd4 28. cxd4 Qxa3 29. Qf5+ Kb8 30. Qb1 Qg3 31. Qe1 Qxe1+ 32. Kxe1 Re8+ 33. Re5 Rxe5+ 34. fxe5 Kc8 35. Rxh7 Kd7 36. Rxf7+ Kc6 37. Rf3 Kd5 38. e6 Re8 39. Re3 Rxe6 40. Rxe6 Kxe6 41. g6 Kf6 42. g7 Kxg7 43. g4 Kf6 44. Kf2 Kg5 45. Kg3 a6 46. Kf3 b6 47. d5 Kh4 48. Kf4 a5 49. Kf5 Kg3 50. g5 Kh4 51. g6 b5 52. g7 Kh3 53. g8=Q a4 54. Qg1 Kh4 55. d6 cxd6 56. Qh2# 1-0

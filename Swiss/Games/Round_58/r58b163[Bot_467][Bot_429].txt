@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "57"]
+[White "Basic Bot (by: G0ldSt0ne)"]
+[Black "LesMoutons (by: Beaud Rémi and Mechulam Antoine)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 c5 2. Rb1 Qb6 3. Ra1 Qb4 4. c3 Qe4 5. Qb3 Nc6 6. Rb1 Na5 7. Qb5 Nb3 8. Qxb3 c4 9. Qa4 b5 10. Qxb5 a6 11. Qg5 h6 12. Qg3 e5 13. f3 Qf5 14. e4 Qe6 15. Bxc4 d5 16. Bxd5 Qg6 17. Qxe5+ Be6 18. Bxa8 Qxg2 19. Bc6+ Kd8 20. Qb8+ Ke7 21. Qb4+ Kf6 22. e5+ Kxe5 23. f4+ Kf5 24. Be4+ Qxe4+ 25. Qxe4+ Kxe4 26. Ra1 Bxa3 27. d3+ Kxd3 28. bxa3 Bd5 29. Nf3 Bxf3 30. Rg1 g5 31. Rg3 g4 32. Bb2 Kc2 33. Rc1+ Kxb2 34. Kd2 Ne7 35. Rc2+ Kxa3 36. Kc1 Nf5 37. Rg1 Rc8 38. c4 Nd4 39. Rc3+ Kxa2 40. Kd2 Be2 41. Re1 Nf3+ 42. Kxe2 Re8+ 43. Re3 Rxe3+ 44. Kxe3 Nxe1 45. Ke2 Nf3 46. h3 Ng1+ 47. Kd1 gxh3 48. c5 h2 49. f5 h1=Q 50. f6 Kb2 51. Ke1 Qg2 52. Kd1 Qe2# 0-1

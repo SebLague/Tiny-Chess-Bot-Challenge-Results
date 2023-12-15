@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "20"]
+[White "Malina (by: Tadeam)"]
+[Black "Jbot (by: KaraokeCzar)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 f5 2. f4 d5 3. e4 fxe4 4. g4 Qd6 5. d4 exd3 6. cxd3 b5 7. b4 Qxb4+ 8. Nd2 Qxf4 9. a4 Qe5+ 10. Kf2 Qd4+ 11. Ke1 Qxa1 12. axb5 Bxg4 13. Ndf3 Qa5+ 14. Bd2 Qxb5 15. h5 e6 16. d4 Qd7 17. Nh3 Bxh5 18. Nhg5 g6 19. Ne4 dxe4 20. d5 exf3 21. dxe6 Qxe6+ 22. Kf2 Nd7 23. Bg5 Bc5+ 24. Be3 Bxe3+ 25. Kg3 Qg4+ 26. Kh2 Bf4# 0-1

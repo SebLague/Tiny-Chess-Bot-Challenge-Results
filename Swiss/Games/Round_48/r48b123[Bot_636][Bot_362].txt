@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "47"]
+[White "CarlitosDarwin (by: Mateo Marenco)"]
+[Black "nimbot (by: )"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nh6 2. a3 Ng8 3. b3 Nc6 4. Nh3 Nb8 5. e4 Nc6 6. Nc3 Nb8 7. Bc4 Nh6 8. O-O Ng8 9. Bb5 Nh6 10. Ba4 c6 11. b4 a5 12. bxa5 Qxa5 13. Qf3 d6 14. Bb3 Bxh3 15. gxh3 Kd8 16. Bxh6 gxh6 17. Bxf7 Qg5+ 18. Kh1 Qd2 19. Qe3 Qxe3 20. fxe3 Bg7 21. Rg1 Bf6 22. Rg8+ Kc7 23. Rxh8 Bxh8 24. Bg8 e5 25. d5 cxd5 26. Nxd5+ Kd8 27. Bxh7 Ra7 28. Rg1 Kd7 29. Rg8 Rxa3 30. Rxb8 Ra1+ 31. Kg2 Rc1 32. Bf5+ Kc6 33. Rc8+ Kb5 34. Bd7+ Ka5 35. Ra8# 1-0

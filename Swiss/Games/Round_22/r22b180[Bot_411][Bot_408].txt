@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "21"]
+[White "StallerBot (by: Ean)"]
+[Black "CombEaredSkink (by: Deepfriedice)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d3 e5 2. Nd2 d5 3. h4 Qf6 4. e4 Bb4 5. exd5 Ne7 6. c4 Nxd5 7. g4 Qf4 8. Be2 Bd7 9. Nh3 Ke7 10. Nxf4 Nxf4 11. Bf1 Nc6 12. h5 Nd4 13. Rh2 a6 14. Rb1 Bc6 15. Bg2 Bxg2 16. Rxg2 e4 17. Rg3 Rhd8 18. dxe4 a5 19. b3 Ra6 20. a4 Re6 21. Rb2 Re5 22. Ra2 Rxe4+ 23. Kf1 Nde2 24. Rf3 Re6 25. Qc2 Nd4 26. Qb2 Nxf3 27. Qe5 Rxe5 28. Nxf3 Rd1+ 29. Ne1 Rdxe1# 0-1

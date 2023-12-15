@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "51"]
+[White "MobiBot 4.2 (by: Michael)"]
+[Black "British Sandstorm (by: britboy3456)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 h5 2. Qf3 h4 3. Qg4 d5 4. Qf4 Qd6 5. Bb5+ Bd7 6. Qxd6 cxd6 7. Bxd7+ Kxd7 8. Nc3 e5 9. Nxd5 Nf6 10. Nxf6+ gxf6 11. Nf3 e4 12. Nd4 Rh5 13. b3 d5 14. Bb2 f5 15. Nb5 Rg5 16. Bf6 Rxg2 17. Bxh4 Bg7 18. d4 exd3 19. c3 Rg4 20. Bg3 f4 21. Bxf4 Nc6 22. Rd1 a6 23. Rxd3 axb5 24. Rxd5+ Ke6 25. Rd3 Rxa2 26. Rd6+ Ke7 27. c4 Bc3+ 28. Kd1 Nb4 29. Rf1 bxc4 30. Rb6 Rd2+ 31. Kc1 Na2+ 32. Kb1 Rb2+ 33. Ka1 Rxf2+ 34. Kb1 Rxf1+ 35. Kxa2 Ra1# 0-1

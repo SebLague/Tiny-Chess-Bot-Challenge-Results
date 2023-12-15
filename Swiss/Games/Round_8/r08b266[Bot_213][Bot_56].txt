@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "7"]
+[White "Some rules bot (by: qumquat)"]
+[Black "Phi plays Chess (a.k.a. Zobrist's Golden Hashbrowns) (by: Wolfpack 104)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c3 Na6 2. h3 e5 3. Nf3 Qf6 4. e3 Bc5 5. Rh2 Qe6 6. Ng5 Nh6 7. Nxe6 Bb4 8. cxb4 b6 9. Nxg7+ Kf8 10. b5 Nc5 11. Nh5 e4 12. d4 exd3 13. Qf3 Ba6 14. bxa6 c6 15. Qf4 Ng4 16. Qxg4 f5 17. Qd1 Nb3 18. Qxb3 h6 19. Bxd3 Ke7 20. Bxf5 Rhb8 21. Qa3+ Kd8 22. Qd3 Kc7 23. Qxd7# 1-0

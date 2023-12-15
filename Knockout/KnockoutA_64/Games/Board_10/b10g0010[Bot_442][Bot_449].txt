@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Knockout 64"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "-1"]
+[White "Tarch (by: Taras Vuk)"]
+[Black "Sardine (by: Broxholme)"]
+[Result "0-1"]
+[TimeControl "30+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 Bxc3+ 5. bxc3 b6 6. Ba3 Bb7 7. e3 d6 8. g3 Ne4 9. Rc1 Qf6 10. Bg2 Nd7 11. O-O O-O-O 12. Re1 Kb8 13. Bb4 Rhg8 14. h3 c5 15. Ba3 Qf5 16. Qc2 Ndf6 17. dxc5 bxc5 18. g4 Qg6 19. Rb1 Rd7 20. Nd2 Nxd2 21. Qxd2 Ne4 22. Qd3 f5 23. Rxb7+ Rxb7 24. f3 Ng5 25. Qxd6+ Ka8 26. Bxc5 Rc8 27. e4 fxe4 28. fxe4 Nf7 29. Qd4 e5 30. Qe3 Rb2 31. Ra1 Nd6 32. Bxd6 Qxd6 33. Rf1 Rxc4 34. Rf7 Rc7 35. Rxc7 Qxc7 36. Qd3 Qf7 37. Qd5+ Qxd5 38. exd5 Rxa2 39. c4 Rc2 40. d6+ Kb8 41. Bd5 Kc8 42. Be6+ Kd8 43. g5 e4 44. Kf1 a5 45. Ke1 e3 46. Bf5 Rc1+ 47. Ke2 a4 48. c5 a3 49. Be6 Rxc5 50. h4 Re5 51. Bf7 Kd7 52. Bg8 Kxd6 53. Bc4 Kc5 54. Ba2 Kd4 55. Bb3 Rf5 56. g6 Rf2+ 57. Ke1 hxg6 58. h5 gxh5 59. Bg8 a2 60. Bxa2 Rxa2 61. Kf1 Rc2 62. Ke1 Kd3 63. Kf1 Rf2+ 64. Kg1 Kd4 65. Kh1 e2 66. Kg1 e1=Q# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "54"]
+[White "The Red Crayon (by: Daniel L.)"]
+[Black "RandomUnoptimisedBot (by: Zhanybek)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 h6 2. e4 b5 3. Bxb5 f5 4. Qh5+ g6 5. Qxg6# 1-0

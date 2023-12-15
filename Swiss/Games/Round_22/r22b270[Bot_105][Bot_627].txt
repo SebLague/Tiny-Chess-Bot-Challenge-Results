@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "21"]
+[White "NotSoEvilBot (by: AntVil)"]
+[Black "Celluar Automaton Iterated (by: Pix)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a3 c6 2. b3 e5 3. c3 f6 4. d3 b5 5. e3 Bb7 6. f3 Ne7 7. g3 h5 8. h3 a5 9. a4 f5 10. axb5 c5 11. b4 d6 12. bxa5 Rh6 13. c4 g6 14. d4 Qc7 15. dxc5 Qxc5 16. e4 Rh7 17. exf5 Nxf5 18. f4 Bxh1 19. fxe5 Nxg3 20. exd6 Rh8 21. h4 Qf5 22. c5 Rg8 23. a6 Qxc5 24. b6 Kf7 25. a7 Nc6 26. b7 Re8+ 27. Ne2 Ne4 28. a8=Q Re6 29. b8=Q Bg7 30. Qxg8+ Kf6 31. Qxe6+ Kxe6 32. d7 Ne5 33. d8=Q Qb5 34. Qxe4 Bxe4 35. Nd2 Bc6 36. Nb1 Qb7 37. Nd2 Qb4 38. Ng1 Bb7 39. Ne2 Qc5 40. Nb1 Ng4 41. Nd2 Qb5 42. Nb1 Qb4+ 43. Nd2 Ne3 44. Ng1 Qf4 45. Ne2 Kf5 46. Nxf4 Bh6 47. Nxh5 Bh1 48. Qf6# 1-0

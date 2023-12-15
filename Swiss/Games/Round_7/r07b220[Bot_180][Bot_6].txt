@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "6"]
+[White "Sørensen's Minimax (by: Victor)"]
+[Black "Compact Scholar's mate (by: Chris)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e6 2. Qg4 Bc5 3. Qxg7 Qf6 4. Qxf6 Nxf6 5. Bb5 h5 6. d4 Bb6 7. Nc3 a5 8. Na4 Ba7 9. Bd2 c6 10. Bd3 b5 11. Nc3 d5 12. Nxb5 cxb5 13. Bxa5 Bd7 14. Bc7 Na6 15. Be5 Nb4 16. Bxf6 Rh6 17. Be5 f6 18. Bd6 Na6 19. a4 f5 20. axb5 e5 21. Rxa6 exd4 22. Be5 Rxa6 23. bxa6 dxe3 24. Nh3 exf2+ 25. Nxf2 Ba4 26. Bxf5 Bxf2+ 27. Kxf2 Rxa6 28. Rd1 h4 29. Rxd5 Rb6 30. Rd4 Bc6 31. Rxh4 Ba8 32. Rh8+ Kf7 33. Rxa8 Rb7 34. Rh8 Re7 35. Rh7+ Kf8 36. Bd6 Kg8 37. Rxe7 Kh8 38. Ra7 Kg8 39. Be6+ Kh8 40. Be5# 1-0

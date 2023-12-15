@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "7"]
+[White "Game Tech Explained Bot (by: Game Tech Explained)"]
+[Black "KBot (by: Kristian Mischke)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nc6 2. d5 Nb8 3. Nc3 e6 4. e4 exd5 5. exd5 h5 6. Be3 Qh4 7. Nb5 Kd8 8. Bxa7 Rxa7 9. Nxa7 Bb4+ 10. c3 Bc5 11. Qf3 Bxa7 12. Qxf7 Nf6 13. O-O-O Rg8 14. f3 Bxg1 15. Rxg1 Qxh2 16. Bd3 Qf4+ 17. Kb1 Qg3 18. Bg6 Qd6 19. Bxh5 Rf8 20. Qg6 Qe5 21. Rh1 Rh8 22. g4 Nxh5 23. Rde1 Qf6 24. Qxf6+ gxf6 25. c4 c5 26. Rxh5 Rxh5 27. gxh5 d6 28. Kc2 Kc7 29. Re7+ Bd7 30. h6 Nc6 31. dxc6 Kxc6 32. Rxd7 Kxd7 33. h7 b6 34. h8=Q b5 35. cxb5 f5 36. Qg7+ Ke6 37. b6 Kd5 38. b7 c4 39. b8=Q Kc5 40. Qgc7+ Kd4 41. Qbb6+ Ke5 42. Qcxd6# 1-0

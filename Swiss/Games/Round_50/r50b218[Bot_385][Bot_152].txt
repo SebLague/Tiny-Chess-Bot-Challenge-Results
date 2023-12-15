@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "49"]
+[White "3D.Opening Bot (by: Mark Grennan)"]
+[Black "Attempts to win (by: Taylor Lineman)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 h5 2. Nc3 Nc6 3. Nf3 Nf6 4. Kd2 d6 5. Ke3 e5 6. dxe5 Ng4+ 7. Kf4 dxe5+ 8. Nxe5 Nxf2 9. Qxd8+ Nxd8 10. Rg1 Bc5 11. Na4 Rh6 12. Nxc5 Nd3+ 13. exd3 Ne6+ 14. Nxe6 Rxe6 15. Nc4 Kf8 16. Bd2 g5+ 17. Kxg5 Rg6+ 18. Kxh5 Kg7 19. Be2 Bg4+ 20. Bxg4 Rh8+ 21. Bh6+ Kg8 22. Rgf1 Rgxh6+ 23. Kg5 Rg6+ 24. Kf5 Rh5+ 25. Bxh5 Rg5+ 26. Kxg5 Kg7 27. Rxf7+ Kh8 28. Re1 c5 29. Re8# 1-0

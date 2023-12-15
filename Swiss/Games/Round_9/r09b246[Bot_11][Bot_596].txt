@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "8"]
+[White "The Soggy Biscuit (by: Brandon Curington)"]
+[Black "Terrible Bot (by: readerbij)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. Bd3 g6 3. e5 Ng8 4. Bc4 Nc6 5. Bxf7+ Kxf7 6. Qf3+ Ke6 7. Qxc6+ dxc6 8. d4 Qxd4 9. Bf4 Qxf4 10. Nc3 Qxe5+ 11. Ne4 Qxe4+ 12. Kd2 Qb4+ 13. Kd3 Qxb2 14. Re1+ Qe5 15. Rxe5+ Kxe5 16. f4+ Kxf4 17. Nh3+ Bxh3 18. Kd4 Bxg2 19. Rf1+ Bxf1 20. Kc5 e5# 0-1

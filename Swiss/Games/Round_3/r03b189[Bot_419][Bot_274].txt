@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "PrincessAtta (by: Bowser Bowering and Allyn Lloyd)"]
+[Black "BoringBot (by: Carson Bates)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 f6 2. Qh5+ g6 3. g4 gxh5 4. d4 hxg4 5. e4 d5 6. e5 fxe5 7. Bb5+ c6 8. a4 cxb5 9. a5 exd4 10. a6 bxa6 11. h4 gxh3 12. b3 h5 13. c4 bxc4 14. b4 e5 15. b5 Qh4 16. Nf3 Qe4+ 17. Kd1 Qxf3+ 18. Kc2 Qd3+ 19. Kb2 Qb3# 0-1

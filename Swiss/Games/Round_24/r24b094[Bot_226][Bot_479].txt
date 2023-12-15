@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "23"]
+[White "Bob (by: Evan Leach)"]
+[Black "Timepinch (by: Artour)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e6 2. Bc4 Qh4 3. d3 Qf6 4. Ne2 Nc6 5. O-O Qe5 6. Nbc3 a6 7. Bf4 Qa5 8. a3 g5 9. b4 Nxb4 10. axb4 Qb6 11. Bxg5 Bxb4 12. Rb1 Qa5 13. h4 Bxc3 14. Nxc3 Qxc3 15. Rb3 Qg7 16. Re1 b5 17. Bd5 exd5 18. exd5+ Kf8 19. Qg4 f6 20. d6 c6 21. Qf4 h6 22. Qe4 Qf7 23. Be3 h5 24. Qf4 Rh7 25. Qg3 Rg7 26. Qf3 Qg6 27. Bg5 Rh7 28. Re2 Rf7 29. Qe3 Rg7 30. Qf3 Rh7 31. Re3 Qf7 32. Bxf6 Qxf6 33. Qe4 Kg7 34. Rg3+ Kh8 35. Re3 Qxd6 36. Rf3 Re7 37. Re3 Rxe4 38. Rxe4 Qf6 39. Re8 Bb7 40. Rxa8 Bxa8 41. g3 Qf3 42. d4 Qd1+ 43. Kg2 c5+ 44. d5 Bxd5+ 45. f3 Qxc2+ 46. Kh3 Qxb3 47. g4 Qxf3+ 48. Kh2 Qg2# 0-1

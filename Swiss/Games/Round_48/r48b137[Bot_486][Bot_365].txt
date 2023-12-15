@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "47"]
+[White "QuaviverBot (by: CantWontDo)"]
+[Black "KU_AI_BOT (by: Daniel Johnson)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c4 e6 2. Qc2 Qg5 3. b4 Qe5 4. Bb2 Qf4 5. Nf3 b5 6. cxb5 Bxb4 7. Bxg7 Ba5 8. Bxh8 Qf5 9. e4 Qg4 10. h3 Qg6 11. Qa4 Bb6 12. Ke2 Bb7 13. Nc3 Qh6 14. g4 f6 15. d3 Qf4 16. Rh2 a6 17. a3 Ra7 18. Qc4 a5 19. Na4 c6 20. Nxb6 Ra6 21. bxa6 Bxa6 22. Qd4 e5 23. Qe3 Qxe3+ 24. fxe3 d5 25. Nd2 Nd7 26. Nxd7 Kxd7 27. Nb3 Ke8 28. exd5 cxd5 29. Nxa5 Kd7 30. Nb3 Kd6 31. Kd2 Bb7 32. Rf2 Bc8 33. h4 Be6 34. d4 Ke7 35. Be2 exd4 36. exd4 Bd7 37. Bd3 h6 38. Nc5 Bc6 39. Bg6 h5 40. gxh5 Nh6 41. Rxf6 Bb5 42. Rb1 Ng4 43. Re6+ Kd8 44. Rxb5 Kc7 45. Rb7+ Kc8 46. Re8# 1-0

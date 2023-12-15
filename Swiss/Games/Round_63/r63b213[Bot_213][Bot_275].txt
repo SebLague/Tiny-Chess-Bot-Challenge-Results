@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "62"]
+[White "Some rules bot (by: qumquat)"]
+[Black "Simple Minimax (by: Sidewinder7)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. g3 e6 2. h3 b5 3. Nc3 Bb7 4. Nxb5 Bc6 5. Nc3 Bxh1 6. e3 Qg5 7. d3 Kd8 8. Nge2 c6 9. Qd2 Qh5 10. Nf4 Qf5 11. a4 e5 12. Nfe2 Qe6 13. a5 Bf3 14. Ng1 Bh5 15. Na4 Bb4 16. Qxb4 Nf6 17. Nc5 Qe8 18. Qb7 Ke7 19. Qxa8 Qd8 20. Qxa7 g5 21. Nb7 Qg8 22. Qc5+ Ke6 23. Qc4+ d5 24. Qa2 Qf8 25. Qb3 Ng4 26. hxg4 Kf6 27. gxh5 g4 28. Qa4 Qe7 29. Qxg4 Rg8 30. Qh4+ Rg5 31. Nh3 h6 32. Nxg5 hxg5 33. Qa4 Qxb7 34. Ra2 Qe7 35. Qb3 Qa7 36. Bd2 g4 37. Qb4 Qc7 38. Qxg4 Qa7 39. Qh4+ Kg7 40. Bc3 Kh7 41. Bxe5 f5 42. Qf6 Kg8 43. Qxf5 d4 44. Qg6+ Kf8 45. Qd6+ Kf7 46. b4 Nd7 47. Qxc6 Nxe5 48. Qh6 Nf3+ 49. Kd1 Ng5 50. Qxg5 Ke6 51. Qg6+ Kd7 52. Bh3+ Kd8 53. Qg5+ Ke8 54. Qg6+ Kf8 55. Qf5+ Kg7 56. Qg4+ Kh8 57. Qc8+ Kg7 58. Qg4+ Kh8 59. Qc8+ Kg7 60. Qg4+ 1/2-1/2

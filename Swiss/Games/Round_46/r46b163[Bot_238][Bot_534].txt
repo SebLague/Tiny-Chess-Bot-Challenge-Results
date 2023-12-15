@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "45"]
+[White "AUR Chessbot (by: Soul Senshi)"]
+[Black "DARKCIDER-9000 (by: Alfie Elliott )"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 Nc6 2. Nf3 Nb4 3. a3 Nc6 4. Rb1 Nf6 5. h3 a6 6. Ra1 g6 7. d3 a5 8. Bg5 h6 9. Bxf6 exf6 10. Nd5 Ne5 11. Nxe5 fxe5 12. a4 c6 13. Ne3 Bb4+ 14. c3 Bc5 15. Nc4 f6 16. d4 exd4 17. Qb1 f5 18. cxd4 Bb4+ 19. Kd1 b5 20. axb5 cxb5 21. Nd2 Bb7 22. Qd3 Qg5 23. Nf3 Qf4 24. g3 Qd6 25. Qe3+ Be4 26. Rg1 a4 27. Kc1 Qc6+ 28. Kd1 Qc2# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "23"]
+[White "Albertron (by: Vadim and Yazeed)"]
+[Black "MaterFromRadiatorSprings (by: Markus Grand Petersen)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 e6 2. d4 Qf6 3. Ng1 Nc6 4. Be3 Qf5 5. Nc3 Nb4 6. Rc1 Nf6 7. Nf3 Nfd5 8. Nxd5 exd5 9. g4 Qxg4 10. Rg1 Qe4 11. Ng5 Nxc2+ 12. Rxc2 Bb4+ 13. Rc3 Qb1 14. Qxb1 O-O 15. Qxh7# 1-0

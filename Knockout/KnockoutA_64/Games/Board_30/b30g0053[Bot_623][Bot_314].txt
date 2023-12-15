@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Knockout 64"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "-1"]
+[White "LoevBot (by: Loev06)"]
+[Black "Folke (by: Folke)"]
+[Result "1/2-1/2"]
+[TimeControl "30+0.1"]
+[Termination "Repetition"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. d4 O-O 6. Bd3 d5 7. O-O Nc6 8. a3 cxd4 9. axb4 dxc3 10. bxc3 Ng4 11. cxd5 Qxd5 12. Qc2 Qh5 13. h3 Nge5 14. Nxe5 Nxe5 15. Be2 Qg6 16. e4 b6 17. f4 Bb7 18. f5 exf5 19. Rxf5 Rae8 20. Bb5 Nc6 21. Bd3 Ne5 22. Bb5 Nc6 23. Bd3 Ne5 24. Bb5 1/2-1/2

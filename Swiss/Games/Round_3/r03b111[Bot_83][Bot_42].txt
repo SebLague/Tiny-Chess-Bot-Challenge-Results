@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "Trixie (by: ts-manuel)"]
+[Black "dumbot (by: slothinahat)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c3 g6 2. Qc2 c6 3. Na3 a6 4. Kd1 Qc7 5. Ke1 Qxh2 6. Rxh2 a5 7. Qa4 h5 8. Kd1 e6 9. Nc2 Ne7 10. Nb4 axb4 11. Qxa8 bxc3 12. Qxb8 cxd2 13. Bxd2 b6 14. Bc1 h4 15. Ke1 Kd8 16. Kd1 h3 17. gxh3 Rxh3 18. Bxh3 Bh6 19. Bxh6 Nd5 20. Bg2 f6 21. Kc1 Nc3 22. bxc3 c5 23. Kb1 e5 24. Kc1 f5 25. c4 Ke7 26. Qxc8 e4 27. Be3 Kf7 28. Qxd7+ Kg8 29. Qd8+ Kg7 30. Qxb6 Kf8 31. Qxg6 f4 32. Bxc5# 1-0

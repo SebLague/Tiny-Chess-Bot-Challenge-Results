@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "5"]
+[White "Rodders (by: Chipperphilly)"]
+[Black "ConniBot (by: connorf25)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Illegal move"]
+
+1. d3 Nf6 2. e3 c6 3. Be2 Qb6 4. a3 Qb5 5. Kf1 Qd5 6. Nh3 Qf5 7. e4 Qe5 8. Kg1 d5 9. exd5 Bxh3 10. gxh3 Qxd5 11. b3 Nbd7 12. Be3 Qe5 13. c3 Nd5 14. Bd4 Qg5+ 15. Kf1 c5 16. h4 Qxh4 17. Bf3 Nf4 18. Be3 Qh3+ 19. Kg1 Nxd3 20. Bg4 Qh4 21. Bxd7+ Kxd7 22. Qxd3+ Ke6 23. f3 Rc8 24. Nd2 Qh5 25. Re1 Kf6 26. Ne4+ Ke5 27. Ng3 1-0

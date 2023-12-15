@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "9"]
+[White "NightBot (by: Matthias Kruis)"]
+[Black "Tyrant's V9 (by: Tyrant)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 d5 2. d4 Nf6 3. e3 g6 4. Bb5+ Nbd7 5. Nf3 Bg7 6. O-O O-O 7. Bd2 c5 8. Rc1 c4 9. b3 Nb6 10. Ne5 a6 11. Ba4 Qc7 12. bxc4 Nxc4 13. Nxc4 dxc4 14. e4 b5 15. e5 Ne8 16. Re1 Qd7 17. Qe2 Qxd4 18. Nxb5 axb5 19. Bxb5 c3 20. Bg5 Qc5 21. Qc4 Qc7 22. Re3 Be6 23. Qxc3 Qxc3 24. Rxc3 Bxe5 25. Re3 f6 26. a4 Nc7 27. Bh6 Rfb8 28. c4 Nxb5 29. axb5 Bxc4 30. g3 Bd5 31. Ree1 Rxb5 32. Red1 e6 33. Be3 Rb3 34. Rc5 h5 35. Rcc1 Bf3 36. Rd7 Ra1 37. Rd8+ Kf7 38. Rxa1 Bxa1 39. Rc8 Bb2 40. h4 Rd3 41. Rc7+ Ke8 42. g4 Rd1+ 43. Kh2 Be5+ 44. Bf4 Bxf4+ 45. Kh3 hxg4# 0-1

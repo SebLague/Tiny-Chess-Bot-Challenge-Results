@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "4"]
+[White "ConniBot (by: connorf25)"]
+[Black "Just Alright... Kinda... (JAK) (by: Joshnaks)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 a5 2. Nc3 c5 3. Ne4 c4 4. Ne5 c3 5. dxc3 f5 6. Ng5 h5 7. Nef7 Qb6 8. Nxh8 h4 9. Qd3 Qc5 10. Ng6 h3 11. Qxh3 Qc4 12. Qxf5 Qxa2 13. Qxf8# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "3"]
+[White "Simple Minimax (by: Sidewinder7)"]
+[Black "The Martyr (by: Latobius)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. d4 Bh3 3. Qh5 e5 4. Qd1 Ba3 5. bxa3 Qg5 6. Bxg5 Na6 7. Nxh3 Nf6 8. Bxf6 g5 9. Bxh8 c5 10. exd5 h5 11. Bxe5 f6 12. Bxa6 Rb8 13. Bxb8 Kf7 14. Bxb7 Kg7 15. dxc5 f5 16. Bc8 f4 17. Nxg5 f3 18. gxf3 h4 19. Bg4 h3 20. Bxh3 Kg6 21. Ne6 Kf7 22. Ke2 Kg6 23. Qg1+ Kf7 24. Bd6 Ke8 25. Qg5 Kd7 26. Qd8# 1-0

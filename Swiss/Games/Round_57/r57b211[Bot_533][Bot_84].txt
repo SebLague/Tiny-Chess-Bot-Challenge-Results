@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "56"]
+[White "Stoccafisso (by: Riccardo D'Incau)"]
+[Black "tom (by: Christopher Hosken & Thomas Lower)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. e4 h5 2. Nc3 g5 3. Bd3 f5 4. Bc4 fxe4 5. Bxg8 e5 6. Bb3 d5 7. Kf1 c5 8. Ke1 b5 9. Nxb5 a5 10. Kf1 h4 11. Ke1 g4 12. Kf1 d4 13. Na3 c4 14. Ba4+ Kf7 15. Ke1 h3 16. g3 e3 17. Nb1 exd2+ 18. Kxd2 e4 19. Ke1 e3 20. fxe3 d3 21. Qd2 c3 22. Qxc3 d2+ 23. Bxd2 Bg7 24. Qc4+ Be6 25. Qe4 Nd7 26. Bc3 Bxc3+ 27. Nxc3 Nf8 28. Qb7+ Nd7 29. Kd2 Qe7 30. Nd5 Bxd5 0-1

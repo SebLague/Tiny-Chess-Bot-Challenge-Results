@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "30"]
+[White "ThinkerBot5000 (by: Bear)"]
+[Black "MyFirstChessEngine (by: Jake Forsey)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. h4 Nc6 2. g4 Nf6 3. e4 Nxe4 4. d3 Nc5 5. d4 Ne4 6. d5 Nb4 7. a3 Nxc2+ 8. Qxc2 Nf6 9. g5 Nxd5 10. Ke2 e5 11. Qe4 Nb6 12. g6 hxg6 13. f4 d5 14. Qxe5+ Qe7 15. b4 Qxe5+ 16. fxe5 Bg4+ 17. Ke3 d4+ 18. Ke4 Bf5+ 19. Kxd4 O-O-O 20. Ke3 Rd1 21. Nd2 Nd5+ 22. Kd4 Re1 23. Kxd5 Be6+ 24. Kd4 c5+ 25. bxc5 Bxc5+ 26. Kxc5 Rxe5+ 27. Kd4 Rd5+ 28. Ke4 Ra5 29. Bc4 Bf5+ 30. Kf4 g5+ 31. Ke3 Re5+ 32. Kd4 Re1 33. h5 Rd8+ 34. Kc3 Re3+ 35. Kb4 Rg3 36. Bxf7 Rd4+ 37. Kc5 Rxd2 38. Bxd2 Be4 39. Ne2 Rd3 40. Be6+ Kb8 41. Rhd1 b6+ 42. Kc4 b5+ 43. Kc5 Bf3 44. h6 Bxe2 45. hxg7 Rd8 46. Bf4+ Kb7 47. Rxd8 gxf4 48. g8=Q Bf3 49. Rd3 Ka6 50. Rxf3 b4 51. axb4+ Kb7 52. Qh7+ Ka8 53. Qg8+ Kb7 54. Qh7+ Ka8 55. Qg8+ Kb7 1/2-1/2

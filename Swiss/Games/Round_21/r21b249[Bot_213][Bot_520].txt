@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "20"]
+[White "Some rules bot (by: qumquat)"]
+[Black "SFN v 2.0 (by: SFN)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g3 Na6 2. Nf3 h6 3. a3 c5 4. h3 h5 5. e3 Rb8 6. h4 f5 7. Bh3 Qb6 8. Bxf5 Rh6 9. Nc3 Nb4 10. axb4 Qe6 11. bxc5 Qxe3+ 12. fxe3 Rg6 13. Bxg6+ Kd8 14. Rxa7 Ra8 15. Bxh5 e5 16. Nxe5 Nh6 17. Rxa8 Bxc5 18. Nd3 Ng8 19. Nxc5 Kc7 20. Qg4 Nh6 21. Qg6 Nf7 22. Qxf7 b6 23. Qxg7 Kc6 24. Rxc8+ Kd6 25. Qf6# 1-0

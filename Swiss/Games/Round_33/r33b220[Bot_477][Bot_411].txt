@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "32"]
+[White "Thrower (by: EZDragon)"]
+[Black "StallerBot (by: Ean)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 f5 2. Bb5 Nc6 3. Bxc6 bxc6 4. Nc3 f4 5. exf4 Nf6 6. Qe2 Nd5 7. Na4 h5 8. c3 Rh6 9. f5 e6 10. Qe4 Nf6 11. Qe5 Bd6 12. Qe3 Rh7 13. c4 Ng4 14. Ne2 Nxe3 15. dxe3 exf5 16. h3 Bb4+ 17. Bd2 Bxd2+ 18. Kxd2 f4 19. exf4 Ke7 20. f5 Rh8 21. h4 g5 22. hxg5 c5 23. Nxc5 Qf8 24. Nd3 c5 25. Nc3 Kf7 26. g6+ Kg8 27. f3 a5 28. Rhe1 Qxf5 29. Re8+ Kg7 30. Re7+ Kh6 31. Re5 Qxg6 32. Nf4 Qd6+ 33. Nd3 Qf8 34. Rh1 Kg6 35. f4 d6 36. Rg5+ Kf7 37. Rgxh5 Rxh5 38. Rxh5 Kg6 39. Rh7 Kxh7 40. Nd5 Be6 41. Nb6 Ra6 42. Nd5 Bxd5 43. cxd5 a4 44. g4 c4 45. Nc1 Qxf4+ 46. Kd1 Qxg4+ 47. Kc2 Qg6+ 48. Kc3 a3 49. b3 Qg1 50. Kd2 c3+ 51. Kxc3 Qxc1+ 52. Kd4 Qc2 53. b4 Ra4 54. Ke3 Rxb4 55. Kf3 Qxa2 56. Ke3 Qg2 57. Kd3 Ra4 58. Ke3 a2 59. Kd3 a1=Q 60. Ke3 Qe4+ 61. Kf2 Qae1# 0-1

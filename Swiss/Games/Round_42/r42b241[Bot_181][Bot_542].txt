@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "41"]
+[White "Greedy-Dumb-Bot (by: TrangML)"]
+[Black "Chessetor, Destroyer of Boards (by: Badoobicus)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c3 c5 2. e3 Qb6 3. Qh5 Qd6 4. Nf3 a5 5. Kd1 a4 6. Rg1 Qb6 7. e4 Qa5 8. h3 Qb6 9. Ng5 Qf6 10. f3 Qc6 11. g4 Ra7 12. Rg2 Qb6 13. d3 Nc6 14. Bd2 Qxb2 15. d4 cxd4 16. Ke1 Qxa1 17. Kd1 Qxb1+ 18. Bc1 dxc3 19. f4 Nf6 20. Nf3 Qxe4 21. Be3 Qxe3 22. f5 Qxf3+ 23. Re2 Qxf1+ 24. Re1 Qf4 25. Rf1 Qd2# 0-1

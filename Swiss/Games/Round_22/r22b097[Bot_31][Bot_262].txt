@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "21"]
+[White "CyberPawn (by: PotatosDispenser)"]
+[Black "Chessburger Bot (by: )"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. Nc3 c5 2. Nf3 Qa5 3. d4 Na6 4. e4 Nf6 5. e5 Nd5 6. Qd2 Ndb4 7. d5 h5 8. Bc4 Rh6 9. O-O Rb6 10. a3 d6 0-1

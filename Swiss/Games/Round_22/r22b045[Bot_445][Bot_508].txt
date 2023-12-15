@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "21"]
+[White "KunoVonHagenBot (by: Jakob)"]
+[Black "Plumbo (by: Luca Voros)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Nc3 Nf6 3. Bc4 Nxe4 4. Nxe4 d5 5. Qe2 Nd4 6. Bb5+ c6 7. Qd1 dxe4 8. Be2 Bf5 9. g4 Bg6 10. c3 Nxe2 11. Nxe2 e5 12. h4 h5 13. Ng3 hxg4 14. h5 Bh7 15. Qxg4 Qd3 16. Rh4 Rd8 17. a4 Rg8 18. Qg5 Qd5 19. Nf5 Qe6 20. d3 exd3 21. Ne3 Be7 22. Qg3 Bxh4 23. Qxh4 Qf6 24. Qxf6 gxf6 25. a5 d2+ 26. Bxd2 Rg1+ 27. Nf1 Bd3 28. O-O-O Bxf1 29. h6 Rd3 30. Re1 Rf3 31. Be3 Rh3 32. Bxa7 Rxh6 33. f4 Rgh1 34. fxe5 Bc4 35. Bg1 fxe5 36. Rd1 e4 37. b4 R6h3 38. Bd4 e3 39. Bxe3 Rxd1+ 40. Kxd1 Rxe3 41. Kd2 Re2+ 42. Kd1 f5 43. Kc1 f4 44. a6 bxa6 45. Kd1 f3 46. Kc1 f2 47. Kb1 f1=Q# 0-1

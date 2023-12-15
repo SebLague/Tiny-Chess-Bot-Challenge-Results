@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "16"]
+[White "Sørensen's Minimax (by: Victor)"]
+[Black "Big Carl (by: Nathaniel D)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 d5 2. Qf3 f6 3. Bb5+ c6 4. Bd3 e6 5. Nc3 a6 6. Qh5+ Ke7 7. b4 h6 8. Nf3 g5 9. Ba3 b6 10. b5+ c5 11. bxa6 Nxa6 12. Ke2 Nb8 13. Bb2 Bb7 14. Qg6 Na6 15. Bxa6 Rxa6 16. d4 c4 17. h4 gxh4 18. Rxh4 Qd6 19. a3 Ra5 20. Rhh1 Qc6 21. Nd2 Ba6 22. a4 h5 23. Ba3+ Kd7 24. Bxf8 Qc8 25. Qg7+ Ke8 26. Ba3 Qa8 27. Qf8+ Kd7 28. Qxa8 Bc8 29. Qb8 Ne7 30. Qd6+ Ke8 31. Qxe7# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "61"]
+[White "Captain Botvious (by: Selim Sheta)"]
+[Black "TBbot (by: TBMPFW)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 e5 2. dxe5 g5 3. e4 g4 4. Qxg4 h5 5. Qg3 a5 6. Nf3 f5 7. exf5 Bb4+ 8. Nc3 d6 9. Bb5+ Kf8 10. exd6 Bxf5 11. dxc7 Ne7 12. cxd8=Q+ Kf7 13. Qxh8 Ng8 14. Qgxg8+ Ke7 15. O-O Nd7 16. Qxa8 Bxc3 17. Qxc3 Nb8 18. Qxb8 a4 19. Qxb7+ Bd7 20. Qxd7+ Kf8 21. Qcc8# 1-0

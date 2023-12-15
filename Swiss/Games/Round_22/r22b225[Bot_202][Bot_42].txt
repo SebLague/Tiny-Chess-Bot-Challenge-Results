@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "21"]
+[White "Simpleton.01 (by: Bee)"]
+[Black "dumbot (by: slothinahat)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 d5 2. Qh5 d4 3. e4 c6 4. f4 b5 5. Qc5 Qc7 6. Be2 Qxf4 7. g3 Qxe4 8. Kd1 Qxh1 9. h4 Qxg1+ 10. Bf1 Qxf1# 0-1

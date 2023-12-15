@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "31"]
+[White "Shadow's Unfinished Bot (by: shadowcage72)"]
+[Black "Chemibot (by: Mike Chemi)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 a5 2. Nc3 e6 3. Bd3 Qh4 4. g4 e5 5. Nd5 Bd6 6. b3 c6 7. Nb6 Ra7 8. Nxc8 Bc5 9. Nxa7 Bxa7 10. Ba3 f6 11. Bd6 b6 12. Bc4 Nh6 13. h3 b5 14. Bd3 Nf7 15. Ba3 d5 16. Nf3 Qh6 17. Bf5 e4 18. Nd4 b4 19. Bc1 c5 20. Ne6 Bb6 21. Bb2 g6 22. Bxf6 gxf5 23. Bxh8 Qxe6 24. Bg7 Qg6 25. Bb2 h6 26. O-O fxg4 27. hxg4 h5 28. f3 exf3 29. Rxf3 Qxg4+ 30. Kh1 Qh4+ 31. Kg1 Qg5+ 32. Kh1 h4 33. Rf6 h3 34. Rxb6 Qg2# 0-1

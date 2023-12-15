@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "56"]
+[White "Metis (by: krox)"]
+[Black "QuaviverBot (by: CantWontDo)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 d6 2. Qf3 Nc6 3. Bb5 Bd7 4. Nc3 Qb8 5. d4 a6 6. Bd3 Nf6 7. Bd2 Bg4 8. Qg3 h5 9. f3 h4 10. Qf4 e5 11. dxe5 Rg8 12. exf6 Be6 13. Bh7 g5 14. Qe4 Rh8 15. Bf5 Ne5 16. Bxe6 fxe6 17. f4 gxf4 18. exf4 Kf7 19. fxe5 Rh5 20. Nf3 c5 21. Ng5+ Rxg5 22. Bxg5 d5 23. Nxd5 exd5 24. Qxd5+ Kg6 25. Qg8+ Bg7 26. Qxg7+ Kh5 27. Be3 Qg8 28. g4+ hxg3 29. hxg3# 1-0

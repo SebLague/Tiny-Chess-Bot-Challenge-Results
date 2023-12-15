@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "57"]
+[White "ChessGPT (by: DeepGoldenCrown)"]
+[Black "DD9's chess bot (by: DigestDig9)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. g3 d5 2. b3 d4 3. Nc3 Be6 4. Bh3 Bxb3 5. cxb3 dxc3 6. Kf1 Qd5 7. Bg2 Qd4 8. Bxb7 cxd2 9. Rb1 dxc1=R 10. Qxc1 e5 11. Bxa8 Bb4 12. Qxc7 Bd2 13. Kg2 Bb4 14. Kf1 Ba3 15. Ke1 Bb4+ 16. Kf1 1/2-1/2

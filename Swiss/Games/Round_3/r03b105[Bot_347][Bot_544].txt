@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "GM Manneken pis (by: Broguld)"]
+[Black "Saint Charles Bot (by: DATA USP)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 c5 2. dxc5 Qa5+ 3. c3 Qxc5 4. b4 Qc4 5. e3 Qe4 6. c4 Qe5 7. Qd4 Qf5 8. g4 Qc2 9. Na3 Qa4 10. Qc5 Na6 11. Qb5 Qxb4+ 12. Ke2 Qc3 13. Bb2 Qb4 14. Bxg7 Bxg7 15. Nc2 Qxb5 16. cxb5 Bxa1 17. bxa6 Bc3 18. Kd3 Bb2 19. Bg2 d6 20. axb7 Bxb7 21. Bxb7 Rb8 22. Bd5 Rc8 23. Bc4 Kf8 24. Nd4 Bxd4 25. Kxd4 e5+ 26. Kd5 Ke7 27. g5 f5 28. Bf1 Rc5# 0-1

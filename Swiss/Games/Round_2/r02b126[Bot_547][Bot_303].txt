@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "NotQuiteRandomGamblerAndPruner (by: Taco Olmer)"]
+[Black "Electric Shockwave Gambit (by: Valentin)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 Nf6 2. Qf3 Nc6 3. Nc3 d5 4. Bb5 a6 5. Ba4 Bg4 6. Qf4 b5 7. Nxb5 axb5 8. Bxb5 Bd7 9. Qf3 Nb4 10. Bxd7+ Qxd7 11. Qd1 Rxa2 12. Rxa2 Nxa2 13. b3 Nxc1 14. Qxc1 Qg4 15. Kf1 e6 16. Qa1 Kd7 17. h3 Qf5 18. Qa4+ Kd6 19. Qf4+ Qxf4 20. exf4 Be7 21. Rh2 Ra8 22. Nf3 Ra2 23. Ng5 Rxc2 24. Nxf7+ Kc6 25. Ng5 Kd7 26. Nf3 Ne4 27. Ke2 Bb4 28. Kd1 Rb2 29. Ne5+ Kd6 30. d3 Nc3+ 31. Kc1 Ba3 32. Nf7+ Ke7 33. Rh1 Rxf2# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "21"]
+[White "OrionChessEngine (by: Maarten Peels)"]
+[Black "Hershel (by: Nolan)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. Nc3 Nc6 3. Rb1 e6 4. Rg1 Bb4 5. a3 Bxc3 6. dxc3 O-O 7. Be3 Re8 8. Qd3 Kh8 9. Bg5 Qe7 10. Bh4 Qf8 11. Bxf6 gxf6 12. Qc4 Re7 13. Qf4 Qg7 14. Kd1 e5 15. Qe3 Qg6 16. Rc1 Kg8 17. Qd2 e4 18. Nh4 Qg5 19. Qxg5+ fxg5 20. Nf5 Re5 21. Ne3 d5 22. Ra1 Be6 23. Ke1 Re8 24. Rd1 Ne7 25. Rh1 Ng6 26. Kd2 Kg7 27. a4 Kf6 28. Ra1 Rd8 29. a5 Rd6 30. Ra2 d4 31. Ke1 dxe3 32. Ra1 exf2+ 33. Kxf2 Bf5 34. e3 Rd7 35. Bb5 Rxb5 36. Rhd1 Rxd1 37. Rxd1 Rxb2 38. Ke1 Rxc2 39. Rd4 Nh4 40. g4 Ng2+ 41. Kf1 Nxe3+ 42. Ke1 Bxg4 43. Rd3 Re2# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "8"]
+[White "WitwerMacher (by: Yannik Bleilinger)"]
+[Black "Epimetheus (by: George Bland)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 e6 2. Rb1 Qg5 3. Nf3 Qd5 4. c4 Qf5 5. b4 a5 6. bxa5 Rxa5 7. Rxb7 Bxb7 8. Rg1 Rxa3 9. Rh1 Rxf3 10. exf3 Qe5+ 11. Qe2 Qa5 12. Qe3 Qxa2 13. Qxe6+ dxe6 14. Kd1 Bc5 15. Ke1 Qc2 16. Ke2 Qxc1 17. Rg1 Bb4 18. Kd3 Qxd2# 0-1

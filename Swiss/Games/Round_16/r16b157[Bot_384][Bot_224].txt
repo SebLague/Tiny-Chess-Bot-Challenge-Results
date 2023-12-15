@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "15"]
+[White "Baloo-D (by: Dimitri)"]
+[Black "RP Bot (by: Matt Enad (RobProductions))"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Bb5 Nf6 3. Nc3 c5 4. Kf1 Ke7 5. d3 Ne8 6. Bg5+ f6 7. Be3 Kd6 8. Na4 b6 9. Qh5 Ke7 10. Nc3 Nd6 11. Nd5+ Ke6 12. Ba4 Ba6 13. Bb3 c4 14. dxc4 Bxc4+ 15. Bxc4 Nxc4 16. Bc1 Nd6 17. Qh4 Nc6 18. Bd2 Nd4 19. c3 Nc6 20. Ke2 Nc4 21. Qg4+ Kd6 22. Bc1 Kc5 23. b3 h5 24. Qf5 d6 25. bxc4 Kxc4 26. Bb2 Kb5 27. Nf3 Ka4 28. c4 Nd4+ 29. Nxd4 Qe8 30. Qf3 Ka5 31. Nf5 Qa4 32. Qc3+ Ka6 33. Qb3 Qd7 34. Kd2 Kb7 35. Nxf6 gxf6 36. Ng3 Bh6+ 37. Kc2 Qf7 38. c5 Qxb3+ 39. Kxb3 bxc5 40. Nf5 c4+ 41. Kxc4 Rac8+ 42. Kd5 Rc5+ 43. Ke6 Ka6 44. Nxh6 Rxh6 45. Bc1 Rg6 46. Kxd6 Rxc1 47. Raxc1 Rxg2 48. Rc6+ Kb5 49. Rb1+ Ka5 50. Rc3 Ka4 51. Rc7 a6 52. Rc6 Ka5 53. Rc3 Rg3 54. Rxg3 Ka4 55. Rf3 h4 56. Rbb3 a5 57. Kc5 h3 58. Kc4 f5 59. exf5 e4 60. Ra3# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "The Terminator (by: Ryan Murphy)"]
+[Black "Sweet ζ 985 (by: Sweet)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 d5 2. Nf3 d4 3. e4 dxc3 4. dxc3 Qxd1+ 5. Kxd1 a5 6. Be3 e6 7. Kc1 f5 8. e5 g5 9. Kb1 g4 10. Nd4 c5 11. Bb5+ Kf7 12. Nb3 a4 13. Nxc5 f4 14. Bd4 Ra5 15. c4 Nc6 16. Bc3 Bxc5 17. Bxc6 Ra8 18. Be4 Bxf2 19. Rf1 Be3 20. a3 Ne7 21. Ra2 Rb8 22. Ra1 b5 23. Bd3 bxc4 24. Be2 Nd5 25. Bxc4 Nxc3# 0-1

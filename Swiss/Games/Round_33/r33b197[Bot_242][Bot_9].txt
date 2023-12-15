@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "32"]
+[White "SlothBot (by: 0xFF)"]
+[Black "More Recursion! (by: Bden)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 h6 2. d4 h5 3. e4 e6 4. Bd3 Bb4+ 5. c3 Nc6 6. cxb4 Qf6 7. Bg5 Nxb4 8. Bxf6 Nxd3+ 9. Qxd3 gxf6 10. O-O Rh6 11. Na3 Rg6 12. Nb5 c6 13. Nc7+ Kd8 14. Nxa8 Rg4 15. Qa3 a6 16. Qf8# 1-0

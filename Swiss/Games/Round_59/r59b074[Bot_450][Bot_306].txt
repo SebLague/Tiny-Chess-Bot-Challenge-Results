@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "58"]
+[White "Optimus (by: Adt)"]
+[Black "czechmayte (by: dotpy/jayden van zuydam)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb4 4. d4 e6 5. a3 N4c6 6. Nf3 d6 7. Bg5 Be7 8. Bxe7 Qxe7 9. Qa4 dxe5 10. Nxe5 O-O 11. c5 Nxe5 12. dxe5 Nd7 13. c6 Nxe5 14. cxb7 Bxb7 15. Qb5 c5 16. Nc3 Rad8 17. Qa4 Qg5 18. f4 Qh4+ 19. Ke2 Nd3 20. Qxa7 Qf2+ 21. Kd1 Ne1+ 22. Nd5 Rxd5+ 23. Bd3 Rxd3+ 24. Kc1 Qc2# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "9"]
+[White "Simple Minimax (by: Sidewinder7)"]
+[Black "3D.Opening Bot (by: Mark Grennan)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. d4 dxe4 3. Qh5 Qxd4 4. g4 Qb4+ 5. Nc3 h6 6. Qd5 Bxg4 7. Nf3 Bxf3 8. Bg2 Bxg2 9. Bd2 Bxh1 10. O-O-O Bf3 11. Bf4 e6 12. Qd8# 1-0

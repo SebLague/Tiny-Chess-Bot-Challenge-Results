@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "Achilles Random (by: Achilles)"]
+[Black "SWaP (Stucked With a Piece) (by: Esprit Orgue)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 f5 2. Qh5+ g6 3. Qxh7 g5 4. Qg6# 1-0

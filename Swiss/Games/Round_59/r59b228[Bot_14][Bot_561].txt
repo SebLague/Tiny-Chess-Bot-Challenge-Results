@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "58"]
+[White "simpleval (portmonteau of simple eval) (by: hokurou)"]
+[Black "ONE MOVE TO RULE THEM ALL (by: b4ux1t3)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 c6 2. g4 a5 3. f4 d5 4. g5 e5 5. fxe5 Qe7 6. d4 Qb4+ 7. Kf2 Bh3 8. Bxh3 f6 9. e6 fxg5 10. hxg5 Qa4 11. c3 Qxd1 12. Be3 Qd2 13. Bxd2 b5 14. e3 Na6 15. b3 Be7 16. Nf3 Bf8 17. Ne5 Nb4 18. cxb4 axb4 19. Nxc6 Be7 20. Ne5 Bxg5 21. Bxb4 Bh4+ 22. Kf1 Bg3 23. Nd3 Bf2 24. Kxf2 Rb8 25. a3 Rc8 26. Ne5 Rc2+ 27. Ke1 Rc1+ 28. Kd2 Rxh1 29. Bg2 Rh2 30. Nc6 Rxg2+ 31. Kc1 Rg1+ 32. Kb2 Rg2+ 33. Kc1 Ne7 34. Na5 Rg1+ 35. Kb2 Rg2+ 36. Kc1 h5 37. Nb7 Rg1+ 38. Kb2 Rg2+ 39. Kc1 Ng6 40. Nd6+ Kd8 41. Nxb5 Rg1+ 42. Kb2 Rg2+ 43. Kc1 Ra2 44. Rxa2 Rg8 45. Ba5+ Kc8 46. Na7+ Kb7 47. Nb5 Rc8+ 48. Kd1 Re8 49. Nd6+ Ka8 50. Nxe8 Nh8 51. Nxg7 Ng6 52. Nxh5 Nf4 53. Nxf4 Kb7 54. Nxd5 Ka6 55. Be1 Kb5 56. Nc7+ Kc6 57. Na6 Kb6 58. Nb4 Ka7 59. Nc6+ Kb6 60. Nb4 Kb7 61. e7 Kc8 62. e8=Q+ Kc7 63. Na6+ Kd6 64. Qg6+ Kd5 65. Nc3# 1-0

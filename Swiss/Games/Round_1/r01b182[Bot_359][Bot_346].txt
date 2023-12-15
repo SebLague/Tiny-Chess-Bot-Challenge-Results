@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "FENcer (by: Shlynz)"]
+[Black "Butter Bot, the bot with the butter on him (by: siued)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 e6 2. Nc3 Bb4 3. Ne4 Nf6 4. Nxf6+ Qxf6 5. e3 Nc6 6. Bd3 h5 7. Ke2 d5 8. Qe1 a6 9. c3 Bc5 10. Rb1 Ke7 11. e4 dxe4 12. Bxe4 Bd6 13. d3 Bd7 14. Bg5 Qxg5 15. Nxg5 f5 16. Bf3 Ne5 17. Bxb7 Ra7 18. Bf3 Bb5 19. c4 Nxf3 20. Nxf3 Bxc4 21. dxc4 Rb7 22. Qc3 e5 23. c5 Ke8 24. cxd6 Kf8 25. dxc7 Kf7 26. c8=Q Rxc8 27. Qxc8 Rb5 28. Qxa6 e4 29. Ng5+ Ke7 30. Qxb5 Kf6 31. Qb6+ Kxg5 32. h4+ Kf4 33. Qd6+ Kg4 34. Qg3# 1-0

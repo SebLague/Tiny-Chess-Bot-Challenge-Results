@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "56"]
+[White "RP Bot (by: Matt Enad (RobProductions))"]
+[Black "HopeBot (by: Chinmay Krishna)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 e6 2. e4 Qh4 3. e5 f5 4. Ke2 Bb4 5. f3 g6 6. c4 f4 7. Qd3 Qe1# 0-1

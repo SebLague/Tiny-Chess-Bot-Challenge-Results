@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "3"]
+[White "Aggressive Fool (by: ZZKer (she/her pronouns))"]
+[Black "SimpleBot (by: Tim Zollner)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h3 e5 2. Nf3 Qf6 3. Nxe5 Qxe5 4. c3 Nf6 5. f4 Qxf4 6. d3 Qg3+ 7. Kd2 Be7 8. Na3 Qf4+ 9. Kc2 Qh4 10. e3 Bxa3 11. bxa3 d5 12. Kb3 Be6 13. Qc2 d4+ 14. c4 Nbd7 15. exd4 O-O-O 16. Ka4 b5+ 17. cxb5 Nb6+ 18. Kb4 Qe1+ 19. Qc3 Rxd4+ 20. Ka5 Ra4# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "3"]
+[White "tom (by: Christopher Hosken & Thomas Lower)"]
+[Black "nadjBot (by: Arman N)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 a5 2. h4 a4 3. c4 a3 4. bxa3 Rxa3 5. Nxa3 b5 6. cxb5 c5 7. g4 c4 8. f4 c3 9. dxc3 Qa5 10. b6 Qxa3 11. Bxa3 d5 12. exd5 Bxg4 13. Qxg4 e5 14. Qc8# 1-0

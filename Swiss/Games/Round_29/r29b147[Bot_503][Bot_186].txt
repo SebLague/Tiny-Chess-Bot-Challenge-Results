@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "28"]
+[White "Max-Max-Bot (by: Tejas)"]
+[Black "epik chess mastah (by: sten)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nc6 2. Bg5 h6 3. Bh4 g5 4. Bg3 d5 5. Nc3 Bg4 6. h3 Bh5 7. a4 Nf6 8. a5 Bg7 9. b3 O-O 10. Ra2 Re8 11. Qd2 Qd7 12. e3 Ne4 13. Nxe4 dxe4 14. Bb5 a6 15. Ba4 e6 16. Qc3 e5 17. b4 exd4 18. exd4 Bxd4 19. Qd2 Bc3 20. Bf4 gxf4 21. Nf3 Bxf3 22. O-O Qxd2 23. gxf3 exf3 24. Ra3 Bd4 25. Rxf3 Qxb4 26. Rxf4 Qxa4 27. c3 Bxf2+ 28. R4xf2 Qxa5 29. Rf3 Qg5+ 30. Kh1 Qd5 31. c4 Qxc4 32. Ra1 Qd5 33. Rf1 Re1 34. Rxe1 Qxf3+ 35. Kg1 Qg3+ 36. Kf1 Qxh3+ 37. Kf2 Qf5+ 38. Ke2 Nd4+ 39. Ke3 Nc2+ 40. Kd2 Rd8+ 41. Ke2 Re8+ 42. Kd2 Nxe1 43. Kc3 Nf3 44. Kb2 Re2+ 45. Ka1 Qf6+ 46. Kb1 Qb2# 0-1

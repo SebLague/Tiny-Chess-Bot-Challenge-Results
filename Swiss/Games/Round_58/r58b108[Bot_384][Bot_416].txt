@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "57"]
+[White "Baloo-D (by: Dimitri)"]
+[Black "ReturnOfTheQueen (by: Staicu Ciprian)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Bc4 Ne5 3. Bf1 Nc6 4. Bb5 Nd4 5. Bd3 Nf6 6. c3 Nc6 7. Qa4 e6 8. Ke2 Bd6 9. Kd1 Ng4 10. Qd4 Nxd4 11. Ke1 Ne5 12. h4 Nxd3+ 13. Kf1 Nc2 14. Na3 Nxa1 15. e5 Bxe5 16. g3 Qf6 17. Nf3 Qxf3 18. Rh2 Bxg3 19. Nb5 Bxh2 20. Nxc7+ Bxc7 21. Kg1 Qxf2+ 22. Kh1 Qf1# 0-1

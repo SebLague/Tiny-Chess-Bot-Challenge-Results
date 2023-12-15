@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "czechmayte (by: dotpy/jayden van zuydam)"]
+[Black "Celluar Automaton Iterated (by: Pix)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e6 2. d4 a6 3. Nf3 d6 4. Bf4 a5 5. e4 Nd7 6. Bc4 b6 7. O-O Ndf6 8. Qe2 Bd7 9. Rad1 Ng4 10. h3 N4f6 11. Rfe1 Rc8 12. a3 Ne7 13. d5 Nfg8 14. dxe6 Bc6 15. exf7+ Kd7 16. Ne5# 1-0

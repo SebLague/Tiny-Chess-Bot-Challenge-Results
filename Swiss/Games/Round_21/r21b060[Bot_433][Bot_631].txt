@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "20"]
+[White "PlinkBot (by: superplink)"]
+[Black "OppToss (by: Jan Stachurski)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 d5 2. d4 Nc6 3. Qd2 Nf6 4. Nc3 e6 5. Kd1 Ne4 6. Qe1 Bb4 7. a3 Bxc3 8. bxc3 g5 9. Bb2 g4 10. Nd2 e5 11. Nxe4 dxe4 12. e3 Be6 13. h3 gxh3 14. gxh3 Qg5 15. Be2 Rd8 16. f3 Rf8 17. fxe4 Qxe3 18. Qh4 exd4 19. cxd4 Nxd4 20. Bd3 Nf3 21. Bc1 Rxd3+ 22. cxd3 Bb3# 0-1

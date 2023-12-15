@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "16"]
+[White "MilkMindV1 (by: Josiah Jordan )"]
+[Black "Black Magic (by: Josh Odom)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. d4 e6 3. Bg5 Be7 4. Bxf6 Bxf6 5. Nc3 O-O 6. e4 Nc6 7. Bb5 a6 8. Bxc6 bxc6 9. Qd2 Rb8 10. b3 Bb7 11. e5 Be7 12. Ne4 d6 13. Qe3 dxe5 14. dxe5 Qd5 15. Qf4 Qb5 16. O-O-O Ba3+ 17. Kd2 Rbd8+ 18. Ke3 Bc5+ 19. Nd4 Bb6 20. Qg3 Qa5 21. a4 Qb4 22. c3 Qxb3 23. a5 Bxd4+ 24. Rxd4 Rxd4 25. Kxd4 c5+ 26. Ke3 Bxe4 27. Kxe4 Qc4+ 28. Kf3 Qxc3+ 29. Kg4 Qxa5 30. Rb1 Qa4+ 31. Qf4 Qxf4+ 32. Kxf4 f6 33. exf6 Rxf6+ 34. Ke3 Rg6 35. Rb8+ Kf7 36. Rb7 Rxg2 37. Rxc7+ Kf6 38. Rxc5 Rxh2 39. Ra5 g5 40. Rxa6 h5 41. Ra8 h4 42. Rf8+ Kg7 43. Ra8 h3 44. Ra7+ Kf6 45. Ra1 g4 46. Ra4 Rh1 47. Rxg4 h2 48. Kd2 Ra1 49. Rh4 h1=Q 50. Rxh1 Rxh1 51. Ke2 Kf5 52. Ke3 Rh3+ 53. Ke2 Kf4 54. Kf1 Kf3 55. Ke1 e5 56. Kd2 Kxf2 57. Kc1 e4 58. Kc2 Ke1 59. Kc1 Rc3+ 60. Kb1 Kd2 61. Kb2 e3 62. Ka1 Rc2 63. Kb1 e2 64. Ka1 e1=Q# 0-1

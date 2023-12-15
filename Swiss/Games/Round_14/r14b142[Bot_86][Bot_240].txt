@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "13"]
+[White "Blitztron (by: Cameron Dugan)"]
+[Black "Sir Checkmates-A-Lot (by: Felix)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 c5 2. c3 cxd4 3. Qxd4 f6 4. Qd5 Qc7 5. Kd1 Qd6 6. c4 Qb6 7. c5 Qb4 8. Bd2 Qb5 9. Nc3 Qxb2 10. Rb1 Qa3 11. Rb3 Qa5 12. Rb5 Qc7 13. Na4 e6 14. Qf3 Qd8 15. Ba5 Qe7 16. Bc7 Na6 17. Bd6 Qf7 18. Nb2 Bxd6 19. cxd6 Kf8 20. a3 Nb8 21. Rc5 Ke8 22. Rxc8# 1-0

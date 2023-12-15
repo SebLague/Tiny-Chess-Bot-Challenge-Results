@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "37"]
+[White "Bongcloud Bot (by: lurendrei)"]
+[Black "Optimus (by: Adt)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. Ke2 Nxe4 3. Nf3 d5 4. d3 Nxf2 5. Kxf2 e6 6. Nc3 Bb4 7. a3 Bxc3 8. bxc3 Qd6 9. Be3 e5 10. d4 e4 11. Ne5 Nd7 12. c4 Qf6+ 13. Kg1 Nxe5 14. dxe5 Qxe5 15. cxd5 b6 16. Qd4 Qxd4 17. Bb5+ Bd7 18. Bxd7+ Kxd7 19. Bxd4 b5 20. Bxg7 Rhg8 21. Bc3 c6 22. dxc6+ Kxc6 23. Rf1 Rad8 24. Rxf7 Rd1+ 25. Rf1 Rxf1+ 26. Kxf1 a6 27. Kf2 Kb7 28. Re1 Rc8 29. Re3 b4 30. axb4 a5 31. bxa5 Rc5 32. g4 h5 33. gxh5 Rxh5 34. h4 Rxh4 35. Kg3 Rh5 36. Rxe4 Rd5 37. Re7+ Kc6 38. Kf2 Rc5 39. Re3 Rh5 40. Ke1 Rh2 41. Kd1 Rh1+ 42. Kd2 Rh5 43. Re7 Rh2+ 44. Kc1 Kd6 45. Bb4+ Kd5 46. a6 Rh1+ 47. Kb2 Rh4 48. a7 Rxb4+ 49. Ka3 Kc4 50. a8=Q Rb6 51. Rc7+ Kd4 52. Qa7 Ke3 53. Qxb6+ Kf3 54. Re7 Kg3 55. Qf6 Kg2 56. Rg7+ Kh1 57. Qh6# 1-0

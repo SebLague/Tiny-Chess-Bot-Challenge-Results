@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "CrimesAgainstDotNet (by: Reckoner (Robyn))"]
+[Black "evilbot v2 (by: aria1400)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Qf3 g6 3. Bc4 e6 4. Ne2 Bh6 5. O-O g5 6. d4 Ke7 7. Qh3 Bg7 8. Bxg5+ f6 9. Bf4 Kf8 10. Qg3 Nge7 11. Bxc7 Qe8 12. Bd6 f5 13. exf5 Na5 14. Bd3 exf5 15. Bxf5 Qd8 16. Nbc3 Qe8 17. Nd5 b5 18. Nxe7 Bf6 19. Ng8+ Kf7 20. Nh6# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "6"]
+[White "Greedy-Dumb-Bot (by: TrangML)"]
+[Black "chaos bot (by: zer0)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c3 Na6 2. e3 d6 3. Qh5 Nb8 4. Kd1 a6 5. Nf3 Ra7 6. Ng5 e5 7. Qxf7# 1-0

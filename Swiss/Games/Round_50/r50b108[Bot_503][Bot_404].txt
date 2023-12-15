@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "49"]
+[White "Max-Max-Bot (by: Tejas)"]
+[Black "Chessi (by: Will D)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Bb5 Nf6 3. f3 a6 4. Bc4 e5 5. g4 Bc5 6. Ne2 d6 7. g5 Nh5 8. Bd5 Qxg5 9. h4 Qg2 10. Rf1 Bh3 11. Bxc6+ bxc6 12. Ng3 Qxg3+ 13. Ke2 Nf4# 0-1

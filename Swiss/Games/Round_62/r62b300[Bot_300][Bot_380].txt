@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "61"]
+[White "Bob (Looser) (by: Flo)"]
+[Black "Funko Bot (by: Sky Sherwood)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. b3 h5 2. a3 f6 3. Nc3 b6 4. Nb5 Nc6 5. b4 e6 6. Nh3 a5 7. e3 Rh7 8. e4 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "50"]
+[White "smol.cs (by: Gediminas Masaitis, Goh CJ)"]
+[Black "SemiroseBot (by: Semirose)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 d5 2. d4 Nc6 3. Bf4 Bf5 4. Nf3 Nf6 5. e3 Nh5 6. Bg3 Nxg3 7. hxg3 h6 8. Bb5 a6 9. Bxc6+ bxc6 10. Ne5 Qd6 11. Qf3 Be6 12. Nd3 g6 13. Nc5 Bc8 14. O-O-O h5 15. Qe2 Bg7 16. e4 dxe4 17. N3xe4 Qd8 18. Kb1 O-O 19. f3 e6 20. c3 Re8 21. g4 hxg4 22. fxg4 f5 23. Nf2 Qd5 24. gxf5 e5 25. f6 Bf5+ 26. Nce4 Bxf6 27. g4 Bxe4+ 28. Nxe4 Bg7 29. c4 Qd7 30. Qh2 Re7 31. Qh7+ Kf8 32. dxe5 Qe6 33. Ng5 Bxe5 34. Nxe6+ Rxe6 35. Rd7 Re7 36. Qxe7+ Kg8 37. Qf7# 1-0

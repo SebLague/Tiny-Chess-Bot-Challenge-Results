@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "4"]
+[White "RigidBot (by: Mathias Elgaard)"]
+[Black "Quantum (by: devLIPEr)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. d4 e6 3. Nf3 Nf6 4. e5 Ne4 5. Bd3 d5 6. O-O Be7 7. Bf4 O-O 8. Qe2 g5 9. Be3 Bd7 10. Nbd2 Nxd2 11. Nxd2 Nxd4 12. Bxd4 c5 13. Qh5 h6 14. Qxh6 f5 15. exf6 Rxf6 16. Bg6 Rxg6 17. Qxg6+ Kf8 18. Bg7+ Kg8 19. Bh6+ Kh8 20. Qg7# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "53"]
+[White "fuxy (by: nadavfux)"]
+[Black "simple chess bot (by: 4a0I)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 e6 2. Qd3 Bb4+ 3. Nc3 Qh4 4. Nf3 Qg4 5. Ne5 Qh4 6. a3 Be7 7. g3 Qh5 8. g4 Qh4 9. Nb5 Na6 10. Bf4 c6 11. Nc3 Nh6 12. Rg1 b5 13. Nf3 Qf6 14. Be5 Qg6 15. Qxg6 hxg6 16. Bxg7 Rh7 17. Be5 Ng8 18. Ne4 Kf8 19. Nd6 Nf6 20. g5 Ne8 21. Nxc8 Rxc8 22. e3 d6 23. Bf4 Bd8 24. a4 Nb4 25. Kd2 Rh5 26. axb5 cxb5 27. c3 e5 28. dxe5 Nd5 29. exd6 Nxf4 30. d7 Ne2 31. dxc8=Q Nxg1 32. Nxg1 Bxg5 33. Rxa7 Bh4 34. Nf3 Rd5+ 35. Bd3 Bd8 36. Ne5 Rxe5 37. Qxd8 Re6 38. Ke2 g5 39. Bxb5 g4 40. Bxe8 Rxe8 41. Qf6 Rxe3+ 42. Kxe3 Ke8 43. Qh8# 1-0

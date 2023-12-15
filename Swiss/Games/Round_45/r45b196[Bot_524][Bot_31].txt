@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "44"]
+[White "Myopia (by: danegraphics)"]
+[Black "CyberPawn (by: PotatosDispenser)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 Nc6 2. Nf3 Nf6 3. a3 e6 4. a4 Bb4 5. Nb5 d5 6. h3 O-O 7. g3 e5 8. h4 a6 9. Nc3 e4 10. Nh2 d4 11. Na2 Bc5 12. b3 Qd5 13. c4 Qe5 14. e3 dxe3 15. dxe3 Qxa1 16. Be2 Qxa2 17. Bf1 Rd8 18. Qxd8+ Nxd8 19. Be2 Bb4+ 20. Kf1 Qc2 21. c5 Qxc1+ 22. Bd1 Bh3+ 23. Kg1 Qxd1+ 24. Nf1 Qxf1+ 25. Kh2 Qg2# 0-1

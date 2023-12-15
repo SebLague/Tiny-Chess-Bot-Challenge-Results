@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "26"]
+[White "xXBotXx (by: Nova & Professor Sexy)"]
+[Black "BasicBot (by: Phnx)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. Nc3 c5 3. e4 Rg8 4. d4 Qa5 5. Bd3 c4 6. Bxc4 Nxe4 7. Be3 Nxc3 8. Qc1 Nxa2+ 9. Kd1 Nc3+ 10. bxc3 Qxc3 11. Ne5 e6 12. Ke2 Bd6 13. Kd1 Bxe5 14. dxe5 Qxc4 15. Bg5 Qd4+ 16. Ke1 Qxe5+ 17. Kd1 Qd5+ 18. Ke1 Qxg2 19. Ra5 Qxh1+ 20. Kd2 Qxc1+ 21. Kxc1 d6 22. Kb1 Kd7 23. Ka1 Kc6 24. Kb1 Kb6 25. Be3+ Kxa5 26. Bd2+ Ka4 27. Ka2 e5 28. c4 Be6 29. Kb2 Bxc4 30. Be1 Kb5 31. Ka3 Kc5 32. Ba5 Kd4 33. Kb4 b6 34. f3 Nc6+ 35. Ka3 Nxa5 36. Kb4 Be2 37. h3 Kd3 38. Kb5 Kc2+ 39. Kb4 Kb2 40. h4 Nc6+ 41. Ka4 b5# 0-1

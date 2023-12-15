@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "57"]
+[White "Valkyrie (by: Skelecat)"]
+[Black "The Grandiloquent Intelligentsia of Magnanimous Strategem: A Prodigiously Resplendent Embodiment of Erudite Chess Esotericism, Exuding Enigmatic Brilliance and Sublime Eloquence Whilst Enchantingly Tempering the Hallowed Battlefield of Intellectual Duels, Endeavoring to Transcend Acumen and Ascend to the Pantheon of Learned Peregrinations with an Efficacious Arsenal of Foresight and Sagacity, Humbling Opponents with Refined Gallantry, and Beckoning Discerning Disciples to Witness the Manifest Veracity of its Ascent to a Formidable Elo Quintessence (by: Giles Corey)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. d4 d5 3. e5 Bf5 4. g4 Be4 5. f3 Bg6 6. Bd3 e6 7. Bb5 Qh4+ 8. Kf1 O-O-O 9. Bxc6 bxc6 10. Qe2 h5 11. gxh5 Rxh5 12. c3 Kb8 13. Qa6 Ne7 14. Bd2 Rh8 15. Qa4 Bd3+ 16. Kg2 Nf5 17. Na3 Ng3 18. Qb3+ Kc8 19. hxg3 Qxh1+ 20. Kf2 Rh2+ 21. Ke3 Qg2 22. Rd1 Bf1 23. Nh3 Qxh3 24. Re1 Be7 25. Qxd5 cxd5 26. Rxf1 Qxf1 27. Kf4 g5+ 28. Ke3 Qe2# 0-1

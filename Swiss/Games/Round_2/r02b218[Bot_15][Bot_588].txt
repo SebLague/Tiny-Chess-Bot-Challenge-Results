@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "The Peaceful King (by: Sam Lefforge)"]
+[Black "Mobilibot (by: Gabriel N.)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Ke2 Qh4 3. Kf3 Qf4+ 4. Ke2 Qxe4# 0-1

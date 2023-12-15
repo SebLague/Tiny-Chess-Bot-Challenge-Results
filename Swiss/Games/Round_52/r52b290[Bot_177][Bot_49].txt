@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "51"]
+[White "en passant bot (by: julie)"]
+[Black "CheatingBot (by: wischi)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f4 Na6 2. Nc3 Rb8 3. e3 Ra8 4. b4 Rb8 5. Bd3 Ra8 6. Nb1 Rb8 7. Ne2 Ra8 8. Nec3 Rb8 9. Ba3 Ra8 10. f5 Rb8 11. Kf2 Ra8 12. Qe1 Rb8 13. Ne4 Ra8 14. h4 Rb8 15. Rh2 Ra8 16. Qh1 Rb8 17. Ng5 Ra8 18. Nxf7 Kxf7 19. Bc1 Kf6 20. Bb5 Ke5 21. Bd3 Kd5 22. Bc4+ Kxc4 23. Ba3 Kb5 24. Kf1 Ka4 25. Bc1 Kxb4 26. d3 Ka4 27. Kf2 Kb4 28. a4 Ka5 29. c4 Kb4 30. Qf1 Kb3 31. Qd1+ Kb4 32. Qh5 Kb3 33. Ke1 Kc2 34. Kf1 Kxc1 35. g3 Rb8 36. Nc3# 1-0

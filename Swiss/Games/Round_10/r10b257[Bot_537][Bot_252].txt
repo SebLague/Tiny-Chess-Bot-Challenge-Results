@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "9"]
+[White "InfuehrDaniel MCTS (by: Daniel Infuehr)"]
+[Black "#enpassant4ever (by: trueberryless)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. e3 g6 2. Qg4 e5 3. Nc3 e4 4. Qf4 Ke7 5. Nd5+ Ke6 6. Nxc7+ Qxc7 7. Qd6+ Kxd6 8. b3 Qxc2 9. Ne2 Qxc1+ 10. Rxc1 g5 11. Nc3 a6 12. Bd3 exd3 13. Ne4+ Ke5 14. Nxg5 Bd6 15. f3 Ra7 16. g3 Nh6 17. Kf2 Nf5 18. Nxf7+ Kf6 19. Rcg1 Kxf7 20. h4 Bxg3+ 21. Rxg3 Nxg3 22. h5 Nxh1+ 0-1

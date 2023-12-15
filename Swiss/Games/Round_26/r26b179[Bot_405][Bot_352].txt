@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "25"]
+[White "noobot v1 (by: Arshia)"]
+[Black "NameGoesThere's bot (by: NameGoesThere)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e5 2. Qg4 d5 3. Qh5 e4 4. Qe5+ Kd7 5. Qxd5+ Ke8 6. Bb5+ Ke7 7. Qxe4+ Kd6 8. Ne2 b6 9. Qxa8 a5 10. Qxb8 Be6 11. Qxd8+ Ke5 12. Qxf8 Nf6 13. Qxh8 g5 14. O-O h5 15. b3 h4 16. Bb2+ Kd6 17. Qf8+ Kd5 18. Bxf6 g4 19. Nbc3# 1-0

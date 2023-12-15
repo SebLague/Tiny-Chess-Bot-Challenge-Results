@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "25"]
+[White "gml16 (by: gml16)"]
+[Black "NostradamusChessNN (by: _Mus)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. Nc3 d5 3. d4 Nc6 4. Bf4 Be6 5. Rc1 h6 6. e3 g5 7. Bg3 Bg7 8. Bb5 O-O 9. Bxc6 bxc6 10. Ne5 Qe8 11. O-O Ne4 12. Nxe4 dxe4 13. c4 c5 14. Qc2 cxd4 15. exd4 f6 16. d5 Bf5 17. Nc6 Bh7 18. Bxc7 Qd7 19. Bg3 e6 20. Rcd1 Rae8 21. Qd2 h5 22. h4 g4 23. a4 Kh8 24. a5 Rg8 25. Qe3 a6 26. Rfe1 f5 27. Ne5 Qe7 28. d6 Qf6 29. Qg5 Rb8 30. Qxh5 Rgd8 31. Nf7+ Kg8 32. Nxd8 Rxd8 33. b4 Bg6 34. Qg5 Qxg5 35. hxg5 Bc3 36. Re3 Bxb4 37. d7 Be7 38. Bc7 Kg7 39. Bxd8 Bxd8 40. Rb3 f4 41. Rb8 Bxg5 42. d8=Q Bxd8 43. Rdxd8 e3 44. fxe3 fxe3 45. Rb3 e2 46. Re3 Bf5 47. c5 Kf6 48. c6 e5 49. Kf2 Be6 50. Rxe2 e4 51. Rxe4 Bf5 52. c7 Bxe4 53. c8=Q Kg5 54. Qe6 g3+ 55. Kxg3 Kh5 56. Rd6 Bh7 57. Rd5+ Bf5 58. Rxf5# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "26"]
+[White "holcak-bot (by: Petr Holčák)"]
+[Black "PracticeBot (by: liamkc)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 e6 2. h5 Qh4 3. Rxh4 Ke7 4. g4 d5 5. f4 Nf6 6. g5 Nxh5 7. Rxh5 Ke8 8. d4 g6 9. Rh4 Na6 10. a4 b6 11. e3 e5 12. dxe5 Bg7 13. Qxd5 Bxe5 14. fxe5 c6 15. Qxc6+ Kf8 16. Qxa8 h6 17. Bxa6 hxg5 18. Rxh8+ Kg7 19. Bxc8 Kxh8 20. Qxa7 f5 21. exf6 g4 22. Qg7# 1-0

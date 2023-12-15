@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "62"]
+[White "SimpleBot (by: Tim Zollner)"]
+[Black "Malina (by: Tadeam)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 h5 2. Bd3 e5 3. Nf3 g6 4. b3 f6 5. Be4 d6 6. O-O c6 7. Bxg6+ Ke7 8. Ba3 b5 9. d4 exd4 10. exd4 a5 11. Qe2+ Be6 12. Bf5 Qc8 13. Re1 Kd7 14. Qxe6+ Kc7 15. Qxc8+ Kb6 16. Qd8+ Ka6 17. Bc8+ Ka7 18. Qc7# 1-0

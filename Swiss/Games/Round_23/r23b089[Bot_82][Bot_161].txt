@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "22"]
+[White "Bruteforcer (by: SiestaGuru)"]
+[Black "bLouBot (by: cmdrsigsegv)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. e3 Nc6 2. c3 a5 3. Bb5 Na7 4. Bd3 Nc6 5. Bb5 Na7 6. Bd3 Nc6 7. Bb5 1/2-1/2

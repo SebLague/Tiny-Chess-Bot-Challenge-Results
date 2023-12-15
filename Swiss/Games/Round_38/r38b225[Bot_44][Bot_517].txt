@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "37"]
+[White "SimpleBot (by: :LMProgramming)"]
+[Black "fun  (by: nathan09)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 b5 2. Bxb5 e6 3. Qh5 Bd6 4. Nc3 Ke7 5. Qh4+ Kf8 6. Qxd8# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "55"]
+[White "CarlitosDarwin (by: Mateo Marenco)"]
+[Black "Guppy (by: Steven He)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. a3 d5 3. Nh3 g6 4. Ng1 Bg7 5. Nh3 Nc6 6. Ng1 e5 7. dxe5 Nxe5 8. Nf3 Ne4 9. Nxe5 Bxe5 10. Ra2 Qf6 11. f4 Qh4+ 12. g3 Nxg3 13. hxg3 Qxg3+ 14. Kd2 Bxf4+ 15. e3 Qxe3# 0-1

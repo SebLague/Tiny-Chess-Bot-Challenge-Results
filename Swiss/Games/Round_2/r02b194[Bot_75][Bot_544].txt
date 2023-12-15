@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "NoNameBot (by: Gamerninja)"]
+[Black "Saint Charles Bot (by: DATA USP)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a3 e6 2. b3 Qf6 3. d3 Qxa1 4. Bf4 Bxa3 5. Bxc7 Bb4+ 6. Qd2 Qxb1# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "5"]
+[White "Exceptionally mid (by: Evan Rogerson)"]
+[Black "AchillesAlpha (by: Achilles)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 c6 2. b3 e6 3. Na4 Bb4 4. a3 Bd6 5. h3 Na6 6. Nb2 Nb4 7. axb4 Bxb4 8. c3 Bd6 9. Qc2 Qh4 10. Nc4 Bg3 11. fxg3 Qxg3+ 12. Kd1 Kd8 13. Nb6 Qf2 14. Nxa8 Qxf1# 0-1

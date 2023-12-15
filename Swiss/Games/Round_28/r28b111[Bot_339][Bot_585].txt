@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "27"]
+[White "TinyNoTimeToCodeChessEngine (by: )"]
+[Black "Negative Depth (by: Zoltán Kürti)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a4 e5 2. c4 Ne7 3. Nf3 e4 4. Ng5 f5 5. e3 Nbc6 6. b4 Nxb4 7. Ba3 Nec6 8. f4 Na5 9. d3 exd3 10. Bxd3 Bd6 11. Bxf5 Nbc6 12. Bxd6 b5 13. Qh5+ g6 14. Bxg6+ hxg6 15. Qxh8# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "20"]
+[White "NinjaBot (by: Jinan Dangor)"]
+[Black "CapivaraBot (by: Danilo Luiz Rheinheimer)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 h5 2. Qf3 g5 3. Bb5 e5 4. Nc3 c5 5. Qd5 f6 6. Qe6+ Be7 7. Qd5 a5 8. a3 h4 9. Qc4 b6 10. Nh3 f5 11. Qe6 g4 12. Qg6+ Kf8 13. Qxf5+ Nf6 14. Ng5 d6 15. Qg6 Rh7 16. Nxh7+ Nxh7 17. Qxh7 d5 18. Qh8+ Kf7 19. Qxe5 d4 20. Bc4+ Ke8 21. Qh5+ Kd7 22. Qd5+ Bd6 23. Qxa8 dxc3 24. Qa7+ Qc7 25. Bb5+ Nc6 26. Bxc6+ Kxc6 27. Qa8+ Bb7 28. Qe8+ Qd7 29. Qxd7+ Kxd7 30. dxc3 Bxg2 31. Rg1 h3 32. e4 Bxh2 33. Bg5 Bxg1 34. O-O-O Ke8 35. Rxg1 b5 36. e5 c4 37. Rd1 a4 38. e6 Kf8 39. e7+ Ke8 40. Rd8+ Kf7 41. e8=Q+ Kg7 42. Qg8# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "18"]
+[White "Butter Bot, the bot with the butter on him (by: siued)"]
+[Black "DeepDumb (by: OutdoorsyEngineer)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 c5 2. e3 e5 3. Nd5 h5 4. Qf3 a6 5. Qe4 Qg5 6. Nf3 f5 7. Qxe5+ Qe7 8. Nxe7 Nxe7 9. Qxc5 Nbc6 10. b3 Ra7 11. Rg1 Ne5 12. Qxe5 Rh7 13. Ba3 b6 14. Bd3 Rh8 15. Bxe7 g6 16. Bd6+ Kd8 17. Qxh8 Rc7 18. Qxf8# 1-0

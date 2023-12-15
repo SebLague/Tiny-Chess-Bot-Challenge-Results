@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "42"]
+[White "TinyHugeBot (by: Popax21 & atpx8)"]
+[Black "NightBot (by: Matthias Kruis)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 Bb4+ 4. Nbd2 O-O 5. a3 Be7 6. e4 c5 7. e5 Ng4 8. h3 Nh6 9. dxc5 Bxc5 10. Ne4 Be7 11. Bxh6 gxh6 12. Qd2 f6 13. Qxh6 Qa5+ 14. b4 Bxb4+ 15. Ke2 Qa6 16. exf6 Qxc4+ 17. Ke3 Bc5+ 18. Kd2 Qd5+ 19. Bd3 Rf7 20. Nfg5 Qd4 21. Nxf7 Qb2+ 22. Bc2 Qd4+ 23. Ke2 Bf8 24. Qxh7+ Kxh7 25. Neg5+ Kg8 26. Bh7# 1-0

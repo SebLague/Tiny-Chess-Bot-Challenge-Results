@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "6"]
+[White "One-Line Chess (by: Kaydon Sloan)"]
+[Black "BOTvinnik (by: Paul Smooth)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. c4 d5 2. cxd5 Qxd5 3. Nc3 Qd6 4. Nf3 Be6 5. d4 Bc4 6. e4 Bxf1 7. Kxf1 e5 8. Qa4+ Nd7 9. dxe5 Qd3+ 10. Kg1 Qxc3 11. bxc3 f5 12. e6 b5 13. Qxb5 c6 14. exd7+ Kd8 15. Qb7 fxe4 16. Ne5 Ke7 17. d8=Q+ Ke6 18. Qbd7+ Kxe5 19. Qd4+ Kf5 20. Q4d7+ Ke5 21. Qd4+ Kf5 22. Q4d7+ Ke5 1/2-1/2

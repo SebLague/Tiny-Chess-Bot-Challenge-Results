@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "24"]
+[White "Toribot (by: Yujan Subedi)"]
+[Black "C++IsBetterThanC# (by: Samo)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. g3 a5 2. a4 c5 3. d4 c4 4. Bf4 d5 5. Bh3 f5 6. e3 h5 7. b3 cxb3 8. Nd2 b2 9. Rb1 Qb6 10. Qf3 e6 11. Qd1 h4 12. Bxb8 Rxb8 13. Bg2 hxg3 14. fxg3 e5 15. Bxd5 exd4 16. exd4 Qxd4 17. Bxg8 Rxg8 18. Qh5+ g6 19. Qe2+ Be7 20. Qd3 Qe5+ 21. Kf1 f4 22. Qc4 Rf8 23. g4 Bxg4 24. Qb5+ Qxb5+ 25. axb5 Bf6 26. c4 a4 27. c5 a3 28. Re1+ Be7 29. Rxe7+ Kxe7 30. h3 Bf5 31. Rh2 a2 32. Re2+ Kf6 33. Ne4+ Ke5 34. Nf3+ Kd5 35. Nf6+ Rxf6 36. Re5+ Kc4 37. Nd2+ Kxb5 38. c6+ Kxc6 39. Rc5+ Kxc5 40. Nb3+ Kd5 41. Nd2 a1=Q+ 42. Nb1 Qxb1+ 43. Ke2 Bxh3 44. Kd2 Kd4 45. Ke2 Ke4 46. Kd2 Kd4 47. Ke2 Ke4 48. Kd2 Kd4 1/2-1/2

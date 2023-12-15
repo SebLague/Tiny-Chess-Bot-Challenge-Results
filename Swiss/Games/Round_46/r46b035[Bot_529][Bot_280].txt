@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "45"]
+[White "NNBot (by: Jamie Whiting)"]
+[Black "DeltaWeakness (by: Johan Zetterlund)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. Nc3 d5 3. e3 e6 4. d4 Bb4 5. Qd3 O-O 6. a3 Bxc3+ 7. Qxc3 Ne4 8. Qb3 c5 9. Be2 Qa5+ 10. c3 b6 11. Qc2 Bd7 12. Nd2 Nxd2 13. Bxd2 c4 14. b3 cxb3 15. Qxb3 Nc6 16. O-O Rae8 17. Rfe1 a6 18. a4 Bc8 19. Qd1 Bb7 20. c4 Nb4 21. Rb1 dxc4 22. Bxb4 Qg5 23. Bf3 Bxf3 24. Qxf3 h6 25. Bxf8 Kxf8 26. Qc6 e5 27. Qxb6 Kg8 28. Qxa6 exd4 29. exd4 Rxe1+ 30. Rxe1 Qd5 31. Qc8+ Kh7 32. Re5 Qd6 33. Qf5+ Qg6 34. a5 c3 35. Qxg6+ Kxg6 36. Rc5 Kf6 37. a6 h5 38. a7 g6 39. a8=Q Kg7 40. Rxc3 g5 41. Qd5 g4 42. Rc7 Kh6 43. Qxf7 h4 44. Qg7+ Kh5 45. Rc5# 1-0

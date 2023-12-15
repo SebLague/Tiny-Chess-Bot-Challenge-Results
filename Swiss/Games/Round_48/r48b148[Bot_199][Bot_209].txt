@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "47"]
+[White "BlueBat (by: Peter)"]
+[Black "SimpleMCTS (by: GinoPerrotta)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 Nc6 2. Nf3 Nf6 3. d4 e6 4. Bg5 Bb4 5. a3 h6 6. axb4 hxg5 7. b5 g4 8. bxc6 gxf3 9. cxb7 Bxb7 10. exf3 Bc6 11. Bd3 Qb8 12. Ra6 Qxb2 13. Ne2 Bd5 14. O-O Qb4 15. Nf4 Qxd4 16. Ne2 Qe5 17. f4 Qh5 18. f3 c6 19. h3 g5 20. c4 gxf4 21. Nxf4 Qe5 22. cxd5 Qe3+ 23. Kh1 Qxf4 24. dxc6 d6 25. c7 O-O 26. Ra4 Qg5 27. Qc1 Qg7 28. Qc6 Qg3 29. Ba6 Rfc8 30. Bxc8 Rxc8 31. Qb7 Rf8 32. c8=Q Rxc8 33. Qxc8+ Kg7 34. Rxa7 Kg6 35. Qf8 d5 36. Rxf7 Qe5 37. f4 Qf5 38. Kg1 e5 39. g4 Qxg4+ 40. hxg4 Ne8 41. Qg8+ Ng7 42. Rb7 d4 43. Kf2 Kf6 44. Re1 Nh5 45. Qf7# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "58"]
+[White "MyFirstChessEngine (by: Jake Forsey)"]
+[Black "Goldibot (by: Ben)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 c5 2. Nd5 e5 3. Nf3 e4 4. Ng5 Qxg5 5. Nc7+ Ke7 6. Nxa8 Qf4 7. d3 Qf5 8. dxe4 Qxe4 9. Bg5+ f6 10. Be3 Qb4+ 11. Qd2 d6 12. Qxb4 cxb4 13. Bxa7 Nc6 14. Be3 Ne5 15. Nc7 Kd7 16. Nd5 f5 17. Nb6+ Kc7 18. Bd4 Ng4 19. f3 Nxh2 20. Rxh2 Be6 21. O-O-O Bxa2 22. Rh5 f4 23. Nd5+ Bxd5 24. Rxd5 Kc6 25. Rxd6+ Bxd6 26. Bxg7 Kc5 27. Bd4+ Kc6 28. Bxh8 Bc5 29. Be5 Be3+ 30. Kb1 Bf2 31. Rd6+ Kc5 32. Rd7 Be1 33. Rxb7 Bd2 34. Rxh7 Be1 35. Rb7 Bd2 36. Ka1 Be1 37. Ka2 Bf2 38. Kb1 Be1 39. Ka1 Bf2 40. Ka2 Be1 41. Kb3 Bd2 42. Ka4 Be1 43. Rb5+ Kc6 44. Ra5 Bf2 45. Ra6+ Kb7 46. Rd6 Be1 47. Bxf4 Kc8 48. Rb6 Bf2 49. Rb8+ Kd7 50. Bg5 Be1 51. Rd8+ Kc7 52. Rxg8 Kc6 53. Rb8 Bg3 54. Rxb4 Be1 55. Rc4+ Kb7 56. Bf4 Bf2 57. Ka5 Be1+ 58. Kb5 Bf2 59. Rc7+ Ka8 60. Ka6 Kb8 61. Rc3+ Ka8 62. Rc8# 1-0

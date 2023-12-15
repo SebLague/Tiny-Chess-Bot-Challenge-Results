@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "20"]
+[White "quick and dirty (by: Rafael)"]
+[Black "evilRatBot (by: Only_Mayonnaise)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 d6 2. e3 e6 3. Bb5+ Nd7 4. Qf3 b6 5. Qxa8 Bb7 6. Qxb7 g6 7. Qxa7 Bg7 8. Bc6 Bxc3 9. dxc3 Ne7 10. Qa4 Nxc6 11. Qxc6 Kf8 12. Rb1 Qf6 13. Qxd7 Qxf2+ 14. Kxf2 h5 15. Qd8+ Kg7 16. Qxc7 Kh7 17. Qxf7+ Kh6 18. Ke1 Rb8 19. Qxe6 Rg8 20. Qxg8 h4 21. Kd1 h3 22. Nxh3 b5 23. Qh8# 1-0

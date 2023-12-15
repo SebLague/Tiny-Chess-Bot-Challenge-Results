@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "35"]
+[White "BitBlunderer (by: Till Zemann (GitHub: https://github.com/till2 :D))"]
+[Black "noobot v1 (by: Arshia)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 f6 2. Nc3 c6 3. e3 Qa5 4. Bc4 d5 5. b4 Qxb4 6. Bd3 Bg4 7. h3 Bxf3 8. Qxf3 Nd7 9. Rb1 Qd6 10. Qh5+ g6 11. Bxg6+ Kd8 12. Bf5 e6 13. Bd3 d4 14. Ne4 Qd5 15. Qxh7 Rxh7 16. Nxf6 Ndxf6 17. Bxh7 Qxg2 18. exd4 Qxh1+ 19. Ke2 Nxh7 20. Rxb7 Qxh3 21. c4 Ng5 22. f4 Ne4 23. Kd1 Qf1+ 24. Kc2 Qxc4+ 25. Kb1 Qd3+ 26. Ka1 Kc8 27. Rh7 Nxd2 28. Bxd2 Qxh7 29. Be3 Rb8 30. Bc1 Qb7 31. Bb2 Kc7 32. Kb1 Qxb2# 0-1

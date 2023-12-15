@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "51"]
+[White "Running Bot (by: Chris Pontius)"]
+[Black "Culke (by: Colin Schepers)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. c3 e5 2. d4 f6 3. e4 exd4 4. cxd4 d5 5. Qh5+ g6 6. Qxd5 Qxd5 7. exd5 c6 8. Nc3 Bb4 9. Bf4 cxd5 10. Bxb8 Rxb8 11. Bb5+ Bd7 12. O-O-O Bxb5 13. Nxb5 Rc8+ 14. Kb1 a6 15. a3 Bf8 16. Nc3 Bxa3 17. Nxd5 Bd6 18. Nf3 Kf7 19. Rhf1 h5 20. h4 Ne7 21. Nc3 Nf5 22. Nd5 Ne7 23. Nc3 Nf5 24. Nd5 Ne7 1/2-1/2

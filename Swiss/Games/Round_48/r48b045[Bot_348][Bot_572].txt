@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "47"]
+[White "SimplerBot (by: Rick Schaffer)"]
+[Black "Vast V2 (by: Joseph Pasfield)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 d5 2. Nh3 e5 3. d4 exd4 4. Qxd4 Nf6 5. Bg5 Be7 6. O-O-O Nc6 7. Qa4 d4 8. e3 h6 9. Bf4 Bxh3 10. gxh3 Bd6 11. Rxd4 O-O 12. Rd2 a6 13. Bxd6 cxd6 14. Qa3 Qe7 15. Qxd6 Qxd6 16. Rxd6 Rfd8 17. Rxd8+ Rxd8 18. Bg2 Na5 19. b4 Nc6 20. a3 Rc8 21. Kb2 Rd8 22. Bxc6 bxc6 23. Re1 Nh7 24. f4 Rd2 25. Re2 Rxe2 26. Nxe2 Nf6 27. Nd4 Nd5 28. Nf5 Kf8 29. c4 g6 30. cxd5 gxf5 31. dxc6 Ke7 32. a4 Kd6 33. b5 axb5 34. axb5 h5 35. Kc3 Kc7 36. Kc4 Kd6 37. Kb4 f6 38. Ka5 h4 39. Kb6 Kd5 40. c7 Ke4 41. c8=Q Kxe3 42. Qxf5 Kf2 43. Kc7 Kg2 44. b6 Kf3 45. b7 Ke3 46. b8=Q Kf3 47. Qxf6 Ke2 48. Qbb2+ Kf1 49. Qxh4 Kg1 50. Qe1# 1-0

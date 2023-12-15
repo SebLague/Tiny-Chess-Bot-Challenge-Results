@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "7"]
+[White "TimsBot (by: Thomas Dvorak)"]
+[Black "GenerousBoi (by: Uls)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. h4 Na6 2. g4 f6 3. f4 h5 4. e4 Rh7 5. d4 c5 6. c4 Qc7 7. b4 g6 8. a4 Nb8 9. g5 Kf7 10. f5 Qg3+ 11. Ke2 e5 12. fxe6+ dxe6 13. gxf6 Rg7 14. d5 Qc7 15. d6 Ke8 16. d7+ Qxd7 17. b5 Nxf6 18. b6 axb6 19. e5 Kd8 20. a5 Ke7 21. a6 Ra7 22. Nh3 Ra8 23. a7 Qxd1+ 24. Ke3 Ng4+ 25. Kf4 Rf7+ 26. Ke4 1-0

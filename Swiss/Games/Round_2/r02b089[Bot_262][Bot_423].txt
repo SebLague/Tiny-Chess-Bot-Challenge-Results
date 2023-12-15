@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "Chessburger Bot (by: )"]
+[Black "NightBot (by: Matthias Kruis)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c4 Nc6 2. Qa4 Nf6 3. d3 e5 4. Nc3 Bc5 5. Nh3 O-O 6. Bg5 d6 7. Nd5 Bg4 8. Rd1 Nd4 9. Qa5 Nc2+ 10. Kd2 Bb6 11. Qa4 Nd4 12. Nxf6+ gxf6 13. Bh6 Re8 14. f3 Bd7 15. Qa3 Nf5 16. c5 Bxc5 17. Qb3 Nxh6 18. Qxb7 Rb8 19. Qa6 Rxb2+ 20. Kc1 Qb8 21. d4 Rb1+ 22. Kd2 Qb4+ 23. Kd3 Rxd1+ 24. Kc2 Rd2+ 25. Kc1 Qb2# 0-1

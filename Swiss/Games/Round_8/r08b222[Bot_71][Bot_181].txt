@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "7"]
+[White "BC the simpel (by: Beamcrafter)"]
+[Black "Greedy-Dumb-Bot (by: TrangML)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f4 Nf6 2. b4 c5 3. bxc5 Qa5 4. Nc3 Qa3 5. Bxa3 e5 6. fxe5 Bxc5 7. Bxc5 a5 8. a3 b6 9. Bxb6 g6 10. exf6 h6 11. Bc7 Bb7 12. a4 g5 13. h3 Bc8 14. Rc1 Bb7 15. d3 Bc8 16. g3 Bb7 17. Kf2 Bxh1 18. Nb5 Bb7 19. Nd6+ Kf8 20. Nxb7 Ke8 21. Nd6+ Kf8 22. Ne4 Ke8 23. Nd6+ Kf8 24. Bd8 Rg8 25. Be7# 1-0

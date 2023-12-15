@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "46"]
+[White "letmeout (by: randomtestfive)"]
+[Black "AchillesAlpha (by: Achilles)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. d4 Nxe4 3. Qh5 Nxf2 4. Kxf2 g6 5. Qe5 f6 6. Qd5 e6 7. Qb5 Bh6 8. Bxh6 c6 9. Qc5 Na6 10. Bxa6 bxa6 11. Nf3 Bb7 12. Nc3 Qc8 13. Ne4 f5 14. Nc3 Rg8 15. Ne5 d6 16. Qxd6 Rh8 17. Bg5 h6 18. Qe7# 1-0

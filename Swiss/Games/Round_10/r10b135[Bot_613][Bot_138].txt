@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "9"]
+[White "Peeter 1 (by: Gouuu)"]
+[Black "Flaeskesteg (by: Jechto)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e6 2. b3 Nc6 3. h4 Nf6 4. d4 Ne4 5. f4 Ng3 6. Rh2 Bb4+ 7. Kf2 Nxf1 8. Qxf1 O-O 9. g4 Na5 10. a3 Bd6 11. e4 Qe8 12. b4 Nc6 13. d5 exd5 14. exd5 Nd4 15. Qd3 c5 16. bxc5 Bxc5 17. Be3 Nxc2 18. Qxc2 Qxe3+ 19. Kf1 Qxg1+ 20. Ke2 Re8+ 21. Kf3 Re3# 0-1

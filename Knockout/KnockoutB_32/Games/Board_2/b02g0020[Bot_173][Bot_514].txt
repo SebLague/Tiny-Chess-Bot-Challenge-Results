@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Knockout 32"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "TunaTactician (by: Ben)"]
+[Black "smol.cs (by: Gediminas Masaitis, Goh CJ)"]
+[Result "0-1"]
+[TimeControl "30+0.1"]
+[Termination "Checkmate"]
+
+1. c4 e5 2. Nc3 Nf6 3. g3 Bb4 4. Bg2 O-O 5. Nf3 Re8 6. O-O Nc6 7. d3 d6 8. Nd5 Nxd5 9. cxd5 Nd4 10. Nxd4 exd4 11. e4 dxe3 12. Bxe3 Bf5 13. d4 Ba5 14. Rc1 Qf6 15. b4 Bb6 16. a4 a5 17. b5 Qg6 18. Re1 Be4 19. Bxe4 Qxe4 20. Qh5 g6 21. Qg5 Qf3 22. Rcd1 Re4 23. h3 Rae8 24. Rf1 f6 25. Qh6 Qf5 26. Rd2 Qxd5 27. Rfd1 Qb3 28. h4 Rxe3 29. fxe3 Rxe3 30. Qf4 Rf3 31. Qe4 Rxg3+ 32. Kf2 Rh3 33. Qe8+ Kg7 34. Qe7+ Kh6 35. Qxf6 Bxd4+ 36. Kg2 Qg3+ 37. Kf1 Rh1+ 38. Ke2 Qe3# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "12"]
+[White "WitwerMacher (by: Yannik Bleilinger)"]
+[Black "broken bot (by: Raj Gaurav)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 h5 2. c3 g5 3. Rb1 f5 4. Qa4 e5 5. Qb5 c5 6. Qa4 b5 7. Qxb5 a5 8. Qd3 d5 9. c4 dxc4 10. Qxc4 h4 11. Nf3 g4 12. Nxe5 f4 13. Qf7# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "58"]
+[White "jmcgbot (by: jmcg)"]
+[Black "WitwerMacher (by: Yannik Bleilinger)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e6 2. g4 Qh4 3. d4 Nf6 4. c4 Nxe4 5. Be3 Bb4+ 6. Nc3 Nxc3 7. bxc3 Bxc3+ 8. Ke2 Bxa1 9. Qxa1 Qxg4+ 10. f3 Qg6 11. a4 Qc2+ 12. Ke1 O-O 13. h4 Kh8 14. c5 Qb3 15. Bg5 Na6 16. a5 Nb4 17. Qc1 Qa2 18. Be7 Qxa5 19. Ne2 Nd3+ 20. Kd1 Qe1+ 21. Kc2 Nxc1 22. Nxc1 Re8 23. Bg5 Qf2+ 24. Kb1 Qxf3 25. Rg1 Qe4+ 26. Nd3 Qxd4 27. Rg3 f6 28. Bf4 e5 29. Bd2 Qxh4 30. Rf3 Qa4 31. Nf2 b6 32. cxb6 axb6 33. Rb3 Qxb3+ 34. Kc1 Ra1# 0-1

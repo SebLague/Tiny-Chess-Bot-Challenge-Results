@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "28"]
+[White "Quinn (by: Pierre Girardeau)"]
+[Black "bLouBot (by: cmdrsigsegv)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 c5 2. e3 Nc6 3. Qh5 Nb4 4. Bd3 Nxd3+ 5. cxd3 Qc7 6. Ne4 Nf6 7. Qxc5 Qxc5 8. Nxc5 d6 9. Ne4 Bf5 10. Nxf6+ gxf6 11. e4 Be6 12. b3 d5 13. Bb2 Rd8 14. Rc1 h5 15. Nf3 Bg4 16. Rc5 dxe4 17. dxe4 e5 18. Rd5 Bxf3 19. gxf3 Rxd5 20. exd5 Bd6 21. Ke2 h4 22. Rc1 Kd8 23. Kd3 h3 24. f4 Re8 25. Rc4 e4+ 26. Rxe4 Rxe4 27. Kxe4 Ke7 28. Kf5 Bc5 29. Bxf6+ Kd6 30. d4 Bb4 31. Ke4 b5 32. Be5+ Kd7 33. f5 Bd6 34. Bxd6 Kxd6 35. f6 b4 36. f3 a5 37. f4 Kd7 38. Ke5 Ke8 39. Kd6 Kf8 40. Kd7 Kg8 41. Ke7 a4 42. d6 axb3 43. axb3 Kh8 44. d7 Kh7 45. Kxf7 Kh8 46. Kg6 Kg8 47. d8=Q# 1-0

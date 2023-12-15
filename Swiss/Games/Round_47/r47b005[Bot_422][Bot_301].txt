@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "46"]
+[White "FloppyChess 4.2 (by: Omsk)"]
+[Black "Grogros (by: Grobert)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nf3 Bd6 3. c3 Nc6 4. d4 Nf6 5. Bd3 O-O 6. O-O Re8 7. Re1 a5 8. Nbd2 h6 9. Nc4 a4 10. h3 Qe7 11. d5 Nd8 12. Nh4 g6 13. Nxd6 Qxd6 14. Bxh6 a3 15. b3 c6 16. c4 b6 17. Qd2 cxd5 18. Nf5 Qb8 19. Ng7 Rf8 20. exd5 d6 21. Qg5 Nh7 22. Qh4 Nb7 23. Nh5 Re8 24. Nf6+ Nxf6 25. Qxf6 Nc5 26. Qg7# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "10"]
+[White "Blindo (by: MS)"]
+[Black "the (not so) wise bot of (not so great) insight (by: TheUnknown1050)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. Bb5 Nxe4 3. Bd3 Nc5 4. b4 Ne6 5. Bf5 Nd4 6. Bb2 Nxf5 7. g4 Nh6 8. Be5 Nc6 9. Bf4 Nxb4 10. Bxh6 gxh6 11. Qf3 Nxc2+ 12. Kd1 Nxa1 13. Qc3 Rg8 14. Qxa1 Rxg4 15. f3 Bg7 16. fxg4 Bxa1 17. d3 d5 18. h4 Bxg4+ 19. Ke1 Bd4 20. a4 Rc8 21. a5 Qd6 22. Nd2 Qg3+ 23. Kf1 Qf2# 0-1

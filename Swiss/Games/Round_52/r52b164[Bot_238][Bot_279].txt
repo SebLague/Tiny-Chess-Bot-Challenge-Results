@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "51"]
+[White "AUR Chessbot (by: Soul Senshi)"]
+[Black "CosmoDMBot (by: CosmoDM)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 Na6 2. Nd5 Nf6 3. Nxf6+ gxf6 4. Nf3 h6 5. d4 h5 6. Rb1 b6 7. e3 Nb4 8. a3 Nc6 9. Bb5 Nb8 10. Kf1 Bb7 11. Be2 Ba6 12. Bxa6 Nxa6 13. Qd3 Qc8 14. Ke1 Nb8 15. Qe4 c6 16. Qh4 f5 17. Qh3 e6 18. Qg3 f6 19. Kd1 Ke7 20. Bd2 d6 21. Bb4 Kd8 22. Qg6 Be7 23. Qg7 Kd7 24. Kc1 Rd8 25. Qg6 a5 26. Be1 Rg8 27. Qh6 Rxg2 28. Qxh5 Rg7 29. b4 axb4 30. Rxb4 Ra6 31. Kb1 b5 32. Ka2 Ra5 33. Rb1 Ra7 34. Kb2 c5 35. Qh6 Rf7 36. Qh5 Rf8 37. d5 Qa6 38. Ra1 exd5 39. Qxf5+ Kc6 40. e4 Rh8 41. Qxd5+ Kc7 42. Kb1 Rh3 43. Qf5 Rh6 44. Bd2 b4 45. Bxh6 bxa3 46. Re1 Qb5+ 47. Ka2 Qb2# 0-1

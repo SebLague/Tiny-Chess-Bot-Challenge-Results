@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "Black Magic (by: Josh Odom)"]
+[Black "MinimaxAttackerBot5000 (by: ChrisCat123)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 Na6 2. e4 Nb4 3. Be2 Rb8 4. Nf3 Ra8 5. O-O Rb8 6. b3 Ra8 7. e5 Rb8 8. Ba3 Nc6 9. Bb2 Ra8 10. d4 Rb8 11. d5 Nb4 12. Qd4 Nxc2 13. Qxa7 Nxa1 14. Rxa1 Nf6 15. exf6 Ra8 16. fxg7 Bxg7 17. Qxa8 Kf8 18. Nd1 Kg8 19. Bxg7 Kxg7 20. Ne3 Kf6 21. Qa4 Kg6 22. Qg4+ Kh6 23. Nf5# 1-0

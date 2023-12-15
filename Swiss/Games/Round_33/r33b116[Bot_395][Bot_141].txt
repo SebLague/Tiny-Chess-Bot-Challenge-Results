@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "32"]
+[White "MattWBot (by: Matt W)"]
+[Black "Shielded Minibot (by: Sesen)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. d5 e6 3. e3 Nxd5 4. Bd2 Qf6 5. Nc3 Qe5 6. Rc1 Qf5 7. Nb5 Qe5 8. Bc4 Qxb2 9. Qe2 a6 10. Nd4 Qa3 11. g4 Nc3 12. Qd3 Nxa2 13. Bxa2 Qxa2 14. Rd1 Qd5 15. e4 Qe5 16. h3 Bc5 17. Ngf3 Qd6 18. e5 Qb6 19. O-O Bxd4 20. Nxd4 Qc5 21. Rfe1 Nc6 22. c3 Qd5 23. Qg3 Nxd4 24. cxd4 Qxd4 25. Bh6 Qb4 26. Bxg7 Rg8 27. Bf6 Rg6 28. Kg2 Kf8 29. g5 Qc4 30. Qa3+ Kg8 31. Rd3 h6 32. Rf3 hxg5 33. Qe7 Rxf6 34. Qxf6 Qc2 35. Qxf7+ Kh8 36. Rf6 Qc6+ 37. Kg1 Qc2 38. Rh6+ Qh7 39. Rxh7# 1-0

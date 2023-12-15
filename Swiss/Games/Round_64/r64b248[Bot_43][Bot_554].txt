@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "63"]
+[White "UncatchableSpaghettiMonster (by: drlundberg)"]
+[Black "The Fisher (by: Unodus)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c3 e6 2. f4 Qh4+ 3. g3 Be7 4. gxh4 Bxh4# 0-1

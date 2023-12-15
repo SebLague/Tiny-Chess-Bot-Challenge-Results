@@ -1,0 +1,246 @@
+{
+  "Players": [
+    {
+      "BotID": "Bot_623",
+      "BotName": "LoevBot",
+      "AuthorName": "Loev06",
+      "IsPlaying": false,
+      "Score": 14,
+      "GameHistory": [
+        {
+          "WhitePlayerID": "Bot_314",
+          "BlackPlayerID": "Bot_623",
+          "GameResult": 3,
+          "GameResultString": "BlackIsMated",
+          "RoundNumber": 1
+        },
+        {
+          "WhitePlayerID": "Bot_623",
+          "BlackPlayerID": "Bot_314",
+          "GameResult": 2,
+          "GameResultString": "WhiteIsMated",
+          "RoundNumber": 1
+        },
+        {
+          "WhitePlayerID": "Bot_314",
+          "BlackPlayerID": "Bot_623",
+          "GameResult": 3,
+          "GameResultString": "BlackIsMated",
+          "RoundNumber": 1
+        },
+        {
+          "WhitePlayerID": "Bot_623",
+          "BlackPlayerID": "Bot_314",
+          "GameResult": 3,
+          "GameResultString": "BlackIsMated",
+          "RoundNumber": 1
+        },
+        {
+          "WhitePlayerID": "Bot_314",
+          "BlackPlayerID": "Bot_623",
+          "GameResult": 6,
+          "GameResultString": "FiftyMoveRule",
+          "RoundNumber": 1
+        },
+        {
+          "WhitePlayerID": "Bot_623",
+          "BlackPlayerID": "Bot_314",
+          "GameResult": 5,
+          "GameResultString": "Repetition",
+          "RoundNumber": 1
+        },
+        {
+          "WhitePlayerID": "Bot_623",
+          "BlackPlayerID": "Bot_314",
+          "GameResult": 5,
+          "GameResultString": "Repetition",
+          "RoundNumber": 1
+        },
+        {
+          "WhitePlayerID": "Bot_314",
+          "BlackPlayerID": "Bot_623",
+          "GameResult": 2,
+          "GameResultString": "WhiteIsMated",
+          "RoundNumber": 1
+        },
+        {
+          "WhitePlayerID": "Bot_623",
+          "BlackPlayerID": "Bot_314",
+          "GameResult": 2,
+          "GameResultString": "WhiteIsMated",
+          "RoundNumber": 1
+        },
+        {
+          "WhitePlayerID": "Bot_314",
+          "BlackPlayerID": "Bot_623",
+          "GameResult": 5,
+          "GameResultString": "Repetition",
+          "RoundNumber": 1
+        },
+        {
+          "WhitePlayerID": "Bot_623",
+          "BlackPlayerID": "Bot_314",
+          "GameResult": 3,
+          "GameResultString": "BlackIsMated",
+          "RoundNumber": 1
+        },
+        {
+          "WhitePlayerID": "Bot_314",
+          "BlackPlayerID": "Bot_623",
+          "GameResult": 7,
+          "GameResultString": "InsufficientMaterial",
+          "RoundNumber": 1
+        },
+        {
+          "WhitePlayerID": "Bot_314",
+          "BlackPlayerID": "Bot_623",
+          "GameResult": 5,
+          "GameResultString": "Repetition",
+          "RoundNumber": 1
+        },
+        {
+          "WhitePlayerID": "Bot_623",
+          "BlackPlayerID": "Bot_314",
+          "GameResult": 2,
+          "GameResultString": "WhiteIsMated",
+          "RoundNumber": 1
+        },
+        {
+          "WhitePlayerID": "Bot_623",
+          "BlackPlayerID": "Bot_314",
+          "GameResult": 5,
+          "GameResultString": "Repetition",
+          "RoundNumber": 1
+        },
+        {
+          "WhitePlayerID": "Bot_314",
+          "BlackPlayerID": "Bot_623",
+          "GameResult": 5,
+          "GameResultString": "Repetition",
+          "RoundNumber": 1
+        }
+      ]
+    },
+    {
+      "BotID": "Bot_314",
+      "BotName": "Folke",
+      "AuthorName": "Folke",
+      "IsPlaying": false,
+      "Score": 18,
+      "GameHistory": [
+        {
+          "WhitePlayerID": "Bot_314",
+          "BlackPlayerID": "Bot_623",
+          "GameResult": 3,
+          "GameResultString": "BlackIsMated",
+          "RoundNumber": 1
+        },
+        {
+          "WhitePlayerID": "Bot_623",
+          "BlackPlayerID": "Bot_314",
+          "GameResult": 2,
+          "GameResultString": "WhiteIsMated",
+          "RoundNumber": 1
+        },
+        {
+          "WhitePlayerID": "Bot_314",
+          "BlackPlayerID": "Bot_623",
+          "GameResult": 3,
+          "GameResultString": "BlackIsMated",
+          "RoundNumber": 1
+        },
+        {
+          "WhitePlayerID": "Bot_623",
+          "BlackPlayerID": "Bot_314",
+          "GameResult": 3,
+          "GameResultString": "BlackIsMated",
+          "RoundNumber": 1
+        },
+        {
+          "WhitePlayerID": "Bot_314",
+          "BlackPlayerID": "Bot_623",
+          "GameResult": 6,
+          "GameResultString": "FiftyMoveRule",
+          "RoundNumber": 1
+        },
+        {
+          "WhitePlayerID": "Bot_623",
+          "BlackPlayerID": "Bot_314",
+          "GameResult": 5,
+          "GameResultString": "Repetition",
+          "RoundNumber": 1
+        },
+        {
+          "WhitePlayerID": "Bot_623",
+          "BlackPlayerID": "Bot_314",
+          "GameResult": 5,
+          "GameResultString": "Repetition",
+          "RoundNumber": 1
+        },
+        {
+          "WhitePlayerID": "Bot_314",
+          "BlackPlayerID": "Bot_623",
+          "GameResult": 2,
+          "GameResultString": "WhiteIsMated",
+          "RoundNumber": 1
+        },
+        {
+          "WhitePlayerID": "Bot_623",
+          "BlackPlayerID": "Bot_314",
+          "GameResult": 2,
+          "GameResultString": "WhiteIsMated",
+          "RoundNumber": 1
+        },
+        {
+          "WhitePlayerID": "Bot_314",
+          "BlackPlayerID": "Bot_623",
+          "GameResult": 5,
+          "GameResultString": "Repetition",
+          "RoundNumber": 1
+        },
+        {
+          "WhitePlayerID": "Bot_623",
+          "BlackPlayerID": "Bot_314",
+          "GameResult": 3,
+          "GameResultString": "BlackIsMated",
+          "RoundNumber": 1
+        },
+        {
+          "WhitePlayerID": "Bot_314",
+          "BlackPlayerID": "Bot_623",
+          "GameResult": 7,
+          "GameResultString": "InsufficientMaterial",
+          "RoundNumber": 1
+        },
+        {
+          "WhitePlayerID": "Bot_314",
+          "BlackPlayerID": "Bot_623",
+          "GameResult": 5,
+          "GameResultString": "Repetition",
+          "RoundNumber": 1
+        },
+        {
+          "WhitePlayerID": "Bot_623",
+          "BlackPlayerID": "Bot_314",
+          "GameResult": 2,
+          "GameResultString": "WhiteIsMated",
+          "RoundNumber": 1
+        },
+        {
+          "WhitePlayerID": "Bot_623",
+          "BlackPlayerID": "Bot_314",
+          "GameResult": 5,
+          "GameResultString": "Repetition",
+          "RoundNumber": 1
+        },
+        {
+          "WhitePlayerID": "Bot_314",
+          "BlackPlayerID": "Bot_623",
+          "GameResult": 5,
+          "GameResultString": "Repetition",
+          "RoundNumber": 1
+        }
+      ]
+    }
+  ]
+}

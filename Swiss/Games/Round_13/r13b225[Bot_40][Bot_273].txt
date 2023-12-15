@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "12"]
+[White "holcak-bot (by: Petr Holčák)"]
+[Black "Monte Carlos Little Brother (by: Giorgio)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. h4 d5 2. f4 Qd6 3. d4 Qg6 4. c3 Bf5 5. Na3 h5 6. g4 Qxg4 7. e3 Qg6 8. Nf3 a6 9. b4 Kd7 10. Ne5+ Kc8 11. Nxg6 Bxg6 12. Bh3+ Kd8 13. Bg2 Nf6 14. Bh3 Ke8 15. Bc8 Ra7 16. Bh3 Kd8 17. Bg2 Kd7 18. Bh3+ Kc6 19. Bc8 Kb6 20. Bh3 Kc6 21. Bc8 Kb6 22. Bh3 Kc6 1/2-1/2

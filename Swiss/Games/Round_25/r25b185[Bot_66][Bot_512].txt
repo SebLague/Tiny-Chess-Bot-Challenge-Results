@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "24"]
+[White "CapivaraBot (by: Danilo Luiz Rheinheimer)"]
+[Black "LiL Scoot (by: Scoutamass)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. h4 e6 2. g4 Qf6 3. e4 Bb4 4. c4 Nc6 5. a4 Qe5 6. f3 Qg3+ 7. Ke2 Nd4+ 8. Ke3 c5 9. h5 Nf6 10. Bh3 Nxg4+ 11. Bxg4 d5 12. cxd5 Bd7 13. dxe6 fxe6 14. a5 Ke7 15. d3 Bb5 16. b3 e5 17. Nh3 Qg2 18. Nf2 Qg3 19. Nh3 Qg2 20. Nf2 Qg3 21. Nh3 1/2-1/2

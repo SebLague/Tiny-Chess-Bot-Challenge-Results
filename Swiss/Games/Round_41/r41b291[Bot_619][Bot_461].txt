@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "40"]
+[White "Bad Player (by: Geopardgame)"]
+[Black "CopyBot (by: bull313)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 a5 2. c4 f5 3. b3 g6 4. Nh3 Na6 5. Bb2 Bg7 6. c5 Bxb2 7. a3 Bxa1 8. c6 bxc6 9. h5 gxh5 10. b4 Nxb4 11. g4 fxg4 12. Ng1 h6 13. d3 Nxd3+ 14. exd3 Rh7 15. Nc3 Bxc3+ 16. Qd2 Bxd2+ 17. Ke2 Ba6 18. Rh2 Bxd3+ 19. Kxd2 Bxf1 20. Rh4 Rc8 21. f3 gxf3 22. Rh3 Bxh3 23. Ne2 fxe2 24. Kc3 Rg7 25. Kb3 a4+ 26. Kb2 Rg2 27. Ka1 e1=Q# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "14"]
+[White "Clyde (by: Evan)"]
+[Black "GOYO Bot v1.1.2 (by: Goyo)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 e5 2. h5 Qg5 3. d3 Bb4+ 4. Qd2 Bxd2+ 5. Kd1 Bxc1 6. b4 Bb2 7. a4 Qc1# 0-1

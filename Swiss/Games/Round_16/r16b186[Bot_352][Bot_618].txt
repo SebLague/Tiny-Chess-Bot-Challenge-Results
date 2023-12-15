@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "15"]
+[White "NameGoesThere's bot (by: NameGoesThere)"]
+[Black "Stockbrot (by: Steaky)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 b6 2. d4 e5 3. dxe5 Qh4 4. Ne2 Bc5 5. Nd2 Bxf2# 0-1

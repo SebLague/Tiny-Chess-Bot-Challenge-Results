@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "25"]
+[White "MiaKBotv4.4 (by: Mia Kellett)"]
+[Black "nimbot (by: )"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Nc3 g6 2. Nf3 h6 3. Ne4 f6 4. Nd4 Kf7 5. Nf3 Kg7 6. Nd4 Kf7 7. Nc3 Bg7 8. Ne4 Bf8 1/2-1/2

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "40"]
+[White "Shakki botti (by: bobq)"]
+[Black "Greedy-Dumb-Bot (by: TrangML)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Na3 Nf6 2. Nc4 e5 3. Nxe5 c5 4. Nc4 Qb6 5. Nd6+ Bxd6 6. Nf3 Be5 7. Nxe5 Qb4 8. Nc4 Qa3 9. Nd6+ Kf8 10. Nb5 Ke8 11. Nd6+ Kf8 12. Nb5 Ke8 13. Nd6+ Kf8 1/2-1/2

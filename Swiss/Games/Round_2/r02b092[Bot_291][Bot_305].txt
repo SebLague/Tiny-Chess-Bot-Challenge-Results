@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "Tim (by: Bob)"]
+[Black "RandomUnoptimisedBot (by: Zhanybek)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 h6 2. Qh5 Rh7 3. Bd3 Rh8 4. Bg6 Rh7 5. Bxf7# 1-0

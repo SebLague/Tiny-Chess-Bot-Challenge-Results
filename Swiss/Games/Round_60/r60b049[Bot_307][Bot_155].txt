@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "59"]
+[White "Stephanee (by: Elijah Bradshaw)"]
+[Black "CompressionBot (by: Nathan George)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. d4 d5 3. e5 e6 4. Bb5 Bd7 5. Bxc6 Bxc6 6. b3 a5 7. Bd2 Nh6 8. Qf3 Nf5 9. c3 f6 10. g4 Nh4 11. Qg3 fxe5 12. Qxe5 Qc8 13. Qh5+ Ng6 14. g5 Bd6 15. Qg4 e5 16. Qf3 e4 17. Qd1 O-O 18. c4 dxc4 19. bxc4 e3 20. f3 exd2+ 21. Kxd2 Bb4+ 22. Kd3 Qf5+ 23. Ke3 Rae8+ 24. Kf2 Qxg5 25. Qb3 Qh4+ 26. Kf1 Qe1+ 27. Kg2 Nf4# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "11"]
+[White "tom (by: Christopher Hosken & Thomas Lower)"]
+[Black "SimpleBot (by: :LMProgramming)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 e6 2. g4 Qf6 3. e4 Bb4 4. c4 Qe5 5. f3 Qg3+ 6. Ke2 Nc6 7. d4 Nf6 8. a4 a6 9. h5 Ke7 10. h6 b6 11. g5 Bb7 12. gxf6+ Kxf6 13. e5+ Kf5 14. Qd3# 1-0

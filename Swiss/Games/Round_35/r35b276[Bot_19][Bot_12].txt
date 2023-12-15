@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "34"]
+[White "AttackBot (by: Kai Tabuchi (9 Years Old))"]
+[Black "Aggressive Fool (by: ZZKer (she/her pronouns))"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. b4 d6 2. Bb2 Na6 3. Bxg7 Bxg7 4. Qc1 Bxa1 5. b5 Qd7 6. bxa6 bxa6 7. a4 Qxa4 8. d4 Qb4+ 9. Nc3 Bxc3+ 10. Kd1 Qxd4+ 11. Qd2 Qxd2# 0-1

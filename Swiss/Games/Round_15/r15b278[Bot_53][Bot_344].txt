@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "14"]
+[White "Aggrobot (by: CHECKERCE)"]
+[Black "DD9's chess bot (by: DigestDig9)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. b4 d5 2. Nh3 d4 3. Rg1 Be6 4. Rh1 Bc4 5. Rg1 Bxe2 6. Kxe2 Qd5 7. Ke1 Qe4+ 8. Qe2 Qxc2 9. Qxe7+ Bxe7 10. Ke2 Bxb4 11. Ke1 Bxd2+ 12. Bxd2 c5 13. Ke2 c4 14. Ke1 Qb2 15. Bxc4 b6 16. Bxf7+ Kd7 17. Bxg8 d3 18. Bxh7 b5 19. Bxd3 Rc8 20. Bxb5+ Qxb5 21. Kd1 Rc4 22. Ke1 Rc2 23. Kd1 Rb2 24. Kc1 Rxb1+ 25. Rxb1 Qc4+ 26. Kd1 Qd3 27. Rxb8 Rxb8 28. Kc1 Rb1# 0-1

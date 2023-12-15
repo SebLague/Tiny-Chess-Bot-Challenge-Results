@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "22"]
+[White "The Fisher (by: Unodus)"]
+[Black "ShallowBot (by: Vaggelis Softsis)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 e6 2. c4 Qf6 3. Qa4 Bb4 4. Nc3 Bxc3 5. Kd1 Bxb2 6. Qb5 Qf4 7. Bxb2 f6 8. g3 Qe4 9. d3 Qg4 10. Ne5 fxe5 11. Bh3 Qxh3 12. Bxe5 Nc6 13. Bxc7 Nf6 14. d4 Ne4 15. Ke1 O-O 16. f3 Qg2 17. Qxb7 Qf2+ 18. Kd1 Nc3+ 19. Kc1 Bxb7 20. Kc2 Rac8 21. Kb3 Rxc7 22. Rad1 Nxd1 23. Rg1 Nxd4+ 24. Kb4 a5+ 25. Ka4 Nc3+ 26. Kxa5 e5 27. a4 Ra8+ 28. Kb4 Na2+ 29. Ka3 Rxa4+ 30. Kxa4 Bc6+ 31. Ka3 Ra7+ 32. Kb2 Ra4 33. Ra1 Rb4+ 34. Kxa2 Ra4+ 35. Kb1 Qf1+ 36. Kb2 Qf2 37. Ra3 Rxc4 38. Rd3 Rc2+ 39. Ka3 Ra2+ 40. Kxa2 Bd5+ 41. Ka3 Bc4 42. f4 Qe1 43. fxe5 Qa5+ 44. Kb2 Qb4+ 45. Kc1 Bxd3 46. e6 Qc3+ 47. Kd1 Kh8 48. exd7 Qc2+ 49. Ke1 Qxe2# 0-1

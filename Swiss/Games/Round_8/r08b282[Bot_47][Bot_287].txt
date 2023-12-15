@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "7"]
+[White "Maximillian Stalebot (by: hilovids)"]
+[Black "Ragdoll's Ragdoll (by: Ragdoll)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 e5 2. Rb1 Bc5 3. Ra1 Qh4 4. Rb1 Ne7 5. Ra1 Ng6 6. Rb1 Nf8 7. Ra1 Bb6 8. Rb1 Bd4 9. Ra1 d6 10. Rb1 c6 11. Ra1 h6 12. Rb1 Bxf2# 0-1

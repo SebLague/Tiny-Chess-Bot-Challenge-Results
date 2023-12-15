@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "42"]
+[White "Negative Depth (by: Zoltán Kürti)"]
+[Black "King Shuffler (by: Team Thursday)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 Na6 2. Nb5 c6 3. c3 cxb5 4. e4 Qb6 5. Nf3 d6 6. Nd4 Bd7 7. f4 Qc5 8. h3 Rb8 9. Nb3 Qc6 10. Bd3 Ra8 11. Nd4 Nc5 12. Bf1 Qxe4+ 13. Qe2 Nd3+ 14. Kd1 Qxe2+ 15. Kxe2 Nxf4+ 16. Kf3 Ng6 17. Nxb5 Kd8 18. d4 a6 19. Na3 Ba4 20. Nc4 Ke8 21. Kg3 Nf6 22. Bd3 Nh5+ 23. Kg4 a5 24. Kxh5 Bc6 25. Re1 e6 26. Bf1 Nf4+ 27. Bxf4 Bxg2 28. Bxg2 g6+ 29. Kg4 f5+ 30. Kg3 e5 31. Bxb7 Ra7 32. Bxe5 Rxb7 33. Bxh8+ Kf7 34. Nxa5 Rxb2 35. Nc4 Rc2 36. d5 Kg8 37. Bf6 Kf7 38. Re6 Rxc3+ 39. Bxc3 Be7 40. Bb4 Kf8 41. Bxd6 Bxd6+ 42. Nxd6 Kg7 43. Rc1 f4+ 44. Kxf4 g5+ 45. Ke3 Kf8 46. Rc7 h6 47. Re8# 1-0

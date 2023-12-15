@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "52"]
+[White "Mirror Bot (by: JuNi)"]
+[Black "Bob (by: Kökényesi Attila (UltraGeek))"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 f6 2. f3 Nc6 3. Nc3 h6 4. h3 Ne5 5. Bc4 Nxc4 6. Nd5 c6 7. c3 e6 8. Qa4 Ne5 9. Qxc6 bxc6 10. d3 h5 11. h4 f5 12. f4 Ng4 13. Be3 a6 14. a3 fxe4 15. Nf3 exd3 16. f5 exf5 17. Bf4 cxd5 18. Bh6 g6 19. g3 Bc5 20. Rh2 Qe7+ 21. Ne5 N4f6 22. Re2 d6 23. Re4 d2+ 24. Ke2 g5 25. g4 gxh4 26. gxh5 h3 27. Rc1 dxc1=Q 28. Be3 Qa1 29. a4 Bb6 30. a5 Ba7 31. Bc5 Bb8 32. Ba7 Bc7 33. Bc5 dxc5 34. c4 dxe4 35. Nd7 Ng4 36. b4 cxb4 37. h6 Qa2+ 38. Ke1 Bg3+ 39. Kf1 Qxc4+ 40. Kg1 Qc1# 0-1

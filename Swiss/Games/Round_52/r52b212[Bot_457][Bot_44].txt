@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "51"]
+[White "Version 8 (by: Whoever)"]
+[Black "SimpleBot (by: :LMProgramming)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. d4 Nxe4 3. Qh5 c5 4. Bb5 Qa5+ 5. Ke2 Qxb5+ 6. Ke1 cxd4 7. Qxb5 Nc5 8. Qxc5 Rg8 9. Qxc8# 1-0

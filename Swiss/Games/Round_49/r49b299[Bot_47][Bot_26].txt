@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "48"]
+[White "Maximillian Stalebot (by: hilovids)"]
+[Black "SWaP (Stucked With a Piece) (by: Esprit Orgue)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Na3 e6 2. Rb1 e5 3. Ra1 e4 4. Rb1 e3 5. Ra1 exf2+ 6. Kxf2 Na6 7. Ke1 Nb8 8. Kf2 Nc6 9. Ke1 Ne5 10. Kf2 Nd3+ 11. Ke3 Ne5 12. Kf2 Nd3+ 13. Ke3 Nb4 14. Kf2 Nc6 15. Ke1 Na5 16. Kf2 Nc6 1/2-1/2

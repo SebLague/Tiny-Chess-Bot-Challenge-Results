@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "30"]
+[White "OrionChessEngine (by: Maarten Peels)"]
+[Black "RichyRoo (by: devrichgg)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Ne2 Ne5 3. c4 Nd3# 0-1

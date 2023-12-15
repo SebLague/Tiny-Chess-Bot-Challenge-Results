@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "7"]
+[White "TBbot (by: TBMPFW)"]
+[Black "Elf-1200 (by: Elliot Throop)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. h4 Nc6 3. d3 d5 4. a3 Bc5 5. f4 Nf6 6. exd5 Qxd5 7. d4 Bxd4 8. Qd2 Bf5 9. g4 Qxh1 10. gxf5 Qxg1 11. fxe5 Qg3+ 12. Kd1 Qf3+ 13. Qe2 Nxe5 14. Qxf3 Nxf3 15. Be3 Bxe3 16. b3 O-O-O 17. Bd3 Ne4 18. c3 Rxd3+ 19. Kc2 Rhd8 20. b4 Kb8 21. c4 Ka8 22. Ra2 h5 23. Rb2 Ne1# 0-1

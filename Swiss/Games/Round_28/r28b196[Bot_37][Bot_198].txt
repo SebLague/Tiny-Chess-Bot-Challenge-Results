@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "27"]
+[White "Prince of Persia (by: flabbet)"]
+[Black "the (not so) wise bot of (not so great) insight (by: TheUnknown1050)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nh3 d5 2. g3 Qd6 3. Ng5 Qf6 4. h4 e5 5. Bg2 Bc5 6. Bf1 Qxf2# 0-1

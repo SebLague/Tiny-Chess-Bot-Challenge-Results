@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "48"]
+[White "PrayForMeBot (by: João)"]
+[Black "charge forward v1 (by: steel chair)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nh3 h5 2. d4 g5 3. Bxg5 f5 4. Bxe7 Nxe7 5. Nc3 d5 6. Nxd5 Nxd5 7. c4 c5 8. cxd5 cxd4 9. Qxd4 Qxd5 10. Qxd5 b5 11. Kd1 a5 12. Kc1 h4 13. Kb1 f4 14. Nxf4 b4 15. Kc1 a4 16. Kb1 h3 17. Nxh3 Bxh3 18. gxh3 Rxh3 19. Bxh3 b3 20. Qxa8 bxa2+ 21. Kxa2 a3 22. Qxb8+ Kf7 23. bxa3 Bxa3 24. Kxa3 Kg6 25. Rab1 Kh5 26. Ra1 Kh4 27. Rab1 Kxh3 28. Qg3# 1-0

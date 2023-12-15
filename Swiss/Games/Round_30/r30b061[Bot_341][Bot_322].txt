@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "29"]
+[White "AelChess (by: Aëldrexan)"]
+[Black "BarschBot (by: Bobitsmagic)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 d5 2. Nf3 Nc6 3. e3 Qd6 4. c4 dxc4 5. Bxc4 Qb4+ 6. Nbd2 Bg4 7. Bxf7+ Kxf7 8. Ng5+ Kg6 9. Qxg4 Nf6 10. Qh4 Ne5 11. O-O Nd3 12. Nge4 Nxc1 13. Raxc1 Qxb2 14. Rxc7 Qxa2 15. Rxb7 h6 16. Nf3 Nxe4 17. Qxe4+ Kf7 18. Ne5+ Kg8 19. Ng6 Rd8 20. Nxe7+ Bxe7 21. Qxe7 Qxf2+ 22. Rxf2 Rd7 23. Qxd7 Kh7 24. Qxg7# 1-0

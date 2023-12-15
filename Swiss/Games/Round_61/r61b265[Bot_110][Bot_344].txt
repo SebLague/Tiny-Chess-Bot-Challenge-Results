@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "60"]
+[White "EvilMirror (by: Hagan Gray)"]
+[Black "DD9's chess bot (by: DigestDig9)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d3 d5 2. e4 d4 3. e5 Be6 4. Qd2 Bd5 5. Kd1 Bxa2 6. Rxa2 Nc6 7. Nf3 Rc8 8. Rxa7 Rb8 9. Rxb7 Rxb7 10. Nxd4 Rxb2 11. Bxb2 Nxd4 12. Bxd4 Qxd4 13. Na3 Qb2 14. Qh6 Qc3 15. Qxh7 Qb4 16. Qxh8 Qb2 17. Qxg8 Qc3 18. Qxf8+ Kd7 19. Ke2 Qb2 20. Qxf7 Qc1 21. Qxe7+ Kc6 22. Kf3 Qb2 23. Qxc7+ Kd5 24. Qd6# 1-0

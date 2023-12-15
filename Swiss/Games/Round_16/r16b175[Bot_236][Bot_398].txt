@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "15"]
+[White "DeadlineNightmare (by: Trololp)"]
+[Black "ChessGPT (by: DeepGoldenCrown)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. e4 Nc6 2. Nc3 h6 3. Nd5 b5 4. Rb1 e5 5. Ra1 Qg5 6. Nxc7+ Kd8 7. h4 Kxc7 8. hxg5 Kb6 9. Rb1 Ka5 10. Ra1 Ka4 11. Rb1 Kb4 12. Ra1 Ka4 13. Rb1 Kb4 14. Ra1 Ka4 1/2-1/2

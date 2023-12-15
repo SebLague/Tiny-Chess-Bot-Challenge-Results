@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "34"]
+[White "StallerBot (by: Ean)"]
+[Black "EndgameEnigma (by: jostflo)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d3 Nc6 2. Bf4 Nf6 3. Bxc7 Qxc7 4. Kd2 Ne5 5. Nc3 Nfg4 6. Ne4 Qa5+ 7. b4 Qxb4+ 8. c3 Qb2+ 9. Ke1 f5 10. Nh3 fxe4 11. Qb1 Qxc3+ 12. Kd1 Nf6 13. a4 Nc6 14. Ra2 e6 15. Rg1 Bc5 16. g3 e5 17. Rg2 Ne7 18. Ng5 h6 19. Nxe4 Qd4 20. Nxf6+ gxf6 21. e4 Nc6 22. h4 Bd6 23. Qb3 Ne7 24. h5 Rf8 25. a5 Nc6 26. Qb1 Rf7 27. Qc1 Nb4 28. Qb1 Re7 29. Qb3 Bc5 30. Qg8# 1-0

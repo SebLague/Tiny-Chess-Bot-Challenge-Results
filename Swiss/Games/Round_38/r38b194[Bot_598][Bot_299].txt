@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "37"]
+[White "WingBot (by: Benjamin Iserman)"]
+[Black "MaterFromRadiatorSprings (by: Markus Grand Petersen)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e6 2. Bc4 Qg5 3. Qf3 Bb4 4. Nh3 Qc5 5. b3 b5 6. O-O bxc4 7. g3 cxb3 8. Qxb3 Ba5 9. d3 f6 10. Bf4 Qd4 11. Na3 Ba6 12. Kh1 Nc6 13. f3 Rb8 14. Kg2 Rxb3 15. cxb3 Bxd3 16. Kh1 Qb2 17. Kg1 Bxf1 18. Rxf1 Qxa3 19. Rf2 Qc5 20. a4 Be1 21. Kf1 Bxf2 22. Bxc7 Qe3 23. Kg2 Be1 24. Kf1 Bb4 25. Kg2 Qxb3 26. Kf1 Qxf3+ 27. Kg1 Bc5+ 28. Nf2 Bxf2+ 29. Kf1 Bxg3+ 30. Kg1 Bxc7 31. h3 Qxe4 32. Kf1 Qxa4 33. Ke1 Qh4+ 34. Kd1 Qxh3 35. Kc1 Qh2 36. Kb1 Ke7 37. Ka1 Kd6 38. Kb1 Kc5 39. Ka1 Kb4 40. Kb1 Ka3 41. Ka1 Qh1# 0-1

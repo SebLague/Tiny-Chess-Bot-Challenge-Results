@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "4"]
+[White "mini_yoda (by: Dane Smith)"]
+[Black "SlothBot (by: 0xFF)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. f4 Nf6 2. d4 Nc6 3. Qd3 d5 4. e3 e6 5. Ke2 Nb4 6. Qc3 Ne4 7. Qa3 c6 8. Qb3 c5 9. dxc5 Na6 10. Nf3 1-0

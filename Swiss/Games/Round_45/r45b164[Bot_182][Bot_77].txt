@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "44"]
+[White "tybot (by: Tylyr1)"]
+[Black "OrionChessEngine (by: Maarten Peels)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e5 2. Qg4 Nf6 3. Qf5 Nc6 4. Bb5 g6 5. Qg5 Be7 6. Bxc6 dxc6 7. Qxe5 Qd5 8. Qxd5 Nxd5 9. c4 Nb4 10. Kd1 Nd3 11. Nh3 Bxh3 12. gxh3 Nxf2+ 13. Kc2 Nxh1 14. Nc3 Kd7 15. Ne4 f5 16. Nc3 Bc5 17. d4 Bb4 18. a3 Bxc3 19. bxc3 Nf2 20. Rb1 b6 21. a4 Nxh3 22. d5 cxd5 23. cxd5 a5 24. e4 fxe4 25. Bh6 e3 26. Bxe3 Rhe8 27. Bd4 g5 28. Rf1 Re2+ 29. Kb3 h6 30. Rf6 c5 31. dxc6+ Kc7 32. Rxh6 g4 33. c4 Ra6 34. Rh4 Nf4 35. Rxg4 Ne6 36. Bg1 Kxc6 37. h3 Ra8 38. Rg6 Rf8 39. Bh2 Rf3# 0-1

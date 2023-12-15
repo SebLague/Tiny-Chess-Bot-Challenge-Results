@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "34"]
+[White "ShallowBot (by: Vaggelis Softsis)"]
+[Black "MaterFromRadiatorSprings (by: Markus Grand Petersen)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c3 e6 2. Qa4 Na6 3. Qe4 Bd6 4. h3 Qf6 5. Qc4 Qf5 6. e4 Qg5 7. Nf3 Qh6 8. Na3 Bxa3 9. Ne5 Be7 10. d3 Qh5 11. d4 Qh4 12. Bd3 Bd6 13. g3 Qf6 14. Bg5 Qxg5 15. Nf3 Qf6 16. Nd2 b5 17. Qb3 Qh6 18. Nf3 Bxg3 19. Kd1 Qh5 20. Ke2 Bh4 21. Rag1 Rb8 22. a3 Kf8 23. Rg4 Bf6 24. Ke1 e5 25. Qd5 Ne7 26. Qb3 exd4 27. cxd4 Nc6 28. e5 Bg5 29. Nxg5 g6 30. Rf4 Qxg5 31. Rxf7+ Ke8 32. Kf1 Nxd4 33. Qc3 Kxf7 34. Qxd4 Qc1+ 35. Ke2 Qxh1 36. Qf4+ Ke8 37. e6 dxe6 38. Qd4 Rf8 39. Be4 Qxh3 40. Bc6+ Bd7 41. Bxd7+ Ke7 42. Qg7+ Rf7 43. Qd4 c5 44. Qd2 Rxf2+ 45. Kxf2 Qh2+ 46. Ke1 Qg1+ 47. Ke2 Qg2+ 48. Kd1 Qxd2+ 49. Kxd2 Kxd7 50. Kd3 Rf8 51. Ke3 Rf1 52. a4 bxa4 53. Kd3 Rf2 54. Kc4 Rxb2 55. Kc3 a3 56. Kd3 a2 57. Kc3 a1=Q 58. Kd3 Kc6 59. Ke4 Kd6 60. Ke3 Kd5 61. Kf3 Kd4 62. Kg3 Kc3 63. Kf3 Kb3 64. Ke4 Qb1+ 65. Kf3 Ka2 66. Kf4 Ka1 67. Kg3 Qc1 68. Kh3 Kb1 69. Kg4 Ka2 70. Kh4 Ka3 71. Kg3 Kb3 72. Kh4 Ka2 73. Kg3 Ka3 74. Kf3 Kb3 75. Kg3 Kc3 76. Kf3 Kd3 77. Kg3 Ke2 78. Kg2 Kd1+ 79. Kf1 Kc2+ 80. Kf2 Kb1+ 81. Kf3 Ka1 82. Kg3 Qb1 83. Kf4 Ka2 84. Kg4 Ka3 85. Kf4 Ka4 86. Ke5 Qe1+ 87. Kf4 Ka3 88. Kg5 Ka2 89. Kf6 Rb7 90. Kg5 Ka1 91. Kh6 Qc1# 0-1

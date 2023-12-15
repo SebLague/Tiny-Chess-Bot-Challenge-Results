@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "25"]
+[White "The Seeker (by: Lucas Pellegrinelli)"]
+[Black "Bob (by: Victor)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c3 Nc6 2. b4 Nf6 3. b5 d5 4. bxc6 bxc6 5. d4 Bf5 6. Nd2 Ne4 7. Qa4 Kd7 8. Nxe4 Bxe4 9. f3 Bg6 10. Nh3 e6 11. Nf4 f5 12. g3 Bd6 13. c4 Bxf4 14. Bxf4 a6 15. h4 h6 16. Rc1 Ra7 17. cxd5 exd5 18. Qxc6+ Kc8 19. Qxg6 Qf8 20. Qb6 Rb7 21. Rxc7+ Kd8 22. Qxb7 Qb4+ 23. Qxb4 Ke8 24. Qb8# 1-0

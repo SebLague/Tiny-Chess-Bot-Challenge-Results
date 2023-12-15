@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "25"]
+[White "Rodders (by: Chipperphilly)"]
+[Black "Mulch Winnums (by: Feeding Plants)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h3 Nf6 2. Nc3 e5 3. d4 exd4 4. Qxd4 Nc6 5. Qf4 d5 6. f3 Bd6 7. Qg5 Nb4 8. Qxg7 Rg8 9. Qxg8+ Nxg8 10. Kd1 Ne7 11. a3 Nbc6 12. Bh6 Nf5 13. Nxd5 Ng3 14. Rh2 Nxf1 15. Rh1 Ng3 16. Rh2 Bc5 17. e3 Qxd5+ 18. Kc1 Nf1 19. Rh1 Qd2+ 20. Kb1 Qxg2 21. Ka2 Be6+ 22. Kb1 Qxh1 23. b4 Bxe3 24. Bxe3 Nxe3 25. Kb2 Qg2 26. Rc1 Nd4 27. Ka1 Nf1 28. f4 Qxg1 29. a4 Qf2 30. Kb1 Bxh3 31. Ka1 Ne3 32. Kb1 Nexc2 33. Ka2 Qg3 34. Rf1 Qb3# 0-1

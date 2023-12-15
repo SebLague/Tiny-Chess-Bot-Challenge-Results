@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "52"]
+[White "Squeedo (by: David Giesegh)"]
+[Black "Chess Bot (by: M)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nc3 Bc5 3. Qg4 Kf8 4. Qe2 Nf6 5. Qb5 b6 6. Nf3 Ba6 7. Qa4 Bxf1 8. Kxf1 d5 9. exd5 c6 10. Nxe5 cxd5 11. Rg1 Nbd7 12. Nxd7+ Qxd7 13. Qxd7 Nxd7 14. Nxd5 Nf6 15. Nxf6 gxf6 16. d3 a5 17. Bh6+ Kg8 18. g4 b5 19. a4 b4 20. Re1 Bd6 21. f4 Bc5 22. Rg2 Bd6 23. h4 Bc7 24. Re4 b3 25. cxb3 Bd6 26. Rge2 Be5 27. fxe5 fxe5 28. Rxe5 f6 29. Rxa5 Rxa5 30. Re8+ Kf7 31. Rxh8 f5 32. g5 Rd5 33. Ke2 Kg6 34. Ke3 Kh5 35. Rxh7 Kxh4 36. Kf4 Kh5 37. Bf8+ Kg6 38. Rh6+ Kf7 39. Rd6 Ra5 40. Rf6+ Kg8 41. Bb4 Rd5 42. Rd6 Rxd6 43. Bxd6 Kh8 44. a5 Kg8 45. a6 Kh8 46. a7 Kg8 47. a8=Q+ Kh7 48. Kxf5 Kg7 49. g6 Kh6 50. Qh8# 1-0

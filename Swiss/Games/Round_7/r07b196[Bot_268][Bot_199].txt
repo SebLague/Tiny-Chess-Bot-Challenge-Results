@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "6"]
+[White "Captain Botvious (by: Selim Sheta)"]
+[Black "BlueBat (by: Peter)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. d3 e6 3. Nd2 Nb4 4. d4 Nc6 5. d5 exd5 6. exd5 Qe7+ 7. Be2 Nd4 8. b4 Nf6 9. Ba3 Nxd5 10. c3 Nxc3 11. Qc1 Ncxe2 12. Qxc7 Ng3+ 13. Ne4 Qxe4+ 14. Kd2 Nxh1 15. Nh3 Qe2+ 16. Kc3 Nb5+ 17. Kb3 Nxc7 18. Rxh1 Ne6 19. Ra1 Bd6 20. g4 Qf3+ 21. Ka4 b5+ 22. Kxb5 Qc6+ 23. Ka5 Qa6# 0-1

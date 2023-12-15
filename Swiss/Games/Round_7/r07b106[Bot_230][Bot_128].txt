@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "6"]
+[White ":3 (by: Lauri Räsänen)"]
+[Black "C++IsBetterThanC# (by: Samo)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. e4 a5 2. c4 a4 3. b3 axb3 4. Qxb3 c5 5. Ba3 e5 6. Bb2 Bd6 7. Nc3 g5 8. Nb5 Ke7 9. Nxd6 Kxd6 10. Qd3+ Ke6 11. Qd5+ Ke7 12. Qxe5+ Kf8 13. Qg7+ Ke7 14. Qe5+ Kf8 15. Qg7+ Ke7 16. Qe5+ 1/2-1/2

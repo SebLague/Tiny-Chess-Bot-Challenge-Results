@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "44"]
+[White "InfuehrDaniel MCTS (by: Daniel Infuehr)"]
+[Black "En Croissant (by: Lethal Chicken)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. e3 b5 2. Qf3 b4 3. Bc4 a5 4. Kd1 a4 5. Qd5 Nf6 6. Qxa8 Rg8 7. Bxf7+ Kxf7 8. Qd5+ Nxd5 9. Ne2 Nxe3+ 10. fxe3 c5 11. Ke1 c4 12. Rf1+ Ke6 13. Nd4+ Kd5 14. Rxf8 Rxf8 15. c3 bxc3 16. Nf3 cxd2+ 17. Kxd2 Rxf3 18. g4 Rf2+ 0-1

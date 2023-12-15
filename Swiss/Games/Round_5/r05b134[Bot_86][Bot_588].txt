@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "4"]
+[White "Blitztron (by: Cameron Dugan)"]
+[Black "Mobilibot (by: Gabriel N.)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 e6 2. Qd2 Qh4 3. e3 Nc6 4. a3 Bb4 5. axb4 a5 6. bxa5 d5 7. Bb5 Bd7 8. Nf3 Qg4 9. h3 Qxg2 10. Rh2 Qxf3 11. Be2 Qxe2+ 12. Qxe2 Nb4 13. c4 Ba4 14. Rxa4 Ne7 15. Rxb4 Kd7 16. cxd5 Nxd5 17. Rxb7 Rxa5 18. b4 Raa8 19. Qd3 Ra2 20. Qc4 Rha8 21. e4 Kd6 22. exd5 Re2+ 23. Kxe2 g5 24. Rxc7 g4 25. Ke1 g3 26. f4 gxh2 27. Qc6# 1-0

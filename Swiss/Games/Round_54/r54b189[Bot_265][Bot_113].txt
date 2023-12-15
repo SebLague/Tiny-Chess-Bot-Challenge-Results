@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "53"]
+[White "SimpleBot (by: Tim Zollner)"]
+[Black "taylornpeter_chess_sl (by: taylornpeter)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. e3 a5 2. Nc3 c5 3. Ne4 Qb6 4. Qf3 Qc6 5. Bc4 e6 6. Ng5 f5 7. Qh5+ g6 8. Qh3 h6 0-1

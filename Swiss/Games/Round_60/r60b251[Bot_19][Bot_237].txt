@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "59"]
+[White "AttackBot (by: Kai Tabuchi (9 Years Old))"]
+[Black "DeepDumb (by: OutdoorsyEngineer)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. b4 Nc6 2. Bb2 Nf6 3. Bxf6 d6 4. Bxe7 Qd7 5. Bxf8 Nd4 6. Bxd6 Nxc2+ 7. Qxc2 b6 8. Qc1 cxd6 9. Qc2 Qb7 10. Qc1 Qa6 11. Qc2 f6 12. Qc1 Qxa2 13. Rxa2 h5 14. Rxa7 Rb8 15. Rxg7 Rh6 16. Qc2 f5 17. Qc1 Rh7 18. Rxh7 Kf8 19. Rxh5 Ke8 20. Rxf5 d5 21. Rxd5 b5 22. Rxb5 Rxb5 23. Qxc8+ Kf7 24. Kd1 Kf6 25. Ke1 Rxb4 26. Kd1 Kg7 27. Ke1 Rxb1+ 28. Qc1 Rxc1# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "23"]
+[White "SimpleBot (by: :LMProgramming)"]
+[Black "Depth2 (by: David Montealegre)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 d6 2. Bb5+ Nd7 3. Qg4 c6 4. Nc3 cxb5 5. Nxb5 d5 6. Ne2 a6 7. Qf5 axb5 8. Qxd5 b4 9. Qb5 e5 10. b3 Nf6 11. Bb2 Ng4 12. Ng3 b6 13. Nf5 g6 14. Ke2 gxf5 15. Qc6 Nxf2 16. Qxa8 Nxh1 17. Rxh1 Qf6 18. Qxc8+ Ke7 19. Rf1 e4 20. Bxf6+ Kxf6 21. Qxd7 Bc5 22. Qc6+ Ke5 23. Qc7+ Kd5 24. Rxf5+ Ke6 25. Qc6+ Kxf5 26. Qd5+ Kg6 27. Qxe4+ Kg5 28. Qe5+ Kh6 29. Qxh8 f5 30. Qf6+ Kh5 31. Qxf5+ Kh6 32. Qf4+ Kg7 33. Qg4+ Kf6 34. Qf4+ Kg7 35. Qg4+ Kh8 36. Qc8+ Kg7 37. Qc7+ Kh8 38. Qc8+ Bf8 39. Qxf8# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "51"]
+[White "Beancounting_pawnpusher (by: Arnt Veenstra)"]
+[Black "Negative Depth (by: Zoltán Kürti)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. f4 d5 3. b4 Nbd7 4. h4 Nh5 5. Kf2 e6 6. e3 Nhf6 7. b5 Ng8 8. a4 Ne7 9. c4 Nf6 10. g4 c6 11. g5 Ne4+ 12. Kf3 Ng6 13. h5 h6 14. hxg6 f6 15. bxc6 fxg5 16. fxg5 Bc5 17. dxc5 O-O 18. Kg2 Qxg5+ 19. Qg4 Qxg4+ 20. Kh2 Qg3# 0-1

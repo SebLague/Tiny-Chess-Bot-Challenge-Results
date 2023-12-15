@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "MiaKBotv4.4 (by: Mia Kellett)"]
+[Black "Pancake (by: EaglePancake)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 c6 2. Nf3 e5 3. Nxe5 Na6 4. Ne4 Nb8 5. Nd3 Qa5 6. Nf4 Qxd2+ 7. Qxd2 Be7 8. Qe3 Bb4+ 9. Nc3+ Ne7 10. Qd4 Bxc3+ 11. Qxc3 Nd5 12. Qxg7 Nxf4 13. Qxh8+ Ke7 14. Bxf4 c5 15. Qxc8 Kf6 16. Qxb7 Nc6 17. Qxa8 Nd4 18. Qd8+ Kg7 19. Qg5+ Kf8 20. Qd8+ Kg7 21. Be5+ Kh6 22. Bf4+ Kh5 23. Qg5# 1-0

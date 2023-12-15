@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "25"]
+[White "StevenBot (by: Steven)"]
+[Black "Paroch (by: Bronson)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 a5 2. h5 f6 3. e4 b6 4. f4 e6 5. d4 Bb4+ 6. Ke2 Ba6+ 7. Ke3 Bc8 8. a4 c6 9. g4 d6 10. c4 h6 11. b3 Qd7 12. Rh2 Qc7 13. Rha2 Kf8 14. Rh2 Bd7 15. Rc2 Qb7 16. Rh2 Qa7 17. Rf2 Na6 18. Rh2 Qb7 19. Raa2 Qa7 20. Rac2 Qb8 21. Rcg2 Rh7 22. Rc2 Qc7 23. Rcf2 Re8 24. Ra2 Qb7 25. Rag2 Ra8 26. Rf2 g6 27. hxg6 Rh8 28. Rh5 c5 29. Rc2 cxd4+ 30. Kxd4 e5+ 31. Kd3 exf4 32. Bxf4 Nc5+ 33. Kd4 Qxe4# 0-1

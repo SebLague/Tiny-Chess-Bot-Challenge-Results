@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "44"]
+[White "HERO-bot (by: ELEMENTLHERO)"]
+[Black "tom (by: Christopher Hosken & Thomas Lower)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 d5 2. Nxd5 Qxd5 3. c4 Qxc4 4. Qb3 Qxb3 5. a4 h5 6. Nf3 f5 7. d3 c5 8. Ra3 Qxa3 9. b3 Qxc1# 0-1

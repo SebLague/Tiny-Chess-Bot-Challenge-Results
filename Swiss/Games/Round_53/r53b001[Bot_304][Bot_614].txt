@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "52"]
+[White "SemiroseBot (by: Semirose)"]
+[Black "Boychesser (by: MinusKelvin, Analog Hors, Anonymous Contributor (wishes to be unnamed), Algorhythm, and Daniel Ke (DkeRee))"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Bc4 O-O 8. O-O Nc6 9. Re1 Bf6 10. Be3 Bf5 11. Rc1 Qd7 12. Bd5 Rae8 13. Bg5 Rxe1+ 14. Qxe1 Bxg5 15. Nxg5 Ne5 16. Qe3 c6 17. Be4 h6 18. Nf3 Bxe4 19. Qxe4 Re8 20. h3 Nxf3+ 21. Qxf3 d5 22. Rd1 Qe6 23. Qg4 Qxg4 24. hxg4 Re2 25. Rc1 Re4 26. f3 Re2 27. Kh2 g5 28. a4 b6 29. Kg1 Kg7 30. Kh2 Kg6 31. Kh3 f5 32. gxf5+ Kxf5 33. Kg3 h5 34. Kh3 Kf4 35. Kh2 Ke3 36. a5 Kd2 37. Ra1 b5 38. a6 Kxc2 39. b4 Kxc3 40. Rc1+ Rc2 41. Rxc2+ Kxc2 42. Kh3 d4 43. g4 d3 44. gxh5 d2 45. Kg3 d1=Q 46. Kg4 Qh1 47. Kxg5 Qxf3 48. h6 Qf7 49. Kg4 Qg6+ 50. Kf4 Qf6+ 51. Ke3 Qxh6+ 52. Ke4 Qh4+ 53. Kf5 Qxb4 54. Ke5 Qc5+ 55. Kf4 b4 56. Kg4 b3 57. Kf4 b2 58. Kf3 b1=Q 59. Kf4 Qf1+ 60. Kg3 Qe3+ 61. Kg4 Qfh3# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "3"]
+[White "simpleval (portmonteau of simple eval) (by: hokurou)"]
+[Black "Robérto (by: Nia)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 Nf6 2. f4 d5 3. d4 Qd6 4. a4 Kd7 5. f5 Qg3+ 6. Kd2 Ne4# 0-1

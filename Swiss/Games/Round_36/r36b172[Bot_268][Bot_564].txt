@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "35"]
+[White "Captain Botvious (by: Selim Sheta)"]
+[Black "Elf-1200 (by: Elliot Throop)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. d3 Nc6 3. Nh3 d5 4. g4 Bb4+ 5. c3 Nf6 6. cxb4 Bxg4 7. Qb3 dxe4 8. dxe4 Ke7 9. Ng5 Qd4 10. Qxf7+ Kd6 11. f4 Qd1+ 12. Kf2 Qxc1 13. fxe5+ Nxe5 14. Qxg7 Qc2+ 15. Ke3 Qc1+ 16. Kd4 Nc6+ 17. Kd3 Nxb4+ 18. Kd4 Qc5# 0-1

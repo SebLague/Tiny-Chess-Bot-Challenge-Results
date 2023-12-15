@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "15"]
+[White "RayBot (by: Shahriar Rayed)"]
+[Black "Vast V2 (by: Joseph Pasfield)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 g6 2. Nc3 Nf6 3. e4 Nc6 4. d4 e5 5. dxe5 Nxe5 6. Bg5 Bg7 7. Nf3 h6 8. Nxe5 hxg5 9. Bc4 Rf8 10. Nf3 Nh5 11. h4 g4 12. Ng5 Nf6 13. Qd4 Qe7 14. a3 c6 15. Be2 Nh5 16. Qb4 c5 17. Qa5 b6 18. Qb5 Bxc3+ 19. bxc3 f6 20. Nf3 gxf3 21. Bxf3 Bb7 22. O-O-O O-O-O 23. Qa4 a6 24. Kb2 b5 25. Qa5 Nf4 26. Qb6 d6 27. g3 Ne6 28. Bg2 f5 29. f3 fxe4 30. fxe4 Rf2 31. Bh3 Bxe4 32. Rde1 Rxc2+ 33. Ka1 Qf6 34. Qxa6+ Kb8 35. Qxb5+ Bb7 36. Rxe6 Qxc3+ 37. Kb1 Rd2 38. Rc1 Qxa3 39. Rc4 Rd1+ 40. Kc2 Qc1+ 41. Kb3 Rd3+ 42. Rc3 Rxc3+ 43. Ka2 Ra3# 0-1

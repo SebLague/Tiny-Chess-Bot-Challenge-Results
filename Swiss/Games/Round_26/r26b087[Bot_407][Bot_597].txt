@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "25"]
+[White "simple chess bot (by: 4a0I)"]
+[Black "Robérto (by: Nia)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 Nf6 2. Qf3 Nc6 3. Qf5 Rb8 4. Bb5 d5 5. Qf4 e5 6. Qxe5+ Be6 7. Nc3 Qd7 8. Qf4 Bd6 9. Qg5 d4 10. Qxg7 Ke7 11. exd4 Rhg8 12. Qh6 Bb4 13. a3 Bxc3 14. dxc3 Qd5 15. Bf1 Qe4+ 16. Qe3 Qf5 17. Bd3 Qh5 18. Nh3 Qd5 19. Nf4 Qg5 20. Ng6+ Qxg6 21. Bxg6 Rxg6 22. Rg1 Nxd4 23. Qxd4 Rxg2 24. Rxg2 Bd5 25. f3 Rg8 26. Rxg8 Nxg8 27. Qxd5 c6 28. Qe5+ Kf8 29. Bh6+ Nxh6 30. O-O-O f5 31. Qf6+ Ke8 32. b3 Nf7 33. Re1+ Kf8 34. Re7 Kg8 35. Rxf7 f4 36. Rxb7 c5 37. Qxf4 Kh8 38. Rxa7 Kg8 39. Kb1 Kh8 40. Qb8# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "39"]
+[White "Culke (by: Colin Schepers)"]
+[Black "MapBot (by: Map)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. d5 c6 3. dxc6 Nxc6 4. c3 e5 5. Nf3 Be7 6. Qa4 O-O 7. e4 d5 8. Ng5 h6 9. exd5 Qxd5 10. c4 Qc5 11. Be3 Qb4+ 12. Qxb4 Bxb4+ 13. Nc3 hxg5 14. Bxg5 Ne4 15. Bd2 Nxd2 16. Kxd2 Bf5 17. a3 Bc5 18. f3 Rad8+ 19. Ke1 Nd4 20. Rd1 Nc2+ 21. Ke2 Rxd1 22. Kxd1 Rd8+ 23. Nd5 Ne3+ 24. Ke1 Nxd5 25. cxd5 Rxd5 26. b4 Be3 27. Bc4 Rd2 28. g4 Bc2 29. Be2 Rd4 30. b5 Kh7 31. h4 Bc1 32. h5 Bxa3 33. Kf2 Bc5 34. Kg3 Rd2 35. Bc4 Bf2+ 36. Kg2 Bd4+ 37. Kg3 Bf2+ 38. Kg2 e4 39. Rf1 Bd4+ 40. Kg3 e3 41. Bxf7 e2 42. Re1 Bd3 43. g5 Bxb5 44. Bg6+ Kh8 45. h6 Rd1 46. Rxe2 Bxe2 47. h7 Be3 48. f4 Rf1 49. Kg2 Rxf4 50. Kh3 Rf1 51. Be4 Bxg5 52. Bg2 Rf4 53. Bxb7 Kxh7 54. Kg3 Bc4 55. Bc6 Rd4 56. Kf3 Kg6 57. Be4+ Kf6 58. Bc2 Bd5+ 59. Kf2 Rd2+ 60. Ke1 Rxc2 61. Kd1 Rb2 62. Ke1 Ke5 63. Kf1 Bc4+ 64. Kg1 Be3+ 65. Kh1 Bd5# 0-1

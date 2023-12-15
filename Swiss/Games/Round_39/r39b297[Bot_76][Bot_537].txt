@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "38"]
+[White "One-Man Army (by: Brodie Eaton)"]
+[Black "InfuehrDaniel MCTS (by: Daniel Infuehr)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nh3 e6 2. Rg1 Qh4 3. Na3 Bd6 4. Rb1 Nc6 5. d3 Bxh2 6. Kd2 Qh6+ 7. f4 Nb4 8. Qe1 Ke7 9. Qd1 Nxa2 10. Qe1 Nf6 11. Qf2 Ng4 12. Qf3 Qg6 13. Qe4 f5 14. Qe5 d6 15. Qb5 Re8 16. Qb3 Ne3 17. Qc4 c5 18. Qb5 Ng4 19. Qb3 Nf2 20. Qc4 Rd8 21. Qb5 Bd7 22. Qb3 Nxh3 23. Qb5 Qg3 24. Qc4 Nxg1 25. Qb5 Kf6 26. Qb3 Qxf4+ 27. e3 Qf2+ 28. Be2 Qxe2# 0-1

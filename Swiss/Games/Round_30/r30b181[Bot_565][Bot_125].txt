@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "29"]
+[White "Reckless Ragnar (by: Magnús  Á. Magnússon)"]
+[Black "BaddieBot (by: Domic)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 d5 2. Nc3 Qd6 3. Nf3 Qb4 4. Qd2 Na6 5. a3 Qc4 6. Ne5 Qxd4 7. Qxd4 Nf6 8. e4 Nb8 9. exd5 Bf5 10. Nb5 Bxc2 11. Nxc7+ Kd8 12. Nxa8 Nbd7 13. Nxf7+ Ke8 14. Nxh8 a6 15. Qc3 Be4 16. Qc8# 1-0

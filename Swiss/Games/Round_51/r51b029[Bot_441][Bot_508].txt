@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "50"]
+[White "RigidBot (by: Mathias Elgaard)"]
+[Black "Plumbo (by: Luca Voros)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. d4 e6 3. Nf3 d5 4. e5 Bb4+ 5. Bd2 Bxd2+ 6. Nbxd2 g5 7. Nb3 g4 8. Nfd2 Nh6 9. Bd3 a5 10. Bb5 O-O 11. Bxc6 bxc6 12. Nf1 a4 13. Nc5 Rb8 14. Nxa4 Ra8 15. Nc5 Rb8 16. Rb1 Ra8 17. a3 Ba6 18. Ne3 Qg5 19. Nd7 Rfd8 20. Nf6+ Kg7 21. h4 Qg6 22. h5 Qg5 23. Nfxg4 Nf5 24. h6+ Kh8 25. Nxf5 exf5 26. Nf6 Qxg2 27. Qh5 f4 28. Qh3 f3 29. Qh4 Qg6 30. Kd2 Qf5 31. Rbg1 Bd3 32. cxd3 Rdb8 33. Qg3 Rxb2+ 34. Kc1 Rb1+ 35. Kc2 Rxg1 36. Rxg1 Qg6 37. Qh2 Rxa3 38. Rxg6 hxg6 39. e6 Ra2+ 40. Kb3 Ra8 41. Qxc7 c5 42. dxc5 d4 43. e7 Rg8 44. Qd8 Rxd8 45. exd8=Q# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "18"]
+[White "SYSMER (by: YannM)"]
+[Black "WitwerMacher (by: Yannik Bleilinger)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 Na6 2. Nf3 Rb8 3. Nc4 d6 4. Nxd6+ Qxd6 5. Nh4 Qh6 6. a3 Qxh4 7. Rb1 Nc5 8. b3 Ne4 9. Rb2 Qxf2# 0-1

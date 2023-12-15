@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "16"]
+[White "SlothBot (by: 0xFF)"]
+[Black "PAtATtO (by: Willem Paternotte)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. Nf3 b6 2. Nc3 Ba6 3. e4 c6 4. e5 Qc8 5. Bxa6 Nxa6 6. d4 h5 7. O-O Rb8 8. Bf4 e6 9. Ne4 Rb7 10. c3 f5 11. exf6 Kd8 12. fxg7 Be7 13. gxh8=B d6 14. Nxd6 Rc7 15. Nxc8 Kxc8 16. Bxc7 Nxc7 17. Ne5 h4 18. Nxc6 Kb7 19. Nxe7 Nxe7 20. Qf3+ Kb8 21. Qf8+ Nc8 22. Bf6 b5 23. Bxh4 a5 24. Bd8 Nd5 25. Bxa5 e5 26. Qe8 Ka7 27. Qxc8 e4 28. b4 Nf4 29. a4 Ne2+ 0-1

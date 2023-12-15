@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "53"]
+[White "Why Use Full Brain (by: JustAdy)"]
+[Black "GOYO Bot v1.1.2 (by: Goyo)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. d3 Bb4+ 3. Ke2 Bc5 4. Nf3 Qf6 5. Nfd2 Qxf2# 0-1

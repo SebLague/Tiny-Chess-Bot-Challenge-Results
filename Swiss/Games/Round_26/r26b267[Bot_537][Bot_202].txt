@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "25"]
+[White "InfuehrDaniel MCTS (by: Daniel Infuehr)"]
+[Black "Simpleton.01 (by: Bee)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. e3 e6 2. Qg4 Bc5 3. Bb5 Bxe3 4. Qxg7 Bxf2+ 5. Kf1 Bxg1 6. Qf6 Nxf6 7. h4 Rg8 8. a3 Ne4 9. Kxg1 Rxg2+ 10. Kxg2 Qxh4 0-1

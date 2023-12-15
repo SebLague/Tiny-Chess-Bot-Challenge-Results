@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "59"]
+[White "broken bot (by: Raj Gaurav)"]
+[Black "MinimalBot (by: GreenSalad_)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 h5 2. g4 hxg4 3. f4 Rh5 4. e4 b5 5. d4 Ba6 6. c4 b4 7. a4 Bxc4 8. f5 Bxf1 9. f6 Be2 10. fxg7 Bxd1 11. gxf8=B Kxf8 12. e5 Rxe5+ 13. dxe5 Be2 14. e6 dxe6 15. h5 Qd1+ 16. Kf2 Qf1+ 17. Kg3 Qf2+ 18. Kxf2 g3+ 19. Kxg3 Nh6 20. a5 Nf5+ 21. Kf4 e5+ 22. Kg5 f6+ 23. Kg6 Nh4+ 24. Rxh4 Bd3+ 25. Re4 Bxe4+ 26. Kh6 Bxb1 27. a6 Ba2 28. b3 Kf7 29. Nh3 Kg8 30. Ng5 fxg5 31. Bxg5 Bb1 32. Bxe7 c5 33. Bf8 Kxf8 34. Ra5 Kf7 35. Rxc5 Nc6 36. Rxc6 Rh8+ 37. Kg5 Rxh5+ 38. Kxh5 Bg6+ 39. Rxg6 Ke7 40. Rg8 Kf6 41. Rh8 Kf5 42. Rg8 e4 43. Rh8 e3 44. Rg8 e2 45. Rh8 e1=Q 46. Rg8 Qh1# 0-1

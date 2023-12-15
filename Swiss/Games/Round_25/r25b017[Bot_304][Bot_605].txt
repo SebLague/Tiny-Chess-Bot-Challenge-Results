@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "24"]
+[White "SemiroseBot (by: Semirose)"]
+[Black "The Grandiloquent Intelligentsia of Magnanimous Strategem: A Prodigiously Resplendent Embodiment of Erudite Chess Esotericism, Exuding Enigmatic Brilliance and Sublime Eloquence Whilst Enchantingly Tempering the Hallowed Battlefield of Intellectual Duels, Endeavoring to Transcend Acumen and Ascend to the Pantheon of Learned Peregrinations with an Efficacious Arsenal of Foresight and Sagacity, Humbling Opponents with Refined Gallantry, and Beckoning Discerning Disciples to Witness the Manifest Veracity of its Ascent to a Formidable Elo Quintessence (by: Giles Corey)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. d4 d5 3. e5 Bf5 4. Nf3 Qd7 5. Be2 O-O-O 6. O-O Kb8 7. a3 g6 8. h3 Bg7 9. Nc3 Nh6 10. g4 Be6 11. Ng5 f6 12. Nxe6 Qxe6 13. f4 fxe5 14. fxe5 Rhe8 15. Na4 b6 16. Bf3 a6 17. Bg2 Ng8 18. Nc3 Na5 19. Bf4 Nh6 20. Qe2 b5 21. Qf2 Rh8 22. b3 Nc6 23. Be3 b4 24. Na4 bxa3 25. Nc5 Qc8 26. Rxa3 Rdf8 27. Qd2 Rxf1+ 28. Kxf1 Nxg4 29. Nxa6+ Kb7 30. hxg4 Qxg4 31. Nc5+ Kc8 32. Ra8+ Nb8 33. Bxd5 Rf8+ 34. Bf2 Rxf2+ 35. Qxf2 Qd1+ 36. Qe1 Qxe1+ 37. Kxe1 c6 38. Be6+ Kc7 39. Ra7+ Kd8 40. b4 Bf8 41. Rb7 Nd7 42. Rxd7+ Kc8 43. Rb7+ Kd8 44. Na6 Bg7 45. Rb8# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "3"]
+[White "LetMeAlive (by: MrQui)"]
+[Black "YAMMB  (by: Dovakin7)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 e5 2. g4 Qf6 3. e4 Qf4 4. Qe2 Nf6 5. f3 Qg3+ 6. Qf2 Qxf2+ 7. Kxf2 Bc5+ 8. Kg3 h5 9. gxh5 Nxh5+ 10. Kh3 Ke7 11. c4 d5+ 12. Kg2 Nf4+ 13. Kg3 dxe4 14. fxe4 Rh6 15. Na3 Rg6+ 16. Kh2 Bxa3 17. bxa3 Rh6 18. Nf3 Bg4 19. Nxe5 Nd7 20. Kg3 Nh5+ 21. Kxg4 Nxe5+ 22. Kh3 Rg6 23. Rg1 Nf4+ 24. Kh2 Nf3+ 25. Kh1 Rxg1# 0-1

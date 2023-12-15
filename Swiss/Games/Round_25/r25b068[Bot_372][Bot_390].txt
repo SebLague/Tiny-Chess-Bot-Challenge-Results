@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "24"]
+[White "CrimesAgainstDotNet (by: Reckoner (Robyn))"]
+[Black "BuiltCleverBot (by: Scott Ward)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Qf3 Nf6 3. Ne2 e5 4. c4 Bc5 5. h3 d6 6. a3 Nd4 7. Nxd4 exd4 8. b4 Bb6 9. c5 dxc5 10. bxc5 Bxc5 11. Bb5+ Bd7 12. Bxd7+ Nxd7 13. Qf5 Qf6 14. Bb2 Qxf5 15. exf5 O-O 16. O-O Ne5 17. Ra2 Rfe8 18. Ba1 Nd3 19. Rc2 Re5 20. Rc4 b5 21. Rc2 Rxf5 22. a4 Nb4 23. Rb2 bxa4 24. g4 Rf3 25. Kg2 Rd3 26. Rc1 Bd6 27. h4 Rc8 28. g5 a3 29. Nxa3 Rxa3 30. Rxb4 Bxb4 31. Bxd4 Bxd2 32. Rc4 Ra5 33. Rc2 Bb4 34. Rc4 Bd6 35. Rc6 Ra4 36. Kh3 Rxd4 37. Ra6 Rd2 38. Rxa7 Rxf2 39. h5 Be7 40. Kg3 Rf5 41. g6 Rg5+ 42. Kf4 hxg6 43. hxg6 Rxg6 44. Rb7 Rg2 45. Kf3 Rh2 46. Kg3 Bd6+ 47. Kf3 Ra8 48. Kg4 Ra4+ 49. Kf3 Ra3+ 50. Ke4 Rg3 51. Rb8+ Kh7 52. Kd5 Rd2+ 53. Kc6 Rgg2 54. Rc8 Rc2+ 55. Kd7 f5 56. Ke6 f4 57. Kf7 f3 58. Rb8 f2 59. Rb1 Rg1 60. Rf1 Rxf1 61. Ke6 Re1+ 62. Kd7 f1=Q 63. Kc8 Qb5 64. Kd8 Re8# 0-1

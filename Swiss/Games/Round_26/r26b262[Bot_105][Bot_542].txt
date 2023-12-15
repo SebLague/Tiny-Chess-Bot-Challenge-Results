@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "25"]
+[White "NotSoEvilBot (by: AntVil)"]
+[Black "Chessetor, Destroyer of Boards (by: Badoobicus)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a3 c5 2. b3 Qb6 3. c3 g6 4. d3 Qe6 5. e3 d5 6. f3 Bd7 7. g3 f6 8. h3 Qe5 9. a4 Qxg3+ 10. Kd2 Qf2+ 11. Ne2 Qxf3 12. b4 c4 13. dxc4 Qxh1 14. cxd5 Qxd5+ 15. Nd4 b6 16. c4 Qe5 17. e4 Qxe4 18. h4 Qxd4+ 19. Bd3 Qxh4 20. a5 Qh6+ 21. Ke1 Qh4+ 22. Kf1 Qh3+ 23. Ke1 Qh1+ 24. Bf1 Qh4+ 25. Kd2 Qd4+ 26. Bd3 Qxa1 27. axb6 axb6 28. b5 Ra2+ 29. Bb2 Qxb2+ 30. Bc2 Qd4+ 31. Kc1 Qxc4 32. Qxd7+ Kxd7 33. Nd2 Qxc2# 0-1

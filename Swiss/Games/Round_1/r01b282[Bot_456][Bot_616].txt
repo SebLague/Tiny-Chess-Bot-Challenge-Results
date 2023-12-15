@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "HikuBot (by: Hikushii)"]
+[Black "Goldfinch (by: ATG)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. e5 Ne4 3. d3 Nc5 4. d4 Ne6 5. d5 Nc5 6. Nf3 c6 7. Nc3 a5 8. Be2 a4 9. O-O d6 10. Re1 dxe5 11. Nxe5 Nbd7 12. Bf3 Nxe5 13. Rxe5 Qd6 14. Re1 Qf6 15. dxc6 bxc6 16. Nb5 cxb5 17. Bxa8 Nb7 18. Qd5 Qa6 19. Rd1 f6 20. h4 Qxa8 21. Qc6+ Kf7 22. Rd8 a3 23. Rxc8 axb2 24. Bxb2 Qa7 25. Qe8+ Ke6 26. Rc7 b4 27. Re1+ Kf5 28. Rc4 Qxf2+ 29. Kxf2 h5 30. Qf7 Rh6 31. Re5# 1-0

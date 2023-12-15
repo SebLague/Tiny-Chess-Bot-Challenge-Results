@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "52"]
+[White "MirrorBot (by: Jackk)"]
+[Black "evilbot v2 (by: aria1400)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 h6 2. h3 e6 3. e3 Ke7 4. Ng1 e5 5. e4 b6 6. b3 Nf6 7. Nf3 Nxe4 8. Nxe5 a6 9. a3 b5 10. b4 f5 11. f4 c6 12. c3 Ke8 13. Ra2 Qh4+ 14. Ke2 Qh5+ 15. Ke1 Qxd1+ 16. Kxd1 Nf2+ 17. Ke1 Nxh1 18. Nxd7 Bxd7 19. Bxb5 axb5 20. Ra1 Ke7 21. Ke2 h5 22. h4 Kd6 23. Kd3 Ra4 24. c4 bxc4+ 25. Kxc4 Be6+ 26. Kd3 Na6 27. Nc3 Nf2+ 28. Ke3 Ng4+ 29. Kf3 Nh2+ 30. Ke3 Nf1+ 31. Kf3 Nh2+ 32. Ke3 Nf1+ 33. Kd4 c5+ 34. Kd3 c4+ 35. Kc2 Ne3+ 36. dxe3 Nxb4+ 37. axb4 Rxa1 38. e4 fxe4 39. Nxe4+ Kd7 40. Nc5+ Bxc5 41. bxc5 Kc7 42. Be3 Rha8 43. c6 Kxc6 44. Kc3 R8a3+ 45. Kd2 Bg8 46. Bc5 Kxc5 47. g4 hxg4 48. Ke2 Kb4 49. Kd2 Rg1 50. Kc2 Ra2# 0-1

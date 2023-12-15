@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "8"]
+[White "NightBot (by: Matthias Kruis)"]
+[Black "Sky-Bot (by: Sky64Redstone)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 Nf6 2. e4 d5 3. exd5 Nxd5 4. Nf3 Nxc3 5. bxc3 g6 6. d4 Bg7 7. Be3 O-O 8. Bc4 Nc6 9. O-O Bf5 10. Rb1 Rb8 11. Qe2 e6 12. Rbd1 Ne7 13. Bg5 h6 14. d5 hxg5 15. dxe6 fxe6 16. Rxd8 Rfxd8 17. g4 Bxg4 18. Bxe6+ Bxe6 19. Qxe6+ Kh8 20. Qxe7 Re8 21. Qf7 g4 22. Ng5 Rbc8 23. Qxg6 Kg8 24. Ne6 Re7 25. Nxg7 Rxg7 26. Qe6+ Kh7 27. Qxc8 b6 28. Qf5+ Rg6 29. Re1 g3 30. Re6 gxf2+ 31. Kxf2 c6 32. Qxg6+ Kh8 33. Re8# 1-0

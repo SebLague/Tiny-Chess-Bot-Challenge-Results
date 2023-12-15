@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "7"]
+[White "Marvin (by: Kerem Bekmez)"]
+[Black "Garbage Bot (by: Big Nerd)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 c5 2. Nf3 f6 3. Ne4 h5 4. Nxc5 Rh6 5. Na4 Rh7 6. Nc3 a6 7. d3 Rh8 8. d4 e6 9. Qd3 a5 10. Qe3 Rh7 11. Qd3 f5 12. d5 exd5 13. Qxf5 Rh8 14. Qg6+ Ke7 15. Nxd5# 1-0

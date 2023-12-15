@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "15"]
+[White "evilbot v2 (by: aria1400)"]
+[Black "Simpleton.01 (by: Bee)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nh3 d5 2. Ng1 Bf5 3. f3 h6 4. a4 Nc6 5. Kf2 Bxc2 6. Qxc2 Nd4 7. Qc3 Nxf3 8. Kxf3 Qd6 9. h3 Qg6 10. Na3 Qf5+ 11. Ke3 Qe4+ 12. Kf2 Qxa4 13. Qc5 Qf4+ 14. Ke1 e5 15. Qb5+ c6 16. Qb3 Bxa3 17. Rxa3 Qh4+ 18. Kd1 b6 19. Kc2 Qf2 20. Rh2 f6 21. Qc3 Qxg1 22. Qxc6+ Ke7 23. Qxa8 Qc5+ 24. Kb1 Qxc1+ 25. Kxc1 g6 26. Qxa7+ Kf8 27. Qxb6 Kg7 28. Qc5 Rh7 29. Qxd5 Ne7 30. Ra7 g5 31. Rxe7+ Kg6 32. Re8 h5 33. Kb1 Kg7 34. Qd6 Kh6 35. Qxf6# 1-0

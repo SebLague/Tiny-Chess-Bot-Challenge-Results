@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "36"]
+[White "RP Bot (by: Matt Enad (RobProductions))"]
+[Black "Cirno the Smartest (by: Toffee)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 e6 2. e4 Qf6 3. c3 a6 4. c4 Nc6 5. d5 Bb4+ 6. Ke2 exd5 7. exd5 Nd4+ 8. Ke3 Qe5+ 9. Kd3 Ne6 10. Qf3 Nc5+ 11. Kc2 d6 12. Bd2 Bf5+ 13. Kc1 Bxd2+ 14. Kxd2 Qxb2+ 15. Kd1 Qxa1 16. Qxf5 Qb2 17. Qc2 Qd4+ 18. Kc1 Qf4+ 19. Kb2 Qe5+ 20. Ka3 b5 21. Nf3 b4+ 22. Kxb4 Qh5 23. Qe2+ Ne7 24. Nc3 Rb8+ 25. Ka3 Qh6 26. Qe1 Qg6 27. Na4 Qc2 28. Nd4 Qxa4# 0-1

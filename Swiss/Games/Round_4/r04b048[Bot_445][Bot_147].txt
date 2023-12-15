@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "3"]
+[White "KunoVonHagenBot (by: Jakob)"]
+[Black "The Seeker (by: Lucas Pellegrinelli)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. Nc3 dxe4 3. Nxe4 Qd4 4. d3 Qd5 5. c4 Qc6 6. Nf3 Bg4 7. Bf4 f5 8. Nc3 Nd7 9. d4 Bxf3 10. Qxf3 Qxf3 11. gxf3 e5 12. dxe5 g5 13. Bxg5 Nxe5 14. f4 Nf3+ 15. Ke2 Nxg5 16. fxg5 Bg7 17. Bg2 O-O-O 18. Rhd1 Re8+ 19. Kd3 Kb8 20. a4 Be5 21. h4 Ne7 22. a5 Ng6 23. Bd5 Nxh4 24. a6 c6 25. Bf7 Re7 26. Bh5 bxa6 27. Rxa6 Rg7 28. Rg1 Rb7 29. Re1 Bg7 30. Kc2 Rb6 31. Rxb6+ axb6 32. Re6 Bxc3 33. Kxc3 Rg8 34. Rxc6 Rxg5 35. Rxb6+ Ka8 36. Rh6 Ng6 37. Rxh7 Kb8 38. Bf3 Ne5 39. Bd5 Ng4 40. f4 Rg6 41. Bf3 Rg8 42. Rb7+ Ka8 43. Rg7+ Kb8 44. Rxg8+ Ka7 45. c5 Ka6 46. Kb4 Ne3 47. Ra8# 1-0

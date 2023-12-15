@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "44"]
+[White "HopeBot (by: Chinmay Krishna)"]
+[Black "Depth2 (by: David Montealegre)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 Nc6 2. Qg4 Nb8 3. g3 e5 4. Nf3 Nf6 5. Qa4 e4 6. Ne5 a6 7. h4 a5 8. Be2 h6 9. f4 g6 10. Qc4 d5 11. Qb5+ Ke7 12. Qc5+ Ke8 13. Bb5+ c6 14. Bxc6+ bxc6 15. Qd4 c5 16. Qa4+ Ke7 17. Qb3 Nc6 18. Nxc6+ Ke6 19. Nxd8+ Kd6 20. Nxf7+ Kc7 21. Nxh8 Rb8 22. Qa3 Bf5 23. Qxa5+ Kd6 24. b3 Ne8 25. Qa6+ Ke7 26. c4 dxc4 27. bxc4 Rxb1 28. Rxb1 Bg7 29. Qb7+ Ke6 30. Nf7 Kf6 31. Bb2+ Ke6 32. h5 Bxb2 33. Rxb2 gxh5 34. Nxh6 Bg6 35. Ke2 Kf6 36. Qd7 Nd6 37. Ng8# 1-0

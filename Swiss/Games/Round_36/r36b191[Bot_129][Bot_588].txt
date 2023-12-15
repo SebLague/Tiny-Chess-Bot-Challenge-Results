@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "35"]
+[White "Chemibot (by: Mike Chemi)"]
+[Black "Mobilibot (by: Gabriel N.)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g4 e5 2. Bg2 Qh4 3. e4 Bb4 4. Qf3 d5 5. exd5 Bf5 6. Qxf5 Nd7 7. a3 Ne7 8. axb4 Nxf5 9. gxf5 Ke7 10. b5 Qe4+ 11. Bxe4 a5 12. b3 Nf6 13. Ba3+ Kd7 14. f3 Nxe4 15. fxe4 h5 16. h4 Rh6 17. d3 a4 18. bxa4 Rb6 19. c4 Rh6 20. c5 Ke7 21. c6+ Rd6 22. cxb7 c5 23. bxa8=Q Kd7 24. Qb7+ Ke8 25. Qb8+ Kd7 26. Qa7+ Ke8 27. Qxc5 Rh6 28. Qc8# 1-0

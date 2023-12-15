@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "33"]
+[White "CompressionBot (by: Nathan George)"]
+[Black "Mr. JB73 (by: Name: Francisco Gaspar      Nickname: James Bond 73)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nc6 2. Nc3 e5 3. e4 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. e5 Qe7 8. Qe2 Nd5 9. Bd2 O-O 10. Nxd5 Bxd2+ 11. Qxd2 Qxe5+ 12. Ne3 Qxb2 13. Qc1 Qc3+ 14. Kd1 d5 15. Bd3 Re8 16. Rb1 Qf6 17. Qd2 d4 18. Nc4 Ba6 19. Kc1 Rad8 20. Rb2 c5 21. f4 Qe6 22. Na3 c4 23. Nxc4 Bxc4 24. f5 Qc6 25. Kb1 Bd5 26. Bb5 Qc3 27. Qf2 Rb8 28. Rd1 a6 29. f6 Rxb5 30. Rxb5 axb5 31. fxg7 Bxa2+ 32. Kc1 Qa3+ 33. Kd2 d3 34. Qf3 Bc4 35. Re1 Qb4+ 36. c3 Qb2+ 37. Kd1 Bb3# 0-1

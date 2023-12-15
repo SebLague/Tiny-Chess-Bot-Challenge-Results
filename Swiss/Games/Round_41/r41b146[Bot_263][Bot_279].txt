@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "40"]
+[White "Concrete (by: Jewel)"]
+[Black "CosmoDMBot (by: CosmoDM)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 f5 2. c4 e5 3. d4 Nf6 4. dxe5 Ne4 5. a3 c6 6. b4 a5 7. Qd4 axb4 8. a4 Bc5 9. Qd1 Bxf2# 0-1

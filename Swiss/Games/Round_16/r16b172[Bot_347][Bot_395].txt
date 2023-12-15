@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "15"]
+[White "GM Manneken pis (by: Broguld)"]
+[Black "MattWBot (by: Matt W)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. Bg5 d5 3. c4 dxc4 4. Qa4+ Nc6 5. Bxf6 exf6 6. Qb5 Qd6 7. f4 Qxd4 8. g4 Ke7 9. g5 fxg5 10. Qxg5+ Kd7 11. Qg4+ Ke8 12. Nf3 Bb4+ 13. Nbd2 Qxb2 14. f5 Ke7 15. Qe4+ Kd8 16. Qd5+ Bd6 17. Rb1 Qc2 18. e4 c3 19. Kf2 Rf8 20. Ne1 Qa4 21. Bb5 Qa5 22. Bxc6 Qxd5 23. Bxd5 cxd2 24. Nd3 c6 25. e5 Bxf5 26. exd6 cxd5 27. Rb3 Rc8 28. Rg1 Rc6 29. h4 Kc8 30. a4 Rc2 31. d7+ Bxd7 32. Rd1 Kc7 33. Nb4 Bg4 34. Nxc2 Bxd1 35. Rc3+ Kd8 36. Kg1 Bxc2 37. Rc8+ Kxc8 38. h5 Bxa4 39. h6 d1=Q+ 40. Kh2 Qf3 41. hxg7 Rg8 42. Kg1 Bc6 43. Kh2 d4 44. Kg1 Qg2# 0-1

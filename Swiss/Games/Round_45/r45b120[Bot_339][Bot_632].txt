@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "44"]
+[White "TinyNoTimeToCodeChessEngine (by: )"]
+[Black "Dried Cod (by: Josh & Laurin)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a4 e5 2. c4 d5 3. cxd5 Qxd5 4. Nc3 Qc5 5. b3 b5 6. axb5 Qd4 7. Nf3 Qb4 8. Nxe5 Qd4 9. Nf3 Qf6 10. e4 Bg4 11. Bc4 Bc5 12. Bd5 Bxf3 13. Qxf3 c6 14. bxc6 Qxf3 15. gxf3 Ne7 16. c7 Nbc6 17. d4 Bxd4 18. Nb5 Bxa1 19. Bxc6+ Nxc6 20. Bb2 Bxb2 21. Kd1 Be5 22. f4 Bxf4 23. e5 Bxe5 24. Re1 O-O 25. Rxe5 Nxe5 26. Nd6 Ng4 27. f3 Nh6 28. b4 Rad8 29. cxd8=Q Rxd8 30. Kc1 Rxd6 31. Kc2 Nf5 32. Kb3 Nd4+ 33. Kc4 Nxf3 34. Kb3 Nxh2 35. Kc4 Ng4 36. Kc5 Re6 37. Kd4 Kf8 38. Kc3 Rc6+ 39. Kb2 Nf6 40. Ka2 Rb6 41. Ka3 Nd5 42. b5 Rxb5 43. Ka2 Ke7 44. Ka1 Ke6 45. Ka2 h6 46. Ka1 h5 47. Ka2 h4 48. Ka1 h3 49. Ka2 h2 50. Ka1 h1=Q+ 51. Ka2 Ke5 52. Ka3 Qa1# 0-1

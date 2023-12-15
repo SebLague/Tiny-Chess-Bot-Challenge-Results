@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "57"]
+[White "AlphaBetaZero (by: MV974)"]
+[Black "Mini Lapdok (by: Lapdok)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e5 2. Bd3 Nc6 3. Nf3 Nf6 4. O-O e4 5. Bb5 exf3 6. Qxf3 Bd6 7. d4 g5 8. h4 g4 9. Qf5 a6 10. Bc4 Be7 11. Qg5 d5 12. Bd3 Ne4 13. Qg7 Bf6 14. Qh6 Bxh4 15. Bxe4 Bg5 16. Qxh7 Bf6 17. Nc3 Rxh7 18. Bxh7 b5 19. a3 Ne7 20. f3 g3 21. Bd2 Bf5 22. Bxf5 Nxf5 23. Ne2 c5 24. dxc5 Qe7 25. c4 dxc4 26. Ra2 Rd8 27. Bc1 Qxc5 28. Re1 Nxe3 29. Nxg3 Rd1 30. Rxd1 Nxd1+ 31. Kh2 Qe5 32. f4 Qd5 33. b3 Nc3 34. Rd2 Qe6 35. Bb2 Qg4 36. Bxc3 Bxc3 37. Re2+ Kd7 38. Re4 Qh4+ 39. Kg1 Qxg3 40. f5 cxb3 41. f6 Bxf6 42. Rb4 Qe1+ 43. Kh2 Be5+ 44. Rf4 Bxf4+ 45. g3 Qxg3+ 46. Kh1 Qh2# 0-1

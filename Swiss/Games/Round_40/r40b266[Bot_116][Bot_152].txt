@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "39"]
+[White "MirrorBot (by: Jackk)"]
+[Black "Attempts to win (by: Taylor Lineman)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f3 Nc6 2. Nc3 e6 3. e3 h5 4. h4 Ke7 5. Kf2 Kd6 6. Qe2 Be7 7. a4 Bxh4+ 8. Rxh4 Qxh4+ 9. g3 Qxg3+ 10. Kxg3 Ke7 11. Bg2 Nb4 12. Nb5 Nxc2 13. Nxc7 Nxa1 14. Nxa8 b5 15. axb5 a5 16. bxa6 f6 17. Kh4 Nb3 18. Nb6 Nh6 19. Nxc8+ Rxc8 20. Nh3 Nf5+ 21. Kxh5 Rh8+ 22. Kg6 Nxc1 23. Nf4 Nd3 24. Nxe6 dxe6 25. Qxd3 Rh6# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "13"]
+[White "SimpleBot (by: :LMProgramming)"]
+[Black "Traderino (by: BenLS)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e5 2. Qg4 f5 3. Qxf5 a5 4. Qxe5+ Kf7 5. Qd5+ Ke7 6. Qc5+ d6 7. Qg5+ Ke8 8. Qb5+ Kf7 9. Qb3+ d5 10. Qb5 Kg6 11. Bd3+ Kh6 12. Nf3 c5 13. Qa4 Be6 14. Qf4+ Qg5 15. Qxg5# 1-0

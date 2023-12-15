@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "25"]
+[White "PlinkBot (by: superplink)"]
+[Black "Negative Depth (by: Zoltán Kürti)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. Nc3 Na6 3. d4 d5 4. Qd2 e6 5. Kd1 Nb4 6. a3 Nc6 7. Ne5 Ne4 8. Nxe4 dxe4 9. Nxc6 bxc6 10. f3 f5 11. fxe4 fxe4 12. Qe3 c5 13. Qxe4 Ba6 14. Qxe6+ Be7 15. Qc6+ Kf7 16. Qxa6 cxd4 17. Bf4 Bd6 18. Bxd6 h6 19. Qc4+ Kg6 20. Bxc7 Qd7 21. Qa6+ Kg5 22. h4+ Kh5 23. Bd6 Rhd8 24. Be5 Qg4 25. Bc7 Re8 26. Rc1 Qd7 27. Qa5+ Kg6 28. g3 Qc6 29. Rg1 Qd7 30. Bg2 Rac8 31. Be5 Rf8 32. Be4+ Kf7 33. Bd5+ Kg6 34. Bxd4 Rcd8 35. Qa6+ Qd6 36. Be4+ Kh5 37. Qxd6 Rxd6 38. e3 Rfd8 39. Bd3 Rxd4 40. exd4 Rxd4 41. Ke2 Rd5 42. Kf3 Rd6 43. Rgd1 Rb6 44. b3 Rb7 45. Be4 Rf7+ 46. Kg2 g5 47. Bd5 Re7 48. Bf3+ Kg6 49. hxg5 hxg5 50. Rd8 Re5 51. Rd7 Ra5 52. Be4+ Kf6 53. Ra1 Ke5 54. Bc6 g4 55. b4 Ra6 56. Re1+ Kf6 57. Rd6+ Kf7 58. Bd5+ Kg7 59. Rxa6 Kh8 60. Re8+ Kg7 61. Rxa7+ Kf6 62. Rd7 Kg6 63. Kg1 Kf5 64. Rd6 Kg5 65. Re5# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "37"]
+[White "lowEloBrain (by: bbb908)"]
+[Black "Two Day Bot (by: )"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. e5 Ne4 3. f4 b6 4. Bc4 e6 5. d3 Qh4+ 6. Kf1 Qf2# 0-1

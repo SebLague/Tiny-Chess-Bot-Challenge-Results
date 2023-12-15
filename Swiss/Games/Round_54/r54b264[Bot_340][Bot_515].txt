@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "53"]
+[White "PacifistBot (by: Noano01)"]
+[Black "RedVallium (by: Piotr Bożek)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 e5 2. Nc3 Bc5 3. Ne4 Qh4 4. d4 Qxf2+ 5. Kd2 Qxf1 6. Kc3 Qxd1 7. Kc4 Qxc1 8. Re1 Qxa1 9. g4 Qxe1 10. h4 Qxe2+ 11. Kc3 Qxc2+ 12. Kxc2 Bxd4 13. Nd6+ cxd6 14. b4 d5 15. a4 h6 16. g5 hxg5 17. b5 Rxh4 18. b6 Bxb6 19. Nd4 Rxd4 20. a5 Bxa5 21. Kb2 d6 22. Ka1 g6 23. Ka2 g4 24. Ka1 e4 25. Ka2 a6 26. Ka1 g3 27. Ka2 g5 28. Ka1 b6 29. Ka2 e3 30. Ka1 f6 31. Ka2 g4 32. Ka1 f5 33. Ka2 f4 34. Ka1 e2 35. Ka2 e1=Q 36. Ka3 f3 37. Ka2 f2 38. Ka3 f1=Q 39. Ka2 g2 40. Ka3 g3 41. Ka2 b5 42. Ka3 g1=Q 43. Ka2 b4 44. Kb2 Qb1# 0-1

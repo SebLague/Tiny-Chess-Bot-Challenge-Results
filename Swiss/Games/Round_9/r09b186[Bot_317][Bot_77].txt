@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "8"]
+[White "Basil (by: torbenikum)"]
+[Black "OrionChessEngine (by: Maarten Peels)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 f5 2. c4 Nf6 3. d3 Nc6 4. Bd2 h6 5. Qb3 h5 6. Bc3 Kf7 7. Qc2 Ke8 8. Nbd2 e6 9. Nb1 Ng8 10. Na3 Qh4 11. Nxh4 Ke7 12. Ng6+ Kd6 13. c5+ Kd5 14. Qb3+ Kxc5 15. Qb5+ Kd6 16. Nc4# 1-0

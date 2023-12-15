@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "14"]
+[White "ItPlaysBetterThanMe (by: RB)"]
+[Black "Bob (by: Victor)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 Nc6 2. f4 Nf6 3. h4 e5 4. f5 d6 5. a3 Bxf5 6. d3 Bg4 7. c3 Bxd1 8. Kxd1 Ng4 9. b3 Nf2+ 10. Ke1 Nxh1 11. c4 Qxh4+ 12. Ke2 Qf2+ 13. Kd1 Qxf1+ 14. Kd2 Qxg1 15. a4 Qxg2+ 16. Kd1 Qg1+ 17. Ke2 Qxc1 18. e4 Nd4# 0-1

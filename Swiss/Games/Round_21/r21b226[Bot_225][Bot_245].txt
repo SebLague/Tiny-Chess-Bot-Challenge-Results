@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "20"]
+[White "MinimalBot (by: GreenSalad_)"]
+[Black "Gen-Eric (by: Pressgoal)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 Na6 2. Nb5 c6 3. Nd6+ exd6 4. Rb1 Nb4 5. Ra1 Qh4 6. g4 Qxg4 7. Bg2 Qxg2 8. Nf3 Qxh1+ 9. Ng1 Qxg1# 0-1

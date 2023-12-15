@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "48"]
+[White "Game Tech Explained Bot (by: Game Tech Explained)"]
+[Black "Deerobot (by: Hugo Ingelsson)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nc6 2. d5 Nb4 3. e4 Nf6 4. Nc3 d6 5. a3 Na6 6. Bb5+ Bd7 7. Bxa6 bxa6 8. Qd3 Qc8 9. Nf3 c5 10. Bf4 Bg4 11. b3 Nh5 12. Bg5 f5 13. h3 fxe4 14. Nxe4 Bf5 15. g4 Bxe4 16. Qxe4 Nf6 17. Bxf6 gxf6 18. O-O-O Qd7 19. Kb1 Bh6 20. Rhe1 a5 21. Nh4 Rd8 22. Nf5 Bf8 23. Qd3 a4 24. bxa4 Qxa4 25. Qc3 Rg8 26. Qe3 Rd7 27. Qg3 Rb7+ 28. Kc1 Kd8 29. Qf3 Qb5 30. Qe3 h5 31. gxh5 Rh8 32. Qf3 Qe8 33. Nxd6 Bh6+ 34. Rd2 Bxd2+ 35. Kxd2 exd6 36. Qxf6+ Kd7 37. Rxe8 Rxe8 38. h6 Re7 39. Kd3 a5 40. f4 a4 41. h4 Ra7 42. Qf8 Rb7 43. Qa8 Rc7 44. Qxa4+ Kd8 45. Qa6 Kd7 46. Qb5+ Kc8 47. c4 Rf7 48. Qa6+ Kd7 49. Qa4+ Ke7 50. Qa5 Rd7 51. Qe1+ Kd8 52. Qg3 Kc7 53. Ke4 Rf6 54. Qg5 Rf8 55. f5 Rdf7 56. Qg6 Rxf5 57. Qxf5 Re8+ 58. Kf4 Rd8 59. h7 Rh8 60. Qf7+ Kb6 61. Qg8 Rxh7 62. Qxh7 Ka6 63. Qd7 Kb6 64. a4 Ka6 65. a5 Kxa5 66. Qb5# 1-0

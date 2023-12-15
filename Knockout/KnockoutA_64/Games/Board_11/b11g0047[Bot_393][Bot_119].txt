@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Knockout 64"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "-1"]
+[White "John (by: Marcin)"]
+[Black "kesslbot (by: kesslwovv)"]
+[Result "1-0"]
+[TimeControl "30+0.1"]
+[Termination "Checkmate"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Bg4 5. h3 Bxf3 6. Qxf3 Nd7 7. Be2 Ngf6 8. d4 e5 9. Nxf6+ Qxf6 10. Qxf6 gxf6 11. dxe5 Nxe5 12. Be3 Bg7 13. O-O-O O-O 14. a4 a5 15. h4 Rfe8 16. h5 h6 17. Rh4 Rab8 18. Rhd4 Bf8 19. Re4 b6 20. Bd2 c5 21. Bc3 Bg7 22. f4 Nc6 23. Rxe8+ Rxe8 24. Bb5 Rc8 25. Rd6 Ne7 26. Bxf6 Bxf6 27. Rxf6 Kg7 28. Rxb6 Nd5 29. Ra6 Nxf4 30. g4 Rg8 31. Rxa5 Kf6 32. Ra6+ Ke5 33. Rxh6 Rxg4 34. a5 Rg1+ 35. Kd2 Rg2+ 36. Kc3 Nd5+ 37. Kb3 Ne3 38. a6 c4+ 39. Bxc4 Nxc4 40. Kxc4 Rxc2+ 41. Kb3 Rc1 42. Rb6 Ra1 43. h6 Kd5 44. h7 Rh1 45. a7 Rh3+ 46. Ka2 Ke5 47. a8=Q Rxh7 48. Qa5+ Kf4 49. Rf6+ Ke4 50. Qf5+ Kd4 51. Qxh7 Ke3 52. Qxf7 Kd2 53. Qd5+ Ke2 54. Qe4+ Kd2 55. Rd6+ Kc1 56. Qc6# 1-0

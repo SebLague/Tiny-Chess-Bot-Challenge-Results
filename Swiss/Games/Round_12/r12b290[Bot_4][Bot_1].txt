@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "11"]
+[White "Sore Loser Bot (by: Techno)"]
+[Black "The Chotic bot (by: EV3L1N)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. g4 f6 2. Bh3 Nc6 3. f4 g6 4. Bg2 Nh6 5. f5 Nb8 6. c4 Nxg4 7. Nh3 h6 8. e3 c5 9. Qc2 Nxh2 10. b4 h5 11. Ba3 Qc7 12. Qc1 gxf5 13. Rf1 b6 14. d3 Na6 15. Bxa8 Kf7 16. Bh1 d6 17. Bb7 e5 18. Qc3 Bh6 19. Rh1 Rf8 20. Kd2 Nf1+ 0-1

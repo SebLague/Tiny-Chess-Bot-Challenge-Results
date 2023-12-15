@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "37"]
+[White "Chessy (by: SebastianB)"]
+[Black "BlindfoldBot (by: Mk-0)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. e4 Nf6 2. f3 a6 3. Bxa6 bxa6 4. h4 d5 5. d3 d4 6. Qe2 a5 7. Nd2 a4 8. b4 e6 9. b5 c6 10. g3 cxb5 11. Rh2 Qd6 12. a3 Qxg3+ 13. Rf2 Qxg1+ 14. Nf1 Qh1 15. e5 Nd5 16. c4 dxc3 17. Rb1 b4 18. axb4 Qxh4 19. Ne3 Qh1+ 20. Nf1 Qh4 21. Ne3 Qh1+ 22. Nf1 Qh4 1/2-1/2

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "25"]
+[White "TalkChess (by: Thomas Jahn, Mike Sherwin, Dmitry Shechtman)"]
+[Black "YAMMB  (by: Dovakin7)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e5 2. Nf3 Qf6 3. d4 exd4 4. Qxd4 Qxd4 5. Nxd4 Bb4 6. e4 Nf6 7. Bd3 d5 8. Bb5+ c6 9. e5 cxb5 10. exf6 gxf6 11. Nxb5 Ke7 12. Kf1 Bxc3 13. Nxc3 Rd8 14. Kg1 d4 15. Ne4 Bf5 16. f3 Rg8 17. Bf4 Bxe4 18. fxe4 Na6 19. Rd1 Rac8 20. Rxd4 Rxc2 21. Bd6+ Ke6 22. Bg3 Rc1+ 23. Kf2 Rxh1 24. Rd2 Ke7 25. Rc2 Rd8 26. Re2 Nc5 27. Re3 Rd2+ 28. Re2 Nxe4+ 29. Ke3 Rxe2+ 30. Kxe2 Nxg3+ 31. hxg3 Rb1 32. b3 Rb2+ 33. Kf1 Rxa2 34. Kg1 h5 35. Kh1 Ra1+ 36. Kh2 f5 37. b4 b5 38. g4 hxg4 39. Kg3 Rb1 40. Kh2 f4 41. g3 Rb2+ 42. Kg1 fxg3 43. Kf1 f5 44. Kg1 Kd6 45. Kf1 f4 46. Ke1 g2 47. Kd1 g1=Q# 0-1

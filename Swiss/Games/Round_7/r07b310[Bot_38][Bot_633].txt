@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "6"]
+[White "Asymptotically optimal (by: Graham Gayler)"]
+[Black "LadyLuckGuidesMyMinMaxSearch (by: MrPelluke)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Fifty move draw"]
+
+1. e3 h6 2. Bc4 c5 3. Bxf7+ Kxf7 4. Qh5+ Ke6 5. Qf5+ Kd6 6. Qg5 g6 7. Qxh6 Kc6 8. Qxf8 Kd6 9. Kd1 b6 10. Ke2 Ba6+ 11. Kd1 Rh3 12. Nxh3 c4 13. Qxg8 Qc8 14. Qxg6+ Kd5 15. Qxb6 e6 16. Qxa6 Ke4 17. Qxc8 Kf5 18. Nc3 d5 19. Ke1 Na6 20. Kd1 Kg6 21. Ke1 d4 22. Kd1 Rb8 23. Ke1 Rb3 24. Kd1 dxe3 25. Ke1 Kf7 26. Kd1 Ke7 27. Qxa6 Ke8 28. cxb3 e2+ 29. Kc2 Kd7 30. Kb1 Ke7 31. Kc2 cxb3+ 32. Kxb3 Kd7 33. Kc2 e1=B 34. Kb1 Kd8 35. Rxe1 Kc7 36. Qxe6 a6 37. Kc2 Kb8 38. Qxa6 Kc7 39. Qf6 Kc8 40. Kb1 Kb8 41. Kc2 Ka8 42. Kb1 Ka7 43. Rf1 Kb8 44. Rg1 Ka8 45. Qg5 Ka7 46. Qe7+ Ka8 47. Qe6 Kb7 48. Qg4 Ka7 49. Kc2 Kb7 50. Kb1 Ka6 51. Kc2 Ka5 52. Kb1 Kb6 53. Re1 Ka5 54. Re5+ Kb6 55. Qd4+ Ka6 56. Kc2 Kb7 57. Qd8 Kc6 58. Re2 Kc5 59. Re4 Kc6 60. Kb3 Kb7 61. Kc2 Ka6 62. Kb1 Kb7 63. Re8 Ka7 64. Qd7+ Kb6 65. Qd4+ Kc6 66. Re2 Kc7 67. Qe4 Kb8 68. Qf5 Ka8 69. Kc2 Kb7 70. Kb1 Ka7 71. Qd3 Kb6 72. Kc2 Kc7 73. Qd8+ Kb7 74. Qd4 Ka6 75. Kb1 Ka5 76. Kc2 Ka6 77. Kb3 Kb7 78. Kc4 Ka8 79. Kb3 Kb8 80. Qb4+ Ka8 81. Kc2 Ka7 82. Kb1 Ka6 83. Re6+ Ka7 84. Kc2 Ka8 85. Re3 Ka7 86. Kd3 Ka6 87. Kc2 Ka7 88. Kb1 1/2-1/2

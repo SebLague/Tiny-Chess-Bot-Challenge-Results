@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "One-Man Army (by: Brodie Eaton)"]
+[Black "CapivaraBot (by: Danilo Luiz Rheinheimer)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nh3 h5 2. Rg1 f5 3. Na3 e5 4. Rb1 g5 5. d3 g4 6. Qd2 gxh3 7. Qd1 hxg2 8. Qd2 gxf1=B 9. Kd1 Bh3 10. Qf4 exf4 11. Rg3 fxg3 12. Be3 gxh2 13. Rc1 h1=Q+ 14. Kd2 Bb4+ 15. c3 Bxc3+ 16. Kc2 Be1 17. Rb1 d5 18. Rc1 a5 19. Rb1 c6 20. Rc1 b5 21. Rb1 h4 22. Rc1 d4 23. Rb1 dxe3 24. Rc1 exf2 25. Rb1 f1=Q 26. Rc1 Qxd3+ 27. Kxd3 Qe4# 0-1

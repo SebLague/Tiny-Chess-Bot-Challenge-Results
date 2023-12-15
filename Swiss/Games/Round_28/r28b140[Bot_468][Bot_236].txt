@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "27"]
+[White "ColégramBot (by: Colégram)"]
+[Black "DeadlineNightmare (by: Trololp)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c3 c5 2. d4 cxd4 3. cxd4 Qa5+ 4. Bd2 Qc7 5. Na3 Qb6 6. Rc1 Kd8 7. Qc2 Na6 8. Qb3 Qxd4 9. Qxf7 Nf6 10. Nc4 Kc7 11. Nf3 Qe4 12. Ng5 Qd4 13. Be3 Qh4 14. g3 Qh6 15. Nf3 g5 16. Bxg5 Kc6 17. Nce5+ Kb5 18. Qc4+ Ka5 19. e4 Nc7 20. Qxc7+ Ka4 21. h4 Qh5 22. g4 Nxg4 23. Qc5 Qxg5 24. b3# 1-0

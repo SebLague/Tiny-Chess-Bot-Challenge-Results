@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "14"]
+[White "1o1 (by: Pavan Manish)"]
+[Black "Guppy (by: Steven He)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. d4 e6 3. Nf3 Nf6 4. Qd3 d5 5. e5 Ne4 6. a3 Be7 7. c3 h5 8. g3 O-O 9. Ke2 f6 10. Nbd2 fxe5 11. Nxe4 dxe4 12. Qxe4 exd4 13. Nxd4 Nxd4+ 14. Qxd4 e5 15. Qc4+ Rf7 16. f3 Qd6 17. Qb5 Bd7 18. Qb3 Qc6 19. Bg2 Bh3 20. Bxh3 Qxf3+ 21. Ke1 Qf2+ 22. Kd1 Rd8+ 23. Bd2 Qxd2# 0-1

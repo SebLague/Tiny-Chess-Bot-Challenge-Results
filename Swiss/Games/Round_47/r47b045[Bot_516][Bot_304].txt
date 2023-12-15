@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "46"]
+[White "TacTxs (by: Mitch)"]
+[Black "SemiroseBot (by: Semirose)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. e5 Qe7 8. Qe2 Nd5 9. Bd2 Bb7 10. Nxd5 Bxd2+ 11. Kxd2 cxd5 12. Kc1 O-O 13. Kb1 Rae8 14. f4 d6 15. Qb5 c5 16. Qa5 dxe5 17. Bb5 Ra8 18. fxe5 a6 19. Bd3 c4 20. Bf1 Rfe8 21. Be2 Qxe5 22. Bf3 Rad8 23. a4 Rb8 24. Ra3 Qd6 25. Ra1 d4 26. Bxb7 Rxb7 27. Ra2 Rbe7 28. Rc1 Re5 29. Qd2 Re2 30. Qg5 Qxh2 31. Ra1 d3 32. Qd5 Rxg2 33. Qc6 Rge2 34. Ka2 a5 35. Re1 Qe5 36. Rxe2 dxe2 37. Re1 Qe4 38. Qxe4 Rxe4 39. Ka1 f5 40. Kb1 f4 41. Rxe2 Rxe2 42. Kc1 f3 43. Kd1 Kf7 44. c3 Kg8 45. Kc1 f2 46. Kb1 f1=Q+ 47. Ka2 Kf7 48. Ka3 Qa1# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Knockout 64"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "-1"]
+[White "Euphoria (by: Andrew Merrill)"]
+[Black "InfuehrDaniel (by: InfuehrDaniel)"]
+[Result "0-1"]
+[TimeControl "30+0.1"]
+[Termination "Checkmate"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Be2 Bd6 7. O-O O-O 8. d4 Qc7 9. Be3 c5 10. c3 Rd8 11. dxc5 Bxh2+ 12. Nxh2 Rxd1 13. Rfxd1 Nc6 14. Nf3 Bg4 15. Rd6 Ne5 16. Rad1 Rf8 17. Re1 Nxf3+ 18. gxf3 Be6 19. a4 h5 20. Bd3 h4 21. b4 Rd8 22. Rxd8+ Qxd8 23. Be4 h3 24. a5 Qd7 25. Kh2 f5 26. Bc2 Qd5 27. Bd4 Qxf3 28. Rg1 g6 29. Rg3 Qf4 30. b5 Bd5 31. Bd3 Bg2 32. b6 axb6 33. cxb6 Qc1 34. Rxg2 hxg2 35. Kxg2 Qg5+ 36. Kf3 Qg4+ 37. Ke3 Qd1 38. Be2 Qc1+ 39. Kf3 Qc2 40. Ke3 Qe4+ 41. Kd2 Qd5 42. Ke3 Qxa5 43. Bf3 Qa3 44. Ke2 Qe7+ 45. Kd3 g5 46. Bd5 g4 47. c4 f4 48. c5 g3 49. Be4 Qd7 50. fxg3 fxg3 51. Bg2 Qb5+ 52. Ke3 Qb3+ 53. Kf4 Qa4 54. Ke3 Qc2 55. Bxb7 g2 56. Bxg2 Qxg2 57. Kf4 f5 58. Kxf5 Qd5+ 59. Be5 Qxc5 60. b7 Qf2+ 61. Bf4 Qc2+ 62. Kg5 Qg2+ 63. Kf6 Qg7+ 64. Ke6 Qf7+ 65. Ke5 Qc7+ 66. Kf5 Qxb7 67. Ke5 Qf3 68. Kf5 Kf7 69. Kg5 Ke6 70. Bc1 Qg3+ 71. Kh6 Qh4+ 72. Kg6 Qf6+ 73. Kh5 Kf5 74. Bd2 Qg6+ 75. Kh4 Qg4# 0-1

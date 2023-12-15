@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "12"]
+[White "Minimaxibon v1 (by: NotSureWhyThisWorks)"]
+[Black "Jbot (by: KaraokeCzar)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Nc3 c5 2. Nf3 f5 3. Nd5 Nf6 4. Nxf6+ gxf6 5. e3 h5 6. Bd3 d5 7. Bb5+ Bd7 8. Bxd7+ Nxd7 9. Nh4 Ne5 10. Nxf5 b5 11. Kf1 a5 12. d4 cxd4 13. exd4 e6 14. dxe5 exf5 15. exf6 h4 16. Qd3 Qxf6 17. Qxb5+ Ke7 18. Qb7+ Ke8 19. Qxa8+ Qd8 20. Qxd8+ Kxd8 21. Bd2 f4 22. Bc3 d4 23. Bxd4 Rg8 24. Be5 a4 25. Rd1+ Ke8 26. Re1 Kd8 27. Bxf4 h3 28. Rd1+ Ke8 29. Re1+ Kd8 30. Rd1+ Ke8 31. Re1+ Kd8 1/2-1/2

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "Shielded Minibot (by: Sesen)"]
+[Black "CompressTable (by: JacobAndSam)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 c6 2. Nf3 f6 3. Nd4 Na6 4. Nf5 Nh6 5. Nxh6 gxh6 6. Ne4 f5 7. e3 fxe4 8. Qh5# 1-0

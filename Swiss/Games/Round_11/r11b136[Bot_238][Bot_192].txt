@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "10"]
+[White "AUR Chessbot (by: Soul Senshi)"]
+[Black "Jormungandr (but scuffed) (by: CptShini)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Nc3 c5 2. Nf3 f5 3. Rb1 Nc6 4. Ra1 Nd4 5. Nd5 Nxf3+ 6. gxf3 e6 7. Ne3 Qh4 8. Rb1 Kf7 9. Ra1 Nh6 10. Rb1 Rb8 11. Ra1 Kf6 12. Rb1 e5 13. c3 Kf7 14. Ra1 Ke7 15. Rb1 Kf7 16. Ra1 Ke7 17. Rb1 Kf7 1/2-1/2

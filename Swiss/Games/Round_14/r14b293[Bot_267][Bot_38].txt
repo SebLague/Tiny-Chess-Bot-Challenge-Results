@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "13"]
+[White "TimsBot (by: Thomas Dvorak)"]
+[Black "Asymptotically optimal (by: Graham Gayler)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. h4 g6 2. g4 e6 3. f4 Ke7 4. e4 b6 5. d4 Ba6 6. c4 c5 7. b4 Bg7 8. a4 cxd4 9. h5 Bxc4 10. h6 Kd6 11. f5 Bxf1 12. Qb3 exf5 13. Qe6+ dxe6 14. g5 Qxg5 15. a5 Qxg1 16. a6 Ke5 17. b5 Qxh1 18. Na3 Nxa6 19. Nc4+ Kxe4 20. Bd2 Kf3 21. O-O-O Bxc4 22. Bg5 Ke2 23. Rg1 Kf2 24. Bd8 Kxg1 25. Be7 Kf1 26. Bf8 Kg1 27. Be7 Rb8 28. Bf8 Kf1 29. Be7 Ke1 30. Bf8 Kf1 31. Be7 Ke1 32. Bf8 Kf1 1/2-1/2

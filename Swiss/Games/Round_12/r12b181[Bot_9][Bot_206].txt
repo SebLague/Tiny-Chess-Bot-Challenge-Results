@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "11"]
+[White "More Recursion! (by: Bden)"]
+[Black "Maple (by: Austin)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 d5 2. Bb5+ c6 3. Qf3 cxb5 4. Qh5 Qd6 5. Nc3 Kd8 6. h3 Qc6 7. b4 g6 8. Qe5 f6 9. Qd4 e5 10. Qh4 g5 11. Qh5 Bxb4 12. h4 gxh4 13. Nf3 d4 14. exd4 exd4 15. Nxb5 Qe4+ 16. Kf1 a6 17. Nc7 Kxc7 18. Qf7+ Ne7 19. Qc4+ Nbc6 20. Rb1 Be6 21. Qxc6+ Nxc6 22. a4 Qxc2 23. Rxb4 Qxc1+ 24. Ke2 Qxh1 25. Rxb7+ Kxb7 26. Nxd4 Nxd4+ 27. Ke3 Qa1 28. a5 Nc6 29. g3 h3 30. d3 h2 31. f4 Qe1+ 32. Kf3 Bf5 33. g4 Rag8 34. gxf5 Ka7 35. d4 Nb4 36. d5 Kb7 37. d6 Kc6 38. d7 Kc7 39. d8=B+ Kc6 40. Bxf6 Rg1 41. Bxh8 Kb5 42. Bd4 h5 43. Bxg1 hxg1=Q 44. f6 Ka4 45. f5 Ka3 46. f7 Ka2 47. f8=B Kb1 48. Bxb4 Qe5 49. Bd2 Qg4+ 50. Kf2 Qgg3+ 51. Kf1 Ka2 52. Bh6 Kb1 53. Bf8 Ka2 54. Bc5 Qf3+ 55. Bf2 Qh3+ 56. Kg1 Ka1 57. Bb6 Qhh2+ 58. Kf1 Qhe2+ 59. Kg1 Qe1+ 60. Kg2 Q5e4+ 61. Kh2 Q1h1+ 62. Kg3 Kb1 63. f6 Kc1 64. Bd8 Kb1 65. Be7 Ka1 66. Kf2 Kb1 67. Bd6 Ka2 68. Bb8 Kb1 69. Ba7 Ka2 70. Bb8 Kb3 71. Bd6 Kc2 72. Bc5 Kb1 73. Be3 Kc2 74. Bc5 Kd1 75. f7 Kc2 76. f8=Q Qh2+ 77. Kf1 Qhh1+ 78. Bg1 Qh3+ 79. Kf2 Qc3 80. Qh6 Qcf3# 0-1

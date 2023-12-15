@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "23"]
+[White "nimbot (by: )"]
+[Black "penny trader (by: ranger6777)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nh3 d5 2. Ng1 Nc6 3. Na3 Nf6 4. Nh3 e5 5. Nb1 Bc5 6. g3 O-O 7. f3 Bf5 8. Na3 e4 9. g4 Nxg4 10. fxg4 Qh4+ 11. Nf2 Qxf2# 0-1

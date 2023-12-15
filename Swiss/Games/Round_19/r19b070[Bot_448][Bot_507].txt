@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "18"]
+[White "Paradox Bot (by: Kekz)"]
+[Black "Mini Lapdok (by: Lapdok)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 d5 2. Nf3 Bf5 3. b4 Nc6 4. b5 Nb4 5. Na3 Be4 6. c3 Bxf3 7. exf3 Qd6 8. cxb4 Qxb4+ 9. Qd2 Qd6 10. Nc2 Qe6+ 11. Ne3 O-O-O 12. g4 Qf6 13. Qd1 e6 14. Bb2 Bb4+ 15. Ke2 Qf4 16. Qa4 Bc5 17. Ng2 Qf6 18. g5 Qxg5 19. dxc5 Kb8 20. Ne1 h5 21. f4 Qg6 22. b6 cxb6 23. cxb6 a6 24. Be5+ Ka8 25. Bc7 Rc8 26. Kd1 Nf6 27. Bxa6 Qb1+ 28. Rxb1 Rxc7 29. Bxb7+ Kxb7 30. Qa7+ Kc6 31. Qxc7# 1-0

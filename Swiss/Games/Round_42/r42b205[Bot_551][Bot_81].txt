@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "41"]
+[White "AchillesAlpha (by: Achilles)"]
+[Black "Paroch (by: Bronson)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a3 a6 2. b3 b5 3. Nc3 a5 4. Nxb5 c5 5. Nc7+ Qxc7 6. f3 d5 7. Rb1 g5 8. Bb2 f6 9. Bc1 f5 10. Bb2 e5 11. Bc1 h6 12. Rb2 h5 13. c4 dxc4 14. Nh3 cxb3 15. Nxg5 c4 16. Rb1 f4 17. Bb2 a4 18. Nh3 h4 19. Ra1 c3 20. Rc1 cxd2+ 21. Kxd2 Qa5+ 22. Kd3 e4+ 23. Kxe4 Qf5+ 24. Kd4 Qf6+ 25. Ke4 Bb7+ 26. Kd3 Qg6+ 27. Kd2 Qd6+ 28. Ke1 Qxd1+ 29. Kxd1 Rh6 30. Nxf4 Rd6+ 31. Nd3 h3 32. Ra1 hxg2 33. Bxg2 Rxd3+ 34. exd3 Bxf3+ 35. Bxf3 Ra7 36. Bh5+ Kd8 37. Bd4 Rd7 38. Bb6+ Kc8 39. Bg4 Bxa3 40. Rxa3 b2 41. Bxd7+ Nxd7 42. Rc3+ Kb8 43. Bc7+ Ka8 44. Kc2 a3 45. Rxa3+ Kb7 46. Rc3 b1=B+ 47. Rxb1+ Ka8 48. Ra3# 1-0

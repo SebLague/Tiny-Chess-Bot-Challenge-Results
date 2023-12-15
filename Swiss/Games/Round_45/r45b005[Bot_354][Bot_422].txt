@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "44"]
+[White "FomBot (by: fominvic81)"]
+[Black "FloppyChess 4.2 (by: Omsk)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. Nf3 Bf5 5. Nc3 Nc6 6. Bb5 Nxc3 7. bxc3 Qd5 8. Qe2 e6 9. O-O a6 10. Bd3 Bxd3 11. Qxd3 Be7 12. Bf4 O-O-O 13. Be5 f6 14. Bg3 f5 15. Ne5 Rhf8 16. Nxc6 Qxc6 17. Be5 Bd6 18. Rae1 Bxe5 19. Rxe5 Rd5 20. Qg3 Rf7 21. Qh3 h6 22. Qf3 Rxe5 23. Qxc6 bxc6 24. dxe5 Rd7 25. f4 Rd5 26. a4 g5 27. h3 Ra5 28. fxg5 hxg5 29. Ra1 Rxe5 30. Kf2 Rc5 31. Ra3 a5 32. Ke2 Kd7 33. Kd3 Rd5+ 34. Ke2 Re5+ 35. Kf2 f4 36. Kf1 Re3 37. Kf2 Kd6 38. Rb3 Kc5 39. c4 Rxb3 40. cxb3 Kb4 41. g3 fxg3+ 42. Kxg3 Kxb3 43. Kf3 Kxa4 44. Ke3 Kb3 45. Kd4 a4 46. Kc5 a3 47. Kxc6 a2 48. c5 a1=Q 49. Kxc7 Qe5+ 50. Kc6 Kb4 51. Kd7 Kxc5 52. Ke7 Qf5 53. Kd8 Qf7 54. h4 Kc6 55. hxg5 Qf8# 0-1

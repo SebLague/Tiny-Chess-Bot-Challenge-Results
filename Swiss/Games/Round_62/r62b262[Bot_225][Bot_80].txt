@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "61"]
+[White "MinimalBot (by: GreenSalad_)"]
+[Black "Knightmare (by: Miguel Piedrafita)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 Na6 2. Nb5 Rb8 3. Nd6+ cxd6 4. Rb1 Ra8 5. Ra1 Rb8 6. Nf3 Ra8 7. Ng5 Rb8 8. Rb1 Ra8 9. Rg1 Rb8 10. Ra1 Ra8 11. Rh1 Rb8 12. Rb1 Ra8 13. Nxf7 Kxf7 14. Ra1 Ke6 15. e4 Ke5 16. d4+ Kxe4 17. Qd3+ Kd5 18. Qc4+ Ke4 19. Bd3# 1-0

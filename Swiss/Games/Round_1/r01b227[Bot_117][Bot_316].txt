@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "BettyBot (by: Thomas / TGhost)"]
+[Black "Sky-Bot (by: Sky64Redstone)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 c5 2. Nc4 d5 3. Ne3 Be6 4. c3 d4 5. Nc2 Nf6 6. cxd4 cxd4 7. Na3 Nc6 8. Rb1 Bxa2 9. Ra1 Bd5 10. Qa4 e5 11. Kd1 Ne4 12. Ke1 Nc5 13. Qd1 Bb3 14. Nc2 d3 15. exd3 Nd4 16. Rb1 Nxc2+ 17. Qxc2 Bxc2 18. Ra1 Nb3 19. Ra2 Nxc1 20. Ra1 Nxd3+ 21. Bxd3 Bxd3 22. Nf3 Qd5 23. Rc1 Qe4+ 24. Kd1 Qe2# 0-1

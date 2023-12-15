@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "12"]
+[White "RandomUnoptimisedBot (by: Zhanybek)"]
+[Black "Funko Bot (by: Sky Sherwood)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. Na3 h5 2. Rb1 g6 3. Nb5 h4 4. f3 f6 5. a3 d6 6. Ra1 Nc6 7. h3 Bf5 8. a4 Bxh3 9. Rb1 Ne5 10. b4 Qc8 11. Ra1 a5 12. Nc3 Nd3+ 13. cxd3 Bxg2 14. Rb1 Bxf3 15. Nd5 Bxe2 16. Bh3 axb4 17. a5 Bf1 18. Qa4+ Qd7 19. Kd1 Rxa5 20. Qb5 Bxd3 21. Qb6 Bf5 22. Ke1 g5 23. Kd1 Rh5 24. Qd4 b3 25. Ke1 Bxh3 26. Kd1 Rxd5 27. Qc5 Rxd2+ 28. Ke1 1-0

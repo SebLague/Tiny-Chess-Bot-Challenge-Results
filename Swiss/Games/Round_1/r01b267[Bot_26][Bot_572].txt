@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "SWaP (Stucked With a Piece) (by: Esprit Orgue)"]
+[Black "Vast V2 (by: Joseph Pasfield)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 d5 2. Nb1 e5 3. Na3 Nf6 4. Nb1 Bd6 5. Na3 c6 6. Nb1 O-O 7. Nc3 d4 8. Nb1 e4 9. Nc3 dxc3 10. Nf3 exf3 11. e4 Nxe4 12. bxc3 Re8 13. c4 Nc3+ 14. Be2 fxe2 15. h4 exd1=Q# 0-1

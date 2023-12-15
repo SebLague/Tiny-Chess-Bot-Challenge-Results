@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "50"]
+[White "Shadow's Unfinished Bot (by: shadowcage72)"]
+[Black "Francis 2.0 (by: cyprus327)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 Nc6 2. Nc3 g6 3. Bd3 Ne5 4. Nf3 Nxd3+ 5. cxd3 Bg7 6. O-O Bxc3 7. dxc3 Kf8 8. e4 d5 9. Be3 dxe4 10. dxe4 Qxd1 11. Rfxd1 Bg4 12. h3 Bxf3 13. gxf3 b6 14. a4 h5 15. b3 a5 16. h4 c5 17. e5 e6 18. c4 Ne7 19. f4 Nf5 20. b4 axb4 21. a5 Nxh4 22. axb6 Nf3+ 23. Kg2 Rxa1 24. Rxa1 Nd4 25. Ra8+ Kg7 26. b7 Nc2 27. Bxc5 Ne1+ 28. Kg3 h4+ 29. Kg4 f5+ 30. Kg5 Nf3# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "15"]
+[White "AlaskaBot (by: Arttu Halonen)"]
+[Black "GreGory (by: Kokken)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 e6 2. Nd4 e5 3. Nf5 g6 4. Ne3 d6 5. Nd5 c5 6. e4 Qh4 7. Bd3 Nc6 8. Nbc3 Be6 9. g3 Qh3 10. Nc7+ Kd7 11. Nxa8 a5 12. Nb6+ Ke7 13. Nbd5+ Ke8 14. Nc7+ Kd8 15. N3d5 Bd7 16. c4 Nd4 17. f3 Bg7 18. a4 Bf8 19. b3 Bc6 20. f4 h5 21. Ba3 f6 22. fxe5 f5 23. exd6 Bxd6 24. Bxc5 Bxc5 25. Ne6+ Nxe6 26. exf5 gxf5 27. b4 axb4 28. Bxf5 Qxf5 29. d4 Qe4+ 30. Kd2 Qxd4+ 31. Kc2 Qxc4+ 32. Nc3+ Ke8 33. h4 Qxc3+ 34. Kb1 Be4+ 35. Qd3 Bxd3+ 36. Ka2 Qc2# 0-1

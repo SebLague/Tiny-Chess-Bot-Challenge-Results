@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Knockout 16"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "drip leab (by: JeffLegendPower)"]
+[Black "TinyHugeBot (by: Popax21 & atpx8)"]
+[Result "1/2-1/2"]
+[TimeControl "30+0.1"]
+[Termination "Repetition"]
+
+1. d4 d5 2. c4 e6 3. cxd5 exd5 4. Nc3 c6 5. Bf4 Bf5 6. Nf3 Nd7 7. e3 Qb6 8. Qd2 Ngf6 9. Nh4 Bg6 10. Nxg6 hxg6 11. Bd3 Be7 12. h3 c5 13. O-O O-O 14. Rfe1 Rfe8 15. Bb5 Rad8 16. Ba4 c4 17. a3 a6 18. Rad1 Qa5 19. Bc2 Nh5 20. Bh2 Nhf6 21. Bf4 Nh5 22. Bh2 Nhf6 23. Bf4 1/2-1/2

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "57"]
+[White "RP Bot (by: Matt Enad (RobProductions))"]
+[Black "5KindsOfChessplayers (by: Hulululu)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 c5 2. c3 Qa5 3. d5 e6 4. e4 exd5 5. exd5 Bd6 6. Qe2+ Kd8 7. Qg4 Be5 8. Qh4+ Kc7 9. Bf4 Nc6 10. dxc6 Kd6 11. Bxe5+ Kxe5 12. Nf3+ Kd5 13. cxb7 Rb8 14. Qh5+ Kc6 15. bxc8=Q+ Rxc8 16. Qxf7 Kb6 17. Qxd7 Rc6 18. Qd8+ Rc7 19. Qd6+ Kb7 20. Qd5+ Kb8 21. Ne5 Re7 22. Qd6+ Rc7 23. Nc6+ Ka8 24. Qd8+ Kb7 25. Nxa5+ Kb6 26. Qb8+ Kxa5 27. Qb5# 1-0

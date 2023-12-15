@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "7"]
+[White "Anarchy Bot (by: Malcolm)"]
+[Black "BasicBot (by: Phnx)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c3 Nf6 2. e3 Ne4 3. Qg4 Nf6 4. Qh4 c5 5. b4 cxb4 6. Qc4 e5 7. cxb4 Rg8 8. Qc3 Bd6 9. Nf3 Nd5 10. Qd3 Qc7 11. Nc3 Nxc3 12. Qxh7 Kf8 13. Bb2 Na4 14. Rc1 Qd8 15. Bxe5 Bxb4 16. Bb5 d6 17. Bd4 Bc5 18. Bxa4 Bb6 19. Bxb6 axb6 20. Bb3 Be6 21. Nd4 Nc6 22. Nxe6+ fxe6 23. Bxe6 Ne7 24. Qh3 Ke8 25. Qh5+ g6 26. Qb5+ Kf8 27. Qg5 Nf5 28. Qxd8+ Rxd8 29. Bxg8 Kxg8 30. Rc7 Nh4 31. Ke2 Nxg2 32. Rc4 Ra8 33. Rg4 Nxe3 34. fxe3 Kg7 35. Rhg1 Kh7 36. Rxg6 Kh8 37. R6g3 Rxa2 38. Kf3 Rxd2 39. Rh3# 1-0

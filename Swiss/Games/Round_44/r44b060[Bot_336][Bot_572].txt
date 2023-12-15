@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "43"]
+[White "EpsilonCheck (by: aymco)"]
+[Black "Vast V2 (by: Joseph Pasfield)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. d4 exd4 3. Qxd4 Nf6 4. h4 Nc6 5. Qe3 Bb4+ 6. c3 Ba5 7. Nd2 O-O 8. Nc4 Re8 9. f3 Bb6 10. Nxb6 axb6 11. g4 d5 12. g5 Nxe4 13. Ne2 Nc5 14. Qg1 Nb3 15. Rb1 Ne5 16. Qe3 Nc5 17. Kd1 Rxa2 18. b4 Ned3 19. Qd4 Bd7 20. b5 Bf5 21. Rg1 Nf2+ 22. Qxf2 Bc2+ 23. Kd2 Bxb1+ 24. Kd1 Bc2+ 25. Kd2 Ba4+ 26. Ke1 Nd3# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "52"]
+[White "3D.Opening Bot (by: Mark Grennan)"]
+[Black "Chemibot (by: Mike Chemi)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 f6 2. Nc3 e6 3. Nf3 h5 4. Nb5 Bb4+ 5. c3 c6 6. cxb4 cxb5 7. Bf4 g6 8. Qc2 Ne7 9. Qc5 g5 10. Bg3 g4 11. Ng1 h4 12. Bf4 Ng6 13. Bd6 a6 14. Qc2 Rh6 15. Qc1 Rh5 16. Qc2 Rg5 17. Qc1 Rd5 18. Bxb8 f5 19. e4 fxe4 20. Bxb5 axb5 21. Kd1 Rxd4+ 22. Ke1 Rxb8 23. Kf1 d5 24. Ke1 e5 25. Kf1 Rxb4 26. Ke1 d4 27. Kd1 d3 28. Ke1 d2+ 29. Kd1 dxc1=Q+ 30. Kxc1 Rc4+ 31. Kb1 Qd3# 0-1

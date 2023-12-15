@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "39"]
+[White "SimpleBot (by: :LMProgramming)"]
+[Black "BaddieBot (by: Domic)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e5 2. Qg4 Nf6 3. Bb5 Nxg4 4. Nc3 c6 5. Bc4 f5 6. Nf3 Qa5 7. Ng5 h6 8. h4 hxg5 9. hxg5 Rxh1+ 10. Bf1 Rxf1+ 11. Kxf1 Kf7 12. f4 e4 13. a4 Qb4 14. Ra2 Qc4+ 15. Kg1 Be7 16. Nxe4 Qxa2 17. Nf6 gxf6 18. d3 fxg5 19. Kf1 Qb1 20. Kg1 Qxc1# 0-1

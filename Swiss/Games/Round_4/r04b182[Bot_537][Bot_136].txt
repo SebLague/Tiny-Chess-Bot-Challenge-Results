@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "3"]
+[White "InfuehrDaniel MCTS (by: Daniel Infuehr)"]
+[Black "Chessy (by: SebastianB)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. e3 h5 2. Qf3 e6 3. Nc3 d5 4. Qf4 Nc6 5. Bb5 g5 6. Qa4 Bd7 7. Ba6 Be7 8. Nf3 h4 9. Be2 g4 10. Qb5 a6 11. Bd1 f6 12. Ng1 d4 13. d3 f5 14. Qa5 Bf6 15. b4 dxc3 16. h3 Bg7 17. Kf1 Bf6 18. f3 Bg7 19. Qa3 Rh5 20. d4 Bf8 21. d5 exd5 22. Qa4 Rh7 23. a3 Bg7 24. Kf2 Na7 25. fxg4 c6 26. Qb3 fxg4 27. b5 cxb5 28. Ke1 Nh6 29. Rh2 Qc8 30. Qb4 Qc7 31. Qf4 Be5 32. hxg4 Ng8 33. g3 Nf6 34. Rh3 hxg3 35. Qg5 a5 0-1

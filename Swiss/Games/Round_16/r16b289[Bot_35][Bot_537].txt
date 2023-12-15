@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "15"]
+[White "chaos bot (by: zer0)"]
+[Black "InfuehrDaniel MCTS (by: Daniel Infuehr)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e6 2. Ba6 Qg5 3. a3 Bb4 4. axb4 Qxg2 5. b5 Qd5 6. Ke2 Qg2 7. Ra2 Ke7 8. Kd3 Qd5+ 9. Kc3 c5 10. e4 Qd4+ 11. Kb3 Qb4# 0-1

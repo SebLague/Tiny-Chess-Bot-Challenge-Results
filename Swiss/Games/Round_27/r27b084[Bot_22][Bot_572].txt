@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "26"]
+[White "BigBrainBot (by: Leo)"]
+[Black "Vast V2 (by: Joseph Pasfield)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. Nc3 d5 3. e3 g6 4. Ne5 Bg7 5. Qf3 O-O 6. Bb5 c6 7. Be2 Nbd7 8. d4 Nxe5 9. dxe5 Ng4 10. e4 Nxe5 11. Qe3 d4 12. Qd2 dxc3 13. Qxc3 Qc7 14. Qg3 Be6 15. Bf4 a5 16. O-O a4 17. Rfd1 Rac8 18. Qe3 Rfe8 19. Qa3 b5 20. Qe3 b4 21. Qc5 Rb8 22. Rf1 h6 23. Rfd1 g5 24. Bg3 Bf6 25. Re1 g4 26. Qe3 Bg7 27. Qd4 Qa5 28. Qe3 a3 29. bxa3 bxa3 30. Rec1 Rb2 31. Bxe5 Qxe5 32. Qxa3 Qxe4 33. Qd3 Qb4 34. Qd1 Qf4 35. g3 Qe4 36. Bd3 Qa4 37. a3 Rbb8 38. c3 Bb3 39. Qe1 Qa5 40. Qe4 Bxc3 41. Qh7+ Kf8 42. Rab1 e6 43. Qxh6+ Bg7 44. Qf4 Qh5 45. Qd6+ Kg8 46. Qxc6 Bd5 47. Rb5 Qh3 48. Rxd5 exd5 49. Qxd5 Re5 50. Qd7 Rh5 51. Rc8+ Rxc8 52. Qxc8+ Bf8 53. Bc4 Qxh2+ 54. Kf1 Qh1+ 55. Ke2 Qf3+ 56. Kd2 Qxf2+ 57. Kd3 Qxg3+ 58. Kc2 Rh2+ 59. Kd1 Qg1+ 60. Bf1 Qxf1# 0-1

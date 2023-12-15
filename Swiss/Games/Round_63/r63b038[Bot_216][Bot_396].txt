@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "62"]
+[White "Average Chess bot (by: )"]
+[Black "Baby Squid (by: Jonas Tyroller)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 c5 2. Nc3 Nc6 3. Bb5 e6 4. Nf3 Nd4 5. Ba4 a6 6. d3 b5 7. Bb3 Bd6 8. e5 Be7 9. Be3 Qb6 10. Bxd4 cxd4 11. Ne2 a5 12. a4 f6 13. Nexd4 bxa4 14. exf6 gxf6 15. Rxa4 Bc5 16. O-O d5 17. Ne2 Bd7 18. Rh4 a4 19. Qa1 Qa7 20. Ba2 Bb5 21. Nf4 Kf7 22. Nxd5 Ne7 23. Nxf6 Bxd3 24. cxd3 Kxf6 25. b4+ Bd4 26. Rxd4 Kf7 27. Rf4+ Nf5 28. Rxf5+ Ke7 29. Qf6+ Ke8 30. Qxh8+ Ke7 31. Qf6+ Kd7 32. Qxe6+ Kd8 33. Rd5+ Kc7 34. Rd7+ Kb8 35. Qe8# 1-0

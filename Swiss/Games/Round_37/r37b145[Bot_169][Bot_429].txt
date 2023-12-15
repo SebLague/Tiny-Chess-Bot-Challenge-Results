@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "36"]
+[White "TalkChess (by: Thomas Jahn, Mike Sherwin, Dmitry Shechtman)"]
+[Black "LesMoutons (by: Beaud Rémi and Mechulam Antoine)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 c5 2. Nf3 Qb6 3. e4 Qf6 4. d4 cxd4 5. Qxd4 e5 6. Nxe5 Nc6 7. Nxc6 dxc6 8. Be3 Qe6 9. Bd3 Nf6 10. O-O Bd6 11. Rad1 Be5 12. Qa4 Qg4 13. Bxa7 Bxc3 14. bxc3 b5 15. Qd4 O-O 16. Bc5 Ra4 17. c4 Nxe4 18. Bxf8 bxc4 19. Bxe4 Qg5 20. Bxc6 Rxa2 21. Qxc4 Rb2 22. Bd6 Be6 23. Ra1 Bxc4 24. Kh1 Bxf1 25. Rxf1 Rb6 26. f4 Qd8 27. Rd1 Rxc6 28. f5 Rxc2 29. h3 Rc6 30. f6 gxf6 31. Rd3 Rxd6 32. Rc3 Rd1+ 33. Kh2 Qb8+ 34. Rg3+ Kf8 35. h4 h5 36. Kh3 Rh1# 0-1

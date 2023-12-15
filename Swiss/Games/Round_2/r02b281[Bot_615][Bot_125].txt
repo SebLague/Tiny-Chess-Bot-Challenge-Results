@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "Anty (by: Emanuele Sorce)"]
+[Black "BaddieBot (by: Domic)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. d4 d5 2. Be3 Qd6 3. Nf3 Qb4+ 4. Bd2 Qxb2 5. a4 Qxa1 6. Ng1 Qxb1 7. Qxb1 Nc6 8. Qxb7 Bxb7 9. g3 Nxd4 10. h3 Nxc2+ 11. Kd1 Nd4 12. Bb4 Bc6 13. Bd2 Bxa4+ 14. Kc1 Rb8 15. Be1 Rb3 16. Nf3 Nxf3 17. exf3 Rxf3 18. Bd3 Rxd3 19. Bb4 Bd7 20. Bxe7 Kxe7 21. Kc2 Bf5 22. f3 Rxf3+ 23. Kc1 Rxg3 24. h4 Rg2 25. Rh2 Rxh2 26. Kd1 Rxh4 27. Kc1 Rh2 28. Kd1 Ra2 29. Ke1 d4 30. Kf1 Be4 31. Ke1 Nf6 32. Kd1 Kd7 33. Ke1 Bb4+ 34. Kd1 Rf8 35. Kc1 Nh5 36. Kd1 Kc6 37. Kc1 Ng3 38. Kd1 Rg2 39. Kc1 Kb6 40. Kd1 a5 41. Kc1 a4 42. Kd1 h5 43. Kc1 Kb7 44. Kd1 Kb6 45. Kc1 g5 46. Kd1 Kb7 47. Kc1 Kb6 48. Kd1 g4 49. Kc1 Kb7 50. Kd1 f6 51. Kc1 Kb6 52. Kd1 Bf5 53. Kc1 h4 54. Kd1 h3 55. Kc1 Ba3+ 56. Kd1 Bc5 57. Ke1 Bb4+ 58. Kd1 Ba3 59. Ke1 Bc5 60. Kd1 Bd6 61. Ke1 Ba3 62. Kd1 c6 63. Ke1 Bb4+ 64. Kd1 Kb7 65. Kc1 Kb6 66. Kd1 Bc5 67. Kc1 Ba3+ 68. Kd1 Bb4 69. Kc1 Kb7 70. Kd1 Kb8 71. Kc1 Ba3+ 72. Kd1 Kb7 73. Ke1 Kb6 74. Kd1 Bd6 0-1

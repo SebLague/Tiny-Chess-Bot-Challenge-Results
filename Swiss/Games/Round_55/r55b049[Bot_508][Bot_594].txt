@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "54"]
+[White "Plumbo (by: Luca Voros)"]
+[Black "FetaCheese_Bot (by: Dimitris Dallas)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 a5 2. e3 h5 3. Nc3 Nc6 4. Bb5 Nf6 5. O-O Nb4 6. a3 Nbd5 7. Nxd5 Nxd5 8. d4 e6 9. e4 Nf6 10. e5 Nd5 11. Bd2 c6 12. Bd3 b5 13. Qe1 Be7 14. Rd1 f5 15. exf6 gxf6 16. Nh4 Bd6 17. Ng6 Rg8 18. Qe2 f5 19. Qxh5 Nf6 20. Qh6 Ng4 21. Qh5 Bxh2+ 22. Kh1 Bc7 23. Ne5+ Ke7 24. Qh7+ Kd6 25. Nf7+ Kd5 26. Nxd8 Rxd8 27. Bxf5 Nxf2+ 28. Rxf2 Bb6 29. Be4+ Kc4 30. b3+ Kxd4 31. Bc1+ Ke5 32. Rf5+ exf5 33. Qxf5# 1-0

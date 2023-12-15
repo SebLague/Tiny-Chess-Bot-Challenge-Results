@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "60"]
+[White "Saubstauga (by: Dominik)"]
+[Black "#enpassant4ever (by: trueberryless)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 e5 2. h5 Qg5 3. d3 Qxc1 4. c4 Qxd1+ 5. Kxd1 Kd8 6. g4 h6 7. e4 Bb4 8. a4 a5 9. f3 Ra7 10. b3 b5 11. axb5 Rb7 12. Nh3 Rxb5 13. cxb5 g5 14. Nf2 c6 15. b6 Ke7 16. Nh3 Na6 17. Nf2 Be1 18. Nh3 Bb7 19. Kxe1 Ke8 20. Rxa5 Bc8 21. Rxe5+ Kd8 22. d4 Nb4 23. Nf2 c5 24. dxc5 Na6 25. Nh3 Nxc5 26. Rxc5 d6 27. Rc6 Bxg4 28. fxg4 Kd7 29. Rc4 d5 30. exd5 f5 31. gxf5 Nf6 32. b7 Nxd5 33. Nf2 Rg8 34. Ng4 Rh8 35. Ne5+ Ke7 36. Ng6+ Kd7 37. Nxh8 Nf4 38. b8=B Nxh5 39. Rd4+ Kc8 40. Ba7 g4 41. Ba6+ Kc7 42. Rc4+ Kd6 43. Nf7+ Kd5 44. Bb7# 1-0

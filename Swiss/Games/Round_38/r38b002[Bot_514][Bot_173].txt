@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "37"]
+[White "smol.cs (by: Gediminas Masaitis, Goh CJ)"]
+[Black "TunaTactician (by: Ben)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Be3 d5 6. g3 Ne5 7. Bg2 c6 8. O-O Bd6 9. Bg5 Bc5 10. Na4 Be7 11. f4 Nc4 12. Qd3 O-O 13. e4 Qa5 14. b3 Nd2 15. e5 Nxf1 16. Rxf1 c5 17. exf6 gxf6 18. Bh6 cxd4 19. Bxf8 Bxf8 20. Qxd4 Bd7 21. Qxd5 Qxd5 22. Bxd5 Rc8 23. c4 b5 24. Nc3 Bh3 25. Rd1 bxc4 26. Bxc4 Bc5+ 27. Kh1 Kg7 28. Ne4 Bg4 29. Rd3 Bb4 30. Kg2 Be2 31. Rd4 Bxc4 32. Rxc4 Rxc4 33. bxc4 f5 34. Nf2 Kf6 35. Nd3 Bc3 36. Kf3 h5 37. Ke3 Ke7 38. Ne5 Ke6 39. Nc6 a5 40. Nd4+ Bxd4+ 41. Kxd4 Kd7 42. a4 Kc7 43. Kd5 Kd7 44. c5 Kc7 45. c6 Kd8 46. Kd6 h4 47. c7+ Kc8 48. gxh4 f6 49. h5 Kb7 50. h6 Kb6 51. h7 Ka7 52. Kc6 Ka6 53. c8=Q+ Ka7 54. Qb7# 1-0

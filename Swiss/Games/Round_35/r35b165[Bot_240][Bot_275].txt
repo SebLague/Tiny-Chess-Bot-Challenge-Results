@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "34"]
+[White "Sir Checkmates-A-Lot (by: Felix)"]
+[Black "Simple Minimax (by: Sidewinder7)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e6 2. Nb5 Qh4 3. Nxc7+ Kd8 4. Nxa8 Bc5 5. Nf3 Qxf2# 0-1

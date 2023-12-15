@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "48"]
+[White "Negative Depth (by: Zoltán Kürti)"]
+[Black "Quinn (by: Pierre Girardeau)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nc6 2. e4 d5 3. exd5 Qxd5 4. Nc3 Qd7 5. d4 Qd6 6. Bb5 Bf5 7. d5 g5 8. dxc6 Qxd1+ 9. Nxd1 b6 10. c3 Be4 11. Bxg5 Rd8 12. Bf4 Bd3 13. Bxd3 Rxd3 14. Bxc7 e5 15. Bxe5 f6 16. Bd4 Bd6 17. Ke2 Rxf3 18. Ne3 Rf4 19. Nc2 Rh4 20. Ne1 Kf7 21. Nf3 h6 22. Nxh4 Ne7 23. Rad1 Ke6 24. Bxf6 Rb8 25. Bxe7 Bxe7 26. Nf3 Rc8 27. Nd4+ Kf7 28. f4 Bd6 29. f5 a6 30. b4 Be5 31. Rc1 a5 32. bxa5 bxa5 33. h4 Kf6 34. g4 Rd8 35. g5+ Kf7 36. gxh6 Bxd4 37. cxd4 Re8+ 38. Kf2 Re4 39. Rcg1 Rf4+ 40. Ke3 Rxf5 41. Ke4 Rf6 42. Rf1 Ke8 43. Rxf6 Ke7 44. Rhf1 a4 45. d5 Kd8 46. d6 Kc8 47. Rf8# 1-0

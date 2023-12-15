@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "62"]
+[White "James (by: Aedan Smith)"]
+[Black "MilkMindV1 (by: Josiah Jordan )"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe6+ 4. Be2 Nc6 5. Kf1 Nf6 6. Nf3 Qd6 7. Nb5 Qd8 8. d4 Bg4 9. Bc4 a6 10. Nc3 Bxf3 11. Qxf3 Qxd4 12. Bg5 Qxc4+ 13. Qd3 Qxd3+ 14. cxd3 Kd7 15. Rd1 h6 16. Bxf6 exf6 17. d4 Bb4 18. Nd5 Rhe8 19. a3 Ba5 20. b4 Bb6 21. Nxb6+ cxb6 22. Rd3 Kd6 23. Rg1 Rac8 24. g3 Kd5 25. Kg2 Nxd4 26. Re3 Rxe3 27. fxe3 Rc2+ 28. Kh3 Nf3 29. Rh1 Ke4 30. g4 Ra2 31. Rc1 Ng5+ 32. Kg3 Rxa3 33. Rc7 Rxe3+ 34. Kg2 Re2+ 35. Kg3 Rb2 36. Rxb7 Rb3+ 37. Kg2 Rxb4 38. h4 Rb2+ 39. Kg3 Rb3+ 40. Kg2 Nf3 41. Rxf7 Nxh4+ 42. Kf2 Rf3+ 43. Ke2 g6 44. Re7+ Kf4 45. Re6 Kxg4 46. Rxb6 a5 47. Ra6 Rf5 48. Rc6 Nf3 49. Rc4+ Kg3 50. Rc7 Re5+ 51. Kd3 Kf4 52. Rc4+ Kf5 53. Rc7 Ke6 54. Rc6+ Ke7 55. Rc7+ Kd6 56. Rh7 h5 57. Ra7 Rb5 58. Ra6+ Ke5 59. Kc4 Rd5 60. Kb3 Nd2+ 61. Ka4 Nc4 62. Rc6 Nb2+ 63. Ka3 Nd3 64. Rc7 Nc5 65. Rg7 Rd3+ 66. Kb2 Rd2+ 67. Ka3 Kf5 68. Ra7 Rd3+ 69. Ka2 a4 70. Ra5 Rd5 71. Ka3 Ke5 72. Ra7 Rd3+ 73. Kb4 Kd5 74. Ra8 Rb3+ 75. Ka5 Kc4 76. Rb8 f5 77. Rb4+ Kd5 78. Rd4+ Ke6 79. Rd6+ Ke7 80. Rxg6 a3 81. Rg7+ Kd6 82. Rg6+ Kd5 83. Rd6+ Ke4 84. Rd4+ Ke3 85. Rh4 a2 86. Rh3+ Kd4 87. Rh4+ Ne4 88. Rh1 Rb1 89. Rd1+ Kc5 90. Rc1+ Rxc1 91. Ka4 a1=Q+ 92. Kb3 Rc3# 0-1

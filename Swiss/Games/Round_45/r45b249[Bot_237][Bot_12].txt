@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "44"]
+[White "DeepDumb (by: OutdoorsyEngineer)"]
+[Black "Aggressive Fool (by: ZZKer (she/her pronouns))"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 c5 2. Na3 h6 3. Ne2 d5 4. Nb5 dxe4 5. f4 Qxd2+ 6. Qxd2 Nd7 7. Qe3 Kd8 8. Rb1 Nb8 9. Qxc5 f6 10. g3 Bh3 11. Bxh3 e6 12. Qc4 Bb4+ 13. Nec3 Bxc3+ 14. Kd1 Bxb2 15. Re1 Bxc1 16. Qe2 Bxf4 17. gxf4 h5 18. Qxe4 Nh6 19. Qxe6 Nf7 20. Qe7# 1-0

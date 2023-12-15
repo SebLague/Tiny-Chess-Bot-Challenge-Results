@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "36"]
+[White "Average Chess bot (by: )"]
+[Black "LynchBot (by: Gary Lynch)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. e5 Qe7 8. Qe2 Nd5 9. Bd2 Bb7 10. Kd1 O-O 11. Rb1 Rae8 12. Nxd5 cxd5 13. Qb5 Bxd2 14. Qxb7 Bf4 15. Qxd5 Bxe5 16. Bd3 Qg5 17. h3 c6 18. Qe4 g6 19. Qf3 d5 20. Re1 Qh4 21. Re2 Qd8 22. Re3 d4 23. Re4 Qd5 24. Qe2 Qxa2 25. c3 Qb3+ 26. Qc2 Qd5 27. cxd4 Bxd4 28. Ke2 Rd8 29. Rd1 c5 30. Ra1 Qd6 31. Ra6 Qc7 32. Kf1 Qh2 33. Rg4 Rfe8 34. Re4 Qh1+ 35. Ke2 Qxg2 36. Kd2 Rxe4 37. Bxe4 Qxf2+ 38. Kd3 Qf1+ 39. Kd2 Qxa6 40. Qb1 Qe6 41. b4 Bg7+ 42. Ke2 Rb8 43. b5 f5 44. Ke3 fxe4 45. Ke2 Qc4+ 46. Kf2 Rf8+ 47. Kg1 Bd4+ 48. Kg2 Qe2+ 49. Kh1 Rf1+ 50. Qxf1 Qxf1+ 51. Kh2 Qf2+ 52. Kh1 Qg1# 0-1

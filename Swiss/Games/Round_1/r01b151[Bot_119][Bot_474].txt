@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "kesslbot (by: kesslwovv)"]
+[Black "Good Bot Bad Bot (But Really, Both Are Terrible Bots, Also This In The Parenthesis Is Part Of The Name) (by: Legend)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e6 2. Nf3 g6 3. Nc3 a5 4. d4 h5 5. Bc4 Ba3 6. bxa3 h4 7. Bg5 Qxg5 8. Nxg5 c5 9. Nb5 cxd4 10. Nc7+ Kf8 11. Qf3 Na6 12. Qxf7# 1-0

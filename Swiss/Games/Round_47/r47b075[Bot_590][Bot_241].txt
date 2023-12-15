@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "46"]
+[White "DLComp2 (by: DawnLamp8)"]
+[Black "AlphaBetaZero (by: MV974)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 b6 2. Rb1 Bb7 3. Nf3 f6 4. Ra1 e5 5. d3 Bxf3 6. gxf3 d5 7. c3 Qd7 8. Rg1 d4 9. Qd2 Na6 10. Rb1 O-O-O 11. Rg2 g6 12. Qd1 Bxa3 13. bxa3 dxc3 14. Qc2 Qd4 15. Rb3 Nc5 16. Rxc3 Qh4 17. a4 c6 18. a5 Qd4 19. Ba3 Re8 20. Qb2 Qd7 21. axb6 axb6 22. Qxb6 Nxd3+ 23. exd3 Re6 24. Rb3 Qc7 25. Qa6+ Kd8 26. Qa8+ Kd7 27. Rb7 f5 28. Rxc7+ Kxc7 29. Qa7+ Kd8 30. Qg7 e4 31. fxe4 fxe4 32. Qxh8 exd3+ 33. Kd2 Re8 34. Qxh7 Nf6 35. Qxg6 Nd7 36. Qxc6 Re5 37. Rg7 Nb8 38. Qb6+ Kc8 39. Qc7# 1-0

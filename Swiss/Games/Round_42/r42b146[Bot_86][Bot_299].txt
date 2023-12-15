@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "41"]
+[White "Blitztron (by: Cameron Dugan)"]
+[Black "MaterFromRadiatorSprings (by: Markus Grand Petersen)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 e6 2. c3 Qh4 3. Qc2 Bd6 4. g3 Qh5 5. h3 c5 6. g4 Qd5 7. e4 Qc6 8. d5 exd5 9. exd5 Qxd5 10. Qe2+ Kd8 11. Qf3 Ke7 12. Qxd5 Kf6 13. Bg5+ Kg6 14. Bd3+ f5 15. Qxf5# 1-0

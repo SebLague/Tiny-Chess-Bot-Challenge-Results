@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "4"]
+[White "Betelchess (by: VY Canis Majoris (also special thanks to Gurren Lagann))"]
+[Black "Vito (by: Tjuli)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c4 e6 2. Qb3 Qf6 3. Kd1 Qxf2 4. Kc2 Qxf1 5. Kd3 Qxg2 6. Nc3 Qxh1 7. Rb1 Qxg1 8. Ra1 Qxh2 9. Rb1 Qh3+ 10. Kc2 Nc6 11. Ra1 Nd4+ 12. Kb1 Nxb3 13. Kc2 Nxa1+ 14. Kb1 Nf6 15. Kxa1 Qg4 16. b4 Bxb4 17. Bb2 e5 18. Bc1 Bxc3+ 19. Bb2 Qg1# 0-1

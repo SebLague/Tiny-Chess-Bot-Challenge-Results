@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "7"]
+[White "Nautilus (by: Sherlock)"]
+[Black "Jormungandr (but scuffed) (by: CptShini)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 c6 2. Nc3 Qb6 3. e4 a5 4. Nf3 Qd8 5. Bc4 Nf6 6. e5 Ng8 7. O-O f6 8. Bf4 Qc7 9. exf6 Qxf4 10. f7+ Qxf7 11. Bxf7+ Kxf7 12. Na4 Ra6 13. Nc5 Rb6 14. Ne5+ Ke8 15. Qh5+ g6 16. Nxg6 Nf6 17. Qh4 Rg8 18. Nxf8 Kxf8 19. Ne4 Nxe4 20. Qxe4 e5 21. Qxe5 Na6 22. Qf6+ Ke8 23. Rae1# 1-0

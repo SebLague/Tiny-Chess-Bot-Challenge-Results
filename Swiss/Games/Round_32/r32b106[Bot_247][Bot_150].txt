@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "31"]
+[White "unicorn (by: kai)"]
+[Black "jmcgbot (by: jmcg)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 a5 2. Nc3 g5 3. Ne4 e5 4. Nf3 f6 5. Bc4 h5 6. h4 gxh4 7. Nxh4 Ke7 8. Ng6+ Ke8 9. Nxh8 f5 10. Qxh5+ Ke7 11. Qf7# 1-0

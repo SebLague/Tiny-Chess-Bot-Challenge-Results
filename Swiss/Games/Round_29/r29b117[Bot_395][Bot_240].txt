@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "28"]
+[White "MattWBot (by: Matt W)"]
+[Black "Sir Checkmates-A-Lot (by: Felix)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 d6 2. e4 Bg4 3. Be2 Nf6 4. Nc3 Bxf3 5. Bxf3 Qc8 6. b3 Kd7 7. O-O Ke8 8. a3 Kd7 9. d4 Ng8 10. Be3 Kd8 11. Qe2 Nf6 12. e5 Nfd7 13. exd6 exd6 14. Nb5 Na6 15. Bg5+ f6 16. Rae1 fxg5 17. Qe8# 1-0

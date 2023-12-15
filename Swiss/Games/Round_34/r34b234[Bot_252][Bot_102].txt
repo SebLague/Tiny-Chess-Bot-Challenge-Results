@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "33"]
+[White "#enpassant4ever (by: trueberryless)"]
+[Black "Single Player (by: Loeka)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c3 e6 2. a4 Bc5 3. Ra2 Ne7 4. g4 Bxf2+ 5. Kxf2 Nec6 6. Ke1 Qh4# 0-1

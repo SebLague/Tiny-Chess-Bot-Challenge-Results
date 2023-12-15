@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "19"]
+[White "Nathe-Bot (by: NatheSpike)"]
+[Black "Kinglet (by: Skolin + World + Abyss)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Bc4 O-O 8. Be3 Nc6 9. O-O Bg4 10. Bd5 Ne5 11. h3 Bxf3 12. Bxf3 c6 13. Be4 f5 14. Bf3 f4 15. Bd2 d5 16. Re1 Bd6 17. b4 Qf6 18. Bg4 Rae8 19. Rc1 Qh4 20. Bf3 Re6 21. Qe2 Rff6 22. Bg4 f3 23. Bxe6+ Rxe6 24. g3 fxe2 25. gxh4 Nf3+ 26. Kg2 Nxd2 27. a4 Bf4 28. Ra1 Nc4 29. f3 Ne3+ 30. Kf2 Nxc2 31. Rab1 Nxe1 32. Rxe1 Be3+ 33. Kxe2 Bd4+ 34. Kf1 Rxe1+ 35. Kxe1 Bxc3+ 36. Ke2 Bxb4 37. Kd3 c5 38. Ke3 Kf7 39. h5 Kf6 40. f4 c4 41. Kd4 Kf5 42. Ke3 c3 43. Kd3 Kxf4 44. Kc2 Ke4 45. h6 gxh6 46. a5 Bxa5 47. h4 d4 48. Kd1 d3 49. Ke1 c2+ 50. Kf2 c1=Q 51. Kg2 Qd2+ 52. Kg3 Bc7+ 53. Kh3 Kf3 54. h5 Qh2# 0-1

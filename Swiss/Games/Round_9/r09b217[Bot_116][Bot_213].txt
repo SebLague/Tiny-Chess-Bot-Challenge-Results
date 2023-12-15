@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "8"]
+[White "MirrorBot (by: Jackk)"]
+[Black "Some rules bot (by: qumquat)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. Nf3 Nxe4 3. Ne5 f6 4. f3 fxe5 5. fxe4 Nc6 6. Nc3 h6 7. h3 e6 8. Bd3 Qg5 9. Bf1 Nd4 10. Nd5 Qg3# 0-1

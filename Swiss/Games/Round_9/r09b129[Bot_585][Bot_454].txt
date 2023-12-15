@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "8"]
+[White "Negative Depth (by: Zoltán Kürti)"]
+[Black "The Mad King (by: Coding With Avaclava)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 b5 2. e4 c6 3. Nc3 b4 4. Ne2 c5 5. d4 Bb7 6. d5 g6 7. Nf4 d6 8. Nd3 c4 9. Nxb4 h5 10. Be3 a5 11. Qd4 axb4 12. Qxh8 Kd7 13. Qxg8 f6 14. Qxg6 Kc7 15. Bxc4 Ra4 16. Bd2 Kd7 17. Bb5+ Kc7 18. Bxa4 Kc8 19. Bxb4 Na6 20. c3 Kb8 21. Qxh5 Nxb4 22. cxb4 Ka7 23. Be8 Qa8 24. Qf7 Kb8 25. Qxf8 Bc8 26. Qxe7 Ba6 27. Nd4 Kc8 28. Ne6 Qc6 29. Bxc6 Bd3 30. Qd8# 1-0

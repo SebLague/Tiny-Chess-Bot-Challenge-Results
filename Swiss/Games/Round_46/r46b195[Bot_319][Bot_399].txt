@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "45"]
+[White "GOYO Bot v1.1.2 (by: Goyo)"]
+[Black "Sleepy panda bot (by: Quinten F)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. e4 e6 2. e5 g5 3. Nc3 Nc6 4. Ne4 Nxe5 5. Ne2 g4 6. Nd4 d5 7. Bb5+ Qd7 8. Bxd7+ Ke7 9. Nc5 Nf3+ 10. gxf3 Bxd7 11. Nxb7 e5 12. Nc5 Kd6 13. Nb7+ Ke7 14. Nc5 Kd6 15. Nb7+ Ke7 1/2-1/2

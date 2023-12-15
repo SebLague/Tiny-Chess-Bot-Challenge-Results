@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "54"]
+[White "HekMate (by: Maddisch)"]
+[Black "More Recursion! (by: Bden)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nc6 2. Qd3 h6 3. d5 Nb4 4. Qe4 Na6 5. Qe5 Rh7 6. Qe4 Rh8 7. Qe5 Rh7 8. Qe4 Rh8 9. Qe5 g6 10. Qxh8 Nb4 11. Qc3 b5 12. Qxb4 h5 13. Qxb5 Nf6 14. Qc5 a6 15. Qd4 Bg7 16. Qe5 h4 17. Qd4 Bb7 18. Qxh4 Qb8 19. Qd4 Bh8 20. Qe5 Nxd5 21. Qxh8# 1-0

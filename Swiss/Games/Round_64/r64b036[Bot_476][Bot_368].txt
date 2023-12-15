@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "63"]
+[White "Minirose V2.23 (by: Tamplite Siphron Kents)"]
+[Black "Chip (by: Evan)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 d5 2. Nf3 Bf5 3. Nc3 Nc6 4. Be3 Nf6 5. Rc1 g6 6. Nh4 Be6 7. Na4 b6 8. Nf3 Bg7 9. Ng5 Bd7 10. Nc3 Ng4 11. h3 Nxe3 12. fxe3 Bh6 13. h4 f6 14. Nf3 Bxe3 15. Nxd5 Bxc1 16. Qxc1 Bg4 17. Qf4 Qxd5 18. Qxg4 f5 19. Qf4 O-O-O 20. h5 Qe4 21. Qg5 Nxd4 22. Nxd4 Qxd4 23. hxg6 hxg6 24. Rxh8 Qd1+ 25. Kf2 Rxh8 26. Qxg6 Rh1 27. Qxf5+ Kb8 28. Qf8+ Kb7 29. Qxe7 Rxf1+ 30. Ke3 Qxc2 31. Qe5 Rb1 32. Qd5+ Qc6 33. Qxc6+ Kxc6 34. b3 Rb2 35. g4 Rxa2 36. g5 Kd6 37. Kf3 Ke5 38. Kg4 Rxe2 39. Kf3 Rb2 40. Kg4 Rxb3 41. g6 Rb1 42. Kg5 Rg1+ 43. Kh6 b5 44. Kg7 b4 45. Kf7 b3 46. g7 b2 47. g8=Q Rxg8 48. Kxg8 Kf6 49. Kf8 b1=Q 50. Ke8 Qd3 51. Kf8 Qd1 52. Ke8 Qd4 53. Kf8 Qe4 54. Kg8 Qb4 55. Kh7 Qd4 56. Kh8 Qg1 57. Kh7 Qg7# 0-1

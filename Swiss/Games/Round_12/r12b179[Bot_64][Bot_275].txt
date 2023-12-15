@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "11"]
+[White "offtensive Crane (by: Joao Santos)"]
+[Black "Simple Minimax (by: Sidewinder7)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g3 e6 2. g4 b5 3. e3 Bb7 4. Bxb5 Bd5 5. a4 c6 6. Be2 Bxh1 7. f4 f6 8. d3 e5 9. f5 h5 10. gxh5 Rh7 11. c3 d5 12. b3 e4 13. dxe4 Bxe4 14. Nd2 Bh1 15. Kf1 Qe7 16. e4 Kd7 17. exd5 Bxd5 18. Bd3 Qc5 19. Ne2 Bh1 20. c4 Qe5 21. Rb1 Qe3 22. Bc2 Bd6 23. h4 Ke7 24. Ke1 Bg3+ 25. Kf1 Qf2# 0-1

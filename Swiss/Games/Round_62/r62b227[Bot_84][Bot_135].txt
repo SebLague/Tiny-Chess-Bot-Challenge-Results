@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "61"]
+[White "tom (by: Christopher Hosken & Thomas Lower)"]
+[Black "pawnHater300 (by: hakrackete)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g4 a5 2. Nf3 a4 3. c4 a3 4. bxa3 Rxa3 5. Nxa3 b5 6. cxb5 c5 7. e4 c4 8. h4 c3 9. dxc3 d5 10. exd5 Qxd5 11. Qxd5 Bxg4 12. Ng5 e5 13. Nxf7 Bxa3 14. Nxh8 Bxc1 15. Qxg8+ Kd7 16. f4 Bxf4 17. a4 e4 18. b6 e3 19. Qf7+ Kc8 20. Qxf4 e2 21. Qc7# 1-0

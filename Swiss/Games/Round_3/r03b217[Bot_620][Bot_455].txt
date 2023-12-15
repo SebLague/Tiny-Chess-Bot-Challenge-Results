@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "Phoenix Chess (by: Mat(t)hias)"]
+[Black "Reaper (by: thesharpestknife)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. Nc3 d5 3. h4 d4 4. Nb5 Nc6 5. Rg1 e5 6. a4 e4 7. Ng5 h6 8. a5 hxg5 9. hxg5 a6 10. Nxd4 Nxd4 11. gxf6 Qxf6 12. e3 Bg4 13. Qxg4 Nxc2+ 14. Kd1 Rh4 15. Qg3 Nxa1 16. Bc4 Bd6 17. f4 exf3 18. Qxf3 Qxf3+ 19. gxf3 Rxc4 20. d3 Ra4 21. Rxg7 Nb3 22. Rg8+ Bf8 23. e4 Ra1 24. d4 Rxc1+ 25. Ke2 Nxd4+ 26. Kd3 O-O-O 27. Rxf8 Rd1+ 28. Kc3 Rxf8 29. Kc4 Nxf3 30. Kc3 Rfd8 31. b3 R8d2 32. e5 Rc1+ 33. Kb4 Ra2 34. e6 c5# 0-1

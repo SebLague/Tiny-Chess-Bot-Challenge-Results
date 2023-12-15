@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "61"]
+[White "WingBot (by: Benjamin Iserman)"]
+[Black "Simpleton.01 (by: Bee)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. e4 Nf6 2. Bd3 Nxe4 3. Bxe4 e6 4. Nc3 g5 5. Nf3 c6 6. b3 a6 7. d3 Bb4 8. Kd2 d5 9. Ke1 Bxc3+ 10. Kf1 dxe4 11. Kg1 exf3 12. Rb1 fxg2 13. Kxg2 Bb2 14. Rxb2 h6 15. f3 e5 16. Be3 g4 17. a3 gxf3+ 18. Kxf3 Bf5 19. c4 Bxd3 20. Kf2 Bxc4 21. bxc4 Qh4+ 22. Kf1 Qxc4+ 23. Ke1 Qh4+ 24. Kf1 f6 25. Rxb7 Qh3+ 26. Ke1 Qxe3+ 27. Kf1 Qh3+ 28. Ke1 Qxa3 29. Qh5+ Kd8 30. Qd1+ Ke8 31. Qh5+ Kd8 32. Qd1+ Ke8 33. Qh5+ Kd8 1/2-1/2

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White ":3 (by: Lauri Räsänen)"]
+[Black "BadBot (by: Daniel)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. e5 e6 3. exf6 Ba3 4. fxg7 a6 5. gxh8=Q+ Ke7 6. Qxd8+ Kxd8 7. Nxa3 f6 8. Qh5 d5 9. Qxh7 Bd7 10. Qh8+ Ke7 11. Qg7+ Ke8 12. Qxf6 c5 13. Be2 d4 14. Bh5# 1-0

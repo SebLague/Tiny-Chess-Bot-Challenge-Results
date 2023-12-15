@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "44"]
+[White "Stickleback (by: Brent Mardell)"]
+[Black "TinyLispChessBot (by: tr00)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. d4 Na6 2. e4 Nb4 3. Nf3 Rb8 4. Nc3 Ra8 5. Be3 Rb8 6. Bc4 Ra8 7. Bxf7+ Kxf7 8. O-O Ke8 9. Re1 Rb8 10. a3 Na6 11. d5 Ra8 12. a4 Nb4 13. Qd2 Nf6 14. e5 Nbxd5 15. Qxd5 Nxd5 16. Nxd5 Kf7 17. Nc3 Ke6 18. a5 c6 19. a6 b6 20. Rad1 Kf5 21. e6 Bxa6 22. exd7 e5 23. Nxe5 Kxe5 24. f4+ Kf5 25. g4+ Kxg4 26. f5 Kxf5 27. Bd4 Qxd7 28. Bxg7 Qxg7+ 29. Kf2 Bb4 30. Ne4 Qg4 31. Rd3 Bxe1+ 32. Kxe1 Qxe4+ 33. Re3 Qxe3+ 34. Kd1 Qe2+ 35. Kc1 Ke4 36. Kb1 Qxh2 37. c3 Kd3 38. b3 Kxc3 39. b4 Kb3 40. Kc1 Ka3 41. b5 Qh1+ 42. Kc2 Qh2+ 43. Kc3 Qb2+ 44. Kd3 Qb1+ 45. Kd4 Qa1+ 46. Ke4 Qb1+ 47. Ke5 Qa1+ 48. Kd6 Qf6+ 49. Kc7 Rac8+ 50. Kd7 Qf5+ 51. Kd6 Qf4+ 52. Kd7 Qd4+ 53. Ke6 Qc4+ 54. Kd7 Qd4+ 55. Ke7 Qb4+ 56. Kd7 Qd4+ 1/2-1/2

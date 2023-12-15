@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "41"]
+[White "Anty (by: Emanuele Sorce)"]
+[Black "HopeBot (by: Chinmay Krishna)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Qh5 d5 3. Bc4 dxc4 4. b4 cxb3 5. axb3 Bb4 6. Qh4 Qxh4 7. c4 Qxe4+ 8. Kd1 g5 9. Ra2 Qxb1 10. Ra1 Qxa1 11. Ke2 Qxc1 12. g4 Qxd2+ 13. Kf1 Bxg4 14. Nh3 Bxh3+ 15. Kg1 Qd1# 0-1

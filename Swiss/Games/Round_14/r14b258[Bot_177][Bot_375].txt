@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "13"]
+[White "en passant bot (by: julie)"]
+[Black "Hello there (by: Crazyfly072)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. a4 d5 2. f4 Nf6 3. h3 Bf5 4. Nc3 Qd6 5. h4 Qxf4 6. b3 Kd7 7. Nb1 Qe5 8. Bb2 Qxb2 9. Rh3 Bxh3 10. c4 Qxa1 11. e3 Bg4 12. Na3 Qxd1+ 13. Kf2 Qxd2+ 14. Ne2 Ne4+ 15. Kg1 Bxe2 16. Nc2 Qxc2 17. Bxe2 Qxe2 18. Kh2 dxc4 19. Kg1 Qe1+ 20. Kh2 Qxh4+ 21. Kg1 Qe1+ 22. Kh2 Qg3+ 23. Kh1 Qe1+ 24. Kh2 Qg3+ 25. Kh1 Qe1+ 26. Kh2 1/2-1/2

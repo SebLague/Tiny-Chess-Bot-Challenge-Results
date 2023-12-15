@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "53"]
+[White "chaos bot (by: zer0)"]
+[Black "FancyDefenceFence (by: FancyDefenceFenceFan)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 e6 2. Be3 d5 3. Nh3 c5 4. Qc1 Qb6 5. Qd1 Bd7 6. Rg1 cxd4 7. Nc3 Qxb2 8. Qxd4 Qxc2 9. Qa4 Qxc3+ 10. Kd1 Bxa4# 0-1

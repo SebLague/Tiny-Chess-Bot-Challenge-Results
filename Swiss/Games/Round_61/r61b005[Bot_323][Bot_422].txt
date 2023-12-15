@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "60"]
+[White "Quantum (by: devLIPEr)"]
+[Black "FloppyChess 4.2 (by: Omsk)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. Nc3 d5 3. d4 e6 4. e3 c5 5. Bb5+ Bd7 6. O-O Bxb5 7. Nxb5 Nc6 8. Bd2 a6 9. Nc3 Qc7 10. Rc1 O-O-O 11. a3 Kb8 12. Qe2 Bd6 13. dxc5 Bxc5 14. b4 Bd6 15. b5 axb5 16. Nxb5 Qe7 17. Nxd6 Qxd6 18. Qd3 e5 19. Qf5 g6 20. Qg5 Ne4 21. Qh6 Qxa3 22. Rfd1 Qf8 23. Qh3 Qg7 24. c4 g5 25. Qg4 h5 26. Qf5 g4 27. Nxe5 Nxe5 28. cxd5 Nf3+ 29. Kf1 Nfxd2+ 30. Ke1 Qb2 31. Qf4+ Rd6 32. Rc2 Qxc2 33. Qxd6+ Nxd6 34. Rxd2 Qc3 35. Kd1 Qb3+ 36. Ke1 Ne4 37. Rd4 Qb1+ 38. Rd1 Qc2 39. Rd4 Nc3 40. Kf1 Qe2+ 41. Kg1 Qe1# 0-1

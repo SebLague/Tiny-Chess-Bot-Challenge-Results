@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "16"]
+[White "AlphaBetaZero (by: MV974)"]
+[Black "NotHuman (by: Sixteen)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 Nc6 2. Bd3 Ne5 3. Nf3 Nxd3+ 4. cxd3 Nf6 5. O-O e6 6. Qc2 Bd6 7. Qc4 e5 8. Qh4 Nd5 9. Qxd8+ Kxd8 10. Na3 Nb6 11. Nb5 Bc5 12. Nxe5 Rf8 13. d4 Be7 14. d3 d5 15. h3 c5 16. dxc5 Bxc5 17. d4 Bb4 18. h4 f6 19. Nd3 Be7 20. f3 f5 21. Ne5 Be6 22. h5 Kc8 23. Bd2 Kb8 24. Rfc1 Bf6 25. Nc7 Bg8 26. Ba5 Bg5 27. f4 Bf6 28. Bxb6 axb6 29. Nxa8 Kxa8 30. Nd7 Bxd4 31. exd4 Rd8 32. Nxb6+ Ka7 33. Nc8+ Ka6 34. Ne7 Bf7 35. Nxf5 Bxh5 36. Nxg7 Bg6 37. Ne6 Rd6 38. Nc7+ Ka5 39. Rc5+ Ka4 40. b3+ Kb4 41. Rxd5 Rxd5 42. Nxd5+ Kb5 43. Rc1 Bf7 44. Rc5+ Ka6 45. Nc7+ Kb6 46. g4 Bg6 47. f5 Bf7 48. Kg2 Bg8 49. f6 Bf7 50. Kf3 Bg6 51. g5 Bh5+ 52. Ke3 Bf7 53. Rc1 Bg6 54. d5 Bh5 55. d6 Be8 56. Nxe8 h6 57. gxh6 Ka5 58. d7 Kb4 59. d8=Q Ka3 60. Qd2 b6 61. Nd6 b5 62. Nxb5# 1-0

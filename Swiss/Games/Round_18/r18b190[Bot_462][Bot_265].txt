@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "17"]
+[White "quick and dirty (by: Rafael)"]
+[Black "SimpleBot (by: Tim Zollner)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. Nc3 e6 2. Nb5 Nf6 3. Nf3 c6 4. c3 Be7 5. Nfd4 c5 6. Nf3 Nc6 7. Qa4 Qb6 8. c4 a5 9. Na3 Nb4 10. Nc2 Qc6 11. Qxc6 Nxc2+ 12. Kd1 dxc6 13. Kxc2 h6 14. Ne5 Bd6 15. Nd3 Bd7 16. Kb1 O-O-O 17. Kc2 e5 18. Kd1 1-0

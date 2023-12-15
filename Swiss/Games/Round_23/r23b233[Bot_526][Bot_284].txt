@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "22"]
+[White "evilRatBot (by: Only_Mayonnaise)"]
+[Black "Arctiform's Bot (by: Arctiform)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d3 c6 2. e3 f5 3. b3 e5 4. Bb2 h6 5. g3 a5 6. Bg2 g5 7. Nd2 Bb4 8. Ne2 c5 9. O-O b6 10. Bxa8 d6 11. Bxe5 dxe5 12. Bf3 b5 13. Bd5 Qxd5 14. h3 Bb7 15. Qb1 Qh1# 0-1

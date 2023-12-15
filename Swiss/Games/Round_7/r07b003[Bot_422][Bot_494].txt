@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "6"]
+[White "FloppyChess 4.2 (by: Omsk)"]
+[Black "Nathe-Bot (by: NatheSpike)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Bd3 d5 8. exd5 cxd5 9. O-O O-O 10. Bg5 Be6 11. Nb5 Be7 12. Bf4 Bd6 13. Nxd6 cxd6 14. Qd2 a5 15. Rfe1 a4 16. Qb4 Rb8 17. Qa3 Rb6 18. Be3 Rb8 19. Bd4 Qd7 20. Bxf6 gxf6 21. Qc3 Kg7 22. Re3 Qd8 23. Rg3+ Kh8 24. Bxh7 Kxh7 25. Qd4 Rb4 26. Qxb4 f5 27. Rh3+ Kg7 28. Qf4 Qf6 29. Qg3+ Qg6 30. Qc3+ f6 31. Rg3 Rc8 32. Rxg6+ Kxg6 33. Qg3+ Kf7 34. Qxd6 Rc4 35. Re1 Re4 36. Rxe4 dxe4 37. a3 Ba2 38. Qd7+ Kg6 39. g4 fxg4 40. Qxg4+ Kh6 41. Qxe4 Bf7 42. Qxa4 Kg7 43. c4 Be6 44. c5 Kf7 45. c6 Kg6 46. Qa8 Kf7 47. Qb7+ Kg6 48. Qe7 Bf5 49. c7 Bg4 50. Qf8 Be6 51. Qe8+ Kf5 52. h4 Bc8 53. Qxc8+ Kg6 54. Qe8+ Kh6 55. c8=Q f5 56. Qce6+ Kg7 57. Q8g8# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "SimpleMinds (by: Karl Jungtow)"]
+[Black "Garbage Bot (by: Big Nerd)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 h6 2. d4 Nc6 3. d5 Nb4 4. Qd2 Nxc2+ 5. Qxc2 b5 6. Bxb5 c5 7. Qxc5 Qa5+ 8. b4 Qd8 9. Be3 Bb7 10. e5 h5 11. Be2 d6 12. Bb5+ Bc6 13. Qxc6+ Qd7 14. Qxd7# 1-0

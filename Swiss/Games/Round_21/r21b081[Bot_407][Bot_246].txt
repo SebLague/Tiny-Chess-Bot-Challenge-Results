@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "20"]
+[White "simple chess bot (by: 4a0I)"]
+[Black "James (by: Aedan Smith)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 Nc6 2. Qg4 Nf6 3. Qg5 h6 4. Qb5 a5 5. Nc3 e6 6. g3 Bb4 7. a3 Bxc3 8. bxc3 Ng4 9. f3 Nf6 10. a4 Nb4 11. cxb4 c6 12. Qc5 Nd5 13. Bb2 d6 14. Qc4 Nxb4 15. Bxg7 Rg8 16. Bb2 e5 17. Bh3 Bxh3 18. Nxh3 Qd7 19. Nf2 b5 20. axb5 c5 21. Ke2 d5 22. Qxc5 Qb7 23. Ng4 Rxg4 24. fxg4 Rc8 25. Qd6 Qxb5+ 26. Kf2 Nd3+ 27. cxd3 Qxb2 28. Qxd5 Qxd2+ 29. Kf3 Qb4 30. Qxe5+ Qe7 31. Qh8+ Kd7 32. Qd4+ Ke8 33. Rxa5 Qb7+ 34. e4 Kf8 35. Ra7 Qxa7 36. Qxa7 Kg8 37. Rb1 Rc2 38. Qe7 Rd2 39. Rb8+ Kg7 40. Qf8+ Kg6 41. Rb6+ Kg5 42. Qxh6# 1-0

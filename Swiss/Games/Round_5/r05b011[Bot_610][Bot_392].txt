@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "4"]
+[White "TinyHugeBot (by: Popax21 & atpx8)"]
+[Black "Uranium (by: iudwgerte)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. Nf3 d5 3. e3 e6 4. c4 Be7 5. Nc3 O-O 6. Bd3 c5 7. O-O Nc6 8. a3 Re8 9. dxc5 Bxc5 10. b4 Bd6 11. Bb2 a5 12. bxa5 Nxa5 13. cxd5 exd5 14. Nb5 Ne4 15. Bxe4 Rxe4 16. Nc3 Nc4 17. Qxd5 Rg4 18. Rfb1 Ra5 19. Qd1 Rh5 20. g3 b6 21. Qe2 Ba6 22. a4 Bc5 23. Bc1 Qf6 24. Nb5 Qg6 25. Bb2 Bb7 26. Bd4 Qf5 27. e4 Rxe4 28. Qd3 Qd5 29. Qc3 Re3 30. fxe3 Qxf3 31. e4 Qxe4 32. Kf1 Rf5+ 33. Qf3 Qxf3+ 34. Kg1 Qh1# 0-1

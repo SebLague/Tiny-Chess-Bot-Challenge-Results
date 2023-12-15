@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "28"]
+[White "Plumbo (by: Luca Voros)"]
+[Black "AelChess (by: Aëldrexan)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 d5 2. e3 c5 3. Bb5+ Bd7 4. Be2 Nc6 5. O-O e5 6. d4 exd4 7. exd4 cxd4 8. Nxd4 Nf6 9. Bf3 Ne5 10. Re1 Bd6 11. Bg5 Qb6 12. Nc3 O-O 13. Bxf6 gxf6 14. Nxd5 Nxf3+ 15. Nxf3 Qd8 16. Qd4 Kg7 17. Rad1 Bc6 18. Ne3 Bxh2+ 19. Kxh2 Qa5 20. Qg4+ Kh8 21. Qh4 Kg8 22. Qxf6 Be4 23. Ne5 Qa4 24. Rd7 Qxa2 25. N3g4 h5 26. Qg5+ Kh8 27. Qh6+ Bh7 28. Ng6+ fxg6 29. Qxh7# 1-0

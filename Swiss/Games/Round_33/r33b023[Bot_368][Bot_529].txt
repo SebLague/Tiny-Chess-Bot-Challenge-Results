@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "32"]
+[White "Chip (by: Evan)"]
+[Black "NNBot (by: Jamie Whiting)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. d4 e6 3. Nf3 Nf6 4. e5 Nd5 5. Bd3 d6 6. O-O dxe5 7. dxe5 Be7 8. a3 g5 9. c4 Nb6 10. h3 Nd7 11. Re1 h5 12. b4 g4 13. hxg4 hxg4 14. b5 Nc5 15. Bf1 Qxd1 16. Rxd1 Nb3 17. Ra2 gxf3 18. bxc6 Nxc1 19. Rxc1 bxc6 20. gxf3 Ba6 21. Nd2 O-O-O 22. Nb3 Rhg8+ 23. Kh2 Bg5 24. Re1 Bf4+ 25. Kh1 Rh8+ 26. Kg1 Rdg8+ 27. Bg2 Bxc4 28. Na5 Bxa2 29. Nxc6 Kb7 30. Re4 Bh2+ 31. Kf1 Kxc6 32. f4 Kc5 33. f3 Bc4+ 34. Kf2 Bg3+ 35. Ke3 Rd8 36. Rxc4+ Kxc4 37. Bf1+ Kc3 38. Be2 Rh2 39. f5 Bf2+ 40. Kf4 Rd4+ 41. Kg5 Bh4+ 42. Kh6 Bf6# 0-1

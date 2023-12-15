@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "Blitztron (by: Cameron Dugan)"]
+[Black "The Peaceful King (by: Sam Lefforge)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 h6 2. Nd2 h5 3. c3 h4 4. Rb1 c6 5. Nc4 Rh6 6. Bxh6 b5 7. Bg5 Bb7 8. Nd6+ exd6 9. Bxd8 Be7 10. Bxe7 g6 11. Bxh4 Kf8 12. a4 Kg7 13. f3 Kh7 14. Ra1 Kh6 15. axb5 Kh5 16. bxc6 Kh6 17. cxb7 Kg7 18. bxa8=Q Kh7 19. Qxb8 Kh8 20. Qxd6 Kh7 21. Qxd7 Kh8 22. Qxf7 Ne7 23. Bf6# 1-0

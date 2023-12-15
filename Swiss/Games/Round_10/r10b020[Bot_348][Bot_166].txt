@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "9"]
+[White "SimplerBot (by: Rick Schaffer)"]
+[Black "Wyrm (by: Finian P.)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Bg4 5. f3 Bd7 6. Kf2 Be7 7. e4 Bh4+ 8. g3 Bf6 9. Nd5 Nc6 10. Nb5 Rc8 11. Be3 Bxb2 12. Rb1 Bf6 13. Nxa7 Nxa7 14. Bxa7 b6 15. Rxb6 cxb6 16. Bxb6 Bd4+ 17. Bxd4 Qg5 18. h4 Qg6 19. h5 Qh6 20. Be3 g5 21. Nb6 Rc7 22. f4 Nf6 23. Kg1 Nxe4 24. Qd4 f6 25. Qxe4+ Kd8 26. fxg5 Qg7 27. Qa8+ Rc8 28. Nxc8 Bxc8 29. Qa5+ Ke8 30. Bb5+ Bd7 31. Qc7 Qe7 32. Qc8+ Kf7 33. Qxd7 Qxd7 34. Bxd7 fxg5 35. Bxg5 Rg8 36. Bf4 d5 37. Kf2 Ra8 38. a4 Ra7 39. Bb5 Ra8 40. h6 Kf6 41. Ke3 Rc8 42. Rh2 Kg6 43. Kd4 Kf7 44. Kxd5 Rd8+ 45. Kc6 Rc8+ 46. Kb6 Kf6 47. a5 Kf7 48. a6 Kg6 49. a7 Ra8 50. Bd3+ Kf6 51. Bxh7 Kf7 52. Be4 Re8 53. a8=Q Rxa8 54. Bxa8 Kf6 55. h7 Ke7 56. h8=Q Ke6 57. Qh7 Kf6 58. Rh6# 1-0

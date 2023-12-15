@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Knockout 64"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "-1"]
+[White "LynchBot (by: Gary Lynch)"]
+[Black "TinyHugeBot (by: Popax21 & atpx8)"]
+[Result "0-1"]
+[TimeControl "30+0.1"]
+[Termination "Checkmate"]
+
+1. d4 d5 2. c4 c6 3. Nf3 e6 4. e3 Nf6 5. Bd3 Nbd7 6. O-O dxc4 7. Bxc4 Bd6 8. a4 O-O 9. Nc3 c5 10. Nb5 Be7 11. Bd2 Ne4 12. Rc1 b6 13. d5 Ndf6 14. dxe6 Bxe6 15. Bxe6 fxe6 16. h3 a6 17. Nc3 Qd3 18. Nxe4 Nxe4 19. Bc3 Qxd1 20. Rfxd1 Rad8 21. Be5 Rxd1+ 22. Rxd1 Rd8 23. Rxd8+ Bxd8 24. g3 b5 25. b3 Kf7 26. Bf4 c4 27. Ne5+ Ke8 28. bxc4 bxa4 29. Nc6 Bf6 30. f3 a3 31. Nb4 Nd2 32. g4 g5 33. Bd6 Nxc4 34. Bc5 Kd7 35. Kf2 a5 36. Na2 Kc6 37. Bf8 Kb5 38. Ke2 Ka4 39. Kd3 Ne5+ 40. Ke2 Nd7 41. Bd6 Bb2 42. Bg3 Kb3 43. Be1 Kxa2 44. f4 Kb3 45. f5 exf5 46. h4 a2 47. gxf5 a1=Q 48. hxg5 Qa4 49. f6 Qb5+ 50. Kf2 Qxg5 51. f7 Qf5+ 52. Ke2 Qh5+ 53. Kf2 Qxf7+ 54. Kg3 Ne5 55. Kg2 Qf3+ 56. Kg1 Ng4 57. Bd2 Qf2+ 58. Kh1 Qf1# 0-1

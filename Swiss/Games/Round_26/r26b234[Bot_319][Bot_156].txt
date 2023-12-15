@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "25"]
+[White "GOYO Bot v1.1.2 (by: Goyo)"]
+[Black "Blundering Baggins (by: kooleerv)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Na6 2. e5 Rb8 3. Nc3 Ra8 4. Ne4 Rb8 5. Ng5 Ra8 6. Bc4 Rb8 7. Bxf7# 1-0

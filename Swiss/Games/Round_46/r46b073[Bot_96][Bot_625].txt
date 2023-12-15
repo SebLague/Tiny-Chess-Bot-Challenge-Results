@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "45"]
+[White "Chess Bot (by: M)"]
+[Black "Bongcloud Bot (by: lurendrei)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 g5 2. d4 Bh6 3. Bd3 Nc6 4. Be3 Bg7 5. Nf3 g4 6. d5 Bxb2 7. Nbd2 gxf3 8. Nxf3 Nb4 9. Rb1 Bc3+ 10. Ke2 Nf6 11. Rb3 Nxd3 12. cxd3 Ba5 13. a4 c6 14. g4 cxd5 15. h3 dxe4 16. dxe4 Nxe4 17. Qd4 Nf6 18. g5 Bb6 19. Rxb6 Qxb6 20. gxf6 Qa6+ 21. Kd2 Qxf6 22. h4 Qxd4+ 23. Bxd4 Rg8 24. Re1 d5 25. Ng5 Bf5 26. Re5 e6 27. f4 f6 28. Rxe6+ Bxe6 29. Nxe6 Rg2+ 30. Ke3 Kf7 31. Nc7 Rd8 32. Nb5 Rh2 33. h5 a6 34. Nc3 Rxh5 35. Kf3 Rh3+ 36. Ke2 Rc8 37. Bxf6 Rhxc3 38. Bxc3 Rxc3 39. a5 Ra3 40. Kf2 Ke6 41. Kg2 Kf5 42. Kh2 Kxf4 43. Kg2 Rxa5 44. Kh2 Ra2+ 45. Kh3 Rd2 46. Kh4 Rh2# 0-1

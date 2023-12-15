@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "50"]
+[White "LiL Scoot (by: Scoutamass)"]
+[Black "AlaskaBot (by: Arttu Halonen)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Qf3 Bc5 3. Bb5 h5 4. Kd1 Nf6 5. Qf5 Ng4 6. Bxd7+ Bxd7 7. Qf3 Nxf2+ 8. Ke1 Nxh1 9. Ne2 f5 10. Kd1 fxe4 11. Qf1 Nf2+ 12. Ke1 b5 13. Nbc3 g5 14. Ng3 a5 15. Rb1 h4 16. Nge2 c6 17. b3 b4 18. Na4 Na6 19. Nac3 bxc3 20. Nxc3 Nb4 21. Rb2 g4 22. Ke2 a4 23. bxa4 h3 24. gxh3 g3 25. hxg3 Bxh3 26. Qe1 Nbd3 27. Qg1 Nxb2 28. Bxb2 Bf5 29. Ke1 e3 30. dxe3 Bxe3 31. g4 Nxg4 32. Qg2 Bd2+ 33. Ke2 Bxc3 34. Qxc6+ Ke7 35. Ba3+ Kf7 36. Qb7+ Ke6 37. Qc6+ Kf7 38. Qb7+ Kf6 39. Qc6+ Kg7 40. Qb7+ Bd7 41. Qg2 Rxa4 42. Bf8+ Rxf8 43. Qd5 Ba5 44. Qg2 Rxa2 45. Qc6 Ne3 46. Qc5 Nxc2 47. Qxe5+ Kg6 48. Qd6+ Kf5 49. Qd5+ Kf6 50. Qd6+ Kf7 51. Qd5+ Ke7 52. Qxd7+ Kxd7 53. Kd1 Nd4 54. Kc1 Rf1# 0-1

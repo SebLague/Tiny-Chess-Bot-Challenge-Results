@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "Astolfo (by: Illuminate)"]
+[Black "Pharouk (by: Pydjama)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e6 2. d4 Qh4 3. Nc3 Bb4 4. e5 Qe4+ 5. Be3 Nc6 6. Nf3 d6 7. Bd3 Qg4 8. h3 Qxg2 9. Rh2 Qxh2 10. Nxh2 dxe5 11. Bb5 exd4 12. Qxd4 a5 13. Qxg7 e5 14. Bxc6+ bxc6 15. Qxh8 Bxc3+ 16. bxc3 h5 17. O-O-O Ke7 18. Qxe5+ Be6 19. Bc5+ Ke8 20. Qg7 Bd5 21. Qxg8+ Kd7 22. Qxa8 Ke6 23. Qe8+ Kf6 24. Bd4+ Kg5 25. Qe7+ Kh6 26. Qf6+ Kh7 27. Qg7# 1-0

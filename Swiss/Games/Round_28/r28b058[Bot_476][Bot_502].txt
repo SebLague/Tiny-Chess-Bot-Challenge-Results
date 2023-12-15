@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "27"]
+[White "Minirose V2.23 (by: Tamplite Siphron Kents)"]
+[Black "Stickleback2 (by: Brent Mardell)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nc6 2. d5 Na5 3. Nd2 e6 4. c4 exd5 5. cxd5 Bb4 6. a3 Bxd2+ 7. Bxd2 Nc4 8. Bc3 Nf6 9. Rc1 Nb6 10. Bxf6 Qxf6 11. Nf3 Qxb2 12. Rxc7 Qxa3 13. Qd2 O-O 14. e4 Re8 15. Be2 Rxe4 16. Ng5 Re8 17. d6 Qa6 18. Rf1 Nd5 19. Rc5 Nf4 20. Rxc8 Raxc8 21. Qe3 Rxe3 22. fxe3 Qxe2# 0-1

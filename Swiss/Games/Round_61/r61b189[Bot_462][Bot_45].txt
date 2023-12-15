@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "60"]
+[White "quick and dirty (by: Rafael)"]
+[Black "HopeBot (by: Chinmay Krishna)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Nc3 e6 2. Nb5 Qg5 3. Nxc7+ Kd8 4. Nf3 Qf4 5. Nxa8 d5 6. e3 Qg4 7. Ng1 Nf6 8. Rb1 Bd6 9. Qe2 h6 10. Ra1 Bd7 11. Rb1 Bc8 12. Qb5 b6 13. h3 Qe4 14. d3 Qb4+ 15. Qxb4 Bxb4+ 16. c3 Bd6 17. d4 Ke7 18. Ra1 Ne4 19. Rb1 Nf6 20. Ra1 Ne4 21. Rb1 Nf6 1/2-1/2

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "23"]
+[White "BuiltCleverBot (by: Scott Ward)"]
+[Black "Valkyrie (by: Skelecat)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nc3 Qf6 3. Nd5 Qd6 4. Nf3 Nf6 5. Nxf6+ Qxf6 6. Bc4 Qg6 7. Nxe5 Qxg2 8. Qf3 Qxf3 9. Nxf3 Nc6 10. d4 d6 11. d5 Nb4 12. Nd4 c5 13. dxc6 bxc6 14. O-O d5 15. exd5 cxd5 16. Re1+ Kd8 17. Bb5 Bc5 18. Nc6+ Kc7 19. Be3 Nxc6 20. Bxc5 Rb8 21. Bxc6 Kxc6 22. Bd4 Rb4 23. c3 Rxb2 24. c4 Rd2 25. cxd5+ Kxd5 26. Bc3 Rc2 27. Bxg7 Rg8 28. Re5+ Kc6 29. Rg5 Rd8 30. Bf6 Rdd2 31. Rg7 Rxf2 32. Rxf7 Rg2+ 33. Kh1 Rxh2+ 34. Kg1 Rcg2+ 35. Kf1 Ba6+ 36. Ke1 Rh1# 0-1

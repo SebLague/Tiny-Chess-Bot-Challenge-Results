@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "13"]
+[White "roboleon v4.1 bugfixed (by: CLEC)"]
+[Black "BitBlunderer (by: Till Zemann (GitHub: https://github.com/till2 :D))"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 e6 2. d4 Nc6 3. e4 Qf6 4. a3 b6 5. Bg5 Qg6 6. Nc3 Qh5 7. Nb5 Bd6 8. g4 Qxg4 9. Be3 Be7 10. Nxc7+ Kf8 11. Nxa8 Qxe4 12. Bb5 Bh4 13. Kf1 Qxf3 14. Qxf3 Nd8 15. Qf4 Be7 16. Nc7 Bb7 17. Rg1 f5 18. Qg3 Bf6 19. Bxd7 Be4 20. Nxe6+ Nxe6 21. Bxe6 Ne7 22. Qb8+ Nc8 23. Qxc8+ Ke7 24. Qd7+ Kf8 25. Qf7# 1-0

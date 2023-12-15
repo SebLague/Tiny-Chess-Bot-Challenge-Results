@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "32"]
+[White "maff-chess (by: Filip)"]
+[Black "TalkChess (by: Thomas Jahn, Mike Sherwin, Dmitry Shechtman)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Illegal move"]
+
+1. e4 Nc6 2. Nf3 Nf6 3. e5 Ne4 4. Qe2 d5 5. exd6 Nxd6 6. c4 Bf5 7. a3 e6 8. c5 Ne4 9. Qb5 Bxc5 10. Qxb7 Bxf2+ 11. Kd1 Nd4 12. Bd3 Rb8 13. Qa6 Nxf3 14. gxf3 Rb6 15. Qc4 Nc5 16. Bxf5 exf5 17. Qe2+ Kf8 18. Qxf2 Qd5 19. d3 Qxd3+ 20. Nd2 Qd5 21. b4 Nd3 22. Qg1 Kg8 23. Qe3 Kf8 24. Qg1 Kg8 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "Sven (by: Erik & Pascal)"]
+[Black "SmoothBrainBot (by: zeqzero)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d6 2. Nc3 Be6 3. Nf3 c6 4. Ng5 f6 5. Nxe6 b6 6. Qg4 Qd7 7. Nxg7+ Bxg7 8. Qxg7 e6 9. Qxh8 e5 10. Qxg8+ Ke7 11. Bc4 c5 12. Nd5# 1-0

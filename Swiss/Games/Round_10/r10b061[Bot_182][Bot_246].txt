@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "9"]
+[White "tybot (by: Tylyr1)"]
+[Black "James (by: Aedan Smith)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 Nc6 2. c3 Nf6 3. Bb5 a6 4. Ba4 b5 5. Bc2 d5 6. f3 e5 7. a4 Be6 8. Qe2 Bd6 9. axb5 axb5 10. Rxa8 Qxa8 11. Qxb5 Kd7 12. Qa4 Qb7 13. Qh4 h6 14. Ba4 Ra8 15. Ne2 Bf5 16. d3 Rxa4 17. Qxa4 Bxd3 18. Na3 Bxe2 19. Kxe2 e4 20. Nc2 Kc8 21. Bd2 exf3+ 22. gxf3 g5 23. b3 g4 24. fxg4 Be5 25. Qa3 Ne4 26. Qf8+ Nd8 27. Qxh6 Ne6 28. Bc1 Qxb3 29. Nd4 Qc4+ 30. Kf3 Qa2 31. Qh7 Qf2# 0-1

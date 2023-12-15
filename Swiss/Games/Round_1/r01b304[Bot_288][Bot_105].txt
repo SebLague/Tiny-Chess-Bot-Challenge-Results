@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "Running Bot (by: Chris Pontius)"]
+[Black "NotSoEvilBot (by: AntVil)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c3 a6 2. e4 a5 3. Nf3 a4 4. Bd3 a3 5. bxa3 b6 6. O-O b5 7. Bxb5 c6 8. Bc4 c5 9. d4 cxd4 10. Ne5 dxc3 11. Bxf7# 1-0

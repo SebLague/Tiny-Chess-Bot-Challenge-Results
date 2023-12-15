@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "10"]
+[White "FunBot (by: Paul Spooner AKA Dudecon)"]
+[Black "MiaKBotv4.4 (by: Mia Kellett)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Stalemate"]
+
+1. Nf3 Nc6 2. e3 Nf6 3. c4 Ne4 4. h4 Nc5 5. Nc3 Ne6 6. d3 Nc5 7. g3 Ne6 8. e4 Ncd4 9. a4 Nc6 10. Na2 Ncd4 11. h5 Nc6 12. g4 Ncd4 13. Nh2 Nc6 14. b3 Ncd4 15. e5 Nc6 16. Nf3 Ncd4 17. b4 Nc6 18. b5 Ncd4 19. a5 Rb8 20. Nc3 Ra8 21. Ne4 f5 22. Bf4 fxe4 23. Ra4 exf3 24. Bd2 d6 25. Qxf3 Nxf3+ 26. Kd1 Nxe5 27. Rg1 Nf3 28. Rh1 Nc5 29. d4 Nxa4 30. Bc3 Nxc3+ 31. Kc2 Ne4 32. Kb2 Nxf2 33. c5 Bxg4 34. Be2 Nxh1 35. Ka2 Bxh5 36. a6 Bf7+ 37. d5 Bxd5+ 38. Bc4 Bxc4+ 39. Kb2 Rb8 40. Kb1 Bd3+ 41. Ka2 Bc4+ 42. Ka3 Bxb5 43. Ka2 dxc5 44. Ka1 Qd1+ 45. Kb2 Bc4 46. Kc3 Qe2 47. axb7 Rd8 48. b8=B Rxb8 1/2-1/2

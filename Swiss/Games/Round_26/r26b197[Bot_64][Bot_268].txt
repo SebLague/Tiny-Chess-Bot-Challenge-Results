@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "25"]
+[White "offtensive Crane (by: Joao Santos)"]
+[Black "Captain Botvious (by: Selim Sheta)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g3 d5 2. f3 e5 3. e3 Bb4 4. b3 Be6 5. Ke2 Na6 6. d3 Nh6 7. Kf2 O-O 8. Ke2 g5 9. Kf2 Bd6 10. c3 Re8 11. Ke2 c5 12. Kd2 Qc7 13. Ke2 Rab8 14. Qd2 Bf5 15. d4 cxd4 16. exd4 exd4+ 17. Kd1 dxc3 18. Qxg5+ Bg6 19. Qxh6 c2+ 20. Kd2 cxb1=Q 21. Ne2 Qxa1 22. g4 Qxa2+ 23. Kd1 Qxb3+ 24. Ke1 Qxf3 25. Rg1 Bxh2 26. Bd2 Bxg1 27. g5 Qfg3+ 28. Kd1 Qc2# 0-1

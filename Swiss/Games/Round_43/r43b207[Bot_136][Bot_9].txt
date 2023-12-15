@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "42"]
+[White "Chessy (by: SebastianB)"]
+[Black "More Recursion! (by: Bden)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. f3 h6 3. Qe2 Rg8 4. Qd1 a6 5. Bxa6 bxa6 6. a3 Bb7 7. Nc3 Bc6 8. g4 Rh8 9. g5 hxg5 10. e5 Rh6 11. a4 Ng8 12. d3 e6 13. b3 Bb4 14. Ra3 Bxa3 15. Bxa3 a5 16. Ne4 Rh4 17. Nf6+ gxf6 18. Qa1 fxe5 19. Qb2 Qf6 20. d4 exd4 21. Bc5 Qe5+ 22. Ne2 Qe3 23. c3 dxc3 24. Qc2 Qe5 25. Bf2 Rb4 26. Qh7 Qxe2+ 27. Kxe2 Bxf3+ 28. Kxf3 Rxb3 29. Qh5 Na6 30. Bg3 c2+ 31. Ke2 Kd8 32. Qxf7 Nh6 33. Qf8# 1-0

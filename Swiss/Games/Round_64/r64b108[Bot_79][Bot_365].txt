@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "63"]
+[White "SybBot (by: Sybsuper)"]
+[Black "KU_AI_BOT (by: Daniel Johnson)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e6 2. c4 Qf6 3. Qh5 g6 4. Qh3 Bc5 5. Nf3 Nc6 6. a3 Qf4 7. Nc3 Nd4 8. d3 Qd6 9. Nxd4 Qe7 10. Nb3 Bd6 11. Nb5 Be5 12. d4 Bg7 13. Nxc7+ Kd8 14. Nxa8 d6 15. g4 b6 16. Qe3 Bb7 17. Nxb6 axb6 18. d5 Qc7 19. dxe6 fxe6 20. g5 Ne7 21. a4 Rf8 22. h4 Ke8 23. a5 Rxf2 24. Kxf2 Nc8 25. axb6 Qf7+ 26. Ke1 Ne7 27. c5 Kf8 28. cxd6 Nd5 29. exd5 exd5 30. Nc5 d4 31. d7 dxe3 32. d8=Q+ Qe8 33. Qxe8+ Kxe8 34. Nxb7 Be5 35. Bd3 Bd4 36. Ra6 Kf8 37. Kf1 Kg7 38. b4 Kf8 39. Nd6 Be5 40. b7 Kg7 41. Bxe3 Bxd6 42. Rxd6 Kf7 43. b8=Q Ke7 44. Bc5 Kf7 45. Bc4+ Kg7 46. Qg8# 1-0

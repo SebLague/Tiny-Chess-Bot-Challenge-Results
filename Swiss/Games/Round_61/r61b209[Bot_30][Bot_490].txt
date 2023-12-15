@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "60"]
+[White "WhyAmIABot (by: Levi)"]
+[Black "Trogdor (by: Zaph)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g4 Nf6 2. g5 Nc6 3. gxf6 gxf6 4. Nh3 Nb8 5. Na3 e6 6. Nc4 Be7 7. Bg2 Rf8 8. O-O Rg8 9. Qe1 Kf8 10. Qd1 Rxg2+ 11. Kxg2 f5 12. Ne5 Na6 13. Qe1 Bb4 14. Rg1 Bc5 15. Rh1 d5 16. f4 Bb4 17. Rf1 b6 18. Nc6 f6 19. Nxd8 Nb8 20. Rh1 Ke7 21. Nxe6 Bxe6 22. b3 Ba5 23. Ba3+ Kd7 24. Qf1 Bxd2 25. Bf8 Nc6 26. Bh6 Re8 27. Qb1 Rb8 28. a3 Rg8+ 29. Kf2 Rb8 30. Rf1 d4 31. Qb2 Rd8 32. Rab1 Nb8 33. Qxd4+ Kc8 34. Qxf6 c5 35. Qxe6+ Nd7 36. Qxf5 Ba5 37. Qxh7 Nb8 38. Qxa7 Rd4 39. f5 Rd8 40. Qa8 Rd7 41. Rb2 Rd8 42. Rg1 Rd4 43. Rg8+ Rd8 44. Rxd8+ Kxd8 45. Qxb8+ Ke7 46. a4 Bb4 47. Qxb6 Ba3 48. f6+ Ke8 49. Qc6+ Kd8 50. f7 Bxb2 51. f8=Q# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "55"]
+[White "AngryPiece (by: FlamingSquid)"]
+[Black "nadjBot (by: Arman N)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. b4 a5 2. bxa5 Rxa5 3. Nc3 Rxa2 4. Nxa2 b5 5. Nc3 b4 6. Ne4 b3 7. Nd6+ cxd6 8. cxb3 Qa5 9. b4 Qxa1 10. b5 Qxc1 11. b6 Qxd1+ 12. Kxd1 d5 13. h4 d4 14. h5 d3 15. h6 dxe2+ 16. Nxe2 Nxh6 17. Nd4 Ng4 18. Nb5 Nxf2+ 19. Kc1 Nxh1 20. b7 Bxb7 21. Be2 Bxg2 22. Bc4 Bf1 23. Bxf1 Nf2 24. Bh3 Nxh3 25. d4 Ng1 26. d5 Ne2+ 27. Kd2 Nc1 28. Kxc1 e5 29. Kb2 Ba3+ 30. Kxa3 e4 31. Kb4 e3 32. Ka5 e2 33. Kb4 e1=Q+ 34. Kb3 Qa1 35. Kc4 Qb1 36. Kd4 Qxb5 37. Ke3 Qxd5 38. Ke2 Qd1+ 39. Kxd1 d5 40. Ke1 d4 41. Kf1 d3 42. Kf2 d2 43. Ke3 d1=Q 44. Ke4 Qa1 45. Kf5 Qb1+ 46. Kf4 Qa1 47. Kg4 Qb1 48. Kf4 Qa1 49. Kf3 Qb1 50. Kf2 Qa1 51. Ke3 Qb1 52. Kf3 Qa1 53. Kg4 Qb1 54. Kh5 Qa1 55. Kh4 Qb1 56. Kg4 Qa1 57. Kf5 Qb1+ 58. Ke5 Qa1+ 59. Kf4 Qb1 60. Kg3 Qa1 61. Kh4 Qb1 62. Kg4 Qa1 63. Kh3 Qb1 64. Kg4 1/2-1/2

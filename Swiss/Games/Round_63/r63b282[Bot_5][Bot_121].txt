@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "62"]
+[White "AngryPiece (by: FlamingSquid)"]
+[Black "broken bot (by: Raj Gaurav)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c4 h5 2. c5 g5 3. c6 dxc6 4. Nc3 f5 5. Nb1 e5 6. Nc3 b5 7. Nxb5 cxb5 8. h4 gxh4 9. d3 c5 10. d4 exd4 11. e3 dxe3 12. b3 exf2+ 13. Kxf2 a5 14. Ke1 f4 15. Ke2 c4 16. Kf2 cxb3 17. Ke1 bxa2 18. Ke2 b4 19. Kf3 a4 20. Kxf4 h3 21. Ke4 hxg2 22. Ke3 gxf1=B 23. Kf3 h4 24. Ke4 h3 25. Ke3 b3 26. Kf3 a3 27. Ke3 h2 28. Kf3 hxg1=B 29. Kf4 b2 30. Kf3 bxa1=B 31. Kg3 Ne7 32. Kf4 Nd7 33. Kg5 Ng8+ 34. Kg6 Qf6# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "7"]
+[White "Annihilator (by: Wiechciu)"]
+[Black "GulcarBot (by: Gulcar)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. b4 e5 2. b5 Qh4 3. a3 d5 4. d4 Qxd4 5. Qxd4 exd4 6. Bb2 c5 7. bxc6 Nxc6 8. h4 Nf6 9. c3 dxc3 10. Nxc3 a6 11. Na4 Nd7 12. Rc1 Na5 13. Rc7 b5 14. Rxd7 Bxd7 15. Nb6 Rb8 16. Nxd5 Rc8 17. Nb6 Rc2 18. Ba1 Rc1+ 19. Kd2 Nb3+ 20. Ke3 Rxa1 21. Nxd7 Kxd7 22. Nh3 Bxa3 23. f4 Bc5+ 24. Kf3 Nd2+ 25. Kg4 Nxf1 26. Ng1 Nd2 27. e3 Bxe3 28. Kg3 Bxg1 29. Rh3 Ra3+ 30. Kg4 h5+ 31. Kg5 Ke6 32. Rh1 Rg3# 0-1

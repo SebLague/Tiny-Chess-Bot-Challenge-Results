@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "7"]
+[White "Hammerhead (by: mhart)"]
+[Black "Achilles Random (by: Achilles)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 c5 2. dxc5 Qa5+ 3. Nc3 Qxc5 4. Be3 Qxe3 5. fxe3 e5 6. Qd5 Nc6 7. Qc4 Nd4 8. exd4 exd4 9. Ne4 Nf6 10. Nxf6+ gxf6 11. e3 dxe3 12. Ne2 Bh6 13. Qc5 Rf8 14. a4 Bg5 15. O-O-O Rg8 16. Kb1 Rf8 17. Ka2 Bh6 18. Ka3 a5 19. Ng1 e2 20. Nxe2 b5 21. axb5 Bb7 22. Qc7 Bxg2 23. Qxd7# 1-0

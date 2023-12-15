@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "60"]
+[White "Chessetor, Destroyer of Boards (by: Badoobicus)"]
+[Black "Saint Charles Bot (by: DATA USP)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c4 e6 2. Qb3 Qg5 3. Qd3 Qf4 4. Nh3 Qe5 5. b3 Qxa1 6. a4 Qa2 7. Qc3 Qxb1 8. Qf3 Qxc1# 0-1

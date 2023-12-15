@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "3"]
+[White "Bob (Looser) (by: Flo)"]
+[Black "Blindo (by: MS)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. b4 e5 2. g4 Bxb4 3. Ba3 Bxa3 4. Nc3 Bb2 5. Qc1 Bxc1 6. a4 Qg5 7. Kd1 Qxd2# 0-1

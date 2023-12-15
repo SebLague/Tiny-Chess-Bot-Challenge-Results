@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "56"]
+[White "CCCP (by: not mario)"]
+[Black "Clyde (by: Evan)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a4 h5 2. g4 hxg4 3. Bh3 gxh3 4. Nxh3 Rxh3 5. b3 g5 6. e3 d5 7. c4 dxc4 8. bxc4 c5 9. f3 f5 10. Qb3 Rxf3 11. Qb5+ Kf7 12. Qe8+ Kxe8 13. d3 Qxd3 14. Rg1 Qxc4 15. Rxg5 Qxc1+ 16. Ke2 Rh3 17. Rxg8 Rxh2+ 18. Kd3 Qc2# 0-1

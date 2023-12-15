@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "TalkChess (by: Thomas Jahn, Mike Sherwin, Dmitry Shechtman)"]
+[Black "BlueBat (by: Peter)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 c6 2. Nf3 Qa5 3. d4 f6 4. e4 d5 5. Bd3 Nd7 6. O-O dxe4 7. Nxe4 f5 8. Bd2 Qb6 9. Ng3 e6 10. Bc3 Bd6 11. Qd2 Ngf6 12. Rad1 Nd5 13. Rfe1 N7f6 14. Nxf5 Bf8 15. Bc4 Nxc3 16. Qxc3 Kd8 17. Bxe6 Bb4 18. Qb3 Bxe1 19. Rxe1 Qxb3 20. axb3 g6 21. Nd6 Bxe6 22. Rxe6 Kc7 23. Rxf6 Rhg8 24. Ne5 Rad8 25. Nef7 Rdf8 26. Ne4 Kb8 27. Ne5 Rxf6 28. Nxf6 Rd8 29. Nxh7 Rxd4 30. Nf6 Rd1# 0-1

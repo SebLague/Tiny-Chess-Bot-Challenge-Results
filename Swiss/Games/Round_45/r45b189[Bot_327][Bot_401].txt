@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "44"]
+[White "FunBot (by: Paul Spooner AKA Dudecon)"]
+[Black "BlindfoldBot (by: Mk-0)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. h3 a6 2. f3 a5 3. c4 a4 4. e3 b6 5. d4 c6 6. h4 b5 7. b4 d5 8. g3 bxc4 9. a3 Qd6 10. Ne2 Qf6 11. Nd2 Qe6 12. Nb1 Qf6 13. Ng1 Qd6 14. Ne2 Qf6 1/2-1/2

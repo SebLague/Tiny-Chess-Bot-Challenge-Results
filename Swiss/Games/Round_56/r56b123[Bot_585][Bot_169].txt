@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "55"]
+[White "Negative Depth (by: Zoltán Kürti)"]
+[Black "TalkChess (by: Thomas Jahn, Mike Sherwin, Dmitry Shechtman)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nc6 2. e4 Nf6 3. e5 Ne4 4. d4 d5 5. c4 e6 6. cxd5 exd5 7. Nc3 Bf5 8. Nxe4 dxe4 9. d5 Bb4+ 10. Bd2 Qxd5 11. Bxb4 Nxb4 12. Qxd5 Nxd5 13. Nd4 Be6 14. Bc4 O-O 15. O-O Rad8 16. Rfe1 b5 17. Nxb5 Bf5 18. Nxa7 Nf4 19. Nb5 Rd2 20. b3 Re8 21. Nxc7 Rxe5 22. Red1 Rb2 23. Rd8+ Re8 24. Rxe8# 1-0

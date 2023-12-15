@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "26"]
+[White "RP Bot (by: Matt Enad (RobProductions))"]
+[Black "Pawnish Punisher (by: Leon)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 c6 2. e4 Qa5+ 3. Ke2 Kd8 4. Nf3 Ke8 5. c4 Kd8 6. Kd3 b5 7. Ne5 bxc4+ 8. Ke2 Kc7 9. Nxc4 Qh5+ 10. Ke1 Qxd1+ 11. Kxd1 Kb7 12. Na5+ Kb6 13. Bd2 d5 14. f3 f6 15. Kc1 Be6 16. a3 Bd7 17. Kd1 Be6 18. Ke1 Bd7 19. Ke2 Be6 20. Kd1 Bd7 21. Kc2 Be6 22. Kd3 Bd7 23. f4 Kc7 24. Nc3 Kb6 25. Nxd5+ cxd5 26. Ke3 e6 27. Kf2 Be8 28. Ke1 Bh5 29. exd5 exd5 30. Bb4 Bxb4+ 31. axb4 Na6 32. f5 Re8+ 33. Kd2 Re4 34. Nc6 Kxc6 35. Rxa6+ Kb7 36. b5 Rxd4+ 37. Kc2 Rf4 38. Kb1 Rf2 39. Ka1 Ka8 40. b6 Rxf5 41. Rxa7+ Kb8 42. Rd7 Kc8 43. Rxg7 Nh6 44. Kb1 Rf2 45. Kc1 Kb8 46. Bd3 Ka8 47. Ba6 Kb8 48. Rf1 Rxf1+ 49. Bxf1 Ng4 50. Kb1 Nxh2 51. Bb5 Bd1 52. Ka1 Ka8 53. Bc6+ Kb8 54. Ra7 Bh5 55. Ra8# 1-0

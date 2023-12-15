@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "11"]
+[White "Shielded Minibot (by: Sesen)"]
+[Black "bLouBot (by: cmdrsigsegv)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. Nc3 c5 2. Rb1 Nf6 3. Nf3 Nc6 4. Ng5 h6 5. Nge4 Nxe4 6. Nxe4 Qa5 7. Nc3 h5 8. Ra1 e6 9. Ne4 f5 10. Ng5 Be7 11. Nf3 Qb4 12. c3 Qc4 13. Rg1 Bd6 14. Rh1 Rf8 15. Rg1 Rf6 16. Rh1 a5 17. d3 Qb5 18. Qd2 Ne5 19. Qe3 f4 20. Qe4 Nxf3+ 21. Qxf3 c4 22. dxc4 Qxc4 23. Qxh5+ Kf8 24. e3 Qd5 25. Qxd5 exd5 26. exf4 Bxf4 27. Bxf4 Rxf4 28. a3 Re4+ 29. Kd2 Rf4 30. Ke3 Re4+ 31. Kf3 d6 32. Bd3 Re6 33. Kg3 Re5 34. Kf4 g5+ 35. Kg3 Be6 36. Rac1 Re8 37. Rc2 Re7 38. Rd1 g4 39. Ra1 a4 40. Bb5 d4 41. Bf1 dxc3 42. bxc3 Bd5 43. Kxg4 Rg7+ 44. Kh4 Re4+ 45. f4 Rxf4+ 46. Kh3 Be6+ 47. g4 Rh7+ 48. Kg3 Rxg4+ 49. Kf3 b5 50. Rd2 d5 51. Ke3 Re4+ 52. Kf2 b4 53. axb4 d4 54. cxd4 Rhh4 55. Rxa4 Bc8 56. Ra8 Rhf4+ 57. Kg1 Rxf1+ 0-1

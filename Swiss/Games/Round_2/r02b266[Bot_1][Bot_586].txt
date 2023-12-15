@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "The Chotic bot (by: EV3L1N)"]
+[Black "FINCh (by: AMCR Studios (Heather Costello & Tesseract King))"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. Bc4 Nxe4 3. c3 e6 4. Bf1 Qh4 5. Qe2 Nxf2 6. d3 Nxh1+ 7. Kd2 Qf4+ 8. Kd1 Qxh2 9. Qf3 Qxg1 10. Qxf7+ Kxf7 11. Bd2 Qxf1+ 12. Be1 Qxd3+ 13. Bd2 Bc5 14. Na3 Rd8 15. g4 Nf2+ 16. Ke1 Nxg4 17. Bg5 Bf2# 0-1

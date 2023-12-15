@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "50"]
+[White "SimpleBot (by: Tim Zollner)"]
+[Black "Whatevs (by: KingPRS)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. e3 e5 2. Qh5 d6 3. Bb5+ c6 4. Bc4 Qe7 5. Nf3 Kd8 6. Ng5 Kc7 7. O-O b5 8. Nxf7 g6 9. Qe2 bxc4 10. Nxh8 d5 11. e4 Bh6 12. exd5 Bf4 13. dxc6 Nxc6 14. g3 Bh3 15. Re1 Bxg3 16. fxg3 Qc5+ 17. Qe3 Nd4 18. b4 Nf3+ 19. Kf2 Qxe3+ 20. Rxe3 Nh6 21. Nxg6 Ng4+ 22. Kxf3 hxg6 23. Ke2 Nxe3 24. dxe3 Rf8 25. Na3 Rf1 26. e4 Kd7 27. Nxc4 Rh1 28. Nxe5+ Kc7 29. Nf3 Kd7 30. a3 Bg4 31. Ke3 Bxf3 32. h4 Bg2 33. e5 Rf1 34. e6+ Kxe6 35. Kd4 Kf7 36. Bb2 Kf8 37. Rxf1+ Bxf1 38. Ke3 Ke7 39. Kf4 Kd7 40. Bg7 a5 41. Kg5 axb4 42. Bf8 Kc7 43. axb4 Be2 44. c3 Bd1 45. Bg7 Kd7 46. Kxg6 Bc2+ 47. Kg5 Kc7 48. Be5+ Kd7 49. Kf4 Ke7 50. Kf3 Ke6 51. Bd4 Kd7 52. Kg4 Kd8 53. Bf6+ Kc8 54. Kf3 Kb7 55. Kg4 Kc6 56. Kh5 Kb7 57. Kg5 Kc7 58. Be5+ Kc8 59. Kf4 Kd7 60. Ke3 Ke6 61. Kf4 Kf7 62. Kg4 Ke6 0-1

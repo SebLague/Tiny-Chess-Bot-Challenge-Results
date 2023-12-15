@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "14"]
+[White "Bob (by: Kökényesi Attila (UltraGeek))"]
+[Black "AIsaac (by: Isaac Ellwood)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. g4 h5 2. g5 f5 3. a4 e5 4. g6 d5 5. b3 c5 6. h3 a5 7. Bb2 f4 8. h4 b5 9. axb5 e4 10. Ra3 d4 11. Qc1 c4 12. Ra1 cxb3 13. c4 dxc3 14. Bxc3 a4 15. d3 exd3 16. e4 Kd7 17. Bh3+ Ke8 18. Bf1 Kd7 19. Bh3+ Ke8 20. Bf1 Kd7 1/2-1/2

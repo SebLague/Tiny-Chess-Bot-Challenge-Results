@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "50"]
+[White "InfuehrDaniel (by: InfuehrDaniel)"]
+[Black "NNBot (by: Jamie Whiting)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. d4 Nc6 3. d5 Nb4 4. c4 e6 5. Nc3 Be7 6. e4 exd5 7. cxd5 O-O 8. e5 Ng4 9. h3 Nh6 10. a3 Na6 11. Bxh6 gxh6 12. Nd4 d6 13. e6 fxe6 14. Bxa6 bxa6 15. Nxe6 Bxe6 16. dxe6 Rb8 17. Qg4+ Kh8 18. O-O Rxb2 19. Nd5 c5 20. Qc4 Rd2 21. Qc3+ Rd4 22. Rad1 Bf6 23. Rxd4 cxd4 24. Qc6 Kg8 25. Qxa6 Re8 26. Re1 Bg5 27. g3 Qb8 28. e7 Qb3 29. Qc6 Qb8 30. h4 Bd2 31. Re2 Bc3 32. Nf6+ Kf7 33. Qf3 Qb1+ 34. Kh2 Qb7 35. Qxb7 Kxf6 36. Qf3+ Kg7 37. Qh5 Ra8 38. e8=Q Rxe8 39. Qxe8 h5 40. Re7+ Kh6 41. Qf8+ Kg6 42. Re6# 1-0

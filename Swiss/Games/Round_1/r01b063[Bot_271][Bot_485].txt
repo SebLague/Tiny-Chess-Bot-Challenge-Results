@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "DoesTheBotNameHasACharacterLimitBecauseIAmSureThisCanGetInterestingAndIAmNotTalkingAboutTheBotIMeanSeriouslyTheBotIsBasicalyUselessButThatWasFunnyThanksSmileyFace (by: zappynou)"]
+[Black "Search 1.0 (by: Rayansh)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f3 Nc6 2. c4 Nd4 3. Kf2 Nf6 4. Ke1 Ne4 5. fxe4 e6 6. Kf2 Qh4+ 7. Ke3 Qxe4+ 8. Kxe4 Ba3 9. Kxd4 Bxb2+ 10. Bxb2 e5+ 11. Kxe5 O-O 12. Kd4 Re8 13. Kc3 Kh8 14. Kc2 Rxe2 15. Qxe2 Kg8 16. Qe8# 1-0

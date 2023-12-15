@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "56"]
+[White "GOYO Bot v1.1.2 (by: Goyo)"]
+[Black "Stickleback (by: Brent Mardell)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Qh5 Nf6 3. Bc4 Nxh5 4. Bd5 Nf6 5. Nc3 d6 6. Nf3 Nbd7 7. Ng5 Nc5 8. Nb5 c6 9. Nc3 cxd5 10. Nf3 dxe4 11. Ne2 exf3 12. gxf3 Be6 13. Rf1 Bf5 14. Nc3 Bxc2 15. Nb5 Bd3 16. Nc3 Bxf1 17. Kxf1 Nd3 18. Ne2 Nxc1 19. Rxc1 d5 20. Nc3 Bb4 21. Ne2 Bxd2 22. Ng3 Bxc1 23. Ne2 Bxb2 24. Ng3 O-O 25. Nf5 Re8 26. Ng3 d4 27. Nf5 d3 28. Ng3 d2 29. Nf5 d1=Q+ 30. Kg2 Qxf3+ 31. Kxf3 Qd3+ 32. Kg2 Qxf5 33. h4 Qxf2+ 34. Kxf2 Ne4+ 35. Ke1 f5 36. h5 f4 37. Kd1 Rad8+ 38. Ke1 Rd3 39. Kf1 Red8 40. Ke1 Kf7 41. a4 Kg8 42. a5 Re8 43. Kf1 Bc3 44. Kg1 Bxa5 45. Kf1 Be1 46. Kxe1 Red8 47. Kf1 Re8 48. Ke1 f3 49. h6 f2+ 50. Kf1 gxh6 51. Ke2 f1=Q+ 52. Kxf1 h5 53. Ke1 h4 54. Kf1 h3 55. Ke1 h2 56. Kf1 h1=Q+ 57. Ke2 Qd1# 0-1

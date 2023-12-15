@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "40"]
+[White "Sørensen's Minimax (by: Victor)"]
+[Black "BoringBot (by: Carson Bates)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. e3 f6 2. Qh5+ g6 3. Qg4 b6 4. Bb5 f5 5. Qd4 Nf6 6. Nf3 h5 7. Ne5 c5 8. Qc4 Rh7 9. Nxg6 a6 10. Qa4 Bb7 11. Bf1 Bh6 12. Qc4 d5 13. Qb3 d4 14. Qe6 dxe3 15. dxe3 Bc8 16. Qc4 e6 17. Be2 a5 18. Qb5+ Bd7 19. Qc4 Bc8 20. Qb5+ Bd7 21. Qc4 Bc8 1/2-1/2

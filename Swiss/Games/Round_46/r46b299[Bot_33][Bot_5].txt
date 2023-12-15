@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "45"]
+[White "BalanceBot (by: vuT)"]
+[Black "AngryPiece (by: FlamingSquid)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. h3 c6 2. h4 c5 3. h5 c4 4. h6 c3 5. g3 cxd2+ 6. Bxd2 b5 7. Bc1 b4 8. hxg7 b3 9. g4 bxc2 10. gxh8=R cxd1=Q+ 11. Kxd1 Bg7 12. R8xh7 Bxb2 13. Ke1 Bxa1 14. R7h2 Bc3+ 15. Kd1 Be5 16. Rg2 Bd4 17. g5 Bxf2 18. g6 Bxg1 19. gxf7+ Kxf7 20. Rf2+ Bxf2 21. e3 Bxe3 22. Ke1 Bxc1 23. a3 Bxa3 24. Rg1 Bc1 25. Rh1 Bg5 26. Kd1 Bf4 27. Rg1 Bh2 28. Rh1 Bg3 29. Rg1 Be1 30. Rh1 Bd2 31. Rg1 Bc1 32. Ke1 Be3 33. Rh1 Bd2+ 34. Kd1 Ba5 35. Nd2 Bxd2 36. Rg1 Be1 37. Rh1 Bd2 38. Rg1 Bh6 39. Rh1 Be3 40. Rg1 Bxg1 41. Ke1 Bf2+ 42. Kd1 Bg3 43. Kc1 Be5 44. Kd1 Ba1 45. Ke1 Bf6 46. Kd1 Bd4 47. Ke1 Bf2+ 48. Kd1 Bh4 49. Kc1 Bf2 50. Kd1 1/2-1/2

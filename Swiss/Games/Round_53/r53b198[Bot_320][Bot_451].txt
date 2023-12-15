@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "52"]
+[White "lowEloBrain (by: bbb908)"]
+[Black "GreGory (by: Kokken)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Qe2 d6 3. f4 Nd4 4. Qh5 Nxc2+ 5. Kd1 Nxa1 6. Bd3 g6 7. Qh4 f6 8. Bf1 h6 9. Qf2 Bg4+ 10. Ke1 Nc2# 0-1

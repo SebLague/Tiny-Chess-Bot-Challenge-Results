@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "52"]
+[White "LazyBot (by: Tim de Jong)"]
+[Black "mini_yoda (by: Dane Smith)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nc6 2. d5 Ne5 3. Qd4 Ng6 4. e4 b6 5. Nc3 Bb7 6. Nf3 c6 7. dxc6 Bxc6 8. Be3 e5 9. Nxe5 Nxe5 10. Qxe5+ Qe7 11. Qxe7+ Nxe7 12. Nb5 Bxb5 13. Bxb5 Rc8 14. O-O-O Nc6 15. Rd5 Be7 16. Bxc6 Rxc6 17. Bd4 Rg6 18. g3 Bf6 19. Be3 Rg4 20. f3 Rg6 21. Kb1 Be7 22. Rhd1 Rf6 23. Rxd7 Rxf3 24. Rxa7 O-O 25. Bxb6 Re8 26. Rxe7 Rc8 27. Red7 g5 28. Rd8+ Rxd8 29. Rxd8+ Kg7 30. b4 f5 31. Bd4+ Kf7 32. exf5 Rxf5 33. Rd7+ Kg6 34. Kb2 Rf7 35. Rd6+ Kf5 36. Rc6 Kg4 37. a3 Rb7 38. Rh6 Kf3 39. Rf6+ Kg2 40. Rf2+ Kh3 41. Re2 Rf7 42. Re5 Rg7 43. Bg1 Kg2 44. Re1 Rf7 45. g4 Rf3 46. b5 Kh3 47. b6 Rf7 48. Re4 Kg2 49. Bd4 Kf3 50. Re5 Kxg4 51. Be3 Kh3 52. Rxg5 Kxh2 53. Rb5 Rb7 54. Ra5 Kg2 55. Ra7 Rb8 56. Rxh7 Kf1 57. b7 Ke1 58. Ba7 Rxb7+ 59. Rxb7 Ke2 60. Rf7 Kd1 61. Re7 Kd2 62. Bd4 Kd1 63. Re8 Kd2 64. Bc3+ Kd1 65. Re1# 1-0

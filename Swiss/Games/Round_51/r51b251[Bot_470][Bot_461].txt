@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "50"]
+[White "Hopeless Bot (by: Nepiceo)"]
+[Black "CopyBot (by: bull313)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c3 f6 2. c4 f5 3. b3 g6 4. d3 e6 5. Nd2 Ne7 6. c5 f4 7. h4 a5 8. Rh3 Ra6 9. f3 c6 10. g3 fxg3 11. Rxg3 Rb6 12. cxb6 Qxb6 13. Rxg6 Nxg6 14. b4 Qxg1 15. bxa5 Qg3# 0-1

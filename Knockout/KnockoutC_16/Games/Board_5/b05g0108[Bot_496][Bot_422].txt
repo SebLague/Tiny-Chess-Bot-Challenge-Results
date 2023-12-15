@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Knockout 16"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "Ace V1.0.0 (by: Atad)"]
+[Black "FloppyChess 4.2 (by: Omsk)"]
+[Result "1/2-1/2"]
+[TimeControl "30+0.1"]
+[Termination "Repetition"]
+
+1. c4 c5 2. Nf3 Nf6 3. Nc3 e6 4. d4 cxd4 5. Nxd4 a6 6. e4 Bb4 7. Bd3 Nc6 8. Nxc6 dxc6 9. Bf4 Nd7 10. O-O e5 11. Bg3 O-O 12. Bc2 Re8 13. a3 Bxc3 14. bxc3 Qa5 15. Qd3 Nb6 16. Rfb1 Be6 17. Bxe5 Bxc4 18. Qe3 Rxe5 19. Rxb6 Rb5 20. Rb1 Rxb1+ 21. Rxb1 b5 22. Ra1 g6 23. h4 h5 24. e5 Re8 25. a4 Rc8 26. Ra3 c5 27. Ra1 Be6 28. Qg3 Re8 29. Bxg6 fxg6 30. Qxg6+ Kf8 31. Qh6+ Kg8 32. Qg6+ Kf8 33. Qh6+ Kg8 34. Qg6+ 1/2-1/2

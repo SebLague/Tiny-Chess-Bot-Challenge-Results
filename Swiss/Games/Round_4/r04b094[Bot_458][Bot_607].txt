@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "3"]
+[White "Mischievous bot (by: Guigui)"]
+[Black "Andiefietebel (by: Xenymor)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f3 Nc6 2. c3 Nf6 3. h3 Nh5 4. g4 e6 5. e4 Qh4+ 6. Ke2 Ng3+ 7. Ke1 Nxh1+ 8. Ke2 Qg3 9. Na3 Qxg1 10. c4 Nd4+ 11. Kd3 Nf2+ 12. Ke3 Nxd1+ 13. Kf4 Qh2+ 14. Kg5 Nxf3+ 15. Kh5 g6# 0-1

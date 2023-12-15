@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "4"]
+[White "pawnHater300 (by: hakrackete)"]
+[Black "Achilles Random (by: Achilles)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a4 c5 2. a5 Qxa5 3. Rxa5 Nc6 4. Rxc5 Nd4 5. Rxc8+ Rxc8 6. b4 Nxc2+ 7. Qxc2 Rxc2 8. b5 Rxc1# 0-1

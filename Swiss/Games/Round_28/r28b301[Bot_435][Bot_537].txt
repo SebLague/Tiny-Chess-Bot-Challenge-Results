@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "27"]
+[White "røhgryd me' fløe made in China (by: TSDT-Silly)"]
+[Black "InfuehrDaniel MCTS (by: Daniel Infuehr)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c4 e6 2. d3 Qh4 3. c5 Qb4+ 4. Nd2 Kd8 5. Qb3 Qd4 6. h3 Bxc5 7. Rb1 Qxf2+ 8. Kd1 Nc6 9. Qc2 Bb4 10. d4 f5 11. Qc5 d5 12. Ndf3 Ke8 13. Qc4 Qxf1+ 14. Kc2 dxc4 15. Bg5 g6 16. Re1 Bxe1 17. e3 Nb4+ 18. Kb1 Bd2+ 19. Ne1 Qxe1# 0-1

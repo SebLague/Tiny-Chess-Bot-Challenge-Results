@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "50"]
+[White "BalanceBot (by: vuT)"]
+[Black "DD9's chess bot (by: DigestDig9)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. h3 d5 2. h4 d4 3. h5 Be6 4. Nf3 Bc4 5. Ng5 Bxe2 6. Ne6 Bxd1 7. Nxd8 Bxc2 8. Nc6 Bxb1 9. Nb4 c5 10. h6 cxb4 11. Rg1 Bc2 12. hxg7 Be4 13. gxh8=B Bc2 14. Rh1 Ba4 15. Rb1 Bc2 16. Rh2 Bxb1 17. Bxd4 Bc2 18. Bc3 Bb1 19. Bd4 Bc2 20. Bc3 Bb1 21. Bd4 1/2-1/2

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "4"]
+[White "CapivaraBot (by: Danilo Luiz Rheinheimer)"]
+[Black "BigBrainBot (by: Leo)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 Nc6 2. g4 d5 3. g5 e5 4. a4 Bf5 5. a5 Nd4 6. d3 Bc5 7. a6 bxa6 8. Rxa6 Rb8 9. h5 Ne7 10. h6 gxh6 11. gxh6 Rg8 12. e3 Ndc6 13. f3 d4 14. exd4 Qxd4 15. Ne2 Qf2+ 16. Kd2 Qxf3 17. Rh4 Be3+ 18. Kc3 Nd5+ 19. Kc4 Rb4# 0-1

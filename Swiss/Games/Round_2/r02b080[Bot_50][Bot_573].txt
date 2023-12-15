@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "TLMChessBot [v1-1250] (by: Möhrchen (Thilo))"]
+[Black "Poisoned_Offerings (by: N8)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. exd5 Qxd5 3. Qe2 Bf5 4. c4 Qd6 5. g4 Qc6 6. f3 Bxb1 7. Rxb1 Qg6 8. d3 Qe6 9. Be3 a5 10. Bd2 a4 11. Be3 Nd7 12. Bh3 Qe5 13. f4 Qe6 14. g5 Qc6 15. Bg2 Qd6 16. Rd1 h6 17. Qh5 g6 18. Qe2 hxg5 19. fxg5 Rxh2 20. Rxh2 Qxh2 21. Bxb7 Qxe2+ 22. Nxe2 Rb8 23. Bc6 Rxb2 24. Bd4 Rxa2 25. Nc3 Rc2 26. Rb1 Kd8 27. Kd1 Rh2 28. Nxa4 f5 29. Nc5 Nb6 30. Ne6+ Kc8 31. Bxb6 Rh3 32. Bxc7 Rxd3+ 33. Kc1 Rc3+ 34. Kd2 Rxc4 35. Rb8# 1-0

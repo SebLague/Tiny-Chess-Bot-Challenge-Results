@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "6"]
+[White "GenericBoringbot (by: Kayinth)"]
+[Black "ChessGPT (by: DeepGoldenCrown)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Na3 a5 2. Rb1 b6 3. Ra1 a4 4. Rb1 Nh6 5. Ra1 Bb7 6. Rb1 Bxg2 7. Ra1 Bxh1 8. Rb1 Bb7 9. Ra1 Ra7 10. Rb1 c6 11. Ra1 Nf5 12. Rb1 d5 13. Ra1 Qd6 14. Rb1 Kd7 15. Ra1 Ke6 16. Rb1 Ke5 17. Ra1 Kd4 18. Rb1 Ke4 19. Ra1 Kd4 20. Rb1 Ke4 21. Ra1 Kd4 1/2-1/2

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "10"]
+[White "HalfWit (by: Steven Christy)"]
+[Black "Garbage Bot (by: Big Nerd)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h3 b5 2. g3 f6 3. a3 e5 4. a4 b4 5. f3 h6 6. c4 Bb7 7. Bg2 f5 8. b3 d6 9. Rh2 Bc8 10. a5 Be6 11. f4 d5 12. cxd5 Bd7 13. fxe5 Qg5 14. Kf2 Bc5+ 15. Kf3 Qh5+ 16. g4 fxg4+ 17. Kf4 Qf5+ 18. Kg3 Qf2# 0-1

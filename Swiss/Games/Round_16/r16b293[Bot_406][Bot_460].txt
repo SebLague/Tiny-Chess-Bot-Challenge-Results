@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "15"]
+[White "GenericBoringbot (by: Kayinth)"]
+[Black "PixelArtist (sort of) (by: Ludovic Debever (Lxdovic))"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 Nc6 2. Nf3 Rb8 3. d4 Ra8 4. d5 Rb8 5. dxc6 Nf6 6. Ne5 Ra8 7. cxd7+ Qxd7 8. Nxd7 Bxd7 9. Qd4 Bh3 10. gxh3 Rc8 11. Qxa7 Kd7 12. Qxb7 Kd6 13. Qxc8 Kc5 14. Qxc7+ Kb4 15. Qb6+ Ka4 16. b3# 1-0

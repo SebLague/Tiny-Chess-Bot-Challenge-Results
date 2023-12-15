@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "32"]
+[White "MyFirstChessEngine (by: Jake Forsey)"]
+[Black "SmallSearchAll (by: QuarksandAces (YT))"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 Na6 2. Nd5 Rb8 3. Nf3 Ra8 4. d4 Rb8 5. Bf4 Ra8 6. Qd3 Nb8 7. Nxc7+ Qxc7 8. Bxc7 Na6 9. Ba5 Rb8 10. Bc3 Kd8 11. Ba5+ Ke8 12. Ne5 Ra8 13. Nxf7 Kxf7 14. Qf5+ Ke8 15. Qh5+ g6 16. Qe5 Nf6 17. Bd2 Kf7 18. e3 Kg7 19. Bxa6 d6 20. Qf4 Nd5 21. Qf3 Nxe3 22. Qxe3 bxa6 23. Qh6+ Kf6 24. Qf4+ Ke6 25. Qe4+ Kf6 26. Qxa8 Bf5 27. Bc3 Kg5 28. h4+ Kh5 29. Qf3+ Kh6 30. Qf4+ Kg7 31. d5+ e5 32. dxe6+ Kg8 33. Qd4 Bxe6 34. Qxh8+ Kf7 35. Qf6+ Ke8 36. Qxe6+ Be7 37. Bf6 Kd8 38. Qxe7+ Kc8 39. Qxa7 a5 40. Rh3 a4 41. Rc3# 1-0

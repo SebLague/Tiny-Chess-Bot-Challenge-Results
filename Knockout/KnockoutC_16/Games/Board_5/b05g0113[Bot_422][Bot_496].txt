@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Knockout 16"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "FloppyChess 4.2 (by: Omsk)"]
+[Black "Ace V1.0.0 (by: Atad)"]
+[Result "1-0"]
+[TimeControl "30+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Nxe4 Nbd7 6. Nf3 h6 7. Bh4 Be7 8. Nxf6+ Bxf6 9. Bxf6 Nxf6 10. Bc4 O-O 11. O-O a6 12. a4 Qd6 13. Ne5 Bd7 14. Re1 Rad8 15. c3 Bc6 16. a5 Rfe8 17. b4 Bd5 18. Bd3 Bc6 19. Bc2 Qd5 20. f3 Qd6 21. Qd2 Nd5 22. Nxc6 bxc6 23. Qd3 g6 24. Re5 h5 25. Rae1 h4 26. Ba4 h3 27. Qc4 f6 28. R5e4 hxg2 29. Bxc6 Nf4 30. Bxe8 Rxe8 31. Rxf4 Qxf4 32. Rxe6 Rxe6 33. Qxe6+ Kh7 34. Kxg2 Kg7 35. Qe7+ Kh6 36. Qe2 Kh5 37. b5 axb5 38. a6 Qg5+ 39. Kf2 Qd5 40. a7 f5 41. f4+ Kh6 42. Qe8 Kh7 43. a8=Q Qxa8 44. Qxa8 g5 45. Qd5 Kg6 46. Qg8+ Kf6 47. fxg5+ Ke7 48. Qg7+ Kd6 49. g6 Kc6 50. Qf6+ Kd5 51. g7 Kc4 52. g8=Q+ Kxc3 53. Qxf5 c5 54. Qxc5+ Kb2 55. Qxb5+ Kc3 56. Qc8+ Kxd4 57. Qcc4# 1-0

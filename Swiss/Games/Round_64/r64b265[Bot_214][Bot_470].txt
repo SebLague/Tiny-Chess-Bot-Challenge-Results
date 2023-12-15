@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "63"]
+[White "DareWitch (by: mdrwsh)"]
+[Black "Hopeless Bot (by: Nepiceo)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 f5 2. Nf3 h5 3. Nd4 Rh7 4. Nxf5 e5 5. f4 exf4 6. Ne3 fxe3 7. d4 Bc5 8. dxc5 c6 9. Rb1 b5 10. Nxb5 cxb5 11. Ra1 Kf7 12. Rb1 h4 13. Bd2 exd2+ 14. Kxd2 Qf8 15. Kd3 Qxc5 16. Ke4 Qxc2+ 17. Kf4 Qxd1 18. Ke3 Qxb1 19. Kf4 Qxf1+ 20. Kg4 Qxh1 21. Kg5 Qxh2 22. e3 Qxg2+ 23. Kf5 Qxb2 24. Kg5 Qxa2 25. Kf5 Ke8 26. Ke4 Nh6 27. Kd4 Kd8 28. Kc5 Na6+ 29. Kxb5 Rb8# 0-1

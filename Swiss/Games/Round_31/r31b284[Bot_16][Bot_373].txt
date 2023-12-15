@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "30"]
+[White "Cirrus v0.1 (by: Bbrainstormer)"]
+[Black "One step at a time except sometimes (by: Parborway)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 c6 2. Rb1 h6 3. Ra1 e6 4. Rb1 Bxa3 5. bxa3 c5 6. Rxb7 Bxb7 7. Bb2 Bxg2 8. Bxg2 h5 9. Bxa8 d6 10. Bxg7 Nd7 11. Bxh8 Qxa8 12. Kf1 Qxh1 13. Ke1 Qxg1# 0-1

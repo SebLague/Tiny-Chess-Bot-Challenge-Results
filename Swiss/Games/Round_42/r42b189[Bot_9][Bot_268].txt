@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "41"]
+[White "More Recursion! (by: Bden)"]
+[Black "Captain Botvious (by: Selim Sheta)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e5 2. Qh5 e4 3. Qe5+ Be7 4. Bc4 Nf6 5. a3 O-O 6. Qf5 d5 7. Qxh7+ Nxh7 8. Bb3 d4 9. exd4 Qxd4 10. Ra2 Na6 11. g3 Bf5 12. a4 c6 13. a5 Rfb8 14. Ra1 Bf8 15. c3 Qf6 16. Ra4 Bc5 17. Ke2 Bg4+ 18. f3 exf3+ 19. Kf1 Bxg1 20. h4 Bh3+ 21. Ke1 Re8+ 22. Kd1 Bb6 23. axb6 axb6 24. h5 Bg2 25. Rh2 Bf1 26. Rf2 Be2+ 27. Ke1 Bd3+ 28. Kd1 Bxb1 29. Bc4 Be4 30. Ra3 Rac8 31. g4 Nc5 32. b4 Nd7 33. Bb2 g6 34. hxg6 Bxg6 35. Ba1 Re7 36. Ra7 Rf8 37. Ra3 Qh4 38. b5 Qxf2 39. bxc6 Re1# 0-1

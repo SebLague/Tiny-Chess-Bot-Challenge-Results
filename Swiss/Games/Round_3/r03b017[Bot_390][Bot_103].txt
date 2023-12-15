@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "BuiltCleverBot (by: Scott Ward)"]
+[Black "Strikeeaglechess (by: Strikeeaglechase)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Be3 Nc6 6. Nf3 Bg4 7. Bb5 O-O-O 8. Bxc6 Qxc6 9. O-O Bxf3 10. Qxf3 Qxf3 11. gxf3 e6 12. Ne4 Nxe4 13. fxe4 Be7 14. Rad1 Rhe8 15. Bf4 h5 16. Be5 h4 17. Rd3 f6 18. Bf4 g5 19. Bd2 h3 20. Bc3 b5 21. a3 g4 22. f3 Rg8 23. fxg4 Rxg4+ 24. Rg3 Rxg3+ 25. hxg3 Kd7 26. Rf4 Rh8 27. Kh2 e5 28. dxe5 fxe5 29. Bxe5 Rh7 30. g4 Ke6 31. Rf5 c5 32. g5 Rh5 33. Bf4 a6 34. Kg1 a5 35. Kh2 a4 36. Kg1 b4 37. axb4 cxb4 38. Ra5 Rh4 39. Rf5 Rg4+ 40. Kh1 Rg2 41. b3 a3 42. Re5+ Kf7 43. g6+ Rxg6 44. Rf5+ Rf6 45. Be5 Rxf5 46. exf5 Bf6 47. Ba1 Bxa1 48. Kh2 a2 49. Kxh3 Bf6 50. Kh2 a1=Q 51. Kg2 Qa5 52. c4 bxc3 53. b4 Qxb4 54. Kf3 c2 55. Kf2 Qg4 56. Ke3 c1=Q+ 57. Kf2 Qcg1# 0-1

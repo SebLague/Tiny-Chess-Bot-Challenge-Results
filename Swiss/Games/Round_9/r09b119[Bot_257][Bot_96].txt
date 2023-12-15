@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "8"]
+[White "MrMeow (by: Loca1Gh0st)"]
+[Black "Chess Bot (by: M)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e5 2. Qg4 d5 3. Bb5+ c6 4. Qh5 Bd6 5. Bd3 e4 6. Bf1 Be6 7. Nc3 b5 8. Nxb5 cxb5 9. Bxb5+ Kf8 10. b3 a6 11. Bf1 Nc6 12. Bb2 f5 13. g3 d4 14. Bxd4 Nxd4 15. exd4 f4 16. Bc4 Nf6 17. Qg5 h6 18. Qg6 Bxc4 19. bxc4 fxg3 20. hxg3 Qe8 21. Qf5 Qf7 22. c5 Bc7 23. Rh4 g6 24. Qg5 hxg5 25. Rxh8+ Ng8 26. a4 Qg7 27. Rxg8+ Qxg8 28. Rb1 Re8 29. Ke2 Qc4+ 30. Ke3 Qxc2 31. Rb7 Qd3# 0-1

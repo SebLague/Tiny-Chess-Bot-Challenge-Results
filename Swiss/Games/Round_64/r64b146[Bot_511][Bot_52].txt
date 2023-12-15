@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "63"]
+[White "roboleon v4.1 bugfixed (by: CLEC)"]
+[Black "SimpleBearSearch (by: PizzasBear)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Nf3 e6 2. d4 d6 3. Bg5 Be7 4. Bxe7 Qxe7 5. e4 d5 6. exd5 exd5+ 7. Qe2 Bg4 8. Qxe7+ Nxe7 9. Ne5 Bf5 10. Bd3 Bxd3 11. cxd3 Nbc6 12. Nxc6 Nxc6 13. Nc3 Nxd4 14. Rd1 O-O-O 15. O-O Kb8 16. h3 Rhe8 17. Rd2 a6 18. a3 h6 19. Rb1 Re5 20. Rdd1 Rg5 21. Kh2 Ne6 22. h4 Rg4 23. h5 d4 24. Ne2 Nf4 25. Nxf4 Rxf4 26. Rd2 Rh4+ 27. Kg1 Rxh5 28. a4 Rhd5 29. b4 Re8 30. Rc2 Rd7 31. b5 axb5 32. Rxb5 Rd6 33. Rf5 Rf6 34. Rxf6 gxf6 35. Rc5 Re1+ 36. Kh2 Re2 37. Rd5 Rxf2 38. Rd8+ Ka7 39. Rxd4 Rd2 40. Rd7 Kb8 41. Rd8+ Ka7 42. Rd7 Kb8 43. Rd8+ Ka7 44. Rd7 1/2-1/2

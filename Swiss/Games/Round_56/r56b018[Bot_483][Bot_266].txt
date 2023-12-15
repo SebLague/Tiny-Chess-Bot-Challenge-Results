@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "55"]
+[White "Velocity++ (by: Tisajokt)"]
+[Black "Game Tech Explained Bot (by: Game Tech Explained)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bf4 e6 4. e3 Bb4 5. a3 Bxc3+ 6. bxc3 Ne4 7. Ne2 O-O 8. f3 Nd6 9. Ng3 Nc6 10. e4 g5 11. Bc1 f5 12. e5 f4 13. exd6 fxg3 14. hxg3 Qxd6 15. f4 gxf4 16. Qg4+ Kh8 17. Bd3 Rf7 18. Bxf4 Qe7 19. Qg6 a5 20. Bg5 Rg7 21. Rxh7+ Kg8 22. Rxg7+ Qxg7 23. Qe8+ Qf8 24. Bh7+ Kxh7 25. Qxf8 Ne5 26. dxe5 Kg6 27. Qf6+ Kh7 28. Qf7+ Kh8 29. Bf6# 1-0

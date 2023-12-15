@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "53"]
+[White "Anarchy Bot (by: Malcolm)"]
+[Black "Chark Bot (by: Team Chark V1)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c3 e6 2. Qb3 Nc6 3. Qc4 d5 4. Qa4 Qf6 5. c4 Qh4 6. d3 Bc5 7. Kd1 Qxf2 8. Nf3 Bd7 9. cxd5 Nb4 10. Qa5 b6 11. Qa3 Nc2 12. Qc3 Nxa1 13. Qxg7 Ba4+ 14. b3 Nxb3 15. Qxh8 Na1+ 16. Kd2 Qe3+ 17. Ke1 Nc2+ 18. Kd1 Na3+ 19. Ke1 Qf2+ 20. Kd2 Bb4+ 21. Qc3 Nxb1# 0-1

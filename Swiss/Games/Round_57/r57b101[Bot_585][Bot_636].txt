@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "56"]
+[White "Negative Depth (by: Zoltán Kürti)"]
+[Black "CarlitosDarwin (by: Mateo Marenco)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 d5 2. d4 a6 3. Nc3 f5 4. e3 b5 5. Bc4 dxc4 6. Ne5 g6 7. a4 b4 8. Ne2 a5 9. Nxc4 Qd5 10. Nxa5 Rxa5 11. Qd3 Qxg2 12. Ng3 Qc6 13. Qb3 Qb7 14. c3 bxc3 15. Qxc3 e6 16. O-O Bb4 17. Qc4 Be7 18. Qc3 Rd5 19. e4 fxe4 20. Be3 Nf6 21. Qc4 O-O 22. Bh6 Re8 23. Be3 Bb4 24. Qc2 Ba5 25. Rfb1 Qc6 26. Qd1 Red8 27. f3 exf3 28. Qxf3 Rf8 29. b4 Bb6 30. Ne2 Rg5+ 31. Bxg5 Qxf3 32. Bf4 Bb7 33. Rd1 Qg2# 0-1

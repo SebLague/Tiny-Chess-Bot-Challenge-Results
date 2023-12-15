@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "24"]
+[White "MobiBot 4.2 (by: Michael)"]
+[Black "OrionChessEngine (by: Maarten Peels)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e5 2. Qf3 Nf6 3. Qf5 Nc6 4. Qg5 h6 5. Qg3 d6 6. Bb5 e4 7. Qf4 a5 8. Nc3 Rg8 9. Nxe4 Ng4 10. Nc3 d5 11. Nf3 f6 12. h3 Nxf2 13. Kxf2 g6 14. a3 Bg4 15. hxg4 Ra6 16. Bxa6 b6 17. Bb5 Bxa3 18. Bxc6+ Ke7 19. Rxa3 Ke6 20. Bxd5+ Qxd5 21. Nxd5 Re8 22. Nxc7+ Kd7 23. Nxe8 f5 24. Nf6+ Kc6 25. gxf5 gxf5 26. Rxh6 Kb5 27. Qxf5+ Kb4 28. Rh4# 1-0

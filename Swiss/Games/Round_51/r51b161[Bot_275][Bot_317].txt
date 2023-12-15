@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "50"]
+[White "Simple Minimax (by: Sidewinder7)"]
+[Black "Basil (by: torbenikum)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. h4 Nc6 3. d4 e6 4. Nc3 Bb4 5. Bd2 Ng8 6. Qh5 e5 7. dxe5 g6 8. Qg4 Nd4 9. Kd1 Bc5 10. Bg5 Be7 11. Nge2 d5 12. e6 Nh6 13. Qf4 Nxe6 14. Qe5 f6 15. Bxf6 Bxf6 16. Qxf6 Qxf6 17. Ke1 d4 18. Ng3 Kf7 19. Nd5 Qe5 20. c3 Rd8 21. Nb6 cxb6 22. Bc4 dxc3 23. f4 cxb2 24. Rb1 Qc3+ 25. Kf2 Ng4+ 26. Kf1 Qd4 27. Ke1 Qf2# 0-1

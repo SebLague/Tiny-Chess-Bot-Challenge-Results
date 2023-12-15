@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "54"]
+[White "DeepDumb (by: OutdoorsyEngineer)"]
+[Black "AIsaac (by: Isaac Ellwood)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 h5 2. Be2 g5 3. b3 e5 4. Na3 f5 5. Kf1 fxe4 6. f4 gxf4 7. g3 Kf7 8. Bc4+ Kf6 9. Be2 Kf5 10. Kg2 Kg5 11. h4+ Kf5 12. gxf4 Ke6 13. fxe5 Kd5 14. Kf2 Bc5+ 15. Kg2 b5 16. Rh2 a5 17. c3 Kxe5 18. Bxh5 d5 19. b4 Bh3+ 20. Rxh3 Bxg1 21. d4+ exd3 22. Qg4 axb4 23. Nxb5 Rxa2+ 24. Rxa2 c5 25. Ra7 d4 26. Rf7 Qd5+ 27. Rhf3 Qa2+ 28. Kf1 Qe2+ 29. Kxg1 Qd1+ 30. Kf2 Qe2+ 31. Kg3 Qe1+ 32. Rf2 Qg1+ 33. Rg2 Qe1+ 34. Rff2 Ne7 35. Qg5+ Ke6 36. Bg4+ Nf5+ 37. Qxf5+ Ke7 38. Qf7+ Kd8 39. Bg5+ Qe7 40. Qxe7# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "14"]
+[White "Chess Bot (by: M)"]
+[Black "Lamorran (by: Morra)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Bc4 Nf6 3. d4 Nxe4 4. Be3 e6 5. Nf3 Bb4+ 6. c3 Be7 7. Bd3 Nd6 8. g4 O-O 9. a4 g6 10. b4 a5 11. b5 Na7 12. h4 Bxh4 13. Rxh4 Naxb5 14. axb5 Re8 15. Rh3 Qf6 16. Bg5 Qh8 17. Ra3 b6 18. Bf4 Bb7 19. Be5 f6 20. Bf4 f5 21. Be5 fxg4 22. Bxh8 gxh3 23. Be5 Rad8 24. c4 Nf5 25. Nc3 d6 26. Bf6 Bxf3 27. Qxf3 h2 28. Qh1 Rd7 29. Qxh2 Rf7 30. Ne4 d5 31. Be5 dxe4 32. Bxe4 Rd8 33. Qg1 Nxd4 34. Qg5 Rfd7 35. Qf6 a4 36. Rxa4 g5 37. Qxg5+ Kf7 38. Qf6+ Kg8 39. Kf1 c6 40. bxc6 Nxc6 41. Bxc6 Rd1+ 42. Kg2 R1d7 43. Bxd7 Rxd7 44. Bd4 Rxd4 45. Ra8+ Rd8 46. Rxd8# 1-0

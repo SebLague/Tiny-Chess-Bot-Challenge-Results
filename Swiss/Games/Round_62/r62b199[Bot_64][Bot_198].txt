@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "61"]
+[White "offtensive Crane (by: Joao Santos)"]
+[Black "the (not so) wise bot of (not so great) insight (by: TheUnknown1050)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g3 d5 2. f3 Qd6 3. g4 Qb6 4. Nh3 e5 5. g5 Nc6 6. d3 Qb4+ 7. Kf2 Qh4+ 8. Kg1 Bxh3 9. Bxh3 Qxh3 10. f4 Qg4+ 11. Kf1 exf4 12. g6 hxg6 13. c3 O-O-O 14. e3 Qxd1+ 15. Kf2 Qxh1 16. exf4 Rxh2+ 17. Ke3 Re8# 0-1

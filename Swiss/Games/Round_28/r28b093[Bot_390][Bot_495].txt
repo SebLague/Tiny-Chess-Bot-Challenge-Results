@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "27"]
+[White "BuiltCleverBot (by: Scott Ward)"]
+[Black "Albertron (by: Vadim and Yazeed)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e6 2. Nc3 Nc6 3. Nf3 Nf6 4. e5 Ng4 5. d4 Qh4 6. Nxh4 Be7 7. Qxg4 Bxh4 8. Qxh4 Nb4 9. Bd3 Nxd3+ 10. cxd3 d5 11. exd6 cxd6 12. Qg3 Rg8 13. Nb5 e5 14. Nc7+ Kd7 15. Nxa8 exd4 16. Qg4+ f5 17. Qxd4 Re8+ 18. Kf1 Rg8 19. Bf4 b6 20. Re1 Kc6 21. Qxd6+ Kb5 22. Nc7+ Ka4 23. Qa3# 1-0

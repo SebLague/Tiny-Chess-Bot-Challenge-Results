@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "37"]
+[White "TimsBot (by: Thomas Dvorak)"]
+[Black "Pancake (by: EaglePancake)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. h4 g6 2. g4 h5 3. gxh5 Rxh5 4. f4 Rxh4 5. e4 Rxh1 6. Be2 Rxg1+ 7. Kf2 Rf1+ 8. Kg3 Rg1+ 9. Kh4 Rh1+ 10. Kg5 Rg1+ 11. Bg4 Rxg4+ 12. Qxg4 Bh6+ 13. Kh4 Bg5+ 14. Kh3 Bxf4 15. Qxd7+ Qxd7+ 16. Kh4 Bg3+ 17. Kg5 Qxd2+ 18. Nxd2 Bf4+ 19. Kh4 Bg3+ 20. Kg5 Bf4+ 21. Kh4 Bg3+ 22. Kg5 1/2-1/2

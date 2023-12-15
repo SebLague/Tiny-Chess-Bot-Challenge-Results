@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "45"]
+[White "ConvolutedBot (by: pwahs)"]
+[Black "Rodders (by: Chipperphilly)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 e6 2. Nf3 Be7 3. e4 c5 4. Nc3 cxd4 5. Qxd4 Kf8 6. Bb5 d6 7. Rf1 h6 8. Be3 Bf6 9. e5 dxe5 10. Qxd8+ Bxd8 11. Nxe5 Bf6 12. O-O-O g6 13. Rfe1 a6 14. Bc5+ Kg7 15. Be8 Bxe5 16. Rxe5 Nf6 17. Ba4 Nfd7 18. Bd4 Nxe5 19. Bxe5+ f6 20. Bd6 Kg8 21. Ne4 f5 22. Be5 Kh7 23. Nf6+ Kg7 24. Nd5+ Kh7 25. Nb6 Bd7 26. Bxd7 Ra7 27. Bxe6 Re8 28. Nd7 Nc6 29. Nf8+ Rxf8 30. Rd7+ Rf7 31. Rxf7+ Kg8 32. Bf6 Ne7 33. Rxe7+ Kf8 34. Rg7 Ke8 35. Rg8# 1-0

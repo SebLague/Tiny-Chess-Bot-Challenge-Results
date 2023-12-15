@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "61"]
+[White "Cirrus v0.1 (by: Bbrainstormer)"]
+[Black "Search 1.0 (by: Rayansh)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 Nc6 2. Rb1 Nd4 3. Ra1 Nf6 4. Rb1 Ne4 5. Ra1 Nxd2 6. Kxd2 Nxc2 7. Kxc2 d6 8. Qxd6 Qxd6 9. Kb1 Qxh2 10. Rxh2 Be6 11. Rxh7 O-O-O 12. Rxh8 Bxa2+ 13. Kxa2 Rd2 14. Bxd2 Kb8 15. Rxf8# 1-0

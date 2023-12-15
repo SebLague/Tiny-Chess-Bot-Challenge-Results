@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "59"]
+[White "KBot (by: Kristian Mischke)"]
+[Black "Zambroni V.4.1.4 (by: JoeyZeeeeeee)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c4 Nf6 2. b4 Nc6 3. Qa4 e5 4. a3 Bd6 5. b5 Ne7 6. h3 O-O 7. Nf3 e4 8. Nd4 c5 9. bxc6 dxc6 10. Nb3 Be5 11. Nc3 Ng6 12. Qa5 b6 13. Qa4 c5 14. Qc6 Bd7 15. Qb7 a5 16. Rb1 a4 17. Na1 Rb8 18. Qa7 Bc6 19. Qa6 Nd7 20. d4 cxd4 21. Nxe4 Ra8 22. Qxa8 Qxa8 23. f3 Bxe4 24. fxe4 Qxe4 25. Rb5 d3 26. Rb2 Bxb2 27. Bxb2 dxe2 28. Bxe2 Nf4 29. Kd2 Qxe2+ 30. Kc3 Rc8 31. c5 Rxc5+ 32. Kd4 Qe5# 0-1

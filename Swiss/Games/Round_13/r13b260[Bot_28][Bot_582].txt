@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "12"]
+[White "Memelord (by: Alex Kubanek)"]
+[Black "Clyde (by: Evan)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 g5 2. Ke2 h5 3. d3 g4 4. g3 e5 5. Bh6 Nxh6 6. h4 c5 7. Ke1 Qa5+ 8. Ke2 b5 9. c4 b4 10. Rh3 gxh3 11. g4 Nxg4 12. Bxh3 Nh2 13. Be6 fxe6 14. b3 d6 15. Qd2 Nd7 16. f4 exf4 17. Qc3 bxc3 18. a4 c2 19. Ra3 cxb1=B 20. e5 Nxe5 21. Kd1 Bxd3 22. Kc1 Qc3+ 23. Kd1 Ng6 24. Ra2 Qxb3+ 25. Kd2 Qxa2+ 26. Kc3 Qc2# 0-1

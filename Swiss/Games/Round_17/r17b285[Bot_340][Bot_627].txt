@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "16"]
+[White "PacifistBot (by: Noano01)"]
+[Black "Celluar Automaton Iterated (by: Pix)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 b6 2. Nc3 c6 3. Nd5 f5 4. e4 h5 5. d4 g6 6. Bf4 Na6 7. Qd3 e6 8. O-O-O Bg7 9. Kb1 Bf8 10. Ka1 Bb7 11. g4 fxg4 12. Be2 Bc8 13. Rhe1 Bb7 14. c4 Bg7 15. b4 Rh7 16. h4 Bf8 17. Nf6+ Ke7 18. a4 Rh8 19. c5 Nxb4 20. Bd6+ Kxf6 21. Qe3 Bg7 22. Qf4# 1-0

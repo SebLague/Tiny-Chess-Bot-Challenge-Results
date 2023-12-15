@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "28"]
+[White "Poisoned_Offerings (by: N8)"]
+[Black "Depth2 (by: David Montealegre)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. e5 Ne4 3. f3 Ng5 4. h4 d6 5. Bb5+ Qd7 6. Bxd7+ Kxd7 7. hxg5 dxe5 8. Qe2 Nc6 9. Qd3+ Ke6 10. c3 h5 11. Kd1 h4 12. g3 h3 13. g4 h2 14. Ne2 f5 15. gxf5+ Kf7 16. Qd5+ Ke8 17. Ng3 a6 18. a3 b5 19. Qxc6+ Kf7 20. g6+ Kg8 21. Qxa8 Bd7 22. Qd5+ e6 23. Qxd7 Rh3 24. Qf7+ Kh8 25. Qxf8# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "42"]
+[White "Traderino (by: BenLS)"]
+[Black "Compact Scholar's mate (by: Chris)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e6 2. d4 Bc5 3. dxc5 Qf6 4. f4 h5 5. Qd2 g5 6. Qb4 gxf4 7. exf4 a5 8. Qa4 c6 9. c4 e5 10. Qd1 exf4 11. Qd3 Ne7 12. g3 fxg3 13. Bg2 Qf2+ 14. Kd1 Qxg2 15. Bg5 gxh2 16. Bxe7 Qxh1 17. Bg5 hxg1=Q+ 18. Ke2 Qhg2# 0-1

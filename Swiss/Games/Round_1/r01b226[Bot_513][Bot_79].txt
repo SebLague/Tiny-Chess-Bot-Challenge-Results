@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "Error 404 (by: Minionana)"]
+[Black "SybBot (by: Sybsuper)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 e5 2. g4 c5 3. f4 exf4 4. e4 fxe3 5. dxe3 a5 6. c4 h6 7. b4 Qf6 8. bxc5 Qxa1 9. Nc3 Qxc3+ 10. Bd2 Qe5 11. a4 Qg3+ 12. Ke2 Bxc5 13. Bxa5 Qxe3# 0-1

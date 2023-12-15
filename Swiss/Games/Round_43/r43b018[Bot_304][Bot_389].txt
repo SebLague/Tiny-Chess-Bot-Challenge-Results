@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "42"]
+[White "SemiroseBot (by: Semirose)"]
+[Black "BoyaChess v5 (by: ArxelBlw)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. a3 Bxc3+ 7. bxc3 Nxe4 8. Qg4 O-O 9. Qf3 d5 10. Nxc6 bxc6 11. Be2 Re8 12. h3 Ba6 13. Be3 Bxe2 14. Kxe2 Nxc3+ 15. Kd3 Ne4 16. Rhd1 Qd6 17. Qf5 d4 18. Bf4 Nxf2+ 19. Kd2 g6 20. Bxd6 gxf5 21. Bxc7 Rac8 22. Rf1 Ne4+ 23. Kd3 Rxc7 24. Rxf5 Rd7 25. Re1 c5 26. Rff1 Rde7 27. a4 Kf8 28. Rg1 Nf2+ 29. Kd2 c4 30. Rxe7 Rxe7 31. g4 c3+ 32. Kc1 Re2 33. Kb1 d3 34. cxd3 Nxd3 35. Ka1 c2 36. Rb1 Re4 37. Rb8+ Kg7 38. Ka2 c1=Q 39. g5 Rxa4+ 40. Kb3 Nc5# 0-1

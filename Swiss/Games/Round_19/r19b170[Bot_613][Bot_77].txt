@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "18"]
+[White "Peeter 1 (by: Gouuu)"]
+[Black "OrionChessEngine (by: Maarten Peels)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e5 2. d4 Bb4+ 3. c3 Bd6 4. e4 exd4 5. cxd4 c6 6. f4 Ke7 7. h4 Bb4+ 8. Kf2 Bd6 9. e5 Bb4 10. d5 g5 11. fxg5 Qb6+ 12. Be3 Bc5 13. Bxc5+ Qxc5+ 14. Kg3 cxd5 15. Nc3 d6 16. Nxd5+ Kd8 17. Nf3 Qxd5 18. Qxd5 Ne7 19. Qxd6+ Ke8 20. h5 Bg4 21. Kxg4 Kf8 22. Qd8+ Kg7 23. Qxe7 Nc6 24. Qxb7 Nb4 25. Qxb4 Kg8 26. h6 Rb8 27. Qxb8# 1-0

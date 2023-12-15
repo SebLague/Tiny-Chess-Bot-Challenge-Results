@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "48"]
+[White "crapus bottus (by: h1387xd)"]
+[Black "AngryPiece (by: FlamingSquid)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d3 b5 2. Bh6 b4 3. h4 b3 4. c4 bxa2 5. Qc2 axb1=Q+ 6. Bc1 Qxc2 7. Ra5 Qxc1# 0-1

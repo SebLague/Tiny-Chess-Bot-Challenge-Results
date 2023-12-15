@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "34"]
+[White "MiniMagnus (by: Erik Fast)"]
+[Black "The Grandiloquent Intelligentsia of Magnanimous Strategem: A Prodigiously Resplendent Embodiment of Erudite Chess Esotericism, Exuding Enigmatic Brilliance and Sublime Eloquence Whilst Enchantingly Tempering the Hallowed Battlefield of Intellectual Duels, Endeavoring to Transcend Acumen and Ascend to the Pantheon of Learned Peregrinations with an Efficacious Arsenal of Foresight and Sagacity, Humbling Opponents with Refined Gallantry, and Beckoning Discerning Disciples to Witness the Manifest Veracity of its Ascent to a Formidable Elo Quintessence (by: Giles Corey)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. d4 d5 3. exd5 Qxd5 4. Nf3 Bg4 5. Nc3 Qe6+ 6. Be3 Bxf3 7. Qxf3 Nxd4 8. Qxb7 Rc8 9. O-O-O c5 10. Bxd4 c4 11. Qb5+ Qc6 12. Bxc4 a6 13. Qxc6+ Rxc6 14. Bb3 Rd6 15. Ba4+ Kd8 16. Ne4 Rxd4 17. Rxd4+ Kc7 18. Rc4+ Kb6 19. Rc6+ Ka5 20. Nc5 Kb4 21. c3+ Kc4 22. Rd1 e5 23. Nxa6+ Bc5 24. Rxc5# 1-0

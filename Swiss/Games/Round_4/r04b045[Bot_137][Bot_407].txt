@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "3"]
+[White "MrTimmy (by: Youknowwho8782)"]
+[Black "simple chess bot (by: 4a0I)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. a4 e6 2. d4 Bb4+ 0-1

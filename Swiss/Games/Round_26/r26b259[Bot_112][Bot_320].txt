@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "25"]
+[White "Saubstauga (by: Dominik)"]
+[Black "lowEloBrain (by: bbb908)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 e5 2. h5 e4 3. g4 Bb4 4. f4 b5 5. f5 Ba5 6. e3 c5 7. Bxb5 Bb7 8. c4 Qg5 9. a4 Bc7 10. b3 Qe7 11. Nh3 Bc8 12. Nf2 Qg5 13. Nxe4 Qe7 14. Nec3 Ba5 15. Nd5 Qe4 16. g5 Qxh1+ 17. Kf2 Qxd1 18. d3 Qxc1 19. e4 Bb7 20. e5 Qxg5 21. Na3 Bc8 22. Nc2 Qxf5+ 23. Kg3 Bd2 24. Nc7+ Ke7 25. Nxa8 Qxe5+ 26. Kh4 d6 27. Ra3 Qf4# 0-1

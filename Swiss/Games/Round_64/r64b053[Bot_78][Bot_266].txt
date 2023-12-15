@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "63"]
+[White "fuxy (by: nadavfux)"]
+[Black "Game Tech Explained Bot (by: Game Tech Explained)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. Qd3 Nc6 3. Nf3 d5 4. Bf4 e6 5. Nc3 Nb4 6. Qd2 Ne4 7. Nxe4 dxe4 8. Ng1 Qxd4 9. Qxd4 Nxc2+ 10. Kd1 Nxd4 11. e3 Nf5 12. Bxc7 Kd7 13. Rc1 Bd6 14. Bxd6 Nxd6 15. Nh3 e5 16. Rc5 Re8 17. Be2 h6 18. f4 exf3 19. Bxf3 e4 20. Be2 b6 21. Rc3 Bb7 22. Bg4+ f5 23. Bh5 Rec8 24. Nf4 Rxc3 25. bxc3 g5 26. Ng6 Bd5 27. Kd2 Bxa2 28. Rf1 Ke6 29. Ra1 Bc4 30. h4 Kf6 31. hxg5+ hxg5 32. Rd1 Bf7 33. Ke1 Nc4 34. Nf4 Nxe3 35. Rd7 Bc4 36. Ng6 Nxg2+ 37. Kf2 Nf4 38. Nxf4 gxf4 39. Be2 Be6 40. Rc7 Ke5 41. Ba6 f3 42. Rh7 f4 43. Re7 Kf6 44. Bb7 Kxe7 45. Bxa8 Bf5 46. Bd5 Kd6 47. Bc4 Bg4 48. Kg1 e3 49. Ba6 Kc5 50. Bd3 Bh3 51. Ba6 b5 52. Kh2 e2 53. Kxh3 f2 54. Bxb5 Kxb5 55. c4+ Kxc4 56. Kh4 f1=Q 57. Kg5 e1=Q 58. Kf5 Qh3+ 59. Kg5 Qe5+ 60. Kg6 Qhh5# 0-1

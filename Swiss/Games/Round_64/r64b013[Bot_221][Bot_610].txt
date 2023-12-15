@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "63"]
+[White "Spaghetto (by: Skae (Francesco))"]
+[Black "TinyHugeBot (by: Popax21 & atpx8)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. Nc3 d5 3. d4 e6 4. g3 c5 5. Be3 cxd4 6. Bxd4 Be7 7. Bg2 Nc6 8. O-O O-O 9. Re1 Nd7 10. Be3 Nde5 11. Nxe5 Nxe5 12. Bd4 Nc6 13. Nb5 a6 14. Nc3 e5 15. Bxe5 Nxe5 16. Nxd5 Be6 17. Rc1 Rc8 18. Qd4 Nc6 19. Qd1 Bxd5 20. Bxd5 Qb6 21. b3 Nb4 22. a4 Rfd8 23. e4 Bg5 24. Qh5 Bxc1 25. Qxf7+ Kh8 26. Rxc1 Rf8 27. Qxb7 Qxf2+ 28. Kh1 Rxc2 29. Rxc2 Qf1# 0-1

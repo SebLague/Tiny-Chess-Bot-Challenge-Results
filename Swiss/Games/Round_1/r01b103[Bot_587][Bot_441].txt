@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "Magnuth Carlthen (by: wolfuhfuh)"]
+[Black "RigidBot (by: Mathias Elgaard)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Nc3 Nxe4 5. Nxe4 d5 6. Bd3 dxe4 7. Bxe4 Bg4 8. h3 Bxf3 9. Qxf3 Qd7 10. O-O Bd6 11. c3 O-O 12. d3 Bc5 13. b4 Bb6 14. a4 a6 15. Ba3 Rfe8 16. a5 Ba7 17. b5 axb5 18. a6 Rab8 19. axb7 Re6 20. Bb2 Rxb7 21. Ra6 Nd4 22. cxd4 Rxa6 23. Bxb7 Rf6 24. Qg4 Qxg4 25. hxg4 Bxd4 26. Bxd4 exd4 27. Rc1 Re6 28. Rxc7 Re1+ 29. Kh2 Kf8 30. Bc6 Rc1 31. Rc8+ Ke7 32. Re8+ Kd6 33. Bxb5 Rc5 34. Bc4 Rc7 35. g5 Rd7 36. Re4 Kc5 37. Rf4 h6 38. gxh6 gxh6 39. Rf6 Rd6 40. Rxf7 Rc6 41. Kg3 Rg6+ 42. Kf3 Kc6 43. g3 Kc5 44. Ke4 Rg4+ 45. Ke5 Rg5+ 46. Rf5 Rg4 47. Kf6+ Kd6 48. Rh5 Rg5 49. Rxh6 Re5 50. Rh4 Re2 51. Rxd4+ Kc7 52. Rf4 Kd6 53. g4 Re8 54. g5 Rf8+ 55. Bf7 Rh8 56. g6 Rh6 57. Kg5 Rh8 58. g7 Ra8 59. Re4 Rb8 60. Be8 Rb2 61. g8=Q Rc2 62. Qe6+ Kc7 63. Qd7+ Kb6 64. Rb4+ Ka5 65. Qa4# 1-0

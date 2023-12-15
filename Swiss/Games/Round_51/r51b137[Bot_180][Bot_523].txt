@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "50"]
+[White "Sørensen's Minimax (by: Victor)"]
+[Black "K53YK53Y (by: KszyKszy)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 d5 2. Qf3 e5 3. Qh5 Nc6 4. Bb5 e4 5. Qe5+ Be6 6. Ne2 g5 7. Qxh8 Nf6 8. h4 gxh4 9. Rxh4 h5 10. Nf4 Bg4 11. f3 exf3 12. Bxc6+ bxc6 13. gxf3 Bxf3 14. Rh3 Bg4 15. Rh1 Rb8 16. b3 Bf3 17. Rf1 Bg4 18. Rh1 Be6 19. Nxh5 Nxh5 20. Rxh5 Bg4 21. Qe5+ Be7 22. Rh8+ Kd7 23. Rxd8+ Rxd8 24. Ba3 Bh4+ 25. Kf1 Rg8 26. Nc3 Bf3 27. Qf5+ Kd8 28. Qxf3 d4 29. Qxf7 Rg4 30. Qh5 dxc3 31. Qxg4 Bf6 32. Rd1 cxd2 33. Rxd2+ Ke8 34. Qe6+ Be7 35. Qxe7# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "27"]
+[White "nimbot (by: )"]
+[Black "BlueBat (by: Peter)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nh3 f6 2. Nf4 Nc6 3. g3 Ne5 4. Ng2 Kf7 5. a3 Qe8 6. c3 Kg6 7. d4 Nf7 8. Nh4+ Kh5 9. e4# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "44"]
+[White "ReturnOfTheQueen (by: Staicu Ciprian)"]
+[Black "Chark Bot V2 (by: Team Chark)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g3 e5 2. Bg2 Bc5 3. Nc3 Nf6 4. Nf3 e4 5. Ng5 d5 6. Na4 Bd6 7. b3 h6 8. Nh3 Be5 9. Bb2 d4 10. Ng1 b5 11. Nc5 Bf5 12. f4 exf3 13. Nxf3 Qd5 14. b4 d3 15. Bxe5 dxc2 16. Qc1 Nbd7 17. Nxd7 Kxd7 18. Bxf6 gxf6 19. Nh4 Be4 20. Bf3 Bxf3 21. Nxf3 Rhe8 22. Rf1 Qd3 23. e3 Rxe3+ 24. dxe3 Qc3+ 25. Kf2 Re8 26. Nd4 Rxe3 27. Qxe3 c1=Q 28. Raxc1 Qb2+ 29. Kg1 Qxb4 30. Rxf6 Kc8 31. Rxf7 Qa5 32. Qe6+ Kb7 33. Qc6+ Kb8 34. Rf8# 1-0

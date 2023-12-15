@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "18"]
+[White "Sir Checkmates-A-Lot (by: Felix)"]
+[Black "nimbot (by: )"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Na6 2. Rg1 Nb4 3. a3 Nxc2+ 4. Qxc2 Nf6 5. a4 Ng8 6. Rh1 Rb8 7. Qc5 b6 8. Qc2 a5 9. Ra2 Rb7 10. Ra1 c6 11. Qd3 Rc7 12. Qb3 b5 13. Ne5 Nh6 14. Nf3 Ng8 15. Qc3 b4 16. Qc2 c5 17. Kd1 c4 18. Qe4 c3 19. dxc3 bxc3 20. Qc2 cxb2 21. Qxb2 Rc5 22. Ng1 e5 23. Qb3 Qf6 24. Ba3 Rc6 25. Bxf8 Qxf2 26. Nf3 Kxf8 27. Nbd2 Qc5 28. Ng5 d5 29. Rc1 Qxc1# 0-1

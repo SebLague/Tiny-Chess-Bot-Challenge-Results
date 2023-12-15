@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "58"]
+[White "Captain Botvious (by: Selim Sheta)"]
+[Black "bLouBot (by: cmdrsigsegv)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Nc3 Nd4 3. e5 d6 4. exd6 Qxd6 5. Bd3 Qe5+ 6. Ne4 Be6 7. Nh3 Bd5 8. O-O Bxe4 9. Bxe4 Qxe4 10. c4 Ne2+ 11. Kh1 Nxc1 12. Qxc1 Nf6 13. d4 Qxd4 14. c5 Rc8 15. f3 h6 16. Qe1 Qxc5 17. Rd1 a5 18. Nf4 g5 19. Ne2 Qc2 20. Ra1 Qxb2 21. Qxa5 Qxe2 22. Qa4+ c6 23. Kg1 Qe5 24. Rab1 b5 25. Qa5 e6 26. Ra1 Qc7 27. Qxc7 Bc5+ 28. Kh1 Rxc7 29. Rfe1 b4 30. Rf1 Nd5 31. Rae1 Be3 32. Rb1 Rf8 33. g3 Bc5 34. Ra1 Re7 35. Rfe1 Nf6 36. Kg2 Rd7 37. Reb1 Bd4 38. Rxb4 Be5 39. Re1 c5 40. Rb3 c4 41. Rb4 Bc3 42. Rb8+ Ke7 43. Rxf8 Kxf8 44. Rc1 Be5 45. Rxc4 Rd3 46. Rc8+ Kg7 47. a4 g4 48. fxg4 Nxg4 49. Kg1 Rd1+ 50. Kg2 Rd2+ 51. Kh3 Nf2+ 52. Kg2 Ne4+ 53. Kg1 Rd4 54. a5 Ra4 55. Ra8 Ra1+ 56. Kg2 Ra2+ 57. Kg1 Bd4+ 58. Kh1 Nf2+ 59. Kg1 Rd2 60. Rc8 Ne4+ 61. Kh1 Rd1+ 62. Kg2 Rg1+ 63. Kh3 Ng5+ 64. Kg4 Rg2 65. Rc4 Be5 66. Rc5 Bd6 67. Rc6 f5+ 68. Kh5 Rxh2# 0-1

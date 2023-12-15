@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "Max-Max-Bot (by: Tejas)"]
+[Black "Francis 2.0 (by: cyprus327)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. Bb5+ c6 3. Ba4 b5 4. Bb3 dxe4 5. a4 Qb6 6. axb5 cxb5 7. Bd5 Bb7 8. Ba2 Qg6 9. d4 Qxg2 10. Bxf7+ Kxf7 11. Qh5+ g6 12. Qe5 Qxh1 13. Kf1 Nf6 14. Qxb5 Bc6 15. Qc4+ Ke8 16. Bf4 Bd7 17. Qb3 Nc6 18. Ra6 Nxd4 19. Qe3 Nf3 20. Rxf6 Qxg1+ 21. Ke2 Bb5+ 22. c4 Bxc4+ 23. Qd3 Bxd3+ 24. Ke3 exf6 25. Nd2 Bc5# 0-1

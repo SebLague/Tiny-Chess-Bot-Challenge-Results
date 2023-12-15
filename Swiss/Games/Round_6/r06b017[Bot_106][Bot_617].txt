@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "5"]
+[White "Miluva v2 [2550] (by: Möhrchen (Thilo M.))"]
+[Black "Hydra (by: ReiedLaw)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Bd6 4. Bc4 Nc6 5. Ng5 O-O 6. d3 Nd4 7. Be3 c6 8. f4 Qb6 9. Bxd4 exd4 10. Ne2 Bb8 11. Bxf7+ Rxf7 12. Nxf7 Kxf7 13. c3 dxc3 14. bxc3 d5 15. e5 Ng4 16. d4 Qb2 17. Qc1 Qxc1+ 18. Rxc1 Bc7 19. O-O Ne3 20. Rfe1 Nc4 21. Ng3 g6 22. Nf1 a5 23. Ne3 a4 24. Nxc4 dxc4 25. g3 a3 26. Kh1 Be6 27. Rb1 b5 28. Kg1 Bd5 29. Rbc1 Re8 30. Rb1 Ba5 31. Rbc1 b4 32. cxb4 Bxb4 33. Red1 c3 34. Rd3 Rb8 35. Rc2 Ba5 36. Rd1 Be4 37. Rcc1 c2 38. Rf1 Bd2 39. Rxc2 Bxc2 40. Rf3 Rb1+ 41. Kf2 Be1+ 42. Ke3 Bf5 43. h4 Ke6 44. Rf1 Bxg3 45. Rxb1 Bxb1 46. Kd2 Bxa2 47. Kc3 Bd5 48. f5+ gxf5 49. Kc2 a2 50. Kb2 f4 51. h5 Be1 52. h6 Bb4 53. Kc1 Bc3 54. Kc2 Ba5 55. Kb2 Kf5 56. e6 Kxe6 57. Kc1 Bc7 58. Kb2 Ke7 59. Ka1 Kf6 60. Kb2 Ba5 61. Kc1 a1=B 62. Kb1 Bxd4 63. Kc2 Be5 64. Kd3 Kf7 65. Kc2 c5 66. Kd3 c4+ 67. Ke2 Ke6 68. Kf2 Bd4+ 69. Kf1 Be5 70. Kf2 Kd6 71. Ke2 c3 72. Kd3 Bb3 73. Ke4 Bb6 74. Kd3 Kc6 75. Ke4 Ba5 76. Kxe5 f3 77. Kd4 f2 78. Ke4 f1=Q 79. Ke5 c2 80. Ke4 c1=Q 81. Ke5 Qff4# 0-1

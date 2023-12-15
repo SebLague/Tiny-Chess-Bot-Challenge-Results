@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "31"]
+[White "MapBot (by: Map)"]
+[Black "myte (by: sparemind)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 d5 2. Nf3 e6 3. c4 dxc4 4. Nc3 c6 5. e3 b5 6. a4 b4 7. Ne4 Qd5 8. Nfd2 Ba6 9. Qc2 f5 10. Ng3 Nf6 11. a5 Be7 12. Bxc4 Qxg2 13. Bxe6 Bd6 14. Rf1 Bxf1 15. Ngxf1 g6 16. h4 Ng4 17. Nc4 Be7 18. h5 Bh4 19. Qe2 Ke7 20. hxg6 Kxe6 21. d5+ cxd5 22. Kd2 Nxf2 23. g7 Rc8 24. Kc2 Qe4+ 25. Kd2 dxc4 26. Ke1 Ng4+ 27. Kd1 b3 28. g8=B+ Rxg8 29. Ng3 Rd8+ 30. Bd2 Nxe3+ 31. Ke1 Qh1+ 32. Kf2 Qg2+ 33. Ke1 Bxg3+ 34. Qf2 Qxf2# 0-1

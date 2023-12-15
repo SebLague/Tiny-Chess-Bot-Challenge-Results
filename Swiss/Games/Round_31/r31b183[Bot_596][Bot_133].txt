@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "30"]
+[White "Terrible Bot (by: readerbij)"]
+[Black "MinimaxAttackerBot5000 (by: ChrisCat123)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. c4 Na6 2. d4 Rb8 3. Qa4 Ra8 4. Qa5 Rb8 5. Kd1 Ra8 6. Nh3 Rb8 7. Qxa6 bxa6 8. Ng5 Rb4 9. Nh3 Rxc4 10. e3 Ra4 11. Nc3 Rb4 12. Nb1 Ra4 13. Bxa6 Rxa6 14. Ng5 Ra4 15. Nh3 Rb4 16. Ng5 Ra4 17. Ke1 Rb4 18. Kd1 Ra4 1/2-1/2

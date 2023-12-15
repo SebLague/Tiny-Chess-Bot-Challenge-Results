@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "20"]
+[White "Epimetheus (by: George Bland)"]
+[Black "Jack (by: Antonio P)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 d5 2. Qf3 Qd6 3. Qg3 Bf5 4. Nc3 Kd8 5. e4 dxe4 6. Nxe4 Bxe4 7. d3 Bd5 8. Be3 Qb4+ 9. Kd1 Qxb2 10. Qg4 Qxa1+ 11. Bc1 Qxa2 12. Nf3 Bxf3+ 13. gxf3 Qa1 14. Qb4 Kc8 15. Bh3+ Nd7 16. Re1 Qa2 17. Re5 e6 18. Qe4 Nxe5 19. Qxe5 Kd7 20. Qb5+ Kd6 21. Qxb7 Rd8 22. Qb4+ Kd5 23. Qe4+ Kc5 24. Qe5+ Kb6 25. Be3+ Ka6 26. Qxc7 Qb1+ 27. Ke2 Qb8 28. Qxf7 Ka5 29. Bxe6 Kb4 30. Qxa7 Qxa7 31. Bxa7 Re8 32. c3+ Kxc3 33. Bd4+ Kxd4 34. Kd1 Rxe6 35. Kc2 Re2+ 36. Kb1 Rxf2 37. Ka1 Rf1+ 38. Kb2 Rf2+ 39. Ka1 Rxh2 40. Kb1 Rh1+ 41. Kc2 Rh2+ 42. Kb1 Kc3 43. f4 Rh1+ 44. Ka2 Rh2+ 45. Kb1 Kd4 46. f5 Rh1+ 47. Kc2 Rh2+ 48. Kb1 Kc3 49. d4 Rh1+ 50. Ka2 Rh2+ 51. Kb1 Kc4 52. Kc1 Rh1+ 53. Kc2 Rh2+ 54. Kc1 Ba3+ 55. Kd1 Rh1+ 56. Kc2 Rh2+ 57. Kd1 Kc3 58. d5 Rd2+ 59. Ke1 Rxd5 60. Ke2 Kd4 61. Kf2 Rxf5+ 62. Ke2 Bb4 63. Kd1 Kd3 64. Kc1 Ba3+ 65. Kb1 Rf1+ 66. Ka2 Kc3 67. Kxa3 Ra1# 0-1

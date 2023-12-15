@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "10"]
+[White "TinyNoTimeToCodeChessEngine (by: )"]
+[Black "PlinkBot (by: superplink)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a4 Nc6 2. c4 Nf6 3. f4 e5 4. fxe5 Nxe5 5. Qb3 d5 6. cxd5 Qxd5 7. Qg3 Ne4 8. Qf4 g5 9. Nc3 Nxc3 10. Qf6 Qe6 11. Qxe6+ Bxe6 12. dxc3 h6 13. Nf3 Bg7 14. Nxe5 Bxe5 15. e4 O-O 16. Be3 a6 17. Bc5 Bd6 18. Bxd6 cxd6 19. O-O-O Rad8 20. c4 f5 21. exf5 Bxf5 22. b4 Be4 23. c5 d5 24. Rd2 Rf4 25. Bxa6 bxa6 26. Rhd1 Rdf8 27. a5 Rf2 28. Rxf2 Rxf2 29. Re1 Rxg2 30. Rh1 Rf2 31. Re1 Rxh2 32. c6 Rc2+ 33. Kd1 Rxc6 34. Kd2 Rc4 35. Rd1 Rxb4 36. Kc3 Ra4 37. Kd2 Rxa5 38. Ke1 Rc5 39. Kd2 Rc2+ 40. Ke1 Bf3 41. Ra1 Be2 42. Ra3 g4 43. Ra4 Kh8 44. Ra3 d4 45. Ra1 Kg8 46. Ra3 Bc4 47. Rg3 h5 48. Kd1 Rf2 49. Ke1 Re2+ 50. Kd1 d3 51. Kc1 d2+ 52. Kd1 Rf2 53. Kc2 Bd5 54. Rg1 Bf3 55. Rd1 Bxd1+ 56. Kxd1 g3 57. Kc2 g2 58. Kd1 g1=Q+ 59. Kc2 Qg3 60. Kb1 d1=Q# 0-1

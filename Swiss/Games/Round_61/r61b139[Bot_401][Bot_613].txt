@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "60"]
+[White "BlindfoldBot (by: Mk-0)"]
+[Black "Peeter 1 (by: Gouuu)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a3 e6 2. b3 d5 3. c3 e5 4. d4 Nc6 5. Nf3 exd4 6. Nxd4 a6 7. e3 g6 8. g3 h5 9. f3 Rh7 10. h3 h4 11. g4 f5 12. Qd3 Ra7 13. gxf5 Bxf5 14. Nxf5 gxf5 15. Qxf5 Rf7 16. Qg4 Bg7 17. Kd1 a5 18. a4 b6 19. Bb5 Qf6 20. Bxc6+ Qxc6 21. Bb2 Qf6 22. f4 c5 23. Qc8+ Qd8 24. Qc6+ Rad7 25. Qe6+ Rde7 26. Qc6+ Kf8 27. Re1 c4 28. bxc4 dxc4+ 29. Nd2 b5 30. axb5 Qd7 31. Qxd7 Rxd7 32. Rxa5 Rd6 33. Ra8+ Ke7 34. Ra7+ Rd7 35. b6 Rf5 36. Rg1 Rf7 37. Re1 Rf8 38. Rg1 Bh8 39. Kc1 Rc8 40. b7 Rb8 41. Nxc4 Rdxb7 42. Ra1 Rd8 43. Na5 Rc7 44. c4 Bxb2+ 45. Kxb2 Rd2+ 46. Kc1 Rd8 47. Rg7+ Kd6 48. Rg6+ Kc5 49. Rg5+ Kb6 50. Rb1+ Ka6 51. Rd5 Rxd5 52. Rb5 Rxb5 53. Nb3 Rxb3 54. e4 Rxc4+ 55. Kd1 Rxe4 56. f5 Rxh3 57. Kc1 Rf3 58. f6 Nxf6 59. Kb1 Re2 60. Ka1 Rf1# 0-1

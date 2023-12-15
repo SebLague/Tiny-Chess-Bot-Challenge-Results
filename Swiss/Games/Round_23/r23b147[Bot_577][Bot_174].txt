@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "22"]
+[White "Butter robot (by: DODIK)"]
+[Black "Annihilator (by: Wiechciu)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 g5 2. Nf3 g4 3. Ne5 a5 4. e4 h6 5. Qxg4 Nf6 6. Qf4 Nc6 7. Ng4 Nh5 8. Qf5 Nd4 9. Qxh5 Nxc2+ 10. Ke2 Nxa1 11. Qe5 f5 12. exf5 Rg8 13. Nf6+ Kf7 14. Nxg8 Kxg8 15. d4 Bg7 16. Qd5+ Kh7 17. g4 a4 18. Bf4 a3 19. bxa3 Rxa3 20. Ne4 b6 21. h4 Ba6+ 22. Kd2 e6 23. fxe6 Qf8 24. Ng5+ hxg5 25. hxg5+ Bh6 26. Rxh6+ Qxh6 27. gxh6 Nb3+ 28. axb3 Ra2+ 29. Ke3 Bb5 30. Qe5 Re2+ 31. Bxe2 Kg8 32. Qg5+ Kh8 33. Kd2 c6 34. Kc1 d5 35. Kb2 Bxe2 36. Ka1 Bb5 37. Ka2 Bf1 38. Ka1 c5 39. Ka2 Bb5 40. Ka1 Bd3 41. Qe5+ Kg8 42. Bg5 Bc4 43. Kb2 Kf8 44. Ka1 b5 45. Kb2 b4 46. Ka1 Kg8 47. Kb2 Bb5 48. Ka1 Bd3 49. Kb2 Bf1 50. Ka1 Bc4 51. Kb2 Ba6 52. Ka1 Kh7 53. Ka2 Bf1 54. Ka1 Bc4 55. Kb2 Bd3 56. Ka1 Kg6 57. Kb2 Bc2 58. Ka1 cxd4 59. Kb2 Bd3 60. Ka1 Bc2 61. Kb2 Bf5 62. Qxf5# 1-0

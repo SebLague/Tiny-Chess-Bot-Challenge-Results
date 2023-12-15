@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "16"]
+[White "Mischievous bot (by: Guigui)"]
+[Black "holcak-bot (by: Petr Holčák)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. f3 h5 2. c3 g5 3. h3 f5 4. a3 e5 5. b4 d5 6. Qa4+ Kf7 7. e3 a5 8. d4 exd4 9. exd4 axb4 10. Qc6 bxc6 11. axb4 Rxa1 12. Nd2 Rxc1+ 13. Ke2 Rxc3 14. Kf2 Bxb4 15. Ne2 Rd3 16. Nb1 h4 17. Rg1 Ne7 18. Rh1 Nd7 19. Rg1 Ng8 20. Rh1 Ne7 21. Rg1 Ng8 22. Rh1 Ne7 1/2-1/2

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "16"]
+[White "SFN v 2.0 (by: SFN)"]
+[Black "Asymptotically optimal (by: Graham Gayler)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h3 Nf6 2. b3 Ng8 3. a4 c6 4. g4 Qa5 5. e3 Kd8 6. f4 Qg5 7. Bd3 Qxf4 8. Qf3 Kc7 9. Qxc6+ Kxc6 10. Bb5+ Kc7 11. Ne2 Qxe3 12. a5 Kd6 13. d3 Qxe2+ 14. Kxe2 Kc5 15. Ba3+ Kxb5 16. c4+ Kxa5 17. Bc5# 1-0

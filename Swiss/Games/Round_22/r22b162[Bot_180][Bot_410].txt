@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "21"]
+[White "Sørensen's Minimax (by: Victor)"]
+[Black "Lamorran (by: Morra)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. e3 Nf6 2. Qf3 Nc6 3. Qf4 e6 4. Bb5 Bd6 5. Qg5 O-O 6. Bxc6 bxc6 7. Ne2 Ba6 8. Qa5 Bxe2 9. Kxe2 Nd5 10. e4 Bb4 11. Qa6 Nf6 12. a3 Bc5 13. Qc4 Qe7 14. d4 Bb6 15. Bg5 Bxd4 16. Qxd4 c5 17. Bxf6 gxf6 18. Qc3 f5 19. Nd2 Qg5 20. Qg3 Qxg3 21. hxg3 Rfe8 22. a4 Rab8 23. Ke3 Rb4 24. a5 Rd4 25. Ke2 Rd6 26. Ra4 Re7 27. Rc4 Re8 28. Rxc5 Rd4 29. Rxc7 Rd6 30. Rxa7 Rc8 31. Rb7 Rxc2 32. Rb8+ Kg7 33. Rd1 fxe4 34. Rb5 e3 35. fxe3 Kh8 36. e4 Rd4 37. Rb8+ Kg7 38. e5 Rc5 39. Ke3 Rcd5 40. Kf2 Rxa5 41. Ke3 Rad5 42. Kf2 Rxe5 43. Nf3 Rxd1 44. Nxe5 Rd5 45. Nc4 Rd4 46. Rc8 h6 47. Ke3 Rd1 48. Ra8 Rc1 49. Nd6 Rc6 50. Ne8+ Kg8 51. Nf6+ Kg7 52. Nxd7 Rd6 53. Ra7 Rd5 54. b3 Rf5 55. Rc7 h5 56. Ra7 Kh7 57. Ra8 Kg7 58. Ra7 Kh7 59. Ra8 Kg7 60. Ra7 1/2-1/2

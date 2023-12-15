@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "11"]
+[White "Sørensen's Minimax (by: Victor)"]
+[Black "LiL Scoot (by: Scoutamass)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e6 2. Qg4 Qe7 3. Bd3 h5 4. Qf4 Qc5 5. Qd4 Qxd4 6. exd4 Nc6 7. Nf3 Bb4 8. Ke2 Nf6 9. c3 Bd6 10. h3 Nd5 11. Bb5 Nf4+ 12. Kf1 Ne7 13. d3 Nfd5 14. Ke2 Nf4+ 15. Bxf4 Bxf4 16. Na3 c6 17. Ba4 Nd5 18. Bb3 Nb6 19. g3 Bd6 20. Nc2 Rh6 21. Ne3 h4 22. Nxh4 f5 23. f4 Be7 24. Nf3 d5 25. a4 Bd7 26. a5 Nc8 27. Ne5 Nb6 28. axb6 Bc8 29. Rxa7 Rxa7 30. bxa7 Bf6 31. a8=Q Bxe5 32. Qxc8+ Ke7 33. Qxb7+ Kf6 34. dxe5+ Kg6 35. Qxc6 Kh7 36. Qe8 d4 37. cxd4 Rg6 38. Bxe6 Rh6 39. Qg8+ Kg6 40. Bf7# 1-0

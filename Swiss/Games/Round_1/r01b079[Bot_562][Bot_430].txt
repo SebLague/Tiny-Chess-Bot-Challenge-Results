@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "Marreco (by: Tutz)"]
+[Black "KnightMare (by: Dom)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 c6 2. d4 e6 3. Nf3 f6 4. e4 Bb4 5. Bf4 Ne7 6. Qd2 O-O 7. Bc4 d6 8. Ke2 Bd7 9. a3 b5 10. axb4 bxc4 11. Bxd6 Re8 12. b3 Nc8 13. Bc5 cxb3 14. cxb3 Qc7 15. e5 Qd8 16. h4 a6 17. g4 h6 18. g5 hxg5 19. hxg5 fxg5 20. Nxg5 Qc7 21. Qf4 Re7 22. Bxe7 Qxe5+ 23. dxe5 Ra7 24. Qf7# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "62"]
+[White "PacifistBot (by: Noano01)"]
+[Black "Anty (by: Emanuele Sorce)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 f6 2. Nc3 g5 3. Nd5 e5 4. e4 Qe7 5. d4 Qf7 6. Be3 h5 7. Bc4 Qxd5 8. Ke2 Rh7 9. Kd3 b5 10. Kc3 Qc6 11. Re1 Qd5 12. Qd3 Na6 13. Rad1 Qe6 14. Bd5 Bc5 15. g4 Qb6 16. Bf7+ Kd8 17. b4 Qa5 18. a4 Rh6 19. h4 Qxb4# 0-1

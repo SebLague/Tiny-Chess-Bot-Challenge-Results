@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "9"]
+[White "CapivaraBot (by: Danilo Luiz Rheinheimer)"]
+[Black "Greedy-Dumb-Bot (by: TrangML)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. h4 Nf6 2. f4 c5 3. d4 Qa5+ 4. c3 Qa3 5. bxa3 e5 6. dxe5 a5 7. exf6 gxf6 8. g4 Bh6 9. e4 Bxf4 10. Bxf4 b6 11. h5 Bb7 12. Nd2 h6 13. c4 a4 14. Bxb8 Bc8 15. Bc7 Bb7 16. Bxb6 Rc8 17. Qxa4 f5 18. gxf5 f6 19. Nh3 Ba8 20. Bxc5 Bb7 21. Ba7 Ba8 22. c5 Bb7 23. Nf4 Ba8 24. Ng6 Bb7 25. Nxh8 Ba8 26. Ng6 Bb7 27. Nh8 Ba8 28. Ng6 Bb7 29. Nh8 1/2-1/2

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "63"]
+[White "DrawMachine (by: Rune)"]
+[Black "HekMate (by: Maddisch)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c3 d5 2. Qa4+ Qd7 3. Qxd7+ Bxd7 4. g3 Bb5 5. b4 e5 6. e3 Bxf1 7. Kxf1 c6 8. f3 Bd6 9. d3 Be7 10. a3 Bg5 11. Bd2 Nd7 12. h3 Rd8 13. Rh2 Ne7 14. Be1 Bxe3 15. Ne2 Nf6 16. Ra2 Nf5 17. f4 Bxf4 18. Nxf4 Ne3+ 19. Kg1 Nd1 20. Raf2 Nxf2 21. Rxf2 d4 22. cxd4 Rxd4 23. Ng2 Rxd3 24. Re2 Nd7 25. Bf2 Rd1+ 26. Kh2 Rxb1 27. Bxa7 Rd1 28. Ra2 Rd3 29. a4 Rb3 30. Bg1 Rxb4 31. Rc2 Rxa4 32. Rd2 Rd4 33. Rxd4 Nc5 34. Rc4 Nd3 35. Ra4 O-O 36. g4 Nc1 37. Be3 Ne2 38. Ra7 Rb8 39. Bb6 Nc1 40. Be3 Ne2 41. g5 e4 42. Ra3 Rd8 43. Ra2 Nc3 44. Bc1 Nxa2 45. Ne1 Rd1 46. Ng2 Rxc1 47. Nf4 Rc5 48. Ng2 Rc2 49. h4 Rxg2+ 50. Kh1 g6 51. Kxg2 c5 52. h5 gxh5 53. g6 fxg6 54. Kf1 c4 55. Ke1 c3 56. Kd1 h4 57. Ke1 c2 58. Kf1 c1=Q+ 59. Ke2 h3 60. Kf2 h2 61. Ke2 h1=Q 62. Kf2 Qce1# 0-1

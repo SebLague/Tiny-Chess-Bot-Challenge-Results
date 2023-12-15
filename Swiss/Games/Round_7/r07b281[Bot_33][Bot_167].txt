@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "6"]
+[White "BalanceBot (by: vuT)"]
+[Black "Betelchess (by: VY Canis Majoris (also special thanks to Gurren Lagann))"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. h3 e5 2. h4 Ke7 3. Rh3 Ke6 4. Nf3 Bc5 5. Ng5+ Qxg5 6. Na3 Nf6 7. Nb5 Rf8 8. Nxa7 Re8 9. g4 Rg8 10. Bg2 Re8 11. Bd5+ Nxd5 12. Kf1 Rg8 13. f4 Re8 14. Kg2 Rg8 15. Re3 Re8 16. Rg3 Rg8 17. Re3 Re8 18. Rg3 Rg8 19. Re3 1/2-1/2

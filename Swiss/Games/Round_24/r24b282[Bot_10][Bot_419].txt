@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "23"]
+[White "nadjBot (by: Arman N)"]
+[Black "PrincessAtta (by: Bowser Bowering and Allyn Lloyd)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 e6 2. Rb1 d5 3. Ra1 e5 4. Rb1 d4 5. Ra1 d3 6. exd3 e4 7. dxe4 b6 8. Nb1 a5 9. Ke2 a4 10. Ke1 a3 11. Nxa3 g6 12. Nb1 f5 13. exf5 h5 14. fxg6 h4 15. Ke2 h3 16. gxh3 Qd5 17. Ke1 c6 18. Ke2 Qe4# 0-1

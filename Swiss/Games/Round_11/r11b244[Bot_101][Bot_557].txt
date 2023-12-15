@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "10"]
+[White "HERO-bot (by: ELEMENTLHERO)"]
+[Black "Achilles Random (by: Achilles)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e5 2. h4 Qxh4 3. g4 Qxh1 4. Nf3 Bc5 5. Nh4 Qxh4 6. g5 Qxf2# 0-1

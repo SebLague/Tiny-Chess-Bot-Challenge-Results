@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Knockout 64"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "-1"]
+[White "Cosmos (by: Gonumen)"]
+[Black "Black Magic (by: Josh Odom)"]
+[Result "1-0"]
+[TimeControl "30+0.1"]
+[Termination "Checkmate"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. d4 e6 5. Bd3 Nf6 6. h3 dxe4 7. Nxe4 Bxf3 8. Qxf3 Qxd4 9. Nxf6+ gxf6 10. O-O Qe5 11. Bf4 Qxb2 12. Rab1 Qxa2 13. Rxb7 Nd7 14. Be4 Rd8 15. Bxc6 Bg7 16. Bxd7+ Kf8 17. Bh6 Bxh6 18. Qxf6 Rg8 19. Be8 Rxg2+ 20. Kh1 Rd7 21. Rxd7 Rh2+ 22. Kxh2 Bf4+ 23. Qxf4 e5 24. Qf6 Kg8 25. Rg1+ Kf8 26. Qh8# 1-0

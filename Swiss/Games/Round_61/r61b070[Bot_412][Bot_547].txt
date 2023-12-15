@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "60"]
+[White "MilkMindV1 (by: Josiah Jordan )"]
+[Black "NotQuiteRandomGamblerAndPruner (by: Taco Olmer)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 e6 2. e4 Qf6 3. d4 Bb4+ 4. Bd2 Bxd2+ 5. Qxd2 Qg6 6. Nc3 h6 7. Ne5 Qg5 8. h4 Qxd2+ 9. Kxd2 Nf6 10. Bc4 O-O 11. Nd3 Nxe4+ 12. Nxe4 d5 13. Bxd5 exd5 14. Nc3 Rd8 15. Nf4 c6 16. Rae1 g5 17. hxg5 hxg5 18. Nd3 Rf8 19. Re5 f6 20. Re7 Bf5 21. Rxb7 Na6 22. Re7 Rfb8 23. b3 Re8 24. Rhe1 Rxe7 25. Rxe7 Kf8 26. Rb7 Bc8 27. Rh7 Kg8 28. Re7 Bf5 29. a3 Kf8 30. Rb7 Bc8 31. Rh7 Kg8 32. Re7 Bf5 33. Nb4 Nxb4 34. axb4 a5 35. b5 cxb5 36. Nxd5 Rd8 37. Nxf6+ Kh8 38. Re5 Bc8 39. Rxg5 a4 40. bxa4 Rxd4+ 41. Ke3 Rd8 42. axb5 Rf8 43. Nd5 Rf7 44. Ke2 Kh7 45. Ne3 Re7 46. c4 Kh6 47. f4 Kh7 48. f5 Kh6 49. Rg6+ Kh7 50. Kf2 Re4 51. g4 Rf4+ 52. Kg3 Rd4 53. Nd5 Rd3+ 54. Kf2 Rd2+ 55. Ke3 Rxd5 56. cxd5 Bd7 57. b6 Bc8 58. d6 Bxf5 59. gxf5 Kh8 60. d7 Kh7 61. b7 Kh8 62. b8=Q+ Kh7 63. Qg8# 1-0

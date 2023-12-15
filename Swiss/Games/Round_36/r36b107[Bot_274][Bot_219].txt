@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "35"]
+[White "BoringBot (by: Carson Bates)"]
+[Black "Supertask-Time-Troubles (by: TimFW)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. f3 e5 2. g3 c5 3. d3 f5 4. f4 exf4 5. Bxf4 Qf6 6. c3 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "23"]
+[White "AelChess (by: Aëldrexan)"]
+[Black "kesslbot (by: kesslwovv)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 d5 2. Nf3 Nc6 3. e3 Nf6 4. Bb5 Bd7 5. O-O e6 6. c4 a6 7. cxd5 axb5 8. dxc6 Bxc6 9. Ne5 Bd6 10. Nxc6 bxc6 11. e4 e5 12. dxe5 Bxe5 13. Qxd8+ Rxd8 14. Nd2 Bxb2 15. Bxb2 Rxd2 16. Bc3 Rc2 17. Bxf6 gxf6 18. Rfc1 Rxc1+ 19. Rxc1 Kd7 20. f4 Ra8 21. Rc2 Ra4 22. Re2 c5 23. g4 c4 24. Rc2 Ra3 25. Kf2 Rh3 26. Kg2 Rd3 27. h4 c3 28. Kf2 b4 29. Re2 Rh3 30. h5 c2 31. Re1 Ra3 32. h6 Rxa2 33. Ke3 b3 34. Kd2 c1=N+ 35. Kxc1 Ra1+ 36. Kb2 Rxe1 37. e5 fxe5 38. fxe5 Re3 39. Kc1 Re2 40. Kb1 c5 41. Kc1 b2+ 42. Kb1 c4 43. g5 c3 44. Ka2 Re1 45. Kb3 b1=Q+ 46. Kxc3 Re3+ 47. Kd4 Rb3 48. Kc4 Qd3+ 49. Kc5 Rb5# 0-1

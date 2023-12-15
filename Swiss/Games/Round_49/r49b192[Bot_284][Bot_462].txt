@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "48"]
+[White "Arctiform's Bot (by: Arctiform)"]
+[Black "quick and dirty (by: Rafael)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 Nf6 2. f4 e6 3. g3 Ne4 4. d4 Nxg3 5. Bh3 Nxh1 6. h5 Qh4+ 7. Kd2 Qxf4+ 8. Kd3 Qh4 9. Qf1 Qxh5 10. Bg2 Qg6+ 11. Kc4 Qxc2+ 12. Kb5 a6+ 13. Ka5 b6# 0-1

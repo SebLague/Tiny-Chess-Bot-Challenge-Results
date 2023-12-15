@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "Mini Lapdok (by: Lapdok)"]
+[Black "TunaTactician (by: Ben)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Bg5 Nxd4 6. Qxd4 Be7 7. Qe3 O-O 8. O-O-O c6 9. Bxf6 Bxf6 10. Ne4 d5 11. c4 Be5 12. cxd5 cxd5 13. Nc3 Qc7 14. Rxd5 Bf4 15. Qd2 Bxd2+ 16. Rxd2 Be6 17. a4 Bb3 18. Kb1 Rfd8 19. Rxd8+ Rxd8 20. Ka1 Rd1+ 21. Nb1 Qc1 22. Rg1 Qxb1# 0-1

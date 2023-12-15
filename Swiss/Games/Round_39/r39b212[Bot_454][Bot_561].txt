@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "38"]
+[White "The Mad King (by: Coding With Avaclava)"]
+[Black "ONE MOVE TO RULE THEM ALL (by: b4ux1t3)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d3 d5 2. d4 e6 3. g4 Bb4+ 4. Nc3 g6 5. a4 Ba3 6. bxa3 b5 7. Nxb5 a6 8. c3 axb5 9. axb5 e5 10. dxe5 Bxg4 11. e3 Bxd1 12. Kxd1 Qh4 13. f3 Qa4+ 14. Ke2 Qxb5+ 15. Kf2 Qb4 16. axb4 Rxa1 17. Bb5+ Kf8 18. h4 Rxc1 19. f4 Rxc3 20. Ke1 Rxe3+ 21. Kf2 Rg3 22. Kxg3 Nd7 23. Bxd7 Nf6 24. exf6 h6 25. b5 Rh7 26. Kh3 g5 27. h5 gxf4 28. Kh4 c5 29. bxc6 Rg7 30. c7 Rg4+ 31. Kxg4 d4 32. c8=Q# 1-0

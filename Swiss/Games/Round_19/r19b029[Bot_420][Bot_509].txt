@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "18"]
+[White "NostradamusChessNN (by: _Mus)"]
+[Black "MapBot (by: Map)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. e4 Nc6 2. Nc3 Nf6 3. Nf3 e5 4. Bb5 Bd6 5. d4 exd4 6. Nxd4 Be5 7. Be3 O-O 8. O-O Ng4 9. Qxg4 Nxd4 10. Bxd4 Bxd4 11. Qg3 c6 12. Be2 Re8 13. Rad1 Be5 14. Qf3 Qh4 15. g3 Qh3 16. a4 d6 17. a5 Be6 18. Qe3 c5 19. Nb5 Red8 20. c3 Bb3 21. Rde1 Rac8 22. f4 Bf6 23. Nxa7 Ra8 24. e5 dxe5 25. Qxc5 exf4 26. Rxf4 Rd2 27. Rb4 Bd5 28. Qf2 Re8 29. Nb5 Rexe2 30. Qxe2 Rxe2 31. Rxe2 Bc6 32. Nd4 Qh5 33. Nxc6 Qxe2 34. Rxb7 Qe3+ 35. Kg2 Qe2+ 36. Kg1 Qe3+ 37. Kg2 Qe4+ 38. Kg1 Qe1+ 39. Kg2 Qe2+ 40. Kg1 1/2-1/2

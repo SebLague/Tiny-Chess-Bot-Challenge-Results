@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "30"]
+[White "InfuehrDaniel MCTS (by: Daniel Infuehr)"]
+[Black "ScholarsBot (by: magic216)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. e3 e5 2. Qh5 Bc5 3. Qxe5+ Be7 4. Bc4 c5 5. Qxg7 h5 6. Bd5 Bh4 7. Na3 Ke7 8. Nc4 Qe8 9. Qg4 Rh7 10. Qxg8 Kd8 11. b4 d6 12. d3 cxb4 13. g3 Bxg3 14. Nb6 Rh6 15. Nf3 Re6 16. Qh7 a6 17. Qe4 a5 18. Kd1 a4 19. Rb1 Qd7 20. Rb3 Ra7 21. d4 Bf4 22. Na8 Bg5 23. Ng1 f6 24. Qf5 h4 25. Qf4 h3 26. Nc7 Re8 27. Qf3 Kxc7 28. Qf5 Re6 29. f4 Qe7 0-1

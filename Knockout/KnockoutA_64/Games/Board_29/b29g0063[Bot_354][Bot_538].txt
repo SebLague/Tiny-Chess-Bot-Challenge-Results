@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Knockout 64"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "-1"]
+[White "FomBot (by: fominvic81)"]
+[Black "Mr. JB73 (by: Name: Francisco Gaspar      Nickname: James Bond 73)"]
+[Result "1-0"]
+[TimeControl "30+0.1"]
+[Termination "Checkmate"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bc4 Qe7+ 7. Be2 g6 8. O-O Bg7 9. Re1 O-O 10. Bc4 Qd6 11. d4 Bf5 12. Nh4 Bc8 13. a4 Rd8 14. c3 Na6 15. Qb3 Rf8 16. g3 Nc7 17. Bf4 Qd7 18. Nf3 Nd5 19. Bxd5 cxd5 20. Rad1 g5 21. Be3 Rd8 22. c4 dxc4 23. Qxc4 b6 24. Nd2 Bb7 25. b3 Rac8 26. Qb5 Bc6 27. Qd3 Bd5 28. Qb5 Qf5 29. Rc1 Qh3 30. Qf1 g4 31. a5 Rxc1 32. Rxc1 bxa5 33. Ra1 f5 34. Rxa5 Bc6 35. Rxf5 Bxd4 36. Nc4 Bc3 37. Qxh3 gxh3 38. Kf1 Rd1+ 39. Ke2 Re1+ 40. Kd3 Bg7 41. Rg5 Rd1+ 42. Ke2 Rd7 43. Ne5 Bb5+ 44. Nc4 Bxc4+ 45. bxc4 Rc7 46. Bd4 f5 47. Bxg7 Rxg7 48. Rxf5 Rc7 49. Rg5+ Kh8 50. Kd3 Rd7+ 51. Kc3 Rd1 52. Rh5 Rc1+ 53. Kb4 Rb1+ 54. Ka5 Rb2 55. Rxh3 Rxf2 56. c5 Rc2 57. Kb5 Rb2+ 58. Ka6 Rc2 59. Rh5 Ra2+ 60. Kb7 a5 61. c6 Rb2+ 62. Ka6 Kg7 63. Rc5 Rf2 64. c7 Rf8 65. c8=Q Rxc8 66. Rxc8 a4 67. Ra8 a3 68. Kb6 Kf6 69. Rxa3 Kg6 70. Ra5 Kf6 71. h4 Kg6 72. g4 Kf6 73. Rc5 Ke6 74. g5 Kf7 75. h5 Kg7 76. Rc6 Kf7 77. h6 Ke8 78. Rc7 Kf8 79. g6 hxg6 80. h7 Ke8 81. h8=Q# 1-0

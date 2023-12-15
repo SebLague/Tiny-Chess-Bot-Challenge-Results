@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "28"]
+[White "HopeBot (by: Chinmay Krishna)"]
+[Black "MinimaxAttackerBot5000 (by: ChrisCat123)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. e3 Na6 2. Qg4 Rb8 3. b4 Nf6 4. Qf4 Nd5 5. Qf5 Naxb4 6. g3 Ra8 7. Nc3 e6 8. Ne4 exf5 9. h3 Nxc2+ 10. Kd1 Nxa1 11. Ke1 fxe4 12. Bc4 Nc2+ 13. Ke2 Ndb4 14. Kd1 Ke7 15. Ne2 Ke8 16. Bb2 Ke7 17. Bc1 Ke8 18. Bb2 Ke7 19. Bc1 1/2-1/2

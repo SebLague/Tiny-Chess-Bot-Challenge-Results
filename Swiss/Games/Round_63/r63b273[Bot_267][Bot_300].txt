@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "62"]
+[White "TimsBot (by: Thomas Dvorak)"]
+[Black "Bob (Looser) (by: Flo)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 c6 2. g4 Qb6 3. f4 Qc7 4. e4 a6 5. d4 Qxf4 6. c4 Qf6 7. b4 Ra7 8. a4 h6 9. h5 a5 10. g5 Qf4 11. g6 Qd2+ 12. Nxd2 b5 13. gxf7+ Kxf7 14. e5 Ra8 15. e6+ Kf6 16. Ne4+ Kf5 17. Qg4+ Kxg4 18. Nf3 Kxf3 19. Bg2+ Kxg2 20. d5 dxe6 21. d6 bxa4 22. d7 e5 23. c5 e6 24. b5 a3 25. b6 Be7 26. b7 Na6 27. Nf6 Rb8 28. Ne8 Bf6 29. Nc7 Nxc5 30. Ne8 Kxh1 31. Nc7 Ra8 32. Ne8 Kg2 33. Nc7 Na6 34. Ne8 Nb8 35. Nc7 a2 36. Ne8 g5 37. Ng7 Kh3 38. Ne8 e4 39. Ng7 e5 40. Ne8 Kg3 41. Ng7 Kh2 42. Ne8 Be7 43. Ng7 Bd8 44. Ne8 e3 45. Ng7 e4 46. Ne8 Ra7 47. Ng7 Nxd7 48. Ne8 Bxb7 49. Ng7 Kh1 50. Ne8 Bc8 51. Ng7 Ndf6 52. Ne8 Nxe8 53. Ba3 Rc7 54. Bf8 Bg4 55. Bg7 Nxg7 56. Rd1 Be2 57. Rd7 Bc4 58. Rf7 a1=R# 0-1

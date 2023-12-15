@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "60"]
+[White "Kinglet (by: Skolin + World + Abyss)"]
+[Black "SimplerBot (by: Rick Schaffer)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nc6 2. e4 d5 3. exd5 Qxd5 4. Nc3 Qe6+ 5. Be2 Bd7 6. d4 Qf5 7. O-O O-O-O 8. Bd3 Qa5 9. d5 Nb4 10. Ne5 Be8 11. Nc4 Qa6 12. Be2 Nf6 13. Bf4 b5 14. Ne3 Qb7 15. Bf3 c6 16. dxc6 Bxc6 17. Bxc6 Nxc6 18. Qf3 b4 19. Ne2 e5 20. Bg5 Ne7 21. Qxb7+ Kxb7 22. Rfd1 Rxd1+ 23. Rxd1 Kc7 24. c3 a5 25. cxb4 axb4 26. Ng3 Rg8 27. Rc1+ Kd7 28. Bxf6 gxf6 29. Ne4 Bg7 30. Nc5+ Kd6 31. Na6 e4 32. Nxb4 f5 33. Rd1+ Ke6 34. Nc4 Be5 35. g3 h5 36. Nxe5 Kxe5 37. Kf1 Rc8 38. Rd7 Ke6 39. Rb7 Rc1+ 40. Ke2 Rh1 41. a4 Rxh2 42. a5 Rh1 43. Nc2 Rc1 44. Nd4+ Kf6 45. a6 Ra1 46. a7 Ra2 47. Nb5 Nc8 48. Ke3 Ra5 49. Rc7 Ne7 50. Nc3 Ke6 51. b4 Ra3 52. Kd2 Ra1 53. b5 f6 54. b6 Nd5 55. Rc6+ Kd7 56. b7 e3+ 57. fxe3 Rxa7 58. b8=Q Kxc6 59. Qxa7 Nxc3 60. Kxc3 f4 61. exf4 Kd5 62. Qd7+ Kc5 63. Qf5+ Kd6 64. Qxf6+ Kd5 65. Qg6 h4 66. gxh4 Kc5 67. h5 Kb5 68. h6 Kc5 69. h7 Kb5 70. h8=Q Kc5 71. Qe5# 1-0

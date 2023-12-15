@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "8"]
+[White "BasicBot (by: Phnx)"]
+[Black "Why Use Full Brain (by: JustAdy)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e5 2. e3 d6 3. Qf3 Ne7 4. Qe4 Nd7 5. Bd3 Ng8 6. Nf3 Ne7 7. Qa4 Ng8 8. Nb5 d5 9. Qh4 Nb8 10. Qxd8+ Kxd8 11. Nxe5 h5 12. Nxf7+ Kd7 13. Nxh8 g5 14. Nd4 c5 15. Nf3 a5 16. Ne5+ Ke7 17. Nhg6+ Ke8 18. c3 b6 19. f3 a4 20. Kf2 Nh6 21. Nxf8 Kxf8 22. e4 dxe4 23. Bxe4 b5 24. Bxa8 h4 25. Be4 Na6 26. Ke3 Ng8 27. d3 Ne7 28. d4 cxd4+ 29. Kxd4 Ng8 30. Bxg5 Nb8 31. Be3 Ne7 32. Bh6+ Kg8 33. Be3 Nbc6+ 34. Nxc6 Nxc6+ 35. Bxc6 Be6 36. Be4 Bc8 37. Ke5 Bd7 38. Rad1 Be8 39. Rd4 Bf7 40. a3 Be8 41. Ra1 Bf7 42. Rb1 Be8 43. Rc1 Bf7 44. Rc2 Be8 45. Rcd2 Bf7 46. Re2 Be8 47. Rc2 Bf7 48. Rcd2 Be8 49. R2d3 Bf7 50. Bf4 Be8 51. Re3 Bf7 52. g3 hxg3 53. hxg3 Be8 54. Red3 Bf7 55. g4 Be8 56. Kf5 Bf7 57. Kf6 Be8 58. Ke5 Bf7 59. Re3 Be8 60. Kf5 Bf7 61. Kf6 Be8 62. Bd5+ Kh8 63. Rxe8+ Kh7 64. Kf7 b4 65. Kf6 bxc3 66. Rd1 cxb2 67. Kf7 b1=Q 68. Be4+ Qxe4 69. Rh1# 1-0

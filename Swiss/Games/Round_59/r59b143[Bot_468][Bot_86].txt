@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "58"]
+[White "ColégramBot (by: Colégram)"]
+[Black "Blitztron (by: Cameron Dugan)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c3 d5 2. e3 Qd7 3. Na3 f5 4. f4 a6 5. b4 b6 6. Qf3 Ra7 7. Rb1 g6 8. c4 d4 9. exd4 Qe6+ 10. Kf2 Qf6 11. Qe3 Kd7 12. d5 Kd8 13. Bb2 e5 14. Bxe5 Qh4+ 15. g3 Qe7 16. Qd4 Nh6 17. Kg2 c5 18. dxc6+ Bd7 19. cxd7 Qe6 20. Bxb8 Bg7 21. Be5 Bxe5 22. Qd5 Qxd5+ 23. cxd5 Bg7 24. Nc4 Bd4 25. Nf3 b5 26. Nxd4 Kxd7 27. Nxf5 Nxf5 28. Ne3 Ng7 29. Re1 h5 30. Bd3 Rh6 31. Kh3 Rc7 32. Bc2 Kc8 33. Kh4 Kd8 34. Kg5 Rh8 35. Bd3 Ne8 36. Rhf1 Rg7 37. Bxg6 Rhg8 38. f5 a5 39. bxa5 h4 40. Kxh4 Nf6 41. d4 Rf8 42. h3 Rd7 43. Nc2 Nxd5 44. g4 Nf6 45. Re6 Kc7 46. Kg5 Ng8 47. Rb1 Rb8 48. a3 Ne7 49. Bh5 Nc6 50. h4 Nd8 51. Rg6 Rb7 52. a6 Ra7 53. Rb2 Rh7 54. Rxb5 Nf7+ 55. Kf4 Kd7 56. Rd5+ Kc8 57. Nb4 Nd8 58. Rg8 Rae7 59. Rd6 Rd7 60. Re6 Rxd4+ 61. Ke3 Rc4 62. Ree8 Rc3+ 63. Kd2 Rxa3 64. Rgf8 Rd7+ 65. Ke2 Kc7 66. f6 Ra1 67. Re7 Rd1 68. Rxd7+ Rxd7 69. a7 Kb7 70. Nc6 Ka8 71. Nxd8 Kxa7 72. g5 Kb6 73. Rh8 Rc7 74. f7 Re7+ 75. Kf2 Rxf7+ 76. Bxf7 Kc5 77. Rh7 Kb5 78. g6 Kc5 79. g7 Kd6 80. g8=Q Kc5 81. Bh5 Kb4 82. Rc7 Kb5 83. Rb7+ Kc5 84. Qf7 Kd6 85. Qe6+ Kc5 86. Kf3 Kd4 87. Kf4 Kc5 88. Qf5+ Kd6 89. Rd7# 1-0

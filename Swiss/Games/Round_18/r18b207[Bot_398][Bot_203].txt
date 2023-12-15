@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "17"]
+[White "ChessGPT (by: DeepGoldenCrown)"]
+[Black "1o1 (by: Pavan Manish)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g4 e5 2. h4 d6 3. Rh2 Nf6 4. b4 Nxg4 5. Rh1 Qf6 6. Ba3 Qxf2# 0-1

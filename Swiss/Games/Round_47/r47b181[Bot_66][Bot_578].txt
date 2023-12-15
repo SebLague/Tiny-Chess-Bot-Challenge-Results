@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "46"]
+[White "CapivaraBot (by: Danilo Luiz Rheinheimer)"]
+[Black "Exceptionally mid (by: Evan Rogerson)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 Nc6 2. g4 d5 3. g5 f6 4. gxf6 Nxf6 5. f4 Nh5 6. d4 Ng3 7. Rh2 Nxf1 8. Kxf1 g6 9. a4 Nb8 10. b4 Nc6 11. b5 Na5 12. h5 gxh5 13. Rxh5 Bg4 14. Rg5 Be6 15. f5 h6 16. Rh5 Bf7 17. Rh4 Qd7 18. Rf4 Bg7 19. e3 Bf8 20. f6 e6 21. e4 Bd6 22. e5 Bf8 23. c3 c6 24. bxc6 Qxc6 25. Nh3 b6 26. Nf2 b5 27. axb5 Qxb5+ 28. Nd3 h5 29. Na3 Bxa3 30. Bxa3 Qb3 31. Bb4 Qxd1+ 32. Rxd1 Nc6 33. Bd6 h4 34. Nc5 a6 35. Nb7 h3 36. Nc5 a5 37. Nb7 h2 38. Nxa5 h1=Q+ 39. Ke2 Qh5+ 40. Rf3 Rxa5 41. Bc7 Ra8 42. Bd6 Qg6 43. Bc7 Qh7 44. Bd6 Bh5 45. f7+ Qxf7 46. Rd3 Bxf3+ 47. Rxf3 Rh2+ 48. Ke3 Qd7 49. Rf8# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "40"]
+[White "Good Bot Bad Bot (But Really, Both Are Terrible Bots, Also This In The Parenthesis Is Part Of The Name) (by: Legend)"]
+[Black "The Red Crayon (by: Daniel L.)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 d5 2. Nh3 e5 3. g4 Bxg4 4. f3 Bxh3 5. Bxh3 Ke7 6. c4 Kd6 7. cxd5 Kc5 8. Kf1 Kb4 9. Kg2 Ka5 10. b3 Kb4 11. Kg3 Ka5 12. Be6 fxe6 13. dxe6 Qg5+ 14. Kh3 Qf5+ 15. Kg3 Qg6+ 16. Kh3 Qxe6+ 17. Kh4 Be7+ 18. Kh5 g6# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "27"]
+[White "ChessGPT (by: DeepGoldenCrown)"]
+[Black "No Brain but Hungry (by: Pete)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nh3 Nh6 2. Rg1 b5 3. b4 Rg8 4. g4 a6 5. Rg2 Nc6 6. Bb2 Nxb4 7. Bxg7 Bxg7 8. Nc3 d6 9. Rb1 Nc6 10. Ra1 b4 11. Rb1 bxc3 12. dxc3 Bxc3+ 13. Qd2 Bxd2+ 14. Kxd2 Ne5 15. Re1 Nc4+ 16. Kc1 Nb6 17. Ng1 c5 18. a3 Nd7 19. e4 a5 20. g5 Nb8 21. Kb1 Qb6+ 22. Ka2 Be6+ 23. Ka1 a4 24. Rc1 Qa7 25. Kb1 Qb6+ 26. Ka1 Rg7 27. Rd1 Ng8 28. Rc1 Kd7 29. Rd1 Qa7 30. Kb1 Qb6+ 31. Ka1 Rg6 32. Rc1 Ra7 33. Rd1 Qb7 34. Rc1 Qxe4 35. Rg3 Qd4+ 36. c3 Qxf2 37. Rd3 Qa2# 0-1

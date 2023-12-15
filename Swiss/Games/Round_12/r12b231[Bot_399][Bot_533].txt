@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "11"]
+[White "Sleepy panda bot (by: Quinten F)"]
+[Black "Stoccafisso (by: Riccardo D'Incau)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Illegal move"]
+
+1. d4 e5 2. dxe5 Nc6 3. Qxd7+ 1-0

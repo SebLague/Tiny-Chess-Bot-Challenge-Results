@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "12"]
+[White "ChessGPT (by: DeepGoldenCrown)"]
+[Black "Bongcloud enthusiast (by: CreeperXD)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a3 e5 2. Ra2 Ke7 3. d4 exd4 4. Qxd4 Nf6 5. Qe5# 1-0

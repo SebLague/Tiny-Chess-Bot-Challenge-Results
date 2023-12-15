@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "8"]
+[White "LadyLuckGuidesMyMinMaxSearch (by: MrPelluke)"]
+[Black "BotThatLikesToPlayChess™ (by: Gary Dale)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h3 b6 2. f3 Ba6 3. a4 Qc8 4. c3 Kd8 5. g3 Ke8 6. h4 Kd8 7. Rh3 Ke8 8. b4 Qd8 9. Ra3 Qc8 10. Ra1 Qd8 11. Bb2 Bxe2 12. Ra2 Bxd1 13. Ba1 Bb3 14. Ra3 Bc2 15. h5 Bxb1 16. Bg2 Qc8 17. Ne2 Qd8 18. b5 Bc2 19. Nf4 Bb1 20. Bh1 e5 21. h6 Qe7 22. g4 exf4+ 23. Kf1 Bd3+ 24. Kg2 Qe2+ 25. Kg1 Qe1+ 26. Kg2 Qxd2+ 27. Kg1 Qe1+ 28. Kg2 Qe2+ 29. Kg1 Bc5# 0-1

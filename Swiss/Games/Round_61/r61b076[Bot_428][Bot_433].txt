@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "60"]
+[White "Valkyrie (by: Skelecat)"]
+[Black "PlinkBot (by: superplink)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 Nc6 2. Qf3 Nf6 3. Nc3 d5 4. Bb5 a6 5. Bxc6+ bxc6 6. Qf4 Bg4 7. Nf3 h6 8. Ne5 Qd6 9. Qa4 Bd7 10. d4 Ne4 11. Qb3 Nxc3 12. bxc3 a5 13. Ba3 Qe6 14. Qb7 Rc8 15. Qa6 Qf5 16. Rc1 Qf6 17. Qxa5 e6 18. Bxf8 Rxf8 19. Qa6 c5 20. Nxd7 Kxd7 21. Qb5+ c6 22. Qxc5 Ke8 23. Qb4 Ra8 24. Qb7 Rxa2 25. Qxc6+ Ke7 26. Qc5+ Ke8 27. c4 dxc4 28. Qc6+ Ke7 29. Qc7+ Ke8 30. Rb1 Qd8 31. Rb8 Ra1+ 32. Kd2 c3+ 33. Kd3 Qxb8 34. Qxb8+ Kd7 35. Qb7+ Kd8 36. Rxa1 Rh8 37. Ra8# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "11"]
+[White "BasicBot (by: Phnx)"]
+[Black "Max-Max-Bot (by: Tejas)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e5 2. e3 Bb4 3. Nd5 Ba5 4. Qh5 g5 5. e4 c6 6. Ne3 Qb6 7. Nf5 Kf8 8. Qxg5 d6 9. Qg7+ Ke8 10. Qxh8 Bxd2+ 11. Bxd2 Bxf5 12. Qxg8+ Kd7 13. Qxf7+ Kd8 14. Bg5+ Kc8 15. Qe8+ Qd8 16. Qxd8# 1-0

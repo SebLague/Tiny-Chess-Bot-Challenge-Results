@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "43"]
+[White "3D.Opening Bot (by: Mark Grennan)"]
+[Black "simpleval (portmonteau of simple eval) (by: hokurou)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. d4 h5 2. Nc3 f5 3. Nf3 a5 4. Nd5 c6 5. Ne3 f4 6. Nf5 e6 7. Bxf4 Na6 8. Ng3 Bb4+ 9. Bd2 Bd6 10. Ne4 Bc7 11. h3 a4 12. e3 Nb8 13. Bb4 d5 14. Nc5 b6 15. Nd3 g6 16. Kd2 b5 17. Nc5 Ne7 18. Bd3 Ng8 19. Bxg6+ Ke7 20. Nxa4+ Kf6 21. Bxh5 Rxa4 22. Kc3 Rxh5 23. Bc5 Ba5+ 24. Kb3 Nh6 25. a3 Nd7 26. Bd6 Nb6 27. Bc5 Nd7 28. Bd6 Nb6 29. Bc5 Nd7 1/2-1/2

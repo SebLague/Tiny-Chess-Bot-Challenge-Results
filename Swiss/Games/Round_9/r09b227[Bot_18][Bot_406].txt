@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "8"]
+[White "LPS (by: fhyyBy2)"]
+[Black "GenericBoringbot (by: Kayinth)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f3 Na6 2. d3 Rb8 3. Qd2 e5 4. Qf4 exf4 5. Bxf4 Qh4+ 6. Kd1 Qxf4 7. Nc3 Nb4 8. Ke1 Nxc2+ 9. Kf2 Bc5+ 10. d4 Bxd4+ 11. e3 Qxe3+ 12. Kg3 Be5+ 13. Kh3 Qh6+ 14. Kg4 Ne3# 0-1

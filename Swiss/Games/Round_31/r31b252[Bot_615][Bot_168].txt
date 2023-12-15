@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "30"]
+[White "Anty (by: Emanuele Sorce)"]
+[Black "CopyCat (by: ADI)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 d6 2. Qh5 e5 3. Bc4 Bf5 4. Qxf7# 1-0

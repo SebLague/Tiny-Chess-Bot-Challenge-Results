@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "31"]
+[White "evilbot v2 (by: aria1400)"]
+[Black "More Recursion! (by: Bden)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a4 e6 2. a5 Qg5 3. Ra2 Bb4 4. Nf3 Qf4 5. Ng1 c6 6. g4 e5 7. b3 Nf6 8. Ra1 d6 9. e4 Rg8 10. Ke2 Qxe4# 0-1

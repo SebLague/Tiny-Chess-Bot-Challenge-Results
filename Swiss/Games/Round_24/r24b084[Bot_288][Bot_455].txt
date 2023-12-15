@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "23"]
+[White "Running Bot (by: Chris Pontius)"]
+[Black "Reaper (by: thesharpestknife)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Fifty move draw"]
+
+1. c4 Nf6 2. d4 Nc6 3. d5 Ne5 4. e4 e6 5. f4 Ng6 6. e5 Ne4 7. Nf3 Bb4+ 8. Bd2 Nxd2 9. Nbxd2 exd5 10. a3 Bxd2+ 11. Qxd2 dxc4 12. O-O-O b5 13. f5 Ne7 14. f6 gxf6 15. exf6 Ng8 16. Qd5 Rb8 17. Qe5+ Kf8 18. b3 Qxf6 19. bxc4 Qxe5 20. Nxe5 Ne7 21. Nxd7+ Bxd7 22. Rxd7 c6 23. Rxa7 Rg8 24. cxb5 cxb5 25. g3 Nc6 26. Rc7 Nd4 27. Rd7 Rg4 28. Bh3 Ne2+ 29. Kd2 Nxg3 30. hxg3 Rxg3 31. Bf5 Rxa3 32. Rxh7 Kg8 33. Rhxf7 Ra2+ 34. Kc3 b4+ 35. Kc4 Rg2 36. Kc5 Rg5 37. Kd6 b3 38. Be4 b2 39. Rb7 Rb5 40. Bh7+ Kh8 41. Rxb8+ Rxb8 42. Kc7 b1=Q 43. Bxb1 Rxb1 44. Kc8 Rb2 45. Rd7 Kg8 46. Kd8 Rc2 47. Ke8 Kh8 48. Kd8 Rc4 49. Re7 Kg8 50. Ke8 Ra4 51. Rd7 Ra5 52. Kd8 Ra3 53. Ke8 Kh8 54. Re7 Rb3 55. Kd8 Rb8+ 56. Kc7 Rb5 57. Rf7 Rb3 58. Kc8 Rb6 59. Kc7 Rb2 60. Kc8 Rb1 61. Kc7 Rb4 62. Kc8 Rb3 63. Kc7 Kg8 64. Re7 Rb5 65. Kc8 Rb6 66. Rc7 Kh8 67. Rf7 Re6 68. Kd8 Ra6 69. Re7 Ra8+ 70. Kd7 Ra7+ 71. Ke6 Ra1 72. Kd7 Rc1 73. Kd8 Kg8 74. Ke8 Ra1 75. Rd7 Kh8 76. Re7 Rd1 77. Rc7 Rb1 78. Re7 Rb5 79. Kd8 Rg5 80. Ke8 Rd5 81. Rc7 Rb5 82. Re7 Kg8 83. Rd7 Rc5 84. Re7 Ra5 85. Rd7 Kh8 86. Re7 Rc5 87. Kd8 Rc3 88. Rf7 Ra3 89. Re7 Rg3 90. Ke8 Rg5 91. Rf7 Re5+ 92. Kd8 Re1 93. Ra7 Kg8 1/2-1/2

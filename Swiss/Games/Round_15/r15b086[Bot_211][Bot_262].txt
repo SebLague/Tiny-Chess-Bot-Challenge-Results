@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "14"]
+[White "Lord Chester of Ply5 (by: PatrickTalksALot)"]
+[Black "Chessburger Bot (by: )"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 c6 2. f4 Qa5 3. b3 Nf6 4. Bc4 Nxe4 5. Bf1 g5 6. Qe2 Bg7 7. c3 d5 8. fxg5 Nxg5 9. h4 Ne4 10. Qf3 Be5 11. b4 Qa4 12. Bd3 Bg3+ 13. Kf1 Nf2 14. Bc2 Qxc2 15. Na3 Qg6 16. Rh3 Nxh3 17. gxh3 Bxh4 18. c4 Rg8 19. Ne2 Qf6 20. Nd4 Bxh3+ 21. Ke2 Bg4 22. Bb2 Bxf3+ 23. Nxf3 Qxb2 24. Rf1 Rg2+ 25. Kd1 Bg5 26. Rf2 Rxf2 27. Ke1 Be3 28. dxe3 Qe2# 0-1

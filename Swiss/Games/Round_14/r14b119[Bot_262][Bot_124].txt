@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "13"]
+[White "Chessburger Bot (by: )"]
+[Black "Depth2 (by: David Montealegre)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c4 Nc6 2. Qa4 Ne5 3. Nc3 Ng4 4. Nh3 N8f6 5. Rb1 a6 6. f3 Nh6 7. g4 a5 8. g5 b5 9. cxb5 d6 10. gxf6 Bxh3 11. Bxh3 gxf6 12. b6+ c6 13. Qxc6+ Qd7 14. Qxd7# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "24"]
+[White "MinimaxAttackerBot5000 (by: ChrisCat123)"]
+[Black "Obi (by: Carson Ouckama)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 d5 2. Nb5 c5 3. Rb1 Qa5 4. Na3 e5 5. Ra1 h5 6. Rb1 f5 7. Ra1 g5 8. Nf3 e4 9. Nxg5 h4 10. Rb1 d4 11. Ra1 f4 12. Nxe4 Be6 13. Rg1 a6 14. Rh1 Bh6 15. Rg1 b5 16. Nxc5 Bf5 17. Rb1 b4 18. Nb3 Qe5 19. Nc4 Qd5 20. Nb6 Qe5 21. Nxa8 Nf6 22. Ra1 Rg8 23. Rb1 Rg4 24. Ra1 Nd5 25. Rb1 Kf8 26. Ra1 Bg5 27. f3 Kg8 28. fxg4 Bxg4 29. Kf2 Kh7 30. Ke1 Qe4 31. Kf2 Kg6 32. Ke1 Nd7 33. Kf2 Ne5 34. Ke1 Nc4 35. d3 Qe8 36. dxc4 Qxa8 37. Qd3+ Kh5 38. Qh7+ Bh6 39. cxd5 Qxd5 40. Bxf4 Bxe2 41. Bxe2+ Qf3 42. Bxf3# 1-0

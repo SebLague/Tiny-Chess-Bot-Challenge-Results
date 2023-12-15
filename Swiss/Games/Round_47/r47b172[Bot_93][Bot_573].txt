@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "46"]
+[White "AIsaac (by: Isaac Ellwood)"]
+[Black "Poisoned_Offerings (by: N8)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. h4 e5 2. g4 h5 3. gxh5 Rxh5 4. d4 Rxh4 5. Rxh4 Qxh4 6. dxe5 Qg4 7. Nh3 Bc5 8. f4 Qg3+ 9. Kd2 Qe3+ 10. Ke1 Qg3+ 11. Kd2 Qe3+ 12. Ke1 Qg3+ 13. Kd2 1/2-1/2

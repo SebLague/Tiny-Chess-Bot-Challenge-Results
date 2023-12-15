@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "WitwerMacher (by: Yannik Bleilinger)"]
+[Black "MilkMindV1 (by: Josiah Jordan )"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 Nc6 2. e3 e6 3. Nb1 Nf6 4. Bb5 Bb4 5. a3 Bc5 6. a4 e5 7. h4 Ke7 8. Nh3 d5 9. Ng5 h6 10. Bxc6 hxg5 11. f4 Bg4 12. hxg5 Rxh1+ 13. Kf2 Ne4# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "47"]
+[White "StallerBot (by: Ean)"]
+[Black "Bob (by: Evan Leach)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d3 e5 2. Nd2 b5 3. Rb1 Bb7 4. h4 Be7 5. Ngf3 Nh6 6. Ne4 Nf5 7. g3 O-O 8. Kd2 d5 9. Nc3 d4 10. Rh3 dxc3+ 11. bxc3 Nd7 12. e4 Nd6 13. Ng1 Nxe4+ 14. dxe4 Bxe4 15. Bxb5 Bg2 16. Ke2 Bxh3 17. Nxh3 Rb8 18. f4 c6 19. Bxc6 Rxb1 20. Be3 Rxd1 21. a3 Rd6 22. Bf3 exf4 23. gxf4 Qc8 24. Bg1 Qxc3 25. Bxa7 Rd2+ 26. Ke1 Rxc2+ 27. Kf1 Qxf3+ 28. Nf2 Rc1# 0-1

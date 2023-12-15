@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Knockout 2"]
+[Site "Seb's Laptop"]
+[Date "2023.11.01"]
+[Round "4"]
+[White "smol.cs (by: Gediminas Masaitis, Goh CJ)"]
+[Black "Boychesser (by: MinusKelvin, Analog Hors, Anonymous Contributor (wishes to be unnamed), Algorhythm, and Daniel Ke (DkeRee))"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 c5 2. Nf3 d6 3. Nc3 e5 4. Bc4 Be7 5. d3 Nf6 6. O-O O-O 7. Bd2 Nc6 8. a4 h6 9. Nd5 Nxd5 10. Bxd5 a5 11. c3 Bf6 12. Be3 Ne7 13. Bc4 Qb6 14. b3 Ng6 15. Rc1 Bd7 16. d4 Bg4 17. dxc5 dxc5 18. b4 Be7 19. bxc5 Bxc5 20. Rb1 Qc7 21. Qd5 Bxe3 22. Rxb7 Qc5 23. Rxf7 Kh7 24. Rxf8 Rxf8 25. fxe3 Qxe3+ 26. Kh1 Bxf3 27. gxf3 Qxc3 28. Qd3 Qb4 29. Be6 Nf4 30. Qd7 Nxe6 31. Qxe6 Qc3 32. Qd7 Rf6 33. Kg2 Qc4 34. Rf2 Qc1 35. Qd2 Rg6+ 36. Kh3 Qc8+ 37. Kh4 Qe6 38. Rg2 Qf6+ 39. Kh3 Qxf3+ 40. Rg3 Rxg3+ 41. hxg3 Qh1+ 42. Kg4 Qxe4+ 43. Kh3 Qh1+ 44. Kg4 h5+ 45. Kf5 Qh3+ 46. Kxe5 Qxg3+ 47. Ke6 Qb3+ 48. Ke7 Qxa4 49. Qd5 Qh4+ 50. Kd7 a4 51. Qf5+ Kh6 52. Qe6+ g6 53. Qe5 Qg4+ 54. Kc7 Qc4+ 55. Kb6 h4 56. Ka5 g5 57. Qe8 Kg7 58. Qe7+ Kg6 59. Qe8+ Kf5 60. Qd7+ Qe6 61. Qxa4 Kg6 62. Qd1 g4 63. Qg1 Qa2+ 64. Kb5 Qe2+ 65. Kb6 h3 66. Qb1+ Kg5 67. Qh7 h2 68. Kc7 Qe5+ 69. Kb6 Qd4+ 70. Ka6 Qa1+ 71. Kb6 Qg1+ 72. Ka5 Qe1+ 73. Ka6 Qf1+ 74. Ka7 h1=Q 75. Qg8+ Kh4 76. Qh7+ Kg3 77. Qc7+ Qf4 78. Qc3+ Qhf3 79. Qxf3+ gxf3 80. Kb6 f2 81. Kc6 f1=Q 82. Kd7 Qb5+ 83. Ke6 Qfe5+ 84. Kf7 Qbe8# 0-1

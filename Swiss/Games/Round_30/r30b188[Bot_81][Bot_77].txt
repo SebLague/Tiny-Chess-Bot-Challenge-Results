@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "29"]
+[White "Paroch (by: Bronson)"]
+[Black "OrionChessEngine (by: Maarten Peels)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a3 e5 2. a4 Nc6 3. e3 a6 4. c3 Nh6 5. b3 d5 6. f3 b6 7. g3 Nf5 8. g4 Qh4+ 9. Ke2 Ng3+ 10. hxg3 Qxh1 11. g5 Qxg1 12. e4 dxe4 13. fxe4 Qh2+ 14. Ke1 Qxg3+ 15. Ke2 Bg4# 0-1

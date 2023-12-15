@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "18"]
+[White "The Fisher (by: Unodus)"]
+[Black "More Recursion! (by: Bden)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 e6 2. c3 Qf6 3. Qb3 Ke7 4. e4 Qh6 5. Bd3 c6 6. e5 b6 7. Be4 b5 8. Na3 Bb7 9. Nh4 a6 10. d4 Qh5 11. g4 Qh6 12. Qb4+ Ke8 13. Qd6 Bxd6 14. Bxh6 gxh6 15. g5 hxg5 16. Rg1 gxh4 17. d5 cxd5 18. Rg7 dxe4 19. Rxf7 Bxa3 20. Rxd7 Nxd7 21. bxa3 Rc8 22. h3 Bd5 23. Ke2 Rc6 24. Ke1 Nh6 25. c4 bxc4 26. Ke2 c3 27. f3 exf3+ 28. Kd3 Nf7 29. Ke3 c2 30. Kf2 Rc3 31. Kg1 h5 32. Rd1 cxd1=Q+ 33. Kf2 Qe2+ 34. Kg1 Rc1# 0-1

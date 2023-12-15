@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "52"]
+[White "Marvin (by: Kerem Bekmez)"]
+[Black "Some rules bot (by: qumquat)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 Nh6 2. Nf3 f5 3. Nd5 c6 4. Nc3 b6 5. e3 Ng4 6. Bd3 c5 7. Bxf5 Nh6 8. Bd3 d6 9. Bb5+ Kf7 10. e4 g6 11. O-O Bg7 12. Bc4+ Kf8 13. Bd5 Ba6 14. Bxa8 Bxf1 15. Qxf1 Nd7 16. Bd5 a5 17. Be6 Bf6 18. Nd5 a4 19. Qd3 Be5 20. Qe3 b5 21. Qxh6+ Bg7 22. Qf4+ Bf6 23. Bh3 h5 24. c3 c4 25. Nd4 Nc5 26. Nc6 Qe8 27. Nxf6 Qa8 28. Nd7+ Kg8 29. Nxe7+ Kg7 30. Qxd6 Rh7 31. Qf6+ Kh6 32. Qxg6# 1-0

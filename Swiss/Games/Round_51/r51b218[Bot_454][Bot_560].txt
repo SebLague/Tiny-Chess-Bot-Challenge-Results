@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "50"]
+[White "The Mad King (by: Coding With Avaclava)"]
+[Black "MiaKBotv4.4 (by: Mia Kellett)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 Nc6 2. g3 Ne5 3. a3 Nc6 4. Ke2 Ne5 5. b4 Nc4 6. a4 Ne5 7. h3 Nc6 8. Kd3 Nxb4+ 9. Kd4 Nc6+ 10. Kd5 Nf6+ 11. Kc4 d5+ 12. Kc3 Ne4+ 13. Kb2 Nxf2 14. h4 Nxd1+ 15. Kb3 Na5+ 16. Ka3 Qd6+ 17. Ka2 Bd7 18. d4 Bxa4 19. g4 Nf2 20. h5 Nxh1 21. g5 Qh2 22. Kb2 Qxc2+ 23. Ka3 Qb3# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Knockout 64"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "-1"]
+[White "CompressionBot (by: Nathan George)"]
+[Black "Magnuth Carlthen (by: wolfuhfuh)"]
+[Result "0-1"]
+[TimeControl "30+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. c4 c5 3. g3 e6 4. Bg2 Nc6 5. O-O d5 6. cxd5 exd5 7. e3 Be7 8. Nc3 d4 9. Ne2 O-O 10. d3 dxe3 11. Bxe3 Nd5 12. d4 Nxe3 13. fxe3 Bf6 14. dxc5 Bxb2 15. Rb1 Ba3 16. Qxd8 Rxd8 17. Nfd4 Bxc5 18. Bxc6 bxc6 19. Rbc1 Rd5 20. Nf4 Rg5 21. Nd3 Bxd4 22. exd4 Ba6 23. Rf3 Bxd3 24. Rxd3 Rg6 25. Rdd1 Rd6 26. Rd3 a5 27. Rdd1 a4 28. Rd3 g5 29. Rc5 g4 30. Rg5+ Rg6 31. Re5 Rb8 32. Rd1 Rb2 33. a3 Rh6 34. Re8+ Kg7 35. Re4 Kf8 36. Rxg4 Rhxh2 37. Re1 Rbg2+ 38. Kf1 Ra2 39. Kg1 Rhd2 40. Rb1 Rxa3 41. Rb8+ Ke7 42. Rb7+ Ke6 43. Rb1 h5 44. Re1+ Kd6 45. Rg8 Rf3 46. Re5 Rb3 47. Re1 a3 48. Rc1 a2 49. Rf1 Ra3 50. Ra1 Rb2 51. Re8 Rxg3+ 52. Kh1 Rb1+ 53. Re1 Rgb3 54. Rxa2 Rxe1+ 55. Kh2 h4 56. Rf2 Kd5 57. Rxf7 Re2+ 58. Kg1 h3 59. Rf1 Rg2+ 60. Kh1 Rbb2 61. Rf5+ Kc4 62. Rc5+ Kb4 63. Rc1 Rh2+ 64. Kg1 Rbg2+ 65. Kf1 Rh1# 0-1

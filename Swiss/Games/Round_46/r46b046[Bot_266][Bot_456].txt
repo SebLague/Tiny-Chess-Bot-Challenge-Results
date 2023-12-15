@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "45"]
+[White "Game Tech Explained Bot (by: Game Tech Explained)"]
+[Black "HikuBot (by: Hikushii)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 d5 2. Nc3 Nf6 3. Nf3 g6 4. Bf4 c6 5. e3 Bg7 6. Bd3 O-O 7. e4 dxe4 8. Bxe4 Bg4 9. Be3 Qb6 10. Rb1 Nxe4 11. Nxe4 f5 12. Nc5 f4 13. Bc1 Bxf3 14. gxf3 Qa5+ 15. b4 Qxa2 16. Rb3 a5 17. bxa5 Qxa5+ 18. Ke2 b6 19. Bd2 Qa7 20. Ne6 Rf6 21. Nxf4 Nd7 22. Be3 Raf8 23. d5 Rxf4 24. Bxf4 Rxf4 25. dxc6 Ne5 26. Qd8+ Kf7 27. c7 Qa6+ 28. Kd2 Rc4 29. c8=Q Rxc8 30. Qd5+ e6 31. Qe4 Rd8+ 32. Kc1 Nc4 33. c3 Bh6+ 34. f4 Nd2 35. Qb4 Nxb3+ 36. Qxb3 Bxf4+ 37. Kb2 Qe2+ 38. Ka1 Rd2 39. h3 Qa6+ 40. Kb1 Qd3+ 41. Ka1 Qa6+ 42. Kb1 Qe2 43. Ka1 Qd3 44. Re1 Qa6+ 45. Kb1 Qd3+ 46. Ka1 Be5 47. Rxe5 Qf1+ 48. Re1 Qxe1+ 49. Qb1 Qe2 50. Qxg6+ hxg6 51. f3 Rd1# 0-1

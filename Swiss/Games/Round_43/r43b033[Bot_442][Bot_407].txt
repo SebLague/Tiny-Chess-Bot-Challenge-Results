@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "42"]
+[White "Tarch (by: Taras Vuk)"]
+[Black "simple chess bot (by: 4a0I)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 e6 2. Nf3 Bb4+ 3. c3 Bd6 4. e4 Nc6 5. e5 Bf8 6. Bd3 g6 7. Bg5 f6 8. Bh4 Qe7 9. O-O Bh6 10. Re1 a5 11. d5 g5 12. exf6 Nxf6 13. Nxg5 Bxg5 14. Bxg5 Nb8 15. Nd2 Qg7 16. Bxf6 Qxf6 17. Qh5+ Ke7 18. Rad1 h6 19. Ne4 Qf4 20. g3 Rg8 21. Bf1 c6 22. d6+ Kd8 23. Bg2 Qg4 24. Qxh6 Qg7 25. Qh4+ Ke8 26. Nf6+ Kf7 27. Nxg8 Qxg8 28. Qe7+ Kg6 29. Be4+ Kh6 30. Qf6+ Kh5 31. Qh4# 1-0

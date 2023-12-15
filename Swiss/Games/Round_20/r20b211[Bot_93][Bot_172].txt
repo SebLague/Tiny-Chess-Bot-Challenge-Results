@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "19"]
+[White "AIsaac (by: Isaac Ellwood)"]
+[Black "Kaan's Majestic Gentlemen (by: Level 0 Kaan)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 Nf6 2. f4 Ng4 3. e4 Nf6 4. e5 Ne4 5. g4 Ng3 6. Rh3 Ne4 7. d4 f5 8. Qd3 fxg4 9. Rh1 Nf2 10. Kxf2 h6 11. Qg6# 1-0

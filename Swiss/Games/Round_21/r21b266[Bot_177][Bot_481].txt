@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "20"]
+[White "en passant bot (by: julie)"]
+[Black "Just Alright... Kinda... (JAK) (by: Joshnaks)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 a5 2. e3 c5 3. Ne4 a4 4. Bc4 Ra5 5. Qg4 a3 6. Qd1 axb2 7. g3 bxa1=Q 8. d4 cxd4 9. Be2 dxe3 10. Nh3 exf2+ 11. Kd2 Qd4+ 12. Bd3 Qb4+ 13. Nc3 Rxa2 14. Qe2 Ra1 15. Bb5 Qd4+ 16. Bd3 Qb4 17. Qe5 Rxc1 18. Qd4 Qxd4 19. Na2 Rxh1 20. c4 Qb2+ 21. Bc2 Qxa2 22. Kd3 f1=Q+ 23. Kd4 Qxc2 24. Ke3 Qcd3# 0-1

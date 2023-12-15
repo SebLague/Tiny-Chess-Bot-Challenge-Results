@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "15"]
+[White "Planck Bot (by: LadyOfSpades)"]
+[Black "PrayForMeBot (by: João)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 e5 2. Rb1 Bxa3 3. Ra1 Bxb2 4. Rb1 Bxc1 5. Ra1 Bxd2+ 6. Kxd2 f5 7. Kc1 Kf7 8. Kb1 Nc6 9. Kc1 g5 10. Kb1 Ke8 11. Kc1 Kf8 12. Kb1 h5 13. Kc1 Kg7 14. Kb1 Qe7 15. Kc1 Nb8 16. Kb1 Na6 17. Kc1 Kh7 18. Kb1 Qd8 19. Kc1 f4 20. Kb1 f3 21. Kc1 fxe2 22. Kb1 exd1=Q+ 23. Kb2 Qxf1 24. Ka3 Qxg1 25. Kb2 Kg6 26. Ka3 Kf5 27. Kb2 Ke4 28. Ka3 Kd4 29. Kb2 Kc4 30. Ka3 Kc3 31. Ka4 Kxc2 32. Ka3 Kd2 33. Rd1+ Kxd1 34. Kb2 Qxh1 35. Ka1 Kc2# 0-1

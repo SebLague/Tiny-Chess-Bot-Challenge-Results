@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "18"]
+[White "Chessburger Bot (by: )"]
+[Black "CompressionBot (by: Nathan George)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c4 e5 2. Qa4 h6 3. Nf3 e4 4. Ne5 Qg5 5. Qa5 Bd6 6. Nc3 Qxe5 7. Qxe5+ Bxe5 8. Nxe4 Nc6 9. Rb1 Nge7 10. e3 f5 11. Ng3 Bxg3 12. hxg3 O-O 13. Rh5 d5 14. b4 Be6 15. b5 Ne5 16. Ba3 Rfe8 17. cxd5 Bf7 18. Rh4 Bxd5 19. Rc1 N5g6 20. Rh5 c6 21. Bc5 Bxa2 22. Ra1 Bf7 23. Rxa7 Rxa7 24. Bxa7 cxb5 25. Bxb5 Ra8 26. Bd4 Rc8 27. Bc3 Nf4 28. Rh2 Nfd5 29. Bb2 Rc2 30. Ba3 Be6 31. Rh5 Nf6 32. Rh3 Ned5 33. Kd1 Ra2 34. Bc1 Ne4 35. Rh5 Nxf2+ 36. Ke1 Ne4 37. Bf1 Ra1 38. Kd1 Nxg3 39. Be2 Nxh5 40. Bxh5 Nf6 41. Bg6 Bb3+ 42. Ke2 Rxc1 43. Bxf5 Bd5 44. Kf2 Rd1 45. Ke2 Ra1 46. g3 Rg1 47. Kd3 Rxg3 48. Kd4 Bf7 49. Bc8 b5 50. Ba6 Rg4+ 51. Kd3 Bc4+ 52. Kc2 Ne4 53. Bb7 Nc5 54. Bc8 Bd3+ 55. Kb2 Rc4 56. Ka3 b4+ 57. Ka2 Rc2+ 58. Ka1 Nb3+ 59. Kb1 Rxd2# 0-1

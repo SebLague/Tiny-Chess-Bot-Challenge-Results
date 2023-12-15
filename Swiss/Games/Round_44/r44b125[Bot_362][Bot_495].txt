@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "43"]
+[White "nimbot (by: )"]
+[Black "Albertron (by: Vadim and Yazeed)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nh3 e6 2. Ng1 Nf6 3. b3 e5 4. a3 Nc6 5. c3 d5 6. f3 Bc5 7. g3 O-O 8. Nh3 Bxh3 9. Bxh3 Qd6 10. g4 Rad8 11. g5 Ne8 12. b4 Bb6 13. d3 Nf6 14. b5 Bf2+ 15. Kxf2 Qc5+ 16. e3 Qxb5 17. gxf6 gxf6 18. a4 Qa6 19. Ra2 Qb6 20. Rb2 Qa6 21. Rg1+ Kh8 22. d4 b6 23. Bf1 Qb7 24. dxe5 fxe5 25. h3 Qb8 26. Ke2 Qb7 27. Qd3 Rg8 28. Rxg8+ Kxg8 29. f4 exf4 30. exf4 Re8+ 31. Kf3 Rd8 32. Rg2+ Kf8 33. Qxh7 Ke7 34. Re2+ Kd6 35. Qxf7 Nd4+ 36. cxd4 Kc6 37. Re6+ Rd6 38. Qe8# 1-0

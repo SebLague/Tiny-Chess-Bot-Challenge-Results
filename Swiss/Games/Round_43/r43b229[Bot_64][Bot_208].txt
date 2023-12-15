@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "42"]
+[White "offtensive Crane (by: Joao Santos)"]
+[Black "HekMate (by: Maddisch)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g3 d5 2. f3 Qd6 3. g4 Qe5 4. b3 Qxa1 5. Na3 Qxa2 6. Nb5 Qxc2 7. Qxc2 Na6 8. g5 Bd7 9. Na3 e5 10. Nb1 d4 11. e4 dxe3 12. dxe3 Bb4+ 13. Kd1 Be6 14. e4 Rd8+ 15. Ke2 Rd4 16. Ke3 Bxb3 17. Qxb3 Rd7 18. Ke2 Rd2+ 19. Bxd2 Bxd2 20. Kxd2 f6 21. gxf6 Nxf6 22. Qxb7 O-O 23. Bxa6 Rd8+ 24. Kc1 Rd1+ 25. Kxd1 Nxe4 26. fxe4 c5 27. Bc4+ Kf8 28. Qf7# 1-0

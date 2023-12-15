@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "Bob (by: Evan Leach)"]
+[Black "MaterFromRadiatorSprings (by: Markus Grand Petersen)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e6 2. Bc4 Qg5 3. Kf1 Qc5 4. b3 Qe5 5. Nc3 Qd4 6. Nf3 Qd6 7. e5 Qb6 8. d3 Qb4 9. Nb5 Qa5 10. Bd2 Qb6 11. Rc1 d5 12. exd6 cxd6 13. Be3 Qa5 14. b4 Qd8 15. Nxa7 Bd7 16. Rg1 b6 17. Nb5 Ne7 18. Nxd6# 1-0

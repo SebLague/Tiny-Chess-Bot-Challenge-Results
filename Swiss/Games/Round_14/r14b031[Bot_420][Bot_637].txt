@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "13"]
+[White "NostradamusChessNN (by: _Mus)"]
+[Black "MiniMagnus (by: Erik Fast)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 Nc6 6. Nb5 Qd8 7. Bf4 Nd5 8. Bg3 a6 9. Nc3 Nxc3 10. bxc3 Be6 11. Bd3 g6 12. O-O Bh6 13. Be4 O-O 14. d5 f5 15. dxc6 fxe4 16. cxb7 Qxd1 17. Raxd1 Rab8 18. Rfe1 Bf5 19. Rb1 exf3 20. Bxc7 fxg2 21. Bxb8 Rxb8 22. Kxg2 Kf7 23. Rb6 Bd2 24. Rd1 Bxc3 25. Kg1 Be4 26. Rd7 a5 27. a3 Be5 28. c4 Ke8 29. Rd5 Bxd5 30. cxd5 Kd7 31. a4 Kc7 32. Rb5 Rxb7 33. Rxa5 Rb1+ 34. Kg2 Kd6 35. h3 Bc3 36. Ra8 Kxd5 37. a5 Be5 38. a6 Ra1 39. Kf3 Ra3+ 40. Kg2 Ra2 41. Kh1 Ke4 42. Rf8 h5 43. f3+ Ke3 44. a7 Rxa7 45. h4 Kf2 46. Ra8 Rxa8 47. f4 Kg3 48. fxe5 Ra1# 0-1

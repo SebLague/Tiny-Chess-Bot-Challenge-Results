@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "52"]
+[White "StallerBot (by: Ean)"]
+[Black "Butter Bot, the bot with the butter on him (by: siued)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d3 e5 2. Nd2 d5 3. h4 Nc6 4. e4 Nb4 5. Be2 c6 6. a3 dxe4 7. dxe4 Be6 8. Rb1 g6 9. Ra1 Qa5 10. b3 Rd8 11. f3 Bc5 12. axb4 Qxa1 13. bxc5 Qc3 14. Bb2 Qxb2 15. Bd3 Qc3 16. Ne2 Qa5 17. O-O Qxc5+ 18. Kh2 Ke7 19. Nc1 Nf6 20. c4 Rb8 21. g4 Qe3 22. Rg1 Qf2+ 23. Rg2 Qxh4+ 24. Kg1 Nd7 25. b4 a5 26. bxa5 Ra8 27. Ncb3 f5 28. exf5 Bxf5 29. Bf1 Qh6 30. Qc1 Qe3+ 31. Kh2 Qh6+ 32. Kg3 Qf4+ 33. Kf2 Nc5 34. Qa3 b6 35. Qb4 Qh6 36. Kg1 Qe3+ 37. Kh1 Kf7 38. Re2 Qf4 39. axb6 h5 40. gxf5 gxf5 41. Qxc5 Qh4+ 42. Bh3 Rhd8 43. Kh2 Qf4+ 44. Kg1 Rg8+ 45. Bg2 Qh4 46. b7 Rxg2+ 47. Rxg2 Ra1+ 48. Nf1 Rxf1+ 49. Kxf1 Qh1+ 50. Rg1 Qxf3+ 51. Ke1 Qc3+ 52. Ke2 Qc2+ 53. Nd2 Qd3+ 54. Kxd3 e4+ 55. Kc2 Kf6 56. b8=Q Ke6 57. Qxc6+ Ke7 58. Qbc7+ Kf8 59. Qd8+ Kf7 60. Qcf6# 1-0

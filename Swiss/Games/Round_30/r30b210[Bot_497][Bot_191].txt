@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "29"]
+[White "Garbage Bot (by: Big Nerd)"]
+[Black "Igris (by: Deathfile78)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f3 Nc6 2. b3 e5 3. Nh3 Qh4+ 4. Nf2 Bc5 5. e3 Nf6 6. g3 Qb4 7. Nh3 Bxe3 8. g4 d5 9. Be2 Qd4 10. c3 Bxd2+ 11. Bxd2 Qc5 12. a3 a6 13. Kf1 h6 14. b4 Qb6 15. Ke1 a5 16. c4 dxc4 17. Bxc4 axb4 18. Ba2 bxa3 19. Nc3 Ke7 20. Ke2 Qb2 21. Nd5+ Nxd5 22. Bxd5 Nd4+ 23. Kf1 Qb5+ 24. Kf2 Qxd5 25. Bb4+ Kd7 26. Rc1 a2 27. Ra1 Re8 28. Qg1 Qxf3+ 29. Ke1 Qe2# 0-1

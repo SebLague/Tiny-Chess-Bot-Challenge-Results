@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "23"]
+[White "CrimesAgainstDotNet (by: Reckoner (Robyn))"]
+[Black "Sir Checkmates-A-Lot (by: Felix)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d6 2. Nc3 Be6 3. Nf3 Bg4 4. h3 Bc8 5. d4 Be6 6. Ng5 Bd7 7. Qf3 f6 8. Bc4 fxg5 9. Qf7# 1-0

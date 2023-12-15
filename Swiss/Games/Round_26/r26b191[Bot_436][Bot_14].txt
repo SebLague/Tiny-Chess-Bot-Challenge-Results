@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "25"]
+[White "King Shuffler (by: Team Thursday)"]
+[Black "simpleval (portmonteau of simple eval) (by: hokurou)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d3 h5 2. e3 h4 3. Ke2 g5 4. a3 f5 5. Qd2 e5 6. Qc3 d5 7. Qxe5+ Kd7 8. Qxh8 Ne7 9. Nf3 g4 10. Ne5+ Kd6 11. Nf7+ Kc5 12. d4+ Kc4 13. Kd1# 1-0

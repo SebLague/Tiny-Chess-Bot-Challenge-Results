@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "19"]
+[White "RP Bot (by: Matt Enad (RobProductions))"]
+[Black "Depth2 (by: David Montealegre)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 e6 2. e4 Bd6 3. e5 Bf8 4. Nf3 Nc6 5. c3 Nge7 6. c4 Nf5 7. Kd2 g6 8. Ke1 Nce7 9. g4 Ng7 10. Bg5 f6 11. Bxf6 h6 12. Nc3 c6 13. Ne4 d6 14. Nxd6+ Kd7 15. Ke2 b6 16. Nf7 Qc7 17. Nxh8 Ne8 18. Bh4 g5 19. Bg3 Ng8 20. Kd2 Ne7 21. Kc1 Ng7 22. Kb1 Ne8 23. Kc2 Ng8 24. Kc1 Ne7 25. Kd2 Nd6 26. exd6 Kd8 27. dxc7+ Kd7 28. Ne5+ Kxc7 29. Neg6+ Kd8 30. Nxf8 Ba6 31. Nxe6+ Kc8 32. Nc7 Kb8 33. f3 Bb5 34. Nxa8+ Kxa8 35. cxb5 cxb5 36. Bxb5 a5 37. Kc3 Nc8 38. Kb3 Ne7 39. Ka4 Nd5 40. Bc6+ Ka7 41. Bxd5 Ka6 42. Rb1 b5+ 43. Ka3 a4 44. Nf7 Ka5 45. Ra1 b4# 0-1

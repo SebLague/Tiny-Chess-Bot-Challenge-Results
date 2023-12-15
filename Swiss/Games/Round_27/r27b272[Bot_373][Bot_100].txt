@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "26"]
+[White "One step at a time except sometimes (by: Parborway)"]
+[Black "PrayForMeBot (by: João)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f3 e5 2. c3 g6 3. h3 Qh4+ 4. g3 Qxg3# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "53"]
+[White "KU_AI_BOT (by: Daniel Johnson)"]
+[Black "Chessburger Bot (by: )"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 c6 2. Qf3 Qa5 3. Be2 Nf6 4. Qe3 Qa4 5. b3 Qxe4 6. Qxe4 Nxe4 7. Nc3 Nf6 8. Ba3 e5 9. Bxf8 Rxf8 10. Nf3 d6 11. Ng5 Na6 12. Nce4 Nb4 13. Nxd6+ Kd7 14. Ngxf7 Nxc2+ 15. Kd1 Nxa1 16. d4 exd4 17. Re1 Kc7 18. Nxc8 Rxf7 19. Kd2 Ne4+ 20. Kc1 Rxf2 21. Bd1 Nc3 22. Re7+ Kd8 23. Rxg7 Nxa2+ 24. Kb1 Nc3+ 25. Kc1 Rxc8 26. Rxh7 Rf1 27. b4 Rxd1+ 28. Kb2 Rb1+ 29. Ka3 Rb3# 0-1

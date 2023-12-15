@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "40"]
+[White "Chessburger Bot (by: )"]
+[Black "ImpossiBot (by: StefanDeSterke)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c4 d5 2. Qa4+ c6 3. Na3 dxc4 4. Qxc4 f5 5. d4 e5 6. dxe5 Bxa3 7. bxa3 Qa5+ 8. Qb4 Qxe5 9. Bb2 Qc7 10. O-O-O Be6 11. Qd6 Qxd6 12. Rxd6 Bc4 13. Bxg7 Nf6 14. Bxh8 Ne4 15. Rd4 Nxf2 16. Rxc4 Nxh1 17. Rh4 Nd7 18. Rxh7 Rd8 19. g3 Nc5 20. Bg7 Nf2 21. Rh8+ Kd7 22. Bf8 Ne6 23. Nh3 Nxh3 24. Bxh3 Rxf8 25. Rxf8 Nxf8 26. Bxf5+ Kd6 27. a4 Kc5 28. e4 Kb4 29. Bc8 b6 30. Bb7 c5 31. Bc6 Ka3 32. Kb1 Ne6 33. Bd7 Ng5 34. Bf5 Nf3 35. h4 Kxa4 36. Bh7 Ka3 37. h5 Nd2+ 38. Ka1 Nf1 39. g4 Nd2 40. e5 Nc4 41. e6 Ka4 42. e7 Nd6 43. Bg6 Ka3 44. Kb1 c4 45. g5 Ka4 46. e8=Q+ Nxe8 47. Bxe8+ Ka3 48. Bf7 Ka4 49. Bxc4 Ka3 50. Kc2 b5 51. Bxb5 a6 52. Bxa6 Ka4 53. Bc4 Ka3 54. Kc3 Ka4 55. g6 Ka3 56. g7 Ka4 57. g8=Q Ka3 58. Qa8# 1-0

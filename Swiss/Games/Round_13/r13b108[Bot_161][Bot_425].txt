@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "12"]
+[White "bLouBot (by: cmdrsigsegv)"]
+[Black "200 Tokens Monstrosity (by: ErwanF)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 e6 2. Bf4 Bb4+ 3. Bd2 Bxd2+ 4. Nxd2 Qh4 5. e3 Nc6 6. Bb5 Qg5 7. Bxc6 bxc6 8. g4 Rb8 9. h4 Qd5 10. Qf3 Rxb2 11. Qxd5 cxd5 12. c3 Nf6 13. g5 Ne4 14. Nxe4 dxe4 15. a4 Ba6 16. f4 exf3 17. Nxf3 Re2+ 18. Kd1 Rxe3 19. Nh2 Rxc3 20. Ng4 Rd3+ 21. Kc2 Rxd4 22. Ne5 d6 23. Nf3 Rc4+ 24. Kb3 Kd7 25. Rhe1 Rb8+ 26. Ka2 Rxa4# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "10"]
+[White "HopeBot (by: Chinmay Krishna)"]
+[Black "Big Carl (by: Nathaniel D)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 d5 2. Qh5 g6 3. Bb5+ c6 4. Bxc6+ Nxc6 5. Qg5 h6 6. Qh4 a5 7. Nc3 Be6 8. b4 g5 9. Qh5 Nf6 10. Qf3 Bg7 11. bxa5 Rxa5 12. Rb1 h5 13. Rxb7 Rh6 14. Kd1 Bd7 15. Nxd5 Rxd5 16. Bb2 Rd6 17. Qxc6 Bxc6 18. e4 Bxb7 19. Bxf6 Rdxf6 20. Nf3 Bxe4 21. Re1 Bxf3+ 22. gxf3 Rxf3 23. Re6 fxe6 24. c3 Rxf2 25. Kc2 Rxh2 26. c4 Qa5 27. c5 Qxc5+ 28. Kb3 Rxd2 29. Ka4 Rxa2+ 30. Kb3 Ra3# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "15"]
+[White "Smiley (by: Orniflyer)"]
+[Black "PracticeBot (by: liamkc)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 b6 2. Nh3 Bb7 3. d3 Bxg2 4. e3 Bxh1 5. c4 Qc8 6. f4 Bc6 7. Rb1 g5 8. Ra1 gxf4 9. Rb1 fxe3 10. Ra1 Qa6 11. Rb1 Qxa3 12. Ra1 Qxa2 13. Rb1 Qxb1 14. Qa4 Bxa4 15. Bg2 Qxc1+ 16. Ke2 Qxb2+ 17. Ke1 Qxg2 18. Nf4 Qf2# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "30"]
+[White "Corrosiver (by: )"]
+[Black "DeltaWeakness (by: Johan Zetterlund)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 d5 2. Nc3 Bf5 3. Nf3 e6 4. Bf4 Nf6 5. Nb5 Bd6 6. Be5 Bxe5 7. dxe5 Ne4 8. Nfd4 O-O 9. Nxf5 exf5 10. Rc1 Re8 11. c4 c6 12. Nd6 Qa5+ 13. Rc3 Nxc3 14. Qd2 Rxe5 15. Qxc3 Qxc3+ 16. bxc3 dxc4 17. Nxc4 Rc5 18. e3 Nd7 19. Be2 Nf6 20. O-O Ne4 21. Bd3 Rd8 22. Nb2 Nxc3 23. a4 Rcd5 24. Bc4 Rd2 25. Rc1 Rxb2 26. Rxc3 Rd1+ 27. Bf1 Rbb1 28. g3 Rxf1+ 29. Kg2 g5 30. h4 g4 31. Rc5 h6 32. Rxf5 Rg1+ 33. Kh2 Rh1+ 34. Kg2 Rbg1# 0-1

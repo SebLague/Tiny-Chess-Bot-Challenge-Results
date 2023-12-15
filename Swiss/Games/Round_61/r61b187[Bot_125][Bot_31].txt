@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "60"]
+[White "BaddieBot (by: Domic)"]
+[Black "CyberPawn (by: PotatosDispenser)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 Nc6 2. c3 Nf6 3. f3 d5 4. g3 e5 5. d3 Be6 6. Bg2 Bc5 7. Qd2 O-O 8. f4 Ng4 9. Bf3 Bxe3 10. Qxe3 Nxe3 11. Bxe3 Bf5 12. Ke2 e4 13. dxe4 dxe4 14. Bxe4 Bxe4 15. Nf3 Bxf3+ 16. Kxf3 Qd5+ 17. Kf2 Qxh1 18. Bc5 Qxh2+ 19. Kf3 Qxb2 20. Bxf8 Rxf8 21. a3 Qxa1 22. Nd2 Qxc3+ 23. Ke2 Re8+ 24. Kd1 Nd4 25. Nf1 Qc2# 0-1

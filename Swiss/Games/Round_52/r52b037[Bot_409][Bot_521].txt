@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "51"]
+[White "Ben's Bot (by: Ben Clingenpeel)"]
+[Black "LIA Chess (by: Patrick und Jannik)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nc6 2. d5 Ne5 3. Nf3 Nxf3+ 4. exf3 e6 5. Nc3 c6 6. dxe6 dxe6 7. Qxd8+ Kxd8 8. Bf4 Bd7 9. Bd3 Nf6 10. O-O Rc8 11. Rfe1 Be7 12. a4 Re8 13. a5 Bb4 14. Bg5 h6 15. Bxf6+ gxf6 16. Re4 Bxc3 17. bxc3 Kc7 18. Rb1 Re7 19. Rh4 Rh8 20. Rhb4 Bc8 21. Rf4 f5 22. g3 Rd8 23. Rh4 Rh8 24. Kg2 h5 25. g4 fxg4 26. fxg4 Rg8 27. Kf3 hxg4+ 28. Rxg4 Rd8 29. h4 Rd5 30. Ra4 Bd7 31. a6 b5 32. Ra3 Rh5 33. Kg4 Re5 34. h5 f6 35. h6 Rg5+ 36. Kf3 Rh5 37. c4 bxc4 38. Rb7+ Kd6 39. Bf1 Rxh6 40. Rxa7 Rh5 41. Ra8 Kd5 42. a7 Rf5+ 43. Ke2 Re5+ 44. Kd1 Re4 45. Rb8 Rf4 46. Ke1 Re4+ 47. Re3 Rxe3+ 48. fxe3 Ke4 49. a8=Q e5 50. Qa7 Kd5 51. Rd8 Ke6 52. Qc7 c3 53. Bc4+ Kf5 54. Rxd7 Rxd7 55. Qxd7+ Kg5 56. Bd3 c5 57. Qg7+ Kh4 58. Be2 f5 59. Kf2 f4 60. Qh6# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "14"]
+[White "LadyLuckGuidesMyMinMaxSearch (by: MrPelluke)"]
+[Black "InfuehrDaniel MCTS (by: Daniel Infuehr)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f3 Nc6 2. Nh3 e6 3. b4 Qh4+ 4. Nf2 Qf6 5. Nd3 Qxa1 6. a3 Qd4 7. Nb2 Bd6 8. Na4 Qh4+ 9. g3 Qxg3+ 10. hxg3 Bxg3# 0-1

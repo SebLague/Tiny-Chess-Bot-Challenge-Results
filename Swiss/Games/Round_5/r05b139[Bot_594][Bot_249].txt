@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "4"]
+[White "FetaCheese_Bot (by: Dimitris Dallas)"]
+[Black "damlamen (by: Bora)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a4 e5 2. Nc3 Nc6 3. e4 Bc5 4. Bc4 Bxf2+ 5. Kxf2 b5 6. axb5 Nd4 7. Nf3 Nxf3 8. gxf3 Qe7 9. Bd5 Qc5+ 10. d4 exd4 11. Na4 Qxb5 12. Bxa8 c5 13. Bf4 f6 14. Bd6 c4 15. Qxd4 g5 16. Bd5 g4 17. fxg4 Nh6 18. h3 Qa5 19. Qxf6 Nxg4+ 20. hxg4 Qd2+ 21. Kf3 Rf8 22. Qxf8# 1-0

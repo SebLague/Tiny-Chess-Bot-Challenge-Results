@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "9"]
+[White "TinyNoTimeToCodeChessEngine (by: )"]
+[Black "LazyBot (by: Tim de Jong)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a4 d5 2. e3 Qd6 3. Nf3 Bd7 4. Nc3 a6 5. e4 dxe4 6. Nxe4 Qb4 7. Nfg5 Bc6 8. Qg4 e6 9. Nxf7 Qxe4+ 10. Qxe4 Bxe4 11. Nxh8 Bxc2 12. Bc4 Bf5 13. Be2 Nf6 14. b3 Bc5 15. Bb2 Ne4 16. f3 Nf2 17. Rf1 Nd3+ 18. Bxd3 Bxd3 19. Rh1 Nc6 20. Bxg7 Bd4 21. Bxd4 Nxd4 22. Rc1 Bc2 23. b4 Ke7 24. f4 Rxh8 25. a5 c6 26. Kf2 Rf8 27. g3 Bg6 28. Rc3 Nc2 29. Rc4 Bd3 30. Rc3 Be4 31. Rb1 Bg6 32. Rb2 Nd4 33. Rc5 Nb5 34. d3 Rf5 35. Rc1 Rh5 36. Ke1 Bxd3 37. Rd2 Bg6 38. g4 Rh4 39. Rg2 Rh3 40. Rc5 Nd4 41. Kd1 Be4 42. Rd2 Nb3 43. Ra2 Bf3+ 44. Ke1 Nxc5 45. bxc5 Bxg4 46. Rb2 Kf8 47. Rxb7 Rxh2 48. Rb8+ Kg7 49. Rb6 Rh3 50. Rxa6 Re3+ 51. Kd2 Rf3 52. Rxc6 Rxf4 53. Ke3 e5 54. Rc7+ Rf7 55. Rxf7+ Kxf7 56. a6 Bd7 57. Kd2 Bc6 58. Kc1 Kg7 59. Kb2 e4 60. Ka1 e3 61. Kb2 e2 62. Ka2 e1=Q 63. Kb2 Qb4+ 64. Kc1 Qxc5+ 65. Kb1 Qa3 66. Kc2 Qxa6 67. Kc1 Qa2 68. Kd1 Qf2 69. Kc1 Qd4 70. Kb1 Be4+ 71. Kc1 Qc3+ 72. Kd1 Bf3# 0-1

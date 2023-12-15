@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "50"]
+[White "Fishstock (by: Jess Baut & Hans)"]
+[Black "Butter Bot, the bot with the butter on him (by: siued)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d3 e5 2. Nd2 d5 3. b3 Bb4 4. c3 Bd6 5. g3 Nc6 6. Ngf3 Bg4 7. Ng1 e4 8. dxe4 Qf6 9. f4 Qxc3 10. Rb1 Nd4 11. Kf2 Nxe2 12. Ke1 dxe4 13. Nf3 exf3 14. Qxe2+ fxe2 15. Bg2 Bd7 16. Bf3 Qd3 17. Ra1 h5 18. Rg1 h4 19. gxh4 Qc3 20. Rb1 Bxf4 21. Ba3 Qxd2+ 22. Kf2 e1=Q# 0-1

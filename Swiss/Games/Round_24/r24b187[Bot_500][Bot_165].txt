@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "23"]
+[White "WitwerMacher (by: Yannik Bleilinger)"]
+[Black "The Terminator (by: Ryan Murphy)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 Nc6 2. e3 e5 3. Nb1 Nge7 4. Ke2 d5 5. Kd3 Bf5+ 6. Kc3 Ng6 7. Qf3 Be4 8. Qd1 Bb4+ 9. Kb3 d4 10. Qg4 f5 11. Na3 fxg4 12. c3 Bxa3 13. exd4 Bd6 14. dxe5 Ngxe5 15. c4 O-O 16. Kc3 Rxf2 17. Kb3 Rxf1 18. Kc3 Bxg2 19. Kc2 Bxh1 20. Ne2 Bf3 21. Kb1 Be4+ 22. d3 Bxd3# 0-1

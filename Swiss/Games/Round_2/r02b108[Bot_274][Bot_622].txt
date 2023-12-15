@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "BoringBot (by: Carson Bates)"]
+[Black "R2D2 (by: Andrei Taropa)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f3 e5 2. g3 d5 3. d4 Bb4+ 4. c3 Bd6 5. dxe5 Bxe5 6. e4 dxe4 7. Qxd8+ Kxd8 8. fxe4 Bg4 9. Bg5+ Kc8 10. Bh3 Bxh3 11. Nxh3 Nd7 12. Bf4 Ngf6 13. Ng5 Bxf4 14. gxf4 Nxe4 15. Nxf7 Rf8 16. Ng5 Rxf4 17. Nxe4 Rxe4+ 18. Kd1 Nf6 19. Rg1 Ng4 20. Kc1 g6 21. h3 Nf2 22. Nd2 Rh4 23. Rf1 Rf4 24. h4 Kd7 25. Nb3 Raf8 26. Rg1 Rxh4 27. Nc5+ Kc8 28. Kc2 Rf5 29. b4 Ne4 30. Nxe4 Rxe4 31. Rg2 Kd8 32. a4 Re6 33. Rh2 h5 34. Re2 Rxe2+ 35. Kb3 Ke7 36. Kc4 Re4+ 37. Kb3 c5 38. bxc5 Rxc5 39. Rb1 a5 40. Ra1 b5 41. axb5 Rxb5+ 42. Kc2 a4 43. Rxa4 Rxa4 44. Kc1 Ra2 45. c4 Rb8 46. c5 Ke6 47. c6 Rc8 48. Kb1 Rca8 49. c7 Rh2 50. c8=Q+ Rxc8 51. Ka1 Rc1# 0-1

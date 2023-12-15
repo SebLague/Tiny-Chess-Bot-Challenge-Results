@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "17"]
+[White "MiaKBotv4.4 (by: Mia Kellett)"]
+[Black "More Recursion! (by: Bden)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Nc3 h5 2. Nf3 e6 3. Ne4 b5 4. Nd4 b4 5. Nf3 Nh6 6. Nd4 e5 7. Nf3 Ng4 8. h3 d5 9. hxg4 dxe4 10. Nxe5 hxg4 11. Rxh8 Ke7 12. d3 exd3 13. Bg5+ f6 14. Ng6+ Kf7 15. Nf4 fxg5 16. Nh5 dxe2 17. Qxd8 exf1=Q+ 18. Kxf1 Ba6+ 19. Ke1 Be7 20. Qd5+ Kg6 21. Qe4+ Kf7 22. Qd5+ Kg6 23. Qe4+ Kf7 24. Qd5+ 1/2-1/2

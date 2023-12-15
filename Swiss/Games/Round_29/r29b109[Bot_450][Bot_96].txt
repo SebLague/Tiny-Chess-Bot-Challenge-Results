@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "28"]
+[White "Optimus (by: Adt)"]
+[Black "Chess Bot (by: M)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qd5 Bb4+ 5. Kd1 Nf6 6. Qc4 d6 7. Bg5 Be6 8. Qb5 d5 9. e5 h6 10. Bh4 g5 11. exf6 gxh4 12. Qxb7 Bd7 13. Nf3 Rb8 14. Qa6 Rb6 15. Qe2+ Kf8 16. a3 Bd6 17. Nc3 d4 18. Na4 Rb8 19. c3 Be6 20. cxd4 Bb3+ 21. Kc1 Bf4+ 22. Kb1 Nxd4 23. Qe7+ Qxe7 24. fxe7+ Kxe7 25. Nxd4 Bxa4 26. Nf5+ Kf8 27. Nxh4 Be5 28. Ra2 Bb3 29. Ra1 Bd5 30. Kc2 Be4+ 31. Kd2 Bf4+ 32. Kc3 Be5+ 33. Kd2 Bf4+ 34. Kc3 Be5+ 35. Kd2 1/2-1/2

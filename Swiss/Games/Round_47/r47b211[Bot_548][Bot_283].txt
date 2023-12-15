@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "46"]
+[White "PAtATtO (by: Willem Paternotte)"]
+[Black "BasicBot (by: Phnx)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. Qe2 Rg8 3. b4 e5 4. Bb2 Qe7 5. c3 a5 6. Qe3 axb4 7. c4 Qc5 8. Qe2 b5 9. g3 bxc4 10. Bg2 c3 11. dxc3 bxc3 12. Qc2 cxb2 13. Qd2 bxa1=Q 14. Ke2 Rxa2 15. Kf3 Rxd2 16. Nxd2 Qd1+ 17. Ne2 Qc3# 0-1

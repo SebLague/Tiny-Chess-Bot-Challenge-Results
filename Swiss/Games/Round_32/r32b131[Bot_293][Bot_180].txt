@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "31"]
+[White "NinjaBot (by: Jinan Dangor)"]
+[Black "Sørensen's Minimax (by: Victor)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. e3 e6 2. Qg4 Qf6 3. Nf3 Qf5 4. Qxf5 exf5 5. Bc4 Nc6 6. Nc3 Bb4 7. Ng5 Ne5 8. Nxf7 Nxf7 9. Ke2 Nf6 10. Nb5 Bd6 11. h4 Ne5 12. Nxd6+ cxd6 13. Bb5 a6 14. Ba4 b5 15. Bb3 Bb7 16. d3 Bxg2 17. Rg1 Bf3+ 18. Kf1 Nfg4 19. e4 Nh2+ 20. Ke1 fxe4 21. dxe4 Bxe4 22. Rxg7 Nhf3+ 23. Kf1 Rf8 24. Be3 Rc8 25. a4 Bxc2 26. Bxc2 Rxc2 27. axb5 Rxb2 28. bxa6 Nc4 29. Bh6 Nfe5 30. Kg1 Rfxf2 31. Rg8+ Ke7 32. Re1 Kf6 33. Rf8+ Nf7 34. a7 Rg2+ 35. Kh1 Rh2+ 36. Kg1 Rbg2+ 37. Kf1 Rf2+ 38. Kg1 Rfg2+ 39. Kf1 Rf2+ 40. Kg1 Rfg2+ 1/2-1/2

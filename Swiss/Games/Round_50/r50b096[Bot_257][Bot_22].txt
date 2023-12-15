@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "49"]
+[White "MrMeow (by: Loca1Gh0st)"]
+[Black "BigBrainBot (by: Leo)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e5 2. Qg4 h5 3. Qf5 Nc6 4. Bc4 d5 5. Qd3 dxc4 6. Qxc4 Qg5 7. Qd5 Nf6 8. Qf3 Bg4 9. Qg3 Nb4 10. c3 h4 11. Nf3 Nc2+ 12. Kf1 hxg3 13. Nxg5 Nxa1 14. hxg3 Rxh1# 0-1

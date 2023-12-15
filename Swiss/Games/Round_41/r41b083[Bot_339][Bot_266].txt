@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "40"]
+[White "TinyNoTimeToCodeChessEngine (by: )"]
+[Black "Game Tech Explained Bot (by: Game Tech Explained)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a4 e5 2. c4 Nf6 3. Nf3 e4 4. Nd4 Nc6 5. Nxc6 dxc6 6. b3 Bc5 7. e3 Bf5 8. Bb2 O-O 9. Bxf6 Qxf6 10. Ra2 Rad8 11. g4 Be6 12. Bg2 Qh4 13. Bxe4 Bxg4 14. Qc2 Bxe3 15. dxe3 Rd1+ 16. Qxd1 Bxd1 17. Nd2 Bxb3 18. Rb2 Bxa4 19. Ra2 Bb3 20. Rxa7 Bxc4 21. Rxb7 Bb5 22. Rxc7 Re8 23. Bxc6 Rxe3+ 24. Kd1 Qa4+ 25. Kc1 Rc3+ 26. Kb1 Qc2+ 27. Ka1 Ra3# 0-1

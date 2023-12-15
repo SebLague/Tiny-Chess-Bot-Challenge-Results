@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Knockout 32"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "TunaTactician (by: Ben)"]
+[Black "smol.cs (by: Gediminas Masaitis, Goh CJ)"]
+[Result "0-1"]
+[TimeControl "30+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. c4 g6 3. f3 c5 4. d5 Bg7 5. Nc3 d6 6. e4 Nbd7 7. f4 O-O 8. Nf3 a5 9. Bd3 a4 10. O-O a3 11. Qc2 axb2 12. Bxb2 Nb6 13. Rad1 Nh5 14. g3 Bh3 15. Rfe1 Qc8 16. Qf2 Nf6 17. e5 dxe5 18. fxe5 Ng4 19. Qe2 Rd8 20. a3 Nh6 21. e6 fxe6 22. dxe6 Bg4 23. h3 Bd4+ 24. Kh1 Bxh3 25. a4 Bg4 26. a5 Rxa5 27. Qe4 Bf2 28. Rf1 Bxg3 29. Kg2 Bf5 30. Qe2 Bf4 31. Bxf5 Nxf5 32. Bc1 Bxc1 33. Rxd8+ Qxd8 34. Rxc1 Nxc4 35. Kg1 Nce3 36. Qh2 Qd6 37. Qxd6 Nxd6 38. Kf2 Nef5 39. Kg2 Nd4 40. Kf2 Nxe6 41. Re1 Nd4 42. Re5 Nc6 43. Re1 c4 44. Ke3 Ne5 45. Nd4 Nd3 46. Rb1 Nc5 47. Ncb5 Nce4 48. Rc1 Ra2 49. Nxd6 Nxd6 50. Ne2 Ra5 51. Nc3 Kf7 52. Kd4 e6 53. Ke3 h5 54. Rd1 Ke7 55. Rc1 h4 56. Kf4 g5+ 57. Kg4 Ra3 58. Kh5 h3 59. Kg4 h2 60. Nb1 Ra2 61. Kf3 g4+ 62. Kg3 Nf5+ 63. Kxg4 Rg2+ 64. Kh3 Rg1 65. Kxh2 Rxc1 66. Na3 c3 67. Kg2 Ra1 68. Nc2 Ra2 69. Kf1 Rxc2 70. Ke1 Rh2 71. Kf1 c2 72. Kg1 Rd2 73. Kf1 c1=Q# 0-1

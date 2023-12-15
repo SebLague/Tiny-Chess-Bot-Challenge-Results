@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "39"]
+[White "SimplerBot (by: Rick Schaffer)"]
+[Black "LoevBot (by: Loev06)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e5 2. Nf3 Nc6 3. e4 Nf6 4. d4 exd4 5. Nxd4 Nxd4 6. Qxd4 d6 7. Bf4 Be7 8. O-O-O O-O 9. Kb1 Bg4 10. f3 Be6 11. Rg1 Re8 12. g4 Nd7 13. g5 Nf8 14. h4 Ng6 15. Bg3 Rc8 16. Qxa7 b6 17. h5 Ra8 18. Qb7 Nf8 19. Bb5 Rb8 20. Qc6 Bd7 21. Qd5 Ne6 22. Bxd7 Qxd7 23. f4 c6 24. Qd3 Rbd8 25. Rd2 b5 26. Rdg2 b4 27. Na4 d5 28. e5 c5 29. b3 c4 30. Qf3 Nd4 31. Qf2 Nf5 32. c3 bxc3 33. Nxc3 d4 34. Nd1 Rb8 35. Qf3 cxb3 36. axb3 Qe6 37. b4 Nxg3 38. Qxg3 Bxb4 39. Qg4 Qb3+ 40. Nb2 Bc3 41. g6 hxg6 42. hxg6 Bxb2 43. gxf7+ Qxf7 44. Qxg7+ Qxg7 45. Rxg7+ Kh8 46. Rd7 d3 47. Ka2 Rb5 48. Rh1+ Kg8 49. Ra7 Bd4 50. Ra6 d2 51. Rg6+ Kf8 52. Ra6 Reb8 53. Ka3 Rb3+ 54. Ka4 Rb2 55. Rh8+ Kg7 56. Rg6+ Kxh8 57. e6 Ra2# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "39"]
+[White "Turochamp (Modern) (by: P Rivero)"]
+[Black "Ben's Bot (by: Ben Clingenpeel)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 d5 2. e3 Qd6 3. h4 Nf6 4. d4 Bg4 5. Be2 h5 6. Qd3 Nc6 7. Nb5 Qd7 8. a4 O-O-O 9. Nf3 a6 10. Ne5 Nxe5 11. dxe5 Bxe2 12. Qxe2 Ng4 13. Nc3 Nxe5 14. O-O Qg4 15. Qxg4+ hxg4 16. Rd1 Rxh4 17. e4 d4 18. Ne2 Nc6 19. Ng3 Rh8 20. f3 gxf3 21. gxf3 Nb4 22. Bg5 Nxc2 23. Rac1 d3 24. Kg2 g6 25. Rh1 Rxh1 26. Kxh1 Bg7 27. Kg2 Bxb2 28. Rd1 Bf6 29. Bxf6 Ne3+ 30. Kg1 Nxd1 31. Bg5 Nb2 32. Nf1 Nxa4 33. Nd2 Kd7 34. e5 b5 35. Ne4 c5 36. Kf2 a5 37. Bd2 b4 38. Kg2 c4 39. Ng5 c3 40. Bxc3 bxc3 41. Nxf7 c2 42. e6+ Kc7 43. Nxd8 Kxd8 44. f4 c1=Q 45. f5 d2 46. f6 d1=Q 47. fxe7+ Kxe7 48. Kf2 Qg1+ 49. Ke2 Qgf1# 0-1

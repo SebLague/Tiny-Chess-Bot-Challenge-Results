@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "12"]
+[White "Ben's Bot (by: Ben Clingenpeel)"]
+[Black "Scarlet (by: ZTS439)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 d5 2. Qd3 e6 3. Nf3 Nf6 4. Nc3 Nc6 5. Bf4 Bd6 6. Bxd6 cxd6 7. e3 e5 8. dxe5 dxe5 9. Qb5 a6 10. Qc5 e4 11. Nd4 Nxd4 12. exd4 Bg4 13. Be2 Rc8 14. Qb4 Bxe2 15. Kxe2 b5 16. a4 Rc4 17. Qb3 b4 18. Na2 Qd6 19. Rad1 O-O 20. Rd2 a5 21. g3 Qe6 22. h3 e3 23. Qxe3 Ne4 24. b3 Rcc8 25. Kd1 Nxd2 26. Kxd2 Qf5 27. c3 Rfe8 28. Qf4 Qxf4+ 29. gxf4 Re4 30. f3 bxc3+ 31. Nxc3 Rxd4+ 32. Ke3 Rb4 33. Nxd5 Rxb3+ 34. Kf2 Rc4 35. Re1 Kf8 36. Re4 Rxe4 37. fxe4 Rxh3 38. Ne3 Rh2+ 39. Ng2 Rh1 40. Ne1 Ke7 41. Nd3 Ra1 42. Nc5 Kd6 43. Nb7+ Kc7 44. Nc5 h5 45. Ke3 h4 46. Na6+ Kb6 47. Nb8 h3 48. Nd7+ Kc7 49. Nc5 h2 50. Na6+ Kb6 51. Nb8 h1=Q 52. Nd7+ Kc7 53. Ne5 Qg1+ 54. Kd2 Qd1+ 55. Ke3 Ra3+ 56. Nd3 Qxd3+ 57. Kf2 Ra2+ 58. Kg1 Qb1# 0-1

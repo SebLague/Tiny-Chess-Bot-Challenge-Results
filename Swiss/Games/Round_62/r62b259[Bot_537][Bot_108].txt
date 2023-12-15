@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "61"]
+[White "InfuehrDaniel MCTS (by: Daniel Infuehr)"]
+[Black "Matey (by: Conor)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. e3 Nc6 2. Qh5 Nb4 3. Na3 Nc6 4. Nb5 Nb4 5. h3 Nxc2+ 6. Kd1 Nxa1 7. Bd3 Nf6 8. Qc5 Ng8 9. Nxa7 Nf6 10. h4 Ng4 11. Nh3 Nf6 12. Qd4 Nh5 13. Qd5 Rxa7 14. Ng5 Ra4 15. Bb5 Rb4 16. Rh2 Rg4 17. Qxd7+ Qxd7 18. a4 Rb4 19. d4 Rb3 20. Kd2 Rb4 21. Kc3 Nf6 22. Rh3 Nd5+ 23. Kd2 Nb3+ 24. Kd3 Nxc1+ 25. Kd2 Rxb2+ 26. Kd1 Rxf2 27. e4 Rxg2 28. Rf3 Rg1+ 29. Bf1 Qxa4+ 30. Kd2 Qa2+ 31. Kxc1 Qa1+ 32. Kd2 Qa2+ 33. Kd1 Qa1+ 34. Kc2 Qa2+ 35. Kd3 Qa3+ 36. Kd2 Qa2+ 37. Ke1 Qa1+ 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Knockout 32"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "Algernon (by: White Mouse)"]
+[Black "Kinglet (by: Skolin + World + Abyss)"]
+[Result "0-1"]
+[TimeControl "30+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. c3 O-O 6. O-O d5 7. Bxc6 bxc6 8. Nxe5 dxe4 9. d4 Qd5 10. Bf4 Bd6 11. c4 Qe6 12. c5 Nd5 13. Bg3 Bxe5 14. dxe5 Rb8 15. Qd2 Qg6 16. a3 Ba6 17. Rc1 Bd3 18. b4 Rbd8 19. Nc3 Ne7 20. Rd1 Rfe8 21. Rac1 Qf5 22. Qf4 Qe6 23. h3 Ng6 24. Qg4 Qxg4 25. hxg4 Nxe5 26. Nxe4 f6 27. Nc3 Kf7 28. a4 a6 29. Re1 Rb8 30. Re3 Bg6 31. Rce1 Kf8 32. Bxe5 Rxe5 33. Rxe5 fxe5 34. b5 cxb5 35. axb5 axb5 36. Rxe5 b4 37. Na4 b3 38. Nb2 Re8 39. Rxe8+ Kxe8 40. f4 Kd7 41. f5 Be8 42. Kf2 Kc6 43. Nd3 Kd5 44. Ke3 h6 45. Kd2 Kd4 46. Nf4 Kc4 47. Kc1 Kxc5 48. Ne6+ Kb4 49. Kb2 c5 50. Nf4 Ka4 51. Ne6 c4 52. Kc3 Ka3 53. Nd4 Ka2 54. Nf3 b2 55. Nd2 Bf7 56. Kd4 b1=Q 57. Nxb1 Kxb1 58. Kc3 Kc1 59. g5 hxg5 60. g3 g4 61. Kd4 Kb2 62. Ke5 c3 63. f6 c2 64. fxg7 c1=Q 65. Kf6 Qf1+ 66. Ke5 Qf3 67. Kd6 Qf6+ 68. Kd7 Qxg7 69. Kc7 Qe5+ 70. Kc6 Be8+ 71. Kb7 Qg7+ 72. Ka6 Qg6+ 73. Ka7 Qf7+ 74. Kb6 Qe7 75. Ka6 Qf6+ 76. Kb7 Qd6 77. Ka7 Qd7+ 78. Kb8 Qh7 79. Kc8 Bc6 80. Kb8 Qb7# 0-1

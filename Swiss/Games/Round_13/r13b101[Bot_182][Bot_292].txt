@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "12"]
+[White "tybot (by: Tylyr1)"]
+[Black "Oh stupid one (by: Io)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 Nc6 2. c3 d5 3. Qa4 a6 4. Bb5 axb5 5. Qxa8 Ne5 6. Ne2 Nd3+ 7. Kf1 Qd7 8. Na3 e5 9. Nxb5 Ne7 10. Nxc7+ Qxc7 11. b4 Qb6 12. Ba3 Qb5 13. Qa5 Qc4 14. Qa4+ Nc6 15. Qa8 Kd8 16. b5 Qxb5 17. Bxf8 Qb2 18. Rd1 Qc2 19. Bxg7 Qxd1# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Knockout 64"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "-1"]
+[White "timecat-mini (by: Gourab Ghosh)"]
+[Black "Nathe-Bot (by: NatheSpike)"]
+[Result "0-1"]
+[TimeControl "30+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. c4 c5 3. g3 e6 4. Bg2 Nc6 5. O-O d5 6. cxd5 exd5 7. d4 Bd6 8. Nc3 cxd4 9. Nxd4 Be5 10. Nxc6 bxc6 11. Qa4 O-O 12. Qxc6 Be6 13. Bf4 Bxf4 14. gxf4 Rb8 15. Rfb1 d4 16. Ne4 Nd5 17. Qc1 Bf5 18. Qd2 Re8 19. f3 Ne3 20. Qd3 Qb6 21. Bh1 Nc2 22. Qxc2 Bxe4 23. Qxe4 d3+ 24. Kf1 Rxe4 25. fxe4 Qe3 26. exd3 Rc8 27. Bg2 Rc2 28. f5 Qf2# 0-1

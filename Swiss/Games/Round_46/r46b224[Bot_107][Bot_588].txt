@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "45"]
+[White "Crazy? I was crazy once. They Locked me in a room. A rubber room. A rubber room with rats. Rats make me crazy. (by: Big red)"]
+[Black "Mobilibot (by: Gabriel N.)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 e5 2. Rb1 Qh4 3. Ra1 Bb4 4. Rb1 d5 5. Ra1 Bf5 6. Rb1 Nc6 7. Ra1 Kd7 8. Rb1 Nf6 9. Ra1 Ne4 10. Nh3 Bxh3 11. g3 Qg4 12. Rb1 Nd4 13. Ra1 Ke7 14. Rb1 a6 15. Ra1 Qf4 16. f3 Qh6 17. fxe4 dxe4 18. Kf2 Qf6+ 19. Ke1 Bg4 20. Rb1 e3 21. Ra1 Qf2# 0-1

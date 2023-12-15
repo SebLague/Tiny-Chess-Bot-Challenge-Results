@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "12"]
+[White "Phoenix Chess (by: Mat(t)hias)"]
+[Black "Beancounting_pawnpusher (by: Arnt Veenstra)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 c5 2. Nf3 f5 3. e4 g6 4. exf5 gxf5 5. Nh4 e6 6. Qh5+ Ke7 7. Ng6+ hxg6 8. Qxh8 Nf6 9. Bb5 a6 10. Ba4 b5 11. Nxb5 axb5 12. Bxb5 d5 13. O-O Ra5 14. c4 dxc4 15. Bxc4 Qd4 16. d3 e5 17. Bg5 e4 18. dxe4 fxe4 19. Rfd1 Qd7 20. Qxf6+ Ke8 21. Qxg6+ Qf7 22. Qxf7# 1-0

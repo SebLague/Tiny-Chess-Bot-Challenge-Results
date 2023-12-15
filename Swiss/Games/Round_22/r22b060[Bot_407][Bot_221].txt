@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "21"]
+[White "simple chess bot (by: 4a0I)"]
+[Black "Spaghetto (by: Skae (Francesco))"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 Nf6 2. Qf3 d5 3. Bb5+ c6 4. Bd3 Nbd7 5. Qf4 e5 6. Qg5 e4 7. Be2 g6 8. Nc3 Bg7 9. Nh3 b5 10. Nf4 b4 11. Na4 O-O 12. d4 exd3 13. cxd3 Qa5 14. Bd1 h6 15. Qg3 Ba6 16. Ke2 Bb5 17. Nxg6 fxg6 18. Qxg6 Ne5 19. Qg3 Nxd3 20. Qh4 Nxc1+ 21. Ke1 Nd3+ 22. Kf1 Ne4 23. Kg1 Ndxf2 24. Qe7 Nxh1 25. Bg4 Rae8 26. Be6+ Kh8 27. Qd7 Nhf2 28. Bf7 Rd8 29. Qe7 Qxa4 30. Bg6 Nd1 31. Qxd8 Rxd8 32. b3 Qa3 33. Rxd1 Nc3 34. Re1 Qxa2 35. Kh1 Qf2 36. Rg1 Qxe3 37. h3 d4 38. Bf7 Be5 39. Ra1 Qf4 40. Rxa7 Qc1# 0-1

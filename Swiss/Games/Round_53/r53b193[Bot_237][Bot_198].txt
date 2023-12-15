@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "52"]
+[White "DeepDumb (by: OutdoorsyEngineer)"]
+[Black "the (not so) wise bot of (not so great) insight (by: TheUnknown1050)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 d5 2. c3 Nc6 3. e4 dxe4 4. b4 Bg4 5. b5 Ne5 6. Be2 exf3 7. gxf3 Bxf3 8. a3 Bxh1 9. Ra2 Rc8 10. Bg4 Nd3+ 11. Ke2 Nf4+ 12. Ke3 Qd5 13. Bf3 Qe5+ 14. Be4 Qxe4# 0-1

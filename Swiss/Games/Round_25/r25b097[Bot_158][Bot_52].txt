@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "24"]
+[White "Turochamp (Faithful) (by: P Rivero)"]
+[Black "SimpleBearSearch (by: PizzasBear)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. Qf3 dxe4 3. Qxe4 Nd7 4. Nc3 Ngf6 5. Qa4 e5 6. Nf3 e4 7. Nxe4 Nxe4 8. Qxe4+ Qe7 9. Qxe7+ Kxe7 10. d4 Kd8 11. Bd3 Bb4+ 12. Ke2 Nb6 13. Ne5 Be6 14. a3 Bd6 15. Be3 Nd5 16. h4 Kc8 17. Nxf7 Bxf7 18. Bf5+ Kb8 19. g4 Nxe3 20. fxe3 Bg6 21. h5 Bxf5 22. gxf5 Rg8 23. a4 h6 24. a5 a6 25. e4 Bb4 26. c3 Rd8 27. cxb4 Rxd4 28. Kf3 Rxb4 29. Rhg1 Rb3+ 30. Kf4 g5+ 31. hxg6 Rxb2 32. g7 Rc2 33. g8=Q+ Ka7 34. Qd5 Re8 35. Rg6 h5 36. Rag1 h4 37. Kg4 Re2 38. Kf3 R2xe4 39. Qxe4 Rxe4 40. Kxe4 h3 41. R1g3 h2 42. Rh3 h1=Q+ 43. Rxh1 b6 44. axb6+ Kb7 45. Rh7 a5 46. Rxc7+ Ka6 47. Ke3 a4 48. Ra7+ Kb5 49. b7 Kb4 50. b8=Q+ Ka3 51. Qb5 Ka2 52. Rxa4# 1-0

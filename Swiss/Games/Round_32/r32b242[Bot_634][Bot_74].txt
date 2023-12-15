@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "31"]
+[White "AeroBot (by: vakqDev)"]
+[Black "DrunkBot (by: rootNico)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g4 Nh6 2. g5 e5 3. Bh3 a6 4. Nc3 Be7 5. Bg2 Ng8 6. d3 d5 7. Ne4 Bb4+ 8. Nc3 Qd7 9. h4 Nc6 10. Bf1 Nge7 11. Rh2 d4 12. f4 h5 13. a4 Nd5 14. Nf3 Rb8 15. Nd2 dxc3 16. Nc4 Kd8 17. g6 Qe6 18. Ra2 Nxf4 19. Bxf4 f6 20. Ra1 f5 21. Kf2 Bc5+ 22. Ne3 Ba7 23. Qb1 Na5 24. Bg3 Bd4 25. Bf4 cxb2 26. Rg2 Ke8 27. Rh2 Kf8 28. Ra3 Nb3 29. Kg3 exf4+ 30. Kf2 Nc1 31. Kf3 c5 32. Rh1 Kg8 33. c4 Qe8 34. Qa1 Bd7 35. Bg2 Kf8 36. Nd5 Qxg6 37. Rd1 Qg3# 0-1

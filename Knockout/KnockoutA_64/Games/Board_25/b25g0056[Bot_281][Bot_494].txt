@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Knockout 64"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "-1"]
+[White "timecat-mini (by: Gourab Ghosh)"]
+[Black "Nathe-Bot (by: NatheSpike)"]
+[Result "0-1"]
+[TimeControl "30+0.1"]
+[Termination "Checkmate"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 Bb4 5. Bg2 O-O 6. O-O d6 7. Qb3 a5 8. d3 Nd4 9. Nxd4 exd4 10. Nd5 Bc5 11. Bg5 c6 12. Nxf6+ gxf6 13. Bf4 Re8 14. Bf3 a4 15. Qc2 Bf5 16. g4 Be6 17. e3 Qd7 18. Qe2 d5 19. exd4 Bxd4 20. Be3 Bxe3 21. fxe3 d4 22. e4 a3 23. bxa3 Rxa3 24. Rfb1 b5 25. cxb5 cxb5 26. Qb2 Rxd3 27. Be2 Bc4 28. Bxd3 Bxd3 29. h3 Bxb1 30. Rxb1 Qd6 31. Qf2 d3 32. Qe3 d2 33. Rd1 Rd8 34. g5 fxg5 35. Qxg5+ Kf8 36. Kg2 b4 37. e5 Qd4 38. Kf3 Qd3+ 39. Kf2 Rd4 40. Qe3 Qf5+ 41. Kg2 Rd3 42. Qh6+ Kg8 43. Rxd2 Qe4+ 44. Kf1 Qh1+ 45. Ke2 Qf3+ 46. Ke1 Re3+ 47. Qxe3 Qxe3+ 48. Re2 Qxh3 49. Kf2 Kg7 50. Ke1 Qf3 51. Kd1 h5 52. Ke1 h4 53. Kd1 h3 54. Kd2 Qc3+ 55. Kd1 Qa1+ 56. Kc2 Qxa2+ 57. Kd3 b3 58. Re4 Qc2+ 59. Ke3 b2 60. Rg4+ Kf8 61. Rb4 Qc3+ 62. Kf2 Qxb4 63. e6 b1=Q 64. e7+ Qxe7 65. Kg3 Qbe4 66. Kxh3 Kg7 67. Kh2 Q7h4+ 68. Kg1 Qeh1# 0-1

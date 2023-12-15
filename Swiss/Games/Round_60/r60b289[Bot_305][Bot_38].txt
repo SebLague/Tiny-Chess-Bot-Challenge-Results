@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "59"]
+[White "RandomUnoptimisedBot (by: Zhanybek)"]
+[Black "Asymptotically optimal (by: Graham Gayler)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 b6 2. g3 Ba6 3. Rb1 Qc8 4. h4 h5 5. Bh3 Kd8 6. Be6 dxe6 7. b3 Kd7 8. Ra1 f6 9. c3 Kc6 10. c4 Bxc4 11. g4 Kc5 12. Rb1 Bd3 13. Ra1 Qa6 14. Rh3 Kb4 15. g5 fxg5 16. f3 gxh4 17. Rb1 Bxb1 18. Rh2 Qxa3 19. f4 Qxc1 20. Rf2 Qc5 21. f5 Qxf5 22. Nf3 Ka3 23. Qc1+ Kxa2 24. Kd1 Ka1 25. Ke1 Ka2 26. Kd1 Qxf3 27. Ke1 Qxf2+ 28. Kd1 Ka1 29. Qc2 Qxe2+ 30. Kc1 Qf2 31. Qb2# 1-0

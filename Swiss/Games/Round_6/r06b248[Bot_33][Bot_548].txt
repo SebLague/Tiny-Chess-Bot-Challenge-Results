@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "5"]
+[White "BalanceBot (by: vuT)"]
+[Black "PAtATtO (by: Willem Paternotte)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h3 h6 2. h4 Rh7 3. Rh2 a5 4. h5 Rh8 5. Rh1 a4 6. g3 Ra5 7. Rh4 b5 8. f4 Ra6 9. Rh3 d5 10. e4 Rc6 11. Ne2 dxe4 12. Nec3 Qd4 13. Ke2 Bg4+ 14. Ke1 Bxd1 15. Bxb5 Qg1+ 16. Bf1 f5 17. Kxd1 Qxf1# 0-1

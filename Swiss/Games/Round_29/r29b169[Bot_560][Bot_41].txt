@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "28"]
+[White "MiaKBotv4.4 (by: Mia Kellett)"]
+[Black "RichyRoo (by: devrichgg)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 Nc6 2. Nf3 Nf6 3. Rb1 Rb8 4. Ra1 Rg8 5. Rb1 Ra8 6. Ra1 a6 7. Rb1 b5 8. Ra1 d5 9. Rb1 Bg4 10. Ra1 Ne4 11. Rb1 Bxf3 12. gxf3 Nxc3 13. dxc3 Ne5 14. Qd3 Nxd3+ 15. exd3 c5 16. Ra1 e5 17. Rb1 f5 18. Ra1 g5 19. Rb1 h5 20. Ra1 Rc8 21. Rb1 Rc6 22. Ra1 Re6 23. Rb1 Qd6 24. Ra1 Rgg6 25. Rb1 Be7 26. Ra1 f4 27. Rb1 g4 28. Be2 gxf3 29. Bxf3 c4 30. Bxh5 cxd3 31. cxd3 f3 32. Bxf3 b4 33. Ra1 bxc3 34. bxc3 a5 35. Rb1 a4 36. Bd1 a3 37. Ba4+ Kf7 38. Ra1 Rg2 39. Rb1 Qc5 40. Rf1 Qxc3+ 41. Bd2 Qxd3 42. Rb3 Qe4+ 43. Re3 Qxa4 44. Rf3+ Bf6 45. Rh1 Qe4+ 46. Re3 Qb1+ 47. Ke2 Qxh1 48. Rxa3 Qxh2 49. Ra7+ Be7 50. Be1 Qh5+ 51. Ke3 Qh3+ 52. f3 d4+ 53. Ke4 Re2+ 54. Kd3 Rxe1 55. Kd2 Qf1 56. Ra4 Qe2# 0-1

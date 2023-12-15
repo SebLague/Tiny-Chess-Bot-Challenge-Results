@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "12"]
+[White "Average Chess bot (by: )"]
+[Black "whitecap 🌊 (by: Bryn and Josh)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe6+ 4. Nge2 Nf6 5. d4 Qb6 6. a4 Nc6 7. d5 Ng4 8. Ne4 f5 9. h3 fxe4 10. hxg4 Ne5 11. Nc3 Bxg4 12. Qd2 e6 13. a5 Qb4 14. Qg5 Bd6 15. Ra4 Qc5 16. Be3 Be7 17. Qxg7 Nf3+ 18. gxf3 Bf6 19. Qxf6 Qf8 20. Qxf8+ Rxf8 21. fxg4 exd5 22. Nxd5 O-O-O 23. Nc3 b6 24. axb6 axb6 25. Rxh7 Kb7 26. Ba6+ Kc6 27. Rc4+ Kd6 28. Nxe4+ Ke6 29. Rcxc7 Rd1+ 30. Kxd1 Rd8+ 31. Kc1 Re8 32. Rh6+ Kd5 33. Bb7+ Ke5 34. f4# 1-0

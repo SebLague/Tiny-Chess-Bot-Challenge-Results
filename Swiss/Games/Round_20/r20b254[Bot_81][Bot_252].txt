@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "19"]
+[White "Paroch (by: Bronson)"]
+[Black "#enpassant4ever (by: trueberryless)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 b6 2. a4 d6 3. Bb5+ Qd7 4. Bxd7+ Kxd7 5. Qg4+ e6 6. d3 f6 7. f3 d5 8. h4 Ne7 9. g3 h5 10. Qb4 Nec6 11. Qd2 Nb4 12. c3 Nxd3+ 13. Qxd3 a5 14. Qb5+ Nc6 15. f4 d4 16. cxd4 Kd6 17. e4 Nxd4 18. e5+ fxe5 19. fxe5+ Ke7 20. Bg5+ Kf7 21. Qf1+ Ke8 22. g4 hxg4 23. b3 Rxh4 24. Bxh4 Nxb3 25. Qb5+ Bd7 26. Qxb3 Bxa4 27. Qxe6+ Be7 28. Qxe7# 1-0

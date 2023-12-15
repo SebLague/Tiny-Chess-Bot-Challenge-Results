@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "23"]
+[White "BettyBot (by: Thomas / TGhost)"]
+[Black "Wee fella (by: Samm)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 d5 2. c3 e5 3. Qb3 e4 4. Kd1 a5 5. Ke1 c5 6. Kd1 f5 7. Ke1 g5 8. Kd1 h5 9. Ke1 f4 10. Kd1 g4 11. Ke1 h4 12. Kd1 Kf7 13. Qb5 Rh7 14. Kc2 Bd7 15. Qxb7 a4 16. Qxd5+ Ke7 17. Qxe4+ Kd6 18. Qd3+ Ke7 19. Qe4+ Be6 20. Qxh7+ Bg7 21. Qxg7+ Bf7 22. Qxg4 Qd5 23. Qxf4 Bg6+ 24. Kd1 Qe5 25. Qxe5+ Kf7 26. Qd5+ Kg7 27. Qxa8 Bf5 28. Qxb8 Bh7 29. Qa8 Bd3 30. exd3 Kh6 31. Qxg8 c4 32. Nh3 Kh5 33. Qg5# 1-0

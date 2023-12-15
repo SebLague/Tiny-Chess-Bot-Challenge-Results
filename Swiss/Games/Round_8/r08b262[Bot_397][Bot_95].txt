@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "7"]
+[White "TinyLispChessBot (by: tr00)"]
+[Black "Two Day Bot (by: )"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Na3 g5 2. Nb5 d5 3. Rb1 Kd7 4. Ra1 Bg7 5. Rb1 Be5 6. Ra1 e6 7. Rb1 Nh6 8. Ra1 Ng4 9. Rb1 Nxf2 10. Kxf2 Qf6+ 11. Ke1 Ke8 12. d4 Bxh2 13. Rxh2 Kd7 14. Ra1 a6 15. Na3 g4 16. Rb1 Qg6 17. Ra1 Rg8 18. Rb1 h5 19. Ra1 g3 20. Rh1 Qg4 21. Rb1 f5 22. Ra1 b6 23. Rb1 Rd8 24. Ra1 Qg6 25. Rb1 Qh7 26. Ra1 Qg8 27. Rxh5 Qg4 28. Rh3 Kd6 29. Rb1 Kc6 30. Ra1 Kd7 31. Rb1 Rg8 32. Ra1 Rg7 33. Rh8 Bb7 34. Rb1 c5 35. Bh6 Rg6 36. Rh7+ Ke8 37. Rxb7 Rxh6 38. Qc1 f4 39. Rxb6 cxd4 40. Kd1 Nd7 41. Rb3 Kf8 42. Ke1 Nf6 43. Kd1 Qh5 44. Qxf4 Rg6 45. Kc1 Re8 46. Kd1 Re7 47. Qd6 Qh7 48. Ke1 Nh5 49. Kd1 Qh8 50. Rb8+ Kg7 51. Qxe7+ Kh6 52. Qxe6 Rxe6 53. Rxh8+ Kg6 54. Ra8 Ng7 55. Rg8 d3 56. exd3 Rb6 57. Kc1 Kf5 58. Rxg7 Rb8 59. Kd1 Rc8 60. Kc1 Kf6 61. Rxg3 d4 62. Rg4 Rc7 63. Kd1 Rh7 64. Kc1 Rh2 65. Kd1 Rh7 66. Kc1 Rh6 67. Kd1 Rh7 1/2-1/2

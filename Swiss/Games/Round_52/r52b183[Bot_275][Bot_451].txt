@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "51"]
+[White "Simple Minimax (by: Sidewinder7)"]
+[Black "GreGory (by: Kokken)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e6 2. Qh5 g6 3. Qe5 f6 4. Qd4 d5 5. Qa4+ c6 6. Nf3 a6 7. Bxa6 bxa6 8. O-O a5 9. d3 g5 10. Rd1 e5 11. Nxg5 d4 12. h3 fxg5 13. Qb3 a4 14. Qc4 c5 15. Nc3 Nh6 16. Kh1 dxc3 17. b3 a3 18. d4 exd4 19. Rb1 Qd6 20. Bxg5 Ng8 21. e5 Qxe5 22. f4 Qd6 23. Qe2+ Kf7 24. Qe4 Ra5 25. Rd3 h6 26. Be7 Bxe7 27. h4 Bxh4 28. Ra1 h5 29. Rb1 Rb5 30. Ra1 Rb4 31. Rb1 Nf6 32. Qf3 Ng8 33. Qe4 Nd7 34. Qe2 Qxf4 35. Rf3 Ne7 36. Rxf4+ Bf6 37. Qe1 h4 38. Rf3 Ba6 39. Kh2 Ng6 40. Rc1 Nde5 41. Kh1 d3 42. cxd3 Bxd3 43. Rxc3 Be4 44. Rxc5 Bxf3 45. gxf3 Rbb8 46. Qc3 Nf4 47. Rxe5 Nh3 48. Qc4+ Kf8 49. Re6 Nf2+ 50. Kg2 Be7 51. Qf4+ Ke8 52. Qxb8+ Kd7 53. Rxe7+ Kxe7 54. Qxh8 Nd3 55. Qxh4+ Kd6 56. Kh3 Nc1 57. Qh6+ Kc7 58. Qxc1+ Kb7 59. Qc5 Kb8 60. Qc6 Ka7 61. f4 Kb8 62. b4 Ka7 63. Kg3 Kb8 64. Qd7 Ka8 65. b5 Kb8 66. b6 Ka8 67. Qa7# 1-0

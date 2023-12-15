@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "35"]
+[White ":3 (by: Lauri Räsänen)"]
+[Black "MyFirstChessEngine (by: Jake Forsey)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. e4 Nc6 2. Nf3 Nf6 3. e5 Nd5 4. c4 Nf4 5. d4 Nxg2+ 6. Bxg2 e6 7. a3 d5 8. b3 dxc4 9. bxc4 f6 10. Bf4 fxe5 11. Nxe5 Qh4 12. Bg3 Qh6 13. Nxc6 Qg6 14. Ne5 Qf6 15. c5 Kd8 16. Qb3 Ke8 17. Bxb7 Bxb7 18. Qxb7 Rd8 19. Qb5+ Ke7 20. Nc6+ Kf7 21. Be5 Qf3 22. Nxd8+ Kg8 23. Qc6 Qd5 24. Qxe6+ Qxe6 25. Nxe6 Kf7 26. Nxf8 Rxf8 27. Bxc7 Re8+ 28. Kd2 Kf8 29. f4 Ke7 30. d5 Rc8 31. Bd6+ Kf6 32. Nc3 g5 33. Ne4+ Kf7 34. fxg5 Ke8 35. Raf1 Rd8 36. c6 Rxd6 37. Nxd6+ Ke7 38. Nb7 h6 39. gxh6 Ke8 40. Kc1 Ke7 41. Kb1 Ke8 42. Ka1 Ke7 43. Kb1 Ke8 44. Ka1 Ke7 45. Kb1 1/2-1/2

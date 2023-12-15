@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "51"]
+[White "Yangbot V1 (by: Cyang946)"]
+[Black "ConvolutedBot (by: pwahs)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 d5 2. Nf3 Nf6 3. d4 e6 4. Bf4 Bd6 5. Bg5 Nbd7 6. e4 dxe4 7. Nxe4 h6 8. Nxd6+ cxd6 9. Bf4 d5 10. Bd3 g5 11. Bc1 g4 12. Ne5 Nxe5 13. dxe5 Nd7 14. Qxg4 Nxe5 15. Qg7 Nxd3+ 16. cxd3 Ke7 17. Bd2 Qg8 18. Bb4+ Kd7 19. Qf6 a5 20. Qe7+ Kc6 21. Qd6+ Kb5 22. a4# 1-0

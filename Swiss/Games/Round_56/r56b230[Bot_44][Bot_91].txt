@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "55"]
+[White "SimpleBot (by: :LMProgramming)"]
+[Black "The Visionary (by: Hulululu)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 b6 2. Qh5 b5 3. Bxb5 a6 4. Nc3 axb5 5. Qxb5 c6 6. Qf5 c5 7. Qxc5 Ba6 8. Qd5 Ra7 9. a3 d6 10. Qf5 Qc7 11. Nf3 d5 12. Qxd5 e6 13. Ng5 exd5 14. Nxd5 Qc4 15. Rf1 Qxf1# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "30"]
+[White "Max-Max-Bot (by: Tejas)"]
+[Black "CyberPawn (by: PotatosDispenser)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. Qf3 Nc6 3. Bc4 Ne5 4. Bxf7+ Kxf7 5. Qf4 Ng6 6. Qf5 d5 7. Qf3 dxe4 8. Qg3 e6 9. Qg5 Qd5 10. Qg3 Bd6 11. Qc3 Qg5 12. h4 Qxg2 13. Qh3 Qxh3 14. Nxh3 Kg8 15. Ng5 h6 16. h5 hxg5 17. Nc3 Nf4 18. Kd1 e5 19. Rg1 Rxh5 20. d4 exd4 21. Nb5 Bg4+ 22. Rxg4 Rh1+ 23. Kd2 e3+ 24. fxe3 Ne4# 0-1

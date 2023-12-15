@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "56"]
+[White "xXBotXx (by: Nova & Professor Sexy)"]
+[Black "C++IsBetterThanC# (by: Samo)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 a5 2. Nc3 a4 3. e4 c5 4. d4 cxd4 5. Qxd4 Nc6 6. Qd1 e5 7. Bd3 a3 8. Be3 axb2 9. O-O bxa1=N 10. Qxa1 h5 11. Nd5 Bd6 12. Bb5 h4 13. h3 g6 14. Kh1 f5 15. Kg1 fxe4 16. Ne1 g5 17. Kh1 Rb8 18. Kg1 b6 19. Kh1 Rb7 20. Kg1 Rb8 21. Kh2 Nd4 22. Kg1 Nxb5 23. Kh1 Rb7 24. Kg1 Rb8 25. Kh2 Nd4 26. Kg1 Ne2+ 27. Kh1 b5 28. Kh2 Nd4 29. Kg1 Ne2+ 30. Kh1 b4 31. Kh2 Nd4 32. Kg1 Ne2+ 33. Kh1 Bb7 34. Kh2 Bxd5 35. Kh1 Nf4 36. Kg1 Ne2+ 37. Kh2 Nd4 38. Kg1 Ne2+ 39. Kh1 Nf4 40. Kh2 Ne6 41. Kg1 Nf4 42. Kh1 Ne6 43. Kh2 Nd4 44. Kh1 Nf5 45. Kg1 Nxe3 46. fxe3 Bc6 47. Kh1 Bd5 48. Kh2 Bc6 49. Kg1 Bd5 50. Kh1 Bc6 51. Kh2 Bd5 52. Qb1 Bc6 53. Qb3 Bc5 54. Kg1 d5 55. Kh1 d4 56. Qe6+ Ne7 57. Qxe5 Rg8 58. Qxc5 d3 59. Qe5 d2 60. Qe6 d1=Q 61. Kg1 Bd5 62. Qe5 Bc6 63. Kh1 Bd5 64. Kh2 Bc6 65. Qe6 Q1d6+ 66. Kg1 Qxe6 67. Kh1 Qxa2 68. Kg1 Nd5 69. Kh1 Nxe3 70. Kg1 Nxf1 71. Kxf1 e3 72. Ke2 Qd2+ 73. Kf1 Qf2# 0-1

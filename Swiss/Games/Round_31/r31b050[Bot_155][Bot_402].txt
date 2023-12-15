@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "30"]
+[White "CompressionBot (by: Nathan George)"]
+[Black "Lxna (V4) (by: Ludovic Debever (Lxdovic))"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. Nc3 g6 3. e4 Bg7 4. e5 Nh5 5. d4 d6 6. Bb5+ c6 7. Bc4 O-O 8. O-O b5 9. Bb3 Bg4 10. exd6 Qxd6 11. Be3 Nd7 12. Ne4 Qc7 13. h3 Bf5 14. Neg5 Nf4 15. g4 Nxh3+ 16. Nxh3 Bxg4 17. Nhg5 e6 18. Re1 Rae8 19. Qe2 h6 20. Ne4 a5 21. c3 a4 22. Bc2 e5 23. Rad1 exd4 24. cxd4 Nb6 25. Nc5 Nc4 26. Be4 f5 27. Na6 Qc8 28. Bd3 Qxa6 29. Bxc4+ bxc4 30. Rc1 f4 31. Qxc4+ Qxc4 32. Rxc4 fxe3 33. Rxe3 Bxf3 34. Rxa4 Rb8 35. b3 Rf4 36. Rd3 Be4 37. Rc3 Rd8 38. Rcc4 Rdf8 39. Rc3 Rxf2 40. Rc1 Rg2+ 41. Kh1 Rg5+ 42. Kh2 Rf2+ 43. Kh3 Bf5+ 44. Kh4 Rh2# 0-1

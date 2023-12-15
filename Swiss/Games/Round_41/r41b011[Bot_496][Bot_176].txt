@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "40"]
+[White "Ace V1.0.0 (by: Atad)"]
+[Black "Euphoria (by: Andrew Merrill)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Nf3 e6 3. d4 d5 4. e5 Nge7 5. Nc3 Ng6 6. h4 h5 7. Be3 Be7 8. g3 Na5 9. Bd3 c6 10. Ng5 Nc4 11. Nxf7 Kxf7 12. Qf3+ Bf6 13. Bxc4 dxc4 14. Ne4 Qa5+ 15. Bd2 Nxe5 16. dxe5 Qxe5 17. Bc3 Qd5 18. Rd1 Rh6 19. Rg1 Kg8 20. Rxd5 Bxc3+ 21. Rd2 Bxd2+ 22. Nxd2 c3 23. Qxc3 Kh8 24. Qd4 Kh7 25. Qd3+ Kg8 26. Ne4 Rg6 27. Qd8+ Kh7 28. Qe8 b6 29. Ng5+ Rxg5 30. hxg5 Bb7 31. Qxh5+ Kg8 32. g6 Rc8 33. Rh1 Kf8 34. Qh8+ Ke7 35. Qxg7+ Kd6 36. Qd4+ Kc7 37. Qe5+ Kd7 38. Rh7+ Kd8 39. Qh8# 1-0

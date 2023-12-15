@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "24"]
+[White "Thrower (by: EZDragon)"]
+[Black "holcak-bot (by: Petr Holčák)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 g5 2. Qh5 e5 3. Nc3 c5 4. Bb5 a5 5. Nd5 h6 6. Ne2 g4 7. Qxe5+ Ne7 8. Nf6# 1-0

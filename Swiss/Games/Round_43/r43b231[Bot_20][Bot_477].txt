@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "42"]
+[White "Queen's Gam-bot (by: Mateo Saldivar (ZiroDev))"]
+[Black "Thrower (by: EZDragon)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d3 e5 2. Nd2 Qh4 3. g3 Bb4 4. Bg2 d5 5. Bh3 Qg4 6. Kf1 Bxd2 7. e4 Qxd1+ 8. Kg2 Qxc2 9. Bd7+ Bxd7 10. Bxd2 Qxd2 11. g4 Qxd3 12. Ne2 Qxe4+ 13. Kf1 Qxh1+ 14. Ng1 Qxh2 15. Ke1 Qxg1+ 16. Kd2 Qxa1 17. a4 Qxb2+ 18. Kd1 Bxg4+ 19. f3 Bxf3+ 20. Ke1 Qe2# 0-1

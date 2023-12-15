@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "55"]
+[White "MiaKBotv4.4 (by: Mia Kellett)"]
+[Black "Prince of Persia (by: flabbet)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 a5 2. Nf3 Na6 3. Ne4 d5 4. Nc3 Nb4 5. Nd4 c5 6. Nf3 Na6 7. Ne5 d4 8. Ne4 Bf5 9. Ng3 Qd5 10. Nxf5 Nb4 11. a3 Qxe5 12. Ne3 dxe3 13. d4 exf2+ 14. Kxf2 Qf5+ 15. Ke1 Nxc2+ 16. Kd2 Qf4+ 17. Kxc2 Qe4+ 18. Qd3 f5 19. dxc5 Qa4+ 20. b3 Qc6 21. Qxf5 g6 22. Qe5 Qb5 23. e3 Qd7 24. Qxh8 Rc8 25. Qxg8 Qf5+ 26. Kd2 Rd8+ 27. Ke1 Qxc5 28. Qxh7 Qc3+ 29. Ke2 Rd6 30. Rb1 Qc2+ 31. Bd2 Rxd2+ 32. Ke1 Qxb1+ 33. Kxd2 Qb2+ 34. Ke1 Qc1+ 35. Kf2 Qd2+ 36. Be2 g5 37. Rd1 Qb4 38. Qh5# 1-0

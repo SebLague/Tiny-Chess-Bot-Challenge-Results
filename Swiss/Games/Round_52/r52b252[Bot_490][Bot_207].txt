@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "51"]
+[White "Trogdor (by: Zaph)"]
+[Black "StevenBot (by: Steven)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h3 d5 2. h4 d4 3. b3 f5 4. Nf3 f4 5. d3 b5 6. Bxf4 b4 7. h5 a5 8. Nfd2 c5 9. Bxb8 Rxb8 10. Qc1 g5 11. a4 g4 12. Qd1 e5 13. g3 h6 14. c4 Rb7 15. Ra2 Rf7 16. e4 Rf6 17. Rh4 Rf7 18. Qxg4 Bxg4 19. Rxg4 Rb7 20. Rxg8 Rxg8 21. f3 Rxg3 22. Be2 Rg1+ 23. Nf1 Qh4+ 24. Kd2 Qxh5 25. Rc2 Qg5+ 26. Ne3 dxe3# 0-1

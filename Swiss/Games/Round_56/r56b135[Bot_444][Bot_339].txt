@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "55"]
+[White "Super-Centre (by: Lev and Yoaz)"]
+[Black "TinyNoTimeToCodeChessEngine (by: )"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 f5 2. c3 Nf6 3. Nd4 f4 4. d3 e5 5. Nf5 Ng8 6. f3 Qg5 7. g4 Nf6 8. h4 Qg6 9. g5 Nd5 10. Qb3 c6 11. Bh3 h6 12. gxh6 gxh6 13. a4 Na6 14. Qd1 Nc5 15. c4 Nf6 16. b4 Nxd3+ 17. exd3 Bxb4+ 18. Kf1 d5 19. Rg1 Qf7 20. Ng7+ Kd8 21. Bxc8 Rxc8 22. Nf5 Qd7 23. cxd5 Qxf5 24. dxc6 Qh3+ 25. Rg2 Rxc6 26. Ke2 Qxg2# 0-1

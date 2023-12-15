@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "41"]
+[White "BasicBot (by: Phnx)"]
+[Black "Blindo (by: MS)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e5 2. e3 Bb4 3. Nd5 Ba5 4. Qh5 d6 5. Bb5+ Kf8 6. e4 Be6 7. Qf3 Bxd5 8. exd5 Qg5 9. c3 Ne7 10. d4 Qh4 11. b4 Bb6 12. g3 Qe4+ 13. Qxe4 f6 14. Be3 Kf7 15. Nf3 Rd8 16. dxe5 Bxe3 17. e6+ Kg8 18. fxe3 b6 19. Bd3 Kf8 20. O-O Kg8 21. Qxh7+ Kf8 22. Qh8+ Ng8 23. Qh5 g6 24. Qxg6 Rd7 25. exd7 Nxd7 26. Nd4 Ne5 27. Rxf6+ Nxf6 28. Qxf6+ Kg8 29. Ne6 Nf3+ 30. Kh1 Rb8 31. Qg7# 1-0

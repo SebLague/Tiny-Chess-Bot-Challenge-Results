@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "11"]
+[White "jmcgbot (by: jmcg)"]
+[Black "BettyBot (by: Thomas / TGhost)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 c6 2. a4 Qa5+ 3. c3 Qd5 4. b4 Kd8 5. h3 Kc7 6. e3 Kd6 7. Qg4 Qb3 8. Qf4+ Kd5 9. Qe5# 1-0

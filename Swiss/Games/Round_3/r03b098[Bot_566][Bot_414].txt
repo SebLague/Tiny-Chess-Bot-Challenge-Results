@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "LazyBot (by: Tim de Jong)"]
+[Black "Aron's engine (by: Aron Martens)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Na6 2. e4 Nb4 3. a3 Nc6 4. d5 Ne5 5. Qd4 Ng4 6. Nf3 b6 7. h3 N4f6 8. e5 c5 9. dxc6 Nh5 10. Bb5 Rb8 11. e6 fxe6 12. Qe5 dxc6 13. Bxc6+ Bd7 14. Qxh5+ g6 15. Bxd7+ Kxd7 16. Qb5+ Kc8 17. Bf4 Kb7 18. Bxb8 Qxb8 19. Qd7+ Qc7 20. Qxc7+ Kxc7 21. Ng5 Nf6 22. Nxe6+ Kd6 23. Nxf8 Rxf8 24. Nc3 Ke5 25. O-O-O Kf5 26. Kb1 Ra8 27. g4+ Kf4 28. Rhg1 Kf3 29. Rd2 Kf4 30. g5 Ng8 31. Rd3 Ke5 32. Nb5 a6 33. Re3+ Kd5 34. Nc7+ Kc6 35. Nxa8 Kb7 36. Rd1 Kxa8 37. Rd8+ Kb7 38. Rxg8 e5 39. Rxe5 Kc6 40. Re7 h5 41. gxh6 Kd6 42. Rge8 b5 43. h7 Kc5 44. h8=Q Kb6 45. Qe5 Ka5 46. Qc3+ Ka4 47. Qb4# 1-0

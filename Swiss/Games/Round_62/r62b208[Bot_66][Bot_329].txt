@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "61"]
+[White "CapivaraBot (by: Danilo Luiz Rheinheimer)"]
+[Black "Whatevs (by: KingPRS)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 d6 2. f4 Kd7 3. g4 g5 4. fxg5 e5 5. e4 c5 6. c4 b5 7. cxb5 a6 8. bxa6 Ke7 9. d4 f6 10. dxe5 fxe5 11. Qd5 Qb6 12. Qxa8 Bxa6 13. a4 h5 14. gxh6 Nf6 15. g5 Nxe4 16. Qxe4 Bb7 17. a5 Bxe4 18. axb6 Bxh1 19. h5 Nc6 20. b7 Nb8 21. Ba6 d5 22. b3 Kd6 23. Nh3 Bg2 24. Nf2 Be7 25. g6 Bh4 26. h7 Bxf2+ 27. Kxf2 Rf8+ 28. Kxg2 d4 29. g7 Rf2+ 30. Kxf2 e4 31. h8=Q e3+ 32. Kg3 Nxa6 33. g8=Q Nb8 34. Qxb8+ Kc6 35. h6 e2 36. Qf6+ Kd7 37. Qbd8# 1-0

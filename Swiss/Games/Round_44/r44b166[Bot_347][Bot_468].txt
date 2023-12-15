@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "43"]
+[White "GM Manneken pis (by: Broguld)"]
+[Black "ColégramBot (by: Colégram)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 c6 2. d5 Qa5+ 3. Qd2 Qxd2+ 4. Nxd2 cxd5 5. f4 a5 6. Nb3 d6 7. a4 b6 8. h4 Bf5 9. Kd2 Nf6 10. Kd1 Ne4 11. Be3 Nd7 12. h5 O-O-O 13. Kc1 Ng3 14. Bxb6 Nxb6 15. Nd4 Nxh1 16. Nxf5 Kb8 17. g4 g6 18. Bg2 gxf5 19. Bxh1 fxg4 20. c3 Kc8 21. b4 Bh6 22. e3 axb4 23. cxb4 Kd7 24. Kd1 e6 25. a5 Nc4 26. Ke2 Rhe8 27. Rc1 f5 28. a6 Ke7 29. a7 Ra8 30. Rxc4 dxc4 31. Bc6 Rxa7 32. Bxe8 Ra2+ 33. Kf1 Ra1+ 34. Kg2 Kxe8 35. Ne2 d5 36. Nc3 Kd7 37. b5 Bg7 38. Ne2 c3 39. h6 Bh8 40. b6 c2 41. b7 Kc7 42. Nc3 Bxc3 43. e4 dxe4 44. Kg3 Kxb7 45. Kh4 Bf6+ 46. Kg3 c1=Q 47. Kf2 Kc6 48. Kg3 Qg1# 0-1

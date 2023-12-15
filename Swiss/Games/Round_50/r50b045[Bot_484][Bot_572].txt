@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "49"]
+[White "Zui Bot (by: Zui)"]
+[Black "Vast V2 (by: Joseph Pasfield)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. a4 g6 3. Ra2 d5 4. d4 Bg7 5. Nbd2 Nc6 6. c4 Be6 7. e3 Nb4 8. Ra3 O-O 9. cxd5 Bf5 10. e4 Nxe4 11. Nxe4 Bxe4 12. Ke2 Qxd5 13. Be3 c5 14. dxc5 Qc4+ 15. Kd2 Rad8+ 16. Nd4 Rxd4+ 17. Bxd4 Qxd4+ 18. Ke1 Nc2+ 19. Ke2 Qc4+ 20. Kd2 Bh6+ 21. Re3 Rd8+ 22. Bd3 Rxd3+ 23. Kc1 Nxe3+ 24. Qc2 Qxc2# 0-1

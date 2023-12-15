@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "29"]
+[White "Culke (by: Colin Schepers)"]
+[Black "PlinkBot (by: superplink)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nc6 2. d5 Ne5 3. f4 Ng6 4. f5 Nh4 5. e4 c6 6. Bg5 cxd5 7. Bxh4 dxe4 8. Nc3 Nh6 9. Qd5 e3 10. Bb5 a6 11. Bd3 Ng4 12. Qe4 h5 13. Nf3 Qb6 14. Bxe7 Bxe7 15. Qxe7+ Kxe7 16. Nd5+ Ke8 17. Nxb6 Rb8 18. h3 Nf2 19. O-O Nxd3 20. cxd3 Rh6 21. Nxc8 Rxc8 22. Rae1 Kf8 23. Rxe3 Rc2 24. Ne5 Rxb2 25. Ng6+ fxg6 26. fxg6+ Rf2 27. Rxf2+ Kg8 28. Re8# 1-0

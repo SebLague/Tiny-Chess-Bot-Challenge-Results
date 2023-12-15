@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "60"]
+[White "NostradamusChessNN (by: _Mus)"]
+[Black "fuxy (by: nadavfux)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 d6 4. Bb5 a6 5. Bxc6+ bxc6 6. d4 f6 7. O-O a5 8. b3 Ba6 9. Re1 g5 10. Nxg5 fxg5 11. Qh5+ Kd7 12. dxe5 dxe5 13. Qg4+ Ke8 14. Qe6+ Ne7 15. Rd1 Qb8 16. Bxg5 Qb6 17. Rd7 Qc5 18. Rxc7 Bc8 19. Rxc8+ Rxc8 20. Bxe7 Qxe7 21. Qxc8+ Kf7 22. Qxc6 Qc5 23. Qd7+ Be7 24. Nd5 Qd6 25. Qf5+ Ke8 26. Rd1 h5 27. a4 h4 28. Qc8+ Bd8 29. Ne3 Qc7 30. Qe6+ Qe7 31. Qc6+ Kf8 32. Nc4 Rh5 33. Qa8 Ke8 34. Nxa5 Rh6 35. Nb7 Qc7 36. Qxd8+ Qxd8 37. Rxd8+ Ke7 38. Rd5 Rb6 39. Rxe5+ Kf6 40. Rb5 Rxb5 41. axb5 Ke7 42. b6 Kd7 43. Nc5+ Kd6 44. b7 Kc7 45. e5 Kd8 46. b8=Q+ Ke7 47. Qg8 h3 48. Qg7+ Ke8 49. gxh3 Kd8 50. Qd7# 1-0

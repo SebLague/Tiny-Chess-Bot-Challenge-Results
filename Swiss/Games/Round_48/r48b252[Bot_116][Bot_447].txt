@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "47"]
+[White "MirrorBot (by: Jackk)"]
+[Black "DotBot (by: Jonas // dotwalking)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d3 e6 2. e3 b6 3. b3 Bc5 4. Be2 c6 5. c4 Ne7 6. f4 O-O 7. Kf2 h6 8. h3 Bd6 9. Bh5 a5 10. a4 Na6 11. Nc3 Qc7 12. Bxf7+ Rxf7 13. Qe2 Rf5 14. Rb1 Rc5 15. Ra1 Qa7 16. Bb2 Bb8 17. Ba3 Bd6 18. Bxc5 Bxc5 19. Rc1 Bb4 20. Rc2 g6 21. g3 c5 22. Nb5 Qb7 23. Rd2 Qxh1 24. Nc3 Bxc3 25. g4 d6 26. Kg3 Qxg1+ 27. Kh4 Ra7 28. Ra2 Rb7 29. Ra3 Kf7 30. Qe1 Qxe1# 0-1

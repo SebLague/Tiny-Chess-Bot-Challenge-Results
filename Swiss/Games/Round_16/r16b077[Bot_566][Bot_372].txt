@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "15"]
+[White "LazyBot (by: Tim de Jong)"]
+[Black "CrimesAgainstDotNet (by: Reckoner (Robyn))"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 e6 2. Qd3 Nc6 3. d5 Nb4 4. Qb3 Nxd5 5. e4 Ndf6 6. Nc3 h6 7. Nf3 c6 8. Be3 Nh7 9. Bd3 g6 10. Bd4 Ngf6 11. O-O Bg7 12. g4 O-O 13. g5 hxg5 14. h4 g4 15. Ng5 Nxe4 16. Bxg7 Nd2 17. Qa4 Kxg7 18. Rfd1 Nxg5 19. hxg5 Nf3+ 20. Kf1 Rh8 21. Kg2 Qxg5 22. Rh1 Rxh1 23. Rxh1 b5 24. Qb4 a5 25. Qd6 Qf6 26. Ne4 Qxb2 27. Qf4 Qe5 28. Qxe5+ Nxe5 29. Nd6 Ba6 30. a3 Rd8 31. Re1 Nc4 32. Bxc4 bxc4 33. Re5 a4 34. Ra5 Bb5 35. Nxb5 cxb5 36. Rxb5 Ra8 37. Kg3 Rh8 38. Kxg4 Rh1 39. Rb4 c3 40. Rc4 f5+ 41. Kg3 Rg1+ 42. Kh2 Rf1 43. Kg2 Rc1 44. Rxc3 d5 45. Rc7+ Kf6 46. Rc3 f4 47. Rc7 g5 48. Rc8 g4 49. c3 Ke5 50. Rg8 f3+ 51. Kh2 Rxc3 52. Rxg4 Rxa3 53. Rg5+ Kf4 54. Rg6 Ra2 55. Rf6+ Kg4 56. Kg1 Re2 57. Rf7 Re1+ 58. Kh2 a3 59. Ra7 Ra1 60. Rg7+ Kh5 61. Rg3 Ra2 62. Rxf3 d4 63. Kg2 Ra1 64. Rh3+ Kg5 65. Rd3 a2 66. Ra3 Kf4 67. Ra7 d3 68. Ra8 d2 69. Rf8+ Ke5 70. f4+ Ke4 71. Re8 Rg1+ 72. Kxg1 d1=Q+ 73. Kh2 Qh5+ 74. Kg2 Qxe8 75. Kg3 a1=Q 76. Kh3 Qg1 77. Kh4 Qh8# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "50"]
+[White "LynchBot (by: Gary Lynch)"]
+[Black "Onion (by: Nathan Woloshyn)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. exd5 Nf6 3. Nc3 Nxd5 4. Nxd5 Qxd5 5. Nf3 Bf5 6. Be2 Nc6 7. d3 O-O-O 8. O-O g6 9. c4 Qd7 10. Ng5 Ne5 11. d4 Qxd4 12. Qxd4 Rxd4 13. Be3 Rd8 14. f4 h6 15. fxe5 hxg5 16. Bxg5 Bg7 17. g4 Be6 18. Bf4 g5 19. Bxg5 Bxe5 20. Rae1 Bxh2+ 21. Kg2 Bd6 22. Be3 Rh2+ 23. Kf3 Rh3+ 24. Ke4 Bd7 25. Bg5 e6 26. Bf3 Rg8 27. Bd2 f5+ 28. gxf5 Bc6+ 29. Kd3 Bxf3 30. Re3 Bg2 31. Rf2 Rh2 32. Kc3 Bg3 33. Rfe2 exf5 34. Re6 Bd6 35. b4 f4 36. c5 Rh3+ 37. Kc2 f3 38. Re8+ Rxe8 39. Rxe8+ Kd7 40. cxd6 Kxe8 41. dxc7 Kd7 42. Be3 Rh2 43. Kd3 Bh3 44. Bxa7 Bf5+ 45. Kc4 Rxa2 46. Be3 f2 47. Bxf2 Rxf2 48. c8=Q+ Kxc8 49. Kd4 Re2 50. Kc5 Kc7 51. b5 Re5+ 52. Kc4 Be6+ 53. Kd4 Rxb5 54. Ke3 Rf5 55. Kd3 Rd5+ 56. Kc3 Rc5+ 57. Kd3 b5 58. Kd4 Kc6 59. Ke4 b4 60. Ke3 b3 61. Kd2 b2 62. Kd1 b1=Q+ 63. Kd2 Qe4 64. Kd1 Bg4+ 65. Kd2 Rc2# 0-1

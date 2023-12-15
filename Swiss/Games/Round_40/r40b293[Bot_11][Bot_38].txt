@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "39"]
+[White "The Soggy Biscuit (by: Brandon Curington)"]
+[Black "Asymptotically optimal (by: Graham Gayler)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Na6 2. Bd3 c5 3. Bc4 Qc7 4. Bxf7+ Kxf7 5. Qh5+ Ke6 6. Qd5+ Kf6 7. Qf5# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "ShallowBot (by: Vaggelis Softsis)"]
+[Black "jebChess (by: jibux)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c3 e6 2. Qa4 Qg5 3. Nf3 Qd5 4. e4 Qc6 5. Qxc6 Nxc6 6. Bc4 Na5 7. Bb5 a6 8. Ba4 b5 9. d4 bxa4 10. Bf4 Nc4 11. Ng5 f6 12. Nxe6 dxe6 13. b3 e5 14. Bg3 axb3 15. axb3 exd4 16. cxd4 Nb2 17. Kf1 Bd6 18. f3 a5 19. Kg1 Be6 20. b4 a4 21. Bxd6 cxd6 22. Nc3 Bc4 23. Ra3 Ne7 24. b5 Rb8 25. Kf2 Bxb5 26. Kg3 Nc4 27. Rha1 Nxa3 28. Rxa3 f5 29. Kf2 Bc6 30. Ra1 fxe4 31. Ke1 e3 32. g4 Bxf3 33. h3 Rb3 34. Ra2 Rxc3 35. Ra1 a3 36. g5 a2 37. Rxa2 Rc1# 0-1

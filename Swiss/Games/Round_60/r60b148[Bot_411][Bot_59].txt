@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "59"]
+[White "StallerBot (by: Ean)"]
+[Black "Generic Chess Bot #1000000 (by: Anthony)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d3 Nc6 2. Bf4 e5 3. h4 exf4 4. d4 Be7 5. Nf3 Nh6 6. Kd2 Ng4 7. Ke1 b5 8. Na3 Rb8 9. Qd3 g5 10. hxg5 f6 11. Qe4 d5 12. Qd3 fxg5 13. Rxh7 Rxh7 14. Qg6+ Rf7 15. Qxf7+ Kxf7 16. Nb1 Qh8 17. Nbd2 Qh1 18. Nxg5+ Bxg5 19. Nf3 Bh6 20. Ng5+ Bxg5 21. f3 Ne3 22. Kd2 Nxf1+ 23. Rxf1 Qxf1 24. c3 Qxg2 25. a3 Kg6 26. b4 Qf1 27. a4 bxa4 28. b5 Rxb5 29. c4 dxc4 30. d5 Bf6 31. dxc6 Qh1 32. e4 Rb2# 0-1

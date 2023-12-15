@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "50"]
+[White "farindk (by: Dirk Farin)"]
+[Black "WhiteTide (by: b.maroti)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 Na6 2. e4 Nb4 3. d4 g6 4. a3 Nc6 5. Bf4 Na5 6. Nd5 Bg7 7. Bxc7 Bxd4 8. Qxd4 f6 9. Bxd8 Kxd8 10. Qa4 e6 11. Qxa5+ b6 12. Nxb6 Rb8 13. Nc4+ Ke7 14. Qxa7 Rb5 15. Nd6 Rxb2 16. Nxc8+ Kf8 17. O-O-O Ra2 18. Rxd7 Ra1+ 19. Kb2 Ne7 20. Nxe7 g5 21. Ng6+ hxg6 22. Qa8# 1-0

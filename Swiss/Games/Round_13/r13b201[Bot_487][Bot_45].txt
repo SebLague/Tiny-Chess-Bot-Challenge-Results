@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "12"]
+[White "Rodders (by: Chipperphilly)"]
+[Black "HopeBot (by: Chinmay Krishna)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nf3 Qf6 3. Bd3 Bc5 4. O-O a5 5. Nc3 Qe6 6. Kh1 a4 7. Nb5 f5 8. Nxc7+ Kf7 9. Ng5+ Kg6 10. Ngxe6 Ra5 11. Nxc5 Rxc5 12. exf5+ Kg5 13. Na8 Nf6 14. Qf3 d6 15. Qg3+ Ng4 16. f3 Rf8 17. Qxg4+ Kf6 18. Qh4+ Kf7 19. Qxh7 Be6 20. Qg6+ Kg8 21. fxe6 Rf4 22. e7 Rxc2 23. e8=Q+ Rf8 24. Be4 Rxe8 25. Qxe8# 1-0

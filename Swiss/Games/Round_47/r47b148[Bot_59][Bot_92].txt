@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "46"]
+[White "Generic Chess Bot #1000000 (by: Anthony)"]
+[Black "TheGriefer (by: evgiz0r)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 a5 2. a3 e6 3. e4 a4 4. Bb5 h6 5. Bxa4 c6 6. g3 b5 7. Bb3 b4 8. Na2 bxa3 9. bxa3 e5 10. Qh5 Qe7 11. Bxf7+ Qxf7 12. Qxe5+ Be7 13. Qc7 Na6 14. Qa5 Nb4 15. Qxa8 Nxc2+ 16. Kd1 Nxa1 17. Qxc8+ Bd8 18. Qb8 d6 19. Qxd6 Ne7 20. Qc5 Qxa2 21. Nh3 O-O 22. d4 Qb3+ 23. Ke1 Nc8 24. Qxc6 Ba5+ 25. Kf1 Qd1+ 26. Kg2 Qf3+ 27. Kg1 Qd1+ 28. Kg2 Qxc1 29. Qe6+ Kh7 30. Rxc1 Na7 31. Rxa1 Bd8 32. Qd7 Kh8 33. Qxa7 Bf6 34. Qc5 Rg8 35. e5 Bd8 36. Nf4 Kh7 37. Ne6 h5 38. Qc2+ Kh8 39. Qg6 Bg5 40. Qxg5 Rd8 41. Qxg7# 1-0

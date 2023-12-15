@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "33"]
+[White "TinyLispChessBot (by: tr00)"]
+[Black "Scared (by: Guillem)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Na3 b6 2. Nb5 a6 3. Na3 Nf6 4. Rb1 Ra7 5. Ra1 c5 6. Rb1 d5 7. Ra1 Qd7 8. Rb1 Nc6 9. Ra1 Nb4 10. Nf3 Qd8 11. Ne5 Nh5 12. c3 Nxa2 13. Nc6 Qd7 14. Nxa7 Bb7 15. Rxa2 g6 16. Qc2 g5 17. Qb3 Bh6 18. Qxb6 Ba8 19. Qb8+ Qd8 20. Qb3 g4 21. Kd1 Rf8 22. Qa4+ Bc6 23. Qxc6+ Qd7 24. Qa8+ Qd8 25. Qc6+ Qd7 26. Qa8+ Qd8 27. Qc6+ 1/2-1/2

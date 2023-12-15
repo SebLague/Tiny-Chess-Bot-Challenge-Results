@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "29"]
+[White "#enpassant4ever (by: trueberryless)"]
+[Black "SFN v 2.0 (by: SFN)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a4 e5 2. a5 b5 3. axb6 Ba3 4. Rxa3 g5 5. Rxa7 cxb6 6. Rxa8 Bb7 7. Rxb8 Nh6 8. Rxd8+ Ke7 9. Rxh8 Ba6 10. Rxh7 d5 11. Rxh6 f5 12. Rxb6 Kf8 13. Rxa6 Ke7 14. e3 Ke8 15. f4 Kd8 16. fxe5 Ke7 17. h3 Ke8 18. g3 g4 19. Qxg4 fxg4 20. hxg4 Kd8 21. Rh7 d4 22. Ra8# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "50"]
+[White "MinimaxAttackerBot5000 (by: ChrisCat123)"]
+[Black "Marvin (by: Kerem Bekmez)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Na3 Nc6 2. Nb5 d6 3. Rb1 Nb4 4. Ra1 c6 5. Na3 Bg4 6. Nf3 Be6 7. Nd4 Qc8 8. c3 Nxa2 9. Nxe6 Nxc1 10. Nxf8 Na2 11. Nxh7 Rxh7 12. Rxa2 Qf5 13. Qb3 Qd7 14. Kd1 Rh6 15. Kc1 Re6 16. Kb1 Qc7 17. Nb5 cxb5 18. Qxb5+ Kf8 19. Ka1 Re5 20. Qb3 Rc5 21. Kb1 f6 22. d4 Rh5 23. g4 Rg5 24. f4 Rxg4 25. Bh3 Rxf4 26. e3 Re4 27. Qd5 Rxe3 28. Qf5 Qc6 29. Rc1 e5 30. Qh7 exd4 31. cxd4 Qd5 32. Ka1 a6 33. Qh8 Qxd4 34. Bf1 Rae8 35. Rb1 Qg4 36. Rc1 R8e5 37. Rb1 Rh5 38. Be2 Qxe2 39. b3 Rxh8 40. Rxe2 Rxe2 41. Rd1 Rexh2 42. Kb1 Ke7 43. Ka1 Rg2 44. Kb1 Rgh2 45. Ka1 Rg2 46. Kb1 Rgh2 1/2-1/2

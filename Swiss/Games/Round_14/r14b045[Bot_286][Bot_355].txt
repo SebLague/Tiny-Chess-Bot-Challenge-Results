@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "13"]
+[White "Headless Chicken (by: Nat)"]
+[Black "Golden_Chess_Requiem (by: Dhruv S)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. d4 exd4 3. Qxd4 Nf6 4. Nf3 Bd6 5. Bb5 Nc6 6. Bxc6 dxc6 7. e5 c5 8. Qf4 Nh5 9. Qe4 O-O 10. exd6 Re8 11. Ne5 cxd6 12. f4 Nf6 13. Qc4 dxe5 14. O-O Qd4+ 15. Qxd4 exd4 16. Bd2 Ne4 17. Ba5 b6 18. Be1 Ba6 19. Rf3 Ng5 20. Bd2 Nxf3+ 21. gxf3 Re2 22. f5 Bc8 23. f6 gxf6 24. a4 Bh3 25. Bf4 Rg2+ 26. Kh1 Rxc2 27. Nd2 Rxb2 28. Rg1+ Kh8 29. Bh6 Rg8 30. Rxg8+ Kxg8 31. Bf4 c4 32. Kg1 c3 33. Ne4 Kg7 34. Nd6 Rg2+ 35. Kh1 Rf2 36. Bh6+ Kg8 37. Be3 dxe3 38. Nxf7 Rf1# 0-1

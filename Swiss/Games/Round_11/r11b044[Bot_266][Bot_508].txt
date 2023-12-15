@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "10"]
+[White "Game Tech Explained Bot (by: Game Tech Explained)"]
+[Black "Plumbo (by: Luca Voros)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. e3 e6 3. Nc3 Be7 4. Bd3 O-O 5. e4 c5 6. e5 Nd5 7. Nxd5 exd5 8. dxc5 Bxc5 9. Qf3 Qb6 10. Qxd5 Bxf2+ 11. Kf1 Nc6 12. Qe4 g6 13. Nf3 Nb4 14. Bh6 Re8 15. a3 Nxd3 16. Qxd3 a5 17. Bf4 Bc5 18. b3 Rd8 19. Bg5 Re8 20. Bf4 Rd8 21. Bc1 d6 22. Bg5 Re8 23. Bf4 dxe5 24. Nxe5 Qf6 25. Qf3 Rxe5 26. Bxe5 Qxe5 27. c3 Be6 28. Re1 Qc7 29. c4 a4 30. Ra1 axb3 31. Qxb3 Qf4+ 32. Ke1 Qf2+ 33. Kd1 Rd8+ 34. Qd3 Rxd3+ 35. Kc1 Qd2+ 36. Kb1 Rb3# 0-1

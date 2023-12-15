@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "9"]
+[White "BigBrainBot (by: Leo)"]
+[Black "Super-Centre (by: Lev and Yoaz)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e6 2. Bd3 Qg5 3. Kf1 Bc5 4. Bc4 Bd6 5. d4 Qh4 6. Qd3 f6 7. Qf3 f5 8. Nc3 c6 9. Bd2 b5 10. Bxb5 cxb5 11. exf5 Nc6 12. Ne4 Bf4 13. Bxf4 Ba6 14. Bg5 Qxg5 15. Nxg5 O-O-O 16. Nf7 exf5 17. Nxh8 b4+ 18. Ke1 Re8+ 19. Kd1 Nf6 20. Nf7 Ne4 21. d5 Nd4 22. Qf4 Bc4 23. Nd6+ Nxd6 24. Qxd6 Be2+ 25. Nxe2 Nxe2 26. Re1 Re4 27. Rxe2 Rd4+ 28. Ke1 Kd8 29. Qb8# 1-0

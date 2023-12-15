@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "38"]
+[White "Miluva v2 [2550] (by: Möhrchen (Thilo M.))"]
+[Black "Minirose V2.23 (by: Tamplite Siphron Kents)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. d4 d5 3. exd5 Qxd5 4. Nf3 Bg4 5. Nc3 Qf5 6. d5 Nb4 7. Bb5+ c6 8. dxc6 bxc6 9. Bd3 Nxd3+ 10. cxd3 O-O-O 11. Be3 Rxd3 12. Qa4 Bxf3 13. Qa6+ Kd8 14. gxf3 Rxe3+ 15. fxe3 Qxf3 16. Rd1+ Kc7 17. Qa5+ Kc8 18. Rd8+ Kb7 19. Rd7+ Ka8 20. Qxa7# 1-0

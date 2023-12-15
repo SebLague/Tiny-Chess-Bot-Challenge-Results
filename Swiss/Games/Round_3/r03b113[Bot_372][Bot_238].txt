@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "CrimesAgainstDotNet (by: Reckoner (Robyn))"]
+[Black "AUR Chessbot (by: Soul Senshi)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Qf3 Nd4 3. Qc3 Nc6 4. d4 Nb8 5. Qg3 Nc6 6. d5 Nb8 7. Nc3 Na6 8. a3 Rb8 9. Be3 Ra8 10. O-O-O Nb8 11. Nf3 Na6 12. Bd3 Nb8 13. Rhe1 Na6 14. Nh4 Nb8 15. Kb1 Nf6 16. e5 Ng8 17. Nf5 c6 18. Nxg7+ Bxg7 19. Qxg7 cxd5 20. Qxh8 Nc6 21. Qxg8# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "51"]
+[White "Plumbo (by: Luca Voros)"]
+[Black "BuiltCleverBot (by: Scott Ward)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. e3 Nc6 3. Bb5 e6 4. O-O Bd6 5. d4 O-O 6. Nc3 Bb4 7. Bd2 Ne7 8. Qe1 Bxc3 9. Bxc3 d5 10. Ne5 Ne4 11. Rd1 Nf5 12. Bb4 Nfd6 13. f3 Nf6 14. Bd3 Bd7 15. Qc3 Re8 16. Rfe1 Nb5 17. Qb3 Nd6 18. Qa3 Nb5 19. Qb3 Bc6 20. Ba5 a6 21. a4 Nd6 22. Qc3 Bxa4 23. Bxc7 Qe7 24. Qa5 Nf5 25. g4 Nh4 26. Bb6 Bc6 27. Nxc6 bxc6 28. Rf1 Qb7 29. b3 Ng6 30. g5 Nd7 31. Bc7 e5 32. Bf5 Qc8 33. dxe5 Ngxe5 34. f4 Ng6 35. e4 Ne7 36. Bg4 Ra7 37. Bb6 Ra8 38. Rde1 dxe4 39. Rxe4 Nd5 40. Rxe8+ Qxe8 41. Re1 Qc8 42. Bd4 c5 43. Be3 Ra7 44. Bxc5 Qxc5+ 45. Qxc5 Ra8 46. Qxd5 Rd8 47. Bxd7 Kf8 48. Qe5 f6 49. Qe7+ Kg8 50. Be6+ Kh8 51. Qxd8# 1-0

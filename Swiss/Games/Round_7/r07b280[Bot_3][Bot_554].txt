@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "6"]
+[White "Pancake (by: EaglePancake)"]
+[Black "The Fisher (by: Unodus)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a3 Nf6 2. Nc3 e5 3. f4 b6 4. fxe5 Nc6 5. exf6 a6 6. fxg7 Qf6 7. gxf8=Q+ Kxf8 8. Na2 Qf4 9. h4 Qg3# 0-1

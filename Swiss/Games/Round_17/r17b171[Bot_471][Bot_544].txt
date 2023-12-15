@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "16"]
+[White "ABadBot (by: Lucas)"]
+[Black "Saint Charles Bot (by: DATA USP)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. Na3 e6 2. Nb5 Bb4 3. Nh3 a6 4. c3 Bc5 5. b4 Bb6 6. Qa4 Ke7 7. Na3 Nc6 8. b5 Ke8 9. bxc6 dxc6 10. Nb1 e5 11. Qe4 Qf6 12. g4 Be6 13. Qa4 Bxf2+ 14. Nxf2 b5 15. Qa5 Bd5 16. e4 Bxa2 17. Rxa2 Qf3 18. Qxc7 Ne7 19. Rg1 Kf8 20. Rxa6 Re8 21. Be2 Qf4 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "26"]
+[White "Hippo (by: MonteDegro)"]
+[Black "Shadow's Unfinished Bot (by: shadowcage72)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. d4 e6 2. Nf3 Bb4+ 3. c3 Bd6 4. e4 Nc6 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "11"]
+[White "Edbd (by: Ahmad)"]
+[Black "TimsBot (by: Thomas Dvorak)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. h4 h5 2. g4 Rh6 3. gxh5 Re6 4. f4 Rg6 5. hxg6 Nf6 6. gxf7+ Kxf7 7. e4 c5 8. d4 cxd4 0-1

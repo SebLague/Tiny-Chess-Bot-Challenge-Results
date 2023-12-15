@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "20"]
+[White "ChessGPT (by: DeepGoldenCrown)"]
+[Black "Bob (Looser) (by: Flo)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g3 a5 2. d3 g6 3. c4 Na6 4. Qd2 e6 5. Qxa5 Nf6 6. Kd1 c6 7. Qa4 Rg8 8. Ke1 d5 9. Kd1 Ke7 10. Ke1 Ra7 11. Kd1 Qa5 12. Qxa5 Nd7 13. Ke1 h5 14. Kd1 b6 15. Qa4 Ndb8 16. Ke1 b5 17. Qa5 Nc5 18. Qd2 Kd7 19. cxb5 f6 20. Kd1 Ke7 21. bxc6 Kd6 22. Qb4 Ba6 23. Ke1 Ke7 24. Qxb8 Bb5 25. Kd1 Nb3 26. Qxa7+ Kd6 27. axb3 g5 28. Bxg5 Ke5 29. Kc1 Rg7 30. Qa2 Kf5 31. Bxf6 Bc5 32. Bxg7 Ba4 33. Qxa4 Ba7 34. Qxa7 d4 35. Qxd4 h4 36. Qxh4 e5 37. Bxe5 Kxe5 38. e4 Kd6 39. Kd2 Ke5 40. Kc2 Kd4 41. Kc1 Ke5 42. Qd8 Ke6 43. Ra2 Ke5 44. Kd1 Ke6 45. Ra1 Kf7 46. h3 Kg7 47. d4 Kh6 48. Qc7 Kh5 49. Ba6 Kg6 50. Qe5 Kh6 51. Bc4 Kh7 52. b4 Kg6 53. Ke2 Kh7 54. Bf7 Kh6 55. Bb3 Kg6 56. Qd5 Kh7 57. b5 Kg7 58. f4 Kh7 59. Ra5 Kh6 60. Ra3 Kg7 61. g4 Kh6 62. Qd7 Kg6 63. Nf3 Kh6 64. Bc4 Kg6 65. Rd3 Kf6 66. Qf7# 1-0

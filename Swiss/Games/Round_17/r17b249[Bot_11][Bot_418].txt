@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "16"]
+[White "The Soggy Biscuit (by: Brandon Curington)"]
+[Black "Wee fella (by: Samm)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Qf3 d6 3. Qxf7+ Kxf7 4. Bc4+ Ke7 5. Bd5 a5 6. Bc4 c5 7. Bd3 g5 8. f4 exf4 9. Bc4 h5 10. Bd5 b5 11. Be6 Bxe6 12. d4 cxd4 13. e5 dxe5 14. c4 bxc4 15. Be3 dxe3 16. Nc3 g4 17. Nd5+ Qxd5 18. Ke2 Qxg2+ 19. Ke1 Qxh1 20. Ke2 Qxh2+ 21. Ke1 Qxg1+ 22. Ke2 f3# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "19"]
+[White "OrionChessEngine (by: Maarten Peels)"]
+[Black "Saint Charles Bot (by: DATA USP)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Nf3 e6 2. e4 Qf6 3. e5 Qf4 4. a4 Qe4+ 5. Be2 Bb4 6. Kf1 Qg4 7. h3 Qe4 8. d3 Qd5 9. Bd2 Bxd2 10. Qxd2 a5 11. Nc3 Qc5 12. Ne4 Qd5 13. c4 Qc6 14. Ne1 Kf8 15. Qg5 Ne7 16. Nc2 h6 17. Qxe7+ Kxe7 18. Rg1 Kd8 19. b4 axb4 20. a5 b3 21. Nd4 Qa6 22. Nd6 cxd6 23. Rb1 Qxa5 24. g4 Qxe5 25. Nxe6+ Qxe6 26. Rc1 b2 27. c5 bxc1=Q+ 28. Kg2 Qd5+ 29. Kg3 Qxg1+ 30. Kf4 Qc1+ 31. Kg3 Qg1+ 32. Kf4 Qc1+ 33. Kg3 Qg1+ 1/2-1/2

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "4"]
+[White "Toribot (by: Yujan Subedi)"]
+[Black "GOYO Bot v1.1.2 (by: Goyo)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c4 e5 2. e4 Qh4 3. Qf3 Qg5 4. Qf5 Qxf5 5. exf5 e4 6. Nc3 Nc6 7. f4 Nd4 8. Rb1 Nc2+ 9. Kd1 Nd4 10. Nb5 Nxf5 11. Nxc7+ Ke7 12. Nxa8 Nd6 13. b3 f5 14. Ne2 h5 15. Ra1 h4 16. Rg1 Nf6 17. c5 b5 18. cxd6+ Kxd6 19. Nd4 Nd5 20. Nxf5+ Kc6 21. Ke1 Nxf4 22. d3 exd3 23. Bxf4 d2+ 24. Kxd2 Bb4+ 25. Kd3 d5 26. Nxg7 a5 27. Bd2 Bc5 28. Be3 b4 29. Bxc5 Kxc5 30. Kd2 d4 31. Rd1 h3 32. g3 Rd8 33. Nc7 Rd6 34. Rb1 d3 35. Bxd3 Rd4 36. Rgd1 Rd6 37. Nge8 Rd4 38. Ke1 Rg4 39. Kf2 Rd4 40. Kg1 Rg4 41. Be2 Rg5 42. Rd6 Rxg3+ 43. hxg3 h2+ 44. Kxh2 Bf5 45. Rc1+ Bc2 46. Rxc2# 1-0

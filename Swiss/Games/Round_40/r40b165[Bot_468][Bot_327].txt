@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "39"]
+[White "ColégramBot (by: Colégram)"]
+[Black "FunBot (by: Paul Spooner AKA Dudecon)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c3 h6 2. e4 g6 3. a4 c6 4. Qb3 a5 5. g4 c5 6. Bc4 Qc7 7. Bxf7+ Kd8 8. f3 g5 9. Bxg8 e5 10. Qf7 Bd6 11. b4 b6 12. Qf6+ Ke8 13. bxc5 Rxg8 14. cxd6 Qa7 15. Qe7# 1-0

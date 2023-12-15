@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "30"]
+[White "ChessGPT (by: DeepGoldenCrown)"]
+[Black "PixelArtist (sort of) (by: Ludovic Debever (Lxdovic))"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. d3 Rb8 3. b4 Ra8 4. f4 Rb8 5. Bd2 Ra8 6. Qc1 Rb8 7. h4 Ra8 8. Kf2 Rb8 9. c3 Ra8 10. Ke3 Rb8 11. f5 Nf6 12. b5 Nxe4 13. Kxe4 e6 14. bxc6 Qxh4+ 15. Rxh4 Bc5 16. Kf3 f6 17. Ke2 bxc6 18. Kd1 Rxb1 19. Rxb1 a5 20. Ke1 a4 21. Rxa4 h5 22. fxe6 h4 23. Kd1 Rh5 24. Ke1 Ke7 25. Kd1 Kxe6 26. Ke1 Kd5 27. Kd1 Ke5 28. Ke1 Kf5 29. Kd1 Rg5 30. Bxg5 Be3 31. Qxe3 Ba6 32. Rxa6 c5 33. Kc1 Kg4 34. Kd1 Kh5 35. Kc1 c6 36. Kd1 Kg4 37. Kc1 f5 38. Be2# 1-0

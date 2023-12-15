@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "9"]
+[White "SlothBot (by: 0xFF)"]
+[Black "KnightMare (by: Dom)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 f6 2. h3 Nc6 3. d4 e6 4. Nc3 Bd6 5. Nb5 a6 6. Nxd6+ cxd6 7. e4 Nge7 8. Bf4 d5 9. exd5 Nxd5 10. Bd6 Qb6 11. c4 Nce7 12. Bc5 Qxb2 13. cxd5 Nxd5 14. Qc1 Qxc1+ 15. Rxc1 b6 16. Bd6 f5 17. Ne5 Bb7 18. Rg1 b5 19. Rc2 Rd8 20. Rc5 b4 21. g3 Nf6 22. Rc7 Bd5 23. Bxb4 Bxa2 24. Be2 Rb8 25. Bd6 Rb1+ 26. Bd1 Rxd1+ 27. Kxd1 Bb3+ 28. Ke2 Bc4+ 29. Rxc4 Kd8 30. Nf7+ Ke8 31. Nxh8 Kd8 32. Rgc1 Ke8 33. Rc8# 1-0

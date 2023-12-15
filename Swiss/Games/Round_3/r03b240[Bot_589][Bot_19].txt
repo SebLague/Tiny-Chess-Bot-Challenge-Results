@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "Planck Bot (by: LadyOfSpades)"]
+[Black "AttackBot (by: Kai Tabuchi (9 Years Old))"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 b5 2. Rb1 Bb7 3. Ra1 Bxg2 4. Rb1 Bxf1 5. Kxf1 Qc8 6. Ke1 Qb7 7. Kf1 Qxh1 8. Ke1 Qxg1# 0-1

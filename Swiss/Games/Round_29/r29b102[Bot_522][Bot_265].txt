@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "28"]
+[White "Pharouk (by: Pydjama)"]
+[Black "SimpleBot (by: Tim Zollner)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. c4 e6 2. e3 Be7 3. a4 Nf6 4. h4 c6 5. g4 d6 6. b4 Ne4 7. Qf3 d5 8. cxd5 exd5 9. b5 Bxh4 10. bxc6 O-O 11. cxb7 Bxb7 12. Ba3 Nxf2 13. Rxh4 Nd3+ 14. Bxd3 Qxh4+ 15. Kf1 Nd7 16. Bxf8 Nxf8 17. Ne2 Nd7 18. Bf5 Qf6 19. Nbc3 1-0

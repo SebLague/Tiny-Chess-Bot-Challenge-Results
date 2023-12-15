@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "32"]
+[White "UncatchableSpaghettiMonster (by: drlundberg)"]
+[Black "GoodBot (by: Fiera42)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c4 b5 2. cxb5 Ba6 3. Na3 Nc6 4. bxa6 Qc8 5. Rb1 Qb7 6. axb7 d5 7. Nc2 Nb4 8. bxa8=Q+ Kd7 9. Nxb4 c6 10. Na6 c5 11. a4 Ke6 12. Qe8 c4 13. f3 c3 14. bxc3 d4 15. Qc6+ Kf5 16. g4+ Kf4 17. Qc7+ e5 18. Nh3# 1-0

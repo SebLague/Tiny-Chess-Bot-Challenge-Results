@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "27"]
+[White "AUR Chessbot (by: Soul Senshi)"]
+[Black "MobiBot 4.2 (by: Michael)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 c6 2. Nf3 Qa5 3. Rg1 d6 4. h3 Nf6 5. Rh1 g6 6. Rg1 Bh6 7. Rh1 Qb4 8. a3 Qa5 9. b4 Qb6 10. Na4 Qb5 11. Nc3 Qc4 12. e3 Qe6 13. Rb1 Bf4 14. Be2 Bh6 15. Kf1 Qf5 16. Bd3 Qe6 17. Be2 Ng8 18. Ne1 Bg7 19. d4 Nh6 20. e4 Ng8 21. Kg1 f5 22. f3 Qf7 23. Kh2 Nd7 24. Kg1 h5 25. Kh2 h4 26. Kg1 b6 27. Kh2 Bb7 28. Kg1 Bf8 29. Kf1 Bg7 30. Kg1 fxe4 31. fxe4 Bh6 32. Bxh6 Nxh6 33. g3 hxg3 34. Kg2 Qf2# 0-1

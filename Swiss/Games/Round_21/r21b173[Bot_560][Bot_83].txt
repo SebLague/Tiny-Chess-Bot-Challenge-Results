@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "20"]
+[White "MiaKBotv4.4 (by: Mia Kellett)"]
+[Black "Trixie (by: ts-manuel)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 Na6 2. Nf3 Nb4 3. Ne4 Rb8 4. Nd4 Ra8 5. Nf3 c6 6. Nd4 Rb8 7. Nf3 Ra8 8. Ne5 Nh6 9. Nc3 Rb8 10. Ne4 Ra8 11. Nc5 Qa5 12. Ncd3 Nxa2 13. Nc4 Qa4 14. Ne3 Kd8 15. Nc5 Qa5 16. b4 Qxb4 17. Nd3 Qa5 18. Nc4 Qa4 19. Nde5 Kc7 20. Ba3 Nb4 21. c3 Nc2+ 22. Qxc2 Qxc2 23. Bb4 Kb8 24. Ne3 Qb2 25. N3c4 Qxa1# 0-1

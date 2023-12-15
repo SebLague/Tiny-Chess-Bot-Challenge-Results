@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "6"]
+[White "Beancounting_pawnpusher (by: Arnt Veenstra)"]
+[Black "simple chess bot (by: 4a0I)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. e4 e5 2. d4 Qh4 3. dxe5 Qxe4+ 4. Qe2 Bb4+ 5. c3 Qxe2+ 6. Nxe2 Bc5 7. b4 Bb6 8. a4 a5 9. bxa5 Rxa5 10. f4 d6 11. Nd2 Be6 12. exd6 cxd6 13. Nd4 Bxd4 14. cxd4 Bd7 15. Nc4 Rd5 16. Bb2 Nf6 17. Nb6 Rf5 18. Nxd7 Nbxd7 19. g3 Kd8 20. h4 Re8+ 21. Kd1 Ne4 22. Rg1 Nf2+ 23. Kc2 Ng4 24. Bd3 Ra5 25. Bxh7 g6 26. Rge1 Rxe1 27. Rxe1 Ndf6 28. Bc3 Rxa4 29. Bxg6 fxg6 30. Rb1 Kc7 31. Rb4 Ne3+ 32. Kb3 Rxb4+ 33. Bxb4 b6 34. Kc3 Ned5+ 35. Kc4 Nxb4 36. Kxb4 Nd5+ 37. Kc4 Kc6 38. Kd3 Kb5 39. Ke4 Nf6+ 40. Kd3 Nh5 41. g4 Nxf4+ 42. Ke4 Ng2 43. h5 d5+ 44. Kf3 Nh4+ 45. Kf4 gxh5 46. gxh5 Kc4 47. h6 Ng6+ 48. Kg5 Nf8 49. Kf6 Kd3 50. Kf7 Nh7 51. Kg6 Nf8+ 52. Kf7 Nh7 53. Kg6 Nf8+ 54. Kf7 1/2-1/2

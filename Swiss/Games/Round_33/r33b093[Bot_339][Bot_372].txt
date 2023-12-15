@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "32"]
+[White "TinyNoTimeToCodeChessEngine (by: )"]
+[Black "CrimesAgainstDotNet (by: Reckoner (Robyn))"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a4 e5 2. c4 Qh4 3. b3 Nf6 4. Nf3 Qg4 5. Nc3 Bc5 6. Nb5 Ne4 7. e3 Na6 8. Qc2 d6 9. h3 Qf5 10. Bd3 Nb4 11. Qb1 Nxd3+ 12. Qxd3 Kd8 13. Ba3 Bd7 14. b4 Bb6 15. a5 c6 16. axb6 cxb5 17. bxa7 bxc4 18. Qxc4 Rxa7 19. d3 Ng5 20. Nxg5 Qxg5 21. Qd5 Bc6 22. Qxd6+ Kc8 23. Rg1 Rd8 24. Qc5 Kb8 25. b5 b6 26. Qxc6 Qg6 27. Bd6+ Qxd6 28. Rxa7 Kxa7 29. Qc3 Kb8 30. Qb2 Qf6 31. e4 Rxd3 32. Ke2 Rd4 33. f3 Qg5 34. g3 Qh5 35. Ke3 Qxh3 36. Rg2 Qh1 37. Kf2 h5 38. Rg1 Qh2+ 39. Rg2 Qh3 40. Ke3 Qh1 41. Kf2 g6 42. Rg1 Qh2+ 43. Rg2 Qh3 44. Ke3 Qh1 45. Kf2 g5 46. Rg1 Qh2+ 47. Rg2 Qh3 48. Ke3 Qh1 49. Kf2 g4 50. fxg4 hxg4 51. Qc2 Rd6 52. Qa2 Rf6+ 53. Ke3 Rf3+ 54. Kd2 Qxg2+ 55. Kc1 Rf1# 0-1

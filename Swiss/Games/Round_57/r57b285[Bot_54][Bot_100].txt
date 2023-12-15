@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "56"]
+[White "Turtle (by: Geezmo)"]
+[Black "PrayForMeBot (by: João)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f4 d5 2. h4 Nd7 3. b4 Nb6 4. d4 a6 5. e4 dxe4 6. g4 Qxd4 7. a4 Qxd1+ 8. Kxd1 h6 9. c4 Nf6 10. f5 Bd7 11. h5 Ra7 12. b5 c6 13. Bxh6 Rh7 14. Bxg7 Ra8 15. Bxf8 Nbd5 16. Bxe7 Kxe7 17. h6 Kd8 18. b6 Ke7 19. Rh5 Rf8 20. cxd5 Rc8 21. d6+ Kxd6 22. Bb5 Ng8 23. f6 Bxg4+ 24. Nf3 Rc7 25. bxc7 Bc8 26. Rd5+ Kxd5 27. Bxa6 Bh3 28. c8=R Bg2 29. Rb8 Nxf6 30. Rxb7 Bh3 31. Rd7+ Kc5 32. Rb7 Rg7 33. h7 e3 34. h8=R e2+ 35. Kd2 e1=Q+ 36. Kd3 Bf5# 0-1

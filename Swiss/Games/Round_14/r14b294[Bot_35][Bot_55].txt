@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "13"]
+[White "chaos bot (by: zer0)"]
+[Black "GoodBot (by: Fiera42)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c4 b5 2. cxb5 Ba6 3. e3 Nc6 4. bxa6 Nd4 5. exd4 c5 6. dxc5 Qb6 7. Qa4 Qb8 8. b3 Qb4 9. Qxb4 Rb8 10. Qxb8# 1-0

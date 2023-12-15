@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "46"]
+[White "Shakki botti (by: bobq)"]
+[Black "Asymptotically optimal (by: Graham Gayler)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 d5 2. h3 Kd7 3. Nf3 g6 4. Ne5+ Ke8 5. Nac4 Bxh3 6. gxh3 dxc4 7. Nxc4 Qxd2+ 8. Qxd2 a5 9. Nd6+ cxd6 10. Bg2 Kd7 11. Qc3 a4 12. Bc6+ Nxc6 13. Qxh8 Ke6 14. Rg1 Kd5 15. Rg5+ e5 16. Rxe5+ Kc4 17. Re4+ Kc5 18. Be3+ Kb5 19. c4+ Ka6 20. Qc3 Na5 21. Re5 Ra7 22. Rxa5# 1-0

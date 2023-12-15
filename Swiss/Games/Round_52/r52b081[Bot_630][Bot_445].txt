@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "51"]
+[White "josh-chess (by: )"]
+[Black "KunoVonHagenBot (by: Jakob)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 Nc6 2. e3 Nf6 3. Nf3 d5 4. d4 Bf5 5. Nh4 Bg4 6. f3 Bd7 7. f4 e6 8. Nf3 Bb4 9. h4 Ne4 10. Bd2 Ng3 11. Rh3 Nxf1 12. Kxf1 e5 13. Rh1 exd4 14. exd4 Bg4 15. Qe2+ Be7 16. Nb5 a6 17. Na3 Nxd4 18. Qf2 Nxf3 19. gxf3 Bf5 20. Re1 O-O 21. b4 a5 22. Nb5 axb4 23. Nd4 Bc5 24. Re2 Qd7 25. Be3 Bh3+ 26. Kg1 Rxa2 27. h5 Re8 28. f5 Ra1+ 29. Re1 Bxd4 30. Rxa1 Bxe3 31. Qxe3 Rxe3 32. Rxh3 Ra3 33. Rxa3 bxa3 34. c4 a2 35. cxd5 a1=Q+ 36. Kg2 Qxf5 37. Rg3 Qa2+ 38. Kh1 Qxh5+ 39. Kg1 Qhh2+ 40. Kf1 Qa1# 0-1

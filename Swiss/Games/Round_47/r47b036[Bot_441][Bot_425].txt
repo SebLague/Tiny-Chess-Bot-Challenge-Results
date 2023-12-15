@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "46"]
+[White "RigidBot (by: Mathias Elgaard)"]
+[Black "200 Tokens Monstrosity (by: ErwanF)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nf3 Qf6 3. Nc3 Qe6 4. d4 exd4 5. Nxd4 Qe5 6. Nf3 Qa5 7. Bd2 Qb4 8. a3 Qb6 9. Nd5 Qc5 10. Be3 Qc6 11. Bb5 Qxd5 12. Qxd5 Ne7 13. Qe5 a6 14. Bc4 b5 15. Bb3 d6 16. Qc3 c5 17. e5 dxe5 18. Bxc5 Bb7 19. Nxe5 Nd5 20. Qf3 f6 21. Bxd5 Bxc5 22. Bxb7 Ra7 23. Qh5+ g6 24. Nxg6 hxg6 25. Qxh8+ Bf8 26. Qh3 Kf7 27. Qh7+ Bg7 28. Bd5+ Ke8 29. O-O-O g5 30. Qg8+ Bf8 31. Bf7+ Rxf7 32. Rhe1+ Re7 33. Qg6# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "42"]
+[White "Obi (by: Carson Ouckama)"]
+[Black "Hopeless Bot (by: Nepiceo)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. b4 c6 2. e4 f5 3. Qh5+ g6 4. Qg5 fxe4 5. g4 h5 6. Qxg6# 1-0

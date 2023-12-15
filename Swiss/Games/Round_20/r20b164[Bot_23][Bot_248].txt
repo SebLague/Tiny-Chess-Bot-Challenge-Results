@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "19"]
+[White "HalfWit (by: Steven Christy)"]
+[Black "SimpleMinds (by: Karl Jungtow)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h3 e5 2. e3 Qg5 3. g4 Nc6 4. e4 Nf6 5. d4 Qg6 6. dxe5 Qxe4+ 7. Qe2 Qxh1 8. exf6+ Kd8 9. fxg7 Bxg7 10. Bg5+ f6 11. Qf3 Re8+ 12. Kd1 Qxg1 13. Bxf6+ Bxf6 14. Qxf6+ Ne7 15. Nd2 d6 16. f3 d5 17. Qc3 Be6 18. b4 d4 19. Qb2 Nd5 20. Qa3 Ne3+ 21. Kc1 Nxf1 22. Nb3 Ne3+ 23. Kd2 Nc4+ 24. Ke2 Bf5# 0-1

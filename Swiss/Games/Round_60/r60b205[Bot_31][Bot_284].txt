@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "59"]
+[White "CyberPawn (by: PotatosDispenser)"]
+[Black "Arctiform's Bot (by: Arctiform)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 h5 2. Nf3 c5 3. e4 g6 4. Bc4 Bh6 5. Ne5 f6 6. Nf7 Qc7 7. Nxh8 h4 8. Bxg8 e5 9. Nxg6 d6 10. Qh5 a5 11. Qxh6 Qc6 12. Qf8+ Kd7 13. Qf7+ Kd8 14. Qe7# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "55"]
+[White "StackFish (by: battlecoder)"]
+[Black "Headless Chicken (by: Nat)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 Qd5 4. Nfg5 f6 5. c4 Qc6 6. Nxh7 Rxh7 7. d3 f5 8. Ng3 e5 9. Bd2 f4 10. Ne4 Nf6 11. Bxf4 exf4 12. Nxf6+ gxf6 13. Qd2 Bf5 14. Qxf4 Bb4+ 15. Kd1 Qd7 16. b3 Bc5 17. e3 Bg4+ 18. f3 Bxf3+ 19. gxf3 Qe6 20. exd4 Bb4 21. Qg3 f5 22. Rg1 Bd6 23. Qg2 Rxh2 24. Qg7 Bf4 25. d5 Rd2+ 26. Kc1 Qe1# 0-1

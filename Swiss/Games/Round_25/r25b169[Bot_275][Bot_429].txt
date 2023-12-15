@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "24"]
+[White "Simple Minimax (by: Sidewinder7)"]
+[Black "LesMoutons (by: Beaud Rémi and Mechulam Antoine)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Qh5 Qf6 3. Ne2 Bb4 4. Nec3 g6 5. Qh3 Ne7 6. Qh6 Nbc6 7. Be2 Nd4 8. Kd1 Qxf2 9. Na3 Qxg2 10. Rf1 Nxe2 11. Ke1 Nxc1 12. Rxc1 Ng8 13. Qg7 Bxc3 14. Qxf7+ Kd8 15. Qf8# 1-0

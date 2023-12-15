@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "15"]
+[White "FomBot (by: fominvic81)"]
+[Black "LIA Chess (by: Patrick und Jannik)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. d4 e6 3. Nf3 Nf6 4. Bd3 Rb8 5. O-O Be7 6. e5 Nd5 7. c4 Ndb4 8. Be2 Rf8 9. a3 Na6 10. d5 Nxe5 11. Nxe5 exd5 12. cxd5 Bd6 13. Bf4 f6 14. Bh5+ g6 15. Nxg6 hxg6 16. Bxg6+ Rf7 17. Bxd6 cxd6 18. Re1+ Kf8 19. Qh5 Rg7 20. Re8+ Qxe8 21. Qh8+ Rg8 22. Qxf6+ Qf7 23. Qxf7# 1-0

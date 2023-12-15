@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "53"]
+[White "Rubber Ducky (by: Joël)"]
+[Black "Simple Minimax (by: Sidewinder7)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e6 2. Nf3 b6 3. Ng1 Qh4 4. Nb1 Bb7 5. c3 Bd5 6. Nf3 Qf4 7. h4 Ne7 8. Rh3 Qg4 9. Nh2 Qf4 10. d4 Qf5 11. g4 Qxb1 12. Rxb1 Nbc6 13. Ra1 Nf5 14. gxf5 a6 15. fxe6 fxe6 16. f4 b5 17. Ng4 Kd8 18. Bd2 Nxd4 19. cxd4 Ra7 20. b4 Bxb4 21. Bxb4 a5 22. Bc5 d6 23. Bxa7 b4 24. Kd2 b3 25. axb3 Be4 26. Nf2 Ke7 27. Nxe4 Ra8 28. Rxa5 Rxa7 29. Rxa7 Kd7 30. Qc1 Kc8 31. Qxc7# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "46"]
+[White "MinimalBot (by: GreenSalad_)"]
+[Black "SlothBot (by: 0xFF)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. Na3 Nf6 2. Nb5 a6 3. Nxc7+ Qxc7 4. c4 Qxc4 5. d4 Qb4+ 6. Qd2 Nc6 7. Qxb4 Nxb4 8. Bg5 Ne4 9. d5 Nc2+ 10. Kd1 Nxa1 11. Kc1 Nxf2 12. Kb1 Nxh1 13. Kxa1 Nf2 14. Kb1 Ne4 15. Ka1 Nxg5 16. Kb1 Ne4 17. Ka1 Nd2 18. Nf3 Nxf1 19. Ne5 Ne3 20. Nxf7 Kxf7 21. Kb1 d6 22. g4 Bxg4 23. Ka1 Bxe2 24. Kb1 Rc8 25. a3 Bd3+ 26. Ka1 Rc1+ 27. Ka2 Bc4+ 28. b3 1-0

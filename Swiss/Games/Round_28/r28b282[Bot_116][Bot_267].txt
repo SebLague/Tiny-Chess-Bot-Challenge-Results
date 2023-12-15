@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "27"]
+[White "MirrorBot (by: Jackk)"]
+[Black "TimsBot (by: Thomas Dvorak)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. e4 e5 2. Qh5 c5 3. c4 b5 4. cxb5 a5 5. bxa6 h6 6. h3 g6 7. g3 c4 8. Qxg6 h5 9. h4 c3 10. bxc3 Ne7 11. Ne2 Ng8 12. Ng1 Ne7 13. Ne2 Ng8 14. Ng1 1/2-1/2

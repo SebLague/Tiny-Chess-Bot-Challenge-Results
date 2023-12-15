@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "13"]
+[White "Corrosiver (by: )"]
+[Black "Plumbo (by: Luca Voros)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. Nc3 d5 3. Nf3 Bf5 4. Ne5 Nc6 5. e3 Nxe5 6. dxe5 Ne4 7. Nxd5 c6 8. Qf3 e6 9. Nc3 Bb4 10. a3 Bxc3+ 11. bxc3 Qa5 12. Bb2 Nxc3 13. a4 Ne4+ 14. c3 Nxc3 15. Bc4 Nb1+ 16. Ke2 Qd2+ 17. Kf1 Qxb2 18. Qg3 Nd2+ 19. Ke1 Ne4 20. Qf3 Bg4 21. Qxe4 Qc3+ 22. Kf1 Qxa1+ 23. Qb1 Qxb1# 0-1

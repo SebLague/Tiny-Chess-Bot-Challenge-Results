@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "49"]
+[White "tom (by: Christopher Hosken & Thomas Lower)"]
+[Black "WhyAmIABot (by: Levi)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g4 b5 2. e4 b4 3. h4 h6 4. f4 Nf6 5. e5 Nh7 6. h5 Bb7 7. Rh4 Qc8 8. d4 Qd8 9. c4 bxc3 10. bxc3 Qc8 11. g5 hxg5 12. fxg5 Rg8 13. a4 Rh8 14. h6 gxh6 15. gxh6 Qd8 16. e6 dxe6 17. d5 exd5 18. a5 Bc8 19. a6 Rg8 20. Nf3 Rh8 21. c4 Rg8 22. cxd5 Rh8 23. d6 exd6 24. Ng5 Nxg5 25. h7 Qe7+ 26. Be2 Nf3+ 27. Kf2 Nxh4 28. Nc3 Rxh7 29. Nd5 Qd8 30. Nf4 Rh8 31. Nh5 Nf5 32. Nf4 Rh2+ 33. Ng2 Qh4+ 34. Kf3 Rh3# 0-1

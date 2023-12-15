@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "5"]
+[White "Blitztron (by: Cameron Dugan)"]
+[Black "LesMoutons (by: Beaud Rémi and Mechulam Antoine)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 e6 2. Qd2 Nc6 3. h4 Bb4 4. c3 Bd6 5. g4 Qf6 6. d5 Bf4 7. Qxf4 Qxf4 8. Bxf4 exd5 9. Bxc7 Nf6 10. c4 dxc4 11. Na3 Nxg4 12. Nxc4 O-O 13. Nd6 Nd4 14. Rc1 Kh8 15. b4 h6 16. Bg2 h5 17. Bxb7 Bxb7 18. Nxb7 Nb5 19. f3 Ne3 20. Bh2 Ng2+ 21. Kf1 Ne3+ 22. Kf2 Rfe8 23. Nd6 Nxd6 24. Bxd6 Nf5 25. Bf4 d5 26. e4 dxe4 27. fxe4 Rxe4 28. Bd2 Rxh4 29. Rxh4 Nxh4 30. Bg5 Nf5 31. Rc7 Nd6 32. Bf4 Ne4+ 33. Kg2 a6 34. Rxf7 Kg8 35. Rf5 Rc8 36. Rxh5 g6 37. Re5 Rc4 38. Re8+ Kf7 39. Rh8 Nf6 40. Nh3 a5 41. Be5 Rg4+ 42. Kf3 Rxb4 43. Ng5+ Ke7 44. Rb8 Nd7 45. Bd6+ Kxd6 46. Nf7+ Ke7 47. Rxb4 axb4 48. Nh6 Ne5+ 49. Kf4 Kd6 50. Kg3 Kc7 51. Kh2 Nd3 52. Kh1 Nc1 53. Kg2 Nxa2 54. Kf3 b3 55. Nf7 b2 56. Ke3 b1=Q 57. Kd4 Qb4+ 58. Ke5 Qe7+ 59. Kf4 Qxf7+ 60. Kg4 Qf2 61. Kg5 Qf5+ 62. Kh4 Kb6 63. Kg3 Qd5 64. Kh3 Qg5 65. Kh2 Qg4 66. Kh1 Nc1 67. Kh2 Ne2 68. Kh1 Qg1# 0-1

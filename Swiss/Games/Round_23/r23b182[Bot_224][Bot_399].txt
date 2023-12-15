@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "22"]
+[White "RP Bot (by: Matt Enad (RobProductions))"]
+[Black "Sleepy panda bot (by: Quinten F)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 d5 2. c3 e6 3. Qa4+ Qd7 4. Qxd7+ Bxd7 5. Bf4 Nc6 6. Bxc7 Rc8 7. Bg3 h5 8. Nf3 Be7 9. e3 Bf6 10. Kd1 Nxd4 11. exd4 Ba4+ 12. Kc1 Ne7 13. Kd2 Nf5 14. Bf4 Rc6 15. b3 Nxd4 16. bxa4 Nf5 17. Bb5 Bxc3+ 18. Nxc3 a6 19. Bxc6+ bxc6 20. Ne5 d4 21. Ne4 Ke7 22. Nxc6+ Ke8 23. Ne5 Ke7 24. Bg5+ Ke8 25. Nd3 a5 26. Ndc5 e5 27. Kc1 Rf8 28. Nd3 f6 29. Bd2 Kf7 30. Nxe5+ fxe5 31. Bxa5 Ra8 32. Be1 Rxa4 33. Kd1 Ra7 34. Kc2 g6 35. Kd1 Kg7 36. Kd2 Ra3 37. Ke2 d3+ 38. Kf1 h4 39. Kg1 Ra4 40. Nc5 Ra3 41. Bb4 Rxa2 42. Rxa2 e4 43. Ra7+ Kf6 44. Ra6+ Kg7 45. Bc3+ Kf7 46. Ra7+ Ke8 47. Ra8+ Ke7 48. Bb4 Kd6 49. Ra5 h3 50. Nxe4+ Kc6 51. gxh3 Nd4 52. Kf1 Nb3 53. Rg5 Nd4 54. Kg2 Ne6 55. Rc1+ Kb7 56. Nd6+ Kb6 57. Rb5+ Ka7 58. Ra1# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "51"]
+[White "HikuBot (by: Hikushii)"]
+[Black "PAN (by: PAN)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 c6 2. Nf3 Nf6 3. e5 Ng8 4. d4 d5 5. Bd3 Nd7 6. O-O Nh6 7. Nc3 Ng8 8. Ng5 e6 9. Qf3 Qe7 10. Bxh7 Nh6 11. Bd3 Nf5 12. Bxf5 exf5 13. Qxf5 g6 14. Qd3 Nxe5 15. dxe5 Bh6 16. Nf3 Bxc1 17. Raxc1 Qb4 18. Qd4 Qxd4 19. Nxd4 Bd7 20. a4 Bc8 21. a5 Bd7 22. Rfe1 Bc8 23. a6 bxa6 24. Nxc6 Bd7 25. Nb4 Be6 26. Ncxd5 Bxd5 27. Nxd5 Rc8 28. e6 f5 29. g3 Rf8 30. e7 Rh8 31. Re6 Kd7 32. Rxa6 Rhe8 33. Re1 g5 34. Ree6 Rxc2 35. Nf6+ Kc8 36. Nxe8 Kb7 37. Ra1 Ka8 38. Nd6 Rxb2 39. e8=Q+ Rb8 40. Qc6+ Rb7 41. Qxb7# 1-0

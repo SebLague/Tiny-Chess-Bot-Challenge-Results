@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "53"]
+[White "Funko Bot (by: Sky Sherwood)"]
+[Black "ScaredyBot (by: Jacob Sweeten)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. h4 Nc6 2. g4 Nf6 3. f3 b6 4. c4 g6 5. Qc2 Nxg4 6. Nh3 Rb8 7. Nf2 Nf6 0-1

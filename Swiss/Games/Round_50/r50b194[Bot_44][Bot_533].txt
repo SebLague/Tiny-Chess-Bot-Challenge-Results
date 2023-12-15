@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "49"]
+[White "SimpleBot (by: :LMProgramming)"]
+[Black "Stoccafisso (by: Riccardo D'Incau)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e5 2. Qg4 Nc6 3. Bb5 Bd6 4. Qxg7 Qf6 5. Qxh8 Qxh8 6. Nc3 Bf8 7. Nd5 Kd8 8. Nf3 Bd6 9. Ng5 Qg7 10. Ke2 Qxg5 11. b3 Qxg2 12. Bb2 Qxd5 13. Rhg1 Qxb5+ 14. Kf3 Nce7 15. Rg4 Nf6 16. Kg2 Nxg4 17. Rc1 Qe2 18. d3 Qxf2+ 19. Kh1 Qxh2# 0-1

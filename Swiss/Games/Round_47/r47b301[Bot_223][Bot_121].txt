@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "46"]
+[White "Smiley (by: Orniflyer)"]
+[Black "broken bot (by: Raj Gaurav)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 h5 2. Nh3 g5 3. d3 f5 4. e3 e5 5. c4 d5 6. f4 gxf4 7. Rb1 dxc4 8. Ra1 fxe3 9. Rb1 cxd3 10. Ra1 c5 11. Rb1 b5 12. Ra1 a5 13. Rb1 h4 14. Ra1 f4 15. Rb1 e4 16. Ra1 c4 17. Rb1 b4 18. Ra1 bxa3 19. Rb1 axb2 20. a3 bxc1=B 21. Rb2 a4 22. Rg1 f3 23. Rh1 fxg2 24. Rg1 gxf1=B 25. Rgg2 c3 26. Rb7 e2 27. Rgg7 exd1=B 28. Rb2 cxb2 29. Rg2 b1=B 30. Rb2 e3 31. Rg2 e2 32. Rg7 d2+ 33. Kf2 e1=B+ 34. Ke3 Ne7 35. Kf4 Nd7 36. Ke3 Ng8 37. Kf4 Ne7 38. Rg2 Nd5# 0-1

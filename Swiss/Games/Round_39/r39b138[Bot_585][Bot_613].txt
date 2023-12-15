@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "38"]
+[White "Negative Depth (by: Zoltán Kürti)"]
+[Black "Peeter 1 (by: Gouuu)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 e6 2. e4 d5 3. exd5 Qxd5 4. Nc3 Qf5 5. d4 Bd6 6. Nd2 h6 7. Ndb1 h5 8. Nd2 h4 9. Nde4 b6 10. h3 a5 11. b3 Ra7 12. Bg5 g6 13. Bd3 Rh5 14. Nxd6+ cxd6 15. g4 Qxg5 16. gxh5 gxh5 17. Nb5 Rd7 18. Bc4 Bb7 19. d5 exd5 20. Qe2+ Qe5 21. Nxd6+ Rxd6 22. O-O Rg6+ 23. Qg4 hxg4 24. Bb5+ Bc6 25. Rfe1 gxh3+ 26. Kh1 d4+ 27. Bxc6+ Nxc6 28. a4 Nge7 29. Rab1 Qd5+ 30. Re4 Qxe4+ 31. f3 Qxf3+ 32. Kh2 Qg2# 0-1

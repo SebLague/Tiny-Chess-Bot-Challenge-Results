@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "63"]
+[White "BaddieBot (by: Domic)"]
+[Black "AlaskaBot (by: Arttu Halonen)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e5 2. Bd3 d5 3. Nc3 Be6 4. Qf3 Bc5 5. Kd1 Nc6 6. g4 Nf6 7. Nb5 Nxg4 8. Qxg4 Bxg4+ 9. f3 Bh5 10. Ke2 d4 11. Be4 g5 12. Bxc6+ bxc6 13. Nxc7+ Qxc7 14. c3 d3+ 15. Kxd3 f5 16. Ke2 e4 17. b4 Bb6 18. Bb2 exf3+ 19. Kd3 a5 20. c4 O-O-O 21. Kc2 f2 22. Nh3 Bd1+ 23. Raxd1 f1=Q 24. Rhxf1 Rhe8 25. bxa5 Bxa5 26. Nxg5 Qxh2 27. Rxf5 Bxd2 28. Rxd2 Qxd2+ 29. Kb3 Rxe3+ 30. Bc3 Rxc3+ 31. Kb4 Qb2+ 32. Kc5 Qb5# 0-1

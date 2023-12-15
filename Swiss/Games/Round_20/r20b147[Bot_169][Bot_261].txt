@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "19"]
+[White "TalkChess (by: Thomas Jahn, Mike Sherwin, Dmitry Shechtman)"]
+[Black "SummerBoty (by: Thomas)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e5 2. Nf3 Qf6 3. d4 Bb4 4. Nxe5 d5 5. Bd2 Ne7 6. e3 O-O 7. Bd3 Qg5 8. O-O Be6 9. e4 Qf6 10. Nxd5 Nxd5 11. exd5 Bxd2 12. dxe6 Na6 13. Qxd2 Qxe6 14. Rfd1 Qd6 15. Qc3 Nb4 16. Bc4 b5 17. Bxb5 Rab8 18. Bc4 c5 19. Bxf7+ Rxf7 20. Nxf7 Kxf7 21. dxc5 Nxa2 22. cxd6 Nxc3 23. bxc3 Kg8 24. Rxa7 Rd8 25. d7 h5 26. Kf1 h4 27. Kg1 Kh7 28. c4 Kh8 29. c5 Kh7 30. c6 Kg8 31. c7 Rf8 32. Kf1 h3 33. Ke1 hxg2 34. Kd2 Rxf2+ 35. Kc1 Rf8 36. d8=Q Rxd8 37. cxd8=Q+ Kh7 38. Kb1 Kg6 39. Qd3+ Kf6 40. Ka1 g5 41. Kb1 g4 42. Ka1 Ke6 43. Rb7 Kf6 44. Ka2 Ke6 45. Re1+ Kf6 46. Ka1 g1=Q 47. Rxg1 Kg5 48. Kb1 Kf6 49. Kc1 Kg5 50. Kb2 Kf6 51. Rxg4 Ke5 52. Rgg7 Kf4 53. Qb3 Ke4 54. Qc3 Kd5 55. Rbc7 Ke4 56. Qb3 Kd4 57. Qf3 Ke5 58. Rb7 Kd4 59. Qb3 Ke4 60. Qb4+ Kd5 61. Qb3+ Kd4 62. Ka1 Ke4 63. Qb2 Kd5 64. Qc3 Ke4 65. Qc5 Kf3 66. Qc3+ Ke4 67. Qc6+ Kd4 68. Kb1 Ke5 69. Qb6 Ke4 70. Qb3 Kd4 71. Qf3 Ke5 72. Qe3+ Kd5 73. Rbc7 Kd6 74. Rgd7# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "22"]
+[White "Good Bot Bad Bot (But Really, Both Are Terrible Bots, Also This In The Parenthesis Is Part Of The Name) (by: Legend)"]
+[Black "DrawMachine (by: Rune)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a3 e5 2. a4 Bd6 3. Nh3 Bc5 4. Ra3 Bxa3 5. bxa3 Na6 6. e3 Qh4 7. Bxa6 bxa6 8. Qg4 Qxg4 9. Bb2 Qxa4 10. Bxe5 Qxc2 11. Bxc7 Qxb1+ 12. Ke2 Qxh1 13. f3 Qxg2+ 14. Ke1 Qxh3 15. d3 Qxf3 16. Bd8 Qxe3+ 17. Kd1 Qxd3+ 18. Kc1 Qxa3+ 19. Kd1 Kxd8 20. Ke1 a5 21. h4 Qc3+ 22. Kd1 Qb3+ 23. Kc1 Qc3+ 24. Kb1 a4 25. Ka2 Qd2+ 26. Kb1 Rb8+ 27. Ka1 Qc1+ 28. Ka2 Qc2+ 29. Ka3 a6 30. h5 Qc3+ 31. Kxa4 a5 32. h6 Qc6+ 33. Kxa5 Qa8# 0-1

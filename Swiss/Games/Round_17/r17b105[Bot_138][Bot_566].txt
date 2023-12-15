@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "16"]
+[White "Flaeskesteg (by: Jechto)"]
+[Black "LazyBot (by: Tim de Jong)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 e6 2. Ne5 d6 3. Nc4 d5 4. Ne5 Nd7 5. Nf3 Ngf6 6. Ng5 h6 7. Nf3 e5 8. Nc3 e4 9. Nd4 Bb4 10. Nf5 Nb6 11. Nxg7+ Kf8 12. a3 Bd6 13. Nb5 a6 14. Nxd6 Qxd6 15. d3 Kxg7 16. Be3 d4 17. Bd2 exd3 18. cxd3 Bd7 19. Rc1 Rhe8 20. Bb4 Qe5 21. Rc5 Qf4 22. Ba5 Ng4 23. f3 Nxh2 24. Rxh2 Qxh2 25. e4 dxe3 26. Ke2 Qg3 27. Bc3+ Kg8 28. Be1 Qd6 29. Bb4 Qd4 30. Rc3 Nd5 31. Rc2 Ba4 32. b3 Bxb3 33. g3 Nxb4 34. axb4 Kg7 35. Bg2 Rad8 36. b5 axb5 37. f4 Qa4 38. Bxb7 Bxc2 39. Qc1 Bxd3+ 40. Kf3 Be4+ 41. Bxe4 Qxe4+ 42. Kg4 e2 43. Qb2+ Kg6 44. Qa1 e1=Q 45. Qa6+ Kg7 46. Qxb5 Qd1+ 47. Qe2 Qexe2+ 48. Kh3 Qh1# 0-1

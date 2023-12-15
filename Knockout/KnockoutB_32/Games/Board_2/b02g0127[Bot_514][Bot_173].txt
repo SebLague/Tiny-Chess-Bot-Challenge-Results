@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Knockout 32"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "smol.cs (by: Gediminas Masaitis, Goh CJ)"]
+[Black "TunaTactician (by: Ben)"]
+[Result "1-0"]
+[TimeControl "30+0.1"]
+[Termination "Checkmate"]
+
+1. c4 c5 2. Nf3 Nf6 3. Nc3 e6 4. g3 d5 5. cxd5 exd5 6. d4 cxd4 7. Nxd4 Nc6 8. Be3 g6 9. Bg2 Bg7 10. O-O O-O 11. Qb3 Na5 12. Qc2 Nc6 13. Rad1 h6 14. Qc1 Nxd4 15. Rxd4 Be6 16. Bxh6 Qb6 17. Rh4 Bh8 18. Bxf8 Rxf8 19. Bxd5 Re8 20. Bxe6 Rxe6 21. Rd1 Qc6 22. Qf4 Bg7 23. Qa4 Qc7 24. Qxa7 Ne8 25. Rb4 Nd6 26. Qb6 Qb8 27. Nd5 Nf5 28. Qxb7 Qxb7 29. Rxb7 Rxe2 30. Nf4 Rxb2 31. Rd8+ Kh7 32. Rxf7 g5 33. Rxf5 gxf4 34. Rd7 Kg6 35. Rxf4 Be5 36. Ra4 Kf5 37. Ra8 Ke6 38. Rd3 Bc7 39. Rb3 Rc2 40. a4 Ra2 41. Kg2 Kd5 42. Rc8 Be5 43. Rd3+ Ke6 44. Re8+ Kf6 45. Rf3+ Kg6 46. Rxe5 Rxa4 47. Re6+ Kg7 48. Rf5 Ra7 49. h4 Kh7 50. h5 Kg7 51. h6+ Kh7 52. g4 Kg8 53. g5 Kh7 54. Rc6 Ra8 55. Rf7+ Kg8 56. Rcc7 Rd8 57. Rh7 Rd7 58. Rhxd7 Kf8 59. Rc8# 1-0

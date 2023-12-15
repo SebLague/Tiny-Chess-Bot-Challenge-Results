@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "38"]
+[White "Basic Bot (by: G0ldSt0ne)"]
+[Black "CrimesAgainstDotNet (by: Reckoner (Robyn))"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 e5 2. Nb5 c6 3. Na3 Qh4 4. Nf3 Qf6 5. Nc4 e4 6. Ng1 d5 7. Ne3 Bc5 8. c3 d4 9. cxd4 Bxd4 10. Qc2 Bf5 11. Nxf5 Qxf5 12. Nf3 Bxf2+ 13. Kd1 Nf6 14. Ng1 Bc5 15. Nh3 Na6 16. Qc3 O-O-O 17. Qa5 Rhe8 18. g4 Nxg4 19. Ke1 Qf2+ 20. Kd1 Ne3# 0-1

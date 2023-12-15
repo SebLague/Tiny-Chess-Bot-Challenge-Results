@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "15"]
+[White "AUR Chessbot (by: Soul Senshi)"]
+[Black "MiaKBotv4.4 (by: Mia Kellett)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 Nc6 2. Nf3 Nf6 3. Rb1 Rb8 4. Ra1 Ra8 5. Rb1 Rg8 6. Ra1 Rb8 7. Rb1 Rh8 8. Ra1 Ra8 9. Rb1 a6 10. Ra1 Ra7 11. Rb1 Rg8 12. Ra1 Ra8 13. Rb1 Rb8 14. Ra1 Rh8 15. Rb1 a5 16. Ra1 Ra8 17. Rb1 Ra6 18. e4 Rb6 19. Bb5 Rg8 20. Ba4 Rb4 21. a3 Rc4 22. Bb5 Rc5 23. b4 Rh5 24. Bxc6 dxc6 25. e5 Nd5 26. Rb3 Nf4 27. g3 Ng2+ 28. Kf1 Be6 29. Kxg2 Bxb3 30. g4 axb4 31. gxh5 bxc3 32. cxb3 g6 33. d4 gxh5+ 34. Kf1 Qd5 35. Qd3 Qxb3 36. Rg1 Qb5 37. Qxb5 cxb5 38. Rxg8 c2 39. Bh6 Kd7 40. Rxf8 f6 41. exf6 b4 42. axb4 h4 43. Bc1 h3 44. Ke1 b6 45. Kf1 b5 46. Ke1 c6 47. Kf1 c5 48. bxc5 b4 49. Ke1 b3 50. Kf1 b2 51. Bxb2 e6 52. Ke1 h6 53. Kd2 h5 54. Kxc2 Kc7 55. Rh8 h4 56. f7 Kc6 57. f8=Q Kb5 58. Rxh4 Ka4 59. Rxh3 Kb4 60. Rh6 e5 61. Rb6+ Ka5 62. Qa8# 1-0

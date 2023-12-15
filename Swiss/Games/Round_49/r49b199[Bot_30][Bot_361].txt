@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "48"]
+[White "WhyAmIABot (by: Levi)"]
+[Black "Thulium (by: Valentin POQUET)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f4 d6 2. e3 Bf5 3. Bb5+ c6 4. Be2 Be4 5. Na3 Bxg2 6. Nh3 Bxh1 7. c4 Bg2 8. Ng5 f6 9. Bh5+ g6 10. Bxg6+ hxg6 11. Ne6 Qd7 12. Nxf8 Qf5 13. Nxg6 Rxh2 14. Nxe7 Qd3 15. Kf2 Nxe7 16. b3 Bh3+ 17. Kg3 Qg6+ 18. Qg4 Bxg4 19. Kxh2 Bf3 20. Kh3 Nf5 21. c5 Qh6# 0-1

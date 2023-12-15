@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "MyFirstChessEngine (by: Jake Forsey)"]
+[Black "Stale (by: Noah)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Stalemate"]
+
+1. Nc3 a6 2. Nf3 a5 3. Rb1 b6 4. e3 d6 5. Bb5+ c6 6. Bd3 a4 7. Nd4 b5 8. Be4 d5 9. Bf5 Bxf5 10. Nxf5 b4 11. Ne2 a3 12. bxa3 bxa3 13. Rb7 Qc8 14. Nxg7+ Bxg7 15. Rb1 e6 16. O-O f6 17. Nd4 f5 18. Qh5+ Kd8 19. Qg5+ Bf6 20. Nxe6+ Qxe6 21. Rxb8+ Rxb8 22. Qh5 Be7 23. Bxa3 Bxa3 24. Qg5+ Qf6 25. Qxf6+ Nxf6 26. c4 dxc4 27. Re1 Rb2 28. e4 Nxe4 29. g4 Rxa2 30. gxf5 Nd6 31. Rb1 Rxd2 32. Rb8+ Nc8 33. Kf1 Bc5 34. Rb7 Rxf2+ 35. Ke1 h6 36. Rg7 Rxh2 37. Rg4 c3 38. Rc4 Rh1+ 39. Ke2 Re8+ 40. Kd3 Re5 41. Rxc3 Nd6 42. Rb3 Rh2 43. Rb8+ Nc8 44. Kc4 Rxf5 45. Kd3 Rh3+ 46. Ke4 Rhf3 47. Rxc8+ Kxc8 1/2-1/2

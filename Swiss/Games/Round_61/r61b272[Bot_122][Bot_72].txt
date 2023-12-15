@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "60"]
+[White "TeacherBot (by: qumquat)"]
+[Black "CCCP (by: not mario)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 a5 2. Bc4 b5 3. Qh5 bxc4 4. Qxf7+ Kxf7 5. g4 Qe8 6. g5 h6 7. Kd1 hxg5 8. f3 Rxh2 9. d3 Rd2+ 10. Bxd2 cxd3 11. Bxa5 dxc2+ 12. Ke1 cxb1=Q+ 13. Rxb1 Rxa5 14. Rh8 Rxa2 15. Rh5 Rxb2 16. Rxb2 Na6 17. Rb5 Qd8 18. Rb1 Nf6 19. Rb3 Nxh5 20. Rb8 Nxb8 21. Kf1 Ng3+ 22. Kf2 Nxe4+ 23. fxe4 Kf6 24. Kg3 Kg6 25. Kf3 g4+ 26. Kg2 d6 27. e5 Bb7+ 28. Kh2 g3+ 29. Kxg3 dxe5 30. Nh3 Qd3+ 31. Kh4 Qe4+ 32. Kg3 Qe1+ 33. Nf2 Qxf2+ 34. Kg4 Bc8# 0-1

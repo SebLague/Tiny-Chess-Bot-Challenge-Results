@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "Simple Minimax (by: Sidewinder7)"]
+[Black "British Sandstorm (by: britboy3456)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. d4 dxe4 3. Qh5 Qxd4 4. g4 Nf6 5. Qa5 Nxg4 6. Be3 Nxe3 7. Na3 e5 8. Bb5+ Kd8 9. Ke2 Bb4 10. Qxb4 Bg4+ 11. Ke1 Qxb4+ 12. c3 Qxb2 13. Rd1+ Nxd1 14. Ne2 Nxc3 15. Kf1 Nxb5 16. Nxb5 Qxe2+ 17. Kg2 Bf3+ 18. Kh3 Bxh1 19. Nxa7 Qh5+ 20. Kg3 Qg5+ 21. Kh3 Bg2# 0-1

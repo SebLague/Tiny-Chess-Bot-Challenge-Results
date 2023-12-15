@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "54"]
+[White "GulcarBot (by: Gulcar)"]
+[Black "OrneryFellow (by: David M. B.)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Qe2 c5 3. Qc4 g5 4. Nf3 d6 5. d3 g4 6. Ng1 a5 7. f4 h5 8. fxe5 dxe5 9. c3 h4 10. d4 cxd4 11. cxd4 exd4 12. Bg5 Be7 13. Bxe7 Nxe7 14. Qa4+ Nec6 15. Bb5 h3 16. g3 O-O 17. Nd2 d3 18. Bc4 Nd7 19. Rc1 Nb6 20. Qa3 Nxc4 21. Rxc4 f5 22. Qc3 fxe4 23. Rxc6 bxc6 24. Qxc6 Bf5 25. Kd1 e3 26. Nb3 Rf7 27. Qc4 Be4 28. Nd2 Qd5 29. Qxd5 Bxd5 30. Nxh3 Bxh1 31. Nf4 Rd8 32. a4 Rc7 33. b4 Rc2 34. b5 exd2 35. Nxd3 Rxd3 36. Kxc2 d1=Q+ 37. Kb2 Qb3+ 38. Kc1 Rd1# 0-1

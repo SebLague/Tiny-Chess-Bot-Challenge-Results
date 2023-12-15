@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "19"]
+[White "En Croissant (by: Lethal Chicken)"]
+[Black "MinimalBot (by: GreenSalad_)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 Na6 2. b3 Nb4 3. c4 Nd3+ 4. exd3 c5 5. f4 f5 6. h4 h5 7. Rh2 Kf7 8. Qxh5+ Rxh5 9. Rh1 Ke6 10. Rh2 Kd6 11. Nb5+ Kc6 12. Nxa7+ Rxa7 13. Rh1 Ra3 14. Bxa3 Kb6 15. Bxc5+ Kxc5 16. b4+ Kxb4 17. a3+ Ka4 18. c5 Qe8 19. Rh2 Qd8 20. Rh1 Qa5 21. Rh2 Qxd2+ 22. Kxd2 Kb3 23. Rb1+ Kxa3 24. Ra1+ Kb2 25. Rb1+ Kxb1 26. Kd1 Kb2 27. Ke1 Kc1 28. Ke2 Kc2 29. Ke1 Nf6 30. Ke2 Ng4 31. Ke1 Kc1 32. Ke2 Nxh2 33. Ke1 Nf3+ 34. Ke2 Nxg1+ 35. Ke1 Nf3+ 36. Ke2 Nd4+ 37. Ke1 Nc2+ 38. Ke2 Rxh4 39. Kf2 Rxf4+ 40. Kg1 Rxf1+ 41. Kxf1 Ne3+ 42. Ke1 Nc2+ 43. Kf1 Kd1 44. Kg1 Ke1 45. Kh1 Kf1 46. Kh2 Kf2 47. Kh1 Kg3 48. Kg1 Ne3 49. Kh1 Nd1 50. Kg1 Nf2 51. Kf1 Nxd3 52. Kg1 Nf2 53. Kf1 Nd1 54. Ke1 Nc3 55. Kf1 Ne2 56. Ke1 Kxg2 57. Kd1 Kf1 58. Kc2 Ke1 59. Kb1 Kd1 60. Ka1 Kc1 61. Ka2 Kc2 62. Ka1 Nc1 63. c6 Nb3+ 64. Ka2 bxc6 65. Ka3 Kc3 66. Ka2 e6 67. Kb1 Ba6 68. Ka2 Bf1 69. Kb1 Be2 70. Ka2 Bd1 71. Kb1 Bc2+ 72. Ka2 Kd2 73. Kb2 Kd3 74. Ka2 Ke2 75. Kb2 Kd2 76. Ka2 Kd1 77. Kb2 Bb4 78. Ka2 Ke1 79. Kb2 Kd2 80. Ka2 Kd1 81. Kb2 Nc1 82. Ka1 Bc3# 0-1

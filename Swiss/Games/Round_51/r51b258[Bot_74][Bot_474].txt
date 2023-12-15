@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "50"]
+[White "DrunkBot (by: rootNico)"]
+[Black "Good Bot Bad Bot (But Really, Both Are Terrible Bots, Also This In The Parenthesis Is Part Of The Name) (by: Legend)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c4 b5 2. c5 Bb7 3. c6 dxc6 4. Nh3 Qxd2+ 5. Bxd2 h5 6. Na3 Nh6 7. Ba5 a6 8. Bxc7 g6 9. Qd8# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "14"]
+[White "Tyrant's V9 (by: Tyrant)"]
+[Black "Buildabot (by: Buildasaurus)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. d4 d5 3. e3 e6 4. c4 c5 5. cxd5 exd5 6. Bb5+ Bd7 7. Bxd7+ Nbxd7 8. Qb3 cxd4 9. exd4 Nb6 10. O-O Bd6 11. Re1+ Be7 12. Qb5+ Qd7 13. Qe2 Rf8 14. Nc3 a6 15. Bg5 Kd8 16. Ne5 Qd6 17. Bf4 Qe6 18. Qc2 Qc8 19. Qb3 Nbd7 20. Nxd5 Nxd5 21. Qxd5 Ke8 22. Rac1 Nc5 23. Rxc5 Qe6 24. Qxb7 Rd8 25. d5 Qf6 26. Nc6 Rh8 27. Rxe7+ Kf8 28. Nxd8 Qxe7 29. Bd6 Kg8 30. Qxe7 h6 31. Qxf7+ Kh7 32. Rc7 Rg8 33. Qf5+ Kh8 34. Nf7# 1-0

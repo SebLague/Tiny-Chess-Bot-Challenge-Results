@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "8"]
+[White "DrunkBot (by: rootNico)"]
+[Black "Foresight (by: Saihaj)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. b4 e6 2. h4 Bxb4 3. e3 Qf6 4. c3 Bc5 5. Be2 Qf5 6. Kf1 Qe4 7. Bb5 c6 8. a4 cxb5 9. Qe1 Qd3+ 10. Qe2 Qc2 11. Qxb5 Qd1# 0-1

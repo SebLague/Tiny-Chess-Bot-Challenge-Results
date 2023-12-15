@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "62"]
+[White "Bruteforcer (by: SiestaGuru)"]
+[Black "RigidBot (by: Mathias Elgaard)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 d5 2. g3 Nc6 3. Qf3 Nf6 4. Bb5 Qd6 5. Qf4 e5 6. Qa4 Bg4 7. b3 d4 8. f3 Bd7 9. Ba3 Qe6 10. Bc4 Qf5 11. Bd3 Qh5 12. Bxf8 Kxf8 13. Bb5 Ke8 14. Qc4 Rd8 15. a4 a6 16. Bxc6 Bxc6 17. e4 Nxe4 18. h3 Nxg3 19. Rh2 Nf5 20. Qf1 Qh4+ 21. Qf2 Qf4 22. Rg2 Kf8 23. Rg4 Qh6 24. Qe2 Qf6 25. Qc4 h5 26. Rg2 Kg8 27. Rf2 Qh4 28. Ne2 Qxh3 29. d3 Ne3 30. Qc5 Qh1+ 31. Ng1 Qxg1+ 32. Rf1 Qxf1+ 33. Kd2 Qd1# 0-1

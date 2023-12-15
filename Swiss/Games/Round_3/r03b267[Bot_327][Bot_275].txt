@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "FunBot (by: Paul Spooner AKA Dudecon)"]
+[Black "Simple Minimax (by: Sidewinder7)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. a3 e6 2. e3 Qh4 3. Nc3 b5 4. Bxb5 Bb7 5. Rb1 a6 6. b3 axb5 7. Nxb5 Kd8 8. c4 Be4 9. g3 Qg5 10. f3 Bxb1 11. Nd4 Kc8 12. Nh3 Qf6 13. Ng1 Kb7 14. h3 Nc6 15. Nb5 h5 16. Qe2 Bxa3 17. Kf2 Bxc1 18. c5 Ba3 19. Qc4 Nb4 20. Qe2 Nc6 21. Qc4 Nb4 22. Qe2 Nc6 1/2-1/2

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "18"]
+[White "Saint Charles Bot (by: DATA USP)"]
+[Black "Simple Minimax (by: Sidewinder7)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 e6 2. Nb5 Qh4 3. Nxc7+ Kd8 4. Nf3 Kxc7 5. Nxh4 b5 6. e3 a6 7. Qf3 Bd6 8. Qxa8 Bb7 9. Qa7 Nc6 10. Ng6 Nxa7 11. Nxh8 Be5 12. Nxf7 Nc6 13. Kd1 Nb4 14. Nxe5 Nxc2 15. Kxc2 d6 16. Nf7 a5 17. Bxb5 Bd5 18. Bd3 g6 19. Rg1 e5 20. Ng5 Kb6 21. Nxh7 Kb7 22. Bxg6 Ne7 23. Bh5 Ng8 24. Kb1 Be4+ 25. d3 Bxd3# 0-1

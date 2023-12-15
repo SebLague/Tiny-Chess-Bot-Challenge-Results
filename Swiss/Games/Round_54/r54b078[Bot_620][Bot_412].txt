@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "53"]
+[White "Phoenix Chess (by: Mat(t)hias)"]
+[Black "MilkMindV1 (by: Josiah Jordan )"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. Nc3 e6 3. d3 Bb4 4. Bg5 d5 5. a3 Bxc3+ 6. bxc3 Nc6 7. Kd2 Kd7 8. Rg1 b6 9. c4 Bb7 10. Rc1 dxc4 11. dxc4 Ke8+ 12. Ke3 Ng4+ 13. Kf4 Qxd1 14. Rxd1 Nxf2 15. Rc1 h6 16. Bh4 g5+ 17. Bxg5 e5+ 18. Ke3 Ng4+ 19. Ke4 Nb4+ 20. Kf5 Bc8+ 21. Ke4 f5# 0-1

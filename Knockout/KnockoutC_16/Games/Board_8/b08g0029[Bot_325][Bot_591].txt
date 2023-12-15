@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Knockout 16"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "InfuehrDaniel (by: InfuehrDaniel)"]
+[Black "Rigel (by: Antares (Github: Alex2262))"]
+[Result "0-1"]
+[TimeControl "30+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. c4 c6 3. Bf4 d5 4. e3 e6 5. Nc3 Nbd7 6. Nf3 Bb4 7. Qb3 a5 8. O-O-O O-O 9. cxd5 exd5 10. h3 Qe7 11. a3 Bd6 12. Bxd6 Qxd6 13. Bd3 b5 14. Kb1 b4 15. axb4 axb4 16. Ne2 c5 17. dxc5 Nxc5 18. Qxb4 Ra4 19. Qd2 Nxd3 20. Qxd3 Ne4 21. b3 Nxf2 22. Qc2 Ra5 23. Ned4 Nxh1 24. Rxh1 Qa6 25. Qc3 Bxh3 26. Nc2 Bf5 27. Ne1 Rc8 28. Qe5 Bxc2+ 29. Nxc2 Qd3 30. Qb2 Rb5 31. g3 Rxb3 32. Ka1 Rxb2 33. Kxb2 Qxc2+ 34. Ka3 Ra8+ 35. Kb4 Qc4# 0-1

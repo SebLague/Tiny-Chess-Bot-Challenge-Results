@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "6"]
+[White "TinyHugeBot (by: Popax21 & atpx8)"]
+[Black "MilkMindV1 (by: Josiah Jordan )"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. Nf3 e6 3. e3 Nc6 4. Bd3 Bd6 5. e4 e5 6. c3 exd4 7. cxd4 Bb4+ 8. Nc3 Bxc3+ 9. bxc3 Qe7 10. O-O d6 11. Ba3 Bg4 12. e5 Nd5 13. exd6 cxd6 14. Re1 Be6 15. c4 Nf4 16. Be4 f5 17. Bxf5 Nd8 18. d5 Kd7 19. dxe6+ Kc7 20. Qd2 Rf8 21. Rad1 Kb6 22. Qb2+ Kc6 23. Bxd6 Ne2+ 24. Rxe2 Qxd6 25. Rxd6+ Kxd6 26. Rd2+ Ke7 27. Qxg7+ Nf7 28. Rd7+ Ke8 29. exf7+ Rxf7 30. Qxf7# 1-0

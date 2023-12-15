@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "62"]
+[White "Goldibot (by: Ben)"]
+[Black "Minimaxibon v1 (by: NotSureWhyThisWorks)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f4 Nc6 2. e4 e5 3. fxe5 Qh4+ 4. g3 Qxe4+ 5. Qe2 Qxh1 6. c4 Qxg1 7. Qg2 Qxg2 8. Bxg2 Nxe5 9. Bf1 Nf3+ 10. Kf2 Nxh2 11. Kg2 Nxf1 12. Kxf1 Bd6 13. d4 Bxg3 14. b4 Nf6 15. a4 d6 16. b5 Bh3+ 17. Ke2 Ne4 18. Kf3 f5 19. Ke2 f4 20. Kf3 Ng5+ 21. Ke2 Ne6 22. d5 Ng5 23. Bb2 Kf7 24. Kd1 Rae8 25. Bc3 Ne4 26. Bd4 Bf2 27. Bxf2 Nxf2+ 28. Kc2 Bf5+ 29. Kd2 Re4 30. Kc3 Re3+ 31. Kb4 Re2 32. Nc3 Rb2+ 33. Ka3 Rc2 34. Nd1 Nxd1 35. Rxd1 Rxc4 36. Kb3 Rc5 37. Ka2 Rc2+ 38. Kb3 Re8 39. Rf1 Re3+ 40. Kb4 f3 41. Rd1 f2 42. Rf1 Re1 43. Rxf2 Rxf2 44. Kc4 Rc1+ 45. Kd4 Rf3 46. a5 Kf6 47. b6 Kg5 48. bxa7 Kf4 49. a6 Kg3 50. axb7 Kf2 51. b8=B Ke1 52. a8=B Kd1 53. Bxc7 Rd3# 0-1

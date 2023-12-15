@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "49"]
+[White "BarschBot (by: Bobitsmagic)"]
+[Black "Pharouk (by: Pydjama)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e6 2. d4 Qh4 3. Nd2 Bb4 4. c3 Bd6 5. g3 Bxg3 6. fxg3 Qf6 7. Ndf3 Qg6 8. Bd3 Nc6 9. Bf4 d6 10. e5 Qh5 11. exd6 cxd6 12. Bxd6 Qd5 13. Bc7 Kd7 14. c4 Qh5 15. Ne5+ Nxe5 16. Qxh5 Nxd3+ 17. Kd2 Nxb2 18. Qxf7+ Ne7 19. Qxg7 Nxc4+ 20. Kc1 Rg8 21. Qxh7 Rg6 22. Nf3 b5 23. a4 Bb7 24. Rf1 bxa4 25. Rxa4 Bd5 26. Bf4 a5 27. Rxc4 Bxc4 28. Ne5+ Kd8 29. Nxg6 Nxg6 30. Qc7+ Ke8 31. Qxc4 Ke7 32. Qc6 Nxf4 33. Qxa8 Ne2+ 34. Kb2 a4 35. Qf8+ Kd7 36. Rf7+ Kc6 37. Qc5# 1-0

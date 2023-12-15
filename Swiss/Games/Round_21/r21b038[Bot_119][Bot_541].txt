@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "20"]
+[White "kesslbot (by: kesslwovv)"]
+[Black "Metis (by: krox)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e6 2. Nf3 Qf6 3. Nc3 Bb4 4. a3 Bxc3 5. dxc3 Qg6 6. Bd3 d5 7. exd5 Qxg2 8. Rg1 Qxg1+ 9. Nxg1 exd5 10. Bf4 c6 11. Qf3 Nd7 12. Qe3+ Kd8 13. Bc7+ Kxc7 14. Qg3+ Kb6 15. a4 d4 16. a5+ Kc5 17. Qf4 Kd5 18. Bc4+ Kc5 19. Qxd4# 1-0

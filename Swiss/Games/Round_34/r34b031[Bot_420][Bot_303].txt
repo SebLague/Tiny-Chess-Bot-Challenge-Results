@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "33"]
+[White "NostradamusChessNN (by: _Mus)"]
+[Black "Electric Shockwave Gambit (by: Valentin)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d6 2. Nc3 Nf6 3. Nf3 b6 4. d4 Bb7 5. Bd3 Nbd7 6. O-O h5 7. b4 a5 8. bxa5 Rxa5 9. Nd2 Ra8 10. Bb2 c5 11. Nf3 cxd4 12. Nxd4 e5 13. Nf5 g6 14. Ne3 Bc6 15. g4 Nc5 16. Qf3 Nxd3 17. cxd3 Nxg4 18. Nxg4 Qg5 19. h3 hxg4 20. Qxg4 Qd2 21. Rab1 Qxd3 22. h4 Be7 23. Rfd1 Qc4 24. Qf3 Rxh4 25. Re1 f5 26. Rbc1 Rg4+ 27. Kh2 Kf7 28. Qh3 Rh4 29. Qxh4 Bxh4 30. Nd1 Qa4 31. exf5 Qf4+ 32. Kg1 Qg4+ 33. Kf1 Bg2+ 34. Kg1 Bf3+ 35. Kh2 Qg2# 0-1

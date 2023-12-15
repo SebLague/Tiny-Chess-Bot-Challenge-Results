@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "43"]
+[White "SemiroseBot (by: Semirose)"]
+[Black "Plumbo (by: Luca Voros)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. d4 e6 3. Nf3 d5 4. e5 Bb4+ 5. Nc3 Nge7 6. a3 Bxc3+ 7. bxc3 O-O 8. Bd3 Ng6 9. Bg5 Nce7 10. h4 h6 11. Bd2 h5 12. Ng5 f6 13. exf6 Rxf6 14. Qxh5 Qd6 15. Qh7+ Kf8 16. h5 Nf4 17. Qh8+ Ng8 18. Bh7 Ke8 19. Rg1 Nxh5 20. Bxg8 Qh2 21. O-O-O Ke7 22. Nf3 Rxf3 23. gxf3 Bd7 24. Rxg7+ Kd6 25. Qh7 Kc6 26. Bf7 Kb6 27. Bxh5 Bc6 28. Re1 Qxf2 29. Rxc7 Qh2 30. Re7 Rd8 31. R1xe6 Rd6 32. Re5 Rd8 33. Bg5 Rf8 34. Qh6 Rg8 35. Rxd5 Ka6 36. Ree5 Rxg5 37. Rxg5 Kb6 38. Rb5+ Ka6 39. Rgc5 Qc7 40. d5 b6 41. Ra5+ bxa5 42. Rxc6+ Kb7 43. Rxc7+ Kxc7 44. d6+ Kb6 45. Qe3+ Kc6 46. Qe7 Kd5 47. Bf7+ Kc6 48. Qc7+ Kb5 49. Be8+ Ka6 50. Qc6# 1-0

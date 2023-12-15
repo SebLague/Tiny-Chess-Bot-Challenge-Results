@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "54"]
+[White "The Grandiloquent Intelligentsia of Magnanimous Strategem: A Prodigiously Resplendent Embodiment of Erudite Chess Esotericism, Exuding Enigmatic Brilliance and Sublime Eloquence Whilst Enchantingly Tempering the Hallowed Battlefield of Intellectual Duels, Endeavoring to Transcend Acumen and Ascend to the Pantheon of Learned Peregrinations with an Efficacious Arsenal of Foresight and Sagacity, Humbling Opponents with Refined Gallantry, and Beckoning Discerning Disciples to Witness the Manifest Veracity of its Ascent to a Formidable Elo Quintessence (by: Giles Corey)"]
+[Black "Buildabot (by: Buildasaurus)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. Nc3 d5 3. g3 d4 4. Nb1 Nc6 5. c3 e5 6. Bg2 d3 7. O-O e4 8. Ng5 Bg4 9. Qb3 Qd7 10. exd3 Na5 11. Qxf7+ Qxf7 12. Nxf7 Kxf7 13. dxe4 Re8 14. d4 Be2 15. Re1 Bb5 16. Nd2 c6 17. Nf3 Kg8 18. e5 Nd5 19. e6 h6 20. b4 Nc4 21. a4 Ba6 22. b5 cxb5 23. axb5 Bxb5 24. Ne5 Nxc3 25. Ng6 Rh7 26. Rxa7 Bb4 27. Bxb7 Nd6 28. Bd2 Nc4 29. Bf4 Na3 30. Re5 Nc2 31. d5 Nd4 32. Kg2 Bd3 33. Be3 Nc2 34. Bc6 Rc8 35. Ne7+ Bxe7 36. Bc1 Bf6 37. Rh5 Ne1+ 38. Kh1 Be4+ 39. Kg1 Bg2 40. h3 Ne2+ 41. Kh2 Nxc1 42. Rf5 Be4 43. Rf4 Nf3+ 44. Kg2 Nd2+ 45. f3 Bg6 46. Bd7 Rb8 47. Kf2 Nd3+ 48. Kg2 Nxf4+ 49. gxf4 Bh5 50. Ra3 Nc4 51. Ra2 Ne3+ 52. Kg3 Nf5+ 53. Kg2 Nd4 54. Rf2 Bh4 55. e7 Bxf2 56. Kxf2 g5 57. d6 gxf4 58. Kf1 Bf7 59. h4 Rb1+ 60. Kg2 Rg7+ 61. Bg4 Rxg4+ 62. Kh2 Nxf3+ 63. Kh3 Rg3# 0-1

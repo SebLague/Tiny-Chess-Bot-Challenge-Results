@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "39"]
+[White "Greedy-Dumb-Bot (by: TrangML)"]
+[Black "Celluar Automaton Iterated (by: Pix)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c3 b6 2. e3 e5 3. Qg4 c6 4. Kd1 a5 5. Nf3 Bb7 6. Qh5 a4 7. Ng5 c5 8. Qxf7# 1-0

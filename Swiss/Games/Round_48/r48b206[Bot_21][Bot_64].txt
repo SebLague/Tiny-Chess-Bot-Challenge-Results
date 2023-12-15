@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "47"]
+[White "At least 2 IQ (by: Evan Finnigan)"]
+[Black "offtensive Crane (by: Joao Santos)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. a3 b6 2. Nf3 b5 3. Ng1 c6 4. e4 b4 5. axb4 d6 6. d3 e6 7. Ke2 f6 8. h4 e5 9. Nf3 g6 10. Nbd2 Kd7 11. Ng1 Ke7 12. f3 Kd7 13. Nb1 Ke7 14. b3 Kd7 15. g3 Ke7 16. Nd2 Kd7 17. Bh3+ Kc7 18. Bxc8 Kxc8 19. Nf1 Kd7 20. Bd2 Ke7 21. Bc1 Kd7 22. Be3 Ke7 23. Bc1 Kd7 1/2-1/2

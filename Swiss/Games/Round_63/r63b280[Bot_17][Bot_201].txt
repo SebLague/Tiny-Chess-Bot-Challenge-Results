@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "62"]
+[White "The Copycat (by: castur_)"]
+[Black "charge forward v1 (by: steel chair)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g4 h5 2. h4 hxg4 3. h5 Rxh5 4. Rh4 Rxh4 5. f4 gxf3 6. d4 fxe2 7. b3 exd1=B 8. Kd2 g5 9. Nf3 f5 10. Nxg5 e5 11. Ne4 fxe4 12. dxe5 d5 13. c4 dxc4+ 14. Kc3 cxb3 15. Ba6 bxa6 16. Na3 Bxa3 17. e6 Qd3# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "19"]
+[White "ConniBot (by: connorf25)"]
+[Black "SmallSearchAll (by: QuarksandAces (YT))"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Na6 2. Nc3 Nb4 3. d3 Rb8 4. Nb5 Ra8 5. Bf4 Nf6 6. Bxc7 Nxc2+ 7. Qxc2 Rb8 8. Bxd8 Kxd8 9. Qc7+ Ke8 10. Qxb8 Kd8 11. Qc7+ Ke8 12. Qxc8# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "18"]
+[White "Paroch (by: Bronson)"]
+[Black "ABadBot (by: Lucas)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. b4 Na6 2. b5 Nb4 3. a3 Nd5 4. f3 e6 5. a4 Qh4+ 6. g3 Qd4 7. c3 Qc4 8. a5 Ndf6 9. h3 Qxb5 10. d4 Bd6 11. Nd2 Bxg3# 0-1

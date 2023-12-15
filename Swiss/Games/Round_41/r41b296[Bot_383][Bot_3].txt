@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "40"]
+[White "Bobobot (by: Lino)"]
+[Black "Pancake (by: EaglePancake)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g3 e6 2. c3 Qg5 3. h4 Qxd2+ 4. Bxd2 Be7 5. a4 Bxh4 6. f3 Bxg3# 0-1

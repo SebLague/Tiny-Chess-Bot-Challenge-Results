@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "27"]
+[White "Mirror Bot (by: JuNi)"]
+[Black "Search 1.0 (by: Rayansh)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Illegal move"]
+
+1. e4 Nc6 2. Nc3 Nf6 3. Nf3 Nb4 4. Nb5 Nxc2+ 5. Ke2 Nxe4 6. Ne5 Nd4+ 7. Ke3 Nf5+ 8. Kf4 Nxd2 9. Nxd7 Bxd7 10. Bxd2 Bxb5 11. Bb4 Qd2+ 12. Kg4 Qxb4+ 13. Qd4 Qxd4+ 14. f4 Qxb2 15. Bd3 Qxg2+ 16. Kh5 Bxd3 17. Rab1 Qxa2 18. Rb6 Qxh2+ 19. Kg4 Qe2+ 20. Kg5 O-O-O 21. Rd6 Kb8 22. Rb1 Ka8 23. Ra1 Qa2 24. Rb1 Qg2+ 25. Kh5 Qe2+ 26. Kg5 Bb5 27. Rbd1 Rd7 28. R1d2 Nxd6 29. Rxd6 Qg2+ 30. Kh4 Qf2+ 31. Kg4 Qxf4+ 32. Kh3 Qf3+ 33. Kh2 Qf2+ 34. Kh3 Qf5+ 35. Kh2 Qf4+ 36. Kg2 Qxd6 37. Kf3 Qg6 38. Kf4 Qg2 39. Ke3 Qg4 40. Kf2 Bd3 41. Ke3 Qf5 42. Kd2 Qc5 43. Ke1 Qf5 44. Kd1 Qf4 45. Ke1 Bb1 46. Ke2 Rg8 47. Ke1 Ba2 48. Ke2 Bc4+ 49. Ke1 Bb3 50. Ke2 Bc2 51. Ke1 Rh8 52. Ke2 Bb1 53. Ke1 Rg8 54. Ke2 Bd3+ 55. Kd1 1-0

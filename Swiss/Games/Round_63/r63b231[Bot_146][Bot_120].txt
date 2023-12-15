@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "62"]
+[White "OneHundredAndEighty (by: Tom R.)"]
+[Black "EldenBot (by: Ghost_Dev_84)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 a6 2. Nf3 a5 3. Ne4 a4 4. Nd4 a3 5. b4 b6 6. c4 b5 7. f4 bxc4 8. g4 c3 9. dxc3 c6 10. Be3 c5 11. bxc5 d6 12. Rc1 dxc5 13. Qd3 cxd4 14. h4 dxe3 15. Qxe3 e6 16. Rh3 e5 17. fxe5 f6 18. Rf3 fxe5 19. Rc2 g6 20. c4 g5 21. Rc3 gxh4 22. Bg2 h3 23. Bxh3 h6 24. Bf1 h5 25. Bh3 hxg4 26. Bg2 gxf3 27. Bxf3 Bh3 28. Rc2 Bb4+ 29. Kf2 Be1+ 30. Kxe1 Bf1 31. Qc5 Bxe2 32. Rxe2 Na6 33. Qxe5+ Ne7 34. Qxh8+ Ng8 35. Qxg8+ Kd7 36. Qd5+ Kc7 37. Re3 Qxd5 38. cxd5 Nb4 39. Be2 Nxa2 40. Bd3 Nc1 41. Bc4 a2 42. Rc3 a1=Q 43. Re3 Na2+ 44. Kd2 Nc1 45. Rf3 Nb3+ 46. Rxb3 Ra2+ 47. Kd3 Rd2+ 48. Nxd2 Qb1+ 49. Rxb1 Kd6 50. Rb4 Kc5 51. Ne4+ Kxb4 52. d6 Ka3 53. d7 Kb2 54. d8=Q Ka1 55. Qd4+ Kb1 56. Bd5 Kc1 57. Qa1# 1-0

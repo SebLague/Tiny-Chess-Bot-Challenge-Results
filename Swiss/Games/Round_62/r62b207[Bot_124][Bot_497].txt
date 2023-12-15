@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "61"]
+[White "Depth2 (by: David Montealegre)"]
+[Black "Garbage Bot (by: Big Nerd)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 c5 2. Ne4 c4 3. Nc5 Nc6 4. Nf3 b5 5. Ne4 Qb6 6. Nc3 b4 7. Nd5 Qb7 8. Ne3 Nf6 9. Nxc4 Ng8 10. Ng5 f6 11. Ne4 f5 12. Nc5 Qb5 13. Nxd7 Kxd7 14. Ne3 f4 15. Ng4 a5 16. h3 a4 17. d3 Ra6 18. Bxf4 Kd8 19. Ne3 Na5 20. h4 g6 21. Qd2 Qb7 22. Be5 Bg7 23. Bxg7 Qb8 24. Nd5 e5 25. f3 Ke8 26. Bxh8 e4 27. Qxb4 Qxb4+ 28. Kd1 Qc5 29. dxe4 Qc6 30. Nf4 Qd7+ 31. Kc1 Qc6 32. c3 a3 33. bxa3 Qb5 34. e3 Nb3+ 35. Kb1 Nd2+ 36. Kc2 Nxf1 37. Raxf1 Qa4+ 38. Kc1 Qxa3+ 39. Kd2 Qxa2+ 40. Kd3 Rd6+ 41. Bd4 Ba6+ 42. c4 Qxc4+ 43. Kd2 Qa2+ 44. Kc1 Bxf1 45. Rxf1 Qc4+ 46. Kd1 Qxf1+ 47. Kd2 Qf2+ 48. Kd3 Qf1+ 49. Kd2 Qg1 50. g4 Qf2+ 51. Kd1 Qxf3+ 52. Kd2 Qf2+ 53. Ne2 Qxh4 54. e5 Rd7 55. e6 Rd6 56. Nf4 Qf2+ 57. Kd1 Qf1+ 58. Kd2 g5 59. Ne2 Rxe6 60. Nc1 Qg2+ 61. Kd1 Qxg4+ 62. Kd2 Qg2+ 63. Ke1 Qg3+ 64. Kf1 Qh3+ 65. Ke2 Qg4+ 66. Kd3 Qf5+ 67. Kd2 Qf2+ 68. Kd1 Qf1+ 69. Kd2 Re7 70. Nd3 Qg2+ 71. Kc1 Qh1+ 72. Kd2 Qh2+ 73. Kd1 Qh1+ 74. Ke2 Qg2+ 75. Kd1 Qf1+ 76. Kd2 Nh6 77. Ne1 Qf2+ 78. Kc1 Qxe1+ 79. Kc2 Qf2+ 80. Kb1 Rb7+ 81. Ka1 Qf1+ 82. Ka2 Qa6# 0-1

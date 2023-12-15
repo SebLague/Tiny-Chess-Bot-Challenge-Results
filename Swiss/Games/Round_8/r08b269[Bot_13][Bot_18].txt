@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "7"]
+[White "ScholarsBot (by: magic216)"]
+[Black "LPS (by: fhyyBy2)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Illegal move"]
+
+1. e4 d5 2. Bc4 dxe4 3. Qh5 Qxd2+ 0-1

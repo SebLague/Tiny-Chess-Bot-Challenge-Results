@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "37"]
+[White "Butter Bot, the bot with the butter on him (by: siued)"]
+[Black "Octobot (by: Andrea Colognese)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e6 2. Nf3 Qf6 3. d4 Bb4 4. Qd2 Nc6 5. Kd1 d5 6. Qd3 Bd7 7. Bg5 Qg6 8. Qxg6 hxg6 9. e4 Rh5 10. g4 Rh7 11. exd5 f6 12. dxc6 Bxc6 13. d5 exd5 14. Nd4 fxg5 15. Nxc6 bxc6 16. a3 Bc5 17. h4 Bxf2 18. Rh2 Be3 19. Re2 d4 20. Rxe3+ dxe3 21. Ke1 Rxh4 22. Nb5 cxb5 23. Bxb5+ Ke7 24. Rd1 Rh1+ 25. Bf1 Nf6 26. Ke2 Nxg4 27. Kf3 Rf8+ 28. Kxg4 Rg1+ 29. Bg2 Rxd1 30. Kxg5 e2 31. Kxg6 Rf7 32. Bf3 Rd6+ 33. Kg5 e1=Q 34. Bg4 Rd5+ 35. Kg6 Qh4 36. Bd1 Rg5# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "38"]
+[White "MinimaxAttackerBot5000 (by: ChrisCat123)"]
+[Black "Some rules bot (by: qumquat)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Na3 g6 2. Nb5 c6 3. Na3 Nh6 4. Rb1 Nf5 5. Ra1 Na6 6. e4 Nh6 7. Qf3 Qc7 8. Qc3 Rg8 9. Qe3 Ng4 10. Qe2 Nf6 11. e5 Nd5 12. Qe4 Nc5 13. Qd4 Ne6 14. Qe4 Nc5 15. Qd4 Ne6 16. Qe4 Ng5 17. Qd4 Ne6 1/2-1/2

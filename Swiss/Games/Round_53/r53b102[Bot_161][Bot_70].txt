@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "52"]
+[White "bLouBot (by: cmdrsigsegv)"]
+[Black "applemethod-orz (by: RedBlackTree)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 c6 2. Bf4 Qb6 3. b3 e5 4. Bg3 exd4 5. c3 dxc3 6. Nxc3 Bb4 7. Qc2 Qd4 8. Bxb8 Bxc3+ 9. Qxc3 Qxc3+ 10. Kd1 Qxa1+ 11. Kd2 Qxf1 12. Bxa7 Qxg2 13. Bd4 f6 14. f4 Qxh1 15. Kc3 Qxh2 16. Kb4 Qxf4 17. Kc4 Rxa2 18. e4 Qxe4 19. Nf3 Qxf3 20. Bb6 Qd5+ 21. Kc3 Qd2+ 22. Kc4 Rc2# 0-1

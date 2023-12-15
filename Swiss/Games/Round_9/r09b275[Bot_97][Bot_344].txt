@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "8"]
+[White "NotVeryGood (by: Jesse)"]
+[Black "DD9's chess bot (by: DigestDig9)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 d5 2. Rb1 d4 3. Ra1 Be6 4. Rb1 Bd5 5. Ra1 Be4 6. Rb1 Bxc2 7. Qxc2 Qd5 8. Qxc7 Qe4 9. Qd8+ Kxd8 10. Kd1 b6 11. Ke1 e5 12. Kd1 Bb4 13. Ke1 Bxd2+ 14. Kxd2 a5 15. Kd1 Ra6 16. Ke1 Ra7 17. Kd1 Rb7 18. Ke1 Rc7 19. Kd1 Rxc1+ 20. Kxc1 a4 21. Kd1 Qd5 22. Kc1 Qxa2 23. Kd1 Qb3+ 24. Kc1 Qb4 25. Kd1 Qb3+ 26. Ke1 Qa2 27. Kd2 Qb3 28. Ra1 Qxb2+ 29. Kd1 Qc3 30. Rb1 Qxa3 31. Rxb6 Qa1+ 32. Kc2 Qa2+ 33. Kc1 Qa3+ 34. Kb1 Qc3 35. Rxb8+ Kc7 36. Rb2 a3 37. Ka1 Qxb2# 0-1

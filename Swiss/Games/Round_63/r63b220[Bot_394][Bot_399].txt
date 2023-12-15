@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "62"]
+[White "Why Use Full Brain (by: JustAdy)"]
+[Black "Sleepy panda bot (by: Quinten F)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e6 2. d4 c6 3. e5 Qa5+ 4. Ke2 Qd5 5. Nc3 Qc4+ 6. Kf3 Qb4 7. Ne4 Qe7 8. Nf6+ Nxf6 9. exf6 Qxf6+ 10. Ke2 Bd6 11. g4 Qg6 12. h4 Qxg4+ 13. Kd3 Qxd1+ 14. Kc3 Qxf1 15. a4 Qxf2 16. h5 Qf5 17. b3 Qd5 18. Nh3 Qf3+ 19. Kd2 Bb4+ 20. c3 Qxc3+ 21. Ke2 f5 22. Ng5 Ke7 23. Bf4 Bd6 24. Bxd6+ Kxd6 25. Nf7+ Kd5 26. Nxh8 Qd2+ 27. Kxd2 b5 28. a5 Kxd4 29. b4 c5 30. bxc5 Nc6 31. Nf7 g6 32. h6 Rb8 33. Nh8 Ba6 34. Nf7 Rf8 35. Nd6 b4 36. Nxf5+ Rxf5 37. Rh4+ Kxc5 38. Rg4 Rd5+ 39. Ke3 Re5+ 40. Kf4 Rf5+ 41. Ke4 d5+ 42. Ke3 Re5+ 43. Kf4 Re4+ 44. Kg5 Kd4 45. Rxe4+ dxe4 46. Ra4 Kc3 47. Ra3+ bxa3 48. Kf6 Kb4 49. Kxe6 Bc4+ 50. Kd7 Kb5 51. Ke8 e3 52. Kf8 a6 53. Ke8 Be6 54. Kf8 g5 55. Ke8 a2 56. Kf8 a1=Q 57. Ke8 Qh8# 0-1

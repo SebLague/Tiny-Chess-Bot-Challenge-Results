@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "15"]
+[White "KBot (by: Kristian Mischke)"]
+[Black "OppToss (by: Jan Stachurski)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g4 d5 2. g5 e5 3. Bh3 Bxh3 4. Nxh3 h6 5. gxh6 Rxh6 6. Ng1 Nc6 7. a4 Rg6 8. b3 Bc5 9. h3 Rg2 10. e3 Qf6 11. Qe2 Qg6 12. Kf1 Rd8 13. Ra2 e4 14. Ra1 Nb4 15. Qb5+ Nc6 16. Qxc5 Rxf2+ 17. Kxf2 Qf6+ 18. Kg2 Qxa1 19. Ne2 Qxb1 20. Nd4 Nge7 21. Nxc6 Nxc6 22. Ba3 Qa2 23. Qf8+ Kd7 24. Qxf7+ Kc8 25. Bc1 Qxc2 26. Qxg7 Qxb3 27. Qa1 d4 28. Rf1 Qd5 29. Rh1 Qg5+ 30. Kf1 Rf8+ 31. Ke1 d3 32. Qg7 Qxg7 33. Kd1 Qg2 34. Re1 Nd4 35. Bb2 Rf1 36. exd4 b5 37. axb5 Qg1 38. Rxf1 Qxf1# 0-1

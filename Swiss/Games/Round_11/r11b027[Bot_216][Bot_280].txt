@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "10"]
+[White "Average Chess bot (by: )"]
+[Black "DeltaWeakness (by: Johan Zetterlund)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 c5 2. Nc3 e5 3. Nf3 Bd6 4. Nb5 Bc7 5. Nxc7+ Qxc7 6. c3 Nf6 7. d4 cxd4 8. cxd4 O-O 9. dxe5 Nxe4 10. Qd3 Qa5+ 11. Ke2 d5 12. exd6 Bf5 13. Qb3 Nc6 14. Qxb7 Nb4 15. a3 Nc2 16. Ra2 Nxd6 17. Qc6 Be4 18. Qxd6 Rad8 19. Bd2 Qa4 20. b3 Qxb3 21. Qxd8 Rxd8 22. Rxc2 Bxf3+ 23. gxf3 Qxc2 24. Bh3 Rxd2+ 25. Ke3 g5 26. Bf1 Kg7 27. f4 Qc3+ 28. Ke4 Qd4+ 29. Kf3 Qxf4+ 30. Kg2 Qg4# 0-1

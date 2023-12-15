@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "3"]
+[White "Wee fella (by: Samm)"]
+[Black "Funko Bot (by: Sky Sherwood)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 h5 2. e4 g6 3. d5 Nc6 4. a4 Nd4 5. Qxd4 Bg7 6. Qxg7 f6 7. Qxh8 f5 8. Qxg8# 1-0

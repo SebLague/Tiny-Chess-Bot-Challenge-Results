@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "46"]
+[White "CarlitosDarwin (by: Mateo Marenco)"]
+[Black "LazyBot (by: Tim de Jong)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 e6 2. a3 Qf6 3. b3 Nc6 4. e3 a6 5. Nd2 d5 6. Nh3 Bd6 7. Nb1 Nge7 8. c4 O-O 9. cxd5 exd5 10. Bd3 Qh4 11. Ng1 Bg4 12. Qc2 Bxh2 13. Nd2 Qh5 14. Nf1 Bd1 15. Qxd1 Qxd1+ 16. Kxd1 Bxg1 17. Bxh7+ Kh8 18. Bc2+ Kg8 19. Rxg1 Na7 20. e4 Nb5 21. Bb2 dxe4 22. Bxe4 Nxd4 23. Bxd4 Rad8 24. Bxb7 Rxd4+ 25. Nd2 Rfd8 26. Ra2 Rb8 27. Bxa6 Rxb3 28. Ke1 Rc3 29. Ke2 Ng6 30. a4 Rd6 31. Bb7 Nf4+ 32. Kd1 Nd3 33. Rf1 Rc1+ 34. Ke2 Rc3 35. Raa1 Nf4+ 36. Ke1 Rc2 37. g3 Nd3+ 38. Kd1 Nb4 39. Ke2 Rdxd2+ 40. Kf3 Nd3 41. Kg2 Nxf2 42. Ra3 Ne4+ 43. Kf3 Nd6 44. Ba8 Nc4 45. Raa1 Rd8 46. Be4 Nd2+ 47. Ke3 Rc3+ 48. Kf4 g5+ 49. Kf5 Rc5+ 50. Kg4 Rd4 51. Rfc1 Rxe4+ 52. Kh3 g4+ 53. Kg2 Re2+ 54. Kg1 Nf3+ 55. Kf1 Rec2 56. Rxc2 Rxc2 57. Rd1 Nh2+ 58. Kg1 Kg7 59. Ra1 Nf3+ 60. Kf1 Rh2 61. Ra3 Rh1+ 62. Ke2 Nd4+ 63. Kf2 Rh2+ 64. Kf1 Rc2 65. Rd3 Rc4 66. Ra3 Rc1+ 67. Kf2 Rc2+ 68. Ke1 Nc6 69. Rb3 Rc4 70. Rb7 Nd8 71. Ra7 Ne6 72. Kf2 Rc2+ 73. Kf1 Rc3 74. Ra5 Rxg3 75. Rb5 Rf3+ 76. Ke1 g3 77. Rb4 Nf4 78. Rb1 g2 79. Kd2 Rf1 80. Rb7 Ne6 81. Rb2 g1=Q 82. Rb4 Rf2+ 83. Kc3 Qc1+ 84. Kd3 Qc2+ 85. Ke3 Qe2# 0-1

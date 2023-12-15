@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "58"]
+[White "WhyAmIABot (by: Levi)"]
+[Black "FINCh (by: AMCR Studios (Heather Costello & Tesseract King))"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d3 e6 2. c4 Bb4+ 3. Nd2 Nc6 4. b3 Nf6 5. Nh3 Bc3 6. Bb2 Bxb2 7. Rb1 Bc3 8. Qc1 Bxd2+ 9. Qxd2 Ng4 10. Rd1 Qh4 11. Qf4 O-O 12. Ng1 Rd8 13. Qxc7 Qxf2+ 14. Kd2 Qe3+ 15. Kc3 Qd4+ 16. Kc2 Ne3+ 17. Kd2 Nxf1+ 18. Rxf1 Qb2+ 19. Ke3 Re8 20. Rf4 Qc1+ 21. Ke4 d5+ 22. cxd5 exd5+ 23. Kxd5 Be6+ 24. Kd6 Qxf4+ 25. Kc5 Qb4# 0-1

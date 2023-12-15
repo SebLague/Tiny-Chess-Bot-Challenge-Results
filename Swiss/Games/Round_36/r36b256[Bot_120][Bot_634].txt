@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "35"]
+[White "EldenBot (by: Ghost_Dev_84)"]
+[Black "AeroBot (by: vakqDev)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a3 b5 2. b3 Bb7 3. c3 f5 4. d3 Qc8 5. e3 e5 6. f3 Bc5 7. g3 Nc6 8. h3 Rb8 9. a4 Kd8 10. axb5 d5 11. bxc6 Bd4 12. exd4 g6 13. cxb7 Ke7 14. bxc8=N+ Ke6 15. dxe5 d4 16. cxd4 Kd5 17. b4 Rb7 18. f4 Rb6 19. Nxb6+ axb6 20. g4 c6 21. gxf5 gxf5 22. h4 Kxd4 23. b5 cxb5 24. h5 Ne7 25. e6 Rb8 26. h6 Rh8 27. Bb2+ Ke3 28. Qc1# 1-0

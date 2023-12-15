@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "19"]
+[White "Mini Lapdok (by: Lapdok)"]
+[Black "Sambot (by: Sam)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 c6 2. f4 Nf6 3. Nf3 Na6 4. e3 Nb4 5. d4 Nfd5 6. e4 Nf6 7. a3 Nxc2+ 8. Qxc2 Rb8 9. e5 Nd5 10. Nxd5 cxd5 11. Bd3 Qa5+ 12. b4 Qd8 13. Be3 a5 14. Qc5 axb4 15. Qa7 Qc7 16. Rc1 Kd8 17. Rxc7 Kxc7 18. O-O d6 19. Bb5 e6 20. Rc1+ Kd8 21. Qxb8 dxe5 22. Qc7# 1-0

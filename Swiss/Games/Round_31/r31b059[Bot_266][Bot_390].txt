@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "30"]
+[White "Game Tech Explained Bot (by: Game Tech Explained)"]
+[Black "BuiltCleverBot (by: Scott Ward)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. e3 Nc6 3. Nf3 d5 4. Nbd2 e6 5. Bd3 Bd6 6. e4 e5 7. dxe5 Nxe5 8. Nxe5 Bxe5 9. exd5 Qxd5 10. Nf3 Bg4 11. O-O O-O-O 12. Re1 Kb8 13. Rxe5 Bxf3 14. Rxd5 Bxd1 15. Rxd8+ Rxd8 16. f3 Re8 17. Kf2 Nd5 18. Bd2 Bxc2 19. Bxc2 h6 20. Rd1 Rd8 21. Bc3 g5 22. Be5 Rd7 23. Ba4 Rd8 24. Bb3 f6 25. Bxf6 Rd6 26. Rxd5 Rxd5 27. Bxd5 a5 28. Bf7 Kc8 29. Bg7 h5 30. Bxh5 Kb8 31. Ke3 a4 32. Be5 Kc8 33. Bg4+ Kd8 34. Bf6+ Ke8 35. Bxg5 b5 36. Kd4 b4 37. Kc5 b3 38. a3 Kf7 39. Bd7 Kg6 40. f4 Kh7 41. f5 Kg7 42. Be6 Kh7 43. Be7 Kh6 44. f6 Kg5 45. g3 Kh6 46. f7 Kg6 47. g4 Kg7 48. f8=Q+ Kh7 49. Bf5# 1-0

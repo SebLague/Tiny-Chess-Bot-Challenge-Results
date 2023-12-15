@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "62"]
+[White "vinctus (by: vinctus)"]
+[Black "simple chess bot (by: 4a0I)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. e4 e5 2. Nf3 Qf6 3. Bc4 a5 4. O-O Bc5 5. d4 exd4 6. Qd3 a4 7. Bg5 Qb6 8. Ne5 Qxb2 9. Qf3 f6 10. Qh5+ Ke7 11. Qf7+ Kd8 12. Nd3 Qxa1 13. Nxc5 Ne7 14. Qxg7 Re8 15. Bxf6 Nc6 16. Bf7 b6 17. Bxe8 Kxe8 18. Qh8+ Kf7 19. Qg7+ Ke8 20. Qh8+ Kf7 21. Qg7+ Ke8 1/2-1/2

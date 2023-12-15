@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "4"]
+[White "dumbot (by: slothinahat)"]
+[Black "Jormungandr (but scuffed) (by: CptShini)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d3 e5 2. Qd2 g5 3. Qxg5 Bb4+ 4. Bd2 Qxg5 5. Bxb4 Qc1# 0-1

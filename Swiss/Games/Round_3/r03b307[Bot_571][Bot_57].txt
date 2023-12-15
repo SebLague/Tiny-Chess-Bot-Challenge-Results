@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "GoblinArmy (by: TheChroniclerDelta)"]
+[Black "Obi (by: Carson Ouckama)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. b4 e5 2. h4 Qxh4 3. e4 Qxh1 4. Ke2 Qxg1 5. d3 Bxb4 6. Bf4 exf4 7. Na3 Bxa3 8. Kf3 g5 9. Qd2 h5 10. Qxf4 gxf4 11. Kxf4 Qxf2+ 12. Kg5 Qf6# 0-1

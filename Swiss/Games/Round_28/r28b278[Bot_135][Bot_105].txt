@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "27"]
+[White "pawnHater300 (by: hakrackete)"]
+[Black "NotSoEvilBot (by: AntVil)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Insufficient material"]
+
+1. a4 a6 2. a5 b6 3. axb6 cxb6 4. Rxa6 Nxa6 5. b4 Nxb4 6. c4 b5 7. cxb5 d6 8. b6 d5 9. b7 d4 10. bxa8=Q d3 11. Qxc8 Qxc8 12. exd3 Qxc1 13. Qxc1 Nxd3+ 14. Bxd3 e6 15. Bxh7 Rxh7 16. d4 e5 17. dxe5 f6 18. exf6 gxf6 19. f4 f5 20. g4 fxg4 21. f5 g3 22. hxg3 Rxh1 23. f6 Rxg1+ 24. Kd2 Rxc1 25. Kxc1 Nxf6 26. g4 Nxg4 27. Kd1 Nf2+ 28. Ke2 Nd1 29. Kxd1 Ba3 30. Nxa3 1/2-1/2

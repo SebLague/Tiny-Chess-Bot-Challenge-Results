@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "51"]
+[White "BaddieBot (by: Domic)"]
+[Black "Depth2 (by: David Montealegre)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 Nc6 2. c3 Ne5 3. Bb5 e6 4. g3 Ne7 5. e4 Ng8 6. d4 Nc6 7. e5 Na5 8. Qf3 g6 9. Kd1 Ne7 10. b4 Nac6 11. Bxc6 dxc6 12. Nd2 Bh6 13. Nc4 Bxc1 14. Rxc1 f5 15. exf6 Ng8 16. f7+ Kf8 17. fxg8=Q+ Kxg8 18. Kc2 h6 19. Kb1 a6 20. Kb2 h5 21. Kb1 g5 22. Rd1 Qd7 23. Kb2 Kg7 24. Ne5 Qe8 25. Kb3 Rf8 26. h3 Rxf3 27. Ngxf3 Kh7 28. Nxg5+ Kg7 29. Rde1 Qd8 30. Ne4 Kh8 31. f4 Kg7 32. Rhg1 h4 33. gxh4+ Kh8 34. Nf7+ Kh7 35. Nxd8 Kh6 36. Nf6 b6 37. Nf7# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "56"]
+[White "LIA Chess (by: Patrick und Jannik)"]
+[Black "BoringBot (by: Carson Bates)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 f6 2. Nf3 e6 3. e4 d5 4. exd5 exd5 5. Bb5+ c6 6. Be2 d4 7. Ne4 h5 8. Nh4 Qd5 9. Ng3 Bg4 10. f3 Bc8 11. f4 Bg4 12. Bxg4 hxg4 13. Qxg4 g5 14. Ng6 gxf4 15. Qc8+ Qd8 16. Qe6+ Ne7 17. Nf5 Rh7 18. Nd6+ Qxd6 19. Qxd6 Nxg6 20. Qxd4 b5 21. Qxf6 Re7+ 22. Kf1 Rg7 23. d3 a5 24. Bxf4 Nxf4 25. Re1+ Re7 26. Qxf4 Rxe1+ 27. Kxe1 a4 28. Qc7 Bb4+ 29. c3 Ba5 30. Qb7 Ra6 31. Qxb8+ Bd8 32. Rf1 a3 33. Qb7 Bh4+ 34. Ke2 Ra4 35. Rf7 Rd4 36. cxd4 axb2 37. Qd7# 1-0

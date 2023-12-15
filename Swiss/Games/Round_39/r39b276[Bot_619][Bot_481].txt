@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "38"]
+[White "Bad Player (by: Geopardgame)"]
+[Black "Just Alright... Kinda... (JAK) (by: Joshnaks)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c4 a5 2. f3 c5 3. d4 cxd4 4. h3 d3 5. b4 dxe2 6. Nc3 exd1=N 7. Bh6 Nxc3 8. Ne2 Nxe2 9. Bf4 Nxf4 10. Kd2 axb4 11. Ke3 e5 12. a3 Bc5+ 13. Ke4 bxa3 14. Rh2 Bd4 15. g3 Bxa1 16. Rg2 Nxg2 17. g4 Nf4 18. Kf5 d5# 0-1

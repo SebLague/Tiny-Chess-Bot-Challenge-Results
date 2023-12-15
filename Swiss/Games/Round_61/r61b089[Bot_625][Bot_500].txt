@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "60"]
+[White "Bongcloud Bot (by: lurendrei)"]
+[Black "WitwerMacher (by: Yannik Bleilinger)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e6 2. Ke2 Qh4 3. Nc3 Bb4 4. Nf3 Qh5 5. d4 Bxc3 6. bxc3 Kd8 7. Bg5+ f6 8. Be3 b6 9. d5 exd5 10. Qxd5 Qxd5 11. exd5 Ne7 12. Rd1 Re8 13. g4 d6 14. Rg1 Nxd5 15. Rxd5 Nd7 16. Rh5 h6 17. Rd5 Ke7 18. Kd1 c6 19. Rd4 Ke6 20. Bc4+ d5 21. Bd3 Kd6 22. Bg6 Rd8 23. Re1 Nb8 24. Bf4+ Kd7 25. Bf5# 1-0

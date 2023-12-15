@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "20"]
+[White "Chark Bot (by: Team Chark V1)"]
+[Black "DLComp2 (by: DawnLamp8)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. Qf3 Nc6 3. Ne2 Nb4 4. Qc3 e6 5. h3 Nxe4 6. Qc4 b5 7. Qxe4 d5 8. Qf4 Nxc2+ 9. Kd1 Nxa1 10. Ng3 Rb8 11. Nc3 b4 12. Bb5+ Bd7 13. Nxd5 Bd6 14. Bxd7+ Qxd7 15. Qe4 Qa4+ 16. b3 Qxa2 17. Nxc7+ Bxc7 18. Ke2 Nxb3 19. Nf5 Kf8 20. Ne3 Ba5 21. Nc4 Rd8 22. Bb2 Nxd2 23. Bxg7+ Kxg7 24. Qe5+ f6 25. Qg3+ Kf7 26. Nd6+ Rxd6 27. Qf4 Ne4+ 28. Ke3 Qd2+ 29. Kf3 Qxf2+ 30. Kxe4 Rd4# 0-1

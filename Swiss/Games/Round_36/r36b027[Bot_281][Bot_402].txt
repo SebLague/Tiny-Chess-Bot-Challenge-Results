@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "35"]
+[White "timecat-mini (by: Gourab Ghosh)"]
+[Black "Lxna (V4) (by: Ludovic Debever (Lxdovic))"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Nc3 Nf6 3. d4 d5 4. e5 Ne4 5. Bb5 Bf5 6. Nce2 e6 7. f3 Qh4+ 8. g3 Nxg3 9. Nxg3 a6 10. Bxc6+ bxc6 11. Ne2 Be7 12. O-O Bh3 13. Re1 O-O 14. Be3 f6 15. f4 Bg4 16. Qd2 Rab8 17. Rab1 Qh3 18. Nc3 fxe5 19. fxe5 Bh4 20. Bf2 Bf3 21. Be3 Bxg3 22. Rf1 Bxh2+ 23. Qxh2 Qg4+ 24. Kf2 Be2+ 25. Bf4 Rxf4+ 26. Qxf4 Qxf4+ 27. Kxe2 Qxd4 28. a3 c5 29. Rf2 Qxe5+ 30. Kd1 c4 31. Re2 Qh5 32. Na2 d4 33. Nc1 Rf8 34. Ke1 Qh1+ 35. Kd2 Rf1 36. Re1 Rxe1 37. c3 Qe4 38. cxd4 Qe3+ 39. Kc2 Rxc1+ 40. Rxc1 Qd3# 0-1

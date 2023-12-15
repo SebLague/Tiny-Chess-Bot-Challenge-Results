@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "39"]
+[White "Simple Minimax (by: Sidewinder7)"]
+[Black "The Mad King (by: Coding With Avaclava)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 a5 2. Qg4 d6 3. Qg5 e6 4. Bb5+ Nd7 5. Qg3 h5 6. Ne2 b6 7. O-O f6 8. Qh4 Kf7 9. f3 c5 10. d3 g6 11. e5 Nxe5 12. Kh1 f5 13. Qxd8 d5 14. Qc7+ Kf6 15. Bg5+ Kxg5 16. Qxe5 h4 17. Qxh8 Bb7 18. f4+ Kg4 19. h3# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "8"]
+[White "ABadBot (by: Lucas)"]
+[Black "Bob (by: Victor)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 Nc6 2. c3 Nf6 3. Qa4 e5 4. Nb1 b6 5. Nh3 g6 6. d3 Bc5 7. Bg5 a6 8. Qd1 d5 9. g4 Bxg4 10. Ng1 h6 11. Bh4 Kd7 12. h3 Bf5 13. b4 Nxb4 14. Bxf6 Qxf6 15. Qb3 Bxf2+ 16. Kd1 Bxg1 17. cxb4 c6 18. Rxg1 e4 19. Qc3 d4 20. Qc2 e3 21. Bg2 Ra7 22. Kc1 c5 23. bxc5 Kc7 24. cxb6+ Kxb6 25. Qb2+ Kc7 26. Qb4 Qe5 27. Kd1 Rb8 28. Qa3 Kd7 29. Qa4+ Ke7 30. Rf1 Bd7 31. Qa3+ Ke8 32. Re1 Qg5 33. Bh1 f6 34. Bf3 Bxh3 35. Qd6 Rxb1+ 36. Rxb1 Rf7 37. Rb8+ Bc8 38. Rxc8# 1-0

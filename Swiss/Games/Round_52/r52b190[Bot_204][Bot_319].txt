@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "51"]
+[White "Blindo (by: MS)"]
+[Black "GOYO Bot v1.1.2 (by: Goyo)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Qh5 Nc6 3. Bb5 Nd4 4. Qxe5+ Ne6 5. Bc4 Qh4 6. Bxe6 dxe6 7. Qxc7 Qxe4+ 8. Kf1 Qg4 9. Qe5 g6 10. Qb5+ Ke7 11. Qe5 a6 12. Qc7+ Kf6 13. Qc3+ e5 14. Qe3 Bf5 15. Qb6+ Kg7 16. Qe3 f6 17. Qe1 Bxc2 18. Qe3 f5 19. Qxe5+ Kh6 20. d4+ f4 21. Bd2 Qd1+ 22. Be1 Bd3+ 23. Ne2 Bxe2+ 24. Qxe2 Qxe2+ 25. Kxe2 Re8+ 26. Kf3 g5 27. g4 b5 28. Nc3 b4 29. Nd5 Bg7 30. Nxb4 Bxd4 31. Nxa6 Bxb2 32. Rb1 Be5 33. Rb5 Nf6 34. Rb6 Ref8 35. Bb4 Re8 36. Rc6 Reg8 37. Re6 Rg6 38. Rxe5 Rg7 39. Rf5 Rg6 40. Be7 Rg7 41. Rxf6+ Rg6 42. Rxg6+ hxg6 43. Bf6 Rh7 44. Be5 Rf7 45. Bd6 Rg7 46. Be5 Rh7 47. Bf6 Rf7 48. Nc5 Rxf6 49. Ne4 Re6 50. a4 Re5 51. h3 Rd5 52. Nf6 Rd3+ 53. Ke4 f3 54. Kxd3 Kg7 55. Ke4 Kxf6 56. Kxf3 Ke7 57. Rd1 Ke8 58. Rd6 Kf8 59. Rxg6 Ke8 60. Rxg5 Kd8 61. Rg7 Kc8 62. g5 Kb8 63. Rd7 Ka8 64. g6 Kb8 65. g7 Kc8 66. g8=Q+ Kxd7 67. Qd5+ Kc8 68. Qd6 Kb7 69. Ke4 Ka8 70. Qa6+ Kb8 71. Qc6 Ka7 72. Qb5 Ka8 73. f4 Ka7 74. f5 Ka8 75. f6 Ka7 76. f7 Ka8 77. f8=Q+ Ka7 78. Qfb8# 1-0

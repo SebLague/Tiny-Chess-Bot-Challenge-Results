@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Knockout 64"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "-1"]
+[White "CompressionBot (by: Nathan George)"]
+[Black "Magnuth Carlthen (by: wolfuhfuh)"]
+[Result "0-1"]
+[TimeControl "30+0.1"]
+[Termination "Checkmate"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. d4 e6 5. Bd3 Nf6 6. e5 Nfd7 7. h3 Bxf3 8. Qxf3 c5 9. dxc5 Nxe5 10. Bb5+ Nec6 11. Qg4 d4 12. Bg5 h5 13. Qg3 Qa5 14. O-O-O h4 15. Bxh4 Rxh4 16. Qxh4 dxc3 17. Qc4 cxb2+ 18. Kxb2 a6 19. Bxc6+ Nxc6 20. Qb3 Bxc5 21. Rhf1 Bd4+ 22. c3 Bf6 23. Rfe1 Rc8 24. Rc1 Qg5 25. Rg1 Qf4 26. Qb6 Nd4 27. Rgf1 Qd2+ 28. Kb1 Rxc3 29. Qxb7 Rxc1+ 30. Rxc1 Qd3+ 31. Kb2 Nc2+ 32. Kb1 Na3# 0-1

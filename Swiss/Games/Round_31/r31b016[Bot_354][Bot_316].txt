@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "30"]
+[White "FomBot (by: fominvic81)"]
+[Black "Sky-Bot (by: Sky64Redstone)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Nxd4 6. Qxd4 d6 7. Bc4 c5 8. Qd3 Be7 9. Bf4 O-O 10. Rd1 Re8 11. O-O a6 12. Bxd6 Bxd6 13. Qxd6 Qxd6 14. Rxd6 b5 15. Bd5 Nxd5 16. Nxd5 Ra7 17. Rd1 Bg4 18. f3 Be6 19. Rc6 c4 20. Nc7 Rf8 21. Nxe6 fxe6 22. Rxe6 Rc8 23. c3 a5 24. Rb6 b4 25. cxb4 axb4 26. Rxb4 Rxa2 27. Rd7 h6 28. Rbb7 Kh8 29. e5 c3 30. bxc3 Rxc3 31. h4 Ra1+ 32. Kh2 Rc4 33. e6 Rxh4+ 34. Kg3 Rh5 35. Rxg7 Rg5+ 36. Rxg5 hxg5 37. e7 Ra8 38. Rd7 Re8 39. Rd8 Kg7 40. Rxe8 Kf7 41. Ra8 Kxe7 42. Kg4 Kd6 43. Kxg5 Kc5 44. f4 Kb6 45. f5 Kc5 46. g3 Kc4 47. f6 Kd5 48. Rd8+ Ke4 49. g4 Kf3 50. f7 Kf2 51. f8=Q+ Kg2 52. Rd2+ Kg1 53. Qf6 Kh1 54. Qa1# 1-0

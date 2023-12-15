@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "42"]
+[White "Paradox Bot (by: Kekz)"]
+[Black "MilkMindV1 (by: Josiah Jordan )"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. Nf3 e6 3. Nbd2 Nc6 4. Nb3 Bb4+ 5. c3 Bd6 6. e4 Nxe4 7. Bb5 f5 8. Qe2 Kf7 9. Bxc6 dxc6 10. Kd1 Qf6 11. h4 h6 12. Ke1 Bd7 13. Kf1 g5 14. hxg5 hxg5 15. Rxh8 Rxh8 16. Qc2 g4 17. Nfd2 g3 18. fxg3 Nxg3+ 19. Ke1 f4 20. Nf3 Rh1+ 21. Kd2 Nf5 22. Qd3 Qg6 23. Ne1 Rh8 24. Kd1 Kf6 25. Nd2 Ne3+ 26. Ke2 Qg4+ 27. Ndf3 Nxg2 28. Rb1 Rh2 29. Kd1 Be8 30. d5 Bg6 31. Qd4+ e5 32. Qg1 Bxb1 33. Qxh2 Nxe1 34. Qh6+ Bg6 35. Qh4+ Qxh4 36. Nxh4 Nd3 37. Nxg6 Kxg6 38. dxc6 bxc6 39. b4 Be7 40. Kc2 e4 41. Kd2 f3 42. Ba3 a5 43. Bc1 Nxc1 44. Kxc1 f2 45. Kb2 f1=Q 46. a3 e3 47. Ka2 e2 48. Kb3 e1=Q 49. c4 axb4 50. Ka4 Qxc4 51. axb4 Qexb4# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "63"]
+[White "Mini Lapdok (by: Lapdok)"]
+[Black "RayBot (by: Shahriar Rayed)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 d5 2. Nf3 d4 3. Nb5 Nc6 4. e3 dxe3 5. dxe3 e5 6. Qxd8+ Kxd8 7. Ng5 Nh6 8. Bd3 Nb4 9. Nf3 Bd7 10. Nc3 Nxd3+ 11. cxd3 f6 12. e4 Bc5 13. Bxh6 gxh6 14. Nd5 Be7 15. d4 exd4 16. Nxe7 Kxe7 17. Rc1 d3 18. Rxc7 Rac8 19. Rxc8 Rxc8 20. Kd2 Rc2+ 21. Kxd3 Rxb2 22. Ke3 Rxa2 23. Rc1 Ra3+ 24. Kf4 Ke8 25. h4 b6 26. Nd4 Ra2 27. Kf3 h5 28. Rc4 Ra3+ 29. Ke2 a6 30. g3 Ra1 31. f3 Rg1 32. Kf2 Rb1 33. Ke3 Re1+ 34. Kf4 Rd1 35. Rb4 a5 36. Rxb6 Rxd4 37. Rxf6 Ke7 38. Rh6 Be8 39. Rxh7+ Bf7 40. Ke3 Rd1 41. Ke2 Ra1 42. Ke3 a4 43. f4 a3 44. e5 Re1+ 45. Kd2 a2 46. Kxe1 a1=Q+ 47. Ke2 Qb2+ 48. Kf3 Qb3+ 49. Kf2 Qc2+ 50. Kf3 Qxh7 51. Ke2 Qc2+ 52. Kf3 Bd5+ 53. Ke3 Qc3+ 54. Ke2 Bc4+ 55. Kd1 Bd3 56. g4 Qc2+ 57. Ke1 Qe2# 0-1

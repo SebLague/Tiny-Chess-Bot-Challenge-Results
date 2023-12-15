@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "15"]
+[White "ItBeatMyFriend (by: Sanfordpox)"]
+[Black "simple chess bot (by: 4a0I)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. b3 e6 2. Bb2 Qh4 3. Nf3 Qb4 4. g3 Nf6 5. e3 Ng4 6. Bh3 Nc6 7. a3 Qe4 8. Nc3 Qf5 9. O-O Nxe3 10. dxe3 Qxh3 11. Nb5 Kd8 12. Ne5 Nxe5 13. Bxe5 d6 14. Qd4 Rg8 15. Rfd1 Bd7 16. Nc3 Qf5 17. Bf4 e5 18. Qd5 exf4 19. Qxb7 Rc8 20. exf4 Qxc2 21. Rdc1 Qb2 22. Qxa7 Qxb3 23. Qd4 Bg4 24. Qd3 g6 25. Re1 Bg7 26. Qe4 Be6 27. Rec1 Bxc3 28. Rab1 Qxa3 29. Qc2 Bf5 30. Rb3 Bxc2 31. Rxa3 Bb2 32. Rxc2 Bxa3 33. Rc3 Bc5 34. g4 Rb8 35. Kg2 Kd7 36. Rc2 Rb4 37. h4 Rxf4 38. f3 Rb8 39. Kg3 Ra4 40. g5 Rb1 41. Re2 Rg1+ 42. Kh3 d5 43. Re5 Bf2 44. Rxd5+ Kc6 45. f4 Rg3+ 46. Kh2 Kxd5 47. Kh1 Rxf4 48. Kh2 Rxh4# 0-1

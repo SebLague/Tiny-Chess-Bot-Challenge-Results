@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "20"]
+[White "AchillesAlpha (by: Achilles)"]
+[Black "ItPlaysBetterThanMe (by: RB)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a3 a6 2. b3 e5 3. f3 Qh4+ 4. g3 d5 5. gxh4 f6 6. c3 f5 7. h3 e4 8. Bg2 g6 9. Kf2 Bc5+ 10. Kf1 e3 11. dxe3 a5 12. Qxd5 b5 13. Qe5+ Kf7 14. Qxh8 b4 15. Qxh7+ Ke8 16. Qxg6+ Kf8 17. Qg3 bxa3 18. Qxc7 a4 19. Qxc8+ Kf7 20. Qb7+ Kg6 21. Qxa8 axb3 22. Bxa3 Bxe3 23. Qa4 f4 24. Qe8+ Kg7 25. Bf8+ Kh8 26. Bb4 b2 27. Ra2 Kh7 28. Qe4+ Kh6 29. Bf8+ Kh5 30. Qf5+ Kxh4 31. Qg4# 1-0

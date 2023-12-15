@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "Leonidas (by: DeveloperPaul123)"]
+[Black "Captain Botvious (by: Selim Sheta)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. e4 e5 2. Nf3 d5 3. exd5 e4 4. Qe2 Qxd5 5. Nc3 Qd8 6. Nxe4 Ne7 7. d4 Bg4 8. c3 Nbc6 9. Bf4 Bxf3 10. gxf3 Qd7 11. Nc5 Nxd4 12. cxd4 Qxd4 13. Qb5+ Nc6 14. Qxb7 Qxf4 15. Qxc6+ Ke7 16. Qd7+ Kf6 17. Ne4+ Kg6 18. Rg1+ Kh6 0-1

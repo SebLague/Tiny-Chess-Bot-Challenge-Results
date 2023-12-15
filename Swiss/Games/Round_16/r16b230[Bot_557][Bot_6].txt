@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "15"]
+[White "Achilles Random (by: Achilles)"]
+[Black "Compact Scholar's mate (by: Chris)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f3 e6 2. h4 Bc5 3. Nh3 Qf6 4. Ng5 Qf5 5. Nxf7 Qxf7 6. d4 Bf8 7. d5 exd5 8. Qxd5 Qxd5 9. Bg5 Bb4+ 10. Bd2 Bxd2+ 11. Nxd2 h5 12. Kd1 c5 13. Kc1 g5 14. hxg5 Qxg5 15. f4 Qxf4 16. Rxh5 Rxh5 17. c3 d5 18. b4 cxb4 19. cxb4 b5 20. Rb1 a6 21. Ra1 d4 22. a4 bxa4 23. Rxa4 Ne7 24. Rxa6 Nxa6 25. e3 dxe3 26. Bxa6 exd2+ 27. Kc2 Bxa6 28. g3 Bd3+ 29. Kxd3 d1=Q+ 30. Kc3 Qfc1# 0-1

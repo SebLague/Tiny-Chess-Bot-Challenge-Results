@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "9"]
+[White "evilRatBot (by: Only_Mayonnaise)"]
+[Black "DareWitch (by: mdrwsh)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d3 Nf6 2. e3 Nc6 3. b3 a6 4. Bb2 a5 5. Bxf6 gxf6 6. g3 d5 7. Bg2 Rb8 8. Nd2 Ra8 9. Ne2 Rb8 10. O-O Ra8 11. Bxd5 Qxd5 12. Nd4 Qxd4 13. exd4 Nxd4 14. h4 Nxc2 15. Qxc2 Kd7 16. Qxc7+ Ke6 17. Qxc8+ Ke5 18. Qxa8 b6 19. Qxf8 e6 20. Qxh8 Kf5 21. Qxh7+ Kg4 22. Qxf7 a4 23. Qxf6 axb3 24. Qxe6+ Kh5 25. Qxb6 bxa2 26. Rxa2 Kg4 27. Nb1 Kf3 28. Ra7 Kg4 29. Ra5 Kh3 30. Qe6# 1-0

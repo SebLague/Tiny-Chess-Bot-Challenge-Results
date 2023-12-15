@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "42"]
+[White "Strikeeaglechess (by: Strikeeaglechase)"]
+[Black "NNBot (by: Jamie Whiting)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. d4 e6 3. Nc3 Bb4 4. Nf3 Nf6 5. d5 Nxe4 6. dxc6 Nxc3 7. Qd4 Nd5+ 8. c3 Bf8 9. Bg5 f6 10. c4 Nb4 11. Qe4 fxg5 12. cxd7+ Bxd7 13. h4 Qf6 14. Ne5 Qf4 15. Qxf4 gxf4 16. O-O-O Nxa2+ 17. Kb1 Ba4 18. Rd4 Nb4 19. Rxf4 Bc2+ 20. Ka1 O-O-O 21. Be2 Bd6 22. c5 Bxc5 23. Bc4 Rhe8 24. Rf7 Bd4 25. f4 Bxe5 26. fxe5 Rd7 27. Rxd7 Kxd7 28. h5 Kc6 29. h6 Kc5 30. Be2 gxh6 31. Rxh6 Bg6 32. Rh3 Rd8 33. Rc3+ Kb6 34. Rb3 Rd4 35. Bf3 c6 36. Rc3 Kc7 37. Rc5 Nd3 38. Ra5 Kb6 39. Ra3 Nxe5 40. Ka2 Rd2 41. Rb3+ Kc7 42. Ra3 a6 43. Rb3 Bd3 44. Rc3 Rf2 45. Kb3 b5 46. Ka3 Kb6 47. Kb3 Bc4+ 48. Rxc4 Nxc4 49. Kc3 Nxb2 50. Kd4 Nc4 51. Be4 h6 52. Bd3 e5+ 53. Kc3 Kc5 54. Bxc4 bxc4 55. g4 e4 56. g5 Rf3+ 57. Kc2 hxg5 58. Kb1 Rf1+ 59. Kc2 e3 60. Kb2 e2 61. Kc3 e1=Q+ 62. Kb2 Qf2+ 63. Kc3 Kd5 64. Kb4 Qd2+ 65. Ka3 Ra1# 0-1

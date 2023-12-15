@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "42"]
+[White "GOYO Bot v1.1.2 (by: Goyo)"]
+[Black "Depth2 (by: David Montealegre)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. e5 Ne4 3. Nf3 Nc6 4. Qe2 Nc5 5. Ng5 Nd4 6. Qc4 Nde6 7. Nxe6 Nxe6 8. Qe4 g6 9. Qd5 Nf4 10. Bc4 Nxd5 11. Bxd5 f5 12. exf6 exf6 13. Nc3 h6 14. Ne4 d6 15. Rf1 a5 16. Nc3 c6 17. Ne4 f5 18. Nc3 cxd5 19. Nxd5 Qg5 20. Nc7+ Ke7 21. Nxa8 b5 22. Nc7 Qxg2 23. Nxb5 Qxh2 24. Nc3 d5 25. Nxd5+ Kd8 26. Ne3 Qe5 27. c4 h5 28. a4 Ke7 29. Ra3 f4 30. Rd3 fxe3 31. fxe3 Bg7 32. Rf2 Qg3 33. Rd5 Rf8 34. Rxa5 Rxf2 35. Ra7+ Kd8 36. Kd1 Bf8 37. Ra8 g5 38. Ra7 h4 39. Ra8 g4 40. Ra7 Bd6 41. Ra8 h3 42. Ra7 Qg2 43. Rg7 g3 44. Rg8+ Kc7 45. Rg7+ Kb8 46. Rg8 Re2 47. Rd8 Bc5 48. Re8 Rf2 49. Rd8 Bxe3 50. Re8 Rxd2+ 51. Bxd2 Qxd2# 0-1

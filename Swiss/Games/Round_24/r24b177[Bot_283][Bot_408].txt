@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "23"]
+[White "BasicBot (by: Phnx)"]
+[Black "CombEaredSkink (by: Deepfriedice)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e6 2. e3 Qg5 3. Qf3 Nc6 4. Ke2 Nf6 5. d4 Bb4 6. Kd3 b6 7. Nce2 Ba6+ 8. c4 Ne4 9. Qxe4 d5 10. Qf3 Ne5+ 11. dxe5 Bxc4+ 12. Kd4 c5# 0-1

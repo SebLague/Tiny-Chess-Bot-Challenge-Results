@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "18"]
+[White "AlphaBetaZero (by: MV974)"]
+[Black "SimpleBearSearch (by: PizzasBear)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. e3 d6 2. Bd3 Nc6 3. Nf3 Nf6 4. O-O e5 5. Nc3 d5 6. Ng5 Bg4 7. Be2 Bxe2 8. Qxe2 Bb4 9. Qf3 O-O 10. Rb1 e4 11. Ncxe4 dxe4 12. Nxe4 Nxe4 13. Qxe4 Qf6 14. a3 Rfe8 15. Qd5 Rad8 16. Qf3 Bd6 17. Qxf6 gxf6 18. d3 f5 19. Bd2 h6 20. b4 a6 21. f4 Rd7 22. Rf3 Rdd8 23. Rb3 Rd7 24. Rb1 Rdd8 25. Rb3 Rd7 26. Rb1 1/2-1/2

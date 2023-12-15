@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "38"]
+[White "Itty Bitty Botty (by: Connor Cahoon)"]
+[Black "QuaviverBot (by: CantWontDo)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 Nf6 2. Rb1 e6 3. Ra1 c6 4. Rb1 Qc7 5. Ra1 b5 6. Rb1 b4 7. Nc4 d5 8. Ne3 d4 9. Nc4 Kd8 10. Ra1 Ba6 11. b3 h5 12. Rb1 Rh6 13. Ra1 g6 14. Rb1 h4 15. Ra1 Nbd7 16. Rb1 Qb8 17. Ra1 Bxc4 18. bxc4 Ng4 19. d3 Rh5 20. Nf3 Nde5 21. Bg5+ Kd7 22. Nxe5+ Nxe5 23. f4 Ng4 24. Qb1 b3 25. Qxb3 Bb4+ 26. c3 Bxc3+ 27. Kd1 Qxb3+ 28. Kc1 Qb2+ 29. Kd1 Qxa1+ 30. Kc2 Qb2+ 31. Kd1 Qc2+ 32. Kxc2 Rb8 33. e4 Rb2+ 34. Kd1 Ne3+ 35. Kc1 Rxa2 36. g4 Bd2+ 37. Kb1 Ra6 38. f5 Rxg5 39. f6 Rb6+ 40. Ka2 Ra5# 0-1

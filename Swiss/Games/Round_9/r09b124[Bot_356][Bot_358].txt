@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "8"]
+[White "AlaskaBot (by: Arttu Halonen)"]
+[Black "BackupBotCuzIDeletedPreviousGoodOne (by: _deeznuts420)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Na6 2. Ne5 d6 3. Nd3 Kd7 4. Nc3 Kc6 5. Ne4 Kb5 6. e3 Ka4 7. c4+ Ka5 8. Be2 Rb8 9. b4+ Nxb4 10. Nxb4 Kxb4 11. Ba3+ Ka5 12. d4 Ka6 13. d5 Ka5 14. f4 Ka6 15. Qa4+ Kb6 16. Rb1# 1-0

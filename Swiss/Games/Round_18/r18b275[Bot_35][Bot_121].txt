@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "17"]
+[White "chaos bot (by: zer0)"]
+[Black "broken bot (by: Raj Gaurav)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. b3 h5 2. g4 hxg4 3. Bg2 g5 4. e3 f5 5. f4 gxf3 6. Qxf3 e5 7. Qxf5 d5 8. Qxe5+ Ne7 9. Qxh8 c5 10. c4 dxc4 11. bxc4 b5 12. Bxa8 bxc4 13. Qh7 a5 14. Ke2 g4 15. Qh8 a4 16. Kd1 g3 17. hxg3 c3 18. Qxc3 c4 19. Qxc4 a3 20. Bxa3 Nd7 21. Qb5 Ng8 22. Qh5# 1-0

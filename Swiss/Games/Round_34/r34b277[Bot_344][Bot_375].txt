@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "33"]
+[White "DD9's chess bot (by: DigestDig9)"]
+[Black "Hello there (by: Crazyfly072)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Illegal move"]
+
+1. d4 d5 2. f4 Nf6 3. Be3 Bf5 4. Bf2 Qd6 5. Bh4 Ne4 6. Bxe7 Qxe7 7. Nf3 Qb4+ 0-1

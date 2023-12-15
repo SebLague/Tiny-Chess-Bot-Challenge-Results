@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "24"]
+[White "Clyde (by: Evan)"]
+[Black "Sleepy panda bot (by: Quinten F)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 d5 2. h4 e6 3. h5 Bb4+ 4. Qd2 Qe7 5. Qxb4 Qxb4+ 6. Kd1 Qxd4+ 7. Ke1 Nf6 8. b3 O-O 9. f3 Qxa1 10. Nd2 Qxc1+ 11. Kf2 Qxc2 12. a4 Qxd2 13. g3 Qd4+ 14. Ke1 Qe3 15. Nh3 Nxh5 16. g4 Ng3 17. Rh2 Nc6 18. Bg2 Qxe2# 0-1

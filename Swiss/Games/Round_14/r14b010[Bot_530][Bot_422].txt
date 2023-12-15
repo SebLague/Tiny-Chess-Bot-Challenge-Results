@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "13"]
+[White "Algernon (by: White Mouse)"]
+[Black "FloppyChess 4.2 (by: Omsk)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. c4 Nf6 5. Nf3 Bg4 6. Be2 Nc6 7. d5 Bxf3 8. gxf3 Ne5 9. Qa4+ Qd7 10. Qxd7+ Nfxd7 11. O-O e6 12. Nc3 exd5 13. cxd5 O-O-O 14. Rd1 h6 15. Rb1 Ng6 16. b4 Nh4 17. Bf4 Bd6 18. Bg3 Nf5 19. Ne4 Rhe8 20. Nxd6+ cxd6 21. Rb2 Kb8 22. b5 Rc8 23. f4 Nf6 24. Bf3 Ne4 25. Bh5 Nc3 26. Rdd2 g6 27. Bf3 Rc4 28. Rbc2 Rc5 29. Kg2 Nxb5 30. Rxc5 dxc5 31. Rc2 b6 32. Re2 Rxe2 33. Bxe2 Nc3 34. Bd3 Kc7 35. h4 Kd6 36. h5 Kxd5 37. a3 c4 38. hxg6 fxg6 39. Bxf5 gxf5 40. Kf3 Nb1 41. Ke3 Nxa3 42. Bh4 b5 43. Be7 b4 44. Ke2 Nc2 45. Bf6 c3 46. Kd3 Ne1+ 47. Ke2 Ng2 48. Kf3 Kc4 49. Ke2 Nxf4+ 50. Ke3 Nd5+ 51. Ke2 b3 52. f3 b2 53. Bg7 b1=Q 54. Bxc3 Nxc3+ 55. Kf2 Kd3 56. f4 Qh1 57. Kg3 Ne4# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "23"]
+[White "BIG CHUMPER V6.0 (by: Pedro Contipelli)"]
+[Black "R2D2 (by: Andrei Taropa)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 d5 2. d4 e6 3. Nf3 Nf6 4. h4 Bb4 5. Bf4 Bxc3+ 6. bxc3 Ne4 7. Qd3 Qd7 8. h5 Qc6 9. Bd2 Qb6 10. e3 Qb2 11. Qb5+ Qxb5 12. Bxb5+ Kf8 13. g4 Bd7 14. Be2 Kg8 15. g5 Ba4 16. Rb1 b6 17. a3 Bxc2 18. Rb2 Nxd2 19. Nxd2 Bf5 20. f3 c5 21. dxc5 Nd7 22. e4 Nxc5 23. exf5 exf5 24. O-O Re8 25. Bb5 Re3 26. Nb1 f4 27. Rd1 Re5 28. Rg2 Ne6 29. Bc6 Nxg5 30. Kf1 Nxf3 31. Bxd5 Nh4 32. Rf2 Nf5 33. Bxf7+ Kxf7 34. Rxf4 Rhe8 35. Rf3 Kg8 36. Rd2 Nh6 37. Rb2 Rxh5 38. c4 Rh1+ 39. Kg2 Ree1 40. Nd2 Rhg1+ 41. Kh2 Rg5 42. Rc2 Ng4+ 43. Kg3 Ne3+ 44. Kf2 Nxc2 45. Rc3 Rf5+ 46. Kg3 Re3+ 47. Rxe3 Nxe3 48. a4 Kf7 49. Nb3 Nxc4 50. a5 bxa5 51. Nd4 Rf6 52. Nc2 h5 53. Nd4 g5 54. Ne2 a4 55. Nc3 a3 56. Na2 Rb6 57. Kf3 Rb2 58. Nc1 Rc2 59. Nb3 Rc3+ 60. Ke4 Rxb3 61. Kd4 Ne3 62. Ke4 a2 63. Ke5 Ke7 64. Kd4 Kd6 65. Ke4 h4 66. Kf3 Kc5 67. Ke2 g4 68. Kd2 Kb4 69. Ke1 Ka3 70. Kd2 Kb2 71. Ke1 a1=Q+ 72. Ke2 Kb1 73. Kd2 Ka2 74. Ke2 a5 75. Kd2 Qd1# 0-1

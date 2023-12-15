@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "58"]
+[White "TinyNoTimeToCodeChessEngine (by: )"]
+[Black "Guppy (by: Rowburt)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a4 d5 2. e3 Nd7 3. c4 dxc4 4. Bxc4 Rb8 5. Qh5 Nh6 6. Qa5 a6 7. Qd5 Nb6 8. Bb5+ axb5 9. Qxb5+ Nd7 10. Qa5 b6 11. Qa7 Bb7 12. e4 Bxe4 13. d4 Bxg2 14. Bf4 Rc8 15. Bxh6 Ra8 16. Qxa8 Qxa8 17. Bf4 Bxh1 18. Bxc7 Qe4+ 19. Ne2 Qc2 20. Nbc3 Qxb2 21. Rb1 Qa3 22. Bxb6 Qd6 23. Ng3 Nxb6 24. Nxh1 Qxd4 25. Ne2 Qe4 26. Rxb6 Qxh1+ 27. Kd2 Qd5+ 28. Kc1 Qc5+ 29. Nc3 Qxb6 30. Nb5 Qxf2 31. Nc7+ Kd8 32. Nb5 Qf4+ 33. Kb1 Qxa4 34. Nc3 Qb3+ 35. Ka1 g5 36. Nb1 Bg7+ 37. Nc3 Bxc3# 0-1

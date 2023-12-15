@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "37"]
+[White "CosmoDMBot (by: CosmoDM)"]
+[Black "maff-chess (by: Filip)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. e5 c6 3. a3 Qa5 4. Be2 e6 5. a4 b5 6. b3 Bc5 7. Kf1 Bd4 8. c3 Bxe5 9. Nh3 bxa4 10. f4 Qb6 11. Rxa4 Bf6 12. g3 e5 13. g4 Bxg4 14. Bxg4 h5 15. Be2 exf4 16. Nxf4 g5 17. Nh3 Nh6 18. Rb4 Qc5 19. Bd3 Ng4 20. Rxg4 hxg4 21. Nf2 g3 22. hxg3 Kd8 23. Kg2 Rxh1 24. Nxh1 Qb6 25. Bc2 Qa5 26. Qf1 Nd7 27. Ba3 c5 28. Bf5 Nb6 29. Bg4 Kc7 30. Qxf6 Nd7 31. Qxg5 Re8 32. b4 cxb4 33. cxb4 Qb6 34. Qxd5 Nf6 35. Qf3 Nxg4 36. Qxf7+ Kd8 37. Qd5+ Kc7 38. Qf3 Re1 39. Qf7+ Kc6 40. Qg6+ Kb7 41. Qg7+ Ka6 42. b5+ Qxb5 43. Qf8 Qd5+ 44. Qf3 Re2+ 45. Nf2 Rxf2+ 46. Kh3 Qxf3 47. Kh4 Qh1+ 48. Kxg4 Qh7 49. Bc5 Qg7+ 50. Kh3 Qh6+ 51. Kg4 Qg6+ 52. Kh3 Qf5+ 53. g4 Qh7+ 54. Kg3 Qh2# 0-1

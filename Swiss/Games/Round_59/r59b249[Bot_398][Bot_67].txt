@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "58"]
+[White "ChessGPT (by: DeepGoldenCrown)"]
+[Black "(confus) (by: Leg3nd)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d3 b5 2. Bf4 h5 3. Bxc7 Qxc7 4. f3 Qxc2 5. Qxc2 Kd8 6. Kd1 e5 7. Kc1 g6 8. Kd1 Ba3 9. Kc1 Bxb2+ 10. Kxb2 Ke7 11. Qxc8 Kd6 12. Kc1 f5 13. Kd1 b4 14. Kc1 Ne7 15. Qxh8 Kc5 16. Kd1 d6 17. Kc1 Ng8 18. Qxg8 Kd4 19. Kd1 Ke3 20. Kc1 Nd7 21. Qxa8 Kf2 22. Kd1 Kxf1 23. Qxa7 f4 24. Qxd7 Kxg2 25. Qxd6 Kxh1 26. Qxg6 Kxh2 27. Kc1 b3 28. Kd1 bxa2 29. Rxa2 Kh1 30. Kc1 Kh2 31. Kd1 e4 32. Qxe4 Kxg1 33. Qxf4 Kf1 34. Qa4 Kg2 35. Kc1 Kh2 36. Qd1 Kg3 37. Nc3 Kg2 38. Ne4 Kh3 39. Qh1# 1-0

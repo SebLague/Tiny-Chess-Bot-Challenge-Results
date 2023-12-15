@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "52"]
+[White "MapBot (by: Map)"]
+[Black "Yangbot V1 (by: Cyang946)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. Nc3 Nc6 3. Nf3 d5 4. e3 Qd6 5. Bb5 Ne4 6. O-O Nxc3 7. bxc3 Bf5 8. Ne5 Qe6 9. c4 O-O-O 10. Nxc6 bxc6 11. Ba6+ Kd7 12. Qe2 Qg6 13. Ba3 Bxc2 14. cxd5 Be4 15. dxc6+ Bxc6 16. g3 Qe4 17. f3 Qg6 18. Bc5 Ra8 19. Rac1 Ke8 20. Bd3 Qe6 21. Rfe1 Qd7 22. f4 Bb7 23. Rb1 Qd5 24. e4 Qd7 25. Rxb7 Kd8 26. f5 a5 27. Bb5 Qc8 28. Ba6 e6 29. Ba7 Qd7 30. Bb6 Bd6 31. e5 Qa4 32. Bb5 Kc8 33. Bxa4 Kxb7 34. exd6 cxb6 35. Qe4+ Kb8 36. d7 Ka7 37. fxe6 Rab8 38. exf7 Ra8 39. Qe5 Rhb8 40. d8=Q h5 41. Qec7+ Rb7 42. Qxb7+ Kxb7 43. Re7+ Ka6 44. Qxa8# 1-0

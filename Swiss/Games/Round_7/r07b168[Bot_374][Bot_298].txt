@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "6"]
+[White "JazzBot (by: SpoXe)"]
+[Black "WhiteTide (by: b.maroti)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 b5 2. g4 b4 3. f4 Bb7 4. Rh2 Ba6 5. e4 Bb7 6. Bg2 Na6 7. d4 Qc8 8. c4 bxc3 9. bxc3 Qb8 10. a4 Nf6 11. d5 Nc5 12. Ba3 Ncxe4 13. g5 Nxd5 14. Bxe4 Nxf4 15. Bxb7 Qxb7 16. Rd2 Qe4+ 17. Kf2 Ng6 18. Rd4 Qe5 19. Qd3 d6 20. Qh3 Rb8 21. h5 Nf4 22. Qh4 Ne6 23. Nf3 Qf5 24. Rd1 Rb3 25. h6 gxh6 26. gxh6 d5 27. a5 Kd8 28. a6 Rb6 29. c4 Rb3 30. Rxd5+ Qxd5 31. cxd5 Bxh6 32. Qxe7+ Kc8 33. dxe6 f5 34. Qf6 Be3+ 35. Ke2 Rg8 36. e7 Rg2+ 37. Ke1 Bd2+ 38. Nfxd2 Re3+ 39. Kf1 Rxd2 40. Qxf5+ Re6 41. Qxe6+ Rd7 42. e8=R# 1-0

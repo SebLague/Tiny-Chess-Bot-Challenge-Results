@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "48"]
+[White "Depth2 (by: David Montealegre)"]
+[Black "Obi (by: Carson Ouckama)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 c5 2. Ne4 Qa5 3. Ng5 f5 4. N1f3 h5 5. Ne5 d5 6. Nef7 b5 7. Nxh8 e5 8. Ng6 Bd6 9. h3 d4 10. Nf3 e4 11. Nfh4 a6 12. a3 Be6 13. Rb1 c4 14. g3 Nh6 15. f4 exf3 16. exf3 Bxg3+ 17. Ke2 d3+ 18. cxd3 cxd3+ 19. Kxd3 Ra7 20. b4 Qb6 21. Ng2 Rd7+ 22. Kc2 Rc7+ 23. Kd3 Rxc1 24. Qxc1 Bd5 25. Nh8 Bxf3 26. a4 bxa4 27. b5 axb5 28. Rxb5 Qxb5+ 29. Kc3 Qa5+ 30. Kb2 Be5+ 31. Kb1 Qb4+ 32. Kc2 Qb3# 0-1

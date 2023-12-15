@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "5"]
+[White "PracticeBot (by: liamkc)"]
+[Black "Clyde (by: Evan)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f4 f5 2. a4 d5 3. c3 h5 4. g3 g6 5. d4 a5 6. Nh3 e6 7. c4 dxc4 8. Nf2 Bb4+ 9. Bd2 Be7 10. Bxa5 Rxa5 11. e4 Bb4+ 12. Nc3 fxe4 13. Bxc4 e3 14. Qxh5 Raxh5 15. Bxe6 Bxe6 16. Rd1 exf2+ 17. Kxf2 c6 18. b3 Bxc3 19. d5 cxd5 20. Rxd5 Qxd5 21. Ke2 Qxh1 22. h3 Bxb3 23. f5 Rxf5 24. a5 Qf3# 0-1

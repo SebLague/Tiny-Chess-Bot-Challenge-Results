@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "Vast V2 (by: Joseph Pasfield)"]
+[Black "myte (by: sparemind)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nc6 2. d4 d5 3. e3 e6 4. c3 Bd6 5. g3 Nf6 6. Nbd2 e5 7. dxe5 Nxe5 8. Nxe5 Bxe5 9. Nf3 Bd6 10. Bg2 O-O 11. O-O c5 12. a4 Qe7 13. a5 Bf5 14. a6 bxa6 15. Rxa6 c4 16. h3 Bd3 17. Re1 g6 18. Nd4 Ne4 19. Nc6 Qb7 20. Bxe4 Bxe4 21. Qa4 Bc5 22. Ne5 Rad8 23. Ng4 Kg7 24. Nf6 Bd3 25. g4 Bb6 26. g5 Bf5 27. b4 Bxh3 28. b5 Qc7 29. Ba3 Qe5 30. Bxf8+ Rxf8 31. Qd1 Qxg5+ 32. Ng4 Bxg4 33. f4 Qh4 34. Rxb6 Qg3+ 35. Kh1 Bxd1 36. Rxd1 Qh3+ 37. Kg1 Qxe3+ 38. Kg2 Qe2+ 39. Kg3 axb6 40. Rxd5 Qe3+ 41. Kg2 Qe4+ 42. Kg3 Qxd5 43. Kf2 Qd2+ 44. Kg3 Qxc3+ 45. Kg2 Ra8 46. Kf1 Qf3+ 47. Ke1 Ra1+ 48. Kd2 Qd3# 0-1

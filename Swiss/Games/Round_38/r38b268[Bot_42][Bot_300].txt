@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "37"]
+[White "dumbot (by: slothinahat)"]
+[Black "Bob (Looser) (by: Flo)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 e5 2. e4 a6 3. Bxa6 f5 4. Bxb7 g6 5. Bxa8 d6 6. exf5 Nc6 7. Bxc6+ Ke7 8. fxg6 Nh6 9. gxh7 Kf6 10. Bf3 e4 11. Bxe4 Qe7 12. Kf1 Qg7 13. Bg6 Kxg6 14. d4 Qd7 15. Bxh6 Qg4 16. Qxg4+ Kxh6 17. Qxc8 Kg7 18. Qxf8+ Kg6 19. Qxh8 Kh6 20. h5 d5 21. Qf8+ Kg5 22. h8=Q c5 23. Qhg8# 1-0

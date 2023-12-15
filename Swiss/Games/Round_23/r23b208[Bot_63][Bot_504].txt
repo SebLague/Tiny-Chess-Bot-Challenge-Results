@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "22"]
+[White "SatanBot (by: odin7053@discord)"]
+[Black "Ccookie (by: Ccookie)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h3 e6 2. f3 Qh4+ 3. g3 Qxg3# 0-1

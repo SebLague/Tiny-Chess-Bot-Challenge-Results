@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "32"]
+[White "Reaper (by: thesharpestknife)"]
+[Black "OppToss (by: Jan Stachurski)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 Nf6 4. d3 Nc6 5. e3 Bg4 6. h3 Bxf3 7. Qxf3 Nxe4 8. dxe4 e6 9. Bd2 a6 10. a4 Bd6 11. h4 Rf8 12. g3 Ne5 13. Qh5 g6 14. Qxh7 Nf3+ 15. Ke2 Qf6 16. Bc1 Rh8 17. Qxh8+ Qxh8 18. Kxf3 Qf6+ 19. Kg2 dxe3 20. Bxe3 Qxb2 21. Bd3 Qe5 22. f4 Qa5 23. Bd4 Rd8 24. Bf6 Be7 25. Bxe7 Kxe7 26. e5 Rd4 27. Rhb1 b6 28. Re1 Rxa4 29. Rad1 Qc3 30. Kh2 a5 31. Rb1 Ra2 32. Kh1 Qd4 33. Re4 Qf2 34. Rg1 a4 35. Re2 Qf3+ 36. Reg2 a3 37. Re1 Rb2 38. Be4 Qc3 39. Rgg1 a2 40. Ra1 Qd4 41. Bc6 Qc4 42. Bg2 Rxc2 43. Rge1 Qd4 44. Rf1 Qd2 45. Rg1 b5 46. Rad1 Qf2 47. f5 exf5 48. Kh2 f4 49. Kh1 Qxg3 50. Rd3 Qxd3 51. Bf1 Qd2 52. Rg2 Qxg2+ 53. Bxg2 f3 54. Bf1 Rb2 55. h5 Rd2 56. hxg6 a1=R 57. Kg1 f6 58. exf6+ Kd7 59. f7 Re2 60. f8=N+ Kc8 61. g7 Rg2+ 62. Kh1 Kb8 63. Nd7+ Ka7 64. g8=Q Rxf1# 0-1

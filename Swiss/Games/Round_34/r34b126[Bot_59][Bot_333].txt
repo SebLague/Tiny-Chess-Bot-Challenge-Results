@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "33"]
+[White "Generic Chess Bot #1000000 (by: Anthony)"]
+[Black "Rules_Of_Thumb (by: Goose)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 Nc6 2. e3 Nf6 3. h4 Ne5 4. d4 Neg4 5. e4 e5 6. dxe5 Nxe5 7. Bf4 Nfg4 8. f3 Qf6 9. Nd5 Bb4+ 10. c3 Nxf3+ 11. Qxf3 Bxc3+ 12. bxc3 Qd8 13. Bxc7 Nh2 14. Rxh2 O-O 15. Bxd8 Rxd8 16. Qe2 f5 17. exf5 d6 18. Nc7 Rb8 19. Qe7 Bxf5 20. g4 Bxg4 21. Ne6 Bxe6 22. Qxe6+ Kh8 23. Qd5 Re8+ 24. Kd2 Rbd8 25. Qxb7 a5 26. Rg2 g6 27. Qa7 Re5 28. Qd4 a4 29. Nf3 Rb8 30. Kd3 Rb5 31. Nxe5 dxe5 32. Qxa4 Rd5+ 33. Ke2 Rd8 34. Qe4 Re8 35. Ke1 Kg7 36. h5 Kh8 37. hxg6 hxg6 38. Qxg6 Re6 39. Qg8# 1-0

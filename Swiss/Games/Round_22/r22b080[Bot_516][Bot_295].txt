@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "21"]
+[White "TacTxs (by: Mitch)"]
+[Black "One-Line Chess (by: Kaydon Sloan)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 c5 2. Nf3 d5 3. e4 d4 4. Bb5+ Bd7 5. Bxd7+ Nxd7 6. Ne2 e5 7. O-O g5 8. h3 h5 9. Ng3 g4 10. hxg4 hxg4 11. Nh2 Qh4 12. Nxg4 b5 13. a4 Ndf6 14. Nh2 Qxh2# 0-1

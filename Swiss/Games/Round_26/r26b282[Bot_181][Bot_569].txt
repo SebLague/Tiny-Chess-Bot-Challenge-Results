@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "25"]
+[White "Greedy-Dumb-Bot (by: TrangML)"]
+[Black "One Line and a Dream (by: Sliderlo)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c3 a6 2. e3 g6 3. Be2 f5 4. Kf1 h6 5. Bh5 c5 6. Bxg6# 1-0

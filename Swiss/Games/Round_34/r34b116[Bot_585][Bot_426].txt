@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "33"]
+[White "Negative Depth (by: Zoltán Kürti)"]
+[Black "ItBeatsMe (by: Soma Nyiro)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 d5 2. d4 Bf5 3. Nh4 e6 4. Nxf5 exf5 5. Nd2 Nf6 6. e3 Qd7 7. c4 Nc6 8. cxd5 Nxd5 9. Nc4 Qe6 10. a4 Be7 11. Be2 Kd7 12. O-O f4 13. exf4 g5 14. fxg5 h6 15. Bg4 hxg5 16. Ne3 f5 17. Bxf5 Nf4 18. Kh1 Rxh2+ 19. Kxh2 Rh8+ 20. Kg1 Nxd4 21. Qxd4+ Kc6 22. Be4+ Qxe4 23. Qxe4+ Kb6 24. a5+ Kc5 25. b4+ Kb5 26. Qxb7# 1-0

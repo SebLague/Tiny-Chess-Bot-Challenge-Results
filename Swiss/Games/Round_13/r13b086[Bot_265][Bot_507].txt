@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "12"]
+[White "SimpleBot (by: Tim Zollner)"]
+[Black "Mini Lapdok (by: Lapdok)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e5 2. Qh5 Bd6 3. Bd3 Nc6 4. Qg4 Nf6 5. Qxg7 Rg8 6. Qh6 Nb4 7. Bf5 e4 8. Na3 Rxg2 9. Ke2 Be5 10. c3 Nd3 11. Qh3 Rxf2+ 12. Kd1 d5 13. Bxc8 Qxc8 14. Nb5 Rf5 15. Kc2 c5 16. Rb1 Nf2 17. Qg2 Nxh1 18. c4 Nf2 19. Qg7 dxc4 20. b3 cxb3+ 21. axb3 Nd3 22. Qh8+ Kd7 23. Qg7 Kc6 24. Nc3 Nd5 25. Qh6+ Rf6 26. Qh4 N5b4+ 27. Kd1 Qg4+ 28. Nf3 Qxf3+ 29. Ne2 Qf1+ 30. Qe1 Qxe1# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "28"]
+[White "Game Tech Explained Bot (by: Game Tech Explained)"]
+[Black "Tiny Chess Duck (by: rocketduck_m07)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. e3 d5 3. Nc3 e6 4. Bd3 c5 5. Nf3 c4 6. Be2 Bd6 7. Bd2 O-O 8. Nb5 Be7 9. Rb1 Bd7 10. Nc3 Nc6 11. O-O a6 12. Ne5 Rc8 13. Nxd7 Qxd7 14. Bf3 e5 15. dxe5 Nxe5 16. e4 Nxf3+ 17. Qxf3 dxe4 18. Nxe4 Nxe4 19. Qxe4 Qxd2 20. Qxe7 b5 21. Qe4 Rce8 22. Qc6 Re6 23. Qc5 Qxc2 24. Rfd1 Re2 25. h3 Rfe8 26. a3 h6 27. h4 Qe4 28. h5 Qf4 29. g3 Qe5 30. Qxe5 R8xe5 31. g4 Rg5 32. Rd8+ Kh7 33. Rd4 f5 34. f3 Re3 35. Kf2 Rb3 36. Rf4 fxg4 37. fxg4 c3 38. Rb4 c2 39. Rc1 Rxb4 40. axb4 Rxg4 41. Rxc2 Rxb4 42. Ke3 Rh4 43. Rc5 Rh2 44. Rc7 Rxb2 45. Ra7 Rh2 46. Rxa6 Rxh5 47. Kd4 Rf5 48. Kc3 Rf4 49. Rb6 g5 50. Rxb5 Kg6 51. Rb6+ Rf6 52. Rb1 Kh5 53. Kd4 Kg4 54. Ke4 Rf4+ 55. Ke5 Rf5+ 56. Ke4 Rf3 57. Rg1+ Rg3 58. Rxg3+ Kxg3 59. Kf5 Kh4 60. Kg6 g4 61. Kxh6 g3 62. Kg6 g2 63. Kf5 g1=Q 64. Ke5 Qd1 65. Ke6 Qd4 66. Ke7 Kg4 67. Kf7 Kg5 68. Ke6 Kg6 69. Ke7 Qd5 70. Ke8 Kf6 71. Kf8 Qd4 72. Ke8 Qd1 73. Kf8 Qd8# 0-1

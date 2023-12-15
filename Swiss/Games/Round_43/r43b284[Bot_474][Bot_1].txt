@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "42"]
+[White "Good Bot Bad Bot (But Really, Both Are Terrible Bots, Also This In The Parenthesis Is Part Of The Name) (by: Legend)"]
+[Black "The Chotic bot (by: EV3L1N)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nh3 c6 2. g4 a6 3. Ng5 f6 4. Nxh7 Qc7 5. Nxf6+ Kd8 6. Nxd7 e6 7. Nxb8 Qd6 8. Nxc6+ Qxc6 9. Na3 Bb4 10. f3 Rh7 11. Rb1 Qc3 12. dxc3+ Kc7 13. cxb4 Kb6 14. Ra1 Ra7 15. Qd6# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "40"]
+[White "MirrorBot (by: Jackk)"]
+[Black "En Croissant (by: Lethal Chicken)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f4 b5 2. b4 d5 3. d4 f5 4. a3 h5 5. h4 Qd6 6. Qd3 Qxb4+ 7. axb4 Kd7 8. Qxf5+ Kc6 9. Qxc8 Kb6 10. Qxf8 Kc6 11. Qxg7 Kb6 12. Qxh8 Kc6 13. Qxg8 Kb6 14. Qxd5 Na6 15. Na3 Rb8 16. Qxb5# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "Capybara (by: Matěj Fencl)"]
+[Black "Quantum (by: devLIPEr)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. d4 e6 3. Nf3 Nf6 4. e5 Ne4 5. Bd3 d5 6. Nbd2 Nxd2 7. Bxd2 Be7 8. O-O O-O 9. c3 Bd7 10. Qc2 h6 11. Rad1 Rc8 12. Be3 Re8 13. b4 a6 14. a4 Bg5 15. Nxg5 hxg5 16. h3 Qe7 17. Qd2 f6 18. exf6 gxf6 19. Bg6 Red8 20. Qc2 Qg7 21. Bd3 e5 22. b5 e4 23. Be2 axb5 24. axb5 Ne7 25. Ra1 Nf5 26. Ra7 Nxe3 27. fxe3 b6 28. c4 c6 29. Qb3 cxb5 30. cxd5 Qh6 31. d6+ Kh8 32. Qf7 Be8 33. Qe7 g4 34. Bxg4 Ra8 35. Rxf6 Qxe3+ 36. Kh2 Bd7 37. Rxd7 Qg3+ 38. Kxg3 Ra3+ 39. Kh2 Rxh3+ 40. gxh3 Kg8 41. Rxd8# 1-0

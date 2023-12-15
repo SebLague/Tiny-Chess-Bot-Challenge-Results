@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "58"]
+[White "3D.Opening Bot (by: Mark Grennan)"]
+[Black "No Brain but Hungry (by: Pete)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 b6 2. Nc3 e6 3. Nf3 Bd6 4. h4 Bb7 5. Ng1 f5 6. Kd2 Bf4+ 7. e3 Bh6 8. Qh5+ Ke7 9. Qe2 d6 10. Rh3 Nf6 11. Nd1 Ne4+ 12. Kd3 Ba6+ 13. c4 Bb7 14. Rb1 Kf7 15. Qh5+ Kg8 16. Rf3 Ba6 17. b3 Qc8 18. Nb2 Qb7 19. Qe8# 1-0

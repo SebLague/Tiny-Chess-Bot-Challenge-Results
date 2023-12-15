@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "32"]
+[White "charge forward v1 (by: steel chair)"]
+[Black "letmeout (by: randomtestfive)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 e6 2. g4 Qf6 3. f4 Qxf4 4. e4 Bb4 5. c4 Nc6 6. a4 Nd4 7. h5 Qg3# 0-1

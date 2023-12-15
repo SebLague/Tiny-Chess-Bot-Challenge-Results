@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "61"]
+[White "Terrible Bot (by: readerbij)"]
+[Black "SepukuBot (by: Madhu)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. e5 Ne4 3. f3 Ng5 4. h4 Ne6 5. Bd3 h6 6. Be4 Nd4 7. g3 e6 8. Nc3 Bb4 9. Na4 Be7 10. g4 Bxh4+ 11. Kf1 Be7 12. c3 Ndc6 13. f4 b5 14. Bxc6 Nxc6 15. Ke1 bxa4 16. Qxa4 Rb8 17. c4 Rb7 18. d3 Bh4+ 19. Kd1 Bf2 20. Ne2 g5 21. Rf1 Bc5 22. Qa6 gxf4 23. Bxf4 Rxb2 24. Qa4 Rg8 25. Nc1 Rxg4 26. Bxh6 Nxe5 27. Re1 Be3 28. Bxe3 a6 29. Qa3 Rbg2 30. Qa4 c6 31. d4 Ng6 32. a3 Re4 33. Qb3 Qa5 34. Qa4 Qxa4+ 35. Nb3 Qxb3+ 36. Kc1 Qc2# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "31"]
+[White "BoringBot (by: Carson Bates)"]
+[Black "Love (by: Avila)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f3 Nc6 2. g3 d5 3. d3 e5 4. h4 Nf6 5. e4 Be6 6. exd5 Nxd5 7. f4 exf4 8. gxf4 Bd6 9. Ne2 Bg4 10. Qd2 Qe7 11. Kf2 O-O-O 12. c4 Bc5+ 13. Kg3 Ne3 14. Qe1 Nxf1+ 15. Kxg4 Qe6+ 16. f5 Ne5+ 17. Kf4 Be3+ 18. Bxe3 Qh6+ 19. Kxe5 Qxe3# 0-1

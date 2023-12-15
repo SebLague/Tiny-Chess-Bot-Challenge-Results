@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "26"]
+[White "StackFish (by: battlecoder)"]
+[Black "Fool's Silver (by: Ethan Latymer (Sozius))"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 d5 2. Nc3 e6 3. Nb5 c6 4. Nbd4 c5 5. Nb5 a6 6. Nc3 h6 7. d3 d4 8. Ne4 b5 9. Bd2 Nc6 10. Rg1 f5 11. Ng3 g6 12. Qc1 e5 13. b3 g5 14. Nh5 e4 15. dxe4 fxe4 16. Nxg5 hxg5 17. g4 Nh6 18. Rg3 Bxg4 19. Bxg5 Qa5+ 20. Bd2 Qd8 21. Bxh6 Bxh6 22. Nf6+ Qxf6 23. e3 Rf8 24. Rxg4 Qxf2+ 25. Kd1 Qxf1+ 26. Kd2 Rf2# 0-1

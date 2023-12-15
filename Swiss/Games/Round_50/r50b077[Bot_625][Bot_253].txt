@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "49"]
+[White "Bongcloud Bot (by: lurendrei)"]
+[Black "Squeedo (by: David Giesegh)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. Ke2 Nxe4 3. Nf3 Nc6 4. d3 Nc5 5. Nc3 e5 6. Be3 h6 7. d4 exd4 8. Nxd4 Nxd4+ 9. Qxd4 Rh7 10. b4 Ne6 11. Qe4 g6 12. Rd1 f5 13. Qc4 h5 14. Ke1 Bh6 15. Bd3 Bxe3 16. fxe3 a5 17. Kd2 axb4 18. Qxb4 c5 19. Qc4 Rb8 20. Rhe1 Qc7 21. h4 Qg3 22. Re2 Ra8 23. a4 Qg4 24. Qxg4 hxg4 25. g3 Ng7 26. Nd5 Kd8 27. Nb6 Ra7 28. e4 f4 29. gxf4 Rxh4 30. e5 g3 31. Bxg6 Rxf4 32. Ke3 Rb4 33. Rd6 Ra6 34. Nxc8 Kxc8 35. Kf3 Raxa4 36. Kxg3 Rg4+ 37. Kh3 Ne6 38. Bf5 Ng5+ 39. Kh2 Nf3+ 40. Kh3 Ng1+ 41. Kh2 Nxe2 42. Bxd7+ Kc7 43. Bxa4 Rxa4 44. Rf6 Rc4 45. Rf7+ Kc6 46. c3 Rxc3 47. Re7 Nd4 48. Kg1 b5 49. Kf1 Kd5 50. Kf2 Nc6 51. Rb7 Rb3 52. Rd7+ Kxe5 53. Ke1 Rc3 54. Kd2 Rg3 55. Kd1 c4 56. Kc2 Nd4+ 57. Kc1 Ke4 58. Re7+ Kd3 59. Kb1 Rg1+ 60. Ka2 c3 61. Rc7 c2 62. Kb2 Rb1+ 63. Ka2 c1=Q 64. Rxc1 Rxc1 65. Kb2 Rc4 66. Kb1 Rb4+ 67. Ka1 Kc2 68. Ka2 Ra4# 0-1

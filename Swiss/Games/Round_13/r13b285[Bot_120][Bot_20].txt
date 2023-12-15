@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "12"]
+[White "EldenBot (by: Ghost_Dev_84)"]
+[Black "Queen's Gam-bot (by: Mateo Saldivar (ZiroDev))"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a3 d6 2. b3 c6 3. c3 Bh3 4. gxh3 Qb6 5. d3 g5 6. e3 Kd8 7. f3 Bg7 8. a4 Bd4 9. exd4 Qb5 10. axb5 h6 11. bxc6 e5 12. cxb7 Kc7 13. bxa8=N+ Kb7 14. dxe5 Nf6 15. exf6 Re8+ 16. Be3 Re4 17. fxe4 g4 18. hxg4 Kc6 19. h3 Nd7 20. b4 Nxf6 21. b5+ Kb7 22. c4 Kxa8 23. d4 h5 24. gxh5 Nh7 25. h4 Ng5 26. hxg5 d5 27. exd5 f6 28. gxf6 Kb7 29. c5 a6 30. bxa6+ Ka7 31. c6 Kb6 32. d6 Ka7 33. d5+ Ka8 34. h6 Kb8 35. a7+ Ka8 36. c7 Kb7 37. a8=Q# 1-0

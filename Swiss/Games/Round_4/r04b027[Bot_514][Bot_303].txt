@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "3"]
+[White "smol.cs (by: Gediminas Masaitis, Goh CJ)"]
+[Black "Electric Shockwave Gambit (by: Valentin)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 Nf6 2. e4 d6 3. d4 b6 4. Nf3 Bb7 5. Bc4 Nxe4 6. Nxe4 Bxe4 7. Bxf7+ Kxf7 8. Ng5+ Kg8 9. Nxe4 Nc6 10. Ng5 Qd7 11. Qf3 e6 12. d5 Nd4 13. Qe4 Qa4 14. O-O Qc4 15. dxe6 Ne2+ 16. Kh1 Qxe4 17. Nxe4 Nd4 18. f4 Nxe6 19. f5 Nc5 20. f6 Kf7 21. Nxc5 dxc5 22. fxg7+ Kxg7 23. Bd2 Kg8 24. Rae1 h5 25. Rf5 Rh7 26. Rg5+ Kf7 27. Bc3 Bd6 28. Rf5+ Kg8 29. Kg1 Rf8 30. Rg5+ Kf7 31. Re4 Be7 32. Rd5 Rd8 33. Rxd8 Bxd8 34. a4 Be7 35. a5 Ke8 36. Be5 Kd7 37. a6 Kc6 38. c4 Bd6 39. Bxd6 cxd6 40. Re6 h4 41. b3 h3 42. Rg6 hxg2 43. Kxg2 Re7 44. h4 Re2+ 45. Kg3 Re3+ 46. Kg2 Rxb3 47. h5 Rc3 48. h6 Rxc4 49. Kg3 Rc3+ 50. Kh4 Kb5 51. h7 Rc2 52. Kg3 Rc3+ 53. Kg4 Rc4+ 54. Kg5 Rd4 55. h8=Q Kxa6 56. Qc8+ Ka5 57. Qd7 a6 58. Rxd6 Rxd6 59. Qxd6 Kb5 60. Qd7+ Kb4 61. Qc6 b5 62. Qxa6 c4 63. Qc6 Ka4 64. Qc5 b4 65. Qxc4 Ka3 66. Qc5 Ka4 67. Qa7+ Kb3 68. Kf5 Kb2 69. Qd4+ Kb3 70. Qc5 Ka4 71. Ke4 Kb3 72. Kd3 Ka3 73. Kc2 Ka4 74. Kb2 b3 75. Kc3 b2 76. Qb4# 1-0

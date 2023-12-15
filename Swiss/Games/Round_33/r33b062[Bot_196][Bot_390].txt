@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "32"]
+[White "ChessButt2 (by: Matt Suhay)"]
+[Black "BuiltCleverBot (by: Scott Ward)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. Qd3 Nc6 3. Nf3 d5 4. Nc3 Bg4 5. h3 Bxf3 6. exf3 e6 7. Qb5 a6 8. Qd3 Bd6 9. Bg5 Nb4 10. Qd2 O-O 11. a3 Nc6 12. Bd3 h6 13. Be3 e5 14. dxe5 Bxe5 15. Bc5 Bxc3 16. Qxc3 d4 17. Qb3 Re8+ 18. Kd2 Nd7 19. Qxb7 Qg5+ 20. f4 Qxc5 21. Rhe1 Qd6 22. Be4 Nc5 23. Qxc6 Qxf4+ 24. Ke2 Nxe4 25. Rad1 Nxf2+ 26. Kf1 Ng4+ 27. Qf3 Nh2+ 28. Kf2 Nxf3 29. Rxe8+ Rxe8 30. a4 Nh4+ 31. Kg1 Qg3 32. c3 Qxg2# 0-1

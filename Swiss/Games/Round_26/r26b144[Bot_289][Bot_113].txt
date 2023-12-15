@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "25"]
+[White "Foresight (by: Saihaj)"]
+[Black "taylornpeter_chess_sl (by: taylornpeter)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 a5 2. Qh5 Nf6 3. Qf5 e6 4. Qg5 h6 5. Qe5 Bd6 6. Qd4 e5 7. Qc3 Nxe4 8. Qd3 f5 9. Qd5 c6 10. Qd3 b5 11. f3 Qh4+ 12. g3 Nxg3 13. hxg3 Qxh1 14. Qxd6 Qxg1 15. Qxe5+ Kd8 16. Qxg7 Re8+ 17. Qe5 Rxe5+ 18. Kd1 Qxf1# 0-1

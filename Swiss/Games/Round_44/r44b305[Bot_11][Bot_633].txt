@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "43"]
+[White "The Soggy Biscuit (by: Brandon Curington)"]
+[Black "LadyLuckGuidesMyMinMaxSearch (by: MrPelluke)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f4 f6 2. c4 a6 3. d4 a5 4. Qd3 b6 5. Qg6+ hxg6 6. e4 Rh6 7. Be3 Rh3 8. gxh3 Nh6 9. Bd3 Ra6 10. e5 Nf7 11. Be4 Nh6 12. Bxg6+ Nf7 13. Bxf7+ Kxf7 14. e6+ Ke8 15. exd7+ Nxd7 16. d5 b5 17. cxb5 g6 18. bxa6 Bh6 19. Bc5 Bb7 20. Bd4 e6 21. Be5 c6 22. axb7 Bg5 23. Bd6 Qc8 24. bxc8=R+ Kf7 25. Rf8+ Nxf8 26. Be5 Nd7 27. dxe6+ Kg8 28. fxg5 Nf8 29. Bf4 Kh8 30. Bd6 c5 31. Bxc5 a4 32. Bd4 Nd7 33. Bxf6+ Kg8 34. Be5 Nf6 35. Bd4 Kh8 36. Be5 Kh7 37. Bd6 Kg7 38. gxf6+ Kg8 39. f7+ Kg7 40. Be5+ Kh6 41. Bg7+ Kh5 42. Bf6 Kh6 43. f8=B+ Kh7 44. Bd6 Kg8 45. Bde5 a3 46. Bd4 Kf8 47. Bc5+ Ke8 48. Bcd4 g5 49. Bc5 g4 50. Bfd4 Kd8 51. Be7+ Kc8 52. Be5 gxh3 53. Bd4 Kb8 54. Be5+ Ka8 55. Bc5 Kb7 56. Bed6 Ka6 57. Bd4 Kb7 58. B6e5 Ka8 59. Bf4 Kb7 60. Bd6 Ka8 61. B6e5 Kb7 62. Bd6 Kc8 63. B6c5 Kb8 64. Ba7+ Kc8 65. Be5 Kd8 66. Bf6+ Ke8 67. Be5 Ke7 68. Bd6+ Kf6 69. Be5+ Kg6 70. Bc5 Kh7 71. Bed4 Kg6 72. Bd6 Kh6 73. Be3+ Kg7 74. Be5+ Kg8 75. B3d4 Kh7 76. Bc5 Kg8 77. Bed4 Kh7 78. Bd6 Kg8 79. B6e5 Kf8 80. e7+ Kg8 81. e8=R+ Kh7 82. Rh8+ Kg6 83. Rg8+ Kh5 84. Rg5+ Kh6 85. Rh5+ Kg6 86. Rh6+ Kf7 87. Rh7+ Ke6 88. Rh6+ Kd5 89. Nc3+ Kc4 90. b3+ Kb4 91. Bc5+ Ka5 92. Bc7# 1-0

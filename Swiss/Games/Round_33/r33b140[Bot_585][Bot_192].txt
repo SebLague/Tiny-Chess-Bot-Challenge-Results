@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "32"]
+[White "Negative Depth (by: Zoltán Kürti)"]
+[Black "Jormungandr (but scuffed) (by: CptShini)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 c5 2. Nf3 f5 3. Nh4 e6 4. Nf3 Qf6 5. e4 Ke7 6. d4 h6 7. g4 fxg4 8. Nb5 Qg6 9. Nd2 Na6 10. d5 e5 11. Nc3 Kd8 12. Nc4 Qh5 13. Nb5 d6 14. Nbxd6 Rb8 15. Nxc8 Kxc8 16. Nd2 Qh4 17. a3 Bd6 18. Nc4 Bc7 19. b4 g3 20. Bh3+ Qxh3 21. fxg3 b5 22. Nd2 Rb6 23. Bb2 cxb4 24. c4 Bd8 25. Bxe5 Rb7 26. cxb5 Rxb5 27. Nc4 Rc5 28. Nd6+ Kd7 29. Qa4+ Kc7 30. Qxa6 Bh4 31. Qxa7+ Kd8 32. Qxc5 Bxg3+ 33. Bxg3 Ke7 34. Nf5+ Kf7 35. Qc7+ Ne7 36. Qxe7+ Kg6 37. Qxg7+ Kh5 38. Ne7 Rg8 39. Nxg8 Qe6 40. dxe6 bxa3 41. Nf6# 1-0

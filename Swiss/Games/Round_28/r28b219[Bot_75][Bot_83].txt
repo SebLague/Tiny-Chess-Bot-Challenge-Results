@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "27"]
+[White "NoNameBot (by: Gamerninja)"]
+[Black "Trixie (by: ts-manuel)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a3 e6 2. b3 Qg5 3. c3 Qf5 4. e3 Qe4 5. g3 Qxh1 6. Bc4 Qxg1+ 7. Bf1 Ke7 8. d3 Kd6 9. f3 Kc6 10. h3 Kb6 11. a4 Ka6 12. c4 Bb4+ 13. Qd2 Qxe3+ 14. Kd1 Qxf3+ 15. Kc2 Bxd2 16. Kxd2 Qxf1 17. b4 Qf2+ 18. Kd1 Qf1+ 19. Kc2 Qe2+ 20. Kb3 Qxd3+ 21. Nc3 Qxg3 22. a5 Qe5 23. h4 Nc6 24. Bh6 Nxh6 25. Rd1 Qe3 26. Rf1 Nd4+ 27. Ka3 Qxc3+ 28. Ka4 Qb3# 0-1

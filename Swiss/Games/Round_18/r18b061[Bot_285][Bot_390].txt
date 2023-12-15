@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "17"]
+[White "Scorraccio possente (by: Diego campione)"]
+[Black "BuiltCleverBot (by: Scott Ward)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e5 2. Qh5 Nc6 3. Nf3 Nf6 4. Qg5 h6 5. Qg3 Ne4 6. Qg4 d5 7. Qh5 g6 8. Qxe5+ Nxe5 9. Nxe5 Bd6 10. Nf3 Bg4 11. Nd4 Qh4 12. g3 Qf6 13. f4 c5 14. Bb5+ Kf8 15. Be2 cxd4 16. Bxg4 h5 17. Bh3 h4 18. exd4 hxg3 19. Bg2 gxh2 20. Bxe4 dxe4 21. Nc3 Qxf4 22. d3 Qg3+ 23. Kd1 Qf3+ 24. Ne2 Qxh1+ 25. Kd2 Qf3 26. Kc3 h1=Q 27. Bf4 Qxa1 28. Bxd6+ Kg8 29. Ng3 Rh3 30. Nxe4 Qxe4 31. Be5 Qc6+ 32. Kd2 Rh1 33. Ke3 Qg1+ 34. Kd2 Qf2# 0-1

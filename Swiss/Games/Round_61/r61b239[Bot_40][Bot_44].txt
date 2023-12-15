@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "60"]
+[White "holcak-bot (by: Petr Holčák)"]
+[Black "SimpleBot (by: :LMProgramming)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 e6 2. h5 Qg5 3. d4 Qa5+ 4. b4 Qxb4+ 5. c3 Qb5 6. Nd2 Bd6 7. e4 Nc6 8. Bxb5 Nb4 9. a4 Bf8 10. cxb4 Bxb4 11. g4 Ba5 12. f4 Ne7 13. g5 Nf5 14. exf5 exf5 15. d5 f6 16. gxf6 gxf6 17. h6 c5 18. d6 c4 19. Bxc4 Bd8 20. Ndf3 Ba5+ 21. Kf2 Bb6+ 22. Kg3 Bf2+ 23. Kxf2 Kd8 24. a5 Ke8 25. Nh4 Kd8 26. Nxf5 Rg8 27. Nh3 Re8 28. Ng7 Re3 29. Ng1 Rd3 30. Qxd3 b5 31. Bxb5 Bb7 32. Rh5 a6 33. Bc4 Bc6 34. Qxh7 f5 35. Qg8# 1-0

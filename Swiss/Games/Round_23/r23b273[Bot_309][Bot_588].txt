@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "22"]
+[White "Mirror Bot (by: JuNi)"]
+[Black "Mobilibot (by: Gabriel N.)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Qg4 Qh4 3. Qh5 Qxe4+ 4. Be2 Bb4 5. Qg6 hxg6 6. g3 d5 7. Nc3 Bxc3 8. Nh3 Qxh1+ 9. Ng1 Qxg1+ 10. Bf1 Rxh2 11. Ke2 Qxf2+ 12. Kd1 Qxf1# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "50"]
+[White "HekMate (by: Maddisch)"]
+[Black "ABot (by: August)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 f6 2. Bf4 Na6 3. d5 Kf7 4. Qd4 Kg6 5. Qe4+ Kh5 6. Qf3+ Kh4 7. Qh3# 1-0

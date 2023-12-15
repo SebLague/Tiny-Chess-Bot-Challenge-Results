@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "16"]
+[White "Game Tech Explained Bot (by: Game Tech Explained)"]
+[Black "Negative Depth (by: Zoltán Kürti)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. e3 d5 3. Nf3 Nbd7 4. Bd3 c5 5. O-O cxd4 6. exd4 Qc7 7. Qe1 e6 8. Nc3 Bd6 9. Nb5 Qb8 10. Nxd6+ Qxd6 11. Bd2 b6 12. Ne5 Bb7 13. Bf4 Rg8 14. Bb5 Qe7 15. Bg5 Bc8 16. Bc6 Rb8 17. Bf4 Ne4 18. Nd3 Rb7 19. f3 Nd6 20. Bxb7 Bxb7 21. Rd1 Nf5 22. Qf2 g5 23. Bd2 e5 24. dxe5 Nh4 25. Bc3 f6 26. exf6 Nxf6 27. Rde1 Ne4 28. fxe4 dxe4 29. Qg3 Ba8 30. Qb8+ Qd8 31. Qxa7 Qe7 32. Qxa8+ Kd7 33. Qxg8 Nxg2 34. Kxg2 exd3 35. Qd5+ Qd6 36. Rf7+ Kc8 37. Re8+ Qd8 38. Qa8# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "57"]
+[White "Simple Minimax (by: Sidewinder7)"]
+[Black "WingBot (by: Benjamin Iserman)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. e4 e5 2. Qh5 Bd6 3. Nh3 Qf6 4. Bd3 Nc6 5. O-O b6 6. c3 a5 7. Nf4 Qxf4 8. Rd1 Nf6 9. Qf5 h6 10. Qxf4 exf4 11. h3 g6 12. Bc4 Nxe4 13. Re1 f5 14. d3 Ke7 15. Bxf4 Bxf4 16. Re2 Kd6 17. dxe4 Kc5 18. exf5 Kxc4 19. a4 gxf5 20. g3 Kb3 21. Kg2 Rg8 22. Na3 Kxa4 23. Nb1+ Kb3 24. Na3 a4 25. h4 h5 26. Nb5 d5 27. Nxc7 Bxc7 28. Ra3+ Kc4 29. Re8 Rxe8 30. Ra1 b5 31. Rc1 Ba5 32. Ra1 Ba6 33. b4 axb3 34. g4 Kxc3 35. Rxa5 Nxa5 36. f3 Re2+ 37. Kf1 Kb2 38. Kxe2 Re8+ 39. Kf2 Ka1 40. f4 fxg4 41. Kg1 Re1+ 42. Kf2 Rb1 43. Ke3 Re1+ 44. Kf2 Rc1 45. Ke2 Rc2+ 46. Kd3 b4+ 47. Kd4 Rd2+ 48. Kc5 Kb1 49. Kb6 Ka1 50. Kxa6 Ra2 51. Kb6 Nc4+ 52. Kc6 d4 53. Kb5 Kb1 54. Kxc4 Ka1 55. Kxb3 Kb1 56. Kxb4 Rb2+ 57. Kc5 d3 58. Kd6 Rb6+ 59. Kc7 Rb2 60. Kd7 Rb7+ 61. Kc8 Rb2 62. Kc7 Rc2+ 63. Kb6 Rb2+ 64. Kc7 Rc2+ 65. Kb6 Rb2+ 66. Kc6 Rc2+ 67. Kb5 Rb2+ 68. Kc6 Rc2+ 69. Kb5 Rb2+ 70. Kc6 1/2-1/2

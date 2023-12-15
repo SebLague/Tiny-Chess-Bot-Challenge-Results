@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "50"]
+[White "Quinn (by: Pierre Girardeau)"]
+[Black "Headless Chicken (by: Nat)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e6 2. e3 Qg5 3. Nf3 Qc5 4. d4 Qh5 5. Ne5 Qxd1+ 6. Kxd1 Nc6 7. Bd3 Nf6 8. Bd2 h5 9. a3 Be7 10. Ke2 h4 11. b4 Nxe5 12. dxe5 Ng4 13. Ra2 Nxe5 14. Rf1 Nxd3 15. cxd3 b6 16. Nb5 Kd8 17. Rc1 c6 18. Nd4 Bd6 19. g3 Ba6 20. Raa1 hxg3 21. Rcb1 Rxh2 22. Be1 Rc8 23. Ra2 Ke8 24. Nf3 g2 25. Kd2 Rh5 26. Kd1 Bxd3 27. Rba1 Be4 28. Kc1 Bxf3 29. Kb2 g1=Q 30. Kb3 Bd5+ 31. Kb2 Bxa2 32. Kxa2 Qf1 33. Rc1 Qd3 34. Bc3 Rh2 35. Ka1 Rxf2 36. Bb2 Qd2 37. Rb1 Qc2 38. b5 cxb5 39. e4 Be5 40. Ka2 Rc3 41. Ka1 Rxa3# 0-1

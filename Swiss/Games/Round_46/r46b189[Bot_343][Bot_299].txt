@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "45"]
+[White "Freedom_Fighter v.83 (by: Kongo Landwalker)"]
+[Black "MaterFromRadiatorSprings (by: Markus Grand Petersen)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e6 2. Qg4 Qe7 3. Qd4 e5 4. Qg4 Qd6 5. Bd3 Nf6 6. Qf5 Ke7 7. Ne2 Kd8 8. Nbc3 c6 9. Nd4 exd4 10. Qa5+ b6 11. Qf5 dxc3 12. dxc3 Ke8 13. Bd2 b5 14. c4 bxc4 15. e4 cxd3 16. cxd3 Qd4 17. Rc1 Qxb2 18. O-O Be7 19. Rxc6 Nxc6 20. Bb4 Nd4 21. Qe5 Qxa2 22. Qxe7# 1-0

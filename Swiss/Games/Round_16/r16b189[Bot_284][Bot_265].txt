@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "15"]
+[White "Arctiform's Bot (by: Arctiform)"]
+[Black "SimpleBot (by: Tim Zollner)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g4 e6 2. d4 Be7 3. f4 Nf6 4. g5 Ne4 5. c4 O-O 6. e3 Bb4+ 7. Ke2 Qe7 8. h4 Ng3+ 9. Kf2 Ne4+ 10. Kg2 f5 11. Qh5 Qf7 12. b3 Qxh5 13. a4 Qg4+ 14. Kh2 Qg3# 0-1

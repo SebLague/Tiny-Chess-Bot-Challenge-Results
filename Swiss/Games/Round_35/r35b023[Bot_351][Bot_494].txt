@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "34"]
+[White "Capybara (by: Matěj Fencl)"]
+[Black "Nathe-Bot (by: NatheSpike)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. e5 Qe7 8. Qe2 Nd5 9. Bd2 O-O 10. Nxd5 Bxd2+ 11. Qxd2 cxd5 12. O-O-O Bb7 13. Qe3 Rfe8 14. Bd3 Qxe5 15. Qxe5 Rxe5 16. Rhe1 Rae8 17. Rxe5 Rxe5 18. b4 d4 19. Bf1 Rd5 20. Bc4 Rh5 21. Rxd4 d6 22. Rf4 d5 23. Rd4 g6 24. g4 Rxh2 25. Bxd5 Bxd5 26. Rxd5 Rxf2 27. g5 Rf5 28. Ra5 Rxa5 29. bxa5 a6 30. Kd2 Kg7 31. Ke3 f6 32. Kf4 fxg5+ 33. Kxg5 h5 34. c3 c5 35. Kf4 c4 36. Kg5 Kf7 37. Kh4 Kf6 38. Kg3 g5 39. Kf2 g4 40. Ke3 Ke5 41. Ke2 Ke4 42. Kf1 h4 43. Kg2 Kf4 44. a3 Ke3 45. a4 Kf4 46. Kf1 h3 47. Kf2 g3+ 48. Kg1 Kf3 49. Kh1 Ke2 50. Kg1 g2 51. Kh2 Kf2 52. Kxh3 g1=Q 53. Kh4 Qg6 54. Kh3 Qh5# 0-1

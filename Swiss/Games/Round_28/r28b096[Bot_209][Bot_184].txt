@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "27"]
+[White "SimpleMCTS (by: GinoPerrotta)"]
+[Black "Chessinator 3000 (by: )"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e6 2. Nf3 Qf6 3. Nb5 Na6 4. e3 h5 5. Bc4 d5 6. Bb3 Bd7 7. a4 Bc5 8. c3 O-O-O 9. g3 Ne7 10. d4 Bb6 11. Ne5 Be8 12. Qd3 Nb8 13. a5 Bc5 14. Nxf7 Bxb5 15. Qxb5 Qxf7 16. dxc5 a6 17. Qe2 Nd7 18. c6 Nc5 19. cxb7+ Kxb7 20. Ba4 h4 21. gxh4 Rxh4 22. b4 Nxa4 23. Rxa4 Qg6 24. Qf3 Qc2 25. Qd1 Qxc3+ 26. Bd2 Qd3 27. f4 g5 28. fxg5 Rf8 29. b5 Rxa4 30. bxa6+ Kxa6 31. Qxa4 Qb1+ 32. Qd1 Qxd1+ 33. Kxd1 Kb5 34. Bc3 Rf2 35. Kc1 Nf5 36. Rd1 Nxe3 37. Rd3 Nc4 38. Bf6 Rxh2 39. Bc3 c5 40. Bf6 Rg2 41. Rf3 Kxa5 42. Rc3 Kb4 43. Kd1 d4 44. Rf3 e5 45. Ke1 e4 46. Rf4 e3 47. Be7 d3 48. Kf1 e2+ 49. Kxg2 e1=Q 50. Bd6 d2 51. Rxc4+ Kxc4 52. Bg3 Qe4+ 53. Kh3 d1=Q 54. Be5 Qdf3+ 55. Bg3 Qh5+ 56. Bh4 Qhxh4# 0-1

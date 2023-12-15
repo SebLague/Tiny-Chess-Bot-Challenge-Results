@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Knockout 16"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "TinyHugeBot (by: Popax21 & atpx8)"]
+[Black "drip leab (by: JeffLegendPower)"]
+[Result "0-1"]
+[TimeControl "30+0.1"]
+[Termination "Checkmate"]
+
+1. c4 Nf6 2. d4 g6 3. f3 c5 4. d5 d6 5. Nc3 e6 6. e4 exd5 7. cxd5 Bg7 8. Nge2 O-O 9. Ng3 Nbd7 10. Be2 a6 11. a4 h6 12. O-O Re8 13. h3 Nh7 14. Be3 Qh4 15. Nh1 Nhf6 16. Qd2 Nh5 17. Rad1 Be5 18. Bxh6 Nf4 19. Bxf4 Bxf4 20. Qe1 Qg5 21. Nf2 Bg3 22. a5 f5 23. exf5 gxf5 24. Qd2 Bf4 25. Qc2 Qg3 26. Rfe1 Ne5 27. b3 Kh8 28. Nfe4 Qh2+ 29. Kf2 fxe4 30. Nxe4 Bxh3 31. Rg1 Rg8 32. Rdf1 Rxg2+ 33. Rxg2 Bxg2 34. Ke1 Bxf1 35. Kxf1 Rg8 36. Ng5 Rxg5 37. Ke1 Rg1+ 38. Bf1 Nxf3+ 39. Kd1 Rxf1# 0-1

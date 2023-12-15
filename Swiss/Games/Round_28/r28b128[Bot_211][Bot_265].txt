@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "27"]
+[White "Lord Chester of Ply5 (by: PatrickTalksALot)"]
+[Black "SimpleBot (by: Tim Zollner)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e6 2. Nh3 Nf6 3. Qf3 Be7 4. Qg3 g6 5. Qe5 Nc6 6. Qf4 e5 7. Qf3 d5 8. Bb5 O-O 9. Bxc6 Nxe4 10. Bxd5 Bxh3 11. Qxe4 Bf5 12. Bxf7+ Rxf7 13. Qxb7 Bc5 14. Qc6 Bxf2+ 15. Ke2 Bg4+ 16. Kf1 Bh4+ 17. Qf3 Bxf3 18. gxf3 Qf6 19. Rg1 Qxf3# 0-1

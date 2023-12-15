@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "22"]
+[White "The Grandiloquent Intelligentsia of Magnanimous Strategem: A Prodigiously Resplendent Embodiment of Erudite Chess Esotericism, Exuding Enigmatic Brilliance and Sublime Eloquence Whilst Enchantingly Tempering the Hallowed Battlefield of Intellectual Duels, Endeavoring to Transcend Acumen and Ascend to the Pantheon of Learned Peregrinations with an Efficacious Arsenal of Foresight and Sagacity, Humbling Opponents with Refined Gallantry, and Beckoning Discerning Disciples to Witness the Manifest Veracity of its Ascent to a Formidable Elo Quintessence (by: Giles Corey)"]
+[Black "FetaCheese_Bot (by: Dimitris Dallas)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 a5 2. g3 c5 3. Bg2 d5 4. c3 Nf6 5. O-O Be6 6. d4 Nbd7 7. Re1 b5 8. Na3 b4 9. Nb5 Rb8 10. a4 bxa3 11. Nxa3 Ne4 12. Rb1 f5 13. Bf4 Rc8 14. Nb5 Qb6 15. Qb3 c4 16. Qa4 Rg8 17. h4 h6 18. Ra1 g5 19. hxg5 hxg5 20. Be5 g4 21. Nh4 Bh6 22. Qxa5 Qxa5 23. Rxa5 Bd2 24. Rd1 Nxe5 25. dxe5 Bg5 26. Nd4 Bd7 27. e6 Bxe6 28. Nxe6 Bxh4 29. gxh4 Kf7 30. Nf4 e6 31. Bxe4 fxe4 32. Ra7+ Kf6 33. Ra6 Ke5 34. Nxe6 Rge8 35. Nd4 Kf4 36. e3+ Ke5 37. Nc6+ Kf6 38. Na7+ Ke5 39. Nxc8 Rxc8 40. Rg6 Rc5 41. h5 Kf5 42. Rg7 Ke5 43. h6 g3 44. h7 Rc8 45. Rg8 gxf2+ 46. Kxf2 Rc7 47. h8=Q+ Rg7 48. Rxg7 Kf6 49. Qh6+ Kf5 50. Rxd5# 1-0

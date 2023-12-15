@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "45"]
+[White "TLMChessBot [v1-1250] (by: Möhrchen (Thilo))"]
+[Black "ImpossiBot (by: StefanDeSterke)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f4 Na6 2. e4 Rb8 3. Nf3 Ra8 4. Bc4 Rb8 5. a4 Ra8 6. Nc3 Rb8 7. a5 Ra8 8. d4 g6 9. Be3 h6 10. Ne5 e6 11. f5 gxf5 12. exf5 Nb8 13. Rf1 Qh4+ 14. g3 Qxh2 15. fxe6 fxe6 16. Rxf8+ Kxf8 17. Qf3+ Nf6 18. Qxf6+ Ke8 19. Qxh8+ Ke7 20. Qg7+ Kd6 21. Qf8# 1-0

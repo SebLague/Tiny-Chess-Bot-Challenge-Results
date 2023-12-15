@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "11"]
+[White "StallerBot (by: Ean)"]
+[Black "Anarchy Bot (by: Malcolm)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d3 c6 2. Bf4 Qb6 3. Be5 Qb5 4. Bc3 e5 5. d4 e4 6. Na3 Qh5 7. f3 exf3 8. exf3 Qh4+ 9. g3 Qe7+ 10. Kd2 g6 11. h4 Bg7 12. Nc4 b5 13. Bd3 bxc4 14. Bxc4 d5 15. Bb3 a5 16. Kd3 Bh6 17. Bd2 Bf5+ 18. Kc3 Kd7 19. a3 Qc5+ 20. dxc5 Bg7# 0-1

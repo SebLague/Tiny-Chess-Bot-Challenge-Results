@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "59"]
+[White "Deerobot (by: Hugo Ingelsson)"]
+[Black "Sardine (by: Broxholme)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e5 2. Nf3 e4 3. Nd4 d5 4. Bb5+ c6 5. Ba4 Qg5 6. Kf1 Nf6 7. Nc3 Bc5 8. f4 Qg6 9. Kg1 O-O 10. d3 Bh3 11. Qf1 Nbd7 12. dxe4 dxe4 13. Bd2 Rad8 14. Kf2 Bxd4 15. exd4 e3+ 16. Bxe3 Ng4+ 17. Kf3 Nxe3 18. Kxe3 Bxg2 19. Qf2 Nf6 20. h3 Ne4 21. f5 Nxf2 22. fxg6 Nxh1 23. gxf7+ Kxf7 24. d5 cxd5 25. Ne2 Be4 26. Rg1 Kg8 27. Nd4 Rd6 28. Re1 Nf2 29. h4 Ng4+ 30. Kd2 Rh6 31. Bb3 Rf2+ 32. Kc1 Rxh4 33. Nb5 Rhh2 34. Nd4 Ne3 35. a4 Kf8 36. a5 Bxc2 37. a6 bxa6 38. Bxc2 Nxc2 39. Rd1 Nxd4 40. Rxd4 Rc2+ 41. Kd1 Rxb2 42. Kc1 Rbc2+ 43. Kb1 Rcf2 44. Kc1 Rf1+ 45. Rd1 Rxd1+ 46. Kxd1 d4 47. Kc1 a5 48. Kb1 d3 49. Kc1 Rc2+ 50. Kd1 a4 51. Ke1 a3 52. Kd1 a2 53. Ke1 a1=Q# 0-1

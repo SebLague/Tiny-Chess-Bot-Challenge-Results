@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "22"]
+[White "Caissa Alexander (by: Ephraim225)"]
+[Black "WingBot (by: Benjamin Iserman)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Qf3 Bc5 3. Bb5 Nh6 4. d3 Bb4+ 5. c3 O-O 6. cxb4 b6 7. Be3 d6 8. Nc3 Be6 9. O-O-O Qh4 10. a3 g6 11. Nge2 Kg7 12. Kc2 Kg8 13. Ra1 Kg7 14. Bxh6+ Kxh6 15. Na4 Kg7 16. Nxb6 axb6 17. Nc3 h6 18. Qe3 f6 19. f3 Kf7 20. Kd2 Ke7 21. Kc2 h5 22. Kd2 Kf7 23. Ke2 Ke7 24. Qh6 Bf7 25. Kd2 Qf2+ 26. Kd1 Qxb2 27. Ke1 Qxa1+ 28. Nb1 Qxb1+ 29. Kd2 Qxh1 30. Ke2 Qxg2+ 31. Kd1 Qxf3+ 32. Kc2 Rxa3 33. Kb2 Ra7 34. Kc1 Qf1+ 35. Kc2 Qf2+ 36. Kb1 Qxh2 37. Qc1 Qa2# 0-1

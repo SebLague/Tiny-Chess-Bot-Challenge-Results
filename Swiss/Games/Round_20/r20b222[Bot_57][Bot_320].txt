@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "19"]
+[White "Obi (by: Carson Ouckama)"]
+[Black "lowEloBrain (by: bbb908)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Qh5 Bb4 3. Qxe5+ Kf8 4. g4 f5 5. exf5 Qh4 6. Qxc7 d5 7. Qxc8+ Ke7 8. Qxb7+ Kd6 9. Qxb4+ Ke5 10. Nf3+ Kf6 11. Qf8# 1-0

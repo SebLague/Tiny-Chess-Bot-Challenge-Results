@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "54"]
+[White "BaddieBot (by: Domic)"]
+[Black "CapivaraBot (by: Danilo Luiz Rheinheimer)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. e3 h5 2. Bb5 g5 3. Nc3 f5 4. Nd5 e5 5. d3 c5 6. Nf3 a6 7. Nxe5 axb5 8. O-O d6 9. Ng6 Rh7 10. a3 Bg7 11. c3 b6 12. Kh1 h4 13. e4 fxe4 14. dxe4 g4 15. Bf4 c4 16. Kg1 h3 17. gxh3 gxh3 18. Re1 Nh6 19. Re3 Nc6 20. Rb1 Ng8 21. Ra1 Nh6 22. Rg3 Ng8 23. f3 Nh6 24. Rb1 Ng8 25. Be3 1-0

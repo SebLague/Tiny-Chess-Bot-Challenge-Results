@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "49"]
+[White "Michael's Bot (by: MichaelW)"]
+[Black ":3 (by: Lauri Räsänen)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e6 2. Qh5 c6 3. Bd3 d5 4. Bxh7 Nf6 5. Qg5 Rxh7 6. c4 Rh5 7. Qf4 e5 8. Qf3 dxc4 9. Nc3 Bg4 10. Qg3 Qd3 11. Nf3 Bd6 12. e4 Bb4 13. Qxe5+ Rxe5 14. Nxe5 Qd4 15. Nf3 Bxf3 16. gxf3 Qd3 17. Rg1 Qxf3 18. Rxg7 Nxe4 19. Rg8+ Kd7 20. Nxe4 Qxe4+ 21. Kd1 Bc5 22. Rg1 Bxf2 23. Rg8 b5 24. Rf8 Qg4+ 25. Kc2 Qg7 26. Rxb8 Rxb8 27. d4 Qxd4 28. a3 Qd3# 0-1

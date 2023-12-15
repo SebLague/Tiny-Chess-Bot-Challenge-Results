@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "50"]
+[White "Average Joe (by: Visiorex)"]
+[Black "MyFirstChessEngine (by: Jake Forsey)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. e3 Nc6 2. Qg4 Nh6 3. Qa4 d6 4. Be2 Be6 5. Qb5 Rb8 6. Bf3 d5 7. d4 Qd6 8. e4 Qb4+ 9. Qxb4 Nxb4 10. Kd2 dxe4 11. Bxe4 Nxa2 12. d5 Nxc1 13. dxe6 Ng4 14. Nh3 Nf6 15. Bf5 g6 16. exf7+ Kd8 17. Be6 Bh6+ 18. f4 Nb3+ 19. Bxb3 Ne4+ 20. Ke3 Nd6 21. Rd1 Ra8 22. Ng5 Bxg5 23. fxg5 Rf8 24. Kf2 Kc8 25. Re1 Nxf7 26. Kg1 Kd7 27. Rf1 Nxg5 28. Rxf8 Rxf8 29. h4 Nf3+ 30. gxf3 Rxf3 31. Rxa7 Rg3+ 32. Kh2 Rf3 33. Nc3 Kd6 34. Rxb7 Rf2+ 35. Kh1 Rf1+ 36. Kh2 Rf2+ 37. Kh3 Rf3+ 38. Kg4 Rf1 39. Kg3 Kc6 40. Bd5+ Kd7 41. Be4 Rg1+ 42. Kf4 e5+ 43. Kxe5 Rg4 44. Nd5 Rxh4 45. Rb8 Rh5+ 46. Kf6 Rh4 47. Kf7 Kc6 48. Bf3 Rh2 49. Ke8 Rd2 50. Nf6+ Kc5 51. Ne4+ Kc4 52. Nxd2+ Kd4 53. Nf1 c5 54. b3 Ke5 55. Bh1 Kd4 56. c4 Kd3 57. Nh2 Kc2 58. Nf3 Kb1 59. Rb6 Ka1 60. Rd6 Ka2 61. Nd2 Ka1 62. Bd5 Ka2 63. Bh1 Ka1 64. Rd8 g5 65. Rc8 Ka2 66. Bf3 Ka1 67. Bg4 Ka2 68. Kf7 Ka1 69. Bh5 Ka2 70. Rc7 Ka1 71. Rc8 Ka2 72. Kf6 Ka1 73. Bg4 Ka2 74. Bd1 Ka1 75. Bg4 Ka2 76. Ke6 Ka1 77. Kd7 Ka2 78. Ke7 Ka1 79. Kf6 1/2-1/2

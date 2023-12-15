@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "34"]
+[White "UncatchableSpaghettiMonster (by: drlundberg)"]
+[Black "dumbot (by: slothinahat)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 c5 2. Nh3 g6 3. Nf4 Qc7 4. f3 Qxf4 5. h3 Qg3# 0-1

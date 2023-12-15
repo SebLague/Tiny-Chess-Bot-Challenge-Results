@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "55"]
+[White "en passant bot (by: julie)"]
+[Black "Sore Loser Bot (by: Techno)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. g4 a5 2. f4 d5 3. Bg2 a4 4. g5 Na6 5. c3 e6 6. Kf1 h5 7. gxh6 Rb8 8. Be4 Kd7 9. Nh3 Nxh6 10. a3 Bc5 11. Qb3 Qe7 12. Qxa4+ 1-0

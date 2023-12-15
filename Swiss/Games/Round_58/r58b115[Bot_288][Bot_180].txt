@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "57"]
+[White "Running Bot (by: Chris Pontius)"]
+[Black "Sørensen's Minimax (by: Victor)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c4 e6 2. e4 Qh4 3. Nc3 Nc6 4. Nf3 Qf4 5. g3 Qf6 6. Nb5 Kd8 7. d3 a6 8. Bg5 Bb4+ 9. Nc3 Bxc3+ 10. bxc3 Ke7 11. Qd2 Nh6 12. Bxf6+ Kxf6 13. Qg5# 1-0

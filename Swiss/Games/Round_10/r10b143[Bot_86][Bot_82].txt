@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "9"]
+[White "Blitztron (by: Cameron Dugan)"]
+[Black "Bruteforcer (by: SiestaGuru)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 e6 2. a3 g6 3. g4 Qh4 4. h3 Qf6 5. b3 c5 6. g5 Qxd4 7. Qxd4 cxd4 8. Bb2 e5 9. Nf3 d6 10. Nh2 Ne7 11. Bg2 d5 12. Nd2 Bf5 13. h4 Bxc2 14. Ng4 Nd7 15. b4 Bg7 16. O-O a5 17. b5 Ba4 18. b6 Bb5 19. Nf6+ Nxf6 20. gxf6 Bxf6 21. Nb3 Bc4 22. Nc1 Nf5 23. a4 Nxh4 24. Bh3 Bd8 25. f4 Bxb6 26. fxe5 d3+ 27. Kh1 dxe2 28. Bd7+ Kxd7 29. e6+ fxe6 30. Re1 Rhe8 31. Rxe2 Bxe2 32. Nxe2 Rf8 33. Bg7 Rf2 34. Bd4 Rxe2 35. Bxb6 Nf3 36. Rf1 Rh2# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "63"]
+[White "Clyde (by: Evan)"]
+[Black "SimpleBot (by: Tim Zollner)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g4 e6 2. e4 Be7 3. d4 Nf6 4. e5 Nd5 5. c4 Bb4+ 6. Ke2 Nb6 7. f4 Be7 8. b3 d6 9. exd6 cxd6 10. b4 Qc7 11. h3 Qc6 12. Rh2 N6d7 13. a3 Qe4+ 14. Kd2 Qxf4+ 15. Kd3 Ne5+ 16. dxe5 Qg3+ 17. Kd4 Qxe5+ 18. Kd3 Qxh2 19. Nf3 Qg3 20. Qa4+ Nd7 21. Nd2 Bf6 22. Rb1 Bg5 23. Nb3 Qxf3+ 24. Kd4 Bf6# 0-1

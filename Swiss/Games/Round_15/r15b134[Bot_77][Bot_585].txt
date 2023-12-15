@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "14"]
+[White "OrionChessEngine (by: Maarten Peels)"]
+[Black "Negative Depth (by: Zoltán Kürti)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. Nc3 Na6 3. Rb1 d5 4. Ne5 c6 5. Nxd5 Qxd5 6. Nd3 Qxa2 7. Ra1 Qxa1 8. Rg1 Nc7 9. Rh1 Bg4 10. Nf4 e5 11. Rg1 exf4 12. Rh1 Bb4 13. Rg1 Ne4 14. Rh1 Bc5 15. Rg1 Bxf2# 0-1

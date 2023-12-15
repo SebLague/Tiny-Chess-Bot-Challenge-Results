@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "45"]
+[White "WingBot (by: Benjamin Iserman)"]
+[Black "BadMeetsEvil (by: Nathan)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 g6 2. Bc4 b6 3. Qf3 e5 4. Qxf7# 1-0

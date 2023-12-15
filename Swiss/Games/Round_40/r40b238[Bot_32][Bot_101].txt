@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "39"]
+[White "Botty_Bot (by: Roboticmadness)"]
+[Black "HERO-bot (by: ELEMENTLHERO)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d3 g5 2. Na3 b5 3. h4 gxh4 4. Nc4 a5 5. Nd6+ cxd6 6. c4 a4 7. f3 Qb6 8. Qc2 Nc6 9. Bg5 Nf6 10. b4 axb3 11. Be3 Qxe3 12. Rh3 b2 13. Rb1 Ra4 14. Qc3 e5 15. Qxe5+ Qxe5 16. e3 Qxe3+ 17. Be2 Qxg1+ 18. Bf1 Qe3+ 19. Be2 b4 20. d4 Qg1+ 21. Bf1 Qe3+ 22. Kd1 Rg8 23. Rxb2 Rg3 24. Bd3 Rg5 25. Rg3 Qxd3+ 26. Ke1 Qe3+ 27. Kd1 Rga5 28. d5 Qd3+ 29. Ke1 Qe3+ 30. Re2 Qe5 31. Re4 Qe7 32. Rxe7+ Nxe7 33. f4 Ra3 34. Rb3 Rxa2 35. Kf1 R5a3 36. Rd3 Rxd3 37. Ke1 Re3+ 38. Kf1 Ra1+ 39. Kf2 Ng4# 0-1

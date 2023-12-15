@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "56"]
+[White "WitwerMacher (by: Yannik Bleilinger)"]
+[Black "NinjaBot (by: Jinan Dangor)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 c6 2. Rb1 Qb6 3. e3 Qc5 4. Ra1 e6 5. Be2 Nf6 6. Kf1 d5 7. Nf3 Qb4 8. d4 Ne4 9. Bd3 Nf6 10. Ke2 Bd6 11. Rg1 h5 12. c3 Qa5 13. b4 Qc7 14. h3 a5 15. Ke1 axb4 16. Nc4 dxc4 17. Bxc4 bxc3 18. Bxe6 Bxe6 19. Kf1 Qb6 20. Ke1 Ra5 21. Kf1 Qb5+ 22. Qd3 Qxd3+ 23. Ke1 Kd8 24. Ng5 Rxg5 25. g3 Bxh3 26. Rf1 Qxf1# 0-1

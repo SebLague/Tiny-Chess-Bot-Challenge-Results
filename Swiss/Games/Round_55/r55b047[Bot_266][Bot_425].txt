@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "54"]
+[White "Game Tech Explained Bot (by: Game Tech Explained)"]
+[Black "200 Tokens Monstrosity (by: ErwanF)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 e6 2. Nc3 Qh4 3. Nf3 Qh5 4. e4 Bb4 5. Bd2 Nf6 6. Nb5 Bxd2+ 7. Nxd2 Qxd1+ 8. Rxd1 Kd8 9. e5 Nd5 10. c4 Nb4 11. a3 Nc2+ 12. Ke2 a6 13. Kd3 axb5 14. Kxc2 Nc6 15. cxb5 Nxd4+ 16. Kc3 Nf5 17. Bd3 Ra4 18. Nc4 b6 19. g4 Nh4 20. b3 Ra7 21. Kd4 Nf3+ 22. Ke3 Bb7 23. Be4 Bxe4 24. Kxe4 Ng5+ 25. Kf4 Nh3+ 26. Kf3 Ng5+ 27. Ke3 Nh3 28. g5 Ke7 29. a4 Raa8 30. f4 h6 31. gxh6 gxh6 32. Rdf1 Rhg8 33. Rf3 Nxf4 34. Kxf4 Rg2 35. Rh3 Rh8 36. Rg3 Rf2+ 37. Ke4 Re2+ 38. Kd3 Rf2 39. Rg7 Rf3+ 40. Ne3 Ra8 41. Rc1 Rf2 42. Rxc7 Rb2 43. Nc4 Rxb3+ 44. Kc2 Rf3 45. Nxb6 Rf2+ 46. Kd3 Rd8 47. Rh7 Rxh2 48. Nc8+ Rxc8 49. Rxc8 Rh3+ 50. Kd2 Rh2+ 51. Ke3 Rh3+ 52. Ke4 Rh4+ 53. Kf3 Rxa4 54. Rhh8 Ra3+ 55. Ke2 Ra2+ 56. Kd3 Ra3+ 57. Kc2 Ra2+ 58. Kb1 Ra1+ 59. Kxa1 h5 60. Rhe8# 1-0

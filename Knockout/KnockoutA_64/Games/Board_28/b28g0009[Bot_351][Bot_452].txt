@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Knockout 64"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "-1"]
+[White "Capybara (by: Matěj Fencl)"]
+[Black "Midnight Oil (by: Danny Boy)"]
+[Result "1-0"]
+[TimeControl "30+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 Bxc3+ 5. bxc3 b6 6. e3 Bb7 7. Bd3 Nc6 8. O-O O-O 9. e4 d6 10. Rb1 Qe7 11. Ba3 Rae8 12. e5 Ng4 13. Re1 h5 14. d5 exd5 15. exd6 Qf6 16. d7 Rxe1+ 17. Qxe1 dxc4 18. Bc2 Qe6 19. Bh7+ Kh8 20. Qxe6 fxe6 21. Bxf8 Kxh7 22. Ng5+ Kg8 23. Be7 Nh6 24. Re1 Nf5 25. Rxe6 Nfxe7 26. Rxe7 g6 27. Re6 Kf8 28. Rxc6 Ke7 29. Rxc7 Bd5 30. Rxa7 b5 31. Rc7 Kd8 32. Rc5 Bb7 33. Rxb5 Bc6 34. Nf7+ Kxd7 35. Ne5+ Kd6 36. Nxc6 Kxc6 37. Rg5 h4 38. Rxg6+ Kb5 39. Rh6 Ka4 40. f4 Ka3 41. f5 Ka4 42. f6 Ka3 43. f7 Kb2 44. f8=Q Kxc3 45. Rxh4 Kb2 46. Rxc4 Kb1 47. Qb4+ Kxa2 48. Rc2+ Ka1 49. Qe1# 1-0

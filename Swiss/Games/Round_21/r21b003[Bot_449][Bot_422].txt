@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "20"]
+[White "Sardine (by: Broxholme)"]
+[Black "FloppyChess 4.2 (by: Omsk)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bf4 e6 4. e3 Bb4 5. Qf3 O-O 6. Ne2 Nc6 7. a3 Ba5 8. O-O-O h6 9. b4 Bb6 10. h3 Re8 11. Kb1 e5 12. dxe5 Nxe5 13. Bxe5 Rxe5 14. Nf4 c6 15. Bd3 Qe7 16. Na4 Bc7 17. Nc5 a5 18. c3 b6 19. Nb3 Ne4 20. Bxe4 dxe4 21. Qg3 axb4 22. axb4 c5 23. Kc2 Ra2+ 24. Kb1 Ra3 25. Kc2 Be6 26. c4 Rg5 27. Qh2 Bxc4 28. Nd2 Ra2+ 29. Kc1 Qf6 30. Nd3 Qc3+ 31. Kb1 Ra1# 0-1

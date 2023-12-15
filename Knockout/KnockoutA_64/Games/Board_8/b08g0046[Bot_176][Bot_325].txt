@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Knockout 64"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "-1"]
+[White "Euphoria (by: Andrew Merrill)"]
+[Black "InfuehrDaniel (by: InfuehrDaniel)"]
+[Result "0-1"]
+[TimeControl "30+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 O-O 6. b4 Bb6 7. b5 Na5 8. Nxe5 d5 9. exd5 Re8 10. f4 Ng4 11. Qa4 f6 12. h3 Nh6 13. d6+ Kh8 14. dxc7 Qxc7 15. Kd1 fxe5 16. Bb3 Nxb3 17. axb3 Bf5 18. Re1 Qd7 19. Rxe5 Qxd3+ 20. Nd2 Qc2+ 21. Ke2 Ng4 22. b4 Qd3+ 23. Kd1 Nxe5 24. fxe5 Rxe5 25. Bb2 Rd8 26. Kc1 Qxd2# 0-1

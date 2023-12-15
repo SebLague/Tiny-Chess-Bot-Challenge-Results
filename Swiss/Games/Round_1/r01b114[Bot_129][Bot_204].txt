@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "Chemibot (by: Mike Chemi)"]
+[Black "Blindo (by: MS)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g4 e5 2. Bg2 Qh4 3. e4 Nf6 4. a4 Qg5 5. a5 Qf4 6. Nh3 Qh6 7. g5 Qh4 8. Qf3 Ng8 9. c4 Bb4 10. b3 Nc6 11. Bb2 Bc5 12. Rf1 Bb4 13. Ng1 Qxh2 14. Ra4 Qh4 15. Bc1 Qxg5 16. a6 Nd4 17. Qd3 Qxg2 18. axb7 Rb8 19. bxc8=Q+ Rxc8 20. Rxb4 c5 21. Rb7 Qg4 22. Rxa7 Qg2 23. f4 exf4 24. e5 Qh2 25. e6 fxe6 26. b4 cxb4 27. Qxd4 Qg2 28. Qxd7+ Kf8 29. Qxc8# 1-0

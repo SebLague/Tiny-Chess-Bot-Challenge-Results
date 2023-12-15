@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "49"]
+[White "Chess Bot (by: M)"]
+[Black "Goldfinch (by: ATG)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. e4 Nf6 2. e5 Ne4 3. f3 Ng5 4. d4 h6 5. Bd3 Nc6 6. Be3 Nb4 7. h4 Nxd3+ 8. cxd3 Nh7 9. Nc3 d6 10. f4 c6 11. a4 a5 12. Ra3 e6 13. Rb3 Be7 14. Nf3 O-O 15. exd6 Bxd6 16. Ne4 Bb4+ 17. Kf2 Nf6 18. Nxf6+ Qxf6 19. g4 Bd7 20. Ne5 Rad8 21. g5 hxg5 22. hxg5 Qf5 23. Qh5 Qxf4+ 24. Bxf4 Be1+ 25. Kf3 Bh4 26. Qxh4 Ra8 27. Nxd7 f6 28. g6 Ra6 29. Nxf8 Kxf8 30. Bd6+ Ke8 31. Qxf6 gxf6 32. Rxb7 Kd8 33. g7 Kc8 34. g8=Q+ Kxb7 35. Qf7+ Kb6 36. b3 Ra7 37. Bc5+ Ka6 38. Qe8 Kb7 39. Qd7+ Ka6 40. Qe8 Kb7 41. Qf7+ Ka6 42. Qe8 1/2-1/2

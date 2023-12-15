@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "33"]
+[White "YDepth (by: Jerome Engelbrecht)"]
+[Black "Golden_Chess_Requiem (by: Dhruv S)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 d5 2. d4 Nf6 3. g3 c5 4. dxc5 Na6 5. Be3 e6 6. c6 bxc6 7. Bg2 Rb8 8. Qc1 Bc5 9. Bf4 Qb6 10. Bxb8 Bxf2+ 11. Kd1 Nxb8 12. a4 Ng4 13. a5 Qc5 14. b4 Ne3+ 15. Kd2 Qxb4+ 16. c3 Qg4 17. Bf1 Qh5 18. Nh4 Qh6 19. Bh3 g5 20. Nf3 Qxh3 21. Nxg5 Qg4 22. Nf3 Nd7 23. Na3 Nc5 24. Qb2 Ne4+ 25. Kc1 Qh3 26. Qb8 O-O 27. Kb2 Ba6 28. Qf4 Ng2 29. Qe5 f6 30. Qc7 Rc8 31. Qd7 Rb8+ 32. Kc2 Bxe2 33. Ne1 Ne3+ 34. Kc1 Nxg3 35. hxg3 Qxh1 36. Qxe6+ Kg7 37. Kd2 Rb2+ 38. Kc1 Rb7 39. Kd2 Bg4 40. Qxc6 Rb2+ 41. Kc1 Re2 42. Qc7+ Kg6 43. Qxh7+ Kxh7 44. Nc2 Rxc2+ 45. Kb1 Qxe1# 0-1

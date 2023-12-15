@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "58"]
+[White "Average Chess bot (by: )"]
+[Black "Thunker Weed (by: American Jeff)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. e5 Qe7 8. Qe2 Nd5 9. Bd2 O-O 10. Nxd5 Bxd2+ 11. Qxd2 cxd5 12. Qxd5 Qb4+ 13. Kd1 Qxb2 14. Rc1 Bb7 15. Qc5 Rfe8 16. f4 d6 17. exd6 Rad8 18. Bd3 Bxg2 19. Rg1 Rxd6 20. Kd2 Be4 21. Rxg7+ Kxg7 22. Rg1+ Kh8 23. Qc3+ Qxc3+ 24. Kxc3 Bxd3 25. cxd3 Re2 26. Rb1 Rxh2 27. Rb7 Rc6+ 28. Kb3 Rb6+ 29. Rxb6 cxb6 30. d4 Kg7 31. d5 Rd2 32. Kc4 Kf6 33. a4 h5 34. a5 bxa5 35. Kc3 Rxd5 36. Kc4 Ke6 37. Kb3 h4 38. Ka3 h3 39. Ka2 h2 40. Kb2 h1=Q 41. f5+ Rxf5 42. Kc2 Rf3 43. Kb2 Qg2+ 44. Ka1 Rf1# 0-1

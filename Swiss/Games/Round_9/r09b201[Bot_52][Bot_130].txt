@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "8"]
+[White "SimpleBearSearch (by: PizzasBear)"]
+[Black "EndgameEnigma (by: jostflo)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 Nc6 2. e3 Nf6 3. Nf3 d6 4. Bb5 Be6 5. d4 Ng4 6. Kf1 Rc8 7. e4 Nf6 8. Bg5 Bd7 9. Bxc6 bxc6 10. e5 Ng4 11. exd6 cxd6 12. Qd3 Rb8 13. Re1 Qb6 14. Kg1 Rc8 15. Bf4 Qxb2 16. Bxd6 Nf6 17. d5 Rd8 18. a3 Ng4 19. h3 Rc8 20. hxg4 Bxg4 21. Ne5 Rd8 22. Bxe7 Bxe7 23. Nxc6 Qxa3 24. Nxe7 Rd6 25. Qd4 Rf8 26. Qxg7 Bd7 27. Ng6+ Kd8 28. Nxf8 a5 29. Nxd7 Rxd7 30. Qg8+ Kc7 31. Nb5+ Kb7 32. Nxa3 Rxd5 33. Qxf7+ Kc6 34. Rxh7 a4 35. Qc7# 1-0

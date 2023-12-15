@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "Quinchessential (by: Isaac Sterling)"]
+[Black "Capybara (by: Matěj Fencl)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 d5 2. e3 Nf6 3. Qf3 e5 4. Bb5+ c6 5. Bf1 Bd6 6. h4 Bg4 7. Qg3 e4 8. f4 exf3 9. Qf2 Qc7 10. Nxd5 cxd5 11. gxf3 Bg3 12. fxg4 Bxf2+ 13. Kxf2 Ne4+ 14. Ke1 Qg3+ 15. Ke2 Qf2+ 16. Kd3 Qxf1+ 17. Kd4 Nc6+ 18. Kxd5 O-O-O 19. Kxe4 Rhe8# 0-1

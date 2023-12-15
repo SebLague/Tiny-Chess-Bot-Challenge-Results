@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "8"]
+[White "HopeBot (by: Chinmay Krishna)"]
+[Black "Compact Scholar's mate (by: Chris)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e6 2. Qh5 Bc5 3. Qxc5 Qf6 4. d4 c6 5. Be3 h5 6. h3 g5 7. c4 a5 8. Bd2 h4 9. Ne2 a4 10. Be3 Ne7 11. f3 Na6 12. Qd6 b6 13. Kd1 Ng8 14. Bd2 Ne7 15. Nc1 Ng8 16. c5 bxc5 17. Bxa6 Bxa6 18. Qxc5 Ne7 19. Bxg5 d6 20. Bxf6 Be2+ 21. Kxe2 dxc5 22. Bxh8 Ng6 23. Bf6 Nf4+ 24. Kf1 cxd4 25. Bxd4 Rd8 26. Bc5 Rd1+ 27. Kf2 Rxh1 28. Nd3 Nxd3+ 29. Ke3 Nxc5 30. f4 f6 31. a3 Nd7 32. e5 fxe5 33. b3 exf4+ 34. Kxf4 axb3 35. Kg5 b2 36. Ra2 e5 37. Rxb2 c5 38. Rb7 e4 39. Kxh4 c4 40. Kg5 e3 41. Nc3 Rh2 42. a4 Rxg2+ 43. Kh5 e2 44. Kh4 e1=Q+ 45. Kh5 Nf6+ 46. Kh6 Qh4# 0-1

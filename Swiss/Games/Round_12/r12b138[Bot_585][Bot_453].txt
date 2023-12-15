@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "11"]
+[White "Negative Depth (by: Zoltán Kürti)"]
+[Black "Chessica (by: Nicky Kitchingman)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 f6 2. d4 f5 3. c4 a6 4. Nc3 a5 5. d5 a4 6. Nxa4 b6 7. Nc3 d6 8. Nd4 g6 9. Ne6 Kd7 10. Nb1 Ke8 11. Nxd8 Kxd8 12. Nd2 f4 13. e4 fxe3 14. Nf3 exf2+ 15. Kxf2 b5 16. Be3 bxc4 17. Bd4 Kd7 18. Bxh8 c3 19. bxc3 g5 20. Nxg5 h6 21. Qg4+ Kd8 22. Nf7+ Ke8 23. Qxg8 Kd7 24. Qxf8 Rxa2+ 25. Rxa2 Ba6 26. Qd8# 1-0

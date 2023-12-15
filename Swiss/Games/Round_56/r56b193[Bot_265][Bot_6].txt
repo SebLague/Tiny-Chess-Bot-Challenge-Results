@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "55"]
+[White "SimpleBot (by: Tim Zollner)"]
+[Black "Compact Scholar's mate (by: Chris)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. e3 e6 2. Qg4 Bc5 3. Bd3 Qf6 4. Be4 h5 5. Qg3 d5 6. Bxd5 exd5 7. Qxc7 Nd7 8. Nc3 Bd6 9. Qa5 b6 10. Qxd5 Bb7 11. Qxb7 Qd8 12. Nb5 Nf8 13. Nd4 Bxh2 14. Qe4+ Ne7 15. Nf5 Bxg1 16. Nxg7+ Kd7 17. Qb7+ Kd6 18. b3 Ne6 19. Nxe6 Bxf2+ 20. Kxf2 fxe6 21. Ba3+ Ke5 22. Bb2+ Kd6 23. Bd4 e5 0-1

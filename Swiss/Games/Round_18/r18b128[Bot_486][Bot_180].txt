@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "17"]
+[White "QuaviverBot (by: CantWontDo)"]
+[Black "Sørensen's Minimax (by: Victor)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c4 e6 2. Qc2 Qh4 3. Nf3 Qh5 4. Qa4 Nf6 5. b4 Be7 6. Bb2 Kd8 7. g4 Nxg4 8. Bxg7 Rg8 9. Bb2 Bf6 10. d4 Bh4 11. Nxh4 Qxh4 12. Kd2 Nxf2 13. Qa3 Nxh1 14. Qf3 Qxh2 15. Kc2 Nc6 16. Qxf7 Rf8 17. Qxf8# 1-0

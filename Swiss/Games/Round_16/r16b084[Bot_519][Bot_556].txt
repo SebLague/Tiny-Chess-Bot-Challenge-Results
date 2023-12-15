@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "15"]
+[White "BasicAlphaBeta (by: ThonyDragon)"]
+[Black "Knightmare v2 (by: Default/IHasBone)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c4 e5 2. Nh3 Qh4 3. e3 Bc5 4. Ng1 Nc6 5. a3 e4 6. g4 d6 7. Be2 Nf6 8. b4 Nxg4 9. Bxg4 Bxg4 10. Qc2 Ne5 11. Qxe4 f5 12. Qd5 c6 13. Qe6+ Kd8 14. Nf3 Nxf3+ 15. Kf1 Qh3+ 16. Ke2 Ne5+ 17. Ke1 Nd3# 0-1

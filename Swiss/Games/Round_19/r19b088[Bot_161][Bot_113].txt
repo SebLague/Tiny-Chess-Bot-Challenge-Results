@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "18"]
+[White "bLouBot (by: cmdrsigsegv)"]
+[Black "taylornpeter_chess_sl (by: taylornpeter)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 a5 2. Bf4 b5 3. e4 b4 4. c3 Bb7 5. Bd3 bxc3 6. bxc3 h5 7. Qb3 Ra7 8. Bc4 e6 9. Qc2 g5 10. Be3 f6 11. d5 c5 12. dxc6 Nxc6 13. Qb2 d5 14. Bxa7 dxc4 15. Qxb7 Nge7 16. Bc5 Qd7 17. Qxd7+ Kxd7 18. h4 Ng6 19. Bxf8 Rxf8 20. hxg5 fxg5 21. Rxh5 g4 22. Nd2 Rh8 23. Rxh8 Nxh8 24. Nxc4 a4 25. Nb6+ Kd6 26. Nxa4 Ke5 27. Nc5 Kd6 28. Nd3 Ne5 29. Nf4 Neg6 30. Nxg6 Nxg6 31. Ne2 Ke5 32. f3 Nf4 33. Nxf4 Kxf4 34. fxg4 Kxe4 35. Rd1 Kf4 36. Rd4+ Ke3 37. a4 e5 38. Rc4 Kd3 39. Rc5 e4 40. g5 e3 41. Re5 Kxc3 42. g6 Kd4 43. Rb5 Kc3 44. g7 Kc2 45. g8=Q Kc3 46. Qh7 Kc4 47. g4 Kc3 48. g5 Kc4 49. Qg6 Kc3 50. Qf5 Kc4 51. g6 Kc3 52. g7 Kd4 53. g8=B Kc3 54. a5 Kd4 55. a6 Kc3 56. a7 Kd4 57. a8=B Kc3 58. Bh7 Kc4 59. Qc5# 1-0

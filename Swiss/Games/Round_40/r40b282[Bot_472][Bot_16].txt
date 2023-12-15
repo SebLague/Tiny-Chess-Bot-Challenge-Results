@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "39"]
+[White "En Croissant (by: Lethal Chicken)"]
+[Black "Cirrus v0.1 (by: Bbrainstormer)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Na3 Na6 2. e3 Rb8 3. Bxa6 bxa6 4. c4 Rxb2 5. Bxb2 Bb7 6. Bxg7 Bxg7 7. c5 Bxa1 8. Qxa1 Bxg2 9. Qxh8 Bxh1 10. Qxh7 Kf8 11. Qb1 Kg7 12. Qa1+ Kg6 13. Qb1+ Kg5 14. Nh3+ Kg4 15. Qd1+ Kxh3 16. Kf1 Kxh2 17. Ke1 Kg1 18. Ke2+ Kg2 19. Ke1 Kg1 20. Ke2+ Kg2 21. Ke1 Kg1 1/2-1/2

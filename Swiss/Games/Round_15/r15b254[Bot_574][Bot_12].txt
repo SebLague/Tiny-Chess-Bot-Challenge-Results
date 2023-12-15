@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "14"]
+[White "Holy hell (by: Tyler Branscombe & Austin Daniel)"]
+[Black "Aggressive Fool (by: ZZKer (she/her pronouns))"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g4 b5 2. b4 c5 3. g5 cxb4 4. c4 bxc3 5. Bb2 cxd2+ 6. Kxd2 Qa5+ 7. Kc2 Qa4+ 8. Kc1 Qxd1+ 9. Kxd1 Nh6 10. Nh3 Nc6 11. Be5 Nxe5 12. Nd2 g6 13. Rb1 a6 14. Nf4 Nhg4 15. Nd3 Nxf2+ 16. Nxf2 Bb7 17. Ng4 Bxh1 18. Nxe5 Ra7 19. Ng4 Bc6 20. Bg2 Bxg2 21. Nc4 bxc4 22. Rb8# 1-0

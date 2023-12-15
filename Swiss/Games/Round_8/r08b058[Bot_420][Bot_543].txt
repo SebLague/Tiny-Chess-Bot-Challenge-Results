@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "7"]
+[White "NostradamusChessNN (by: _Mus)"]
+[Black "MobiBot 4.2 (by: Michael)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. e5 Ng8 3. Nc3 d6 4. Nf3 c6 5. d4 Qa5 6. Bf4 Bg4 7. exd6 Nd7 8. Bc4 Qb4 9. Bxf7+ Kxf7 10. Ng5+ Kg6 11. Qxg4 Ndf6 12. Qg3 Nh5 13. Qd3+ Kf6 14. g4 exd6 15. Qf5+ Ke7 16. Qf7+ Kd8 17. Ne6+ Kc8 18. Qe8# 1-0

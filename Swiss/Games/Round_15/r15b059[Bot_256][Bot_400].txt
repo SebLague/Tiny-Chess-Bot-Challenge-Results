@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "14"]
+[White "GulcarBot (by: Gulcar)"]
+[Black "Yangbot V1 (by: Cyang946)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Qh5 Nf6 3. Qf3 Nd4 4. Qc3 e5 5. Bd3 d5 6. f4 dxe4 7. Bb5+ c6 8. Bc4 Bb4 9. Na3 Bxc3 10. bxc3 Ng4 11. h4 exf4 12. Rb1 Nf5 13. Ra1 Nxh4 14. Kf1 Qb6 15. Nh3 Nf5 16. Rg1 f3 17. gxf3 Nh2+ 18. Ke2 Nxf3 19. Rg2 N5d4+ 20. cxd4 Bxh3 21. Rg3 Nxd4+ 22. Ke1 Be6 23. Bxe6 fxe6 24. c3 Qc7 25. Re3 Nf5 26. Rh3 Qf4 27. Nc2 Qg4 28. Ne3 Qxh3 29. Nxf5 exf5 30. Kd1 Qf3+ 31. Kc2 Rd8 32. a4 Qd3+ 33. Kb2 Rd7 34. Ra3 O-O 35. Rb3 Rf6 36. Rb4 Rff7 37. Rd4 Rxd4 38. cxd4 Qxd4+ 39. Kb3 Qd5+ 40. Kb2 Qc4 41. a5 Qb5+ 42. Ka1 Qxa5+ 43. Kb1 Qb4+ 44. Kc2 Rd7 45. Kd1 Rxd2+ 46. Bxd2 Qxd2+ 47. Kxd2 g5 48. Ke2 h5 49. Ke3 c5 50. Kd2 b5 51. Ke2 a5 52. Kd1 h4 53. Ke2 g4 54. Ke3 c4 55. Kd4 h3 56. Ke5 f4 57. Kxe4 b4 58. Kxf4 a4 59. Ke4 g3 60. Kd4 c3 61. Kc4 b3 62. Kxc3 a3 63. Kxb3 h2 64. Kxa3 h1=Q 65. Kb4 g2 66. Kc5 g1=Q+ 67. Kb4 Qc1 68. Kb3 Qb7+ 69. Ka2 Qbb2# 0-1

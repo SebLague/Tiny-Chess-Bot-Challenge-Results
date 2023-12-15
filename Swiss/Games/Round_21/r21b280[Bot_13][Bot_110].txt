@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "20"]
+[White "ScholarsBot (by: magic216)"]
+[Black "EvilMirror (by: Hagan Gray)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. Bc4 Bf5 3. Qh5 dxc4 4. Qxf7+ Kxf7 5. Ke2 Qd7 6. Kf3 Qc6 7. Ne2 Nd7 8. Nec3 Ndf6 9. h4 a5 10. a4 h5 11. Ke2 Qd7 12. Ra2 Rh7 13. Nd1 Ne8 14. Kf1 Qc8 15. Rg1 Rb8 16. Ne3 Nd6 17. Rh1 Ra8 18. Rg1 Rb8 19. Rh1 Ra8 20. Kg1 Qb8 21. g3 b6 22. Rh2 Ra7 23. exf5 Nxf5 24. Ng2 Nxg3 25. c3 Kf6 26. Ra1 Rh8 27. Ra3 Rh6 28. Rh3 Ra6 29. fxg3 Ke5 30. Ra2 Rh7 31. d4+ Kd6 32. Rh2 Ra7 33. Ne3 Nh6 34. Ra3 Qc8 35. b3 g6 36. Kf2 cxb3 37. Rh1 Ra8 38. Rxb3 Qd8 39. Ke2 e6 40. Nf1 Qxh4 41. Na3 Qxh1 42. Rb4 g5 43. g4 b5 44. Bf4+ gxf4 45. Rxb5 Qxf1+ 46. Kd2 Qxb5 47. c4 Qxa4 48. c5+ Ke7 49. Kd3 Qxa3+ 50. Kc2 Qxc5+ 51. Kb3 Qxd4 52. Ka3 Nxg4 53. Kb3 Kf6 54. Kc2 c6 55. Kb3 Kf7 56. Ka2 Bh6 57. Kb3 Nf6 58. Ka3 Rd8 59. Kb3 Qc3+ 60. Ka4 Rd4# 0-1

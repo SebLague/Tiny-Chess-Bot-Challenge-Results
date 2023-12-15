@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "42"]
+[White "QuaviverBot (by: CantWontDo)"]
+[Black "Big Carl (by: Nathaniel D)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. c4 f6 2. e4 e5 3. Qh5+ g6 4. Qf3 c5 5. Nc3 Kf7 6. Nd5 Be7 7. g4 d6 8. g5 Ke8 9. b4 cxb4 10. d4 fxg5 11. h4 gxh4 12. dxe5 Nc6 13. exd6 Qd7 14. Nc7+ Kd8 15. dxe7+ Kxc7 16. Bb2 Qxe7 17. Bxh8 Kd7 18. Qd3+ Kc7 19. Nf3 h3 20. Qb1 Bg4 21. Nd4 Nxd4 22. Bxd4 Qd6 23. Qb2 Bf3 24. Rxh3 Bxe4 25. Be5 Rc8 26. Bxd6+ Kxd6 27. Qd4+ Kc7 28. Rxh7+ Kb8 29. Qxe4 Rc7 30. Qe8+ Rc8 31. Qf7 Rc7 32. Qxg8+ Rc8 33. Qf7 Rf8 0-1

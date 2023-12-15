@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "62"]
+[White "InfuehrDaniel MCTS (by: Daniel Infuehr)"]
+[Black "Knightmare (by: Miguel Piedrafita)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. e3 Na6 2. Qh5 Rb8 3. Be2 Ra8 4. Nc3 Rb8 5. a3 Ra8 6. Qe5 Rb8 7. Qxc7 Qxc7 8. Nh3 Qxc3 9. f3 Qxc2 10. Kf2 Qxc1 11. b4 Qxa1 12. Rg1 Qxg1+ 13. Nxg1 Nxb4 14. Bd3 Nxd3+ 15. Kf1 Kd8 16. Nh3 Kc7 17. g4 Kb6 18. Nf2 Nxf2 19. Kg1 Nxg4 20. Kf1 Nxh2+ 21. Kg2 Nxf3 22. a4 Nxd2 23. Kf2 Ka5 24. Ke2 Kxa4 25. Kxd2 Ka3 26. Ke1 Ka2 27. Kf1 Ka1 28. e4 Kb1 29. Ke2 Ka1 30. Kd2 Kb1 31. e5 Ka1 32. Ke2 Kb1 33. Kf2 Ka1 34. Kg2 Kb1 35. Kg1 Ka1 36. Kh2 Kb1 37. Kg2 Ka1 38. Kg3 Kb1 39. Kf4 Ka1 40. Ke4 Kb1 41. Kd3 Ka1 42. e6 fxe6 43. Kc4 Kb1 44. Kd4 Ka1 45. Kc3 Kb1 0-1

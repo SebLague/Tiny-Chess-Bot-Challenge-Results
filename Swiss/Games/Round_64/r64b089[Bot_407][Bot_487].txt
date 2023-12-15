@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "63"]
+[White "simple chess bot (by: 4a0I)"]
+[Black "Rodders (by: Chipperphilly)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 Nh6 2. Qh5 e6 3. Bb5 a6 4. Bd3 Bd6 5. Nc3 O-O 6. f4 Qe8 7. Ne4 Kh8 8. Nxd6 cxd6 9. Qa5 f5 10. Nf3 e5 11. fxe5 Nc6 12. Qd5 dxe5 13. Be2 e4 14. Ng5 Qe7 15. h4 Nb4 16. Qc4 b5 17. Qc7 Rf6 18. Kf2 Rc6 19. Qf4 Nxc2 20. Rb1 Nb4 21. Ra1 Rc2 22. Kg3 Qc5 23. a3 Nd5 24. Qe5 Ne7 25. Qxc5 Rxc5 26. b4 Re5 27. Bb2 Rd5 28. Bd4 d6 29. Rac1 Rb8 30. Nh3 Ng6 31. Nf4 Nxf4 32. Kxf4 Be6 33. d3 exd3 34. Bf3 Rxd4+ 35. exd4 Rb6 36. d5 Bd7 37. Rc7 Be8 38. Rc8 Ng8 39. Rxe8 g6 40. Rc1 Kg7 41. Rc7+ Kh8 42. Rcc8 h6 43. Rxg8+ Kh7 44. h5 g5+ 45. Kxf5 Rc6 46. dxc6 d2 47. Rh8+ Kg7 48. Rcg8+ Kf7 49. Bd5+ Ke7 50. Rh7# 1-0

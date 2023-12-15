@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "16"]
+[White "xXBotXx (by: Nova & Professor Sexy)"]
+[Black "taylornpeter_chess_sl (by: taylornpeter)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 a5 2. Nc3 c5 3. e4 Qb6 4. d4 Qb4 5. Bd3 cxd4 6. Be3 dxe3 7. fxe3 Qxb2 8. O-O Qxc3 9. Bb5 Qxe3+ 10. Kh1 Qxe4 11. Kg1 Qe3+ 12. Kh1 g5 13. a4 Kd8 14. Qd5 e6 15. Qd1 Qc3 16. Nxg5 Qg7 17. Qh5 Ke7 18. Rad1 Nf6 19. Qh3 Qxg5 20. Qa3+ Kd8 21. Qa1 Rg8 22. Qc3 Qxg2# 0-1

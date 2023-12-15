@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "31"]
+[White "AUR Chessbot (by: Soul Senshi)"]
+[Black "Sir Checkmates-A-Lot (by: Felix)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 Nh6 2. e4 e5 3. d4 Ng8 4. a3 Qe7 5. Nb5 Kd8 6. Ke2 a6 7. Nc3 exd4 8. Qxd4 Nc6 9. Qd1 Ke8 10. Ke1 Nb8 11. Ke2 Qf6 12. Ke1 Kd8 13. Nd5 Qe6 14. Qd3 Qc6 15. Nf3 Qa4 16. Kd1 h6 17. Ne5 Rh7 18. Nc3 Qa5 19. Qd5 Qxd5+ 20. Nxd5 f6 21. Nd3 Bd6 22. Bf4 f5 23. Bxd6 cxd6 24. Nb6 Ra7 25. Nxc8 Kxc8 26. exf5 Ne7 27. f6 gxf6 28. Kc1 Ng8 29. Kb1 Rh8 30. Nb4 Kd8 31. Kc1 a5 32. Nd5 Ke8 33. Kb1 Na6 34. Bxa6 bxa6 35. Kc1 Kf8 36. b4 axb4 37. Nxb4 Kg7 38. Kd1 a5 39. Nd5 Kh7 40. g4 Kg6 41. Kc1 Kf7 42. Re1 Ra8 43. Nb6 Rd8 44. Nc4 Kf8 45. Nxd6 Rh7 46. Nc4 Ra8 47. Nb6 Rb8 48. Nc4 Rg7 49. Nxa5 Ra8 50. Nb3 Rxg4 51. Rd1 Rg2 52. Nc5 Rxf2 53. Nxd7+ Ke8 54. Nb6 Ra5 55. Nc4 Rg5 56. h3 Ke7 57. Rb1 Kf7 58. Ra1 Kg7 59. Rd7+ Kh8 60. Kb2 Rb5+ 61. Kc3 Rh2 62. Kd4 Rxh3 63. Nd6 Rh4+ 64. Kc3 Rc5+ 65. Kb2 Rh2 66. Nf7+ Kh7 67. Ne5+ Kh8 68. Ng6# 1-0

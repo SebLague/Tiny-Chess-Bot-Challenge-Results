@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "6"]
+[White "Bob (by: Kökényesi Attila (UltraGeek))"]
+[Black "The Red Crayon (by: Daniel L.)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. b3 d5 2. f4 e6 3. a4 Bd6 4. f5 Qh4+ 5. g3 Bxg3+ 6. hxg3 Qxg3# 0-1

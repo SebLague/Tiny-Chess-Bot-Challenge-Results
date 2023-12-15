@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "29"]
+[White "Myopia (by: danegraphics)"]
+[Black "Arctiform's Bot (by: Arctiform)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 g5 2. e4 c5 3. Qf3 b6 4. Nh3 e5 5. a3 h6 6. b3 a5 7. g3 d6 8. Bb5+ Ke7 9. Nd5+ Ke6 10. Qf5# 1-0

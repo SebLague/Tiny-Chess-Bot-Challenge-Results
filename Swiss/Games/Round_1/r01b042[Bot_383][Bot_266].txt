@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "Bobobot (by: Lino)"]
+[Black "Game Tech Explained Bot (by: Game Tech Explained)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g3 d5 2. f3 e5 3. c3 Nf6 4. Bh3 Nc6 5. Bd7+ Bxd7 6. h4 Be6 7. a3 Bd6 8. Qa4 e4 9. b3 a6 10. Qb5 Bxg3+ 11. Kd1 axb5 12. a4 d4 13. Nh3 Bxb3# 0-1

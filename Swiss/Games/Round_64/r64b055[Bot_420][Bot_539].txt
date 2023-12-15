@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "63"]
+[White "NostradamusChessNN (by: _Mus)"]
+[Black "Nautilus (by: Sherlock)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. exd5 c6 3. dxc6 Nxc6 4. Nf3 e5 5. Bd3 f5 6. Bb5 e4 7. Ne5 Qb6 8. Bxc6+ bxc6 9. Qh5+ g6 10. Nxg6 Nf6 11. Qh4 Rg8 12. Nxf8 Rxf8 13. O-O Ba6 14. Rd1 O-O-O 15. Nc3 Rd7 16. Qh3 Ng4 17. Qg3 Qd4 18. d3 exd3 19. cxd3 Bxd3 20. Bf4 Nf6 21. Be5 Qc4 22. Bd6 Rxd6 23. Qxd6 Rd8 24. Qxf6 Qc5 25. Rac1 a5 26. Na4 Qd4 27. Qxc6+ Kb8 28. Rxd3 Qxd3 29. Qc7+ Ka8 30. Nb6# 1-0

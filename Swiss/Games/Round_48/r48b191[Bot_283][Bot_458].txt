@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "47"]
+[White "BasicBot (by: Phnx)"]
+[Black "Mischievous bot (by: Guigui)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 f6 2. Nf3 c6 3. e3 h6 4. Bd3 d6 5. Bg6+ Kd7 6. Bf5+ e6 7. Bd3 e5 8. Bf5+ Kc7 9. Bxc8 b6 10. Bf5 c5 11. Nd5+ Kb7 12. Be4 g5 13. c3 h5 14. d3 g4 15. Nd2 Rh6 16. Nc4 Na6 17. Kd2 Qd7 18. Ndxb6+ Kb8 19. Nxd7+ Kc7 20. Bxa8 Rh7 21. Nxf8 Rg7 22. Bd5 h4 23. Ne6+ Kc8 24. Nxg7 Kd8 25. Qxg4 Nb8 26. Ne6+ Kd7 27. Qxg8 a6 28. Qd8# 1-0

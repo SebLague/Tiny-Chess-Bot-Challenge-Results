@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "29"]
+[White "NostradamusChessNN (by: _Mus)"]
+[Black "Plumbo (by: Luca Voros)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Nc3 Nf6 3. Nf3 d5 4. e5 Ne4 5. Bd3 Nc5 6. Bb5 d4 7. Ne2 d3 8. Ned4 Bd7 9. Bxd3 Nxd4 10. Nxd4 Bc8 11. Bb5+ c6 12. Nxc6 bxc6 13. Bxc6+ Bd7 14. Bxa8 Qxa8 15. O-O Ne6 16. d4 Qe4 17. d5 Nd4 18. Re1 Qxd5 19. Be3 Bc6 20. f3 Nb5 21. Qxd5 Bxd5 22. c4 Bxc4 23. a4 a6 24. Rec1 Bd3 25. axb5 Bxb5 26. Rc8+ Kd7 27. Rac1 g5 28. Bxg5 Ke6 29. f4 Bg7 30. Rxh8 Bxh8 31. Rc8 Bg7 32. Rg8 f6 33. Rxg7 fxg5 34. fxg5 Kxe5 35. Rxh7 e6 36. h4 Bd3 37. Rf7 Bg6 38. Ra7 Ke4 39. Rxa6 Ke5 40. g3 Kd5 41. Ra7 Ke5 42. Rg7 Bh5 43. b4 Be8 44. Re7 Ba4 45. h5 Bc2 46. h6 Be4 47. h7 Bxh7 48. Rxh7 Kf5 49. Re7 Kxg5 50. Rxe6 Kf5 51. Re7 Kf6 52. Rh7 Kg6 53. Ra7 Kf6 54. b5 Ke6 55. b6 Kd6 56. Rh7 Kd5 57. b7 Kd4 58. b8=Q Kd5 59. Kg2 Kc4 60. Qe5 Kd3 61. Rc7 Kd2 62. Qd4+ Ke2 63. Re7# 1-0

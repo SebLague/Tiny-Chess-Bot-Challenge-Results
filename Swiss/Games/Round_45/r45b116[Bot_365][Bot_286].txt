@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "44"]
+[White "KU_AI_BOT (by: Daniel Johnson)"]
+[Black "Headless Chicken (by: Nat)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. d4 dxe4 3. Nc3 e5 4. dxe5 Qxd1+ 5. Kxd1 Nc6 6. f3 Be6 7. fxe4 Rd8+ 8. Ke1 Nxe5 9. Bf4 Ng6 10. Bxc7 Rd4 11. Bb5+ Bd7 12. Nf3 Rxe4+ 13. Kf1 Bxb5+ 14. Nxb5 Nf6 15. Nd6+ Bxd6 16. Bxd6 h5 17. b3 Kd8 18. Rd1 Kc8 19. Rd3 Rhe8 20. Rc3+ Kd7 21. Bg3 Kd8 22. Bc7+ Kd7 23. Rd3+ Kxc7 24. Rc3+ Kb8 25. Rc5 Rd8 26. Ng1 Rd1+ 27. Kf2 Ng4+ 28. Kg3 Re3+ 29. Nf3 Rxh1 30. Rxh5 N4e5 31. Rh7 Nxf3 32. gxf3 Rf1 33. h3 Rexf3+ 34. Kh2 R3f2+ 35. Kg3 Rxc2 36. a3 Rg1+ 37. Kf3 Ne5+ 38. Ke4 Re1+ 39. Kf5 Rf2+ 40. Kg5 Rg1+ 41. Kh4 Rf4+ 42. Kh5 Rh4+ 43. Kxh4 Nf3+ 44. Kh5 Rg5# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "46"]
+[White "More Recursion! (by: Bden)"]
+[Black "MaterFromRadiatorSprings (by: Markus Grand Petersen)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e6 2. Bb5 Qg5 3. Qf3 Qxb5 4. b3 Qc5 5. Ke2 Qxc2 6. a4 Qxc1 7. d3 Qb2+ 8. Nd2 Qxa1 9. Qe4 Qa2 10. Qxe6+ dxe6 11. Nf3 Bb4 12. Rd1 a5 13. h4 h5 14. d4 Kf8 15. g3 Ke8 16. e4 Qb2 17. e5 Bxd2 18. Nxd2 Nc6 19. d5 Qxe5+ 20. Kf1 Qxd5 21. Ke1 Nd4 22. Rb1 Qh1+ 23. Nf1 Qe4+ 24. Kd2 Qxb1 25. Kc3 Ne2+ 26. Kd2 Qxf1 27. Ke3 Nc1 28. f4 Qe1+ 29. Kf3 Qe2# 0-1

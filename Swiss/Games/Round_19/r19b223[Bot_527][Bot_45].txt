@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "18"]
+[White "Stickleback (by: Brent Mardell)"]
+[Black "HopeBot (by: Chinmay Krishna)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 e6 2. e4 Bb4+ 3. c3 Bd6 4. Nf3 Kf8 5. Bc4 b5 6. Bxb5 Bb7 7. Bc4 Bxe4 8. Be3 Qf6 9. Nbd2 Bb7 10. Ne4 Bxe4 11. O-O h5 12. Re1 Nc6 13. Nh4 g5 14. Bxg5 Qxg5 15. Rxe4 f5 16. Nxf5 exf5 17. Re1 Kg7 18. Bxg8 Rhxg8 19. Qxh5 Qxh5 20. Red1 Qe2 21. Re1 Qxb2 22. Rad1 Qxa2 23. d5 Kh8 24. dxc6 dxc6 25. Rxd6 cxd6 26. Re6 Qxe6 27. h3 Rab8 28. c4 Qxc4 29. h4 Qxh4 30. g3 Rb1+ 31. Kg2 Qh1# 0-1

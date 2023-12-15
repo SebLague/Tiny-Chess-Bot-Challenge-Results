@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "5"]
+[White "LIA Chess (by: Patrick und Jannik)"]
+[Black "LynchBot (by: Gary Lynch)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 d5 2. e3 Nf6 3. Nge2 e5 4. f4 Nc6 5. fxe5 Nxe5 6. a3 Bd6 7. Nf4 c6 8. d4 Ng6 9. Nh5 O-O 10. Nxf6+ Qxf6 11. g3 Be6 12. Bd3 Bh3 13. Qh5 Qe6 14. Qe2 Rae8 15. Bd2 c5 16. dxc5 Bxc5 17. Qh5 Bxe3 18. Qxd5 Bxd2+ 19. Kxd2 Qe3+ 20. Kd1 Bg4+ 21. Ne2 Bxe2+ 22. Bxe2 Rd8 23. Qxd8 Rxd8+ 24. Bd3 Ne5 25. Re1 Qf3+ 26. Kc1 Nxd3+ 27. Kb1 Nxe1 28. Ka2 Nxc2 29. Rg1 Rd2 30. Rc1 Qd5+ 31. b3 Nxa3+ 32. Rc2 Rxc2+ 33. Kxa3 Qa5# 0-1

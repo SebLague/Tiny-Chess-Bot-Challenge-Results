@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "22"]
+[White "Minimaxibon v1 (by: NotSureWhyThisWorks)"]
+[Black "ThinkerBot5000 (by: Bear)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 h5 2. Nf3 e5 3. Nd5 f6 4. d3 b5 5. e4 c6 6. Ne3 Qb6 7. Bd2 g5 8. d4 exd4 9. Nf5 d5 10. Qe2 Kd8 11. N5xd4 dxe4 12. Qxe4 a6 13. Ne6+ Bxe6 14. Qxe6 a5 15. Qe3 Qxe3+ 16. Bxe3 Kd7 17. Bd3 Ke6 18. O-O-O g4 19. Nd4+ Kd6 20. Ne2 f5 21. Bxb5+ Ke6 22. Nf4+ Kf7 23. Bc4+ Kf6 24. Bd4+ Ke7 25. Bxh8 Nf6 26. Ng6+ Ke8 27. Bxf6 Bh6+ 28. Kb1 Nd7 29. Rhe1+ Ne5 30. Rxe5# 1-0

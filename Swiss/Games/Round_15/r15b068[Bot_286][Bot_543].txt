@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "14"]
+[White "Headless Chicken (by: Nat)"]
+[Black "MobiBot 4.2 (by: Michael)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. e5 Ng8 3. Qg4 c6 4. Bd3 Qa5 5. Qd4 Qd5 6. Qxd5 cxd5 7. Nc3 e6 8. Nb5 Na6 9. Nf3 Bc5 10. Nd6+ Bxd6 11. exd6 Nb4 12. a3 Nxd3+ 13. cxd3 f6 14. b3 Nh6 15. Bb2 b6 16. Rc1 Ba6 17. d4 Nf5 18. Kd1 Nxd6 19. Re1 Ne4 20. Rc7 Nxf2+ 21. Kc2 Nd3 22. Re3 Kd8 23. Rc3 Nxb2 24. Kxb2 Rb8 25. Ka1 Rb7 26. Re1 Ke7 27. Nh4 g5 28. Nf5+ Kd8 29. Nd6 Ke7 30. Nxb7 Bxb7 31. Rc7 Rb8 32. b4 Kd6 33. Rcc1 Ke7 34. b5 a5 35. Rf1 Kf7 36. Rc7 Ke7 37. Rc2 Kf7 38. Rcc1 f5 39. Rc7 Ke7 40. Re1 Kd8 41. Rcc1 Ke7 42. Rc2 Rg8 43. Rc7 Rb8 44. h3 Kd8 45. Rcc1 Ke7 46. Rc2 Rg8 47. Rc7 Rb8 48. a4 Kd8 49. Rcc1 Ke7 50. Rc2 Rg8 51. Rc7 Rb8 52. Kb1 Kd8 53. Rcc1 Ke7 54. Ka1 Rg8 55. Rc2 Ra8 56. Kb1 Rg8 57. Rc7 Rb8 58. Rc3 Rg8 59. g4 Kd6 60. gxf5 exf5 61. Ka1 g4 62. h4 Rc8 63. Rxc8 Bxc8 64. Kb1 g3 65. Rg1 f4 66. Ka1 f3 67. Rxg3 f2 68. Rf3 Ke7 69. Rxf2 d6 70. Ka2 Bg4 71. Ka3 Bd1 72. Rf1 Bc2 73. Rc1 Bd3 74. Rc6 Ke6 75. Rxb6 Kd7 76. Ra6 Kc7 77. Rxa5 Kd7 78. Kb4 Ke6 79. b6 Kd7 80. Ra7+ Kc8 81. Re7 Bf5 82. Rf7 Bd3 83. Kc3 Bg6 84. Rc7+ Kb8 85. Kb4 h6 86. Rc6 Kb7 87. Rxd6 Bb1 88. Rxh6 Ka6 89. Rd6 Kb7 90. Kc5 Be4 91. Rd7+ Kc8 92. b7+ Kxd7 93. b8=Q Ke7 94. Qe5+ Kd7 95. Qd6+ Ke8 96. Qc7 Kf8 97. Kc6 Kg8 98. Kd6 Bf3 99. Ke6 Bg4+ 100. Kf6 Bf5 101. Qg7# 1-0

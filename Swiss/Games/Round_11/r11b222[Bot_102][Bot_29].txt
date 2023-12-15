@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "10"]
+[White "Single Player (by: Loeka)"]
+[Black "SmoothBrainBot (by: zeqzero)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d6 2. Bb5+ c6 3. b3 cxb5 4. Qf3 Be6 5. Ne2 Nc6 6. Kd1 Ne5 7. Qc3 f6 8. Ng3 Bg4+ 9. Ke1 e6 10. Bb2 a6 11. a3 b6 12. Nf1 Qd7 13. d4 g6 14. Ne3 h6 15. h4 h5 16. Rg1 Qb7 17. dxe5 Qxe4 18. Qc6+ Qxc6 19. exf6 O-O-O 20. g3 Bf3 21. f7 Be4 22. fxg8=N Rxg8 23. Bf6 Bf3 24. Bxd8 Kxd8 25. Nc3 Qxc3+ 26. Kf1 Qxa1+ 27. Nd1 Qxd1# 0-1

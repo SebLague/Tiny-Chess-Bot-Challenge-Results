@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "Swag Messiah (by: )"]
+[Black "KU_AI_BOT (by: Daniel Johnson)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. d4 e5 2. Qd2 d5 3. Qd3 e4 4. Qc3 Qd6 5. f3 Be7 6. g3 exf3 7. Bf4 f2+ 8. Kxf2 Qc6 9. Kg2 Bf5 10. Nf3 Nd7 11. Qxc6 bxc6 12. Kg1 Rb8 13. Bxc7 Rxb2 14. Bf4 Bxc2 15. Nc3 Bf5 16. Nd1 Rxe2 17. Bxe2 h5 18. Kf1 Bh3+ 19. Ke1 h4 20. Kd2 hxg3 21. Rb1 g2 22. Re1 Nb6 23. Kc1 Kf8 24. Kb2 Bf5 25. Ka1 Rxh2 26. Rxb6 axb6 27. Bxh2 g6 28. Kb2 Bc8 29. Ka1 Bb4 30. Kb2 Nf6 31. Ka1 Kg8 32. Rg1 Bh3 33. Kb1 Be7 34. Ka1 Ng4 35. Kb1 Nxh2 36. Nxh2 Bf5+ 37. Ka1 Bf6 38. Rxg2 Bxd4+ 39. Nb2 Bd7 40. Kb1 Kf8 41. Ka1 Bc8 42. Kb1 b5 43. Ka1 b4 44. Kb1 Bf5+ 45. Ka1 Bd7 46. Kb1 Bc8 47. Ka1 Bb6 48. Kb1 Bf5+ 49. Ka1 Bd4 50. Rg3 Bd7 51. Kb1 Be5 52. Rg2 c5 53. Ka1 Bc7 54. Kb1 Bc6 55. Ka1 d4 56. Rf2 Kg7 57. Kb1 Bg3 58. Nd1 Be4+ 59. Ka1 d3 60. Bf3 Bf5 61. Kb2 Be5+ 62. Kc1 Bf4+ 63. Kb1 d2+ 64. Ka1 Be5+ 65. Nb2 Bd7 66. Kb1 Be6 67. Rxd2 Bf5+ 68. Ka1 Bc7 69. Rd1 Bxh2 70. Nc4 Bf4 71. Kb2 Bg5 72. Kb3 Bc8 73. Kb2 Bf6+ 74. Kc1 Be6 75. Bd5 Bg4 76. Re1 Bg5+ 77. Kb1 b3 78. Ka1 Bf6+ 79. Nb2 bxa2 80. Kxa2 Kh6 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "5"]
+[White "The Mad King (by: Coding With Avaclava)"]
+[Black "Crazy? I was crazy once. They Locked me in a room. A rubber room. A rubber room with rats. Rats make me crazy. (by: Big red)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d3 Na6 2. g4 Nf6 3. g5 b5 4. Kd2 Bb7 5. e3 Bxh1 6. d4 b4 7. Bxa6 Qb8 8. h4 Qb6 9. c4 Qxa6 10. b3 Kd8 11. c5 d5 12. Ke1 Kd7 13. f4 Kc6 14. f5 Kb5 15. Qe2+ Ka5 16. Qf2 h5 17. gxf6 Qxf6 18. Kf1 Kb5 19. Qe2+ Ka5 20. Kf2 Qxf5+ 21. Kg3 Qf1 22. Qxf1 f5 23. Qxf5 Kb5 24. Qf1+ Ka5 25. c6 Kb6 26. a4 Kxc6 27. Qa6+ Kd7 28. Qb5+ Kd6 29. Qxb4+ Kc6 30. a5 Kd7 31. Qa4+ Kd6 32. Qa3+ Kc6 33. a6 Kb5 34. Qc5# 1-0

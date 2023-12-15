@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "41"]
+[White "TinyLispChessBot (by: tr00)"]
+[Black "Shakki botti (by: bobq)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Na3 Na6 2. Nb5 Nb4 3. Nf3 Nd3+ 4. exd3 Nf6 5. Ke2 e6 6. Ke1 Bb4 7. Ke2 Qe7 8. Nxc7+ Kd8 9. Nxa8 Qc5 10. Ke1 Ng4 11. Qe2 Qxc2 12. Qe4 Bxd2+ 13. Bxd2 Qd1+ 14. Rxd1 Nf6 15. Qc4 Nd5 16. Bg5+ Nf6 17. Kd2 d5 18. Qc7+ Ke8 19. Qxc8+ Ke7 20. Qxh8 g6 21. Qxh7 b5 22. Kc1 a6 23. Kb1 Kd8 24. Qxf7 Kc8 25. Qxf6 a5 26. Qxe6+ Kb7 27. Qxd5+ Ka7 28. Ka1 Ka6 29. Kb1 b4 30. Qd4 a4 31. Qxb4 Ka7 32. Qxa4+ Kb7 33. Qe4+ Kc8 34. Ka1 Kb8 35. Kb1 Ka7 36. Ka1 Kb8 37. Kb1 Kc8 38. Ka1 Kd7 39. Kb1 Kc8 1/2-1/2

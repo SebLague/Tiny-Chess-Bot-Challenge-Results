@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "60"]
+[White "QuaviverBot (by: CantWontDo)"]
+[Black "One-Line Chess (by: Kaydon Sloan)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. c4 c5 2. d3 d6 3. b4 cxb4 4. Qa4+ Nc6 5. Nf3 e5 6. g3 e4 7. dxe4 Qf6 8. e5 dxe5 9. Bg5 Qf5 10. Nbd2 e4 11. Nd4 Qxg5 12. Nxc6 Bd7 13. Nxe4 Qf5 14. Bh3 Qxh3 15. Ng5 Qg2 16. Rf1 Bxc6 17. Qc2 h6 18. Nf3 Bxf3 19. exf3 Qxf3 20. Qe2+ Qxe2+ 21. Kxe2 f5 22. a3 bxa3 23. Kf3 Rc8 24. Rfe1+ Kf7 25. Reb1 b6 26. Rc1 a6 27. h3 b5 28. cxb5 Rxc1 29. Rxc1 axb5 30. Rc7+ Kg6 31. g4 fxg4+ 32. hxg4 Nf6 33. Rc1 Kh7 34. Kf4 Bd6+ 35. Kf3 g5 36. Rb1 b4 37. Rc1 b3 38. Kg2 Nxg4 39. f3 b2 40. Rb1 a2 41. Rxb2 Ne3+ 42. Kf2 Nd1+ 43. Ke2 Nxb2 44. Ke3 a1=Q 45. f4 gxf4+ 46. Kd4 Qa4+ 47. Kd5 Nc4 48. Ke6 f3 49. Kd5 f2 50. Ke6 f1=Q 51. Kd5 Qf3+ 52. Ke6 Qd3 53. Kf7 Qe3 54. Kf6 Qe2 55. Kf7 Qe1 56. Kf6 Qe2 57. Kf7 Qe1 0-1

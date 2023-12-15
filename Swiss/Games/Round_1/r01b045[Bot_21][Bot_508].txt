@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "At least 2 IQ (by: Evan Finnigan)"]
+[Black "Plumbo (by: Luca Voros)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h3 Nf6 2. c3 e5 3. f3 Ne4 4. fxe4 Qh4+ 5. g3 Qxg3# 0-1

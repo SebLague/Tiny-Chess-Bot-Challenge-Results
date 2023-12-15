@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "29"]
+[White "Sleepy panda bot (by: Quinten F)"]
+[Black "Monster Queen (by: Andro 65)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 c5 2. dxc5 Qa5+ 3. Nd2 Qxc5 4. c4 h5 5. a3 a6 6. Ngf3 b6 7. Rb1 Qxc4 8. Nxc4 Nf6 9. Nxb6 h4 10. Nxc8 d6 11. Qc2 g5 12. Bxg5 Rh6 13. Qc7 Rh7 14. Bxf6 exf6 15. e4 f5 16. exf5 Ra7 17. Nxa7 Bg7 18. Qxb8+ Ke7 19. Qc7+ Kf6 20. Bd3 Rh6 21. Qxd6# 1-0

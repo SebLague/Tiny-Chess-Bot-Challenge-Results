@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "23"]
+[White "Generic Chess Bot #1000000 (by: Anthony)"]
+[Black "damlamen (by: Bora)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 c5 2. c4 Nc6 3. Ng5 e5 4. h4 h6 5. Ne4 f5 6. Ng3 f4 7. Ne4 Nb4 8. Qa4 Nf6 9. Nxf6+ gxf6 10. g3 fxg3 11. Kd1 gxf2 12. Rh2 Rg8 13. Na3 Kf7 14. Qb5 Rg1 15. Rxf2 Qc7 16. d3 Rh1 17. Kd2 d6 18. Bg2 a6 19. Qa4 Rg1 20. Bf3 Ke7 21. Rg2 Rf1 22. Bg4 Bxg4 23. Rxg4 h5 24. Rg6 b6 25. Nc2 Kf7 26. Rg2 Qc6 27. Qxc6 Nxc6 28. e3 e4 29. dxe4 Rh1 30. Ne1 Rxh4 31. Rg1 Ne5 32. Rf1 Rxe4 33. b3 Ke6 34. Rh1 Bh6 35. Kc3 Bxe3 36. Nc2 Bd4+ 37. Nxd4+ cxd4+ 38. Kd2 h4 39. Rh3 Rc8 40. a4 a5 41. Rb1 Kf5 42. Bb2 Rf4 43. Ke1 Re8 44. Ba1 Nxc4+ 45. Kd1 Rf1+ 46. Kc2 Na3+ 47. Kb2 Rxb1+ 48. Kxa3 Rxa1+ 49. Kb2 Rf1 50. Rxh4 Re2+ 51. Ka3 Ra1# 0-1

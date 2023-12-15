@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "15"]
+[White "WitwerMacher (by: Yannik Bleilinger)"]
+[Black "Sørensen's Minimax (by: Victor)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 e6 2. Rb1 Qh4 3. Nb5 Bd6 4. e3 Nc6 5. Be2 a6 6. Ra1 axb5 7. Bf3 Ne5 8. Bxb7 Bxb7 9. Nh3 Bxg2 10. Rg1 Nf3+ 11. Qxf3 Bxf3 12. Rxg7 Qxh3 13. b3 Be5 14. Rxg8+ Rxg8 15. Rb1 Rg1# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "27"]
+[White "GPTGenerated (by: athibaul)"]
+[Black "Headless Chicken (by: Nat)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d3 e5 2. c3 Qf6 3. e4 Bc5 4. d4 exd4 5. b4 Bb6 6. Qf3 Nc6 7. Qxf6 Nxf6 8. b5 Na5 9. e5 Nd5 10. c4 Nb4 11. Kd2 d3 12. Bxd3 Nxd3 13. Kxd3 Bxf2 14. Nc3 d5 15. Nf3 dxc4+ 16. Ke2 Bc5 17. Be3 Bxe3 18. Kxe3 O-O 19. Nd5 Bg4 20. h3 Bxf3 21. Ne7+ Kh8 22. gxf3 Rae8 23. Nc6 bxc6 24. bxc6 Rxe5+ 25. Kd2 Rd8+ 26. Kc2 Re2+ 27. Kc3 Rd3+ 28. Kb4 Rb2+ 29. Kc5 Rd6 30. Rac1 Rxa2 31. Rb1 Rxc6+ 32. Kd5 Rd2+ 33. Ke4 Nb3 34. Rhf1 Rf6 35. Ke5 c6 36. Rxb3 cxb3 37. Ra1 b2 38. Rb1 Re2+ 39. Kd4 Rxf3 40. Kc4 Rxh3 41. Kd4 Rd2+ 42. Kc4 Rc2+ 43. Kd4 Kg8 44. Ke5 Rd2 45. Ke4 Re2+ 46. Kd4 Kf8 47. Kc4 Rc2+ 48. Kd4 Rd2+ 49. Ke4 Re2+ 50. Kd4 Ra3 51. Kc5 Ra1 52. Rxb2 Rxb2 53. Kxc6 Ke7 54. Kc5 Ra4 55. Kd5 Rb5+ 56. Kc6 Rab4 57. Kc7 Rc4# 0-1

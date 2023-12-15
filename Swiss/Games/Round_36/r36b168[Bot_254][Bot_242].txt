@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "35"]
+[White "Rubber Ducky (by: Joël)"]
+[Black "SlothBot (by: 0xFF)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 d5 2. h4 Nc6 3. Nb1 Nf6 4. d3 e5 5. a4 Bc5 6. Bg5 h6 7. Bxf6 Qxf6 8. Kd2 Qf4+ 9. e3 Qxf2+ 10. Be2 Bxe3+ 11. Kc3 Nd4 12. Bh5 Nxc2 13. Qxc2 d4+ 14. Kb3 Be6+ 15. Qc4 Qxb2+ 16. Kxb2 Bxc4 17. dxc4 g6 18. Bf3 d3 19. Nc3 d2 20. Bxb7 Rb8 21. Ka2 Rxb7 22. Nd1 Bd4 23. Nf3 Bxa1 24. Kxa1 Rb4 25. Nxd2 Rxa4+ 26. Kb1 Kd7 27. Nc3 Rb8+ 28. Kc2 Rab4 29. Kd1 Rb2 30. Rh3 Ke6 31. Nf1 Rxg2 32. Nb5 c6 33. Nc7+ Kd7 34. Nb5 cxb5 35. cxb5 Rxb5 36. Rd3+ Ke6 37. Rc3 Rb1+ 38. Rc1 Rxc1+ 39. Kxc1 Rg1 40. Kc2 Rxf1 41. Kb3 Rf4 42. Ka2 Rc4 43. Kb1 e4 44. Ka2 Kd5 45. Kb2 e3 46. h5 gxh5 47. Ka2 e2 48. Kb3 e1=Q 49. Kb2 Qe2+ 50. Kb1 Qc2+ 51. Ka1 Ra4# 0-1

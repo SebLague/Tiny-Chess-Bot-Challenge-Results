@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "7"]
+[White "NNBot (by: Jamie Whiting)"]
+[Black "Plumbo (by: Luca Voros)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. Nc3 c6 3. e4 d5 4. e5 Ng4 5. h3 Nh6 6. d4 b5 7. Bf4 b4 8. Na4 Bf5 9. Bd3 Nd7 10. Bxh6 Bxd3 11. Bxg7 Bxc2 12. Qxc2 Bxg7 13. Qxc6 e6 14. Nc5 Rc8 15. Qa4 Qc7 16. Nxd7 Qxd7 17. Qxb4 Rc4 18. Qd2 Qc6 19. O-O Rc2 20. Qb4 Rf8 21. Qb8+ Qc8 22. Qxa7 Rxb2 23. Rab1 Qc2 24. Rbc1 Rxa2 25. Qb8+ Ke7 26. Qb7+ Kd8 27. Rxc2 Rxc2 28. Ra1 Rc8 29. Ra7 Rc1+ 30. Kh2 Bxe5+ 31. Nxe5 Rh1+ 32. Kxh1 f6 33. Qa8# 1-0

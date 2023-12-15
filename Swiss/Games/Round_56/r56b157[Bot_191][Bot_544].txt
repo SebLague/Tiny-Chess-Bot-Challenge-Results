@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "55"]
+[White "Igris (by: Deathfile78)"]
+[Black "Saint Charles Bot (by: DATA USP)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. Nc3 Nc6 3. Bb5 Nd4 4. Ba4 b5 5. Nxb5 Nxb5 6. Bxb5 Rb8 7. a4 Nxe4 8. Bd3 Nc5 9. Bf5 Rb4 10. d4 Rxa4 11. Rxa4 Nxa4 12. Nf3 e6 13. Bg5 Bb4+ 14. c3 Nxc3 15. Bxd8 Nxd1+ 16. Kxd1 Kxd8 17. Bg4 Ba6 18. Ng5 Ke7 19. Ne4 f5 20. Bxf5 exf5 21. Ng3 Bd3 22. d5 Kd6 23. Rg1 Kxd5 24. f4 Re8 25. Kc1 Re3 26. Nh5 Re7 27. Rd1 Kd4 28. Ng3 Ke3 29. h3 Re6 30. Rxd3+ Kxd3 31. Kb1 Re1+ 32. Ka2 g6 33. Kb3 Bd2 34. Ka4 Ra1+ 35. Kb3 a5 36. Nf1 a4# 0-1

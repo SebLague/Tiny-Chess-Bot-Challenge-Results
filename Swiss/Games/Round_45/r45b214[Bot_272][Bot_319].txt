@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "44"]
+[White "CrystalBowl (by: Daugsilius)"]
+[Black "GOYO Bot v1.1.2 (by: Goyo)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e5 2. Nb5 e4 3. Rb1 Nc6 4. Nh3 Ne5 5. Ra1 Nc4 6. Rg1 Ne5 7. Rb1 Nc4 8. Rh1 Ne5 9. b3 Ng4 10. Ra1 e3 11. fxe3 Qh4+ 12. g3 Qf6 13. Rb1 c5 14. Nc7+ Kd8 15. Nxa8 h5 16. Bb2 d6 17. Bxf6+ gxf6 18. Ra1 Ne5 19. Ng1 f5 20. Bh3 f6 21. Kf1 a6 22. Kg2 b5 23. Kf1 b4 24. Rb1 Bd7 25. Rc1 Rh6 26. Ra1 Rg6 27. Ke1 Rg5 28. Qb1 Be7 29. Bg2 Ng4 30. h3 Ne5 31. Qb2 Rxg3 32. Qxe5 dxe5 33. Bd5 h4 34. Bxg8 Rxg8 35. Nb6 e4 36. Nxd7 Kxd7 37. Kf2 Rg5 38. a4 Bd6 39. Nf3 exf3 40. Kxf3 Be5 41. Rab1 Bd6 42. Kf2 Be5 43. Rbf1 Bd6 44. Ke1 Bg3+ 45. Kd1 Be5 46. Rf3 Bd6 47. Rhf1 Be5 48. R3f2 Rg3 49. Re1 Rxh3 50. Rxf5 Rh2 51. Rh5 h3 52. Rf1 Rg2 53. Rxh3 Bd6 54. Rh6 Rg3 55. Rhxf6 Rg2 56. R6f5 Rh2 57. R5f3 Rg2 58. Rh3 Bc7 59. Rh7+ Kd6 60. Rf6+ Ke5 61. Rf1 a5 62. Rxc7 Rh2 63. Rxc5+ Kd6 64. Rxa5 Rg2 65. Rf6+ Kc7 66. Rc5+ Kb8 67. Rb6+ Ka7 68. Rcc6 Rg1# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "58"]
+[White "Supertask-Time-Troubles (by: TimFW)"]
+[Black "Chess Bot (by: M)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. e4 e5 2. c4 Bc5 3. h4 Nf6 4. d3 d5 5. cxd5 Bg4 6. Qb3 c6 7. Qxb7 cxd5 8. Qxa8 Qb6 9. f3 Be6 10. Nh3 dxe4 11. dxe4 O-O 12. a4 Rd8 13. Bb5 a6 14. Be2 Nc6 15. Qxa6 Qxa6 16. Bxa6 Nb4 17. Ke2 Nxe4 18. Bf4 exf4 19. Rc1 Ng3+ 20. Ke1 Nxa6 21. Nxf4 Bf5 22. Nc3 Re8+ 23. Kd1 Bd6 24. Nce2 Nxe2 25. Nxe2 Bd3 26. Nc3 f5 27. Kd2 Nc5 28. Rg1 Bf4+ 29. Kd1 Rd8 30. g4 Bc4+ 31. Kc2 Bd3+ 32. Kd1 Bc4+ 33. Kc2 Bd3+ 34. Kd1 Bc4+ 1/2-1/2

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "30"]
+[White "Chessburger Bot (by: )"]
+[Black "R2D2 (by: Andrei Taropa)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c4 e5 2. Qa4 Nc6 3. Nc3 Bb4 4. Nd5 Bc5 5. d3 d6 6. Bg5 Qxg5 7. Nxc7+ Kf8 8. Nf3 Qd8 9. Nxa8 Bd7 10. Ng5 Nd4 11. Qxd7 Qxd7 12. Rb1 Bb4+ 13. Kd1 Qa4+ 14. b3 Qxa2 15. Ne6+ Ke7 16. Rb2 Qa1+ 17. Rb1 Qxb1# 0-1

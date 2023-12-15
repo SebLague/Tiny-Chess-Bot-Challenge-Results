@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "5"]
+[White "SimpleBot (by: Tim Zollner)"]
+[Black "CrystalBowl (by: Daugsilius)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. e3 a6 2. Nc3 b6 3. Nd5 Ra7 4. Qg4 Rb7 5. Qa4 Nh6 0-1

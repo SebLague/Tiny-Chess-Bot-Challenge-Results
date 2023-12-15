@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "31"]
+[White "broken bot (by: Raj Gaurav)"]
+[Black "GoblinArmy (by: TheChroniclerDelta)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 g5 2. hxg5 f6 3. gxf6 exf6 4. g4 Bd6 5. f4 a6 6. e4 Bxf4 7. d4 Bxc1 8. c4 Bxb2 9. a4 Bxd4 10. g5 Bxg1 11. gxf6 Qxf6 12. e5 Qf2# 0-1

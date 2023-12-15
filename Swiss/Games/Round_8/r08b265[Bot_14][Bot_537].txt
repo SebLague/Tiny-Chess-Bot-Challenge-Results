@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "7"]
+[White "simpleval (portmonteau of simple eval) (by: hokurou)"]
+[Black "InfuehrDaniel MCTS (by: Daniel Infuehr)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 e6 2. h5 Qg5 3. d3 Qd5 4. g3 Bb4+ 5. Nc3 Qxh1 6. f4 Qxg1 7. g4 Bc5 8. g5 Qg3+ 9. Kd2 Qe3+ 10. Ke1 Qf2+ 11. Kd2 Qxf4+ 12. Ke1 Qf2+ 13. Kd2 Qe3+ 14. Ke1 Qg3+ 15. Kd2 Qxg5+ 16. Ke1 Qg3+ 17. Kd2 Qf4+ 18. Ke1 Qf2+ 19. Kd2 Be3# 0-1

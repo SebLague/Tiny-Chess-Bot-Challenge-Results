@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "41"]
+[White "The Red Crayon (by: Daniel L.)"]
+[Black "PrayForMeBot (by: João)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 a6 2. c4 b5 3. e4 bxc4 4. Bxc4 h5 5. Qf3 Rh6 6. Bxf7# 1-0

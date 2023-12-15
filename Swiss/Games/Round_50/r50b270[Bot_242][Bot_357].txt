@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "49"]
+[White "SlothBot (by: 0xFF)"]
+[Black "Hot Garbage (by: CT424)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. Nf3 c5 2. Nc3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Bf4 h5 6. Ndb5 g5 7. Nc7+ Qxc7 0-1

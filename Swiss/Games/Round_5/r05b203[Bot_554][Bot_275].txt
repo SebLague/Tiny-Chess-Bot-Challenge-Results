@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "4"]
+[White "The Fisher (by: Unodus)"]
+[Black "Simple Minimax (by: Sidewinder7)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 e6 2. c4 a5 3. Qc2 Qf6 4. Qe4 Qg6 5. Qxb7 Bxb7 6. Kd1 Bd6 7. h3 a4 8. Nc3 a3 9. Ne4 Bxe4 10. Ke1 Kd8 11. h4 Qf6 12. e3 axb2 13. g3 bxa1=Q 14. d4 Qxc1+ 15. Ke2 Qxf3# 0-1

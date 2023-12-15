@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "63"]
+[White "TacTxs (by: Mitch)"]
+[Black "Black Magic (by: Josh Odom)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. e5 Ne4 3. d3 Nc5 4. d4 Ne6 5. d5 Nc5 6. Nc3 d6 7. Be3 c6 8. Nf3 cxd5 9. Bxc5 dxc5 10. Qxd5 Nd7 11. Bc4 e6 12. Qd3 Be7 13. O-O-O O-O 14. Bb3 a6 15. Kb1 Qc7 16. Rhe1 b5 17. Ne4 c4 18. Qc3 Nc5 19. Bxc4 Na4 20. Qb3 Qxc4 21. Qe3 Qb4 22. Qd4 Bb7 23. a3 Qxd4 24. Rxd4 Bxe4 25. Rdxe4 Bxa3 26. bxa3 Nc3+ 27. Ka1 Nxe4 28. Rxe4 f6 29. Nd4 fxe5 30. Nf3 Rf5 31. Rxe5 Rxe5 32. Nxe5 Rf8 33. Nd3 g5 34. f3 a5 35. Nf2 h5 36. h3 h4 37. Ne4 Rf5 38. Kb2 Kf8 39. Kb1 a4 40. Nd6 Re5 41. Ne4 Ke7 42. Ka2 Rd5 43. Kb2 Rf5 44. Kb1 Kd7 45. Nf2 e5 46. Ne4 Kc6 47. Kc1 Rf7 48. Nxg5 Rg7 49. Ne4 Rxg2 50. Nc3 Rg3 51. Na2 Rxh3 52. Nb4+ Kd6 53. f4 exf4 54. Kd1 Rg3 55. Kc1 h3 56. Nd3 Rf3 57. c4 Rxd3 58. cxb5 f3 59. Kc2 f2 60. Kxd3 f1=Q+ 61. Kd2 Qxb5 62. Ke3 Qb3+ 63. Ke4 h2 64. Kd4 Qb2+ 65. Ke3 h1=Q 66. Kd3 Qd1+ 67. Ke3 Qbd4# 0-1

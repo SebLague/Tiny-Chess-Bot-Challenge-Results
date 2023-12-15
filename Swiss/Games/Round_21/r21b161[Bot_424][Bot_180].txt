@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "20"]
+[White "ILVM (by: Wincent01)"]
+[Black "Sørensen's Minimax (by: Victor)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. a4 e6 2. c4 Qh4 3. Qb3 Bc5 4. e3 b6 5. a5 Bb7 6. d4 Bf8 7. g3 Qe4 8. f3 Qf5 9. h4 Bd6 10. Kf2 Nf6 11. Kg2 Qg4 12. Rh3 Ke7 13. c5 Bxg3 14. Rxg3 Qxh4 15. Rxg7 Nh5 16. a6 Bc6 17. d5 Nxg7 18. dxc6 Nxc6 19. cxb6 Qg5+ 20. Kh1 Qh4+ 21. Kg2 Qg5+ 22. Kh1 Qh4+ 23. Kg2 1/2-1/2

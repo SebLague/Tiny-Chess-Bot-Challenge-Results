@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "52"]
+[White "Nathe-Bot (by: NatheSpike)"]
+[Black "PecanPie (by: PecanPie)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe6+ 4. Be2 Qg6 5. Nd5 Qd6 6. c4 Be6 7. Qb3 Bxd5 8. cxd5 b6 9. Nf3 Nf6 10. Bb5+ Nbd7 11. d4 O-O-O 12. Ng5 e5 13. Nxf7 Qb4+ 14. Bd2 Qxb3 15. axb3 Bd6 16. Nxh8 Rxh8 17. dxe5 Nxe5 18. Rxa7 Kb8 19. Ra2 Nxd5 20. f4 Nb4 21. fxe5 Nxa2 22. exd6 cxd6 23. O-O Rc8 24. Bd3 Re8 25. Bb1 Re2 26. Rd1 Kc7 27. Bxa2 Kd7 28. Bb1 g6 29. Bc3 Re6 30. Bd3 Kc6 31. b4 d5 32. b5+ Kc5 33. b4+ Kd6 34. Bc4 Re3 35. Rxd5+ Ke7 36. Bd3 Re6 37. Re5 Rxe5 38. Bxe5 Kd7 39. Bd4 Kc7 40. Be4 Kd6 41. Bxb6 g5 42. Bd4 g4 43. b6 h6 44. b7 g3 45. b8=Q+ Kd7 46. hxg3 Ke7 47. Bc6 Ke6 48. Qe5+ Kf7 49. Qe8# 1-0

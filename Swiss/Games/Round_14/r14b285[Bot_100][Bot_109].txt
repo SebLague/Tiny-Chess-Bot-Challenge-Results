@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "13"]
+[White "PrayForMeBot (by: João)"]
+[Black "DeepScaredyBot (by: Jacob Sweeten)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. g3 Na6 2. c3 Rb8 3. f4 Nb4 4. cxb4 d5 5. a4 Bh3 6. Bxh3 Rc8 7. Bxc8 Qxc8 8. Kf2 Qg4 9. h3 Qxg3+ 10. Kxg3 g5 11. fxg5 f5 12. Ra2 Kd7 13. Qe1 Kc6 14. Qd1 Kd6 15. Qe1 Kc6 16. Qd1 Kd6 17. Qe1 Kc6 1/2-1/2

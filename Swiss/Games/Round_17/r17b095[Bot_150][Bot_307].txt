@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "16"]
+[White "jmcgbot (by: jmcg)"]
+[Black "Stephanee (by: Elijah Bradshaw)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. e5 Nd7 3. g4 Nxe5 4. h4 Bxg4 5. f3 Bd7 6. d4 Nc6 7. h5 e6 8. a4 Bd6 9. b3 Nce7 10. a5 e5 11. dxe5 Bxe5 12. Ra3 Bd6 13. Ra2 Kf8 14. h6 gxh6 15. Bxh6+ Nxh6 16. Rxh6 Nf5 17. Qxd5 Nxh6 18. Kd1 Nf5 19. Qd3 Bf4 20. Nc3 Ne3+ 21. Ke2 Bc6 22. Qxd8+ Rxd8 23. a6 b6 24. b4 Nxf1 25. Kxf1 Be5 26. Nce2 Rd1+ 27. Kg2 Rd2 28. Kf1 Bd5 29. Ra4 Rxc2 30. b5 Rb2 31. Rh4 Rxb5 32. Rh5 Bc4 33. Kg2 Ra5 34. f4 Bd6 35. Rxa5 bxa5 36. Nd4 Rg8+ 37. Kh1 Bxf4 38. Nc6 Bd5+ 39. Nf3 Bxf3# 0-1

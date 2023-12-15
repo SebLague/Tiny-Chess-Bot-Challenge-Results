@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "7"]
+[White "Turtle (by: Geezmo)"]
+[Black "DD9's chess bot (by: DigestDig9)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. f4 d5 2. h4 d4 3. b4 Be6 4. e4 Bxa2 5. g4 Bxb1 6. c4 Bxe4 7. Rxa7 Bc6 8. Rxb7 Bxb7 9. f5 Be4 10. f6 Bb1 11. fxe7 Bxe7 12. h5 Bxb4 13. h6 Bxd2+ 14. Kxd2 Ba2 15. hxg7 Bxc4 16. gxh8=R Bd5 17. R8xh7 Ba2 18. Rxf7 Bb1 19. Rd7 Be4 20. Rf7 Bb1 21. Rd7 Ba2 22. Rf7 Bb1 1/2-1/2

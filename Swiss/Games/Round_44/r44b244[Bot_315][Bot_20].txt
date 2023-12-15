@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "43"]
+[White "BadMeetsEvil (by: Nathan)"]
+[Black "Queen's Gam-bot (by: Mateo Saldivar (ZiroDev))"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 e5 2. dxe5 d6 3. exd6 Qe7 4. dxe7 Kxe7 5. Bg5+ Nf6 6. Bxf6+ Ke6 7. Bc3 Bc5 8. Bxg7 Bb4+ 9. Qd2 Bc3 10. Bxh8 Ke7 11. Qxc3 c6 12. Qa5 b6 13. Qc3 Bh3 14. Qxh3 f6 15. Qxh7+ Kf8 16. Bxf6 Na6 17. Bd4 Ke8 18. a4 b5 19. axb5 Nc7 20. Qxc7 Kf8 21. Qxc6 Ke7 22. Qxa8 a6 23. Rxa6 Kd7 24. c3 Kc7 25. b3 Kd7 26. b4 Kc7 27. b6+ Kd6 28. Qb7 Ke6 29. Qf7+ Kd6 30. b7# 1-0

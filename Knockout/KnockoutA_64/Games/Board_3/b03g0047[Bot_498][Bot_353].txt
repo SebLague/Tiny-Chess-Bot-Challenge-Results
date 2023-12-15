@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Knockout 64"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "-1"]
+[White "Kinglet (by: Skolin + World + Abyss)"]
+[Black "Hrustco Bot (by: migrin)"]
+[Result "1-0"]
+[TimeControl "30+0.1"]
+[Termination "Checkmate"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Bg4 5. h3 Bxf3 6. Qxf3 Nd7 7. d4 Ngf6 8. Bd3 Qb6 9. Nxf6+ Nxf6 10. c3 e6 11. O-O Bd6 12. Bg5 Qxb2 13. Rab1 Qxc3 14. Rxb7 Qxd4 15. Bxf6 Qxf6 16. Qxc6+ Kf8 17. Qxd6+ Kg8 18. Rb8+ Rxb8 19. Qxb8+ Qd8 20. Qxd8# 1-0

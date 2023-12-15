@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "16"]
+[White "dumber (by: daw._.dev)"]
+[Black "the (not so) wise bot of (not so great) insight (by: TheUnknown1050)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 d5 2. Nf3 Bg4 3. Nd4 e5 4. Nb3 Bb4 5. Nb5 c6 6. e3 Bxd1 7. Kxd1 a6 8. d3 axb5 9. f3 Qh4 10. h3 Qe1# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "5"]
+[White "Mobilibot (by: Gabriel N.)"]
+[Black "Guppy (by: Steven He)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Qh5 Nf6 3. d4 Nxh5 4. Bg5 e6 5. h4 Nf6 6. Rh3 Nxd4 7. Bb5 Nxc2+ 8. Kd1 Nxa1 9. Bxf6 Qxf6 10. Ne2 Qxf2 11. Rf3 Qxh4 12. Nd4 Qxe4 13. Bxd7+ Bxd7 14. Nd2 Qxd4 15. Ke1 Bb4 16. Kf1 Bb5+ 17. Rd3 Bxd3+ 18. Ke1 Qg1# 0-1

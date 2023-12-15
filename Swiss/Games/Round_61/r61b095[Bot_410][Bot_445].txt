@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "60"]
+[White "Lamorran (by: Morra)"]
+[Black "KunoVonHagenBot (by: Jakob)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 d5 2. Nc3 d4 3. Nb5 Nc6 4. g3 a6 5. Bg2 axb5 6. O-O Bf5 7. Nh4 Be6 8. Nf3 Bxa2 9. Ne1 Nf6 10. Nd3 e6 11. Re1 Bd6 12. c4 bxc4 13. Nf4 Bb3 14. Bxc6+ bxc6 15. Nxe6 fxe6 16. Rxa8 Qxa8 17. e3 Bxd1 18. exd4 Bg4 19. f3 Bxf3 20. Rxe6+ Kd7 21. Re3 Bd5 22. d3 Ng4 23. Re1 cxd3 24. Rd1 Qe8 25. Rf1 Qe4 26. Rf7+ Kc8 27. Kf1 Qh1# 0-1

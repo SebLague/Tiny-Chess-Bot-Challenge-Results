@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "14"]
+[White "farindk (by: Dirk Farin)"]
+[Black "ThinkerBot5000 (by: Bear)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 h5 2. e4 g5 3. d4 e5 4. dxe5 f5 5. exf5 b5 6. Be2 g4 7. Bxb5 g3 8. hxg3 Bb4 9. a3 Qe7 10. axb4 c6 11. Ba4 Qxe5+ 12. Nge2 Qe7 13. Qd4 Nf6 14. Bf4 a5 15. Bd6 Qd8 16. Bb3 Rh7 17. Qe3+ Re7 18. Qh6 Nd5 19. Qxh5+ Rf7 20. Qh8+ Rf8 21. Qxf8# 1-0

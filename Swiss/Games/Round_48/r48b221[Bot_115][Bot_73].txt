@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "47"]
+[White "Single Player (by: Salty Scientist)"]
+[Black "evilbot v2 (by: aria1400)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 b6 2. Qg4 c5 3. Nc3 f6 4. Bc4 Nh6 5. Qh5+ g6 6. Qd5 Bb7 7. Qxb7 g5 8. Nf3 Ng4 9. Ne5 d5 10. Bb5+ Nc6 11. Qxc6+ Qd7 12. Qxd7# 1-0

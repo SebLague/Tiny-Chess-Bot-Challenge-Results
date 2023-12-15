@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "35"]
+[White "ChessGPT (by: DeepGoldenCrown)"]
+[Black "Kaan's Majestic Gentlemen (by: Level 0 Kaan)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a4 f6 2. c3 c5 3. b4 c4 4. d4 Na6 5. Nd2 b6 6. Nxc4 d5 7. Nxb6 axb6 8. Be3 b5 9. axb5 Nc7 10. Rb1 Nxb5 11. Qd2 Bf5 12. Rc1 Ra6 13. Nh3 Rc6 14. Qb2 Bxh3 15. gxh3 h5 16. Kd1 e6 17. Qb1 Na3 18. Qa1 Nc4 19. Qb1 Nxe3+ 20. fxe3 g6 21. Ke1 g5 22. Qc2 Qa5 23. bxa5 Ba3 24. Ra1 Bd6 25. Qc1 Bf8 26. Rg1 Rb6 27. axb6 Bb4 28. cxb4 h4 29. Kd1 Ke7 30. Ke1 Kf7 31. Kd1 Nh6 32. Ke1 Rd8 33. Kd1 Rf8 34. Ke1 Ra8 35. Rxa8 Ke7 36. Qc7# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "14"]
+[White "TuroChampEx (by: code<metas>)"]
+[Black "QuaviverBot (by: CantWontDo)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 b5 2. d4 c6 3. a3 Qa5+ 4. Bd2 Qb6 5. Nc3 c5 6. dxc5 Qxc5 7. e4 Nf6 8. Bxb5 Ng4 9. O-O g6 10. Qe2 Qc7 11. Qd3 e6 12. h3 Ne5 13. Nxe5 Qxe5 14. Be3 Rg8 15. f4 Qc7 16. Kh2 g5 17. e5 gxf4 18. Qxh7 Rg7 19. Qe4 Bb7 20. Qxf4 Rxg2+ 21. Kh1 Rf2+ 22. Kg1 Rxf4 23. Bxf4 a6 24. Bd3 Bg7 25. Rfe1 Qc8 26. Ne4 Bxe4 27. Bxe4 Nc6 28. Rab1 Qb8 29. Bg2 a5 30. Re3 Qa7 31. Kf2 a4 32. Bf3 Rc8 33. Rg1 Kf8 34. c3 Qb8 35. Rb1 Nxe5 36. Kg3 d6 37. Be4 f5 38. Bc2 Rc4 39. Bg5 Nf7 40. b3 Rxc3 41. bxa4 Qc8 42. Bd3 Nxg5 43. Kf4 Bh6 44. Kg3 f4+ 45. Kxf4 Nf7+ 46. Kf3 Rxa3 47. Ree1 Rxd3+ 48. Kf2 Qc2+ 49. Re2 Be3+ 50. Kf1 Rd1+ 51. Rxd1 Qxd1+ 52. Kg2 Qg1+ 53. Kf3 Ng5# 0-1

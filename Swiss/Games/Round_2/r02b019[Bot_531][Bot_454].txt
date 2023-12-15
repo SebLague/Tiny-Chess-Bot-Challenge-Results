@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "Comet (by: Flynow10)"]
+[Black "The Mad King (by: Coding With Avaclava)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 h6 2. Nc3 c6 3. Nf3 f6 4. Ne5 fxe5 5. Qh5+ g6 6. Qxg6# 1-0

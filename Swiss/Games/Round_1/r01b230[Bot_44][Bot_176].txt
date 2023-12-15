@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "SimpleBot (by: :LMProgramming)"]
+[Black "Euphoria (by: Andrew Merrill)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e5 2. Qg4 Nf6 3. Bb5 Nxg4 4. Nc3 c6 5. Bc4 d5 6. Ke2 dxc4 7. f3 Nf6 8. b3 cxb3 9. axb3 Na6 10. Nb1 Nb4 11. Ra2 Nxa2 12. d3 Nxc1+ 13. Kd1 Nxd3 14. cxd3 Qxd3+ 15. Ke1 Qxb1+ 16. Ke2 Bb4 17. h3 Qe1+ 18. Kd3 Qd2+ 19. Kc4 Qc3# 0-1

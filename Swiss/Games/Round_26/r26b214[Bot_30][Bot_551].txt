@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "25"]
+[White "WhyAmIABot (by: Levi)"]
+[Black "AchillesAlpha (by: Achilles)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f3 e6 2. a4 Qg5 3. Nc3 a6 4. Nh3 Qc5 5. Ne4 Qc3 6. dxc3 Nc6 7. Be3 Be7 8. Qd2 Na5 9. O-O-O Nc4 10. Nf6+ Kd8 11. Ng5 Nxd2 12. Nxf7# 1-0

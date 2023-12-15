@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "Thulium (by: Valentin POQUET)"]
+[Black "The Seeker (by: Lucas Pellegrinelli)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d3 c5 2. Bg5 Qb6 3. Nc3 Qxb2 4. Nd5 Na6 5. a4 Qe5 6. Ra2 Qxd5 7. Ra1 Qxg5 8. e4 Qe5 9. Rc1 Qc3+ 10. Ke2 d5 11. exd5 Bg4+ 12. f3 Bf5 13. g3 Qe5+ 14. Kd2 Qxd5 15. f4 Qxh1 16. Ne2 Qxh2 17. Ra1 Bg4 18. Rb1 Bxe2 19. Qc1 Bxf1+ 20. Kc3 Nb4 21. g4 Na2+ 22. Kb2 Nxc1 23. Rxc1 Qxf4 24. Rd1 Be2 25. Re1 Qb4+ 26. Ka2 Qxe1 27. g5 Qc3 28. d4 Qxc2+ 29. Ka1 Qc1+ 30. Ka2 Bc4# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "5"]
+[White "Saint Charles Bot (by: DATA USP)"]
+[Black "Nautilus (by: Sherlock)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 e5 2. Nc4 Nc6 3. Rb1 d5 4. Ne3 d4 5. Nc4 b5 6. Na3 Be6 7. Nxb5 a6 8. Nf3 axb5 9. Ra1 e4 10. Ng1 Bxa2 11. c3 d3 12. exd3 exd3 13. Bxd3 Qxd3 14. Qg4 f5 15. Qh5+ g6 16. Qh4 Be7 17. Qf4 Qd5 18. Ne2 Qxg2 19. Rg1 Qe4 20. Qxc7 Ne5 21. Kf1 Nf3 22. d3 Qd5 23. c4 bxc4 24. Rh1 cxd3 25. Nc3 d2 26. Nxd5 d1=Q+ 27. Kg2 Nh4+ 28. Kg3 Qf3# 0-1

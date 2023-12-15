@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "39"]
+[White "Metis (by: krox)"]
+[Black "Lxna (V4) (by: Ludovic Debever (Lxdovic))"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 g6 2. Qf3 Bg7 3. Bc4 e6 4. Nc3 d5 5. Nxd5 exd5 6. Bxd5 Nf6 7. Bxb7 Bxb7 8. Qxb7 Nbd7 9. d4 O-O 10. Qb3 Re8 11. Kf1 Ne4 12. f3 Nd6 13. Qd3 c5 14. Bd2 Qb6 15. Ne2 Qxb2 16. Kf2 cxd4 17. exd4 Bxd4+ 18. Nxd4 Nc5 19. Qe3 Rxe3 20. Bxe3 Re8 21. Rhd1 Nd3+ 22. Rxd3 Qxa1 23. Nb3 Qe5 24. Nd2 Qxh2 25. Bxa7 Rc8 26. c3 Nb5 27. Bd4 Nxd4 28. cxd4 Rc2 29. a3 Qh1 30. Ke2 Rc1 31. Rb3 Qxg2+ 32. Kd3 Rd1 33. Rb8+ Kg7 34. Rb2 Qxf3+ 35. Kc2 Qe2 36. Kc3 h5 37. Rc2 Qe3+ 38. Kc4 Rxd2 39. Rxd2 Qxd2 40. d5 h4 41. Kc5 h3 42. Kb5 h2 43. Ka4 h1=Q 44. Kb5 Qhxd5+ 45. Ka6 Q2a5# 0-1

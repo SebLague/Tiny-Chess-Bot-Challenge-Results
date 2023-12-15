@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "8"]
+[White "Lundqvision (by: paper98)"]
+[Black "Saint Charles Bot (by: DATA USP)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 c5 2. Nc3 Qa5 3. Bf4 cxd4 4. Qxd4 e5 5. Bxe5 Bc5 6. Qc4 d5 7. Qxd5 Bxf2+ 8. Kxf2 Qb6+ 9. Bd4 Be6 10. Qe4 Qxb2 11. Nf3 Qxa1 12. e3 Nc6 13. Bd3 Qxh1 14. a4 Nxd4 15. exd4 Kf8 16. Bb5 Rc8 17. a5 Rxc3 18. d5 Qb1 19. Bd3 Nf6 20. Qd4 Nxd5 21. Nd2 Qd1 22. Be2 Qxc2 23. Ne4 Rd3 24. Qxd3 Qa2 25. Nc5 Bf5 26. Qxf5 Nb6 27. axb6 axb6 28. Nd7+ Ke7 29. Nxb6 Kf8 30. Qc5+ Ke8 31. Qe3+ Kf8 32. Nd7+ Kg8 33. Qe8# 1-0

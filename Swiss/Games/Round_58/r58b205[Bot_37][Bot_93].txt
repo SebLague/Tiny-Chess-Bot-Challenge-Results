@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "57"]
+[White "Prince of Persia (by: flabbet)"]
+[Black "AIsaac (by: Isaac Ellwood)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nh3 h5 2. g3 f5 3. Ng5 e5 4. h4 d5 5. Rh3 c5 6. Nf3 g5 7. Rh1 gxh4 8. Nxe5 Qd6 9. f4 hxg3 10. Rh3 Ke7 11. Bg2 Ke6 12. Rxg3 b5 13. Ng6 h4 14. Re3+ Kd7 15. Nxh8 Qxf4 16. Bxd5 a5 17. Bxa8 Qd4 18. Ng6 Bg7 19. Rh3 Qg1# 0-1

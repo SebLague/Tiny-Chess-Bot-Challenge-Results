@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "36"]
+[White "NNBot (by: Jamie Whiting)"]
+[Black "Miluva v2 [2550] (by: Möhrchen (Thilo M.))"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 d5 2. e3 Nc6 3. c4 e6 4. Be2 Bb4 5. O-O Nf6 6. a3 Be7 7. d4 Ne4 8. Nbd2 Bd7 9. cxd5 exd5 10. Nxe4 dxe4 11. Nd2 f5 12. Qb3 Na5 13. Qd5 Nc6 14. f3 Bg5 15. f4 Bf6 16. Qb3 Bxd4 17. exd4 Nxd4 18. Qe3 Be6 19. Rd1 Nxe2+ 20. Qxe2 Qd4+ 21. Kh1 O-O-O 22. Re1 Rhe8 23. Qe3 Qxe3 24. Rxe3 c5 25. Kg1 c4 26. b3 cxb3 27. Nxb3 Rd1+ 28. Kf2 Rh1 29. Bb2 Rxh2 30. Bxg7 Bxb3 31. Rc1+ Kb8 32. Rxb3 Rh4 33. Be5+ Ka8 34. Rc7 b6 35. Rg3 Rg4 36. Rxg4 fxg4 37. Ke3 h5 38. Rg7 Rd8 39. Kxe4 Rd2 40. f5 Rxg2 41. f6 Re2+ 42. Kf5 Rf2+ 43. Bf4 Rc2 44. f7 Rc5+ 45. Be5 Rc8 46. Rg8 Kb7 47. Rxc8 Kxc8 48. f8=Q+ Kb7 49. a4 Ka6 50. Qc8+ Ka5 51. Qc4 a6 52. Bc3# 1-0

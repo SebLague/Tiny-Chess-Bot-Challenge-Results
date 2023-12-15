@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "18"]
+[White "KU_AI_BOT (by: Daniel Johnson)"]
+[Black "Sørensen's Minimax (by: Victor)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Qg4 h5 3. Qf3 Qf6 4. Qxf6 Nxf6 5. b3 Nxe4 6. Ba3 Bxa3 7. Nxa3 d5 8. f3 Nc5 9. b4 Ne6 10. c3 Bd7 11. Nh3 Ke7 12. Bb5 Bxb5 13. Nxb5 a6 14. Na3 Nc6 15. Nc2 e4 16. Ne3 Kd7 17. fxe4 dxe4 18. O-O Ne5 19. Rf5 Kd6 20. Nf2 Nc6 21. Nxe4+ Ke7 22. Rd5 Nf4 23. b5 Nxd5 24. Nxd5+ Kd7 25. bxc6+ Kxc6 26. Nb4+ Kd7 27. Nc5+ Kd6 28. Nxb7+ Ke5 29. Re1+ Kf4 30. Rf1+ Kg4 31. h3+ Kg3 32. Rf3+ Kh4 33. Rf4+ Kg5 34. Rxf7 Rhg8 35. Rxc7 Rae8 36. Rc5+ Kh4 37. Kh2 Re1 38. g3# 1-0

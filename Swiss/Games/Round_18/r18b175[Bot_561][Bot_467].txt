@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "17"]
+[White "ONE MOVE TO RULE THEM ALL (by: b4ux1t3)"]
+[Black "Basic Bot (by: G0ldSt0ne)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c3 Na6 2. h4 Rb8 3. c4 Ra8 4. e3 c6 5. Nf3 Rb8 6. Qc2 Qa5 7. Qg6 fxg6 8. Na3 d6 9. c5 Nxc5 10. Rh2 Qb4 11. b3 Ra8 12. Nb1 Nxb3 13. axb3 Qxb3 14. Bb2 Qxb2 15. e4 Qxa1 16. Ng1 Qxb1+ 17. Ke2 Qa1 18. g4 Bxg4+ 19. Ke3 Qxf1 20. d4 Qxg1 21. Rh1 Qxh1 22. d5 Qc1+ 23. Kd4 Qa1+ 24. Ke3 Qe1+ 25. Kd4 Qxf2+ 26. Kd3 Qf1+ 27. Kd4 Qa1+ 28. Kd3 Qb1+ 29. Ke3 Qc1+ 30. Kf2 Qc2+ 31. Ke1 Qe2# 0-1

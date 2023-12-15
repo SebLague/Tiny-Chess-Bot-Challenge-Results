@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "14"]
+[White "Foresight (by: Saihaj)"]
+[Black "Elf-1200 (by: Elliot Throop)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Qh5 Nc6 3. Bb5 a6 4. Ba4 Bc5 5. Bxc6 dxc6 6. Qxe5+ Qe7 7. Qxg7 Qxe4+ 8. Kf1 Be6 9. Qxh8 Qc4+ 10. d3 Qxc2 11. Qxg8+ Kd7 12. Qxf7+ Bxf7 13. Ke1 Qxc1+ 14. Ke2 Re8+ 15. Kf3 Qd1+ 16. Kf4 Qh5 17. g4 Bd6+ 18. Kf3 Bd5# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "36"]
+[White "unicorn (by: kai)"]
+[Black "MyFirstChessEngine (by: Jake Forsey)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Nf3 Nf6 3. Nc3 Nb4 4. a3 Nxc2+ 5. Qxc2 Rb8 6. Nb5 d5 7. Nxc7+ Qxc7 8. Qxc7 Ra8 9. e5 Nd7 10. Bb5 a6 11. Bxd7+ Bxd7 12. Qxb7 Rc8 13. Ng5 e6 14. Qxa6 Be7 15. Nf3 Rxc1+ 16. Rxc1 Rf8 17. Nd4 Rg8 18. Rc3 Rf8 19. O-O Rg8 20. Rfc1 Rf8 21. b4 Bg5 22. Qd6 Rg8 23. Rc7 Bb5 24. Rc8+ Bd8 25. Qxd8# 1-0

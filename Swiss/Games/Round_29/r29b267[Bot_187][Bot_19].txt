@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "28"]
+[White "DrawMachine (by: Rune)"]
+[Black "AttackBot (by: Kai Tabuchi (9 Years Old))"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 b5 2. Bxb5 Bb7 3. a3 Bxe4 4. h4 Bxc2 5. Qxc2 Qc8 6. Qb3 Qb7 7. Qb4 Qxg2 8. Ra2 Qxh1 9. Qc5 Qxg1+ 10. Ke2 Kd8 11. Qf5 Qxc1 12. Qxf7 Qxb1 13. Qxf8# 1-0

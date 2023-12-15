@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "30"]
+[White "SaveBot (or, "winning bot" as an alternative) (by: Rudy)"]
+[Black "Pancake (by: EaglePancake)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Na3 Nc6 2. Rb1 f5 3. Ra1 f4 4. Rb1 Nb4 5. Ra1 Nxc2+ 6. Qxc2 a6 7. Qxc7 Qxc7 8. Kd1 Qxc1+ 9. Kxc1 d5 10. Kb1 Bf5+ 11. Kc1 Rc8+ 12. Kd1 Rc1+ 13. Kxc1 Be6 14. Kb1 Bf5+ 15. Kc1 Bc8 16. Kb1 Bf5+ 17. Kc1 1/2-1/2

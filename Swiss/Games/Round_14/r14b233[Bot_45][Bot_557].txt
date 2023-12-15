@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "13"]
+[White "HopeBot (by: Chinmay Krishna)"]
+[Black "Achilles Random (by: Achilles)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 d6 2. d4 e5 3. Bb5+ c6 4. Bc4 Qa5+ 5. c3 Qxa2 6. Rxa2 Nh6 7. Ra3 exd4 8. exd4 Bg4 9. Nf3 Bxf3 10. Qxf3 Be7 11. Rg1 O-O 12. g4 Nd7 13. g5 Nc5 14. dxc5 dxc5 15. gxh6 Bf6 16. Qxf6 Rae8+ 17. Be3 b6 18. Qxg7# 1-0

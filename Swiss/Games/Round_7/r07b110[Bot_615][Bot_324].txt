@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "6"]
+[White "Anty (by: Emanuele Sorce)"]
+[Black "RayBot (by: Shahriar Rayed)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 d5 2. h3 a5 3. Ba6 Rxa6 4. d4 h5 5. Qxh5 Rxh5 6. Kd1 Rg6 7. e4 dxe4 8. b4 Qxd4+ 9. Bd2 Qxa1 10. bxa5 Qxb1+ 11. Bc1 Rd6+ 12. Ke2 Qxc2+ 13. Ke3 Qd3+ 14. Kf4 e5# 0-1

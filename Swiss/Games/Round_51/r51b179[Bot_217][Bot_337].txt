@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "50"]
+[White "BOTvinnik (by: Paul Smooth)"]
+[Black "SepukuBot (by: Madhu)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. e5 Ne4 3. Qf3 d5 4. d3 Nc5 5. d4 Ne6 6. c4 dxc4 7. Bxc4 Nc6 8. Bb5 Qxd4 9. Bxc6+ bxc6 10. Qxc6+ Kd8 11. Be3 Qb4+ 12. Nc3 Qxb2 13. Qd5+ Ke8 14. Rb1 Qxc3+ 15. Bd2 Qc2 16. Rc1 Bb7 17. Qxb7 Qxc1+ 18. Bxc1 Rd8 19. Ne2 a5 20. Bd2 a4 21. h4 Kd7 22. Rh3 Rg8 23. Qe4 h5 24. Qh7 Nf4 25. Nxf4 f6 26. Qxg8 Re8 27. Qe6+ Kd8 28. Kd1 fxe5 29. Rd3# 1-0

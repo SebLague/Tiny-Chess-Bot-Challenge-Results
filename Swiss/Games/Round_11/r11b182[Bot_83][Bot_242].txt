@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "10"]
+[White "Trixie (by: ts-manuel)"]
+[Black "SlothBot (by: 0xFF)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c3 Nf6 2. Qb3 e6 3. Kd1 d5 4. Ke1 Nc6 5. Qb5 Bd6 6. h3 O-O 7. Kd1 Ne4 8. Ke1 Nxf2 9. Kxf2 Qh4+ 10. Ke3 Qg3+ 11. Nf3 Bf4+ 12. Kd3 Qg6+ 13. e4 Qxe4# 0-1

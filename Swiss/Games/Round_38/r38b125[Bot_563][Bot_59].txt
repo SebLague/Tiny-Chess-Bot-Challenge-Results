@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "37"]
+[White "Anarchy Bot (by: Malcolm)"]
+[Black "Generic Chess Bot #1000000 (by: Anthony)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c3 Nf6 2. e3 c6 3. Qf3 h5 4. g4 hxg4 5. Qf4 Qa5 6. b4 Qd5 7. Qc7 Na6 8. Bxa6 Qxh1 9. Bc4 Qxg1+ 10. Ke2 Qxc1 11. Qf4 d5 12. Bb3 Qb2 13. Na3 Qxa1 14. Nc2 Qb2 15. Qc7 Ne4 16. Qe5 Qc1 17. Qf4 Qxd2+ 18. Kf1 g5 19. Qxe4 dxe4 20. Kg1 Qxc3 21. Kh1 Qe5 22. h4 Rxh4+ 23. Kg1 Qh2+ 24. Kf1 Qh1+ 25. Ke2 Qf3+ 26. Ke1 Rh1+ 27. Kd2 Qxf2+ 28. Kc3 Bg7+ 29. Kc4 Qe2+ 30. Kc5 Qb5# 0-1

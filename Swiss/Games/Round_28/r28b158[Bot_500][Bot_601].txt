@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "27"]
+[White "WitwerMacher (by: Yannik Bleilinger)"]
+[Black "NotThatBad (by: GMPrakhar)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 a5 2. c3 e5 3. d3 Bxa3 4. Kd2 Bc5 5. Ke1 Qh4 6. Kd2 Qf4+ 7. Ke1 Bxf2# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "6"]
+[White "Mischievous bot (by: Guigui)"]
+[Black "CombEaredSkink (by: Deepfriedice)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f3 e5 2. c3 Qh4+ 3. g3 d5 4. d3 Be7 5. e4 Na6 6. Qa4+ Bd7 7. Qb3 Nc5 8. Qc2 Nf6 9. c4 Nxd3+ 10. Ke2 Bc5 11. f4 dxe4 12. Qd1 Bg4+ 13. Kd2 Bxd1 14. b4 Nxb4 15. Na3 Rd8+ 16. Ke1 Qg4 17. Nb5 Nc2# 0-1

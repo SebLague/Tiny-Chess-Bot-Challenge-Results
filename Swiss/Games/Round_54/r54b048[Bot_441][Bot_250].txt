@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "53"]
+[White "RigidBot (by: Mathias Elgaard)"]
+[Black "Corrosiver (by: )"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nf3 d6 4. d4 dxe5 5. dxe5 Nc6 6. Bb5 Bf5 7. Nd4 Bd7 8. Bxc6 bxc6 9. c4 Nb6 10. c5 Nd5 11. Nd2 e6 12. N2b3 Be7 13. Qg4 g5 14. Bd2 h5 15. Qe2 g4 16. O-O O-O 17. f3 gxf3 18. Qxf3 f6 19. Bh6 Rf7 20. Qxh5 Qe8 21. Qg6+ Kh8 22. Bf4 Rg7 23. Qe4 Nxf4 24. Qxf4 fxe5 25. Qxe5 Qg6 26. Rf2 Rc8 27. Re1 Rf8 28. Nxe6 Rxf2 29. Qxg7+ Qxg7 30. Nxg7 Bh4 31. g3 Rxb2 32. gxh4 Rxb3 33. axb3 Kxg7 34. Re7+ Kf6 35. Rxd7 Ke5 36. h5 Kf4 37. h6 Ke5 38. h7 Ke4 39. h8=Q a5 40. Qf6 a4 41. Rd4+ Ke3 42. Qf2# 1-0

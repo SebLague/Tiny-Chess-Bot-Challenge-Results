@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "17"]
+[White "BIG CHUMPER V6.0 (by: Pedro Contipelli)"]
+[Black "MyFirstChessEngine (by: Jake Forsey)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 Nf6 2. Nf3 Nc6 3. h4 h6 4. d4 Nb4 5. a3 Nxc2+ 6. Qxc2 d6 7. a4 Bg4 8. a5 Bxf3 9. exf3 Qc8 10. h5 Qe6+ 11. Ne2 Kd8 12. b4 Qc8 13. b5 Rb8 14. f4 e6 15. f3 d5 16. g3 Bb4+ 17. Bd2 Bxd2+ 18. Qxd2 Qd7 19. Nc3 Qd6 20. a6 Kc8 21. axb7+ Kxb7 22. Bd3 Qb4 23. Rxa7+ Kc8 24. Bc2 Kd7 25. f5 exf5 26. Bxf5+ Kd8 27. Ra6 Re8+ 28. Kd1 Qb3+ 29. Bc2 Qc4 30. Ra4 Qxc3 31. Qxc3 Re6 32. Bf5 Reb6 33. Bd3 Rxb5 34. Bxb5 Rxb5 35. Ra8+ Kd7 36. Rh2 Rb1+ 37. Kc2 Rb7 38. Qc5 c6 39. Qf8 Ke6 40. Re2+ Ne4 41. Qc8+ Kf6 42. Qxb7 c5 43. Qxd5 cxd4 44. Rxe4 d3+ 45. Kxd3 g6 46. Qe5# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "61"]
+[White "RP Bot (by: Matt Enad (RobProductions))"]
+[Black "Epimetheus (by: George Bland)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 c6 2. e4 Qa5+ 3. Ke2 Nf6 4. f3 d6 5. c4 Be6 6. Kf2 Nbd7 7. Ke3 Qg5+ 8. Kd3 Qh5 9. Nc3 b5 10. b3 Rb8 11. Kc2 bxc4 12. bxc4 Qa5 13. Kd3 g5 14. Qc2 Rg8 15. Ke3 g4 16. f4 Bh6 17. Kf2 Kd8 18. Be2 Kc7 19. Nd5+ cxd5 20. cxd5+ Kd8 21. dxe6 fxe6 22. Be3 Rc8 23. Qxc8+ Kxc8 24. Rc1+ Kb8 25. Rb1+ Ka8 26. Bc4 Nxe4+ 27. Kf1 Nd2+ 28. Bxd2 Qxd2 29. Bb5 Qxf4+ 30. Nf3 Qe4 31. Ra1 gxf3 32. g3 Nf6 33. Re1 Qxd4 34. Bc6+ Kb8 35. Rb1+ Kc8 36. Bb7+ Kc7 37. Ba6 Rb8 38. a3 Rxb1# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "4"]
+[White "AUR Chessbot (by: Soul Senshi)"]
+[Black "Dried Cod (by: Josh & Laurin)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e6 2. Rb1 Qh4 3. Ra1 Bd6 4. g3 Qb4 5. Nf3 Nc6 6. a3 Qc4 7. e4 Qc5 8. b4 Qh5 9. Ng1 Qe5 10. Nge2 Nf6 11. d4 Qh5 12. Ng1 Qxd1+ 13. Kxd1 Nxd4 14. Bg5 Ng4 15. Be3 Be5 16. Bh3 Nxe3+ 17. fxe3 Nc6 18. Kd2 a5 19. Nf3 axb4 20. Nxe5 bxc3+ 21. Kxc3 Nxe5 22. Kb2 Nc4+ 23. Kb1 Nxe3 24. Re1 Nc4 25. Kc1 b6 26. Bf1 Nxa3 27. c3 Bb7 28. e5 Ke7 29. Kd1 Nb5 30. Kd2 Bc6 31. Rxa8 Rxa8 32. Bc4 Ra3 33. Bxb5 Bxb5 34. Kc2 Ra2+ 35. Kb1 Rxh2 36. g4 Bd3+ 37. Ka1 Rg2 38. Rd1 Be4 39. Rc1 Rxg4 40. Re1 Bd5 41. Kb1 Re4 42. Rxe4 Bxe4+ 43. Ka1 h5 44. Ka2 h4 45. Ka1 h3 46. Ka2 h2 47. Ka1 h1=Q+ 48. Ka2 Bc2 49. Kb2 Qb1+ 50. Ka3 Qb3# 0-1

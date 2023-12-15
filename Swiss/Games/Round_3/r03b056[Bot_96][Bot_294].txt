@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "Chess Bot (by: M)"]
+[Black "Sweet ζ 985 (by: Sweet)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Bc4 Nf6 3. d4 Nxe4 4. Be3 d5 5. Bb5 Nd6 6. Bd3 e5 7. Nf3 e4 8. Be2 exf3 9. gxf3 Nf5 10. Bf4 Ncxd4 11. Bd3 Nh4 12. Bb5+ Nxb5 13. Qe2+ Qe7 14. Kd2 Qxe2+ 15. Kxe2 Nd4+ 16. Kd1 c5 17. c4 dxc4 18. b3 cxb3 19. axb3 h5 20. Ra3 b5 21. Re1+ Be6 22. Nc3 Nhxf3 23. Nd5 O-O-O 24. Nb6+ Kb7 25. Rxe6 Nxe6+ 26. Ke2 Nfd4+ 27. Ke3 Nc2+ 28. Kf3 Nxa3 29. Be5 axb6 30. h4 f5 31. Bb2 Rd3+ 32. Kg2 Rxb3 33. Be5 f4 34. f3 Nc4 35. Ba1 Ra3 36. Bb2 Nxb2 37. Kh3 c4 38. Kh2 Bb4 39. Kg2 Rd8 40. Kh3 g6 41. Kh2 Rd2+ 42. Kh3 Rxf3# 0-1

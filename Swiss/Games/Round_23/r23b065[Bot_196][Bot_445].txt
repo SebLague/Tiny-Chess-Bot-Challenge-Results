@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "22"]
+[White "ChessButt2 (by: Matt Suhay)"]
+[Black "KunoVonHagenBot (by: Jakob)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 d5 2. Bf4 Bf5 3. Nf3 Nc6 4. Nc3 Nb4 5. e4 dxe4 6. Nh4 e6 7. Nxf5 exf5 8. a3 g5 9. Be5 f6 10. axb4 fxe5 11. Qh5+ Kd7 12. Qf7+ Kd6 13. Bc4 c6 14. Qe6+ Kc7 15. Qxe5+ Kd7 16. Be6+ Ke8 17. Bxg8+ Kd7 18. Be6+ Ke8 19. Bxf5+ Qe7 20. Qxh8 Qxb4 21. Qxh7 Be7 22. Be6 Qxb2 23. Qg8+ Bf8 24. Qf7+ Kd8 25. Qd7# 1-0

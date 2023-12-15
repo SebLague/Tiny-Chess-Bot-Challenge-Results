@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "36"]
+[White "charge forward v1 (by: steel chair)"]
+[Black "Mr. Racism (by: 89o)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 g5 2. hxg5 Bg7 3. Rxh7 Bxb2 4. Rxh8 Bxc1 5. Rxg8# 1-0

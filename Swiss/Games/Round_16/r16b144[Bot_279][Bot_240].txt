@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "15"]
+[White "CosmoDMBot (by: CosmoDM)"]
+[Black "Sir Checkmates-A-Lot (by: Felix)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. d4 Nxe4 3. Qe2 Nd6 4. Nc3 Nf5 5. Qd2 Nd6 6. a3 Nf5 7. g4 Nd6 8. f3 Nc6 9. Kd1 Nb8 10. Nh3 f5 11. Nb1 fxg4 12. fxg4 Rg8 13. Ng5 h6 14. Nh7 Rh8 15. Bd3 Nf7 16. Bg6 Na6 17. Rf1 Nb8 18. Bxf7# 1-0

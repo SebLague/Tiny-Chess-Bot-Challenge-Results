@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "13"]
+[White "The Red Crayon (by: Daniel L.)"]
+[Black "Max-Max-Bot (by: Tejas)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 e6 2. Bf4 Bb4+ 3. Qd2 Bxd2+ 4. Kd1 Bxf4 5. e3 Bd6 6. Nc3 Qf6 7. Ne4 Qh6 8. Nxd6+ cxd6 9. Kc1 Qg6 10. Kb1 Qe4 11. Kc1 a5 12. Kb1 a4 13. Kc1 h5 14. Kb1 h4 15. Kc1 g5 16. Kb1 g4 17. Kc1 f5 18. Kb1 f4 19. Kc1 d5 20. Kb1 b6 21. Kc1 Bb7 22. Kb1 Nf6 23. Kc1 Ra7 24. Kb1 O-O 25. Kc1 Rc8 26. Kb1 Qxc2# 0-1

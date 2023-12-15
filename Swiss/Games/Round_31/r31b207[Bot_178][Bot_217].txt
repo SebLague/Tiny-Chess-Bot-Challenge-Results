@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "30"]
+[White "'Knight'mare (by: AGentW29)"]
+[Black "BOTvinnik (by: Paul Smooth)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. b3 e6 2. f4 Nc6 3. a4 Nb4 4. Nh3 Qf6 5. Ra3 Nd5 6. Ra1 Qxa1 7. c4 Nxf4 8. Nxf4 Qxb1 9. g3 e5 10. e3 exf4 11. Qc2 Qxc2 12. gxf4 Qxc1+ 13. Ke2 Bb4 14. h4 Qxd2+ 15. Kf3 Bc5 16. h5 Qxe3+ 17. Kg2 Qf2+ 18. Kh3 d6+ 19. f5 Bxf5# 0-1

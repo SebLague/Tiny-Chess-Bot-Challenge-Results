@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "8"]
+[White "evilbot v2 (by: aria1400)"]
+[Black "AUR Chessbot (by: Soul Senshi)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 Nc6 2. Bc4 Ne5 3. Bb5 a6 4. Bf1 Nc6 5. Qf3 d5 6. Ne2 Ne5 7. Qg3 Nc6 8. Qh4 e5 9. Qxd8+ Kxd8 10. g3 Nb4 11. Nec3 Nxc2+ 12. Ke2 Nxa1 13. Nxd5 Be6 14. Ndc3 Nf6 15. a4 Nb3 16. Ke1 Nxc1 17. a5 Bb4 18. Nd1 Bxa5 19. Rg1 Bb4 20. e4 Nxe4 21. h4 Bc5 22. g4 Kd7 23. Rh1 Bxg4 24. f3 Bxf3 25. Bh3+ Kc6 26. Bd7+ Kxd7 27. Rf1 Nd3# 0-1

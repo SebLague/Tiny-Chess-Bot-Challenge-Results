@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "55"]
+[White "NightBot (by: Matthias Kruis)"]
+[Black "Thunker Weed (by: American Jeff)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 d5 2. d4 Nf6 3. e3 g6 4. Bb5+ Nc6 5. Nf3 Bg7 6. O-O O-O 7. Qe2 Ne4 8. Nxe4 dxe4 9. Nd2 e5 10. dxe5 Qd5 11. Qc4 Qxc4 12. Bxc4 Nxe5 13. Bb3 Bf5 14. Bd5 Rad8 15. Bxb7 c6 16. Nb3 Be6 17. Nc5 Bc4 18. Re1 Rd5 19. Nxe4 Rb8 20. f4 Rxb7 21. fxe5 Bxe5 22. a4 a5 23. Rb1 Rb4 24. b3 Bxb3 25. cxb3 Rxe4 26. Bb2 Bd6 27. Rbc1 Bc5 28. Bd4 Bb4 29. Red1 c5 30. Bf6 Bd2 31. Rxd2 Rxd2 32. Rxc5 Re8 33. Rxa5 Rc8 34. h4 Rd3 35. Rb5 Rxe3 36. a5 Re6 37. Rb6 Rxb6 38. Kf2 Rxf6+ 39. Ke2 Rb8 40. Kd2 Rxb3 41. h5 Rf2+ 42. Kc1 gxh5 43. Kd1 Rb1# 0-1

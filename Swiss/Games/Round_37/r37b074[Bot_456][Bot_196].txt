@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "36"]
+[White "HikuBot (by: Hikushii)"]
+[Black "ChessButt2 (by: Matt Suhay)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Bf5 5. d4 Nc6 6. Nb5 Qd7 7. Bf4 Rc8 8. Bc4 Nf6 9. O-O a6 10. Nc3 b5 11. Bb3 b4 12. Ne2 Bg4 13. Ne5 Nxe5 14. Bxe5 c5 15. c3 c4 16. Ba4 Rc6 17. Bxf6 gxf6 18. d5 Bxe2 19. dxc6 Qc7 20. Qd7+ Qxd7 21. c7 e6 22. c8=Q+ Ke7 23. Qxd7# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "30"]
+[White "Compact Scholar's mate (by: Chris)"]
+[Black "WhyAmIABot (by: Levi)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 h6 2. Bc4 g6 3. Qf3 d6 4. Bxf7+ Kd7 5. h4 Na6 6. g4 Bg7 7. d4 Bxd4 8. exd4 Qf8 9. Be6+ Kxe6 10. Qxf8 Nb8 11. Qxc8+ Kf6 12. Qxb7 Nd7 13. Qxa8 Nb8 14. Qxb8 Rh7 15. Qxg8 Rf7 16. Bxh6 a6 17. f4 a5 18. c4 a4 19. g5+ Kf5 20. Qxf7+ Kg4 21. d5 c5 22. dxc6 e5 23. c7 exf4 24. c8=Q+ Kh5 25. Qxf4 d5 26. Qcg4# 1-0

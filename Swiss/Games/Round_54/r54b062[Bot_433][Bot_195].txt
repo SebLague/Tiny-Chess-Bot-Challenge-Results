@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "53"]
+[White "PlinkBot (by: superplink)"]
+[Black "YDepth (by: Jerome Engelbrecht)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nc6 2. Nc3 d5 3. d4 Bf5 4. Bf4 f6 5. Qd2 g5 6. Bg3 g4 7. Nh4 Bh6 8. e3 Be6 9. O-O-O Qd7 10. Kb1 Bf7 11. f3 O-O-O 12. fxg4 Qxg4 13. Bb5 a6 14. Bxc6 bxc6 15. Qd3 Kb7 16. Nf5 Bf8 17. Rhf1 Bg6 18. Rf4 Qg5 19. Ne2 Qh5 20. Qb3+ Ka7 21. Rff1 Rd7 22. Nh4 Qxe2 23. Nxg6 hxg6 24. Rg1 Bh6 25. Qc3 Qb5 26. Rge1 Qb7 27. Qd3 f5 28. Qb3 Qc8 29. Be5 Nf6 30. Qc3 Kb7 31. Qb3+ Ka8 32. Qc3 Qb7 33. Qa3 Re8 34. h3 Rdd8 35. Qa5 Rc8 36. a3 Nd7 37. Bf4 g5 38. Bg3 f4 39. exf4 gxf4 40. Qd2 e5 41. dxe5 Rb8 42. b3 Nxe5 43. Bxf4 Bxf4 44. Qxf4 Nd3 45. cxd3 Qxb3+ 46. Kc1 Qc3# 0-1

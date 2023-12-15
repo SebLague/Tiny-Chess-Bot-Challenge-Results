@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "AngryPiece (by: FlamingSquid)"]
+[Black "wahtye (by: Nico)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h3 e5 2. h4 d5 3. h5 Nc6 4. h6 Nxh6 5. Nh3 Be7 6. Nf4 exf4 7. a3 Bh4 8. a4 Ng4 9. a5 Bxf2# 0-1

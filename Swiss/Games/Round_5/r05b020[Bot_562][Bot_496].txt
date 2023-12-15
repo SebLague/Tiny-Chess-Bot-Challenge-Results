@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "4"]
+[White "Marreco (by: Tutz)"]
+[Black "Ace V1.0.0 (by: Atad)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 d5 2. d4 Nf6 3. Bf4 e6 4. Qd3 Bd6 5. Bg3 O-O 6. Nf3 c5 7. dxc5 Bxc5 8. a3 Nbd7 9. b4 Be7 10. e4 a5 11. Rb1 axb4 12. axb4 Ra3 13. Ng5 h6 14. exd5 exd5 15. Nf3 Bxb4 16. Rxb4 Qe7+ 17. Kd2 Qxb4 18. Qd4 Ne4+ 19. Ke3 Qa5 20. Bd3 Nxc3 21. Re1 Ra4 22. Bf4 Rxd4 23. Nxd4 Re8+ 24. Kd2 Nb5+ 25. c3 Qxc3+ 26. Kd1 Rxe1# 0-1

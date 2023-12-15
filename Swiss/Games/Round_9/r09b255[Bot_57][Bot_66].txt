@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "8"]
+[White "Obi (by: Carson Ouckama)"]
+[Black "CapivaraBot (by: Danilo Luiz Rheinheimer)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 h5 2. f4 f5 3. Kf2 d5 4. b4 e5 5. fxe5 Bxb4 6. a4 g5 7. e4 fxe4 8. Bb5+ c6 9. Bf1 a5 10. g3 b6 11. c4 dxc4 12. Bxc4 h4 13. gxh4 gxh4 14. Bf4 c5 15. Bb5+ Nd7 16. Bxd7+ Bxd7 17. d5 b5 18. axb5 Bxb5 19. h3 c4 20. e6 a4 21. Ra2 c3 22. Qd4 e3+ 23. Kf3 e2 24. Qxh8 e1=Q 25. Qxg8+ Bf8 26. Qf7# 1-0

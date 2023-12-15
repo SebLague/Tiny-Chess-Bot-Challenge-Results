@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "Chessica (by: Nicky Kitchingman)"]
+[Black "En Croissant (by: Lethal Chicken)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a3 b5 2. b3 a5 3. a4 b4 4. c3 c5 5. f3 bxc3 6. dxc3 e5 7. e3 Qh4+ 8. g3 Qxg3+ 9. hxg3 Ke7 10. Qd5 Kf6 11. Qxa8 Kf5 12. Qxb8 Kg5 13. Qxc8 Kf5 14. Qxf8 Kg5 15. Qxf7 Nf6 16. b4 Kf5 17. g4+ Kg5 18. Qxg7# 1-0

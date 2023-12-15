@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "27"]
+[White "CompressionBot (by: Nathan George)"]
+[Black "Euphoria (by: Andrew Merrill)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. Nc3 d5 3. d4 g6 4. a4 Bg7 5. Bf4 Na6 6. e3 O-O 7. Bd3 Nb4 8. Nb5 Nxd3+ 9. cxd3 Ne8 10. Rc1 c6 11. Nc3 Nf6 12. O-O Qb6 13. Qd2 Bg4 14. Ne5 Be6 15. Ne2 a5 16. Rcd1 Rad8 17. Rfe1 Nh5 18. Qc3 Nxf4 19. Nxf4 Bf5 20. Nf3 Bg4 21. Ne2 Bxf3 22. gxf3 Rfe8 23. f4 Qc7 24. e4 Qd7 25. Qxa5 Qg4+ 26. Kf1 Qf3 27. Kg1 dxe4 28. dxe4 Qxe4 29. Qc7 Qe6 30. Qxb7 Rb8 31. Qa6 Rxb2 32. h3 Rd8 33. Qa5 Rd6 34. Ng3 Qxh3 35. Qa8+ Bf8 36. Qa5 Rb3 37. Qd2 Rf3 38. Re4 Qg4 39. Rde1 f5 40. Qa2+ Kh8 41. Re6 Rxd4 42. Rxc6 Rxg3+ 43. fxg3 Qxg3+ 44. Qg2 Qxe1+ 45. Qf1 Qg3+ 46. Kh1 Rd2 47. Qa1+ Kg8 48. Rxg6+ hxg6 49. Qh8+ Kxh8 50. a5 Qf3+ 51. Kg1 Rg2+ 52. Kh1 Ra2+ 53. Kg1 Rxa5 54. Kh2 e6 55. Kg1 Bc5+ 56. Kh2 Ra2# 0-1

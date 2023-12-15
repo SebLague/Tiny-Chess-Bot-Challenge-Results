@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "61"]
+[White "Negative Depth (by: Zoltán Kürti)"]
+[Black "AUR Chessbot (by: Soul Senshi)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Nf3 f6 2. d4 e6 3. Nc3 Bb4 4. e4 Bxc3+ 5. bxc3 Ke7 6. d5 Kf7 7. Bf4 Ke7 8. Bb5 a6 9. Bc4 b5 10. Bd3 g5 11. Bg3 g4 12. Nd4 h5 13. c4 bxc4 14. Bxc4 c5 15. d6+ Kf7 16. Nb3 Qb6 17. f3 Qb4+ 18. Nd2 Nc6 19. fxg4 Qa3 20. c3 Qxc3 21. Rc1 Qe3+ 22. Be2 hxg4 23. Nb3 Qxe4 24. Nxc5 Qxg2 25. Rf1 Nb4 26. Bc4 Rh5 27. Qxg4 Rxc5 28. Bh4 Qxg4 29. Bxf6 Nxf6 30. a3 Nd3+ 31. Bxd3 Rxc1+ 32. Kd2 Rxf1 33. Kc3 Ra1 34. h3 Rxa3+ 35. Kd2 Qd4 36. h4 Rxd3+ 37. Kc2 Qxd6 38. h5 Rh3 39. h6 Rxh6 40. Kb3 Kg6 41. Kc2 Kf5 42. Kb3 Ke4 43. Kc3 Ke3 44. Kb2 Kd2 45. Kb1 Kd1 46. Kb2 Ke1 47. Kb3 Kd1 48. Kb2 Ke1 49. Kb3 Kd1 50. Kb2 1/2-1/2

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "34"]
+[White "TalkChess (by: Thomas Jahn, Mike Sherwin, Dmitry Shechtman)"]
+[Black "Shadow's Unfinished Bot (by: shadowcage72)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e6 2. Nf3 Nc6 3. d4 Bd6 4. e4 Nf6 5. Be3 O-O 6. Bd3 a6 7. O-O b5 8. Qd2 Bb7 9. Rad1 h6 10. Rfe1 g5 11. e5 Nxd4 12. Bxd4 Bxf3 13. gxf3 Be7 14. exf6 Bxf6 15. Qe3 Bxd4 16. Qxd4 f5 17. f4 gxf4 18. Qxf4 Qg5+ 19. Qxg5+ hxg5 20. a3 c5 21. h3 c4 22. Be2 d5 23. Bf3 Rf6 24. Ra1 f4 25. Rad1 Rh6 26. Bg2 Rc8 27. Ra1 d4 28. Ne4 Rg6 29. Rad1 d3 30. cxd3 cxd3 31. Rxd3 e5 32. Rd7 g4 33. hxg4 Rxg4 34. Red1 f3 35. Nf6+ Kf8 36. Nxg4 fxg2 37. Kxg2 e4 38. Kg1 a5 39. Kf1 b4 40. Kg2 bxa3 41. bxa3 a4 42. Kg1 Rc5 43. Ne3 Rg5+ 44. Kh2 Rh5+ 45. Kg3 Rg5+ 46. Kf4 Rc5 47. Kxe4 Rc6 48. Kd3 Rc5 49. Nd5 Rc6 50. Re1 Rg6 51. Ree7 Rc6 52. Rd8# 1-0

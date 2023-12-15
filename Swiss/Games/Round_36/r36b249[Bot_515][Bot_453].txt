@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "35"]
+[White "RedVallium (by: Piotr Bożek)"]
+[Black "Chessica (by: Nicky Kitchingman)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 a6 2. Bc4 a5 3. Qh5 e6 4. Qxf7+ Kxf7 5. Bxe6+ dxe6 6. c3 a4 7. b3 axb3 8. axb3 Rxa1 9. h3 Rxb1 10. d3 Rxc1+ 11. Kd2 Rxg1 12. Rxg1 e5 13. b4 b6 14. f3 b5 15. d4 c6 16. f4 exf4 17. g3 Qg5 18. gxf4 Qxg1 19. c4 Qxd4+ 20. Kc1 bxc4 21. f5 Qxe4 22. b5 Bxf5 23. bxc6 Qe2 24. h4 Nxc6 25. h5 c3 26. h6 Qe3+ 27. Kd1 c2# 0-1

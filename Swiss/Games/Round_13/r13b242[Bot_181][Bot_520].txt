@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "12"]
+[White "Greedy-Dumb-Bot (by: TrangML)"]
+[Black "SFN v 2.0 (by: SFN)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c3 d6 2. Qa4+ c6 3. Qg4 f5 4. h3 Qa5 5. Nf3 Qd5 6. Qh5+ Kd8 7. Kd1 Qxd2+ 8. Bxd2 e6 9. Qe8+ Kc7 10. Qe7+ Bd7 11. b4 g5 12. a4 d5 13. Bf4+ e5 14. Bxe5+ Kb6 15. Bg3 Nf6 16. Rh2 c5 17. Nbd2 Ka6 18. b5+ Bxb5 19. axb5+ Kb6 20. Rxa7 c4 21. Rh1 Ne4 22. Nxg5 Rg8 23. f3 Kxb5 24. Qxb7+ Kc5 25. Ne6# 1-0

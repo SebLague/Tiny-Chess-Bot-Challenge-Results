@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "23"]
+[White "Octobot (by: Andrea Colognese)"]
+[Black "Chessinator 3000 (by: )"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 d5 2. Qf3 Qd6 3. Nc3 c6 4. Bd3 h5 5. Be2 Bg4 6. Ne4 dxe4 7. Qxe4 Nf6 8. Qc4 b5 9. Qd3 Qxd3 10. Bxd3 b4 11. Bc4 Be6 12. Bb3 Nbd7 13. Bxe6 fxe6 14. a3 Rb8 15. axb4 Rxb4 16. Rxa7 Rb8 17. Rc7 Ne5 18. d4 Nd5 19. Ra7 Nc4 20. e4 Nb4 21. Kd1 Kf7 22. b3 Nd6 23. Ba3 Nb5 24. Ra5 Nxa3 25. Rxa3 c5 26. Ra4 cxd4 27. Ne2 d3 28. cxd3 Nxd3 29. Kd2 Nxf2 30. Rf1 Rd8+ 31. Nd4 Rxd4+ 32. Rxd4 g5 33. Rxf2+ Ke8 34. Ra4 Rh6 35. Ra8+ Kd7 36. Rfxf8 e5 37. Ra7+ Kc6 38. Ra6+ Kb5 39. Rxh6 h4 40. Rb8+ Kc5 41. Kc3 e6 42. Rxe6 g4 43. b4# 1-0

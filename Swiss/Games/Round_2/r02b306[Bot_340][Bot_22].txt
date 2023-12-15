@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "PacifistBot (by: Noano01)"]
+[Black "BigBrainBot (by: Leo)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 f5 2. Nc3 Nf6 3. Ne4 fxe4 4. d4 exf3 5. Bf4 fxe2 6. g4 exd1=Q+ 7. Kxd1 Nxg4 8. Kc1 Nc6 9. Kb1 Nxd4 10. Bc4 d5 11. Re1 dxc4 12. Re4 Nxc2 13. h4 Qd3 14. b4 Qxe4 15. a4 Nxa1+ 16. Ka2 Qxf4 17. b5 Nb3 18. b6 Qxf2+ 19. Ka3 e6# 0-1

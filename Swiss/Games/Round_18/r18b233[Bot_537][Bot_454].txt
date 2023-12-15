@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "17"]
+[White "InfuehrDaniel MCTS (by: Daniel Infuehr)"]
+[Black "The Mad King (by: Coding With Avaclava)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. e3 c6 2. Qh5 e6 3. Bd3 b6 4. Nc3 Ke7 5. Qxh7 Rxh7 6. Nge2 c5 7. Nd5+ exd5 8. Bg6 fxg6 9. Kd1 a6 10. Nf4 Ke8 11. Nxg6 c4 12. h3 d6 13. Rf1 b5 14. b4 Kf7 15. a4 Kxg6 16. axb5 axb5 17. Ra3 Kf6 18. Rg1 g5 19. Rf1 Bf5 20. f4 Ke6 21. e4 Bxe4 22. f5+ Ke7 23. Rc3 Bxg2 24. Rg1 d4 25. Ra3 d5 26. Rg3 Kd7 27. h4 Rxh4 28. d3 Bxb4 29. dxc4 dxc4 30. Ke2 Re4+ 31. Kf2 Nc6 32. Bxg5 Qb6 33. Rb1 Bd6 34. Rg1 b4 35. R3xg2 c3 36. Rh1 Ke8 37. Bc1 Rb8 38. Kf3 Ne5+ 39. Kg3 Nd7+ 40. Bf4 Bc5 41. Kf3 Rc8 42. Rgg1 Ke7 43. Rg7+ Ke8 44. Rh8 Nf8 45. Rg1 Be7 46. Rb1 Kd7 47. Ra1 Qf6 48. Ra7+ Ke8 49. Rh5 Bd8 50. Ra1 Kf7 51. Rb1 Qg7 52. Rb3 Ke8 53. Rh2 Qf6 54. Re2 Qxf5 55. Rh2 Re6 56. Rxb4 Qd5+ 57. Kg3 Rg6+ 58. Kf2 Ke7 59. Rb1 Qa8 60. Rb5 Kf6 61. Bg3 Be7 62. Be5+ Ke6 63. Bf4 Rd8 64. Re5+ Kf6 65. Re1 Bb4 66. Bc7 Rd5 67. Ke2 Qe8+ 68. Kf1 Qb5+ 0-1

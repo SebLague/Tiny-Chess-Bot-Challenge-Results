@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "20"]
+[White "WitwerMacher (by: Yannik Bleilinger)"]
+[Black "QuaviverBot (by: CantWontDo)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 Nf6 2. b3 e6 3. Rb1 g6 4. Ra1 Ne4 5. Rb1 Qf6 6. Ra1 Qxf2# 0-1

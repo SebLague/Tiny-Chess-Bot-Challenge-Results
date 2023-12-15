@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "51"]
+[White "Octobot (by: Andrea Colognese)"]
+[Black "JazzBot (by: SpoXe)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 h5 2. Qf3 g5 3. Bc4 Rh7 4. Qe4 Rg7 5. Be2 Nf6 6. Qe5 d5 7. Bxh5 Nxh5 8. g4 Bxg4 9. Qd4 f5 10. Nc3 Nf6 11. Nxd5 Nxd5 12. Nf3 Bxf3 13. Rg1 Qc8 14. Rg3 Be4 15. d3 Bh1 16. Rg1 Bf3 17. Bd2 Qd7 18. Rg3 Bh1 19. O-O-O Nc6 20. Qc5 b6 21. Qc4 Ne5 22. Qd4 Nf3 23. Rxf3 Bxf3 24. Rg1 Rb8 25. e4 fxe4 26. Rg3 Nf4 27. Qxd7+ Kxd7 28. Bxf4 gxf4 29. Rxg7 Bxg7 30. b3 exd3 31. cxd3 e5 32. Kc2 c5 33. Kd2 a5 34. h3 Rg8 35. a3 Ra8 36. Ke1 Rf8 37. Kf1 Re8 38. h4 Re7 39. b4 cxb4 40. axb4 axb4 41. Kg1 b5 42. Kh2 Be2 43. Kh3 Bxd3 44. Kg2 Bf6 45. h5 Rh7 46. Kg1 Rxh5 47. f3 Rg5+ 48. Kf2 Rg3 49. Ke1 Rxf3 50. Kd2 e4 51. Kc1 e3 52. Kd1 b3 53. Kc1 b4 54. Kd1 b2 55. Ke1 b1=B 56. Kd1 b3 57. Kc1 Bc4 58. Kxb1 e2 59. Kc1 Re3 60. Kb1 Bd3+ 61. Kc1 Bc2 62. Kd2 e1=Q# 0-1

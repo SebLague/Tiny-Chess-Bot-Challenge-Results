@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "8"]
+[White "Running Bot (by: Chris Pontius)"]
+[Black "Phoenix Chess (by: Mat(t)hias)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c4 Nc6 2. d3 a5 3. Nc3 Nf6 4. e4 Ra6 5. Nge2 h5 6. Bg5 Rb6 7. Qd2 Ne5 8. O-O-O Rd6 9. d4 Nxc4 10. Qd3 Ne5 11. Qg3 Ng6 12. e5 Rc6 13. Rg1 Ne4 14. Qe3 Nxg5 15. Qxg5 Rb6 16. f4 h4 17. Kb1 Rh6 18. Nd5 Rc6 19. f5 a4 20. fxg6 Rcxg6 21. Qc1 Rc6 22. Qf4 Rh5 23. Qf2 Rhh6 24. Ndc3 Rc4 25. Nf4 Rxc3 26. bxc3 a3 27. g4 g5 28. Nd3 Rb6+ 29. Kc1 Bg7 30. Bh3 f6 31. Qf5 d5 32. Qg6+ Kf8 33. Rgf1 Kg8 34. Qh5 fxe5 35. dxe5 d4 36. Qf7+ Kh8 37. cxd4 Qxd4 38. Qh5+ Kg8 39. Qe8+ Kh7 40. Kc2 Bd7 41. Qxe7 Ba4+ 42. Kd2 Rb2+ 43. Kc1 Qc3# 0-1

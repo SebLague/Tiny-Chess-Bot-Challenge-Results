@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "12"]
+[White "Running Bot (by: Chris Pontius)"]
+[Black "BackupBotCuzIDeletedPreviousGoodOne (by: _deeznuts420)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. c4 e6 2. e4 Ke7 3. Nf3 f5 4. exf5 exf5 5. Bd3 Kf6 6. O-O Kg6 7. g4 Nh6 8. gxf5+ Nxf5 9. Ne5+ Kf6 10. Ng4+ Kg5 11. f4+ Kg6 12. Ne5+ Kf6 13. Ng4+ Kg6 14. Ne5+ Kf6 15. Ng4+ Kg6 1/2-1/2

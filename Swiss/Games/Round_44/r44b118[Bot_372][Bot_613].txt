@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "43"]
+[White "CrimesAgainstDotNet (by: Reckoner (Robyn))"]
+[Black "Peeter 1 (by: Gouuu)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. e5 e6 3. Nf3 d4 4. Bd3 b6 5. Be4 c6 6. O-O b5 7. c3 d3 8. Nd4 Kd7 9. Qf3 f5 10. Bxc6+ Nxc6 11. Qxc6+ Ke7 12. Qxa8 a6 13. Nc6+ Ke8 14. Nxd8 Kxd8 15. a4 Bc5 16. b4 Be7 17. axb5 axb5 18. Na3 h5 19. Nxb5 Nh6 20. Nd4 Kc7 21. Ra7+ Kd8 22. Nc6+ Ke8 23. Rxe7+ Kf8 24. Qxc8# 1-0

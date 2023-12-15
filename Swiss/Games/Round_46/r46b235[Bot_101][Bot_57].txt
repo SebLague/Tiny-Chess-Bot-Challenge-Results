@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "45"]
+[White "HERO-bot (by: ELEMENTLHERO)"]
+[Black "Obi (by: Carson Ouckama)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e5 2. h4 Qxh4 3. g4 Qxh1 4. Nf3 c5 5. Nh4 Qxh4 6. g5 Qxg5 7. e3 f5 8. Qh5+ Qxh5 9. Be2 Qh1+ 10. Bf1 g5 11. f3 Qxf3 12. Be2 Qg3+ 13. Kd1 Qg1+ 14. Bf1 Qxf1# 0-1

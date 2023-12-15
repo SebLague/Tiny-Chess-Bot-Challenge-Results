@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "14"]
+[White "TBbot (by: TBMPFW)"]
+[Black "DrunkBot (by: rootNico)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. d4 h5 3. h4 e6 4. f3 Bb4+ 5. c3 Rh7 6. cxb4 Nd5 7. exd5 Na6 8. Qc2 f5 9. dxe6 dxe6 10. Qxf5 c6 11. Qxh7 Nc7 12. Qxg7 Qd6 13. Qf6 Qd5 14. Qg7 Bd7 15. g3 Kd8 16. a4 Qd6 17. b3 c5 18. bxc5 b5 19. cxd6 Ne8 20. d5 bxa4 21. Nc3 Kc8 22. Ba6+ Kb8 23. Qxd7 Ng7 24. Kd1 Nf5 25. Ke1 Ng7 26. Kf1 axb3 27. Ke1 e5 28. Kd1 b2 29. Rb1 Ne6 30. Ke1 Nd4 31. Kf1 Nc6 32. Kf2 e4 33. Ke1 Ne5 34. Rxb2# 1-0

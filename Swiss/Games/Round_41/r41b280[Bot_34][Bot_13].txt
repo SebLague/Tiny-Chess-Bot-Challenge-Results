@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "40"]
+[White "SaveBot (or, "winning bot" as an alternative) (by: Rudy)"]
+[Black "ScholarsBot (by: magic216)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 e5 2. Rb1 Bc5 3. Ra1 Qh4 4. Rb1 Qxf2# 0-1

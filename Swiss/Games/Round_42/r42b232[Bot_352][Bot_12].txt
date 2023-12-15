@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "41"]
+[White "NameGoesThere's bot (by: NameGoesThere)"]
+[Black "Aggressive Fool (by: ZZKer (she/her pronouns))"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Na6 2. d4 e6 3. e5 Bb4+ 4. Ke2 f5 5. Be3 Be7 6. Nd2 Bh4 7. f4 g5 8. Kd3 Nb4+ 9. Ke2 Nxc2 10. Qxc2 gxf4 11. Bxf4 Be1 12. Kxe1 Qh4+ 13. Ke2 Qg4+ 14. Ke3 Qxf4+ 15. Kxf4 d6 16. Bb5+ Kd8 17. exd6 e5+ 18. Kxe5 cxd6+ 19. Kxd6 f4 20. Qc7# 1-0

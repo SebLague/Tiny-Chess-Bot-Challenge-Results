@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "31"]
+[White "MyFirstChessEngine (by: Jake Forsey)"]
+[Black "Rodders (by: Chipperphilly)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 f5 2. Nf3 Nh6 3. Ne5 Rg8 4. Nb5 Rh8 5. e3 c5 6. Qh5+ g6 7. Nxg6 hxg6 8. Qxg6+ Nf7 9. Bc4 d5 10. Nc7+ Qxc7 11. Bb5+ Nc6 12. Kd1 e5 13. Ke1 a6 14. Bxc6+ bxc6 15. Kd1 d4 16. Ke2 dxe3 17. Kxe3 Rh6 18. Qg8 Qd6 19. Ke2 f4 20. Kd1 Rh8 21. Qxh8 Nxh8 22. Re1 Bf5 23. Re2 Kf7 24. g3 Bg4 25. gxf4 Qd5 26. c3 Qd3 27. fxe5 Qxe2+ 28. Kc2 Qxf2 29. h3 Bxh3 30. b4 cxb4 31. Kb2 bxc3+ 32. Kc2 Bg7 33. Kxc3 Bxe5+ 34. Kc2 Bf5+ 35. Kb3 Bxa1 36. d3 Rb8+ 37. Ka4 Qxa2+ 38. Ba3 Bb2 39. Ka5 Be6 40. Kxa6 Be5 41. Ka5 Bb3 42. Ka6 Kg6 43. Ka5 Bd6 44. Ka6 Kf5 45. Ka5 Bb4+ 46. Ka6 Qxa3# 0-1

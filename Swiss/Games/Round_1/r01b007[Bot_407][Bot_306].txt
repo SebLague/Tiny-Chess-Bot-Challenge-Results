@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "simple chess bot (by: 4a0I)"]
+[Black "czechmayte (by: dotpy/jayden van zuydam)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 d5 2. Bb5+ c6 3. Bd3 e6 4. Qh5 Nf6 5. Qg5 h6 6. Qf4 Bd6 7. Qa4 O-O 8. Nc3 Bc5 9. Nf3 b5 10. Qf4 b4 11. Na4 Bd6 12. Qd4 Qa5 13. b3 c5 14. Qh4 Bc7 15. h3 Nc6 16. Bb2 c4 17. Bxf6 cxd3 18. Qg4 g6 19. cxd3 e5 20. Qh4 Bf5 21. Qxh6 Qxa4 22. bxa4 Rab8 23. Qg7# 1-0

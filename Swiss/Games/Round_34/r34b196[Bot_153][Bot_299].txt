@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "33"]
+[White "WhateverBot (by: Alec Holden)"]
+[Black "MaterFromRadiatorSprings (by: Markus Grand Petersen)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nh3 e6 2. e3 Qh4 3. Be2 Bd6 4. O-O Ke7 5. Nc3 Bb4 6. d4 Bxc3 7. bxc3 Kd8 8. Bd2 Nf6 9. Bf3 g5 10. Bc1 g4 11. Be2 gxh3 12. gxh3 Qxh3 13. Bb2 Ke8 14. Ba3 Ne4 15. Bc5 Rg8+ 16. Bg4 Qxg4+ 17. Qxg4 Nxf2 18. Qxg8# 1-0

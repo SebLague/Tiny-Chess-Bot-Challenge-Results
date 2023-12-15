@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "28"]
+[White "PacifistBot (by: Noano01)"]
+[Black "ScaredyBot (by: Jacob Sweeten)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nc6 2. Nc3 Nf6 3. Nd5 b6 4. e4 g6 5. d4 Nxd5 6. Bh6 Bxh6 7. Qe2 Na5 8. Kd1 Kf8 9. g4 Kg7 10. h4 Kf6 11. Rh3 Ke6 12. c4 Nb7 13. Kc2 Kd6 14. Rd1 Kc6 15. Rd3 Kd6 16. b4 Kc6 17. a4 Kd6 18. Qe3 Bxe3 19. Be2 Bc1 20. a5 bxa5 21. g5 Ba3 22. Nd2 axb4 23. Kb3 Kc6 24. Ka4 Kb6 25. Rhe3 Nxe3 26. f4 Nd1 27. c5+ Ka6 28. Rb3# 1-0

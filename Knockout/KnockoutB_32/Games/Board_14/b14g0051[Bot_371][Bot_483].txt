@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Knockout 32"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "Onion (by: Nathan Woloshyn)"]
+[Black "Velocity++ (by: Tisajokt)"]
+[Result "0-1"]
+[TimeControl "30+0.1"]
+[Termination "Checkmate"]
+
+1. c4 c5 2. Nf3 Nf6 3. Nc3 e6 4. e4 Nc6 5. d4 cxd4 6. Nxd4 Bb4 7. Nxc6 bxc6 8. Bd3 Qc7 9. Be3 O-O 10. Qf3 d5 11. O-O-O Bxc3 12. bxc3 Qa5 13. exd5 exd5 14. h3 Rb8 15. Bd4 Qxa2 16. Qe2 Qa3+ 17. Kd2 Rb2+ 18. Ke1 Rxe2+ 19. Kxe2 dxc4 20. Bxc4 c5 21. Bxf6 gxf6 22. Kf1 Qxc3 23. Bb5 Qb3 24. Be2 Ba6 25. Kg1 Bxe2 26. Re1 c4 27. Kh2 Qd3 28. Ra1 Qd4 29. Ra3 c3 30. Rha1 Qf4+ 31. Kg1 c2 32. Rg3+ Kh8 33. Rc3 Qd4 34. Raa3 Qd2 35. Rxc2 Qxc2 36. Rg3 Qc1+ 37. Kh2 Qf4 38. h4 Qxh4+ 39. Rh3 Qxf2 40. Kh1 Rg8 41. g4 Rb8 42. Rb3 Bf3+ 43. Rxf3 Rb1# 0-1

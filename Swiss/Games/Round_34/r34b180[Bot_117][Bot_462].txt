@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "33"]
+[White "BettyBot (by: Thomas / TGhost)"]
+[Black "quick and dirty (by: Rafael)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Na3 e6 2. Nb5 a6 3. Na3 Qg5 4. Rb1 Nf6 5. Ra1 g6 6. Rb1 Ke7 7. Ra1 Kd8 8. Nb1 Ke7 9. Na3 Kd8 10. Nb1 Ke7 11. Na3 1/2-1/2

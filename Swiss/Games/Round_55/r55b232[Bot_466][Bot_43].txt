@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "54"]
+[White "ItPlaysBetterThanMe (by: RB)"]
+[Black "UncatchableSpaghettiMonster (by: drlundberg)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d6 2. Bb5+ Qd7 3. Bxd7+ Kxd7 4. Qg4+ e6 5. g3 Ne7 6. h3 Na6 7. h4 c5 8. f3 Nb4 9. a4 Nxc2+ 10. Ke2 Nd4+ 11. Kd3 a6 12. f4 f6 13. e5 c4+ 14. Kxd4 Nc6+ 15. Kxc4 Na5+ 16. Kc3 d5 17. h5 d4+ 18. Kxd4 Nb3+ 19. Kc4 Na5+ 20. Kd3 f5 21. h6 fxg4 22. hxg7 Bxg7 23. b4 Nb3 24. b5 Nxc1+ 25. Ke3 a5 26. b6 Rf8 27. d4 Rb8 28. Rxh7 Kc6 29. Rxg7 Rf5 30. Rc7+ Kd5 31. Rc5# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "51"]
+[White "PixelArtist (sort of) (by: Ludovic Debever (Lxdovic))"]
+[Black "DD9's chess bot (by: DigestDig9)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e5 2. Nf3 c5 3. b3 Bd6 4. d3 Bc7 5. Be3 Bb6 6. g3 Ba5 7. Kd2 Bxc3+ 8. Kxc3 b5 9. Rb1 Ba6 10. Kb2 Bb7 11. Kc1 Bd5 12. Kd2 Bxb3 13. Kc3 Bxc2 14. Rb3 Bxb3 15. a4 Bxa4 16. Qb1 Qb6 17. Qc1 Qc6 18. Qb2 Bd1 19. Qb1 Ba4 20. Qc1 Qb6 21. Kb2 b4 22. Qb1 Bb5 23. Ka1 Ba4 24. Ka2 Bb5 25. Qxb4 Bxd3 26. Kb3 Bb1 27. Kb2 Qxb4+ 28. Ka1 Bc2 29. Ka2 Ba4 30. Bh3 Bb5 31. Ka1 Bc4 32. Rb1 Qa3# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "14"]
+[White "Hopeless Bot (by: Nepiceo)"]
+[Black "BOTvinnik (by: Paul Smooth)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 d5 2. Nxd5 Qxd5 3. e3 Bg4 4. Qxg4 e6 5. Qxg7 Bxg7 6. g3 Qxh1 7. g4 Qxg1 8. g5 Qxg5 9. d3 Nc6 10. Bg2 Qxg2 11. c3 Qxh2 12. c4 Qh1+ 13. Kd2 Nb4 14. a3 Nxd3 15. Kxd3 Qd1+ 16. Bd2 Rd8+ 17. Ke4 Qg4+ 18. f4 Qg2# 0-1

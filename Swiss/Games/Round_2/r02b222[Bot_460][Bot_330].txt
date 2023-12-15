@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "PixelArtist (sort of) (by: Ludovic Debever (Lxdovic))"]
+[Black "Quinchessential (by: Isaac Sterling)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e6 2. Nf3 Qf6 3. b3 Bd6 4. d3 Nc6 5. Be3 a5 6. g3 Nge7 7. a4 h5 8. Kd2 Bb4 9. Kc1 Bxc3 10. Bc5 Bxa1 11. c3 Bxc3 12. Kb1 d6 13. e3 dxc5 14. Qc1 Qxf3 15. Qxc3 Qxh1 16. f3 Qxf1+ 17. Ka2 Qxf3 18. Qxa5 Rxa5 19. Kb2 Qxe3 20. Kc2 Qf2+ 21. Kc3 Qxh2 22. Kc4 Qc2# 0-1

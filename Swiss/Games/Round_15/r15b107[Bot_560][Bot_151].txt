@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "14"]
+[White "MiaKBotv4.4 (by: Mia Kellett)"]
+[Black "CompressTable (by: JacobAndSam)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 c6 2. Nf3 f6 3. Ne4 d5 4. Nc3 Bg4 5. Nd4 e5 6. Nf3 Bb4 7. Rb1 Nd7 8. Ra1 Ne7 9. Rb1 O-O 10. Ra1 Rc8 11. Rb1 Nf5 12. Ra1 e4 13. Ng1 Nc5 14. Rb1 d4 15. a3 dxc3 16. axb4 cxd2+ 17. Bxd2 Na4 18. f3 exf3 19. c3 Nb6 20. Ra1 fxe2 21. Qb3+ Qd5 22. c4 exf1=Q+ 23. Kxf1 Qxc4+ 24. Ne2 Bxe2+ 25. Kf2 Qxb3 26. Ra3 Qxb2 27. Bc1 Qc2 28. Rxa7 Bg4+ 29. Bd2 Qxd2+ 30. Kg1 Qe1# 0-1

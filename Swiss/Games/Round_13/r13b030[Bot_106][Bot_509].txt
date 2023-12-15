@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "12"]
+[White "Miluva v2 [2550] (by: Möhrchen (Thilo M.))"]
+[Black "MapBot (by: Map)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. d4 Nf6 3. e5 Nd5 4. c4 Nb6 5. c5 Nd5 6. Bc4 e6 7. Bxd5 exd5 8. Nf3 d6 9. Bg5 Qd7 10. cxd6 cxd6 11. Nc3 dxe5 12. Nxe5 Nxe5 13. Qe2 f6 14. Bf4 g5 15. Bxe5 fxe5 16. Qxe5+ Qe6 17. Nxd5 Bd6 18. Qxe6+ Bxe6 19. Nf6+ Kf7 20. Ne4 Bb4+ 21. Kf1 Be7 22. Nc5 Bc4+ 23. Kg1 Rhd8 24. Nxb7 Rxd4 25. Na5 Bd5 26. Nb3 Rg4 27. g3 Bxh1 28. Kxh1 Ra4 29. Nc1 Rd8 30. Ne2 Rb4 31. Rb1 Rd2 32. Nc3 Rbxb2 33. Rxb2 Rxb2 34. f4 Bf6 35. Nd5 gxf4 36. Nxf4 Rxa2 37. Nd5 Rd2 38. Ne3 Ke6 39. Nc4 Re2 40. Na3 Be5 41. Nc4 Bf6 42. Na3 a6 43. Nc4 Kd5 44. Nb6+ Ke4 45. h4 Kf3 46. Kg1 Bd4+ 47. Kf1 Rf2+ 48. Ke1 Bxb6 49. h5 Kxg3 50. Kd1 Be3 51. Ke1 Bf4 52. Kd1 Rd2+ 53. Kc1 Rh2+ 54. Kb1 a5 55. Ka1 Be5+ 56. Kb1 Rxh5 57. Ka2 a4 58. Ka3 Rh4 59. Ka2 Bd6 60. Kb1 a3 61. Ka2 Rh2+ 62. Kb3 a2 63. Kc4 a1=Q 64. Kd3 Qa3+ 65. Kc4 Qc5+ 66. Kd3 Qd5+ 67. Kc3 Be5+ 68. Kb4 Rb2+ 69. Ka4 Qa2# 0-1

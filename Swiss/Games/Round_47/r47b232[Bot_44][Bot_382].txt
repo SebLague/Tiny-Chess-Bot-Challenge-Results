@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "46"]
+[White "SimpleBot (by: :LMProgramming)"]
+[Black "Bob (by: Kökényesi Attila (UltraGeek))"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 f6 2. Qh5+ g6 3. Bc4 gxh5 4. Nc3 Nh6 5. Nf3 a5 6. Nd4 d6 7. Bb5+ Kf7 8. Bc4+ Kg6 9. Bd3+ Kg5 10. Ne4+ Kg4 11. Be2+ Kh4 12. Nf3+ Kg4 13. Ng1+ Kh4 14. g3# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Knockout 16"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "Uranium (by: iudwgerte)"]
+[Black "smol.cs (by: Gediminas Masaitis, Goh CJ)"]
+[Result "0-1"]
+[TimeControl "30+0.1"]
+[Termination "Checkmate"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nb5 d6 6. N1c3 a6 7. Nd4 Nf6 8. Nxc6 bxc6 9. Qf3 Rb8 10. Bg5 Rxb2 11. O-O-O Rb8 12. Bc4 Qa5 13. Bxf6 gxf6 14. Bb3 Rg8 15. Kb1 c5 16. Ka1 Rb4 17. a4 Bb7 18. Rhg1 c4 19. Ka2 cxb3+ 20. cxb3 f5 21. Qh3 Qc5 22. Rd2 fxe4 23. Rgd1 Rg5 24. Rc1 Rxg2 25. Qxg2 e3 26. f3 exd2 27. Qxd2 Rd4 28. Qb2 Bh6 29. Rc2 Bg7 30. Qc1 Rd3 31. Ne4 Qb6 32. Qa3 Bxe4 33. fxe4 Rd1 34. Rb2 Qg1 35. Rb1 Rxb1 36. b4 Qd1 37. Qb2 Rxb2+ 38. Ka3 Qb3# 0-1

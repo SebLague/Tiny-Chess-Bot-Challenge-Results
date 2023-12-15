@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "26"]
+[White "MaterFromRadiatorSprings (by: Markus Grand Petersen)"]
+[Black "Anarchy Bot (by: Malcolm)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e5 2. Qg4 Qf6 3. Bb5 Kd8 4. Qa4 Ke8 5. Kf1 Kd8 6. Ke1 Ke8 7. Qg4 Kd8 8. Qh3 Ke8 9. Kf1 Qb6 10. Bc4 Qb4 11. b3 Qa5 12. Qf5 Nh6 13. Qh5 Be7 14. Bb2 d6 15. a4 Bg4 16. Bc3 Qc5 17. Bxf7+ Kd8 18. Qxg4 Nxg4 19. e4 Qxf2# 0-1

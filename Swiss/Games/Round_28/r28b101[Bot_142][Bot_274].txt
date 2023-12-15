@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "27"]
+[White "Minimaxibon v1 (by: NotSureWhyThisWorks)"]
+[Black "BoringBot (by: Carson Bates)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 f6 2. Nf3 e6 3. e4 d5 4. exd5 exd5 5. Bb5+ c6 6. Bd3 d4 7. Qe2+ Ne7 8. Nxd4 Qxd4 9. Qe3 Qxe3+ 10. dxe3 h5 11. a3 a5 12. e4 g5 13. Be3 Bg4 14. Kf1 Be6 15. Ke1 b5 16. Bd4 Nd7 17. Kd1 Bc4 18. Bxc4 bxc4 19. Re1 Kf7 20. Kc1 h4 21. Kb1 a4 22. Ka2 h3 23. g4 Ne5 24. Bxe5 fxe5 25. Re3 Ke6 26. Rd1 Ng6 27. Ka1 c5 28. Nd5 Ra7 29. Nb6 Rf7 30. f3 Nh4 31. Nxc4 Nxf3 32. Rd8 Nxh2 33. Re8+ Re7 34. Rb8 Nxg4 35. Rb6+ Kd7 36. Rb7+ Kc8 37. Nd6+ Kd8 38. Rxe7 Nxe3 39. Nf7+ Kxe7 40. Nxh8 h2 41. Ng6+ Ke8 42. Ka2 h1=Q 43. b3 axb3+ 44. cxb3 Qg2+ 45. Kb1 Qc2+ 46. Ka1 Nd1 47. Nf4 Qb2# 0-1

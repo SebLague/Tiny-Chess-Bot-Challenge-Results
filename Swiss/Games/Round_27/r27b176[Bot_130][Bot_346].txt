@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "26"]
+[White "EndgameEnigma (by: jostflo)"]
+[Black "Butter Bot, the bot with the butter on him (by: siued)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e6 2. Nf3 Bb4 3. d3 Qf6 4. Be3 Bxc3+ 5. bxc3 Qxc3+ 6. Bd2 Qc5 7. Rc1 Nf6 8. g3 b6 9. h4 Rg8 10. Bh3 Bb7 11. O-O Na6 12. Bf4 Nb4 13. Ra1 Bxf3 14. exf3 Nxc2 15. Rc1 Qb4 16. Qxc2 Nd5 17. Bg5 c6 18. Rfd1 h6 19. Ra1 hxg5 20. hxg5 Rh8 21. Bf1 Qd4 22. Rac1 a6 23. Re1 Nf4 24. gxf4 Qxf4 25. Bg2 Rb8 26. Rcd1 Rh4 27. Re2 Kf8 28. Rf1 Qh2# 0-1

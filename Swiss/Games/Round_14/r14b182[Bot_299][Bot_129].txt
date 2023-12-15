@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "13"]
+[White "MaterFromRadiatorSprings (by: Markus Grand Petersen)"]
+[Black "Chemibot (by: Mike Chemi)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 a5 2. Qh5 Nf6 3. Qh4 b6 4. Qd4 h5 5. Kd1 g5 6. Qe5 g4 7. Bb5 Bb7 8. h4 Bxg2 9. Rh2 Bf3+ 10. Nxf3 gxf3 11. Rh3 Rg8 12. Ba4 Rg1# 0-1

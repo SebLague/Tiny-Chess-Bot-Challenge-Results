@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "30"]
+[White "ExtremelyShortsighted (by: CJS)"]
+[Black "Minimaxibon v1 (by: NotSureWhyThisWorks)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. b4 e6 2. b5 Qg5 3. d4 Qxb5 4. Nd2 Qd5 5. h4 Qxd4 6. Rb1 Bb4 7. h5 Nc6 8. g3 Nf6 9. Rb3 Ne4 10. f3 Qf2# 0-1

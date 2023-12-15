@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "27"]
+[White "MyFirstChessEngine (by: Jake Forsey)"]
+[Black "EpsilonCheck (by: aymco)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e5 2. Nf3 Nc6 3. Ne4 d5 4. Nc3 d4 5. Nb5 a6 6. Nxc7+ Qxc7 7. Ng5 h6 8. Ne4 f5 9. Ng3 f4 10. Nh5 Bg4 11. Nxg7+ Qxg7 12. f3 Be6 13. Kf2 b5 14. e3 Nf6 15. exd4 Qa7 16. Bd3 Qxd4+ 17. Ke1 Rg8 18. Be4 Nxe4 19. Rf1 Nf6 20. Qe2 Nb4 21. d3 Rc8 22. c3 Nxd3+ 23. Kd1 Nxb2+ 24. Ke1 Nd3+ 25. Kd2 Qxc3+ 26. Kd1 Qxa1 27. Qxd3 Rxc1+ 28. Ke2 Rxg2+ 29. Rf2 Qxa2+ 30. Qd2 Bc4# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "39"]
+[White "dumbot (by: slothinahat)"]
+[Black "The Fisher (by: Unodus)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 c6 2. g4 h6 3. Bh3 e6 4. b3 a6 5. Rb1 d5 6. Bg2 Bc5 7. Bxd5 Qg5 8. Bxc6+ bxc6 9. Nb5 axb5 10. Nf3 Qxg4 11. c4 Qf5 12. cxb5 Qxb1 13. bxc6 Rxa2 14. Ne5 f6 15. c7 Qc2 16. cxb8=Q Bb6 17. Qxc2 Rxc2 18. Qxb6 Rxc1# 0-1

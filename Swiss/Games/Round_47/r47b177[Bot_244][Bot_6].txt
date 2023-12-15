@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "46"]
+[White "KnightToE4 (by: Tree)"]
+[Black "Compact Scholar's mate (by: Chris)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g4 e6 2. Nc3 Bc5 3. Bg2 Qf6 4. Ne4 Bxf2+ 5. Nxf2 Qh4 6. Rb1 h5 7. Nf3 Qf6 8. O-O hxg4 9. Nxg4 Qg6 10. Nfe5 Qh5 11. Rxf7 g5 12. h4 gxh4 13. Be4 c5 14. Bg6 Qg5 15. Kg2 h3+ 16. Kg1 h2+ 17. Kf1 h1=Q+ 18. Kf2 Qxd1 19. Rg7+ Kf8 20. Rf7+ Ke8 21. Rg7+ Kf8 22. Rxg8+ Rxg8 23. Be4 Qh4+ 24. Kg2 Qdh1# 0-1

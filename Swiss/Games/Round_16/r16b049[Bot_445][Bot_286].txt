@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "15"]
+[White "KunoVonHagenBot (by: Jakob)"]
+[Black "Headless Chicken (by: Nat)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. Nc3 dxe4 3. Nxe4 Qd5 4. d3 Nf6 5. Qf3 Nxe4 6. dxe4 Qc5 7. Qd3 Nc6 8. Nf3 Be6 9. a4 Rd8 10. Qe2 Qb4+ 11. c3 Qa5 12. Qb5 Qb6 13. Be3 a6 14. Bxb6 axb5 15. Bxc7 Rd7 16. Bf4 Bg4 17. axb5 Bxf3 18. bxc6 Rd1+ 19. Rxd1 bxc6 20. gxf3 e6 21. h4 Bc5 22. h5 O-O 23. b4 Bb6 24. Bc4 Ra8 25. Be5 Kh8 26. h6 f6 27. Rg1 fxe5 28. hxg7+ Kg8 29. Bxe6# 1-0

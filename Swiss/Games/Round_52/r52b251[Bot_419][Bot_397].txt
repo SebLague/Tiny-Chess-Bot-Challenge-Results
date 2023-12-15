@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "51"]
+[White "PrincessAtta (by: Bowser Bowering and Allyn Lloyd)"]
+[Black "TinyLispChessBot (by: tr00)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. e3 Na6 2. d4 Nb4 3. c3 Nd5 4. e4 Nb6 5. e5 Rb8 6. e6 dxe6 7. Bb5+ c6 8. d5 cxb5 9. d6 Ra8 10. d7+ Qxd7 11. b4 Qc7 12. h4 Qc4 13. h5 Qe4+ 14. Ne2 Qe5 15. f4 Qe4 16. f5 Qxg2 17. Nf4 Qxh1+ 18. Kf2 Qxd1 19. h6 Qxc1 20. hxg7 Qb2+ 21. Nd2 Qxd2+ 22. Ne2 Bxg7 23. f6 Bxf6 24. a4 Bxc3 25. a5 Bxa1 26. a6 bxa6 27. Kg3 Qxe2 28. Kh4 Qe1+ 29. Kg4 Kd7 30. Kh3 Kc6 31. Kg4 Kd5 32. Kh3 Kc4 33. Kg4 Kb3 34. Kf4 Ka2 35. Kg4 Kb1 36. Kf3 Kc1 37. Kg4 Kb1 38. Kg5 Kc1 39. Kg4 Kb1 1/2-1/2

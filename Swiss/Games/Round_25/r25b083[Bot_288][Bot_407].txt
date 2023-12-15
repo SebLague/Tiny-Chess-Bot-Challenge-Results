@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "24"]
+[White "Running Bot (by: Chris Pontius)"]
+[Black "simple chess bot (by: 4a0I)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. c4 e5 2. e4 Qh4 3. Nc3 Bc5 4. g3 Qf6 5. Nf3 Ne7 6. Na4 Bb4 7. a3 Ba5 8. b4 Qc6 9. bxa5 Qxe4+ 10. Be2 d6 11. d3 Qg4 12. h3 Qf5 13. g4 Qf6 14. Bg5 Qg6 15. Bxe7 Kxe7 16. O-O h5 17. Nh4 Qg5 18. Nf3 Qf4 19. Nc3 Be6 20. Nd5+ Bxd5 21. cxd5 hxg4 22. Nxe5 Qxe5 23. Bxg4 Qxd5 24. Qe2+ Kf8 25. Bc8 Qg5+ 26. Qg4 Qb5 27. Rab1 f5 28. Rxb5 fxg4 29. Bxb7 Rxh3 30. Bxa8 Nd7 31. Rb7 Rxd3 32. Rxc7 Nc5 33. Rxa7 Rxa3 34. Kg2 Ne6 35. Rb1 Nf4+ 36. Kf1 Kg8 37. Be4 Ne6 38. Bd5 Kh7 39. Bxe6 Kg6 40. Bxg4 Ra4 41. Bd7 Rh4 42. Kg2 Kf6 43. Kf3 Rc4 44. Rd1 Ke5 45. Re1+ Kd4 46. Rd1+ Kc3 47. Rc1+ Kd4 48. Rd1+ Kc3 49. Rc1+ Kd4 50. Rd1+ 1/2-1/2

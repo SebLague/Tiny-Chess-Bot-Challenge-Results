@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "20"]
+[White "MinimaxAttackerBot5000 (by: ChrisCat123)"]
+[Black "BotThatLikesToPlayChess™ (by: Gary Dale)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 b6 2. Nb5 Ba6 3. Na3 Qc8 4. Rb1 Kd8 5. Ra1 Ke8 6. Rb1 Qd8 7. Ra1 Bxe2 8. Qxe2 Qc8 9. Kd1 a6 10. Ke1 Ra7 11. Kd1 Kd8 12. Ke1 Qb7 13. Kd1 Kc8 14. Ke1 Ra8 15. Kd1 Kd8 16. Ke1 Qxg2 17. Bxg2 Kc8 18. Bxa8 Kd8 19. Kd1 Kc8 20. Ke1 Nf6 21. Kd1 d5 22. Ke1 Kd7 23. Kd1 Kd6 24. Ke1 Kc5 25. Kd1 Kb4 26. Ke1 Ka4 27. Kd1 Ka5 28. Ke1 Rg8 29. Kd1 Ka4 30. Ke1 Kb4 31. Kd1 Ka5 32. Ke1 Ka4 33. Kd1 Kb4 34. Ke1 Nc6 35. Bxc6 Ka5 36. Qf3 Rh8 37. Qc3# 1-0

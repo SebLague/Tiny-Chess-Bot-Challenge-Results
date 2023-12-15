@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "27"]
+[White "GreGory (by: Kokken)"]
+[Black "MinimaxAttackerBot5000 (by: ChrisCat123)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Stalemate"]
+
+1. g3 Na6 2. a4 Rb8 3. Bg2 Ra8 4. Nc3 Nb4 5. d3 Rb8 6. Be3 Ra8 7. Bd4 Nh6 8. e3 Rg8 9. g4 Rh8 10. Rb1 Rg8 11. Rc1 Rh8 12. a5 Rg8 13. Ra1 Rh8 14. Ra3 Rg8 15. f3 Rh8 16. Ne4 Rg8 17. Bc3 Nd5 18. Bd4 e5 19. g5 Bxa3 20. Bxe5 Nxe3 21. Nf6+ gxf6 22. gxf6 Bb4+ 23. c3 Nxd1 24. Kxd1 Rxg2 25. Nh3 Bxa5 26. b4 Bb6 27. d4 d6 28. Bg3 Bxh3 29. Re1+ Kd7 30. Bf4 Qxf6 31. Be3 Qxf3+ 32. Kc1 Nf5 33. Bd2 Kd8 34. Rd1 Kd7 35. Rh1 Rxd2 36. Kxd2 Qxh1 37. c4 Qxh2+ 38. Kc3 Qh1 39. d5 Ke7 40. b5 Kf6 41. Kc2 Ke5 42. Kb3 Kd4 43. Ka2 Kxc4 44. Kb2 Kxb5 45. Kc2 Ka4 46. Kd2 Ka3 47. Kd3 Ka2 48. Kc2 Ka1 49. Kc3 Kb1 50. Kb4 Ka1 51. Kb3 Kb1 52. Kc3 Ka1 53. Kd2 Kb1 54. Kc3 Ka1 55. Kb4 Kb1 56. Kb5 Qe4 1/2-1/2

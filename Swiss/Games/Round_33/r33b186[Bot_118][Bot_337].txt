@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "32"]
+[White "BotThatLikesToPlayChess™ (by: Gary Dale)"]
+[Black "SepukuBot (by: Madhu)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. b3 e5 2. Bb2 Bd6 3. Qc1 Qh4 4. Qd1 Nc6 5. Qc1 Nd4 6. Kd1 Qxf2 7. Nf3 Nxf3 8. Ba3 Qe1# 0-1

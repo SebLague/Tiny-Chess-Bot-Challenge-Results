@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "63"]
+[White "jmcgbot (by: jmcg)"]
+[Black "Big Carl (by: Nathaniel D)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 d5 2. Nf3 h6 3. e3 a6 4. c3 e6 5. g4 Nf6 6. h3 Nh7 7. Ne5 g5 8. f3 Bd7 9. Nxd7 Qxd7 10. h4 gxh4 11. Rxh4 Qe7 12. Rh5 c6 13. b4 Qd8 14. a4 Ke7 15. f4 f6 16. Nd2 Ra7 17. Bh3 b6 18. e4 dxe4 19. Nxe4 Nd7 20. g5 f5 21. Ng3 Rg8 22. g6 Rxg6 23. Nxf5+ exf5 24. Kf1 Qe8 25. Bxf5 Kf6 26. c4 Bxb4 27. d5 Kg7 28. Bb2+ Bc3 29. Bxc3+ Nhf6 30. dxc6 Rg3 31. cxd7 Qxh5 32. Bxf6+ Kxf6 33. d8=Q+ Kxf5 34. Qxh5+ Ke4 35. Qdd5+ Kxf4 36. Qd4# 1-0

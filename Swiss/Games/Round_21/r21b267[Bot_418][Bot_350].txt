@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "20"]
+[White "Wee fella (by: Samm)"]
+[Black "InsufficientBot (by: Sep)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nh6 2. e4 Nf5 3. exf5 b5 4. Bxb5 Rg8 5. a4 Bb7 6. b4 Bxg2 7. c4 Bxh1 8. f4 Nc6 9. h4 Nxd4 10. Qxd4 Bc6 11. a5 Bxb5 12. cxb5 Qc8 13. h5 Qd8 14. a6 Rb8 15. Qxa7 Rxb5 16. Kd1 Rxf5 17. Qf2 Rxf4 18. Qxf4 Qc8 19. b5 Qxa6 20. bxa6 d5 21. Qxc7 Rh8 22. Qc8# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "53"]
+[White "maff-chess (by: Filip)"]
+[Black "J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J (by: Thunderous Echo)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Illegal move"]
+
+1. e4 e5 2. Nf3 Qf6 3. c4 Bc5 4. d4 exd4 5. Be2 Qg6 6. O-O Qxe4 7. Bd3 Qc6 8. Re1+ Kf8 9. b4 Bxb4 10. Ba3 Bxa3 11. Nxa3 Na6 12. Nb5 Qc5 13. Re5 Qc6 14. Re1 Qc5 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "4"]
+[White "jmcgbot (by: jmcg)"]
+[Black "Wee fella (by: Samm)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 d5 2. Nf3 e6 3. e3 Bb4+ 4. c3 a5 5. cxb4 axb4 6. g4 b6 7. h3 c6 8. g5 f5 9. gxf6 gxf6 10. h4 h5 11. b3 f5 12. Ne5 f4 13. exf4 Nh6 14. Qxh5+ Kf8 15. Ng6+ Ke8 16. Nxh8+ Nf7 17. Qxf7# 1-0

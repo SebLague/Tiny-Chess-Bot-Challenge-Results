@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "58"]
+[White "Phoenix Chess (by: Mat(t)hias)"]
+[Black "MattWBot (by: Matt W)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. Nc3 d5 3. h4 a6 4. Nd4 e5 5. Nf3 d4 6. Nxe5 Be6 7. Na4 b5 8. c3 c5 9. cxd4 cxd4 10. g4 Qd5 11. Nb6 Qxh1 12. Nxa8 Qxa8 13. g5 Qe4 14. Nd3 Nd5 15. h5 Be7 16. h6 O-O 17. b3 Bxg5 18. Nc5 Qh1 19. Nxe6 fxe6 20. hxg7 Rxf2 21. Kxf2 Bh4# 0-1

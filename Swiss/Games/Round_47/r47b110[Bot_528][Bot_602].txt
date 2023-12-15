@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "46"]
+[White "farindk (by: Dirk Farin)"]
+[Black "Itty Bitty Botty (by: Connor Cahoon)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 Na6 2. e4 Rb8 3. d4 Ra8 4. d5 Rb8 5. Qd4 Ra8 6. Nf3 Nb8 7. a4 Na6 8. Bb5 Nb8 9. Bg5 Na6 10. d6 cxd6 11. Bd3 Nc5 12. Bc4 Qc7 13. Nd5 Qa5+ 14. b4 Qxa4 15. Rxa4 Nxa4 16. Nc7+ Kd8 17. Nxa8 h5 18. Qxd6 f5 19. Bf7 b5 20. Qc7# 1-0

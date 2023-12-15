@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "21"]
+[White "mini_yoda (by: Dane Smith)"]
+[Black "MattWBot (by: Matt W)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f4 b6 2. Nc3 Ba6 3. e4 Bxf1 4. Kxf1 Nc6 5. d4 e6 6. d5 exd5 7. exd5 Nce7 8. d6 cxd6 9. Qe2 Nf6 10. Ne4 Rb8 11. Nxd6# 1-0

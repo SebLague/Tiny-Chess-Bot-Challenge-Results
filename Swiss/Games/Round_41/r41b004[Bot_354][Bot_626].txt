@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "40"]
+[White "FomBot (by: fominvic81)"]
+[Black "drip leab (by: JeffLegendPower)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. e5 Qe7 8. Qe2 Nd5 9. Bd2 Nxc3 10. bxc3 Ba3 11. Rb1 O-O 12. Bf4 Re8 13. Bg3 Qc5 14. Qc4 d6 15. Qxc5 Bxc5 16. Bd3 dxe5 17. Be4 Bd7 18. O-O f5 19. Rbd1 Bd6 20. Bd3 f4 21. Bh4 e4 22. Be2 Re5 23. f3 e3 24. Be1 Bf5 25. Rc1 Ra5 26. Bc4+ Kh8 27. h3 Re8 28. Kh2 Ba3 29. Rb1 Bxc2 30. Rb7 Bd6 31. Bh4 Bg6 32. Rc1 Ra3 33. g4 fxg3+ 34. Bxg3 e2 35. Bxd6 Rxc3 36. Re1 cxd6 37. Ba6 Ra3 38. Bc4 d5 39. Bb3 d4 40. Kg1 d3 41. Rd7 a5 42. Bc4 Rc3 43. Ba6 a4 44. Rd6 a3 45. h4 h5 46. Bb7 Rc2 47. Ba6 d2 48. Rxe2 Rc1+ 49. Kg2 d1=Q 50. Rxd1 Rxd1 51. Rf2 Kh7 52. Kg3 Ree1 53. Rg2 c5 54. Kf2 Rd2+ 55. Kg3 Rxg2+ 56. Kxg2 Rc1 57. Kg3 c4 58. Kf4 c3 59. Bc4 Rb1 60. Bb3 Rxb3 61. axb3 c2 62. Kg3 c1=Q 63. b4 a2 64. b5 a1=Q 65. Kh3 Qg1 66. f4 Bf5# 0-1

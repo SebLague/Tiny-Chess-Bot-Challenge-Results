@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "7"]
+[White "Shenanigator (by: Gary Wawn)"]
+[Black "BetterThanRandom (by: Frederik)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 h5 2. Nc3 f6 3. Be2 a6 4. Bxh5+ Rxh5 5. Qxh5+ g6 6. Qxg6# 1-0

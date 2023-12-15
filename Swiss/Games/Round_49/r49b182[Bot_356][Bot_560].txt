@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "48"]
+[White "AlaskaBot (by: Arttu Halonen)"]
+[Black "MiaKBotv4.4 (by: Mia Kellett)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nc6 2. d4 Nf6 3. d5 Nb4 4. Nc3 Rb8 5. Nd4 Ra8 6. e4 Rb8 7. Bd2 Ra8 8. Be2 Rb8 9. f4 Ra8 10. g4 Rb8 11. g5 Ng8 12. e5 Ra8 13. f5 Rb8 14. a4 Ra8 15. a5 Rb8 16. h4 Ra8 17. b3 Rb8 18. h5 Ra8 19. a6 Rb8 20. axb7 Rxb7 21. h6 d6 22. Bb5+ c6 23. dxc6 Rc7 24. Ne4 dxe5 25. Bd3 Qxd4 26. f6 Rxc6 27. Bxb4 Qxb4+ 28. c3 Qb6 29. fxe7 Qe3+ 30. Kf1 Qf4+ 31. Ke1 Qe3+ 32. Be2 Qxe4 33. Qd8# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "55"]
+[White "Aggrobot (by: CHECKERCE)"]
+[Black "ONE MOVE TO RULE THEM ALL (by: b4ux1t3)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. b3 h5 2. g4 hxg4 3. Bb2 Rh4 4. Bxg7 Bxg7 5. Qc1 Bxa1 6. Kd1 Bb2 7. Qxb2 Nh6 8. Kc1 b6 9. Kd1 Na6 10. Kc1 Ng8 11. Kd1 Rh7 12. Kc1 Rg7 13. Qxg7 Nh6 14. Qxh6 b5 15. Qxa6 Bxa6 16. Bh3 gxh3 17. Nxh3 f6 18. Ng5 fxg5 19. a4 bxa4 20. bxa4 Bxe2 21. Rd1 Bxd1 22. Kxd1 g4 23. f3 gxf3 24. a5 e6 25. h4 Qxh4 26. c4 Qxc4 27. Nc3 Qf1+ 28. Kc2 Rd8 29. Nb1 Qc4+ 30. Nc3 f2 31. Kb1 Qb3+ 32. Ka1 f1=Q+ 33. Nb1 Qfxb1# 0-1

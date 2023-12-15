@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "23"]
+[White "Marreco (by: Tutz)"]
+[Black "Game Tech Explained Bot (by: Game Tech Explained)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 Nf6 2. d4 d5 3. Bf4 Bf5 4. e3 Nc6 5. Nf3 Ne4 6. Qd3 Nxf2 7. Qxf5 e6 8. Qh5 Nxh1 9. Bd3 g6 10. Qh3 Be7 11. Ke2 g5 12. Be5 f6 13. Bxc7 Qxc7 14. Qxe6 Ng3+ 15. hxg3 Qxg3 16. Rg1 g4 17. Nd2 Qh2 18. Rf1 Nb4 19. Bb5+ Kf8 20. a3 Qxg2+ 21. Rf2 Qg1 22. axb4 g3 23. Rxf6+ Bxf6 24. Qxf6+ Kg8 25. Nxd5 Qf2+ 26. Kd3 Qxf6 27. Nxf6+ Kf7 28. Nde4 g2 29. Bc4+ Kg7 30. Nh5+ Kh6 31. Nhg3 g1=Q 32. Nf5+ Kh5 33. Kc3 Kg4 34. Nh6+ Kf3 35. Nd2+ Kxe3 36. Nf7 Qe1 37. Nxh8 Qxd2+ 38. Kb3 Rxh8 39. Bd3 Kxd4 40. Bf5 h5 41. Be6 h4 42. c3+ Ke5 43. Bf7 Qf2 44. Bc4 h3 45. Bd5 Kxd5 46. c4+ Ke4 47. Ka3 h2 48. Kb3 h1=Q 49. c5 Qb1 50. Ka3 Qfc2 51. b3 Qbxb3# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "21"]
+[White "The Seeker (by: Lucas Pellegrinelli)"]
+[Black "PlinkBot (by: superplink)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c3 Nc6 2. b4 a5 3. b5 Ne5 4. d4 Ng6 5. e4 Nf6 6. e5 Nd5 7. Bd3 Ndf4 8. Be4 d5 9. exd6 cxd6 10. Bxf4 Nxf4 11. Qf3 e5 12. Bxb7 Bxb7 13. Qxb7 Rc8 14. Qf3 Be7 15. Qg3 O-O 16. Nh3 Nxh3 17. gxh3 exd4 18. Rg1 Bf6 19. Qg2 dxc3 20. Na3 c2 21. Rc1 Qe8+ 22. Kf1 Rc3 23. Rxc2 Rxa3 24. Qd5 Rxh3 25. Re2 Qd7 26. Rh1 Rb8 27. Re3 Rxe3 28. fxe3 Qxb5+ 29. Qxb5 Rxb5 30. Kf2 Rb2+ 31. Kf3 Rxa2 32. Rc1 h6 33. Rc8+ Kh7 34. h3 Rh2 35. Kg4 Rg2+ 36. Kf3 Rd2 37. Rf8 Kg6 38. Ra8 Bc3 39. e4 Rh2 40. Rc8 Rxh3+ 41. Ke2 Rh2+ 42. Kd1 Rh1+ 43. Kc2 Bd4 44. Kd3 Rd1+ 45. Ke2 Rb1 46. Rc2 Bc5 47. Ra2 Bb6 48. Rd2 Bc7 49. Rc2 Bd8 50. Rc6 Rb6 51. Rxb6 Bxb6 52. Kd1 Kh7 53. Kc1 Kg8 54. Kd1 a4 55. Kc1 Bd4 56. Kb1 Bc5 57. Kc1 a3 58. Kb1 Bd4 59. Ka2 Bb2 60. Kb1 Bc3 61. Ka2 Bb4 62. Kb3 Bc5 63. Ka2 Kh7 64. Kb1 g6 65. Ka1 Kh8 66. Kb1 Kg7 67. Kc2 Kh7 68. Kb1 Kh8 69. Ka1 Kg7 70. Kb1 Kf8 71. Ka1 Bb4 72. Kb1 Kg8 73. Ka1 Bc3+ 74. Kb1 Bd4 75. Ka2 Bb2 76. Kb1 Kg7 77. Kc2 Kh7 78. Kb1 Kg8 79. Kc2 Bd4 80. Kb1 f5 81. exf5 gxf5 82. Ka2 Bb2 83. Kb1 f4 84. Ka2 f3 85. Kb1 f2 86. Ka2 d5 87. Kb1 f1=Q+ 88. Ka2 Kf7 89. Kb3 Qc4# 0-1

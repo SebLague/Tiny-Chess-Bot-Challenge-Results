@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Knockout 32"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "Cosmos (by: Gonumen)"]
+[Black "TinyHugeBot (by: Popax21 & atpx8)"]
+[Result "1-0"]
+[TimeControl "30+0.1"]
+[Termination "Checkmate"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Be7 4. Nc3 Nf6 5. Bf4 b6 6. Nb5 Bb4+ 7. Nd2 O-O 8. a3 Bd6 9. Nxd6 cxd6 10. e3 Bb7 11. cxd5 Nxd5 12. Bg3 Nf6 13. Rc1 a6 14. Nf3 Nc6 15. Bd3 e5 16. dxe5 dxe5 17. Nxe5 Nxe5 18. Bxe5 Qd5 19. Bxf6 gxf6 20. e4 Qa5+ 21. Rc3 Rfc8 22. Qg4+ Kf8 23. b4 Qe5 24. Rxc8+ Bxc8 25. Qd1 Qc3+ 26. Ke2 Qxa3 27. Qd2 Bg4+ 28. f3 Be6 29. Qh6+ Ke7 30. Rc1 Rd8 31. Rc7+ Rd7 32. Rxd7+ Bxd7 33. Qxh7 Qxb4 34. g3 Qb2+ 35. Kf1 Qd4 36. Ke2 Bb5 37. Bxb5 axb5 38. Qh6 Qc4+ 39. Ke1 b4 40. Qd2 b3 41. h4 Qb5 42. Qb2 Qd3 43. Qa3+ Ke6 44. Qb4 b5 45. Qd2 Qxf3 46. Qd5+ Ke7 47. Qc5+ Kd8 48. Kd2 Qxg3 49. Qf8+ Kc7 50. Qxf7+ Kb8 51. Qe8+ Ka7 52. Qf7+ Ka8 53. Qe8+ Kb7 54. Qf7+ Kc8 55. Qf8+ Kc7 56. Qe7+ Kb6 57. Qxf6+ Kb7 58. Qf7+ Ka6 59. Qf6+ Ka7 60. Qe7+ Ka8 61. Qe8+ Ka7 62. Qf7+ Ka6 63. Qf6+ Ka5 64. Qa1+ Kb4 65. Qd4+ Ka5 66. Qa1+ Kb4 67. Qd4+ Ka5 68. Qc3+ Qxc3+ 69. Kxc3 Ka4 70. Kb2 Kb4 71. h5 Kc5 72. h6 Kd4 73. e5 Kxe5 74. h7 Ke4 75. h8=Q b4 76. Kxb3 Kf3 77. Qh4 Ke3 78. Qf6 Ke4 79. Kxb4 Kd5 80. Kb5 Ke4 81. Kc5 Ke3 82. Qf5 Kd2 83. Qf2+ Kd3 84. Qf3+ Kc2 85. Kc4 Kb1 86. Qd1+ Kb2 87. Qe2+ Kc1 88. Kb3 Kb1 89. Qf1# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "11"]
+[White "FloppyChess 4.2 (by: Omsk)"]
+[Black "Rigel (by: Antares (Github: Alex2262))"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 dxc6 7. Qxd8+ Kxd8 8. Bg5 h6 9. O-O-O Ke7 10. Bh4 Bd6 11. Re1 Bf4+ 12. Kb1 g5 13. Bg3 Be6 14. Bxf4 gxf4 15. f3 Rhg8 16. Ne2 Nh5 17. Rg1 Rad8 18. Kc1 a5 19. Nc3 b5 20. e5 b4 21. Ne4 Rd5 22. Nf2 Rg5 23. Nd3 Rd4 24. a3 bxa3 25. bxa3 Rc4 26. Kb2 Rg8 27. Nb4 axb4 28. Bxc4 Bxc4 29. axb4 Bd5 30. Kc3 Rd8 31. Rd1 Ke6 32. Rge1 Rg8 33. Re2 Ng7 34. Rd4 Kf5 35. Rdd2 Re8 36. Kd3 Ra8 37. c3 Kg5 38. Rf2 Nf5 39. Rfe2 Ne3 40. Kd4 Rd8 41. Rf2 Kf5 42. Kc5 Re8 43. e6 Rxe6 44. g4+ Kg5 45. Rde2 Re5 46. Kd4 f6 47. c4 Nxc4 48. Rc2 Nd6 49. h4+ Kxh4 50. Rh2+ Kg5 51. Rh5+ Kg6 52. Rxe5 Nb5+ 53. Kd3 fxe5 54. Re2 Bxf3 55. Rxe5 Bxg4 56. Re1 Kg5 57. Rc1 Bf3 58. Rg1+ Kf5 59. Rg7 Bd5 60. Rd7 h5 61. Rh7 Kg6 62. Rh8 Kg5 63. Rh7 h4 64. Rg7+ Kf5 65. Rh7 Kg4 66. Kd2 f3 67. Ke3 Nc3 68. Rg7+ Kf5 69. Rg1 h3 70. Rc1 h2 71. Rh1 f2 72. Kxf2 Bxh1 73. Kg3 Be4 74. Kxh2 Nd5 75. Kg3 Nxb4 76. Kh4 c5 77. Kg3 c4 78. Kh4 c3 79. Kh3 c2 80. Kh4 c1=Q 81. Kg3 Qe3+ 82. Kh2 Qf3 83. Kg1 Qg2# 0-1

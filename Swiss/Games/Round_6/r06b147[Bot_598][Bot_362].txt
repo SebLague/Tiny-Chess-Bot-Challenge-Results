@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "5"]
+[White "WingBot (by: Benjamin Iserman)"]
+[Black "nimbot (by: )"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 h6 2. Bc4 g6 3. Qf3 Rh7 4. Na3 e6 5. Nh3 g5 6. b3 Rg7 7. c3 g4 8. O-O gxf3 9. d3 fxg2 10. Rd1 Qh4 11. Rb1 Bd6 12. Ra1 Qxh3 13. Rb1 Bxh2# 0-1

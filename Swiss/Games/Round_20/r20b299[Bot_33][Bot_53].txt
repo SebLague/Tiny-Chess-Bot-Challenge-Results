@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "19"]
+[White "BalanceBot (by: vuT)"]
+[Black "Aggrobot (by: CHECKERCE)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. h3 h6 2. h4 g5 3. h5 c5 4. g4 f5 5. f4 fxg4 6. f5 e6 7. f6 Qxf6 8. Rh4 gxh4 9. e4 Qxf1+ 10. Kxf1 Ke7 11. Kg2 Kd6 12. Qe2 Ke5 13. Qd3 Kf4 14. Qb5 Kxe4 15. Qxc5 Bxc5 16. Nh3 gxh3+ 17. Kh2 Kf3 18. Kxh3 Ke2 19. Nc3+ Ke1 20. Kxh4 Ba3 21. bxa3 b5 22. Nxb5 Kd1 23. Nd6 Kxc2 24. Ne4 Nf6 25. Ng3 Nxh5 26. d4 Nxg3 27. Bf4 Kb2 28. Rd1 Kxa2 29. Kh3 Kxa3 30. Kh2 Ka2 31. Rd3 Ka1 32. Kh3 Kb1 33. Rc3 Ka1 34. Re3 Kb1 35. Rc3 Ka1 36. Re3 Kb1 37. Rc3 1/2-1/2

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "56"]
+[White "roboleon v4.1 bugfixed (by: CLEC)"]
+[Black "Respect (by: Noah)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 b6 2. Nc3 a6 3. e4 b5 4. a4 b4 5. Nd5 a5 6. d4 c6 7. Nf4 d6 8. Qd3 c5 9. dxc5 dxc5 10. Qxd8+ Kxd8 11. Ne5 Nh6 12. Be3 e6 13. O-O-O Kc7 14. Nfd3 f6 15. Nc4 Ng4 16. Bxc5 Bxc5 17. Nxc5 Nxf2 18. Rg1 Nxd1 19. Kxd1 e5 20. Kc1 g6 21. Kb1 g5 22. Bd3 h5 23. Ne3 g4 24. Nd5+ Kd6 25. Nb6 Ra7 26. Nxc8+ Rxc8 27. Nb3 Nc6 28. Rf1 Rf8 29. Bb5 h4 30. Rd1+ Kc7 31. Bc4 f5 32. exf5 Rxf5 33. Be6 Rf4 34. Rd7+ Kb8 35. Rxa7 Kxa7 36. Bd5 Nd4 37. Nxd4 exd4 38. Be6 Rf1+ 39. Ka2 Rg1 40. c3 dxc3 41. bxc3 g3 42. hxg3 bxc3 43. Kb3 c2 44. Kxc2 Rxg2+ 45. Kc1 Re2 46. Bg4 hxg3 47. Bh3 g2 48. Bxg2 Rxg2 49. Kb1 Re2 50. Ka1 Rc2 51. Kb1 Rf2 52. Ka1 Rd2 53. Kb1 Rh2 54. Ka1 Re2 55. Kb1 Rg2 56. Ka1 Rf2 57. Kb1 Rf4 58. Kc2 Rxa4 59. Kb3 Rd4 60. Kc3 Rb4 61. Kd2 a4 62. Kc3 Rb7 63. Kc2 a3 64. Kd2 Rb1 65. Kd3 a2 66. Ke3 Ra1 67. Kd2 Rg1 68. Ke3 Rb1 69. Kf3 Ra1 70. Ke4 Rd1 71. Kf3 Rc1 72. Kg3 Ra1 73. Kf2 Rh1 74. Kg3 Rc1 75. Kh3 Rg1 76. Kh4 a1=Q 77. Kh5 Qh8# 0-1

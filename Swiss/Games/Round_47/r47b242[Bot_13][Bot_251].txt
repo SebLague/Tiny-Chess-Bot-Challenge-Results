@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "46"]
+[White "ScholarsBot (by: magic216)"]
+[Black "The Red Crayon (by: Daniel L.)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Bc4 Qf6 3. Qh5 Bc5 4. Qxf7+ Kd8 5. c3 Bxf2+ 6. Kf1 Qxf7 7. Ke2 Qxc4+ 8. Kxf2 Ke7 9. Nh3 Qxe4 10. Rg1 Nf6 11. Kf1 Qd3+ 12. Ke1 Ng4 13. Rf1 Kd6 14. Rh1 Kc5 15. Ng5 Kc4 16. Nf7 Kb5 17. a3 Ka4 18. Ng5 Kb3 19. Nxh7 Kc2 20. g3 Kxc1 21. Rf1 Kxb2 22. Rh1 Kxa1 23. c4 Kxb1 24. Kd1 Ka1 25. Ng5 Nf2+ 26. Kc1 Ka2 27. Nf3 Qxc4# 0-1

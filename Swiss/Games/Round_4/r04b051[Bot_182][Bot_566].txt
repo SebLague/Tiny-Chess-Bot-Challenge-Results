@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "3"]
+[White "tybot (by: Tylyr1)"]
+[Black "LazyBot (by: Tim de Jong)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 d5 2. Qf3 e6 3. Qf4 Bd7 4. Qg3 Bd6 5. Qxg7 Qf6 6. Qxf6 Nxf6 7. c4 O-O 8. h3 dxc4 9. Bxc4 Bc6 10. Bf1 Nbd7 11. h4 e5 12. Rh3 e4 13. Bc4 Ne5 14. Be2 Nd3+ 15. Bxd3 exd3 16. f4 Kh8 17. Rg3 Rg8 18. Rxg8+ Rxg8 19. Nc3 Rxg2 20. Nh3 Ng4 21. Ng5 Rg1# 0-1

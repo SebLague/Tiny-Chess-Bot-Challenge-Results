@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "48"]
+[White "RigidBot (by: Mathias Elgaard)"]
+[Black "Turochamp (Modern) (by: P Rivero)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. d4 e6 3. Nf3 d5 4. e5 h5 5. Bd2 Nh6 6. Nc3 Bb4 7. Bb5 O-O 8. Bxc6 bxc6 9. O-O Ba6 10. Re1 Bxc3 11. Bxc3 Rb8 12. Qd2 Nf5 13. Bb4 Re8 14. Qc3 Qd7 15. Bc5 Kh7 16. Bxa7 Ra8 17. Bc5 Rh8 18. a4 g6 19. Bb4 Rhg8 20. a5 g5 21. Nd2 g4 22. Nb3 Bc4 23. Nc5 Qd8 24. Red1 Be2 25. Rdb1 Bb5 26. a6 Qg5 27. Nd7 Kg6 28. Nf6 Rh8 29. a7 Qf4 30. Bc5 h4 31. Ra3 Bc4 32. g3 hxg3 33. fxg3 Qh6 34. Nxg4 Qh3 35. Qf3 Kg5 36. Qf4+ Kg6 37. Re1 Rae8 38. Bb4 Ra8 39. Bc3 Rh5 40. b3 Bb5 41. Bd2 Nh6 42. Qf6+ Kh7 43. Bxh6 Qxg4 44. Be3 Kg8 45. b4 Rf5 46. Qe7 Qh3 47. Bf4 Rh5 48. g4 Qh4 49. Qxh4 Rxh4 50. h3 Rh8 51. Rea1 Kh7 52. h4 Be2 53. Rg3 Bc4 54. h5 Rhg8 55. h6 Be2 56. g5 Rg6 57. Bd2 Rgg8 58. Rc3 Bc4 59. Rf3 Kg6 60. Rf6+ Kh7 61. Rxf7+ Kh8 62. Rxc7 Bb5 63. Re7 Rg6 64. Kh2 Bc4 65. Ra3 Rgg8 66. Kg2 Rgf8 67. g6 Rf5 68. Rxe6 Bf1+ 69. Kg3 Rh5 70. Re8+ Rxe8 71. a8=Q Rh3+ 72. Kg4 Be2+ 73. Kxh3 Bf1+ 74. Kh2 Rg8 75. Ra7 Rxa8 76. Rxa8# 1-0

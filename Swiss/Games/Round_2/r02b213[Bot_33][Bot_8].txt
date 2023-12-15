@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "BalanceBot (by: vuT)"]
+[Black "ScaredyBot (by: Jacob Sweeten)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. h3 Nc6 2. Nf3 Nf6 3. Ng5 b6 4. h4 g6 5. h5 Nxh5 6. Nxf7 Kxf7 7. Rh4 Ke6 8. Nc3 Ke5 9. Nd5 Kxd5 10. Rb1 Kc5 11. g4 Kb4 12. Bh3 Ka4 13. Kf1 Kb4 14. Kg2 Ka4 15. Qe1 Kb4 16. Rxh5 g5 17. f3 Ka4 18. Qf1 Kb4 19. Kf2 Ka4 20. Qg1 Kb4 21. Qf1 Ka4 22. Qg1 Kb4 23. Qf1 1/2-1/2

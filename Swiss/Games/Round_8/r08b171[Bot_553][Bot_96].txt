@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "7"]
+[White "Jack (by: Antonio P)"]
+[Black "Chess Bot (by: M)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 e6 2. d5 exd5 3. Qxd5 Ne7 4. Qd1 Nf5 5. Qd3 d5 6. Qb5+ c6 7. Qa4 Bd6 8. Kd1 b5 9. Qb3 Be6 10. Ke1 Nd7 11. Qc3 Be5 12. Qxc6 Nd4 13. Bg5 Qxg5 14. f4 Qh4+ 15. g3 Nxc6 16. gxh4 Bxb2 17. a4 Bxa1 18. axb5 Bf6 19. bxc6 Rb8 20. cxd7+ Kxd7 21. Nd2 Rb4 22. h5 Bc3 23. Nf3 Rxf4 24. Ng5 Rd4 25. Nf3 Ra4 26. e3 a6 27. Ng5 Ra1+ 28. Kf2 Bxd2 29. Bb5+ axb5 30. Rxa1 Bf5 31. Ra7+ Kc6 32. Ra6+ Kc5 33. Ke2 Bc3 34. Kd1 Bg4+ 35. Kc1 Bxh5 36. Ra2 Bf6 37. h4 h6 38. Nh3 Bf3 39. Ra7 Be5 40. Nf2 Be2 41. Nd3+ Bxd3 42. cxd3 Kb6 43. Rxf7 Rc8+ 44. Kd1 Ra8 45. Kc1 Ra1+ 46. Kc2 Ra2+ 47. Kb1 Rb2+ 48. Kc1 Re2 49. Re7 Bc3 50. h5 Rh2 51. Kb1 Rxh5 52. Re6+ Kc7 53. Re7+ Kd8 54. Rb7 b4 55. Rb8+ Kc7 56. Rb5 Kc6 57. Ra5 b3 58. Ra6+ Kb7 59. Kc1 Rh1# 0-1

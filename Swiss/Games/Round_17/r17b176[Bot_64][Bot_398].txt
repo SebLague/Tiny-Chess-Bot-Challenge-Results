@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "16"]
+[White "offtensive Crane (by: Joao Santos)"]
+[Black "ChessGPT (by: DeepGoldenCrown)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g3 g5 2. g4 b5 3. f3 a6 4. e3 f5 5. gxf5 Kf7 6. e4 Kg7 7. e5 c6 8. d3 Nf6 9. exf6+ Kxf6 10. d4 Kxf5 11. c3 a5 12. b3 a4 13. b4 a3 14. Bh3+ Kg6 15. Kd2 d6 16. Bf1 Qe8 17. Ke2 g4 18. fxg4 Kf6 19. g5+ Kg6 20. Kd2 Kxg5 21. Ke2+ Kf6 22. Qd2 Kf7 23. Qf4+ Kg8 24. Kd2 d5 25. Ke2 Kg7 26. Bd2 Be6 27. Ke3 Qh5 28. Qg3+ Bg4 29. Kf2 Kf6 30. Qf4+ Bf5 31. Nxa3 Rxa3 32. Qxb8 Ke6 33. Re1+ Kd7 34. c4 Rxa2 35. cxd5 Rb2 36. dxc6+ Kxc6 37. Bxb5+ Kd5 38. Qe5# 1-0

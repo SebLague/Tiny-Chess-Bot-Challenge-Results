@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "ThinkerBot5000 (by: Bear)"]
+[Black "DareWitch (by: mdrwsh)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 Nc6 2. g4 Nf6 3. e4 Nxg4 4. Qxg4 f5 5. exf5 a6 6. Qh5+ g6 7. fxg6 Bg7 8. gxh7+ Kf8 9. Qf5+ Ke8 10. f4 Bxb2 11. Qg6+ Kf8 12. Bxb2 Rg8 13. hxg8=R# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "4"]
+[White "Mulch Winnums (by: Feeding Plants)"]
+[Black "simple chess bot (by: 4a0I)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 e6 2. e4 Qf6 3. Nc3 Nc6 4. d4 Bb4 5. Bc4 Bxc3+ 6. bxc3 Qg6 7. O-O Qxe4 8. Re1 Qg4 9. h3 Qf5 10. d5 Nb8 11. Re5 Qg6 12. Bd3 f5 13. Bxf5 Qf7 14. Ng5 Qf6 15. Bf4 d6 16. Rxe6+ Bxe6 17. Nxe6 Kd7 18. Qd3 Nh6 19. Bxh7 Na6 20. Bg5 Qf7 21. Bg6 Qg8 22. Qd4 Nf7 23. Qg4 Nxg5 24. Nc5+ Ke7 25. Qxg5+ Kf8 26. Nd7# 1-0

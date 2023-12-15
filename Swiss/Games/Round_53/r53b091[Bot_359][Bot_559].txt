@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "52"]
+[White "FENcer (by: Shlynz)"]
+[Black "Chark Bot V2 (by: Team Chark)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 e6 2. Nc3 Qf6 3. e3 c6 4. Bd3 Bb4 5. Ne4 Qh6 6. Ke2 d5 7. Ng3 Bd6 8. e4 Bc7 9. exd5 exd5 10. Bf5 Bxf5 11. Nxf5 Qe6+ 12. Ne3 Bf4 13. Qg1 Ne7 14. g3 Bxe3 15. dxe3 Qg4 16. Bd2 Nd7 17. Bc3 Nf5 18. h3 Qe4 19. Qc1 d4 20. Nxd4 Nxd4+ 21. Bxd4 Qd5 22. Bxg7 Rg8 23. Bd4 Kd8 24. Qe1 Kc7 25. Rh2 Qxd4 26. exd4 Rae8+ 27. Kd2 Rxe1 28. Rxe1 Kd6 29. Re2 Nb6 30. Kc1 a5 31. Re3 Nc4 32. Rc3 Re8 33. Rxc4 b5 34. Rc3 Re1+ 35. Kd2 Ra1 36. Rf3 Rxa2 37. Rxf7 h5 38. Kc3 Ke6 39. Rh7 h4 40. Rh6+ Ke7 41. gxh4 Ra1 42. Rxc6 Rb1 43. Rc5 b4+ 44. Kb3 a4+ 45. Ka2 Rc1 46. Rc7+ Ke6 47. Rb7 Rxc2 48. Rxb4 Kd5 49. Rg2 Rc4 50. Rg5+ Kxd4 51. Rg4+ Kd3 52. Rbxc4 Ke2 53. Ka3 Kxf2 54. Rc7 Ke1 55. Rc3 Kd2 56. Rg2+ Kd1 57. Kxa4 Ke1 58. Rc1# 1-0

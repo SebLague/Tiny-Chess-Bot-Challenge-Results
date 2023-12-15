@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "9"]
+[White "TeacherBot (by: qumquat)"]
+[Black "DumBot (by: Viruj)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 c5 2. Bc4 d6 3. Qh5 Bd7 4. Qxf7# 1-0

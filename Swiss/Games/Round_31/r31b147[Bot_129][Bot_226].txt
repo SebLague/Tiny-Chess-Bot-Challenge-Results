@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "30"]
+[White "Chemibot (by: Mike Chemi)"]
+[Black "Bob (by: Evan Leach)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g4 Nf6 2. g5 Ng8 3. e3 h6 4. Qh5 g6 5. Qf3 hxg5 6. Qd5 e6 7. Qa5 Nc6 8. Qa4 Rb8 9. b3 b5 10. Qe4 Bc5 11. c3 Nb4 12. cxb4 Qf6 13. bxc5 Qxa1 14. b4 Bb7 15. c6 Bxc6 16. f3 Bxe4 17. fxe4 Qxb1 18. Ne2 Rh5 19. e5 Rb6 20. a3 Ra6 21. d4 Rxa3 22. Kf2 Ra2 23. Kg1 Rxe2 24. Bxe2 Qxc1+ 25. Kg2 Qc2 26. Re1 Qd2 27. e4 Rh4 28. h3 Qxe1 29. Bxb5 Rf4 30. Bxd7+ Kxd7 31. b5 Kd8 32. h4 Qxh4 33. b6 axb6 34. d5 exd5 35. exd5 Kc8 36. d6 Rf2+ 37. Kg1 Qh2# 0-1

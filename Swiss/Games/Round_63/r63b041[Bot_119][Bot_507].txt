@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "62"]
+[White "kesslbot (by: kesslwovv)"]
+[Black "Mini Lapdok (by: Lapdok)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe6+ 4. Be2 Bd7 5. d4 Nf6 6. Nf3 Bc6 7. O-O Nbd7 8. Bf4 Rc8 9. Rc1 Qg4 10. Bg3 a5 11. d5 Bxd5 12. Nxd5 c6 13. Nc7+ Rxc7 14. Bxc7 Qa4 15. Qd2 b6 16. Qd3 Qxa2 17. Qa6 e5 18. Qc8+ Ke7 19. Ng5 Qa1 20. Qd8# 1-0

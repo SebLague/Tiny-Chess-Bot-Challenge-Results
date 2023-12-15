@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "47"]
+[White "Chessinator 3000 (by: )"]
+[Black "AlphaBetaZero (by: MV974)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Qf3 Nf6 3. Nc3 e6 4. a3 Be7 5. Nh3 O-O 6. b4 e5 7. Nd5 Bd6 8. Bb2 Nxd5 9. exd5 Nd4 10. Bxd4 exd4 11. O-O-O Re8 12. g3 a5 13. Bb5 axb4 14. Rde1 bxa3 15. Rxe8+ Qxe8 16. Kb1 a2+ 17. Ka1 Qe5 18. Bd3 Ra4 19. Rg1 c6 20. Qf5 Qxf5 21. Bxf5 g6 22. Be4 f5 23. Bg2 c5 24. Re1 Kf8 25. Ng5 h6 26. Nf3 b5 27. h4 Bb7 28. Ne5 Bxe5 29. Rxe5 Rc4 30. Kxa2 Rxc2+ 31. Kb3 Rxd2 32. Bf1 d6 33. Re1 Bxd5+ 34. Bc4 Bxc4+ 35. Ka3 Ra2# 0-1

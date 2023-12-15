@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "55"]
+[White "Bob (Looser) (by: Flo)"]
+[Black "DeepScaredyBot (by: Jacob Sweeten)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f4 a6 2. h4 Ra7 3. Nc3 Ra8 4. Na4 g5 5. e3 b5 6. Nb6 gxf4 7. Ne2 Ra7 8. Nd5 Rb7 9. Nec3 e5 10. e4 Rb6 11. Kf2 Ba3 12. Qe2 Kf8 13. Nb1 Kg7 14. Rg1 Kg6 15. Qd1 Kh6 16. d4 Rg6 17. Nf6 Rxg2+ 18. Ke1 Kg7 19. Be3 Kg6 20. Bxf4 Kg7 21. b3 Kg6 22. Bh6 Rxg1 23. Ng4 Kh5 24. Qe2 Rxf1+ 25. Kxf1 Qg5 26. Nf2+ Kxh4 27. Qh5+ Kg3 28. Qxg5+ Kf3 29. Nd2# 1-0

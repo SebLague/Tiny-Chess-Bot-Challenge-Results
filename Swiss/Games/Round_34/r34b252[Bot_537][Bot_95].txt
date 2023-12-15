@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "33"]
+[White "InfuehrDaniel MCTS (by: Daniel Infuehr)"]
+[Black "Two Day Bot (by: )"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. e3 Nh6 2. Qh5 g6 3. Bd3 gxh5 4. Ba6 Nxa6 5. e4 c5 6. Nf3 Qc7 7. Kd1 c4 8. d4 Ng4 9. b3 Nxf2+ 10. Kd2 Nxh1 11. g3 cxb3 12. axb3 Bh6+ 13. Kd1 Bxc1 14. Kxc1 Nb4 0-1

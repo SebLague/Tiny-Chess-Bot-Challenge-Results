@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "56"]
+[White "Cheriny (by: bombard1004)"]
+[Black "Buildabot (by: Buildasaurus)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. d4 exd4 5. Nxd4 Bb4 6. Bg5 Qe7 7. f3 Qe5 8. Be3 d5 9. Bb5 Bxc3+ 10. bxc3 Bd7 11. Nxc6 bxc6 12. Bd4 Qg5 13. Ba4 Qxg2 14. Rg1 Qxh2 15. Rxg7 Qh4+ 16. Kf1 dxe4 17. Kg1 O-O-O 18. fxe4 Rhg8 19. Rxg8 Rxg8+ 20. Kf1 Bh3+ 21. Ke2 Bg4+ 22. Kf1 Qh1+ 23. Kf2 Bxd1 24. Rxd1 Rg2+ 25. Ke3 Qh3+ 26. Kf4 Qg4+ 27. Ke3 Qxe4# 0-1

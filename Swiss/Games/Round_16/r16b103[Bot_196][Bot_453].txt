@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "15"]
+[White "ChessButt2 (by: Matt Suhay)"]
+[Black "Chessica (by: Nicky Kitchingman)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 a6 2. Nc3 a5 3. Nf3 a4 4. Qd3 b6 5. Bf4 d6 6. e3 d5 7. Nb5 c6 8. Nc7+ Kd7 9. Nxa8 Ke6 10. Nc7+ Kf6 11. Be5# 1-0

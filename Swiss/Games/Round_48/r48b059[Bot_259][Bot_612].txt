@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "47"]
+[White "DarnBot (by: Darn)"]
+[Black "SlowMo (by: Bit!)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. Nc3 e6 3. e3 Bb4 4. Bd2 Bxc3 5. Bxc3 Nd5 6. Bd2 Nc6 7. e4 Nf6 8. Bd3 Nxd4 9. e5 Nd5 10. Qg4 Nf5 11. Bxf5 exf5 12. Qxg7 Rf8 13. Bh6 Qe7 14. O-O-O Nb4 15. Nf3 Qc5 16. c3 Nxa2+ 17. Kb1 Nxc3+ 18. bxc3 Qb5+ 19. Kc2 Qa4+ 20. Kd3 Qb5+ 21. Ke3 Qc5+ 22. Kf4 Qc4+ 23. Rd4 Qc5 24. Rd6 Qc4+ 25. Nd4 Rg8 26. Qxg8+ Ke7 27. Qf8# 1-0

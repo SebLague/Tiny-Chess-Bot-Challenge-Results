@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "7"]
+[White "WingBot (by: Benjamin Iserman)"]
+[Black "Concrete (by: Jewel)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Bc4 Qf6 3. Nc3 Qc6 4. b3 Nh6 5. Nf3 Be7 6. Nxe5 Qf6 7. d4 g5 8. Be3 Bb4 9. Qd3 Be7 10. g3 Bb4 11. h3 Bxc3+ 12. Qxc3 b5 13. Bxb5 c6 14. O-O Bb7 15. Be2 Rg8 16. Bd3 d6 17. Nc4 Ba6 18. a3 Nd7 19. Kg2 d5 20. Nb2 Bxd3 21. Qxd3 Rg6 22. c3 g4 23. a4 Nf5 24. exf5 gxh3+ 25. Kxh3 h6 26. fxg6 Qe5 27. dxe5 a6 28. Bxh6 f6 29. e6 Nc5 30. Kg2 Nxd3 31. Nxd3 f5 32. f3 Rd8 33. b4 Ke7 34. Rae1 Rg8 35. Bg5+ Ke8 36. Nf4 Rg7 37. a5 Rg8 38. Re3 Rg7 39. Kh3 Rb7 40. Kg2 Rg7 41. Kg1 Rg8 42. Kf2 Rg7 43. Ke1 Rg8 44. Kd1 Rg7 45. Kc1 Rg8 46. Kb1 Rg7 47. Ka1 Rg8 48. Ka2 Rg7 49. Ka3 Rg8 50. Kb2 Rg7 51. Kb3 Re7 52. Bxe7 c5 53. Bxc5 Kd8 54. Nxd5 Kc8 55. Nb6+ Kd8 56. Rd1+ Kc7 57. Nd5+ Kb7 58. c4 f4 59. Nxf4 Kc8 60. g4 Kb8 61. Rd8+ Kb7 62. Rd7+ Kc8 63. g5 Kb8 64. Rd8+ Kb7 65. Rd7+ Kc8 66. g7 Kb8 67. g8=Q# 1-0

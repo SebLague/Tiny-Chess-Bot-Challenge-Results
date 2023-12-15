@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "4"]
+[White "Hrustco Bot (by: migrin)"]
+[Black "Elf-1200 (by: Elliot Throop)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Bc5 4. Nxe5 Nxe5 5. d4 Qe7 6. Nd5 Qd6 7. Bf4 Nf6 8. Bxe5 Bb4+ 9. c3 Qf8 10. Nxc7+ Kd8 11. Nxa8 Bd6 12. Bxf6+ gxf6 13. Qa4 Qg7 14. Qxa7 Qg5 15. Qb6+ Ke7 16. Nc7 Rg8 17. Nd5+ Ke6 18. f4 Qh4+ 19. g3 Qh5 20. f5+ Qxf5 21. exf5+ Kxd5 22. Qb5+ Ke4 23. Bg2+ Ke3 24. Qe2# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "40"]
+[White "BOTvinnik (by: Paul Smooth)"]
+[Black "BotThatLikesToPlayChess™ (by: Gary Dale)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. d4 Rb8 3. d5 Nb4 4. Be3 Ra8 5. Bf4 Rb8 6. Bxc7 Qxc7 7. c3 Qf4 8. cxb4 Qxe4+ 9. Be2 Qe3 10. fxe3 Kd8 11. Qa4 Kc7 12. Nd2 b5 13. Rc1+ Kb6 14. Qxb5# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "56"]
+[White "BasicBot (by: Phnx)"]
+[Black "Hippo (by: MonteDegro)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. Nc3 d5 2. e3 Nc6 3. Qf3 Nf6 4. Bb5 Qd6 5. d4 a6 6. Ba4 b5 7. Nxb5 1-0

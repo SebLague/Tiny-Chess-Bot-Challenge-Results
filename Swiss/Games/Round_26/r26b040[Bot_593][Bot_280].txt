@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "25"]
+[White "Guppy (by: Steven He)"]
+[Black "DeltaWeakness (by: Johan Zetterlund)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. d4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 O-O 6. e3 d5 7. Bb2 Nc6 8. Bd3 b6 9. O-O Bb7 10. Qe2 h6 11. c4 Ne4 12. cxd5 exd5 13. Rad1 Qe7 14. c4 dxc4 15. Bxc4 Rad8 16. Qc2 a6 17. Ba2 Ng5 18. Nxg5 hxg5 19. e4 Qe8 20. d5 Na5 21. Qc3 f6 22. d6+ Kh7 23. Qh3+ Kg6 24. d7 Qe7 25. Qf5+ Kh6 26. Be6 g6 27. Qg4 Kg7 28. Rc1 c5 29. h4 gxh4 30. Bf5 Kh8 31. Qxg6 Nb3 32. Qh5+ Kg8 33. Qh8+ Kxh8 34. Rcd1 Bc6 35. Rd3 c4 36. Rh3 Kg8 37. Rxh4 Bxd7 38. Rg4+ Kf7 39. Bg6+ Ke6 40. Rh4 Qd6 41. Bf5+ Ke7 42. Rh7+ Rf7 43. Rh8 Rxh8 44. e5 fxe5 45. Bxd7 Kxd7 46. a4 Rfh7 47. g4 Qd3 48. f3 Rh1+ 49. Kf2 Rxf1+ 50. Kg2 Qxf3# 0-1

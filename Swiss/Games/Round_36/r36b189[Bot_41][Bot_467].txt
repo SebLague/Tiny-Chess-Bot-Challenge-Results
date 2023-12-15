@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "35"]
+[White "RichyRoo (by: devrichgg)"]
+[Black "Basic Bot (by: G0ldSt0ne)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 Na6 2. Nf3 Nb4 3. Rb1 Rb8 4. Rg1 Ra8 5. Ra1 c6 6. Nb5 cxb5 7. Ne5 Qa5 8. a4 bxa4 9. f4 Qc5 10. d4 Qxc2 11. b3 axb3 12. Ra5 b2 13. Rxa7 bxc1=Q 14. Qxc1 Qxc1+ 15. Kf2 Rxa7 16. e3 Ra2+ 17. Be2 Rxe2+ 18. Kxe2 Qxg1 19. Kf3 Qxh2 20. g4 Qh3+ 21. Ke4 d5# 0-1

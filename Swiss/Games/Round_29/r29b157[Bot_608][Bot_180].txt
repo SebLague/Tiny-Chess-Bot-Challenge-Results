@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "28"]
+[White "Stale (by: Noah)"]
+[Black "Sørensen's Minimax (by: Victor)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Stalemate"]
+
+1. b3 e6 2. c3 Qg5 3. a3 Bd6 4. d3 Qb5 5. e3 Ne7 6. f3 Qg5 7. g3 Ng6 8. b4 b6 9. a4 Bb7 10. e4 Qh5 11. f4 Qxd1+ 12. Kxd1 a5 13. bxa5 Rxa5 14. c4 Bb4 15. Bb2 f6 16. Nc3 Ke7 17. h3 e5 18. fxe5 fxe5 19. g4 Rf8 20. Nge2 Nf4 21. Nxf4 Rxf4 22. g5 Rf2 23. Ne2 Kf8 24. h4 Bxe4 25. dxe4 Rc5 26. Bc3 Bxc3 27. Nxc3 Rf3 28. Nb1 Ra5 29. Be2 Re3 30. Nd2 Ke8 31. h5 Nc6 32. g6 Nd4 33. gxh7 Ke7 34. h8=Q Nxe2 35. Qxg7+ Kd6 36. Qh6+ Kc5 37. Qxe3+ Nd4 38. Nb3+ Kxc4 39. Rh3 Nxb3 40. Qxb3+ Kc5 41. Qd5+ Kb4 42. Rb1+ Kxa4 43. Rb5 Rxb5 44. Qa2+ Kb4 45. Rb3+ Kc4 46. Rb1+ Kd3 47. Qc2+ Ke3 48. Rxb5 c6 49. h6 cxb5 50. h7 Kf3 51. h8=Q Kf4 52. Qb8 Kf3 53. Qxb6 b4 54. Qxb4 Kf4 55. Qg2 d5 56. Qb5 dxe4 57. Qd7 e3 58. Ke2 e4 59. Qg1 Ke5 60. Kxe3 Kf6 61. Kxe4 1/2-1/2

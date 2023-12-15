@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "22"]
+[White "The Martyr (by: Latobius)"]
+[Black "ScaredyBot (by: Jacob Sweeten)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Illegal move"]
+
+1. e3 Nc6 2. Ba6 Nf6 3. Qg4 b6 4. Qxd7+ 1-0

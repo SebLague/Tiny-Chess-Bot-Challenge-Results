@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "20"]
+[White "The Grandma (by: TimFW)"]
+[Black "Game Tech Explained Bot (by: Game Tech Explained)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f4 d5 2. d4 e6 3. e3 Nc6 4. Nd2 Nge7 5. Ngf3 Nf5 6. Kf2 Bb4 7. g4 Nfe7 8. Bd3 O-O 9. a3 Bd6 10. Re1 Bd7 11. Ne5 Bxe5 12. dxe5 f6 13. exf6 Rxf6 14. g5 Rf8 15. b3 e5 16. Nb1 e4 17. Be2 Be6 18. c4 d4 19. exd4 Nxd4 20. Nc3 Ng6 21. Nxe4 Nxf4 22. Bxf4 Rxf4+ 23. Ke3 Nxe2 24. Qxd8+ Rxd8 25. Rxe2 Rg4 26. Rf1 Re8 27. Kd4 Bf7 28. h3 Rh4 29. Re3 c5+ 30. Kd3 Bg6 31. Rfe1 Kf7 32. b4 cxb4 33. axb4 Re5 34. Kd4 Ke6 35. b5 b6 36. R1e2 h6 37. gxh6 gxh6 38. Re1 h5 39. R1e2 Rf4 40. Re1 Rexe4+ 41. Rxe4+ Bxe4 42. Rxe4+ Rxe4+ 43. Kxe4 h4 44. Kf3 Kf5 45. Ke3 Ke5 46. Kd3 Kf4 47. Kd4 Kg3 48. Ke3 Kxh3 49. Kf3 Kh2 50. Kf2 h3 51. Kf1 Kg3 52. Kg1 Kf4 53. Kh2 Ke4 54. Kxh3 Kd4 55. Kg4 Kxc4 56. Kf3 Kxb5 57. Ke4 Kc4 58. Ke3 b5 59. Kd2 b4 60. Kc2 b3+ 61. Kb2 a5 62. Kb1 Kc3 63. Kc1 b2+ 64. Kb1 a4 65. Ka2 Kc2 66. Ka3 b1=Q 67. Kxa4 Qb6 68. Ka3 Qa5# 0-1

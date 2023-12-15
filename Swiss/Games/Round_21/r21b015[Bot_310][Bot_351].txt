@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "20"]
+[White "LynchBot (by: Gary Lynch)"]
+[Black "Capybara (by: Matěj Fencl)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. Na3 e5 5. Nxe5 Bxa3 6. bxa3 Qd5 7. h3 Nbd7 8. Bf4 Qa5+ 9. Qd2 Qxd2+ 10. Kxd2 Nd5 11. Bg3 c3+ 12. Kc2 Nxe5 13. e4 Bf5 14. exf5 Nc6 15. Bc4 O-O-O 16. Rhd1 Rhe8 17. Bxd5 Rxd5 18. Kxc3 Red8 19. Bh4 f6 20. g4 Nxd4 21. Kb2 Rb5+ 22. Kc3 Rc5+ 23. Kb4 b6 24. Rac1 Rb5+ 25. Ka4 a6 26. Bxf6 gxf6 27. Rc4 Ra5+ 28. Kb4 c5+ 29. Kc3 Nb5+ 30. Kb2 Rxd1 31. Re4 Nxa3 32. Re8+ Kd7 33. Re2 Ra4 34. Re1 Rb4+ 35. Kc3 Rc4+ 36. Kb2 Rc2+ 37. Kxa3 Rd3+ 38. Ka4 Rxa2# 0-1

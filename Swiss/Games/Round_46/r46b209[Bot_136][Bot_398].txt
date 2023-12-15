@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "45"]
+[White "Chessy (by: SebastianB)"]
+[Black "ChessGPT (by: DeepGoldenCrown)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. e4 Nf6 2. f3 Nxe4 3. Bd3 Nxd2 4. Bxh7 Rxh7 5. Nxd2 Rh4 6. c3 Rf4 7. Qc2 Rh4 8. Qd1 Rf4 9. Qc2 Rh4 10. Qd1 1/2-1/2

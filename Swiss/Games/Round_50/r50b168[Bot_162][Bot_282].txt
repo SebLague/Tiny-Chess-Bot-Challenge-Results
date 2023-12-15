@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "49"]
+[White "BitBlunderer (by: Till Zemann (GitHub: https://github.com/till2 :D))"]
+[Black "Hippo (by: MonteDegro)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. Nf3 d5 2. d4 Qd6 3. Ne5 f6 4. Nf3 Bf5 5. c3 Nc6 6. Na3 a6 7. Qa4 Kf7 8. Nc4 dxc4 9. Qxc4+ 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "17"]
+[White "SimplerBot (by: Rick Schaffer)"]
+[Black "Tiny Chess Duck (by: rocketduck_m07)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 Nf6 2. d4 d5 3. Nf3 Nc6 4. Bf4 Bf5 5. Nb5 Rc8 6. Ne5 Nxe5 7. dxe5 Nh5 8. Bd2 a6 9. e4 Bxe4 10. Nc3 g6 11. f3 Bf5 12. g4 d4 13. Ne2 Qd5 14. gxh5 Qxf3 15. Ng3 Qxd1+ 16. Kxd1 Bg7 17. Nxf5 gxf5 18. Bf4 b5 19. Rg1 Bf8 20. a4 c6 21. e6 h6 22. exf7+ Kxf7 23. Bd3 e6 24. axb5 axb5 25. Ra7+ Be7 26. Be5 Rhg8 27. Rg6 Rxg6 28. hxg6+ Ke8 29. g7 Kf7 30. Be2 c5 31. Bh5+ Kg8 32. Rxe7 Ra8 33. Bf7+ Kh7 34. g8=B+ Rxg8 35. Bh5+ Rg7 36. Rxg7+ Kh8 37. Rc7+ Kg8 38. Rc8+ Kh7 39. Rh8# 1-0

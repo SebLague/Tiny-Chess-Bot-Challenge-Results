@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "41"]
+[White "Simple Minimax (by: Sidewinder7)"]
+[Black "TalkChess (by: Thomas Jahn, Mike Sherwin, Dmitry Shechtman)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Qh5 Nf6 3. Qb5 Nxe4 4. d3 Nd4 5. Nf3 Nxb5 6. dxe4 Nd6 7. h3 Nxe4 8. Bb5 e6 9. O-O Bc5 10. Be3 O-O 11. Bxc5 Nxc5 12. Re1 d5 13. Nc3 Qd6 14. Re5 Bd7 15. g3 Bxb5 16. Nxb5 Qb6 17. Nfd4 Rad8 18. f3 Rfe8 19. h4 Kf8 20. h5 Kg8 21. Kg2 a6 22. Rb1 axb5 23. b4 Qd6 24. Rbe1 Ne4 25. R1xe4 dxe4 26. f4 Qxd4 27. c3 Qd1 28. Kh3 Qd3 29. a3 Kf8 30. h6 gxh6 31. a4 bxa4 32. b5 Ke7 33. b6 Qd1 34. bxc7 Qf1+ 35. Kg4 Qh1 36. cxd8=B+ Kxd8 37. Rxe6 Rxe6 38. c4 Kc7 39. c5 Kc6 40. Kf5 Qh5# 0-1

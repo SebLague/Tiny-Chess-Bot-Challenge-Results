@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "3"]
+[White "HopeBot (by: Chinmay Krishna)"]
+[Black "One-Line Chess (by: Kaydon Sloan)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 d5 2. h4 e5 3. g4 Nf6 4. Bb5+ c6 5. Kf1 cxb5 6. Kg2 Bxg4 7. Qf1 b4 8. h5 Bxh5 9. Qb5+ Qd7 10. c4 Qxb5 11. cxb5 a6 12. a4 axb5 13. Nf3 Bxf3+ 14. Kxf3 Rxa4 15. Rxa4 bxa4 16. Kg2 Bc5 17. Rh4 g5 18. Rh6 Nbd7 19. d4 exd4 20. Bd2 d3 21. f3 b5 22. Kf1 O-O 23. f4 g4 24. Kg1 Re8 25. f5 Rxe3 26. Bxb4 Bxb4 27. Nc3 Bxc3 28. bxc3 d2 29. Rxf6 Re2 30. Rg6+ Kf8 31. Rg8+ Ke7 32. f6+ Kd6 33. Rxg4 d1=Q# 0-1

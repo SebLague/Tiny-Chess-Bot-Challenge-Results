@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "15"]
+[White "SatanBot (by: odin7053@discord)"]
+[Black "EndgameEnigma (by: jostflo)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g4 Nf6 2. g5 Nc6 3. f3 Nd5 4. h3 e6 5. h4 Bd6 6. h5 Bg3# 0-1

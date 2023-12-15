@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "16"]
+[White "BoringBot (by: Carson Bates)"]
+[Black "Look Ma, No Piece Square Table (by: DegaLaman)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f3 Na6 2. g3 Rb8 3. d3 Ra8 4. h4 Rb8 5. e4 Ra8 6. c4 Rb8 7. h5 Ra8 8. b3 e6 9. a4 Qf6 10. d4 Kd8 11. f4 Bb4+ 12. Ke2 Qe7 13. d5 exd5 14. Qxd5 Nf6 15. Qd4 Nc5 16. Nd2 Bxd2 17. Bxd2 Nxb3 18. Qe5 Nxa1 19. Qxe7+ Kxe7 20. Ke3 c5 21. e5 Ng8 22. Ke4 b5 23. Rh4 Nb3 24. Be3 bxa4 25. Kd3 a5 26. Rh2 Rb8 27. Ra2 Rb4 28. f5 Kd8 29. g4 f6 30. exf6 Nxf6 31. Bh3 Ba6 32. Rc2 d5 33. Bg5 Rxc4 34. Rxc4 dxc4+ 35. Kc3 a3 36. Bc1 Nd5+ 37. Kc2 a2 38. Bb2 Ne3+ 39. Kc3 Nd1+ 40. Kc2 Nxb2 41. g5 a1=Q 42. Ne2 Nd3 43. f6 Ne1# 0-1

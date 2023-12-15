@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "OrionChessEngine (by: Maarten Peels)"]
+[Black "At least 2 IQ (by: Evan Finnigan)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nc6 2. c3 a5 3. Na3 f5 4. Nc4 h6 5. Nh4 h5 6. Ng6 Rh6 7. Nxf8 Kxf8 8. d3 f4 9. a4 e6 10. Bxf4 g5 11. Bc1 Ra7 12. e4 Nf6 13. Bxg5 Rh7 14. Qf3 Ke8 15. Nd6+ cxd6 16. Bxf6 Qc7 17. Qg3 Kf7 18. Qf4 Qb6 19. Bd4+ Kg8 20. Bxb6 Ra6 21. Qxd6 Rxb6 22. Kd1 Rxb2 23. d4 Na7 24. Qe5 Rxf2 25. Qg3+ Kh8 26. Qxf2 Rh6 27. g4 hxg4 28. Qf8+ Kh7 29. Qxh6+ Kxh6 30. c4 b6 31. h3 g3 32. Bd3 Bb7 33. Kc1 g2 34. Re1 Nc6 35. Rg1 Nxd4 36. Rxg2 Nb3+ 37. Kb1 Nxa1 38. Kxa1 e5 39. Kb1 Ba6 40. Rg8 d5 41. exd5 e4 42. Bf1 e3 43. Bd3 b5 44. Rh8+ Kg7 45. axb5 Kxh8 46. bxa6 a4 47. Ka2 Kg7 48. Kb2 a3+ 49. Kb1 a2+ 50. Kb2 Kg8 51. h4 Kf8 52. Ka1 e2 53. Bxe2 Kf7 54. Kxa2 Kg7 55. d6 Kh8 56. Kb1 Kg7 57. Kc1 Kf6 58. Kd1 Kg7 59. Ke1 Kf8 60. d7 Kg7 61. d8=Q Kh6 62. Bf1 Kg6 63. h5+ Kxh5 64. c5 Kg4 65. Qf6 Kg3 66. Kd1 Kg4 67. Kc1 Kg3 68. Kb1 Kh2 69. Ka1 Kh1 70. Bh3 Kg1 71. Bf5 Kg2 72. Kb1 Kf3 73. Qh8 Kf2 74. Bh3 Ke3 75. Qa1 Kf2 76. Kc1 Kg1 77. Bc8 Kh2 78. c6 Kg3 79. Kb1 Kf2 80. Bd7 Ke1 81. Be8 Kf2 82. Kc1 Kf1 83. Bd7 Kg1 84. Bc8 Kf2 85. Kb1 Ke3 86. a7 Ke4 87. a8=Q Ke3 88. Kc1 Kf2 89. Qb2+ Kg3 90. Qa6 Kh4 91. Qb1 Kg3 92. Qbd3+ Kf2 93. Bf5 Kg2 94. Kb1 Kf2 95. Qb6+ Kg2 96. Qh3# 1-0

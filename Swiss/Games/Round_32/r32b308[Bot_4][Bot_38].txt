@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "31"]
+[White "Sore Loser Bot (by: Techno)"]
+[Black "Asymptotically optimal (by: Graham Gayler)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. c4 a5 2. Qc2 b6 3. e3 Ra6 4. d3 d5 5. e4 Nc6 6. Bh6 gxh6 7. f3 Bb7 8. Ne2 dxe4 9. Qc1 exf3 10. gxf3 Qxd3 11. Nd4 Qxf1+ 0-1

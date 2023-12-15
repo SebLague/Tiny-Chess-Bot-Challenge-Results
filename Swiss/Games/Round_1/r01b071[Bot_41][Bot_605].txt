@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "RichyRoo (by: devrichgg)"]
+[Black "The Grandiloquent Intelligentsia of Magnanimous Strategem: A Prodigiously Resplendent Embodiment of Erudite Chess Esotericism, Exuding Enigmatic Brilliance and Sublime Eloquence Whilst Enchantingly Tempering the Hallowed Battlefield of Intellectual Duels, Endeavoring to Transcend Acumen and Ascend to the Pantheon of Learned Peregrinations with an Efficacious Arsenal of Foresight and Sagacity, Humbling Opponents with Refined Gallantry, and Beckoning Discerning Disciples to Witness the Manifest Veracity of its Ascent to a Formidable Elo Quintessence (by: Giles Corey)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 Nf6 2. Nf3 d5 3. Rb1 d4 4. Nb5 c5 5. Rg1 Be6 6. Ra1 a6 7. Na3 Nc6 8. c4 g6 9. g4 Bxg4 10. d3 Bg7 11. Nxd4 cxd4 12. Be3 dxe3 13. fxe3 O-O 14. Nb5 axb5 15. cxb5 Qa5+ 16. b4 Nxb4 17. Rxg4 Nxd3# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "42"]
+[White "SlothBot (by: 0xFF)"]
+[Black "AeroBot (by: vakqDev)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. Nf3 Nh6 2. Nc3 f5 3. d4 Ng8 4. e3 Nc6 5. d5 Na5 6. b4 h5 7. bxa5 Nf6 8. Bd3 g6 9. Ne5 Ne4 10. Nxe4 a6 11. Ng5 d6 0-1

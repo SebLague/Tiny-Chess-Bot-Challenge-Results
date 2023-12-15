@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "53"]
+[White "Zambroni V.4.1.4 (by: JoeyZeeeeeee)"]
+[Black "LazyBot (by: Tim de Jong)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 e6 2. g3 Nf6 3. Bg2 Nc6 4. O-O Qe7 5. d4 Qb4 6. Nc3 Bd6 7. e4 O-O 8. e5 Be7 9. exf6 Bxf6 10. Ne4 d5 11. Nxf6+ gxf6 12. c3 Qb5 13. Qd2 f5 14. Qg5+ Kh8 15. Qf6+ Kg8 16. Bh6 Qxf1+ 17. Rxf1 Nxd4 18. Qg5+ Kh8 19. Bg7+ Kg8 20. Bxd4# 1-0

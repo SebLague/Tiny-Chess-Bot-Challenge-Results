@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "61"]
+[White "TinyNoTimeToCodeChessEngine (by: )"]
+[Black "mini_yoda (by: Dane Smith)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a4 f5 2. Nf3 c5 3. Nh4 e6 4. Nf3 g5 5. c4 g4 6. Ne5 Qc7 7. Nd3 Qd6 8. Nc3 a6 9. e4 b5 10. axb5 Qd4 11. bxa6 Nxa6 12. exf5 exf5 13. Qe2+ Ne7 14. Nb5 Qf6 15. Nxc5 Qc6 16. Nxa6 Bxa6 17. d4 d5 18. Qe5 Bg7 19. Qxg7 Rg8 20. Qe5 Kd8 21. Nd6 Qb6 22. Nxf5 Ra7 23. Rxa6 Qxa6 24. Nh6 Qa5+ 25. Ke2 Rg6 26. Bd2 Qa2 27. Nf7+ Kd7 28. cxd5 Qxb2 29. Ke3 Ra2 30. Ke4 Qb1+ 31. Bd3 Qxh1 32. Ke3 Qxg2 33. Be4 Qh3+ 34. Ke2 Ra1 35. Bf5+ Ke8 36. Qe4 Qf1+ 37. Ke3 Re1+ 38. Bxe1 Qxe1+ 39. Kd3 Qxe4+ 40. Bxe4 Kxf7 41. Bxg6+ hxg6 42. d6 Nf5 43. f3 gxf3 44. d5 Ke8 45. h3 Kd7 46. h4 Kxd6 47. h5 gxh5 48. Kd2 h4 49. Ke1 h3 50. Kf2 h2 51. Kxf3 h1=Q+ 52. Ke2 Kxd5 53. Kd2 Kc4 54. Kc2 Qh2+ 55. Kb1 Kc3 56. Ka1 Qb2# 0-1

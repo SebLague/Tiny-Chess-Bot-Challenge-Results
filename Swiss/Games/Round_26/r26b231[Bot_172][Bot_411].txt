@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "25"]
+[White "Kaan's Majestic Gentlemen (by: Level 0 Kaan)"]
+[Black "StallerBot (by: Ean)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. e5 Bg4 3. Bb5+ c6 4. Qxg4 cxb5 5. Qf3 Nc6 6. d4 Nxd4 7. Qa3 Nxc2+ 8. Kd1 Nxa1 9. Qd3 Qb6 10. Qxd5 e6 11. Qd2 h6 12. f3 b4 13. Ne2 Qa6 14. Ng1 Qf1+ 15. Qe1 Qxg2 16. Qf1 Rd8+ 17. Ke1 Nc2# 0-1

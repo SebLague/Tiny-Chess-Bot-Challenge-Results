@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "24"]
+[White "CompressionBot (by: Nathan George)"]
+[Black "Astolfo (by: Illuminate)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 d5 2. d4 Nf6 3. Nc3 e6 4. e3 Bb4 5. Bb5+ Bd7 6. Qd3 Bxc3+ 7. bxc3 O-O 8. O-O c6 9. Ba4 c5 10. Bxd7 c4 11. Qe2 Nbxd7 12. Ne5 Ne4 13. Nxd7 Qxd7 14. Bb2 Rfe8 15. f3 Nf6 16. e4 e5 17. Rfd1 Qc7 18. exd5 Nxd5 19. Re1 Qc6 20. Qf2 Qb5 21. Rab1 exd4 22. Rxe8+ Rxe8 23. Qxd4 Nb6 24. Qd1 Qg5 25. h3 Nd5 26. Bc1 Qe5 27. Bd2 Nxc3 28. Bxc3 Qxc3 29. Kf1 Qa5 30. Rxb7 Qxa2 31. Re7 Rc8 32. Rxf7 Kxf7 33. Qd7+ Kf6 34. Qxc8 Qb1+ 35. Kf2 Qxc2+ 36. Kg1 Qd1+ 37. Kh2 Qd6+ 38. Kh1 Qe6 39. Qd8+ Kg6 40. Qd4 a6 41. Kg1 h6 42. Qh4 Qe3+ 43. Kh1 Qd3 44. Qg4+ Kh7 45. Qe4+ Qxe4 46. fxe4 c3 47. Kg1 c2 48. Kf2 c1=Q 49. Kg3 Qe3+ 50. Kh2 Qxe4 51. Kg3 Qe1+ 52. Kh2 Kg6 53. h4 Kh5 54. g4+ Kxh4 55. Kg2 Qe2+ 56. Kg1 Kg3 57. Kh1 Qe1# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "41"]
+[White "TLMChessBot [v1-1250] (by: Möhrchen (Thilo))"]
+[Black "DLComp2 (by: DawnLamp8)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Na6 2. e4 c6 3. a4 Qc7 4. Bc4 Qa5+ 5. Bd2 Qb6 6. Nf3 Qxb2 7. Nc3 Qb4 8. Ne5 e6 9. a5 d6 10. Ne2 dxe5 11. Bxb4 Bxb4+ 12. c3 Bd6 13. h4 Nf6 14. dxe5 Bxe5 15. f4 Bc7 16. e5 Ng4 17. Rh3 Nxe5 18. fxe5 Bxe5 19. Re3 Bf6 20. h5 O-O 21. Nf4 Bh4+ 22. g3 Be7 23. Re2 Kh8 24. g4 Kg8 25. Re4 Rd8 26. Rd4 Re8 27. Nd3 Bf6 28. Qd2 Bxd4 29. cxd4 Re7 30. Qd1 Rd7 31. Ne5 Rd6 32. g5 Nb4 33. Qb3 Rxd4 34. Qxb4 Re4+ 35. Kd1 Rxe5 36. Qd6 f6 37. g6 Bd7 38. Qxd7 Rxh5 39. Bxe6+ Kh8 40. Qxb7 Rd8+ 41. Ke2 Re5+ 42. Kf1 Rxe6 43. Qc7 Red6 44. gxh7 R8d7 45. Qc8+ Kxh7 46. Kf2 Kg6 47. Rc1 Rd2+ 48. Ke1 R2d5 49. a6 R5d6 50. Qe8+ Kf5 51. Rc5+ Kf4 52. Qe2 Rd5 53. Rc4+ Kg5 54. Rg4+ Kh6 55. Rh4+ Kg6 56. Qe8+ Rf7 57. Rg4+ Rg5 58. Qe4+ Kh6 59. Rh4+ Rh5 60. Rxh5+ Kxh5 61. Qe8 Kg6 62. Kd2 c5 63. Qe3 Rd7+ 64. Kc1 Rd4 65. Qg3+ Kf7 66. Qc7+ Ke6 67. Qxc5 Rd7 68. Kc2 g6 69. Qc6+ Ke7 70. Kc1 g5 71. Qe4+ Kf8 72. Qe6 Rc7+ 73. Kb1 Kg7 74. Kb2 Rf7 75. Qf5 Kh6 76. Kb1 Rf8 77. Ka1 Kg7 78. Qf2 Rf7 79. Qg2 Kg6 80. Kb2 f5 81. Qc6+ Kg7 82. Kc2 g4 83. Qc5 Kh7 84. Qe5 Kg6 85. Kb2 Kg5 86. Qd5 Rf6 87. Qd8 Kg6 88. Qg8+ Kh5 89. Qc8 Rb6+ 90. Kc3 f4 91. Qe8+ Kh4 92. Qd8+ Kg3 93. Qxb6 axb6 94. a7 Kf2 95. a8=Q Kg1 96. Qa4 Kg2 97. Qxf4 g3 98. Kc4 Kh3 99. Kb5 g2 100. Qf2 Kh2 101. Kxb6 Kh1 102. Qh4+ Kg1 103. Kc5 Kf1 104. Qh3 Kf2 105. Qh2 Kf1 106. Qf4+ Ke1 107. Qe3+ Kf1 108. Qd3+ Ke1 109. Qg3+ Kd1 110. Qxg2 Kc1 111. Kc4 Kb1 112. Kb3 Ka1 113. Qg1# 1-0

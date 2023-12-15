@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "13"]
+[White "tom (by: Christopher Hosken & Thomas Lower)"]
+[Black "Arctiform's Bot (by: Arctiform)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 h5 2. e4 c5 3. h4 Qa5 4. g4 hxg4 5. b4 Qxb4 6. c4 a5 7. a4 g6 8. h5 f6 9. h6 b6 10. e5 f5 11. e6 dxe6 12. Ng5 e5 13. f4 exf4 14. Nh7 Rxh7 15. Nc3 Nxh6 16. Nd5 Nf7 17. Nxb4 Rxh1 18. d4 cxb4 19. Bxf4 Nd7 20. d5 Nh8 21. d6 e6 22. c5 bxc5 23. Bh6 Bxh6 24. Qb3 e5 25. Qg8+ Nf8 26. Qxh8 Bg5 27. d7+ Kf7 28. d8=Q Rxh8 29. Qxg5 Rh1 30. Qd8 Bb7 31. Qxa8 Bxa8 32. Ra2 g5 33. Rf2 g3 34. Rxf5+ Ke7 35. Rxf8 Kxf8 36. Ke2 Rh2+ 37. Kd1 g4 38. Be2 b3 39. Bxg4 g2 40. Be6 g1=Q# 0-1

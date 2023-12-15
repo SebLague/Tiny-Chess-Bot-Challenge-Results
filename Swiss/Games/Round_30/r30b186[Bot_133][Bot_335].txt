@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "29"]
+[White "MinimaxAttackerBot5000 (by: ChrisCat123)"]
+[Black "Der wilde Kaiser (by: Headyyy1337)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Na3 e6 2. Nb5 c6 3. Nd4 Bc5 4. Ngf3 Nh6 5. Rb1 O-O 6. Ra1 a5 7. Nb3 Bb4 8. Nbd4 c5 9. Nb3 a4 10. a3 axb3 11. Rb1 bxc2 12. Qxc2 Nc6 13. axb4 Nxb4 14. Qxc5 Na6 15. Qc2 Nb4 16. Qc3 Nd5 17. Qc2 Nb4 18. Qc3 Nd5 19. Qc2 Nb4 1/2-1/2

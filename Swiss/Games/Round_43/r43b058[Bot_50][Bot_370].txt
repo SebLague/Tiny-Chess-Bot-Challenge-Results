@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "42"]
+[White "TLMChessBot [v1-1250] (by: Möhrchen (Thilo))"]
+[Black "TuroChampEx (by: code<metas>)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 Nc6 2. f4 e6 3. a4 Qf6 4. Bb5 Nh6 5. Nf3 Bd6 6. Rf1 O-O 7. Nc3 Bb4 8. Na2 Be7 9. d4 Qg6 10. g3 a6 11. Bxc6 bxc6 12. Bd2 Qh5 13. Bb4 Bxb4+ 14. Nxb4 c5 15. dxc5 Qxc5 16. Qd2 Ng4 17. Nd3 Qxe3+ 18. Qe2 Qxe2+ 19. Kxe2 Bb7 20. Nde5 Nxe5 21. Nxe5 d6 22. Nd3 a5 23. b3 c5 24. c4 Rac8 25. g4 f5 26. g5 d5 27. h4 dxc4 28. bxc4 Be4 29. Ne5 Rfd8 30. h5 Rd4 31. Rfd1 Bc2 32. Rxd4 cxd4 33. Kf1 Bb3 34. Kg1 d3 35. Nxd3 Rxc4 36. Rb1 Rc3 37. Ne5 Rg3+ 38. Kf2 Rh3 39. Rc1 Rh2+ 40. Ke3 Rc2 41. Rb1 Rc3+ 42. Kd4 Rg3 43. g6 hxg6 44. hxg6 Kf8 45. Nd7+ Ke7 46. Nc5 Bd5 47. Rb5 Rxg6 48. Rxa5 Rg2 49. Ra7+ Kf8 50. a5 Kg8 51. a6 Rg4 52. Ke5 Rh4 53. Rc7 Rh6 54. a7 Rf6 55. Rc8+ Kf7 56. Nb7 Bxb7 57. Rc7+ Kg6 58. Rxb7 Rf8 59. Rb8 Rf6 60. Rh8 Rf7 61. a8=Q Rc7 62. Qe8+ Rf7 63. Rg8 Kh7 64. Qxf7 Kh6 65. Rh8# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "63"]
+[White "MiaKBotv4.4 (by: Mia Kellett)"]
+[Black "Aron's engine (by: Aron Martens)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 a6 2. Nf3 Ra7 3. Ne4 a5 4. Nd4 Ra8 5. Nf3 Ra7 6. Ne5 d6 7. Nd3 Kd7 8. Nf4 Kc6 9. Nc3 Kb6 10. Ncd5+ Kb5 11. Nc3+ Kb6 12. Nfd5+ Kc6 13. e3 Kd7 14. Qg4+ e6 15. Qa4+ Nc6 16. Nf4 Ke7 17. Ne4 Ra8 18. Nc3 Ra7 19. Nd3 Kd7 20. Ne4 Ke7 21. Rb1 Kd7 22. Nf4 d5 23. Nc3 Ke7 24. Qa3+ Kd7 25. Qb3 Ke7 26. Nb5 Ra8 27. Qa3+ Kf6 28. Nh5+ Kg5 29. f4+ Kg6 30. Qd3+ Kxh5 31. Be2+ Kh6 32. g3 Nb4 33. Nc3 Nxd3+ 34. Bxd3 d4 35. Ne4 dxe3 36. Ng5 exd2+ 37. Bxd2 Qd7 38. f5 Qd5 39. Nxf7+ Kh5 40. Be2+ Qf3 41. Bxf3# 1-0

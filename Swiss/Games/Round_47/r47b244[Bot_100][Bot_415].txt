@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "46"]
+[White "PrayForMeBot (by: João)"]
+[Black "SYSMER (by: YannM)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. b4 Na6 2. c4 Nxb4 3. f3 Nf6 4. Qb3 a6 5. Qxb4 b6 6. a4 c6 7. Qxb6 Qxb6 8. d4 Bb7 9. Nd2 a5 10. d5 cxd5 11. Ne4 dxe4 12. Nh3 exf3 13. e4 Bxe4 14. gxf3 d6 15. Ng1 e6 16. Bb2 Qxb2 17. Nh3 Bxf3 18. Rg1 Qc3+ 19. Kf2 Ne4# 0-1

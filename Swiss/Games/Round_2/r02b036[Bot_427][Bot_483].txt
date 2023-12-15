@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "LeMaire (by: Beaud Rémi and Mechulam Antoine)"]
+[Black "Velocity++ (by: Tisajokt)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e5 2. Nf3 Nc6 3. e4 Nf6 4. Bc4 Nxe4 5. Bxf7+ Kxf7 6. Nxe4 d5 7. Neg5+ Kg8 8. d4 h6 9. dxe5 hxg5 10. Bxg5 Qd7 11. Qd3 Qg4 12. O-O Rh3 13. g3 Nb4 14. Qd1 Qh5 15. Bd2 Bg4 16. Bxb4 Bxf3 17. Qd4 Rxh2 18. Qxd5+ Bxd5 19. f3 Qh3 20. Rab1 Qxg3# 0-1

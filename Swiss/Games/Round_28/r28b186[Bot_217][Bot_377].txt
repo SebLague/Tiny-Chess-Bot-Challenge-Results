@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "27"]
+[White "BOTvinnik (by: Paul Smooth)"]
+[Black "Big Carl (by: Nathaniel D)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. e5 c6 3. exf6 exf6 4. Qe2+ Be7 5. Qg4 g6 6. Qg3 d6 7. Be2 a6 8. d4 Rg8 9. Bd2 f5 10. Qh3 h5 11. Ba5 Qxa5+ 12. Nd2 Qb6 13. Nc4 Qa7 14. Qe3 b6 15. Nxd6+ Kf8 16. Nxc8 Qb7 17. Qh6+ Ke8 18. c3 Qxc8 19. Qh7 Kf8 20. Bc4 Rg7 21. Qh8+ Rg8 22. Qh6+ Ke8 23. Qe3 Ra7 24. Qe2 Qd8 25. Kd2 c5 26. Re1 cxd4 27. Kc1 dxc3 28. bxc3 Rh8 29. Qe5 Rh7 30. Rd1 Nd7 31. Bxf7+ Kxf7 32. Qxe7+ Kxe7 33. Re1+ Kd6 34. Rd1+ Kc5 35. Nf3 g5 36. Ne5 a5 37. Nxd7+ Raxd7 38. Rhe1 Rxd1+ 39. Rxd1 Qf6 40. Rd4 Qe5 41. Kc2 b5 42. Rd3 Qxh2 43. Kb2 Qxg2 44. a4 Qe4 45. Rd1 Qxa4 46. Rd4 b4 47. f4 bxc3+ 48. Kxc3 Qxd4+ 49. Kc2 gxf4 50. Kb3 Rb7+ 51. Kc2 Qe4+ 52. Kc1 Qe3+ 53. Kd1 Rb1+ 54. Kc2 Rg1 55. Kb2 Rg2+ 56. Ka1 Qg1# 0-1

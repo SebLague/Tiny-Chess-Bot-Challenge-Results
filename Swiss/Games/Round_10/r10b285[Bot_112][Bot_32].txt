@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "9"]
+[White "Saubstauga (by: Dominik)"]
+[Black "Botty_Bot (by: Roboticmadness)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 e5 2. h5 Qg5 3. d3 Bb4+ 4. Bd2 Bxd2+ 5. Nxd2 e4 6. dxe4 Qxd2+ 7. Qxd2 h6 8. g4 f5 9. exf5 d5 10. Qe3+ Be6 11. fxe6 Nd7 12. exd7+ Kf7 13. f4 Nf6 14. b4 Ne4 15. a4 Raf8 16. Qxa7 Nf6 17. Qxb7 Rb8 18. Qc6 Rb6 19. Qxc7 Rd8 20. Qxd8 Nxd7 21. Qxd7+ Kg8 22. Qe8+ Kh7 23. f5 Rf6 24. b5 Rg6 25. hxg6# 1-0

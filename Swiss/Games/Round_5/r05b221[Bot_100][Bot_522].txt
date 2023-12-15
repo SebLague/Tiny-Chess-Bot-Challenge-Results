@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "4"]
+[White "PrayForMeBot (by: João)"]
+[Black "Pharouk (by: Pydjama)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g3 c5 2. f3 e6 3. c3 Bd6 4. Nh3 b6 5. Qa4 Qf6 6. Qxa7 Rxa7 7. Na3 Ba6 8. Nb5 Bxb5 9. a3 h5 10. Rb1 h4 11. c4 Bxc4 12. Bg2 hxg3 13. d3 Bd5 14. Kd1 Qf5 15. Bd2 Bb3+ 16. Ke1 gxh2 17. Bf1 c4 18. f4 cxd3 19. Bc3 dxe2 20. Kd2 Qxb1 21. Kxe2 Qe4+ 22. Kd2 Rxh3 23. Bd3 Bxf4# 0-1

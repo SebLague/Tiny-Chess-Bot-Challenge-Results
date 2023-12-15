@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "51"]
+[White "TeacherBot (by: qumquat)"]
+[Black "charge forward v1 (by: steel chair)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 h5 2. Bc4 g5 3. Qxh5 Rxh5 4. Ba6 bxa6 5. f3 Rxh2 6. a4 Rxh1 7. Kf1 f5 8. Na3 fxe4 9. g4 exf3 10. Nb5 axb5 11. Kf2 bxa4 12. d3 e5 13. Rxa4 d5 14. Ra5 Bxg4 15. Ne2 fxe2 16. Kg2 e1=B 17. Rxd5 Qxd5# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "3"]
+[White "TBbot (by: TBMPFW)"]
+[Black "Cirrus v0.1 (by: Bbrainstormer)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Na6 2. e5 Rb8 3. h4 Ra8 4. b4 Nxb4 5. Ba3 Nxa2 6. Ne2 Rb8 7. Rxa2 Ra8 8. e6 dxe6 9. d3 Qxd3 10. Qxd3 Rb8 11. Nc1 Ra8 12. f4 Rb8 13. g4 Ra8 14. c4 Rb8 15. Qe4 Kd7 16. Bb4 Kd8 17. Nb3 Kd7 18. Nc5+ Kd6 19. Rd2# 1-0

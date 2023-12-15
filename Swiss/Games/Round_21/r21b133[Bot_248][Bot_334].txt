@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "20"]
+[White "SimpleMinds (by: Karl Jungtow)"]
+[Black "StackFish (by: battlecoder)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. Qf3 e5 3. Qf5 Nc6 4. Bc4 d5 5. Qg5 dxc4 6. Nc3 Bb4 7. a3 h6 8. Qxg7 Rh7 9. Qg3 Ba5 10. Na4 b5 11. Nc5 Bb6 12. Nf3 Bxc5 13. Qh4 Bg4 14. h3 Bh5 15. g4 Bg6 16. b4 cxb3 17. cxb3 Bxe4 18. Ng5 hxg5 19. Qxg5 Bxh1 20. d4 Bxd4 21. Rb1 Be4 22. Bb2 Bxb1 23. Qd2 Ne4 24. Qe2 Bxf2+ 25. Kf1 Ng3+ 26. Kxf2 Nxe2 27. Kxe2 Rxh3 28. Kf1 Qd2 29. Bxe5 Rh1# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "AugsBot (by: Augs)"]
+[Black "SimpleMinds (by: Karl Jungtow)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 e6 2. Nc3 Qf6 3. e4 a5 4. d4 Bb4 5. a3 Bxc3+ 6. bxc3 g5 7. Bxg5 Qg6 8. e5 Qf5 9. Bd3 Qg4 10. h3 Qh5 11. g4 Qxg5 12. Nxg5 Nc6 13. Qf3 Nh6 14. Qf6 Rg8 15. Qxh6 f6 16. Qxh7 Rxg5 17. Qh8+ Ke7 18. Qxf6+ Ke8 19. Qxg5 d5 20. Qg8+ Kd7 21. Qf7+ Kd8 22. Bg6 Nxd4 23. Qe8# 1-0

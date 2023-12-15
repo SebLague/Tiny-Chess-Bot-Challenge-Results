@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "5"]
+[White "Bobobot (by: Lino)"]
+[Black "Edbd (by: Ahmad)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. g3 h5 2. f3 g5 3. h4 gxh4 4. a4 hxg3 5. c3 f5 6. Qb3 e5 7. Qf7+ Kxf7 8. b3 1-0

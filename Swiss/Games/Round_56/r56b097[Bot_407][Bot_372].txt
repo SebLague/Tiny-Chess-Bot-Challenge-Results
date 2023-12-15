@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "55"]
+[White "simple chess bot (by: 4a0I)"]
+[Black "CrimesAgainstDotNet (by: Reckoner (Robyn))"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e5 2. Qg4 Qf6 3. Bb5 c6 4. Bd3 Ne7 5. Nc3 d5 6. Qh5 e4 7. Bf1 Nf5 8. a3 Nh6 9. f4 d4 10. Nxe4 Qf5 11. Qxf5 Bxf5 12. d3 dxe3 13. Bxe3 Ng4 14. Bd4 Be7 15. Bxg7 Rg8 16. Bd4 c5 17. Bxc5 Bxc5 18. Nxc5 Ne3 19. Kf2 Nxc2 20. Rc1 Nd4 21. Re1+ Kf8 22. Nxb7 Nbc6 23. Nd6 Rd8 24. Nxf5 Nxf5 25. Nf3 Ncd4 26. Nxd4 Nxd4 27. Re5 Rg4 28. g3 Rc8 29. Bh3 Rc2+ 30. Ke3 Rg6 31. Kxd4 Rxb2 32. Kc3 Ra2 33. Kb3 Rd2 34. Kc3 Ra2 35. Bf5 Ra6 36. a4 R6xa4 37. Bxh7 R2a3+ 38. Kd2 f6 39. Rc5 Kg7 40. Rc7+ Kh8 41. Rb1 Rxd3+ 42. Bxd3 Ra2+ 43. Ke3 Rb2 44. Rxb2 Kg8 45. Rxa7 Kf8 46. Kd2 Ke8 47. Rb8# 1-0

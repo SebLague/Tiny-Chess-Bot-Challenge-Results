@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "tom (by: Christopher Hosken & Thomas Lower)"]
+[Black "Just Alright... Kinda... (JAK) (by: Joshnaks)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g4 a5 2. f4 a4 3. e4 Ra5 4. h4 Rc5 5. d4 Ra5 6. c4 b5 7. cxb5 c5 8. dxc5 f5 9. exf5 g5 10. fxg6 hxg6 11. b4 axb3 12. a4 g5 13. fxg5 e5 14. g6 Bxc5 15. g7 Bb4+ 16. Kf2 Bc5+ 17. Kg3 Rh7 18. Nh3 Qxh4+ 19. Kf3 Qf6+ 20. Bf4 exf4 21. Nc3 Qxc3+ 22. Bd3 Rxg7 23. b6 Bxb6 24. g5 Be3 25. g6 Qc6+ 26. Be4 Qc3 27. Ng5 Rxg5 28. a5 Rg3+ 29. Ke2 Qc4+ 30. Bd3 Rg2+ 31. Kf3 Rf2+ 32. Kg4 Rg2+ 33. Kh5 Nf6+ 34. Kh6 Qg8 35. Qc2 Qh8# 0-1

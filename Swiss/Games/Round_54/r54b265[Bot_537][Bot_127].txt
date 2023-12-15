@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "53"]
+[White "InfuehrDaniel MCTS (by: Daniel Infuehr)"]
+[Black "Trash LITE (by: kachim2)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 Nh6 2. Qh5 c6 3. Nc3 Qb6 4. Nf3 Qb5 5. Ng5 Na6 6. Bd3 Nc7 7. Qh4 Qf5 8. g3 d6 9. h3 Qxd3 10. Ne6 fxe6 11. cxd3 Nf5 12. Qh5+ Kd8 13. b3 g5 14. Ke2 Bg7 15. g4 Nh6 16. Ke1 b5 17. Kf1 Bxc3 18. dxc3 Bb7 19. Rh2 Ng8 20. e4 Nd5 21. Qe8+ Kxe8 22. Bxg5 Kd8 23. Bh6 Nc7 24. Bg7 Ke8 25. Rd1 b4 26. Kg2 bxc3 27. Rhh1 c2 28. Bh6 Nd5 29. Kg1 Nf4 30. Kf1 cxd1=Q# 0-1

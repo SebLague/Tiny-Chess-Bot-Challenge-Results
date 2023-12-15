@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "63"]
+[White "PacifistBot (by: Noano01)"]
+[Black "CCCP (by: not mario)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 d6 2. Nc3 h6 3. Ne4 Bf5 4. d4 Bxe4 5. Be3 Bxf3 6. c4 Bxe2 7. Kd2 Bxc4 8. Kc1 Bxf1 9. Kb1 Bd3+ 10. Qc2 Bxc2+ 11. Kc1 Bb3 12. Kb1 Bc2+ 13. Kc1 h5 14. Re1 e6 15. f4 c5 16. g4 cxd4 17. h4 Qxh4 18. b4 Qxe1+ 19. Kb2 Qxa1+ 20. Ka3 Qc3# 0-1

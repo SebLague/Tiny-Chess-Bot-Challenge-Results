@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "Rigel (by: Antares (Github: Alex2262))"]
+[Black "Ccookie (by: Ccookie)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 e6 2. e4 Qf6 3. Nc3 Bb4 4. Nf3 Bxc3+ 5. bxc3 Nc6 6. Bd3 Nge7 7. e5 Nxe5 8. dxe5 Qg6 9. Bxg6 Nxg6 10. h4 O-O 11. h5 Ne7 12. Ba3 d6 13. h6 gxh6 14. Qd2 Bd7 15. Qxh6 Rfe8 16. exd6 cxd6 17. Qxh7+ Kf8 18. Ne5 Red8 19. Qxf7# 1-0

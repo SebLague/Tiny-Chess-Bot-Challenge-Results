@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "56"]
+[White "Goldfinch (by: ATG)"]
+[Black "simple chess bot (by: 4a0I)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Nc3 e6 2. Nf3 Qf6 3. d4 Bb4 4. Bg5 Qf5 5. Rc1 Bxc3+ 6. bxc3 Qa5 7. Qd3 Qxa2 8. e4 f6 9. Bf4 Qa5 10. d5 e5 11. Bd2 Ne7 12. Be2 Qa4 13. O-O f5 14. Nxe5 fxe4 15. Qg3 O-O 16. Rfd1 d6 17. Nc4 b5 18. Ne3 Nf5 19. Qg5 Nxe3 20. Bxe3 Bd7 21. Bd4 g6 22. Qe7 Rf7 23. Qd8+ Rf8 24. Qxc7 a5 25. Qxd6 e3 26. fxe3 Bf5 27. Qe5 Kf7 28. Qg7+ Ke8 29. Bc5 Rf7 30. Qg8+ Kd7 31. Qxf7+ Kc8 32. d6 Bd7 33. Qg8+ Kb7 34. Qxh7 Ka6 35. Bf3 Qc4 36. Bxa8 Qxc5 37. Rd3 Kb6 38. Be4 Qa3 39. Re1 Qa2 40. Rdd1 Qc4 41. Bxg6 Qxc3 42. Qf7 Bg4 43. Rc1 Nd7 44. h3 Ne5 45. Qg8 Bc8 46. Qd8+ Ka6 47. Qf6 Bd7 48. Rcd1 a4 49. Be4 a3 50. Ba8 b4 51. Bd5 Ka7 52. Qe7 Ka6 53. Qh7 Ka5 54. g3 Ka4 55. Bb3+ Ka5 56. Kf2 Kb6 57. Qh6 a2 58. Qh7 Qc8 59. Bxa2 Bxh3 60. Rd4 Ng4+ 61. Ke2 Qc3 62. Qe4 Nxe3 63. Qxe3 Qxc2+ 64. Rd2+ Qc5 65. d7 Bg4+ 66. Kf1 Bh3+ 67. Kf2 Qxe3+ 68. Kxe3 Bxd7 69. Rxd7 Kc6 70. Rd5 Kb6 71. Rb1 b3 72. Bxb3 Kc6 73. g4 Kb7 74. g5 Kc7 75. g6 Kc6 76. g7 Kb7 77. Kd2 Kc6 78. Kc1 Kc7 79. Kd1 Kc6 80. Kc1 Kc7 81. Kd1 Kc6 82. Kc1 1/2-1/2

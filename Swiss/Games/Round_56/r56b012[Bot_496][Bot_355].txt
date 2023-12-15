@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "55"]
+[White "Ace V1.0.0 (by: Atad)"]
+[Black "Golden_Chess_Requiem (by: Dhruv S)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. e5 Qe7 8. Qe2 Nd5 9. Bd2 Bb7 10. Nxd5 Bxd2+ 11. Qxd2 cxd5 12. O-O-O O-O 13. Re1 d6 14. Qb4 Bc6 15. exd6 Qxd6 16. Qxd6 cxd6 17. Bd3 Rae8 18. Rxe8 Rxe8 19. b4 d4 20. Rg1 Re5 21. Kd2 Bd5 22. a4 Rh5 23. h3 Be6 24. a5 Rd5 25. Re1 g6 26. Bc4 Re5 27. Rxe5 dxe5 28. Bxe6 fxe6 29. Kc1 Kg7 30. Kd2 Kg8 31. a6 e4 32. b5 Kf7 33. b6 axb6 34. a7 Kf6 35. a8=Q Kf5 36. Qf8+ Ke5 37. Qg7+ Kd5 38. Qb7+ Ke5 39. Qxb6 Kd5 40. Qb7+ Ke5 41. Qg7+ Kf5 42. g4+ Kg5 43. Qe7+ Kh6 44. h4 e3+ 45. Kc1 exf2 46. Qf8# 1-0

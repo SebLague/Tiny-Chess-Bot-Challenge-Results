@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "5"]
+[White "broken bot (by: Raj Gaurav)"]
+[Black "SWaP (Stucked With a Piece) (by: Esprit Orgue)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 d5 2. g4 d4 3. f4 d3 4. cxd3 Be6 5. e4 Bb3 6. axb3 Qc8 7. h5 Qf5 8. exf5 b6 9. h6 b5 10. hxg7 b4 11. gxh8=B Kd8 12. f6 Ke8 13. fxe7 Kxe7 14. g5 Ke6 15. g6 Kd5 16. gxh7 Kd6 17. hxg8=B Kc6 18. f5 Kd6 19. f6 Ke6 20. d4 Kd5 21. d3 Kd6 22. d5 Ke5 23. d6 Kf5 24. dxc7 Ke6 25. cxb8=B Kd7 26. d4 Kc8 27. d5 Kd8 28. d6 Kd7 29. Nh3 Ke8 30. d7+ Kd8 31. Ng5 a6 32. Nxf7# 1-0

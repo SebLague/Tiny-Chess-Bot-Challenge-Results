@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "40"]
+[White "The Grandiloquent Intelligentsia of Magnanimous Strategem: A Prodigiously Resplendent Embodiment of Erudite Chess Esotericism, Exuding Enigmatic Brilliance and Sublime Eloquence Whilst Enchantingly Tempering the Hallowed Battlefield of Intellectual Duels, Endeavoring to Transcend Acumen and Ascend to the Pantheon of Learned Peregrinations with an Efficacious Arsenal of Foresight and Sagacity, Humbling Opponents with Refined Gallantry, and Beckoning Discerning Disciples to Witness the Manifest Veracity of its Ascent to a Formidable Elo Quintessence (by: Giles Corey)"]
+[Black "Hrustco Bot (by: migrin)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. Nc3 d5 3. g3 d4 4. Nb1 Nc6 5. c3 e5 6. Bg2 d3 7. O-O e4 8. Ng5 Qd5 9. Nxe4 Nxe4 10. exd3 Nxf2 11. Bxd5 Nxd1 12. Bxf7+ Kd8 13. d4 Bg4 14. Bb3 Nxb2 15. Bxb2 Be2 16. Rf2 Bd3 17. Na3 Kc8 18. Re1 Kd8 19. Nc4 Be7 20. Rf3 Bxc4 21. Bxc4 Bf6 22. Rf5 Ne7 23. Rf2 Nc6 24. Rfe2 Na5 25. Bf7 Nc6 26. d5 Nb4 27. cxb4 Bxb2 28. Re8+ Kd7 29. R1e7+ Kd6 30. Re6+ Kd7 31. R8e7+ Kc8 32. Re4 Bf6 33. Be6+ Kb8 34. Rf7 Rd8 35. Rc4 Be5 36. a4 a6 37. Rh4 h6 38. Kg2 c6 39. a5 cxd5 40. Rh5 g5 41. Rxh6 d4 42. Rhh7 Ra7 43. Rf5 Bc7 44. Rxg5 d3 45. Kf3 Bd6 46. Rd5 Rf8+ 47. Ke3 Bxb4 48. Rh6 Be7 49. Kxd3 Bd8 50. Ke4 b6 51. axb6 Bxb6 52. Rf5 Rd8 53. Bd5 Re7+ 54. Kf3 Ka7 55. Rg6 Red7 56. Ke4 Re7+ 57. Re5 Rh7 58. Ree6 Rb8 59. h4 a5 60. h5 Rc7 61. Re5 Bf2 62. h6 Rb4+ 63. Kf5 Rc8 64. Re7+ Kb8 65. Ra6 Rf8+ 66. Kg6 Rb6+ 67. Rxb6+ Bxb6 68. Rb7+ Kc8 69. Rxb6 Kc7 70. Rc6+ Kd7 71. h7 a4 72. Ra6 Rh8 73. Kg7 Rxh7+ 74. Kxh7 a3 75. Kg6 a2 76. Bxa2 Kc7 77. Kf6 Kb7 78. g4 Kxa6 79. g5 Kb5 80. g6 Kb4 81. g7 Ka5 82. g8=Q Kb5 83. Qe6 Kc5 84. Qa6 Kb4 85. Ke7 Kc5 86. Qa5+ Kd4 87. Qd5# 1-0

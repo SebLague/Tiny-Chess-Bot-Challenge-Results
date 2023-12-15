@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "16"]
+[White "Memelord (by: Alex Kubanek)"]
+[Black "DrawMachine (by: Rune)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d6 2. Ke2 c5 3. Ke3 h6 4. Ke2 Qb6 5. a3 Qc6 6. h4 Qxe4# 0-1

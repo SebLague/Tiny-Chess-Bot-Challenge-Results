@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Knockout 64"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "-1"]
+[White "Sky-Bot (by: Sky64Redstone)"]
+[Black "KurentPosition (by: JaPa)"]
+[Result "0-1"]
+[TimeControl "30+0.1"]
+[Termination "Checkmate"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 Bb4 5. Bg2 O-O 6. O-O d6 7. Nd5 Bc5 8. e3 e4 9. Ng5 Nxd5 10. cxd5 Qxg5 11. dxc6 d5 12. d3 exd3 13. e4 Qg6 14. exd5 bxc6 15. dxc6 Bg4 16. Bf3 h5 17. Bf4 Bd4 18. Rb1 Rad8 19. b4 Rfe8 20. b5 Re2 21. Bxg4 Qxg4 22. Bxc7 Qf3 23. Qxe2 dxe2 24. Bxd8 exf1=R+ 25. Rxf1 Bxf2+ 26. Rxf2 Qd1+ 27. Kg2 Qxd8 28. Rf5 Qd2+ 29. Kh3 Qe2 30. Rc5 Qe6+ 31. Kg2 Qe3 32. Rf5 Qe4+ 33. Rf3 Qe2+ 34. Rf2 Qxb5 35. Kf3 Qxc6+ 36. Ke3 Qc3+ 37. Ke4 f5+ 38. Rxf5 Qc2+ 39. Kf4 Qd2+ 40. Ke4 Qxa2 41. Rd5 Qg2+ 42. Kd4 Qxh2 43. Rd8+ Kf7 44. Ra8 Kg6 45. Kc4 Qe2+ 46. Kd4 h4 47. Rxa7 hxg3 48. Rc7 g2 49. Rc6+ Kf5 50. Rc5+ Kf4 51. Kd5 g1=Q 52. Rc4+ Kf5 53. Rf4+ Kxf4 54. Kc6 Kf5 55. Kb7 Qe4+ 56. Kc8 Qa7 57. Kd8 Qc4 58. Ke8 Qc8# 0-1

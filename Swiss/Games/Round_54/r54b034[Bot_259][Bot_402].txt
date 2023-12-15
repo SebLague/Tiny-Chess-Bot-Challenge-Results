@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "53"]
+[White "DarnBot (by: Darn)"]
+[Black "Lxna (V4) (by: Ludovic Debever (Lxdovic))"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Nf3 Nf6 3. e5 Ng4 4. d4 d6 5. h3 dxe5 6. hxg4 Bxg4 7. d5 Nb4 8. c4 c6 9. Qb3 Bxf3 10. Qxb4 Bg4 11. Qxb7 Rc8 12. Qxa7 cxd5 13. c5 Bd7 14. Qa3 e6 15. b4 Be7 16. Bd2 Bf6 17. Qb3 O-O 18. a4 e4 19. Ra3 Re8 20. a5 Bd4 21. Qh3 h6 22. a6 Qf6 23. Be3 Bxe3 24. Qxe3 Qb2 25. Rb3 Qf6 26. Be2 Ba4 27. Ra3 Bc6 28. Qd2 d4 29. Rg3 e3 30. fxe3 Qe5 31. Rhh3 dxe3 32. Rxe3 Qa1 33. Bd3 Rcd8 34. Reg3 Qe5+ 35. Qe2 Qf4 36. Rg4 Qc1+ 37. Kf2 f5 38. Rc4 Qg5 39. Rg3 Qf6 40. Rf4 Rd4 41. Qe3 Rxf4+ 42. Qxf4 h5 43. Be2 h4 44. Rd3 Be4 45. Rd1 e5 46. Qe3 Qg6 47. Qh3 f4 48. Nc3 Qg3+ 49. Qxg3 fxg3+ 50. Kg1 Bc2 51. Bc4+ Kh7 52. Ra1 e4 53. a7 Bd3 54. Bd5 e3 55. a8=Q Rxa8 56. Bxa8 g5 57. Re1 Kh6 58. Rxe3 Bf5 59. c6 Bg4 60. c7 Bf5 61. Ne4 Kg6 62. Bb7 Kh5 63. Nd6 Bd7 64. Bc6 Bg4 65. Bf3 Bxf3 66. Rxf3 h3 67. c8=Q h2+ 68. Kh1 g4 69. Qh8+ Kg5 70. Rf8 Kg6 71. Rg8# 1-0

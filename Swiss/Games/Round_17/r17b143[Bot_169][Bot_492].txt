@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "16"]
+[White "TalkChess (by: Thomas Jahn, Mike Sherwin, Dmitry Shechtman)"]
+[Black "pnathan (by: pnathan)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Nc3 Na6 2. Nf3 Nf6 3. d4 Rg8 4. e4 Nb4 5. Be3 Ng4 6. Bd3 Nxe3 7. fxe3 c6 8. O-O Qa5 9. Ne5 Nxd3 10. Qxd3 f6 11. Qc4 e6 12. Nd3 Kd8 13. Rad1 Kc7 14. Rfe1 Kb8 15. Qb3 Bd6 16. Qc4 Bf8 17. Nf4 Qg5 18. Qb3 Rh8 19. Qc4 Rg8 20. Qd3 Qg4 21. Qc4 Qg5 1/2-1/2

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "25"]
+[White "Squeedo (by: David Giesegh)"]
+[Black "BackupBotCuzIDeletedPreviousGoodOne (by: _deeznuts420)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Nf3 Rb8 3. Nc3 Ra8 4. Bb5 a6 5. Bxc6 bxc6 6. O-O d5 7. exd5 cxd5 8. Ne5 Bf5 9. g4 Be6 10. g5 Qd6 11. f4 Bh3 12. Qh5 Bxf1 13. Qxf7+ Kd8 14. Qxf8# 1-0

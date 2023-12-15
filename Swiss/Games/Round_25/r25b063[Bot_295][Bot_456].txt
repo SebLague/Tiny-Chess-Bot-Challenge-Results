@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "24"]
+[White "One-Line Chess (by: Kaydon Sloan)"]
+[Black "HikuBot (by: Hikushii)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c4 Nf6 2. e3 g6 3. d4 Bg7 4. Nc3 O-O 5. e4 d6 6. e5 dxe5 7. dxe5 Qxd1+ 8. Nxd1 Nh5 9. f4 Nc6 10. c5 Nd4 11. Kf2 Ne6 12. Ne2 f6 13. g4 Nhxf4 14. exf6 Nd5 15. Bg2 Nxf6 16. Kg1 Nxg4 17. Bd5 c6 18. Bxe6+ Bxe6 19. h3 Ne5 20. Nf4 Bf5 21. Kh2 Be4 22. Ng2 Rf5 23. Be3 Nf3+ 24. Kg3 Be5+ 25. Bf4 Raf8 26. Nde3 Bxf4+ 27. Nxf4 Rxf4 28. Ng2 R4f5 29. h4 Rxc5 30. b4 Rc3 31. Rac1 Ra3 32. h5 Ne5+ 33. Kh2 Ng4+ 34. Kg1 Rg3 35. Rh2 Nxh2 36. Kxh2 Rxg2+ 37. Kh3 Rf5 38. Rc5 Rf1 39. Rc1 Rxc1 40. Kh4 Rh1# 0-1

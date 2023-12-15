@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "60"]
+[White "Chess Bot (by: M)"]
+[Black "Basil (by: torbenikum)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. e5 Ng8 3. d4 h6 4. Bd3 d6 5. Bf4 Kd7 6. Nc3 dxe5 7. dxe5 Kc6 8. Be4+ Kb6 9. Be3+ Ka6 10. Qe2+ b5 11. Bb7+ Ka5 12. b4+ Kxb4 13. Qxb5+ Kxc3 14. Be4 Rh7 15. Ne2# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "23"]
+[White "More Recursion! (by: Bden)"]
+[Black "WingBot (by: Benjamin Iserman)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e5 2. Qh5 Bd6 3. e4 Qf6 4. Bc4 Nc6 5. f3 b6 6. Bd5 Ba6 7. h3 Ke7 8. Nc3 Kd8 9. Na4 Ke7 10. c3 Kd8 11. Rb1 Ke7 12. Ra1 Kd8 13. Rh2 Ke7 14. Rh1 Kd8 15. b3 Ke7 16. Rb1 Kd8 17. Ra1 Kc8 18. Rh2 Kb7 19. Rb1 Kb8 20. Rh1 Kb7 21. Ra1 b5 22. Nb2 Kb6 23. Nc4+ bxc4 24. bxc4 Ka5 25. d3 Ka4 26. Be3 Ka5 27. Rd1 Ka4 28. Ne2 Ka5 29. Rf1 Ka4 30. Rf2 Ka5 31. Rc1 Ka4 32. g3 Ka3 33. Ng1 Ka4 34. Rf1 Ka3 35. Rc2 Ka4 36. Rcf2 Ka5 37. Rb2 Ka4 38. Rb4+ Bxb4 39. cxb4 Kxb4 40. Ne2 Ka3 41. Nc3 Kb4 42. Ne2 Ka3 43. Nc3 Kb2 44. Kd2 Ka3 45. Nb5+ Kxa2 46. f4 Kb2 47. fxe5 Qxf1 48. Bxc6 dxc6 49. Nxa7 Qg2+ 50. Kd1 Qxg3 51. Nxc6 Qxe3 52. Qxh7 Rxh7 53. Nb4 Qxh3 54. Nxa6 Rxa6 55. Kd2 Qh2+ 56. Kd1 Ra1# 0-1

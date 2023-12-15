@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "60"]
+[White "Simple Minimax (by: Sidewinder7)"]
+[Black "Thulium (by: Valentin POQUET)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. h4 Nxe4 3. d4 Nc6 4. d5 Ne5 5. Be3 a5 6. Bc4 Nxc4 7. Ne2 Nxb2 8. f3 Nxd1 9. fxe4 Nxe3 10. Kf2 Nxc2 11. Na3 Nxa3 12. g4 Nb5 13. Kg3 Ra6 14. g5 Rb6 15. Nf4 Rg8 16. d6 cxd6 17. Nd5 Ra6 18. Rh2 e5 19. a3 a4 20. g6 fxg6 21. Rb2 Nd4 22. Kh3 Ra5 23. Rh2 Rb5 24. Nb4 Qf6 25. Rf2 Qxf2 26. Rb1 Ne2 27. Kg4 Qg2# 0-1

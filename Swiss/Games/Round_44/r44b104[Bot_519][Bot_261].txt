@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "43"]
+[White "BasicAlphaBeta (by: ThonyDragon)"]
+[Black "SummerBoty (by: Thomas)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. c4 d5 2. c5 e5 3. d4 Nc6 4. dxe5 Bxc5 5. Qa4 Bf5 6. Bd2 Bd4 7. Qb5 Bxe5 8. Qxb7 Nge7 9. e4 dxe4 10. Bb5 Bd7 11. Bg5 Rb8 12. Qa6 Bxb2 13. Bxc6 Bxa1 14. Bxe4 Rb4 15. f3 Ra4 16. Qe2 Rb4 17. Qa6 Ra4 18. Qe2 Rb4 19. Qa6 1/2-1/2

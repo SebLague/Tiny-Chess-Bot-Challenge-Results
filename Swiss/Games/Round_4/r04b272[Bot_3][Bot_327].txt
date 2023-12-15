@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "3"]
+[White "Pancake (by: EaglePancake)"]
+[Black "FunBot (by: Paul Spooner AKA Dudecon)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c3 d6 2. Qa4+ c6 3. Qxc6+ bxc6 4. f4 c5 5. f5 Bxf5 6. Nf3 f6 7. e3 a5 8. Bb5+ Bd7 9. Bxd7+ Nxd7 10. g4 h6 11. a3 Nb6 12. Nd4 c4 13. g5 hxg5 14. Nf3 a4 15. Nxg5 fxg5 16. h4 e6 17. hxg5 Rxh1+ 18. Ke2 Rxc1 19. d3 Qxg5 20. dxc4 Nxc4 21. Nd2 Qxe3# 0-1

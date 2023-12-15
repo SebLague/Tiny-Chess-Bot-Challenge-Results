@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "TuroChampEx (by: code<metas>)"]
+[Black "Kinglet (by: Skolin + World + Abyss)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. a4 d5 3. e3 Bf5 4. b3 e6 5. Bb2 Bb4 6. Nc3 O-O 7. h4 Nc6 8. Nb5 Rc8 9. c3 Be7 10. h5 Bg4 11. h6 e5 12. hxg7 Kxg7 13. c4 e4 14. cxd5 Qxd5 15. Bc4 Qf5 16. Nh4 Qh5 17. f3 exf3 18. gxf3 Be6 19. Qc2 a6 20. Na3 Rfe8 21. Bxa6 Nb4 22. Bxf6+ Bxf6 23. Rg1+ Kh8 24. Qe4 Nxa6 25. Ng6+ fxg6 26. Qb1 Qxf3 27. d4 Qxe3+ 28. Kd1 Qxg1+ 29. Kd2 Qf2+ 30. Kc1 Bg5+ 31. Kd1 Bg4# 0-1

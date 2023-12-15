@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "9"]
+[White "NoNameBot (by: Gamerninja)"]
+[Black "Simpleton.01 (by: Bee)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a3 e6 2. b3 h5 3. c3 Nf6 4. d3 Na6 5. Bf4 Nc5 6. Be5 Nxd3+ 7. exd3 Bxa3 8. Rxa3 Ng4 9. Bxg7 Nxh2 10. Bxh8 Ng4 11. Rxh5 Nxf2 12. Kxf2 c6 13. Bd4 f6 14. Rh7 Qb6 15. Bxb6 axb6 16. Rxa8 Kd8 17. Rf7 f5 18. Rg7 d6 19. Rxb7 b5 20. Rf7 d5 21. Rg7 d4 22. cxd4 Ke8 23. Rxc8# 1-0

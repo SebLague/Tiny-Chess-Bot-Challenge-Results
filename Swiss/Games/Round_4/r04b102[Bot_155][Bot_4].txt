@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "3"]
+[White "CompressionBot (by: Nathan George)"]
+[Black "Sore Loser Bot (by: Techno)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Na6 2. e4 g5 3. Nxg5 Nb8 4. d4 Bh6 5. Nc3 Bg7 6. Qh5 Bxd4 7. Qxf7# 1-0

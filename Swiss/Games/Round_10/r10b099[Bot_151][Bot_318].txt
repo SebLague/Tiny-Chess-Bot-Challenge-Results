@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "9"]
+[White "CompressTable (by: JacobAndSam)"]
+[Black "LoserNotDrawer (by: Piele)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 c5 2. Nf3 Nc6 3. Nd5 Nf6 4. Nxf6+ exf6 5. Nh4 d5 6. Rb1 Bg4 7. f3 g5 8. fxg4 gxh4 9. g3 Qd7 10. gxh4 Qxg4 11. Ra1 Qxh4# 0-1

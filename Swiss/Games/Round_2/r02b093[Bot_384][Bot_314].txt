@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "Baloo-D (by: Dimitri)"]
+[Black "Folke (by: Folke)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Bb5 c6 3. Bf1 d5 4. exd5 cxd5 5. Bb5+ Bd7 6. Bxd7+ Nxd7 7. Qg4 Ngf6 8. Qa4 Bc5 9. b4 Bd6 10. Kd1 Ne4 11. Ke2 Qh4 12. Qb5 Qxf2+ 13. Kd3 Qxg2 14. Qxd5 Nf2+ 15. Ke2 Qxd5 16. Nc3 Qg2 17. Ne4 Nxe4+ 18. Kd3 Nf2+ 19. Kc3 Qe4 20. Rb1 Nd1+ 21. Kb3 Qxb4# 0-1

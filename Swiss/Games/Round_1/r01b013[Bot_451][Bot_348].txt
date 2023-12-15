@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "GreGory (by: Kokken)"]
+[Black "SimplerBot (by: Rick Schaffer)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c3 Nc6 2. h4 Nf6 3. Qa4 d5 4. d3 e5 5. Nf3 Bd7 6. Be3 Ng4 7. Bc1 h6 8. b4 b5 9. Qxb5 Nxb4 10. Qa5 Nc2+ 11. Kd2 Nxa1 12. a4 Nb3+ 13. Kd1 Nxa5 14. e3 Nxf2+ 15. Ke1 Nxh1 16. c4 e4 17. Nd4 Qxh4+ 18. Ke2 Qf2+ 19. Kd1 Bxa4+ 20. Nc2 Bxc2# 0-1

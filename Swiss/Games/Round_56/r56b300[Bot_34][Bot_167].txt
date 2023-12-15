@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "55"]
+[White "SaveBot (or, "winning bot" as an alternative) (by: Rudy)"]
+[Black "Betelchess (by: VY Canis Majoris (also special thanks to Gurren Lagann))"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Na3 a5 2. Rb1 b5 3. Nxb5 c5 4. Ra1 d5 5. Rb1 Qd6 6. Nxd6+ Kd7 7. Nxf7 Kc7 8. Nxh8 Kb6 9. Ra1 Ka7 10. Rb1 Kb6 11. Ra1 Ka7 12. Rb1 Kb6 1/2-1/2

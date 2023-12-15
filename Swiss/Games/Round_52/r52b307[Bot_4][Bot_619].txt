@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "51"]
+[White "Sore Loser Bot (by: Techno)"]
+[Black "Bad Player (by: Geopardgame)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. c4 c5 2. Nc3 Qb6 3. Na4 Na6 4. e4 Qd8 5. Nh3 b6 6. Nxc5 Nxc5 7. Nf4 Ba6 8. Bd3 d6 9. Rg1 e6 10. Ng6 Nxe4 11. Qc2 h6 12. g3 d5 13. Nf4 Bd6 14. Qb1 dxc4 15. Kd1 Ngf6 16. Nxe6 Nxd2 17. Nc5 Bf8 18. Ke2 Bxc5 19. h3 Qc7 20. Be4 Nd5 21. Rd1 O-O 22. h4 h5 23. f4 Nxf4+ 0-1

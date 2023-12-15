@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "12"]
+[White "Minirose V2.23 (by: Tamplite Siphron Kents)"]
+[Black "Turochamp (Faithful) (by: P Rivero)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 e6 2. Nc3 Nc6 3. d5 Bb4 4. dxc6 Qf6 5. cxd7+ Bxd7 6. Bd2 O-O-O 7. a3 Bd6 8. Nf3 Ne7 9. Rc1 Bc6 10. e4 Bc5 11. Bd3 Ng6 12. Bg5 Nf4 13. Bxf6 Rxd3 14. cxd3 Ba4 15. Nxa4 gxf6 16. Nxc5 b6 17. g3 Ng6 18. Na6 Kb7 19. Rxc7+ Ka8 20. Rxf7 Rf8 21. Qc1 Ne5 22. Rxf8+ Kb7 23. Qc8# 1-0

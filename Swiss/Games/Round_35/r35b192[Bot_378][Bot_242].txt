@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "34"]
+[White "IDK What I Was Doing (by: Yajwin Grover)"]
+[Black "SlothBot (by: 0xFF)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f4 Nf6 2. Nf3 d5 3. Ne5 e6 4. b3 Ne4 5. e3 Qh4+ 6. Ke2 Qf2+ 7. Kd3 Nd7 8. Bb2 Nec5+ 9. Kd4 Nxb3+ 10. cxb3 Bd6 11. Nxd7 Bxd7 12. Kd3 Rg8 13. Kc2 c6 14. Qc1 Bc5 15. Kd1 Bb4 16. Be5 Qxf1+ 17. Rxf1 f6 18. Bb2 Bd6 19. Ke1 O-O-O 20. Qd1 Be8 21. Kf2 Bg6 22. d3 Kb8 23. Kg1 b5 24. Qc2 b4 25. Qxc6 Bxd3 26. Rc1 h5 27. Kh1 a6 28. Kg1 h4 29. Rd1 Be2 30. Rd2 Bb5 31. Qb6+ Ka8 32. a4 bxa3 33. Nxa3 Bc5 34. Qxd8+ Rxd8 35. Nc2 Rd7 36. h3 Kb7 37. Ba3 Bb6 38. Kh1 e5 39. fxe5 fxe5 40. Bb2 e4 41. Bd4 Bc7 42. Na3 Bd3 43. Rc1 a5 44. Kg1 Bg3 45. Ra1 Rc7 46. Rxd3 exd3 47. Nb5 Rc2 48. Bxg7 Bf2+ 49. Kf1 Bxe3 50. Rb1 Rf2+ 51. Kg1 Rb2+ 52. Kf1 Rxb1# 0-1

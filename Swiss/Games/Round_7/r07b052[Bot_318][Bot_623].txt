@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "6"]
+[White "LoserNotDrawer (by: Piele)"]
+[Black "LoevBot (by: Loev06)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. c4 e5 2. e4 Nf6 3. Nf3 Nc6 4. Bd3 Nb4 5. Nxe5 Qe7 6. a3 Nxd3+ 7. Nxd3 Qxe4+ 8. Qe2 Qxe2+ 9. Kxe2 d6 10. Re1 Be6 11. Kd1 O-O-O 12. Nf4 Bxc4 13. Re3 Ng4 14. Rc3 d5 15. Nh3 Bd6 16. d4 Rhe8 17. Bg5 f6 18. Bd2 Nxh2 19. b3 Bf1 20. Nf4 Ng4 21. Nxd5 Nxf2+ 0-1

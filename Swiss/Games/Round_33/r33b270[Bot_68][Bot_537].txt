@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "32"]
+[White "Mr. Racism (by: 89o)"]
+[Black "InfuehrDaniel MCTS (by: Daniel Infuehr)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nh3 e6 2. f3 Qh4+ 3. g3 Qh5 4. g4 Qe5 5. b3 Bb4 6. Bg2 h5 7. gxh5 Rh6 8. Kf1 Rxh5 9. d3 Bc5 10. c4 Rxh3 11. Bxh3 Qd4 12. Bxe6 Qf2# 0-1

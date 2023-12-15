@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "35"]
+[White "Sørensen's Minimax (by: Victor)"]
+[Black "NotQuiteRandomGamblerAndPruner (by: Taco Olmer)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. e3 e6 2. Qg4 Nc6 3. Bb5 Ne5 4. Qh5 Qf6 5. d4 Bb4+ 6. c3 Bd6 7. dxe5 g6 8. exf6 gxh5 9. Ne2 a6 10. Bd3 b5 11. Be4 Rb8 12. Kd2 Nxf6 13. Bf3 Bb7 14. Bxb7 Rxb7 15. Nd4 Bc5 16. Nc2 Bf8 17. Nd4 Bc5 18. Nc2 Bf8 19. Nd4 Bc5 1/2-1/2

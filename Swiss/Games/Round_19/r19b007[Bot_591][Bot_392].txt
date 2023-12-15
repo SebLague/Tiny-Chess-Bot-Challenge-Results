@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "18"]
+[White "Rigel (by: Antares (Github: Alex2262))"]
+[Black "Uranium (by: iudwgerte)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. d4 Nf6 2. Nf3 d5 3. Bf4 c5 4. e3 cxd4 5. Bb5+ Bd7 6. Nxd4 a6 7. Bd3 Nc6 8. O-O Nxd4 9. exd4 Qb6 10. Be5 Ng4 11. Nd2 Nxe5 12. dxe5 Qxb2 13. Rb1 Qxe5 14. Rxb7 Bc8 15. Re1 Qf4 16. Rb3 Bg4 17. g3 Bxd1 18. gxf4 Bg4 19. c4 dxc4 20. Nxc4 Be6 21. Rb6 g6 22. Be4 Rc8 23. Bc6+ Rxc6 24. Rxc6 Bg7 25. Ne5 a5 26. Ra6 O-O 27. Rxa5 Rc8 28. Kg2 Bf6 29. Kg3 Kg7 30. a4 Rc3+ 31. f3 Rc2 0-1

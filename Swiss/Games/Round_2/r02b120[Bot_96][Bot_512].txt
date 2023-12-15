@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "Chess Bot (by: M)"]
+[Black "LiL Scoot (by: Scoutamass)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e6 2. Bd3 Qg5 3. Nf3 Qxg2 4. Rg1 Qh3 5. Rg3 Qh5 6. Rg5 Qh6 7. Nc3 Qf6 8. Nb5 Kd8 9. Rh5 g6 10. e5 gxh5 11. exf6 Nxf6 12. Ne5 Ke7 13. Nxc7 Nc6 14. Nxc6+ bxc6 15. Nxa8 Rg8 16. Ke2 h6 17. b3 d6 18. Bb2 Nd5 19. Kf1 Nf6 20. f4 e5 21. fxe5 Bh3+ 22. Kf2 Rg2+ 23. Kf3 Rg8 24. exf6+ Kd8 25. Qb1 Bg2+ 26. Ke3 Bh3 27. c4 Rg2 28. a4 Rxh2 29. Qg1 Rg2 30. Qe1 Rh2 31. Qg3 Rg2 32. Qxh3 Rg5 33. Bc3 a5 34. Nb6 Re5+ 35. Bxe5 Kc7 36. c5 Kb7 37. Bxd6 Bxd6 38. Qd7+ Bc7 39. b4 axb4 40. a5 b3 41. a6+ Kb8 42. Qxc6 Bf4+ 43. Kxf4 b2 44. Qb7# 1-0

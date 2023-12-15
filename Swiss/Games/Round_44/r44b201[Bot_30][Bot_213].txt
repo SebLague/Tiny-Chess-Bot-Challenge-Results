@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "43"]
+[White "WhyAmIABot (by: Levi)"]
+[Black "Some rules bot (by: qumquat)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h3 Nh6 2. c4 Nc6 3. b3 b6 4. Na3 a6 5. Nf3 Ra7 6. Bb2 a5 7. Qc1 Ra6 8. Qc3 d6 9. h4 e6 10. h5 Qd7 11. Rb1 f5 12. d3 Ng4 13. Nh4 Qf7 14. Nb5 Qxh5 15. Nxc7+ Kd7 16. Nxa6 Bxa6 17. Ba3 g5 18. Qxh8 gxh4 19. Qxf8 Nce5 20. Qxd6+ Kc8 21. Qxe6+ Kc7 22. Qe7+ Kc8 23. Qf8+ Kc7 24. Bd6+ Kb7 25. Bxe5 Nxe5 26. Qg7+ Ka8 27. Qxe5 Qg4 28. Qh8+ Kb7 29. Qxh7+ Kc6 30. Qh6+ Kc5 31. Qf8+ Kc6 32. Qe8+ Kc5 33. Qf8+ Kc6 34. Qa8+ Kd7 35. Qxa6 f4 36. Qxb6 Ke7 37. Qxa5 Qf3 38. gxf3 Kf7 39. Rxh4 Kf6 40. Rxf4+ Kg7 41. d4 Kg8 42. a4 Kg7 43. e4 Kh8 44. e5 Kh7 45. b4 Kg6 46. d5 Kg5 47. Qd8+ Kh6 48. e6 Kg6 49. a5 Kh5 50. e7 Kg5 51. e8=Q+ Kh6 52. c5 Kh7 53. b5 Kg7 54. b6 Kh6 55. b7 Kh7 56. b8=Q Kg7 57. Rb7+ Kh6 58. Rh4# 1-0

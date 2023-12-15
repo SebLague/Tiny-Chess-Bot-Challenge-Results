@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "52"]
+[White "Negative Depth (by: Zoltán Kürti)"]
+[Black "LunarBot (by: LunarTech)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nc6 2. d4 Nf6 3. d5 Nb4 4. Nc3 c6 5. e4 Qa5 6. Bc4 Nxe4 7. Bd2 Qc5 8. Be3 Qxc4 9. Bh6 Nxc3 10. Rg1 Nxd1 11. Rxd1 gxh6 12. dxc6 Nxc6 13. Nh4 Qxh4 14. Rh1 Qb4+ 15. c3 Qxb2 16. Rf1 Bg7 17. Rd3 Qxa2 18. Kd1 Qc4 19. Kd2 Ne5 20. Rg3 Qxf1 21. Rxg7 Qxf2+ 22. Kc1 Nc4 23. Rg8+ Rxg8 24. h3 Rxg2 25. Kd1 Qf1# 0-1

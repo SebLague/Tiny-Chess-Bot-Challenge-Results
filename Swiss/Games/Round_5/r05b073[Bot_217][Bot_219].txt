@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "4"]
+[White "BOTvinnik (by: Paul Smooth)"]
+[Black "Supertask-Time-Troubles (by: TimFW)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. d4 exd4 3. Bg5 Qxg5 4. Qxd4 Qc1+ 5. Ke2 Nc6 6. Qd5 Qxb2 7. Nd2 Nd4+ 8. Kd3 Qxc2+ 9. Kxd4 Qxd2+ 10. Ke5 f6+ 11. Kf5 Nh6# 0-1

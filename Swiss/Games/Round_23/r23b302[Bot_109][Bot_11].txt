@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "22"]
+[White "DeepScaredyBot (by: Jacob Sweeten)"]
+[Black "The Soggy Biscuit (by: Brandon Curington)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 f5 2. Rb1 c5 3. Nf3 e5 4. Ra1 d5 5. c3 Qd6 6. Qb3 Qe6 7. Rb1 Qf6 8. Qb4 Qd6 9. Kd1 cxb4 10. b3 Qe6 11. Kc2 Bd6 12. Kd3 Qf6 13. Ra1 e4+ 14. Ke3 f4# 0-1

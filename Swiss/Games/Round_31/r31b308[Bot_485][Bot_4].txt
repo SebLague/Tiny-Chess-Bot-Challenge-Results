@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "30"]
+[White "Search 1.0 (by: Rayansh)"]
+[Black "Sore Loser Bot (by: Techno)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. Nc3 Nc6 2. Nh3 f6 3. Nb5 h5 4. Nf4 d5 5. Nxd5 e5 6. Nbxc7+ 1-0

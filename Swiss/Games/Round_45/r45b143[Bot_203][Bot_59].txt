@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "44"]
+[White "1o1 (by: Pavan Manish)"]
+[Black "Generic Chess Bot #1000000 (by: Anthony)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. e4 Nf6 2. d4 Nxe4 3. Nf3 e6 4. Qd3 f5 5. a3 b6 6. g4 Qe7 7. b3 h5 8. gxh5 Rxh5 9. Ne5 Qh4 10. Qe3 Nxf2 11. Qxf2 Qe4+ 12. Qe2 Qh4+ 13. Qf2 Qe4+ 14. Qe2 Qh4+ 15. Qf2 1/2-1/2

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "50"]
+[White "Trogdor (by: Zaph)"]
+[Black "simpleval (portmonteau of simple eval) (by: hokurou)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 h5 2. b3 f5 3. f3 d5 4. Bd2 b5 5. g3 g6 6. h4 e6 7. Bf4 c6 8. Bxb8 Rxb8 9. Qd2 a6 10. Nc3 b4 11. Nh3 bxc3 12. Qxc3 Ne7 13. a4 Ng8 14. Qxc6+ Ke7 15. Qxc8 Qxc8 16. Nf2 Qxc2 17. a5 Rxb3 18. Rh3 Qc3+ 19. Kd1 Qxa1+ 20. Kd2 Qxf1 21. f4 Qxf2 22. Rh1 Rxg3 23. Rd1 Qxf4+ 24. Kc2 Qxh4 25. Rc1 Qxd4 26. Rf1 Qc5+ 27. Kd1 Qxa5 28. Rf4 Qa1+ 29. Kd2 Qb2+ 30. Ke1 Qc3+ 31. Kf2 Rh3 32. Rxf5 exf5 33. Kg1 Qd4+ 34. Kg2 Ra3 35. Kh1 Qa1+ 36. Kh2 Qe5+ 37. Kh1 Qxe2 38. Kg1 Ra1# 0-1

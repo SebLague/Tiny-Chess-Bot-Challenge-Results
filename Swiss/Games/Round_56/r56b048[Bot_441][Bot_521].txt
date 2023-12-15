@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "55"]
+[White "RigidBot (by: Mathias Elgaard)"]
+[Black "LIA Chess (by: Patrick und Jannik)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. d4 e6 3. Nf3 Nf6 4. e5 Nd5 5. Bb5 a6 6. Bxc6 bxc6 7. c4 Bb4+ 8. Ke2 Nb6 9. c5 Nc4 10. a3 a5 11. axb4 Ba6 12. Ke1 axb4 13. b3 Na3 14. Nxa3 bxa3 15. Rxa3 Qb8 16. Qc2 Qb4+ 17. Kd1 f6 18. exf6 gxf6 19. Qa2 Qb7 20. Bf4 Rg8 21. Rg1 Kd8 22. Kc1 Kc8 23. Qc2 Rg7 24. Qc3 Kd8 25. b4 Kc8 26. Kb1 Kd8 27. Bh6 Rf7 28. Re1 Ke7 29. Bf4 Rg8 30. Bg3 Bb5 31. Qc1 Kf8 32. h3 Rgg7 33. Qc3 Kg8 34. Rg1 Re7 35. Ra2 Rgf7 36. Rb2 Kf8 37. h4 Qb8 38. h5 Ke8 39. h6 d5 40. cxd6 cxd6 41. Rc1 Kf8 42. Qc2 Kg8 43. Qe4 f5 44. Qe3 Kf8 45. Rbc2 Qc7 46. Re1 Qd7 47. Rd2 Re8 48. Qf4 Rd8 49. Ng5 Re7 50. Nxe6+ Kg8 51. Bh4 Rxe6 52. Rxe6 Qxe6 53. Bxd8 Qb3+ 54. Kc1 Qa3+ 55. Rb2 Qc3+ 56. Rc2 Qe1+ 57. Kb2 Qxb4+ 58. Ka1 Qa3+ 59. Kb1 Qb4+ 60. Ka2 Bc4+ 61. Rxc4 Qxc4+ 62. Kb2 Qe2+ 63. Kc3 Qe1+ 64. Qd2 Qa1+ 65. Kc2 Kf7 66. Bg5 Qf1 67. g3 Qc4+ 68. Kb2 Kg6 69. Bf4 Qb5+ 70. Kc3 Qa5+ 71. Kd3 Qb5+ 72. Ke3 Qd5 73. Qc3 Kf7 74. Ke2 Kf6 75. Be3 Qb5+ 76. Kd2 Qd5 77. Qa1 Kg6 78. Qa7 Qg8 79. Kc3 Qf7 80. Qa8 Qd5 81. Qe8+ Kf6 82. Qh8+ Ke6 83. Qg8+ Kd7 84. Qxh7+ Kc8 85. Qa7 Qh1 86. h7 f4 87. gxf4 Qe1+ 88. Bd2 Qh1 89. h8=Q+ Qxh8 90. Qa8+ Kd7 91. Qxh8 Kc7 92. f5 Kb7 93. f6 Ka6 94. Qa8+ Kb6 95. f7 c5 96. f8=Q cxd4+ 97. Kxd4 Kb5 98. Qfb8# 1-0

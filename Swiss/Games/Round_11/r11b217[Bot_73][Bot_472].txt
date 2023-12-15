@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "10"]
+[White "evilbot v2 (by: aria1400)"]
+[Black "En Croissant (by: Lethal Chicken)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. e4 b5 2. Bxb5 a5 3. Be2 a4 4. g4 c5 5. a3 e5 6. Nc3 g5 7. Ra2 Bb7 8. Bb5 Bxe4 9. Nxe4 Qc8 10. Nxg5 Qc7 11. Kf1 Qa7 12. Ke1 Qa5 13. Bf1 d5 14. c4 dxc4 15. Bxc4 Qxd2+ 16. Kxd2 Kd7 17. Bxf7 Kc6 18. Ne2 Kb5 19. Ng1 Ka5 20. Ne2 Kb5 21. Ng1 Ka5 22. Ne2 Kb5 1/2-1/2

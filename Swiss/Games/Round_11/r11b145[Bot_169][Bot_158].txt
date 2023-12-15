@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "10"]
+[White "TalkChess (by: Thomas Jahn, Mike Sherwin, Dmitry Shechtman)"]
+[Black "Turochamp (Faithful) (by: P Rivero)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 Nc6 2. Nf3 e6 3. d4 d5 4. e4 Nf6 5. Bd3 dxe4 6. Bxe4 Nxe4 7. Nxe4 Qd5 8. Qd3 Nb4 9. Qe2 Nxc2+ 10. Qxc2 Bb4+ 11. Kf1 Bd7 12. Be3 O-O 13. Qxc7 Bb5+ 14. Kg1 Qxe4 15. Ne5 Rac8 16. Rc1 Rxc7 17. Rxc7 f6 18. Nf3 a5 19. a3 Bd6 20. Nd2 Qd5 21. Rc2 Bc6 22. Nf3 h5 23. Rc1 Bb5 24. Rd1 h4 25. Nxh4 a4 26. Nf3 Be2 27. Re1 Bxf3 28. gxf3 Qxf3 29. h3 Qf5 30. Rd1 Qh5 31. Re1 Qg6+ 32. Kf1 Qe4 33. Kg1 b5 34. Rd1 Qc2 35. Rd2 Qc1+ 36. Kg2 Qc4 37. Kg1 Qc6 38. Rd1 Qe4 39. Re1 Qg6+ 40. Kf1 Qc2 41. Kg1 Re8 42. Kf1 Rb8 43. Kg1 Qg6+ 44. Kf1 Qe4 45. Kg1 Bf4 46. Kf1 Qxh1+ 47. Ke2 Qe4 48. Kf1 Bd6 49. Rd1 Qf3 50. Re1 Qxh3+ 51. Ke2 Bc7 52. Kd2 Ba5+ 53. b4 axb3+ 54. Kc1 Bxe1 55. Bf4 Qc3+ 56. Kd1 b2 57. Bxb8 Qd2# 0-1

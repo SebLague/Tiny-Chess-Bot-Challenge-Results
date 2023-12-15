@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "43"]
+[White "Rubber Ducky (by: Joël)"]
+[Black "GPTGenerated (by: athibaul)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 c6 2. Nf3 f6 3. h4 g6 4. Nb1 d6 5. d3 e6 6. a4 Qa5+ 7. b4 Qxb4+ 8. c3 Qc5 9. d4 Qa5 10. Ra2 Bh6 11. Bxh6 Nxh6 12. Nfd2 Ng4 13. e4 Nh6 14. Qc1 Qc7 15. Bd3 a6 16. Kd1 Qa5 17. Nc4 Qh5+ 18. Be2 Ng4 19. Nxd6+ Kd7 20. Bxg4 Qxg4+ 21. f3 Qg3 22. Nxc8 Rxc8 23. Qb2 b5 24. Rh3 Qf4 25. Qf2 b4 26. cxb4 Qd6 27. Qd2 f5 28. e5 Qd5 29. Ra3 Qc4 30. a5 Qf1+ 31. Kc2 Qb5 32. Kb3 Qd5+ 33. Kb2 Kd8 34. Ka1 Nd7 35. Kb2 Nb8 36. Nc3 Qc4 37. Ra4 Qf1 38. Rh2 Kd7 39. Kb3 Re8 40. Ra3 Kc7 41. Ra4 Kd7 42. Ra2 Rc8 43. Qe3 Rh8 44. Rh3 f4 45. Qxf4 Rc8 46. Qf7+ Kd8 47. Qxe6 Nd7 48. Qd6 Ke8 49. e6 Nf6 50. Rc2 Ra7 51. Qe5 Ng8 52. Ka2 Qd3 53. Rb2 Qxc3 54. Rb1 Qd2+ 55. Ka1 Qc3+ 56. Ka2 Qc2+ 57. Ka3 Qxb1 58. f4 Rb7 59. Re3 Qxb4+ 60. Ka2 Qb2# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "57"]
+[White "Chessinator 3000 (by: )"]
+[Black "MyFirstChessEngine (by: Jake Forsey)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Qf3 d6 3. Bb5 Be6 4. Bxc6+ bxc6 5. Ne2 Bc4 6. Na3 Bxe2 7. Kxe2 Qc8 8. c4 Nh6 9. d4 Qg4 10. Bxh6 Qxf3+ 11. gxf3 gxh6 12. d5 Bg7 13. e5 Bxe5 14. Rab1 Kd7 15. dxc6+ Kxc6 16. b4 a6 17. b5+ Kb6 18. bxa6+ Kxa6 19. Nb5 Kb6 20. Nxd6+ Kc6 21. Nxf7 Rxa2+ 22. Kf1 Rf8 23. Nxe5+ Kd6 24. Re1 Ra7 25. Rg1 Rb7 26. Rg4 Rf6 27. Kg2 Rf5 28. Rd4+ Ke6 29. Ng4+ Kf7 30. Nxh6+ Kf6 31. Nxf5 e5 32. Rde4 Kxf5 33. Rxe5+ Kf6 34. Rc5 Ra7 35. Kg3 Rb7 36. Kg4 Kg6 37. Rh5 Rb2 38. Re6+ Kf7 39. Rc6 Rxf2 40. Rxh7+ Kg8 41. Rcxc7 Rf1 42. Ra7 Rd1 43. Kf5 Rf1 44. Kg6 Rg1+ 45. Kh6 Rg7 46. Rhxg7+ Kf8 47. Rge7 Kg8 48. Rf7 Kh8 49. Rf8# 1-0

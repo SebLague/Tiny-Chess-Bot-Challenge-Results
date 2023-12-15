@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "SmoothBrainBot (by: zeqzero)"]
+[Black "ChessGPT (by: DeepGoldenCrown)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Stalemate"]
+
+1. d3 d6 2. Be3 Nd7 3. d4 b6 4. c3 Ngf6 5. f3 a5 6. Qd3 Nh5 7. d5 Ra7 8. Bd4 Bb7 9. e3 Bxd5 10. a3 Bxf3 11. gxf3 Ne5 12. Qb5+ Nc6 13. Qxc6+ Qd7 14. Qxd7+ Kxd7 15. Bb5+ c6 16. Bxb6 Rb7 17. Bxa5 Rxb5 18. e4 Rxa5 19. b3 Ke6 20. h3 Ke5 21. Nd2 Kf4 22. O-O-O Rxa3 23. Ne2+ Ke3 24. Nc4+ Kxe2 25. Nxa3 Kxf3 26. Rd3+ Kxe4 27. Re1+ Kxd3 28. Rd1+ Kxc3 29. Nb1+ Kxb3 30. Rd3+ Kb4 31. Rd4+ Ka5 32. Nc3 f6 33. Ne4 e5 34. Nc3 exd4 35. h4 dxc3 36. Kb1 Kb5 37. Ka1 Kc4 38. Ka2 Kd3 39. Ka1 Kc4 40. Ka2 Ng3 41. h5 Nxh5 42. Ka1 d5 43. Ka2 h6 44. Ka1 Rh7 45. Ka2 Nf4 46. Ka1 c5 47. Ka2 Rh8 48. Ka1 Kb3 49. Kb1 Rg8 50. Ka1 Ka4 51. Ka2 Be7 52. Ka1 Re8 53. Ka2 Bd8 54. Ka1 Re7 55. Ka2 c4 56. Ka1 Re8 57. Ka2 Rg8 58. Ka1 Kb5 59. Ka2 Ne6 60. Ka1 Kb4 61. Ka2 Nc5 62. Ka1 Rh8 63. Ka2 c2 64. Ka1 Kb3 1/2-1/2

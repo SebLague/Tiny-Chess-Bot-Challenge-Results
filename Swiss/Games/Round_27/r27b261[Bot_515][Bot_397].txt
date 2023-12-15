@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "26"]
+[White "RedVallium (by: Piotr Bożek)"]
+[Black "TinyLispChessBot (by: tr00)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. e4 Na6 2. Bc4 Nb4 3. Qh5 Nxc2+ 4. Kd1 g6 5. Kxc2 gxh5 6. Bxf7+ Kxf7 7. h3 Bh6 8. a3 Ke6 9. e5 Kd5 10. b3 Ke4 11. b4 Kd5 12. b5 Kc4 13. a4 Kb4 14. d3 Ka5 15. Bxh6 Nxh6 16. b6 Kxb6 17. h4 Ka5 18. d4 Qf8 19. e6 Qxf2+ 20. Kc1 Qxg2 21. exd7 Bxd7 22. d5 Qxh1 23. d6 Qxg1+ 24. Kb2 cxd6 25. Ka2 Bxa4 26. Kb2 Qg7+ 27. Kc1 Qxa1 28. Kd2 Kb4 29. Kc1 Kb3 30. Kd1 Ka2+ 31. Kc1 Kb3 32. Kd1 Ka2+ 33. Kc1 Kb3 1/2-1/2

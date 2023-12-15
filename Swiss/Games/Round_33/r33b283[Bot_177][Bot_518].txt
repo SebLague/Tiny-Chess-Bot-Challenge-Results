@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "32"]
+[White "en passant bot (by: julie)"]
+[Black "FancyDefenceFence (by: FancyDefenceFenceFan)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Stalemate"]
+
+1. g4 e6 2. Bh3 d5 3. d4 c5 4. b3 Qb6 5. c3 Bd7 6. Ba3 cxd4 7. Qd3 Qxb3 8. Qxh7 Qxc3+ 9. Nd2 Qxd2+ 10. Kxd2 Bb4+ 11. Kd1 Rxh7 12. Bg2 Rxh2 13. Rb1 Rxh1 14. Rb3 Rxg1+ 15. Bf1 Rxg4 16. Rb2 Bxa3 17. Kd2 Bxb2 18. f4 Rxf4 19. e4 Rxe4 20. Ba6 bxa6 21. a4 Bxa4 22. Kd3 Bc1 1/2-1/2

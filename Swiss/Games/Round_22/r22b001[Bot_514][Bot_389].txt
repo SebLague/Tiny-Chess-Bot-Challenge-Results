@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "21"]
+[White "smol.cs (by: Gediminas Masaitis, Goh CJ)"]
+[Black "BoyaChess v5 (by: ArxelBlw)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Be3 d5 6. g3 Ne5 7. Bg2 c5 8. Ndb5 d4 9. Bf4 a6 10. Bxe5 axb5 11. Bxf6 gxf6 12. Nd5 Be6 13. Nf4 Qa5+ 14. Kf1 O-O-O 15. Qd3 f5 16. Kg1 Bh6 17. Qf3 Qc7 18. Nxe6 fxe6 19. a4 b4 20. a5 Bg7 21. a6 bxa6 22. Rxa6 Kd7 23. Qb3 Qe5 24. Ra7+ Ke8 25. Qf3 Kf8 26. Qb7 Qf6 27. Bc6 e5 28. Bd5 f4 29. Qc7 fxg3 30. hxg3 e4 31. Be6 e3 32. Qxc5+ Ke8 33. Qh5+ Qg6 34. Qb5+ Kf8 35. Qc5+ Rd6 36. Qxd6+ Ke8 37. Ra8# 1-0

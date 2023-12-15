@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "14"]
+[White "Peeter 1 (by: Gouuu)"]
+[Black "TinyNoTimeToCodeChessEngine (by: )"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e5 2. d4 e4 3. b3 Nf6 4. g3 Nc6 5. h4 h5 6. f4 Bb4+ 7. c3 Bd6 8. b4 Ne7 9. Rh2 Nf5 10. Kf2 Ng4+ 11. Kg2 Ngxe3+ 12. Bxe3 Nxe3+ 13. Kh1 Nxd1 14. Rd2 Nxc3 15. Nxc3 Bxb4 16. Rc2 Bxc3 17. Rxc3 d5 18. Bb5+ c6 19. Be2 Qb6 20. Rd1 Qb2 21. Rb3 Qxa2 22. Rdb1 Qa4 23. Rb4 Qa3 24. Nf3 exf3 25. Bd1 f2 26. R4b3 f1=Q+ 27. Kh2 Qf2+ 28. Kh1 Qaa2 29. R1b2 Qf1+ 30. Kh2 Qa1 31. Re3+ Kd8 32. Rd2 Qc1 33. Rdd3 f5 34. Re2 Qa1 35. Red2 Qa5 36. Bf3 Qb1 37. Rd1 Qc2+ 38. R3d2 Qb3 39. Rf2 g6 40. Rc1 Qe3 41. Rcf1 Qxd4 42. Rc2 Qd3 43. Re2 Kd7 44. Ree1 Kd6 45. Rd1 Qc2+ 46. Bg2 Qaa2 47. Rg1 Qab2 48. Ra1 Kd7 49. Ra5 Qf2 50. Ra4 Qb3 51. Rga1 Qbxg3+ 52. Kh1 Qfxg2# 0-1

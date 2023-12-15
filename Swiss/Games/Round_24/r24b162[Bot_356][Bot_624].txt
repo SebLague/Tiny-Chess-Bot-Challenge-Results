@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "23"]
+[White "AlaskaBot (by: Arttu Halonen)"]
+[Black "Fool's Silver (by: Ethan Latymer (Sozius))"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 d5 2. Ne5 e6 3. e4 h6 4. Be2 g6 5. Nc3 d4 6. Nb5 c6 7. Nxd4 Qxd4 8. f4 Bd6 9. d3 Bb4+ 10. Bd2 Bc5 11. Ng4 Qxb2 12. Ne5 Bd4 13. Nxg6 fxg6 14. e5 Qxa1 15. Qxa1 Bxa1 16. c4 Bd7 17. g4 b6 18. a4 Ne7 19. h4 Na6 20. h5 Nc5 21. hxg6 Nxa4 22. g7 Rh7 23. Rxh6 Rxh6 24. g8=Q+ Nxg8 25. d4 Bxd4 26. c5 bxc5 27. f5 Rh1+ 28. Bf1 exf5 29. gxf5 Bxf5 30. e6 Bxe6 31. Ke2 Bc4+ 32. Kd1 Rxf1+ 33. Kc2 Ba2 34. Kd3 Rb8 35. Ba5 Bc4+ 36. Kxc4 Nb2# 0-1

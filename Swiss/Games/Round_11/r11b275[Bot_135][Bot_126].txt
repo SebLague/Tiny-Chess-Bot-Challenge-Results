@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "10"]
+[White "pawnHater300 (by: hakrackete)"]
+[Black "Shakki botti (by: bobq)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a4 Na6 2. a5 Nb4 3. a6 Nd3+ 4. exd3 Nf6 5. axb7 Bxb7 6. Rxa7 Rxa7 7. d4 Ne4 8. d5 Bxd5 9. b4 Qb8 10. b5 Qb6 11. c4 Qxf2# 0-1

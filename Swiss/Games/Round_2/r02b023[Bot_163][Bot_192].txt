@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "1"]
+[White "Grenouille (by: mcngnt)"]
+[Black "Jormungandr (but scuffed) (by: CptShini)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 f5 2. d4 e6 3. Bf4 Bd6 4. Bxd6 cxd6 5. e3 g5 6. Nc3 f4 7. Nb5 Qa5+ 8. c3 Qb6 9. Nxg5 fxe3 10. Qh5+ Ke7 11. Qf7+ Kd8 12. Qf8# 1-0

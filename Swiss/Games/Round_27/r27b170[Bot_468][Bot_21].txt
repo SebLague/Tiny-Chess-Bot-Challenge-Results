@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "26"]
+[White "ColégramBot (by: Colégram)"]
+[Black "At least 2 IQ (by: Evan Finnigan)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c3 e6 2. d3 e5 3. Nf3 c6 4. Be3 Qc7 5. h3 g6 6. b4 h6 7. Nxe5 Qxe5 8. Bd4 Qf4 9. e3 Qg5 10. Bxh8 Bd6 11. Bg7 h5 12. Bd4 a5 13. Nd2 axb4 14. Ne4 Qh4 15. Nxd6+ Kf8 16. Nxc8 bxc3 17. Qb1 c2 18. Qxb7 Ra5 19. Qb4+ c5 20. Bg7+ Kxg7 21. Qxh4 Na6 22. Qf6+ Nxf6 23. Nd6 g5 24. a3 Ra4 25. Kd2 g4 26. d4 Nb8 27. dxc5 gxh3 28. gxh3 Nc6 29. Kxc2 Nd5 30. Bg2 Nxe3+ 31. fxe3 Ne5 32. Kb3 Rh4 33. Nf5+ Kf8 34. Nxh4 Kg8 35. Rhd1 f6 36. Rab1 d6 37. Rxd6 f5 38. Rf1 f4 39. exf4 Nf7 40. Re6 Kg7 41. Nf3 Kh8 42. Nd2 h4 43. Nf3 Nd8 44. Re7 Nc6 45. Rd7 Na5+ 46. Kb4 Nc6+ 47. Kb3 Na5+ 48. Ka4 Nc4 49. Rb1 Nb2+ 50. Kb4 Nd3+ 51. Rxd3 Kg8 52. Rbd1 Kh8 53. Kb5 Kg7 54. Re1 Kh6 55. Rd5 Kh7 56. Bf1 Kh8 57. Rd7 Kg8 58. Re8# 1-0

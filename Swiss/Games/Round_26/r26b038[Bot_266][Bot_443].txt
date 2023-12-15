@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "25"]
+[White "Game Tech Explained Bot (by: Game Tech Explained)"]
+[Black "LunarBot (by: LunarTech)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. e3 Nd5 3. e4 Nf6 4. Nc3 d6 5. Nf3 Nc6 6. Bf4 Bg4 7. d5 Ne5 8. Bb5+ Ned7 9. h3 Bh5 10. O-O Bg6 11. e5 Ne4 12. Nxe4 Bxe4 13. e6 fxe6 14. dxe6 c6 15. exd7+ Qxd7 16. Bd3 Qf5 17. Bxe4 Qxe4 18. Qd2 Qc4 19. Rfd1 Kf7 20. b3 Qb5 21. Ng5+ Kf6 22. c4 Qf5 23. g4 Qg6 24. h4 Rc8 25. Be5+ dxe5 26. Qd7 Qxg5 27. hxg5+ Kf7 28. Qf5+ Ke8 29. g6 Rc7 30. Qf7# 1-0

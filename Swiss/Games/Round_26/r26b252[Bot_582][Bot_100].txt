@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "25"]
+[White "Clyde (by: Evan)"]
+[Black "PrayForMeBot (by: João)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 h5 2. f4 b6 3. e4 Rh6 4. d4 f5 5. exf5 e5 6. dxe5 Qxh4+ 7. Rxh4 Bb7 8. g3 Rc6 9. Qxh5+ g6 10. fxg6 Nf6 11. exf6 Rc3 12. bxc3 a6 13. Qe2+ Be7 14. Qxe7# 1-0

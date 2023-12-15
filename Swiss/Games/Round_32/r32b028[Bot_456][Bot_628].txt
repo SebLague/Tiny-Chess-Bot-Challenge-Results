@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "31"]
+[White "HikuBot (by: Hikushii)"]
+[Black "King Gᴀᴍʙᴏᴛ Ⅳ (by: ToTheAnd (aka toanth))"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Bd3 d5 3. Nf3 Bg4 4. exd5 Qxd5 5. Nc3 Qe6+ 6. Qe2 Bxf3 7. Qxe6 fxe6 8. gxf3 Nf6 9. Bb5 Kd7 10. O-O e5 11. Re1 Kd6 12. Bxc6 bxc6 13. d3 Nd5 14. Ne4+ Ke6 15. Nc5+ Kd6 16. Nb7+ Ke6 17. Na5 Nb4 18. Re2 g5 19. a3 Nd5 20. Nxc6 Rg8 21. Nxe5 Bg7 22. Ng4+ Kd6 23. c4 Nf4 24. Bxf4+ gxf4 25. Rae1 h5 26. Rxe7 Bxb2 27. d4 Kc6 28. d5+ Kc5 29. R1e2 Bxa3 30. Rxc7+ Kd4 31. Rf7 Bd6 32. Re4+ Kd3 33. Re6 Rad8 34. Rff6 Bb8 35. Kg2 Kxc4 36. Re4+ Kd3 37. d6 Bxd6 38. Ree6 Bb8 39. h3 Kd2 40. Ra6 hxg4 41. hxg4 Rd5 42. Ra2+ Kc3 43. Raa6 Kd3 44. Rf7 Re8 45. Rf8 Rxf8 46. Ra3+ Kc4 47. Ra6 Rd2 48. Rc6+ Kd5 49. Ra6 Re8 50. Ra5+ Kc4 51. Ra4+ Kc3 52. Ra1 Ree2 53. Rf1 Bd6 54. g5 Re5 55. Rc1+ Kd3 56. Kh3 Rxg5 57. Rc6 Rxf2 58. Rxd6+ Ke2 59. Re6+ Kxf3 60. Kh4 Rg3 61. Re3+ fxe3 62. Kh5 Rh2# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "17"]
+[White "AUR Chessbot (by: Soul Senshi)"]
+[Black "ItBeatsMe (by: Soma Nyiro)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 d5 2. e3 Qd6 3. Bb5+ Bd7 4. Bxd7+ Nxd7 5. Kf1 Ndf6 6. Nf3 Qb4 7. Ne5 e6 8. a3 Qd6 9. Nf3 Qc5 10. Nb1 Ke7 11. Ke1 d4 12. Nxd4 Rd8 13. Rg1 Nh6 14. Rh1 g5 15. Rg1 Bg7 16. Rh1 Rd6 17. Rg1 Rhd8 18. Rh1 g4 19. Ne2 Qc6 20. f3 gxf3 21. Nf4 fxg2 22. Rg1 Nf5 23. Nd3 a5 24. h3 b5 25. h4 Nxh4 26. Ne5 Qe4 27. a4 Qxe5 28. axb5 Qg3+ 29. Ke2 Ne4 30. Qe1 Qf3# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "9"]
+[White "Asymptotically optimal (by: Graham Gayler)"]
+[Black "simpleval (portmonteau of simple eval) (by: hokurou)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f3 h5 2. c3 g5 3. g4 h4 4. Kf2 e5 5. Kg2 d5 6. b4 b5 7. e3 f6 8. Qa4 bxa4 9. Bb2 c6 10. Kf2 Ne7 11. Ne2 a6 12. Ke1 Nd7 13. Kd1 Ng8 14. Kc1 Ne7 15. Na3 Ng8 16. Kb1 Ne7 17. Rg1 Ng8 18. b5 a5 19. bxc6 Nc5 20. c7 Qxc7 21. Bg2 Qh7+ 22. Nc2 Ne7 23. a3 Ng8 24. h3 Ne7 25. Ra2 Ng8 26. Re1 Ne7 27. Ka1 Qxc2 28. c4 Nb3# 0-1

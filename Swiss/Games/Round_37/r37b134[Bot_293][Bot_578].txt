@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "36"]
+[White "NinjaBot (by: Jinan Dangor)"]
+[Black "Exceptionally mid (by: Evan Rogerson)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 Nc6 2. Qg4 h5 3. Qh4 e5 4. Qg3 h4 5. Qf3 Qf6 6. Qxf6 Nxf6 7. Bc4 Nb4 8. Kd1 Ng4 9. Ke2 Nxc2 10. h3 Nh6 11. Bd5 Nxa1 12. Nf3 c6 13. Be4 f5 14. Nxe5 fxe4 15. Ng6 Rh7 16. Kf1 d5 17. d4 Bf5 18. Nxh4 Be7 19. Nxf5 Nxf5 20. Kg1 Bb4 21. h4 Rxh4 22. Rxh4 Nxh4 23. a3 Be1 24. Kf1 Nb3 25. Kxe1 Nxc1 26. Kf1 Nd3 27. b3 g5 28. Nd2 b6 29. g3 Nf3 30. Nb1 c5 31. dxc5 bxc5 32. Nc3 Nd2+ 33. Kg1 g4 34. Nxd5 Nf3+ 35. Kg2 O-O-O 36. Ne7+ Kd7 37. Nd5 Kc6 38. Ne7+ Kd7 39. Ng6 a5 40. Kf1 Nd2+ 41. Kg1 Nxb3 42. f3 exf3 43. Kh1 c4 44. Kg1 c3 45. e4 c2 46. Kh2 c1=Q 47. e5 Qd2+ 48. Kh1 Qg2# 0-1

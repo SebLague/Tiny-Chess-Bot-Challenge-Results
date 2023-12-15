@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "3"]
+[White "Strikeeaglechess (by: Strikeeaglechase)"]
+[Black "Shielded Minibot (by: Sesen)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. d4 e6 3. Nc3 Bb4 4. Nf3 Qe7 5. Bg5 Bxc3+ 6. bxc3 Qa3 7. d5 Qxc3+ 8. Bd2 Qc5 9. c4 Nd4 10. Bc3 Nxf3+ 11. Qxf3 exd5 12. Bxg7 dxc4 13. Bxh8 Ne7 14. O-O-O c3 15. Bxc3 Rb8 16. Be2 Ra8 17. Rhe1 Rb8 18. h3 Ra8 19. Kb1 Qb6+ 20. Bb2 Qc6 21. Bd3 Qe6 22. e5 h6 23. Qf6 Kf8 24. Qh8+ Ng8 25. Ba3+ d6 26. exd6 c5 27. Bxc5 Bd7 28. Rxe6 fxe6 29. Bg6 Re8 30. Be3 Re7 31. Bxh6+ Rg7 32. Bxg7# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "35"]
+[White "WingBot (by: Benjamin Iserman)"]
+[Black "Sir Checkmates-A-Lot (by: Felix)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e6 2. Bc4 Qg5 3. Qf3 Qe5 4. Nh3 Qd4 5. O-O Qxc4 6. Kh1 Qxf1+ 7. Ng1 Qxc1 8. Qb3 c5 9. a3 Kd8 10. c3 Be7 11. d3 Bf8 12. f3 Ke7 13. g3 Qf1 14. Qb5 Kf6 15. b3 Qd1 16. h3 Qc2 17. Qc4 Kg6 18. Qb5 Qb2 19. Ra2 Qxa2 20. Qb4 cxb4 21. Nd2 Qxd2 22. Ne2 Qxe2 23. Kg1 bxa3 24. Kh1 a2 25. Kg1 a1=Q# 0-1

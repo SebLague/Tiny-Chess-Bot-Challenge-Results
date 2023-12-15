@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "28"]
+[White "JazzBot (by: SpoXe)"]
+[Black "Itty Bitty Botty (by: Connor Cahoon)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 Na6 2. g4 Rb8 3. f4 Ra8 4. e4 Rb8 5. Bxa6 bxa6 6. d4 e6 7. c4 Bb4+ 8. Nc3 Be7 9. Nf3 Bf8 10. Rg1 Bd6 11. Qe2 Bb7 12. Qc2 Bc8 13. Qe2 Ne7 14. c5 h5 15. cxd6 Kf8 16. dxe7+ Kg8 17. exd8=Q+ Kh7 18. Ng5+ Kh6 19. Qxh8+ Kg6 20. gxh5+ Kf6 21. Qf8 d5 22. exd5 c5 23. dxc6 g6 24. Nxe6 g5 25. fxg5+ Kf5 26. Qxc8 f6 27. Qxb8 a5 28. gxf6 a6 29. b4 a4 30. Nxa4 a5 31. bxa5 Kxf6 32. Qe3 Kf7 33. Qh3 Ke7 34. h6 Kf7 35. h7 Ke7 36. h8=B Kf7 37. Qhb3 Ke7 38. Qe3 Kf7 39. a6 Ke7 40. a7 Kf7 41. a8=B Ke7 42. c7 Kf7 43. Qf8# 1-0

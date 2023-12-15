@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "48"]
+[White "Octobot (by: Andrea Colognese)"]
+[Black "Minimaxibon v1 (by: NotSureWhyThisWorks)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. e3 Nc6 2. Qf3 e5 3. Bb5 a6 4. Bc4 d5 5. Bxd5 Nh6 6. Bxc6+ Ke7 7. Be4 Bg4 8. Qg3 Bc8 9. Qxe5+ Kd7 10. Bf5+ Nxf5 11. Qxf5+ Ke8 12. Qf4 Qd6 13. Qc4 Qc6 14. Qb3 Be6 15. Qc3 Qxg2 16. Qe5 Qxh1 17. b3 Qxg1+ 18. Ke2 Qxc1 19. Qe4 Qb2 20. d4 Qxa1 21. d5 Qxb1 22. dxe6 fxe6 23. a4 Be7 24. f4 Qg1 25. Qxe6 Qxh2+ 26. Kf1 Qxc2 27. b4 Qxa4 28. Kf2 Qa1 29. Qe4 Rb8 30. Qc2 Rc8 31. Kg2 Qa3 32. Qd2 Bxb4 33. Qd4 Bc3 34. Qe4+ Qe7 35. Qxb7 Qe6 36. f5 Qd7 37. Qxa6 Qd5+ 38. Kg1 Qd1+ 39. Qf1 Qg4+ 40. Qg2 Qd1+ 41. Qf1 Qg4+ 42. Qg2 Qd1+ 43. Qf1 1/2-1/2

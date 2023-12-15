@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "60"]
+[White "SimpleBot (by: Tim Zollner)"]
+[Black "DrawMachine (by: Rune)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. e3 a5 2. Nc3 b6 3. Nd5 Nc6 4. Qf3 a4 5. Nh3 e6 6. Ng5 Qxg5 7. Nxc7+ Ke7 8. b3 axb3 9. cxb3 Ne5 10. Qxa8 Qh6 11. Bb2 f5 12. Nxe6 Qxe6 13. Bd4 Nh6 14. O-O-O Qc6+ 15. Qxc6 Nxc6 16. Bxb6 d5 17. Bc5+ Ke6 18. Bxf8 Rxf8 19. Kb1 Rf7 20. Rc1 Ne5 0-1

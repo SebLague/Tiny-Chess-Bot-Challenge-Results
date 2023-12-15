@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "57"]
+[White "OrionChessEngine (by: Maarten Peels)"]
+[Black "Simpleton.01 (by: Bee)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. e5 Ne4 3. Bd3 Nxd2 4. Qxd2 f6 5. Nf3 fxe5 6. Nxe5 e6 7. Ng6 Bb4 8. Qxb4 hxg6 9. Bxg6# 1-0

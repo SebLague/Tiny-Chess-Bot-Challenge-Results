@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "11"]
+[White "Fool's Silver (by: Ethan Latymer (Sozius))"]
+[Black "SepukuBot (by: Madhu)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a4 g5 2. Nf3 h6 3. h3 d5 4. a5 Nc6 5. g3 Qd6 6. d3 Qb4+ 7. Nc3 Nxa5 8. d4 Bg7 9. Bg2 Bf6 10. e3 Nc4 11. b3 Qxc3+ 12. Bd2 Nxd2 13. Nxd2 c6 14. g4 b5 15. O-O Bg7 16. Qe2 Rh7 17. f3 Qxc2 18. b4 Qc3 19. Rfc1 Qxb4 20. Rxc6 Bd7 21. Rca6 Qc3 22. Nb1 Qc1+ 23. Bf1 Qc4 24. Qd1 Qb4 25. Qc2 Rh8 26. Na3 Nf6 27. Rb1 Qd6 28. Rxd6 exd6 29. Qh2 Ng8 30. Qxd6 Bc8 31. Nxb5 Ne7 32. Nc7+ Kf8 33. Qd8# 1-0

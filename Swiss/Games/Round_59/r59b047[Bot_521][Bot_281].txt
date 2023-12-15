@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "58"]
+[White "LIA Chess (by: Patrick und Jannik)"]
+[Black "timecat-mini (by: Gourab Ghosh)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 Nf6 2. e3 e5 3. Nf3 e4 4. Ng5 d5 5. Rg1 Bd6 6. f4 h6 7. Nh3 O-O 8. Nf2 Nc6 9. Bb5 Bd7 10. Bxc6 Bxc6 11. Ng4 Nd7 12. d4 exd3 13. cxd3 Qh4+ 14. g3 Qh3 15. Rh1 b5 16. Qf3 b4 17. Ne2 Nc5 18. Ng1 d4 19. e4 Nxd3+ 20. Kd2 Bxe4 21. Qxe4 Qxg4 22. Kxd3 Rfe8 23. Qxd4 Qd1+ 24. Kc4 Qc2+ 25. Kb5 a5 26. Qb6 Reb8 27. Qxb8+ Rxb8+ 28. Ka6 Qc6+ 29. Ka7 Ra8# 0-1

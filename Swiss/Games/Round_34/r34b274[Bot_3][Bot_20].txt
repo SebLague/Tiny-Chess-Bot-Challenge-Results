@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "33"]
+[White "Pancake (by: EaglePancake)"]
+[Black "Queen's Gam-bot (by: Mateo Saldivar (ZiroDev))"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. d3 d6 2. h3 c6 3. f3 Qa5+ 4. Nc3 Qb4 5. Kd2 Bxh3 6. Rxh3 Qf4+ 7. Ke1 Nf6 8. Bxf4 Ne4 9. Nxe4 a5 10. Nxd6+ Kd7 11. Rxh7 Rxh7 12. Nxb7 e6 13. Nc5+ Kc8 14. Bxb8 Bxc5 15. d4 Rh3 16. Nxh3 Rxb8 17. dxc5 Rb4 18. Qd7+ Kxd7 19. Rd1+ Rd4 20. Rxd4+ Kc7 21. Rd7+ Kxd7 22. e4 f5 23. exf5 exf5 24. Bb5 cxb5 25. c6+ Kxc6 26. g4 b4 27. gxf5 Kd5 28. Nf4+ Kd6 29. Kf1 Ke5 30. Nd3+ Kf6 31. Nxb4 Kf7 32. Nd3 Kf6 33. Nb4 g6 34. Nd5+ Ke5 35. f4+ Kxd5 36. c4+ Kd4 37. fxg6 a4 38. Ke2 Ke4 39. f5 Kd4 40. g7 Ke4 0-1

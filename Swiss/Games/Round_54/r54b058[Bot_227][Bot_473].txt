@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "53"]
+[White "ConvolutedBot (by: pwahs)"]
+[Black "Mulch Winnums (by: Feeding Plants)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. Nf3 d5 3. Nc3 Bf5 4. e3 Nc6 5. Bd3 e6 6. Bxf5 exf5 7. O-O Be7 8. Qd3 Ne4 9. Qb5 Nxc3 10. bxc3 Rb8 11. Ne5 a6 12. Qd3 Nxe5 13. dxe5 g6 14. Bb2 b5 15. Rad1 c6 16. Qd4 O-O 17. Rfe1 Re8 18. e6 Bf6 19. exf7+ Kxf7 20. Qa7+ Be7 21. c4 bxc4 22. Be5 Ra8 23. Qb7 Rc8 24. e4 fxe4 25. Rxe4 dxe4 26. Rxd8 Rcxd8 27. h3 Ke6 28. Bf4 Kf5 29. Qc7 Kf6 30. Qxc6+ Kf5 31. Bc7 Rd1+ 32. Kh2 Rf8 33. Qxc4 Bd6+ 34. Bxd6 Rxd6 35. h4 Rff6 36. Qc8+ Kf4 37. Qc5 h6 38. Kh3 Rd5 39. Qxd5 Rc6 40. Qxc6 Kf5 41. Qxa6 g5 42. Qxh6 g4+ 43. Kg3 Ke5 44. Kxg4 Kd4 45. h5 Kc3 46. Qc6+ Kb2 47. Qxe4 Kb1 48. h6 Kc1 49. Qc4 Kd2 50. Qf1 Kxc2 51. h7 Kc3 52. f4 Kd4 53. h8=Q+ Kc5 54. Qa6 Kb4 55. Qd4# 1-0

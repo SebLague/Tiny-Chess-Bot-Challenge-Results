@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "36"]
+[White "Toribot (by: Yujan Subedi)"]
+[Black "abariba (by: abariba)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c3 e5 2. d4 a5 3. a4 d5 4. Qc2 exd4 5. b3 b6 6. e3 c6 7. exd4 Qe7+ 8. Kd1 h5 9. Bf4 g5 10. Bg3 h4 11. Bxb8 Bg4+ 12. Kd2 Rxb8 13. Bd3 Bg7 14. Bh7 Nh6 15. Ra2 Bf8 16. Bd3 Qf6 17. Nh3 Kd8 18. Qb2 Bxh3 19. gxh3 Qxf2+ 20. Be2 f5 21. Na3 Bd6 22. Nc2 Re8 23. Re1 Bxh2 24. c4 f4 25. Qa3 f3 26. cxd5 Bf4+ 27. Kd3 fxe2 28. dxc6 Qf3+ 29. Kc4 Qxc6+ 30. Kd3 Qe4+ 31. Kc4 Rc8+ 32. Qc5 Rxc5# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "39"]
+[White "Beancounting_pawnpusher (by: Arnt Veenstra)"]
+[Black "TinyNoTimeToCodeChessEngine (by: )"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 e6 2. h4 Nf6 3. a4 Nc6 4. c4 d5 5. e3 Bb4+ 6. Bd2 Bxd2+ 7. Nxd2 dxc4 8. Nxc4 h5 9. f4 Qd5 10. a5 O-O 11. b3 Ng4 12. Ke2 Qb5 13. Qd3 Nf6 14. Ke1 Qb4+ 15. Kd1 Ng4 16. Ke2 Qb5 17. g3 Nf6 18. Kf2 Nb4 19. Qb1 Ng4+ 20. Kg2 f5 21. e4 fxe4 22. Qxe4 Nd5 23. Qf3 Qc6 24. Bd3 Nge3+ 25. Nxe3 Nxe3+ 26. Kf2 Qc3 27. Re1 Qd2+ 28. Ne2 Ng4+ 29. Kg2 g6 30. a6 Ne3+ 31. Kf2 Qxd3 32. axb7 Bxb7 33. Qxb7 Nd5 34. Rd1 Qe3+ 35. Kf1 Rfb8 36. Qc6 Qf3+ 37. Kg1 Qxe2 38. Rf1 Qe3+ 39. Kh2 Ne7 40. Qxc7 Rxb3 41. Rhg1 Qe2+ 42. Rg2 Qxf1 43. Qxe7 Qe1 44. d5 Rb6 45. g4 hxg4 46. d6 Qe3 47. Rxg4 Rb2+ 48. Rg2 Qxf4+ 49. Kh1 Qf1+ 50. Rg1 Qf3+ 51. Rg2 Qxg2# 0-1

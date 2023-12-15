@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "52"]
+[White "PAN (by: PAN)"]
+[Black "simple chess bot (by: 4a0I)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. b3 e6 2. Bb2 Qh4 3. Nf3 Qb4 4. Ng5 h6 5. Nxf7 Kxf7 6. Ba3 Qd4 7. Nc3 Bxa3 8. Nb5 Qc5 9. e3 Bb2 10. b4 Qc6 11. Rb1 Bf6 12. c3 h5 13. Qc2 Nh6 14. Qb2 Bh4 15. Rg1 Ng4 16. g3 Qf3 17. d4 Bd8 18. Bc4 a6 19. Na3 Nxh2 20. Be2 Qf5 21. Nc4 Nc6 22. Nd2 Ng4 23. Nf3 Be7 24. Qc1 a5 25. bxa5 Rxa5 26. Qb2 Ra3 27. e4 Qxe4 28. Nd2 Qf5 29. Rg2 Qd5 30. Bf3 Qxa2 31. Qxa2 Rxa2 32. Ne4 b6 33. Rg1 Ba6 34. Bxg4 hxg4 35. Nd2 Bd3 36. Rc1 Ba3 37. Rb1 Bxb1 38. Nxb1 Rc2 39. Kf1 Rh2 40. Nxa3 Rc1+ 41. Ke2 Rxg1 42. Nb5 Rgg2 43. Ke1 Rxf2 44. Nd6+ cxd6 45. Kd1 Rh1# 0-1

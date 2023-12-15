@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "20"]
+[White "Bob (by: Victor)"]
+[Black "TinyNoTimeToCodeChessEngine (by: )"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 c6 2. Nf3 Qa5 3. e4 Qc5 4. b3 d6 5. Bc4 Bg4 6. Bxf7+ Kxf7 7. e5 Ke8 8. Na4 Bxf3 9. Nxc5 Bxd1 10. Nxb7 Bxc2 11. exd6 exd6 12. O-O Kd7 13. Ba3 c5 14. Rac1 Be4 15. Na5 h5 16. f3 Bd5 17. d3 Be7 18. g4 Bd8 19. Kf2 Bxa5 20. gxh5 Rxh5 21. Kg3 Nf6 22. h4 Nc6 23. Ra1 Nd4 24. Rab1 Nf5+ 25. Kf2 Rxh4 26. Rfc1 Rh2+ 27. Kg1 Rah8 28. Bxc5 dxc5 29. Rxc5 Rh1+ 30. Kf2 R8h2# 0-1

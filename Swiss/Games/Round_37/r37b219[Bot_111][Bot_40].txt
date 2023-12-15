@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "36"]
+[White "No Brain but Hungry (by: Pete)"]
+[Black "holcak-bot (by: Petr Holčák)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f4 h5 2. c3 f5 3. c4 c5 4. Na3 a5 5. d3 g6 6. Nf3 e6 7. Kd2 d6 8. Qa4+ Kf7 9. Nb5 b6 10. Kd1 d5 11. Ne5+ Ke8 12. Nxg6 Bg7 13. Nd6# 1-0

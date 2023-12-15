@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "55"]
+[White "Chessica (by: Nicky Kitchingman)"]
+[Black "More Recursion! (by: Bden)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a3 e6 2. b3 Qh4 3. Nf3 Qe4 4. d3 Qxe2+ 5. Kxe2 Nc6 6. Ke1 Bc5 7. c3 h5 8. b4 Bxf2+ 9. Kxf2 Nge7 10. b5 Na5 11. Qa4 Nd5 12. Qxa5 c5 13. c4 Ne7 14. Be3 d6 15. Ke1 Bd7 16. b6 axb6 17. Qxa8+ Nc8 18. Qxb7 Ne7 19. Qxb6 Nc8 20. Qb2 Bc6 21. Qxg7 Rh7 22. Qxh7 Kd8 23. Qxh5 f6 24. Qf7 f5 25. Bg5+ Ne7 26. Qxe7+ Kc8 27. h3 e5 28. Qxd6 Bxf3 29. gxf3 Kb7 30. Qxc5 f4 31. Qxe5 Ka6 32. Qb8 Ka5 33. c5 Ka6 34. Qa8+ Kb5 35. d4# 1-0

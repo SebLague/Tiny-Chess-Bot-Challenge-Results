@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "13"]
+[White "SemiroseBot (by: Semirose)"]
+[Black "LazyBot (by: Tim de Jong)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe5+ 4. Be2 Nc6 5. Nf3 Qf5 6. Nb5 Kd7 7. d4 e6 8. Bd3 Qd5 9. c4 Qh5 10. Ne5+ Nxe5 11. Qxh5 Nxd3+ 12. Kd2 g6 13. Qf3 Nxc1 14. Qxf7+ Ne7 15. Kxc1 a6 16. Nc3 Bh6+ 17. Kb1 Rf8 18. Qxh7 Bf4 19. Re1 Ke8 20. Nd5 Nxd5 21. cxd5 g5 22. Rxe6+ Bxe6 23. dxe6 Rd8 24. e7 Bd6 25. exf8=Q+ Bxf8 26. Kc2 Rd6 27. Re1+ Kd8 28. Qf7 Kc8 29. Re8+ Rd8 30. Qxf8 b5 31. Rxd8+ Kb7 32. Rb8+ Kc6 33. Qf6+ Kd5 34. Qe5+ Kc6 35. Qe6# 1-0

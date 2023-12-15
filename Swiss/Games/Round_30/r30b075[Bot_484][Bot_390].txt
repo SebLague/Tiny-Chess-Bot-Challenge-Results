@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "29"]
+[White "Zui Bot (by: Zui)"]
+[Black "BuiltCleverBot (by: Scott Ward)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. a4 Nc6 3. d4 e6 4. Nc3 Bb4 5. Qd3 d5 6. h4 Bxc3+ 7. bxc3 O-O 8. Bf4 Ne4 9. Rh2 Bd7 10. Ra2 Rc8 11. g4 e5 12. Nxe5 Nxe5 13. dxe5 Bxg4 14. Qe3 f6 15. f3 Be6 16. fxe4 d4 17. Qg3 Bxa2 18. Bh3 Ra8 19. cxd4 Qxd4 20. exf6 Rxf6 21. Be5 Qb4+ 22. c3 Qb1+ 23. Kd2 Qb2+ 24. Kd3 Rd8+ 25. Bd7 Rxd7+ 26. Bd6 Rdxd6+ 27. Qxd6 Rxd6+ 28. Ke3 Qxc3+ 29. Kf2 Rd4 30. Rg2 Rxe4 31. Kf1 Qc1+ 32. Kf2 Rf4+ 33. Kg3 Qe3+ 34. Kh2 Rxh4# 0-1

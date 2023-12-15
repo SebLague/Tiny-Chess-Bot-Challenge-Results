@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "24"]
+[White "TBbot (by: TBMPFW)"]
+[Black "No Brain but Hungry (by: Pete)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g4 Nf6 2. f3 c6 3. e4 d6 4. b4 e6 5. b5 c5 6. g5 Nfd7 7. d4 Qa5+ 8. Bd2 Qb6 9. g6 fxg6 10. c3 Qa5 11. b6 axb6 12. d5 e5 13. h4 Kf7 14. a4 Qa7 15. a5 Nf6 16. h5 Be7 17. hxg6+ hxg6 18. Rxh8 Bd7 19. Nh3 bxa5 20. Ng5# 1-0

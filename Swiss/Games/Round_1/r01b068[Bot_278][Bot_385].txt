@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "Bongcloud enthusiast (by: CreeperXD)"]
+[Black "3D.Opening Bot (by: Mark Grennan)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. Ke2 dxe4 3. d4 Qd6 4. g4 Bxg4+ 5. Ke1 Bxd1 6. Kxd1 Qxd4+ 7. Ke1 e6 8. Nf3 exf3 9. b4 Bxb4+ 10. c3 Qe5+ 11. Be3 Be7 12. Kd2 Qd5+ 13. Bd4 Nc6 14. a3 Nh6 15. Rg1 Kd7 16. Rxg7 Nxd4 17. Rxf7 Nxf7 18. cxd4 Qxd4+ 19. Kc1 Rhg8 20. Ba6 bxa6 21. h3 Rab8 22. Nc3 Qxc3+ 23. Kd1 Rg1# 0-1

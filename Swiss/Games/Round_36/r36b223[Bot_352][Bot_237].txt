@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "35"]
+[White "NameGoesThere's bot (by: NameGoesThere)"]
+[Black "DeepDumb (by: OutdoorsyEngineer)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e6 2. d4 Bd6 3. h3 Bf8 4. e5 Be7 5. Ne2 Nh6 6. Nd2 Rf8 7. Ne4 f6 8. Nxf6+ Bxf6 9. exf6 Qxf6 10. Be3 Qf7 11. Bd2 Qxf2# 0-1

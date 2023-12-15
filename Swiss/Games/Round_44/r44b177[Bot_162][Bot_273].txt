@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "43"]
+[White "BitBlunderer (by: Till Zemann (GitHub: https://github.com/till2 :D))"]
+[Black "Monte Carlos Little Brother (by: Giorgio)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 f6 2. Nc3 d5 3. e3 Kf7 4. Ne5+ fxe5 5. Qh5+ Ke6 6. Bb5 g6 7. Qf3 e4 8. Qf4 h6 9. Nxe4 a5 10. Nc5# 1-0

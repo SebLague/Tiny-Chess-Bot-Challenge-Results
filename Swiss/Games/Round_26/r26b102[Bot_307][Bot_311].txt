@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "25"]
+[White "Stephanee (by: Elijah Bradshaw)"]
+[Black "MyFirstChessEngine (by: Jake Forsey)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. d4 Nf6 3. e5 Ne4 4. f3 e6 5. fxe4 Qh4+ 6. Ke2 Qxe4+ 7. Be3 Qg4+ 8. Nf3 Nxd4+ 9. Bxd4 Qe4+ 10. Kf2 Qc6 11. Be3 Bc5 12. Ng5 Bxe3+ 13. Kxe3 Qc5+ 14. Qd4 Qxc2 15. Qc3 Qg6 16. Nf3 Qh6+ 17. Kf2 Kd8 18. Bc4 Ke7 19. Qc1 Qxc1 20. Rxc1 d6 21. Bd3 c6 22. exd6+ Kxd6 23. Rd1 Kc5 24. Ne5 f6 25. Nf3 h6 26. Rc1+ Kb6 27. b4 Kc7 28. b5 Rd8 29. Be4 f5 30. Bc2 f4 31. Be4 Rd7 32. bxc6 bxc6 33. Ne5 Rd4 34. Bxc6 Bb7 35. Bd5+ Kb6 36. Nd7+ Ka6 37. Nc5+ Ka5 38. Bxb7 Re8 39. Bc6 Rb4 40. Nb3+ Rxb3 41. axb3+ Kb6 42. Bxe8 Kb7 43. Re1 Kb6 44. Rxe6+ Kb7 45. Re7+ Kb6 46. Rxg7 a5 47. Rh7 Ka6 48. Rxh6+ Kb7 49. Rxa5 Kc7 50. Kf3 Kb7 51. Rc6 Kb8 52. Rc4 Kb7 53. Rb5+ Ka6 54. Ra4# 1-0

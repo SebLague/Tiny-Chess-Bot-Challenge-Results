@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "11"]
+[White "NNBot (by: Jamie Whiting)"]
+[Black "Grenouille (by: mcngnt)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. Nc3 d5 3. e3 g6 4. d4 Bg7 5. Be2 O-O 6. O-O Nc6 7. Ne5 Bf5 8. Nxc6 bxc6 9. Bd2 Qd6 10. g4 Be6 11. Re1 Rad8 12. a3 c5 13. dxc5 Qxc5 14. h3 Ne4 15. Nxe4 dxe4 16. c3 Qb6 17. Qc2 Bb3 18. Qc1 Qd6 19. Bd1 Be6 20. Re2 Bc4 21. Be1 Qxd1 22. Qxd1 Rxd1 23. Rxd1 Bxe2 24. Rd7 Bf6 25. c4 Rc8 26. b3 c5 27. Ba5 Rb8 28. b4 cxb4 29. Bxb4 a5 30. g5 axb4 31. gxf6 exf6 32. axb4 Bxc4 33. Rd4 Rxb4 34. Rxe4 Rb1+ 35. Kh2 Be6 36. Rd4 Kf8 37. Kg3 h5 38. Rd8+ Ke7 39. Rd4 Rh1 40. Kg2 Rc1 41. Rb4 Bd5+ 42. e4 Bc6 43. f3 h4 44. e5 Rc2+ 45. Kg1 fxe5 46. Rxh4 Bxf3 47. Rb4 e4 48. Rb7+ Kf6 49. Rb3 Ke5 50. Kf1 Kf4 51. Ke1 e3 52. Rb4+ Kg3 53. Rg4+ Kxh3 54. Rc4 Rxc4 55. Kf1 Rc1# 0-1

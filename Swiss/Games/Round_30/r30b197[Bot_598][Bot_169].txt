@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "29"]
+[White "WingBot (by: Benjamin Iserman)"]
+[Black "TalkChess (by: Thomas Jahn, Mike Sherwin, Dmitry Shechtman)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Bc4 Nf6 3. Qf3 e5 4. Nc3 Bc5 5. Nh3 O-O 6. b3 d6 7. d3 Bg4 8. O-O Bxf3 9. gxf3 Nd4 10. Kh1 Nxc2 11. Rb1 Nd4 12. Kg2 Qd7 13. Be3 Nxf3 14. Kh1 Bxe3 15. fxe3 Qxh3 16. Rf2 Kh8 17. a3 Qg4 18. Ra1 Rad8 19. Rb1 Rde8 20. Ra1 a6 21. Rb1 Rd8 22. a4 Rde8 23. b4 Rd8 24. a5 Rde8 25. Ra1 Rd8 26. Rc1 Rde8 27. Rb1 Rd8 28. Ra1 Rde8 29. Rc1 Rd8 30. Rd1 Rde8 31. Rdf1 Ng5 32. Ra1 Ne6 33. Ra3 Rd8 34. Rf1 Rfe8 35. Rf2 h6 36. Rf1 Kg8 37. Rf2 Qh4 38. Rf1 Qh3 39. Kg1 Qxe3+ 40. Kh1 Nd4 41. Raa1 Rd7 42. Ra3 Rde7 43. Raa1 Rd8 44. Ra3 Red7 45. Raa1 Ra8 46. Ra3 Rdd8 47. Raa1 Rab8 48. Ra3 Rbc8 49. Raa1 Ra8 50. Ra3 Rab8 51. Raa1 Rbc8 52. Ra3 Re8 53. Raa1 Rcd8 54. Ra3 Rd7 55. Raa1 Rde7 56. Ra3 Rd8 57. Raa1 Red7 58. Ra3 Ra8 59. Raa1 Re7 60. Ra3 Ree8 61. Raa1 Rab8 62. Ra3 Re7 63. Raa1 Rd7 64. Ra3 Rc8 65. Raa1 Re7 66. Ra3 Ra8 67. Raa1 Ree8 68. Ra3 Rab8 69. Raa1 Rbc8 70. Ra3 Re7 71. Raa1 Rd7 72. Ra3 Rb8 73. Raa1 Re7 74. Ra3 Rf8 75. Raa1 Ree8 76. Ra3 Rd8 77. Raa1 Rd7 78. Ra3 Qd2 79. h3 Kh7 80. h4 Kg6 81. Rg1+ Kh5 82. Rxg7 Kxh4 83. Rg1 Kh3 84. Rga1 Qg2# 0-1

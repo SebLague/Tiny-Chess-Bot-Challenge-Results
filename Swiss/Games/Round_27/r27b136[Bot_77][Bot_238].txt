@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "26"]
+[White "OrionChessEngine (by: Maarten Peels)"]
+[Black "AUR Chessbot (by: Soul Senshi)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Ne2 Nf6 3. Ng3 Nd4 4. c4 Rb8 5. d3 c6 6. e5 Qa5+ 7. Nc3 Qxe5+ 8. Kd2 Kd8 9. a4 Kc7 10. b4 Kb6 11. Bb2 Qg5+ 12. Ke1 Ka6 13. b5+ Ka5 14. Nce4 Qe5 15. Qd2+ Kb6 16. Bxd4+ Qxd4 17. c5+ Kc7 18. Qa5+ b6 19. Qxa7+ Kd8 20. bxc6 Qxa1+ 21. Kd2 Qa2+ 22. Ke3 Ng4+ 23. Kf3 Ne5+ 24. Ke3 Nxc6 25. Qb7 Rxb7 26. Nh5 Qxa4 27. Rg1 Qd4+ 28. Kd2 f5 29. Kc2 fxe4 30. dxe4 Qxf2+ 31. Kb1 Qxg1 32. cxb6 Qxf1+ 33. Ka2 Qf7+ 34. Ka1 Qxh5 35. Kb1 Qxh2 36. Ka1 Qxg2 37. Kb1 Rxb6+ 38. Ka1 Qb2# 0-1

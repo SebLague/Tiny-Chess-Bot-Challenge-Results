@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "13"]
+[White "simple chess bot (by: 4a0I)"]
+[Black "Electric Shockwave Gambit (by: Valentin)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 Nf6 2. Qf3 Nc6 3. Qf5 e6 4. Qg5 h6 5. Qb5 Nb4 6. Na3 c6 7. Qe5 d5 8. Be2 Bd6 9. Qd4 e5 10. Qh4 g5 11. Qg3 Ne4 12. Qf3 g4 13. Qxg4 Bxg4 14. Bxg4 Qh4 15. g3 Qxg4 16. f3 Qg6 17. d3 Nc5 18. g4 h5 19. h3 hxg4 20. fxg4 Nd7 21. b3 f5 22. Bb2 fxg4 23. Ne2 gxh3 24. Kd1 Nxd3 25. cxd3 Qxd3+ 26. Ke1 Bb4+ 27. Bc3 Bxc3+ 28. Nxc3 Qxc3+ 29. Ke2 Qb2+ 30. Ke1 Rg8 31. Rd1 Rg2 32. Rxh3 Qe2# 0-1

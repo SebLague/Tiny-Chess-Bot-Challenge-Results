@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "13"]
+[White "Chessinator 3000 (by: )"]
+[Black "Metis (by: krox)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e6 2. d4 Qf6 3. a3 Nc6 4. d5 Bc5 5. Nh3 exd5 6. Qxd5 d6 7. Bb5 Ne7 8. Qd3 Bxh3 9. Bxc6+ Nxc6 10. Qxh3 Qxf2+ 11. Kd1 Nd4 12. Qd3 Qxg2 13. Re1 Qg4+ 14. Kd2 Nf3+ 15. Kc3 Nxe1 16. Qb5+ Ke7 17. Qxb7 Rhc8 18. a4 Rab8 19. Qd5 Qf3+ 20. Kd2 Be3+ 21. Kxe1 Qf2+ 22. Kd1 Qf1# 0-1

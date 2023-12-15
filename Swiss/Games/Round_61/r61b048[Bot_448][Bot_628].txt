@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "60"]
+[White "Paradox Bot (by: Kekz)"]
+[Black "King Gᴀᴍʙᴏᴛ Ⅳ (by: ToTheAnd (aka toanth))"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. Nf3 d5 3. Bg5 Nc6 4. Bxf6 exf6 5. Qc1 Kd7 6. Nbd2 Ke6 7. Nb3 Kf5 8. Kd1 Kg6 9. Qf4 Bd6 10. Qh4 f5 11. Nc1 Qxh4 12. Nxh4+ Kh5 13. Nf3 Re8 14. Nb3 a5 15. a4 f4 16. h3 Bf5 17. g4+ fxg3 18. fxg3 Bxg3 19. Rg1 Bf4 20. Rxg7 Bg6 21. Nc5 Bh6 22. Rxg6 hxg6 23. Nd3 Ne7 24. Ra3 Nf5 25. Rc3 Re7 26. Rc5 c6 27. Ke1 Be3 28. c3 Ng3 29. b4 axb4 30. Nxb4 Ne4 31. Kd1 Nxc5 32. dxc5 Rxa4 33. Bg2 Ra1+ 34. Kc2 Bxc5 35. Kb2 Ra4 36. Kb3 b5 37. Ne1 Bxb4 38. cxb4 Re3+ 39. Nd3 Kh4 40. Bf3 Kxh3 41. Kb2 Kg3 42. Ne1 Rxb4+ 43. Kc2 Rd4 44. Kb2 Rc4 45. Nd3 d4 46. Ne1 Rb4+ 47. Kc1 Rc3+ 48. Kd1 Rb1+ 49. Kd2 Rb2+ 50. Kd1 Kf2 51. Bxc6 Rxe2 52. Bxb5 Rxe1+ 53. Kd2 Rb1 54. Ba4 Rb2+ 55. Kd1 Ke3 56. Ke1 Rc1+ 57. Bd1 Rd2 58. Kf1 Rcxd1# 0-1

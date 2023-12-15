@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "22"]
+[White "Wandering King (by: Elliott D)"]
+[Black "Hot Garbage (by: CT424)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g4 g6 2. h3 Bg7 3. c3 c5 4. a4 Qc7 5. d4 cxd4 6. Kd2 dxc3+ 7. Kd3 cxb2 8. Kd2 bxa1=Q 9. Ke1 Qxc1 10. Nc3 Qcxc3# 0-1

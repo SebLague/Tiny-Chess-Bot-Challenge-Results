@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "fuxy (by: nadavfux)"]
+[Black "Running Bot (by: Chris Pontius)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 c6 2. Qd3 g6 3. Nc3 d6 4. Bf4 Bh6 5. e3 g5 6. Bg3 Nf6 7. h4 O-O 8. hxg5 Bxg5 9. f4 Na6 10. fxg5 Nb4 11. Qd2 Nfd5 12. Nxd5 Nxd5 13. c4 e5 14. cxd5 cxd5 15. dxe5 Qxg5 16. Bf4 Qg4 17. Qxd5 Qe6 18. Qd3 Qg6 19. exd6 Bf5 20. Qd4 Be4 21. Rh3 Bxg2 22. Rg3 Bxf1 23. Kxf1 Qxg3 24. Bxg3 h5 25. d7 Kh7 26. Bc7 Rg8 27. d8=Q Raxd8 28. Bxd8 b5 29. Qxa7 Kg6 30. Qe7 Rxd8 31. Qxd8 Kf5 32. Rd1 b4 33. Rd6 Kg4 34. Qf6 h4 35. Rd4+ Kg3 36. Qxh4# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "27"]
+[White "Indian_Liver (by: MDM)"]
+[Black "Some rules bot (by: qumquat)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. Nc3 a5 3. f4 Nc6 4. Nf3 Nh5 5. d4 b6 6. Ng5 Nf6 7. Bc4 d6 8. Bxf7+ Kd7 9. Be6+ Ke8 10. Bf7+ Kd7 11. Be6+ Ke8 12. Nf7 Bxe6 13. Nxd8 Kxd8 14. f5 Bc8 15. Qf3 Nxd4 16. Qd1 Nc6 17. e5 Nd7 18. exd6 Ndb8 19. Bg5 Bxf5 20. dxe7+ Kc8 21. e8=Q+ Kb7 22. Qf7 Bc8 23. Bf4 Na6 24. Ne4 Bb4+ 25. c3 Ra7 26. cxb4 axb4 27. Qf3 Nd8 28. Nf6+ Kb8 29. Qxg7 Ne6 30. Qxh8 Nac5 31. Qxh7 Na4 32. Qg8 Nd8 33. Qxd8 Nc5 34. Qa8+ Rxa8 35. Qxc7# 1-0

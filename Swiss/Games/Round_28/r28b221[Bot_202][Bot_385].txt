@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "27"]
+[White "Simpleton.01 (by: Bee)"]
+[Black "3D.Opening Bot (by: Mark Grennan)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 d5 2. Qh5 Nf6 3. Qe5 Ng4 4. Bb5+ c6 5. Bf1 Nxe5 6. Nc3 Qa5 7. Bb5 cxb5 8. Nxd5 Be6 9. Nf4 Bf5 10. c3 Qa4 11. Nfe2 Nbc6 12. Nf4 Rd8 13. d4 Nc4 14. b3 Qa5 15. bxc4 Qxc3+ 16. Bd2 Qxa1+ 17. Bc1 Qxc1+ 18. Ke2 e5 19. d5 Qxc4+ 20. Kf3 Nb4 21. d6 Rxd6 22. a3 Nc2 23. Kg3 Be7 24. h3 exf4+ 25. exf4 Qc3+ 26. f3 Rd1 27. a4 bxa4 28. Ne2 Bh4+ 29. Kxh4 Qf6+ 30. Kh5 Qh6# 0-1

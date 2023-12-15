@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "8"]
+[White "ChessGPT (by: DeepGoldenCrown)"]
+[Black "EvilMirror (by: Hagan Gray)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. a3 h6 2. f4 c5 3. f5 c4 4. Nf3 Nc6 5. c3 f6 6. Ra2 Rh7 7. e4 d5 8. Bxc4 Bxf5 9. exf5 dxc4 10. Ra1 Rh8 11. d3 e6 12. Bxh6 Bxa3 13. Rxa3 Rxh6 14. Kf1 Qc8 15. Ke1 Qd8 16. Kf1 Qc8 17. Ke1 Qd8 18. Kf1 1/2-1/2

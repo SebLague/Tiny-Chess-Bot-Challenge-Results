@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "18"]
+[White "OneHundredAndEighty (by: Tom R.)"]
+[Black "MiaKBotv4.4 (by: Mia Kellett)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 Nc6 2. Nf3 Nf6 3. a4 Rb8 4. Ra3 Ra8 5. h4 Rb8 6. Rh3 Ra8 7. Rb3 Rb8 8. Rb5 Ra8 9. Rg3 Rb8 10. Rgg5 Ra8 11. Rbc5 Rb8 12. Rgf5 d6 13. b3 Ne5 14. Nd4 Bxf5 15. Nxf5 dxc5 16. f4 Nc6 17. e3 Ra8 18. Bc4 Qd7 19. Qe2 Qxf5 20. g3 Qxc2 21. Ba3 Ne4 22. Nd5 Qb1+ 23. Bc1 Qxc1+ 24. Qd1 Qb2 25. Qf3 Qxd2+ 26. Kf1 Qc1+ 27. Ke2 Qd2+ 28. Kf1 Nc3 29. Nxc7+ Kd7 30. Nxa8 Qc1+ 31. Kf2 Qc2+ 32. Ke1 Qc1+ 33. Kf2 Qb2+ 34. Kf1 Qb1+ 35. Kg2 Qc2+ 36. Kf1 Qf5 37. Qf2 Qb1+ 38. Kg2 Qe4+ 39. Kh3 Qf5+ 40. Kg2 Nd5 41. Qd2 Qe4+ 42. Kf2 Qh1 43. Qd3 Qh2+ 44. Kf3 Qh1+ 45. Ke2 Qh2+ 46. Kf3 e6 47. Qe4 Qh1+ 48. Kg4 Nf6+ 49. Kg5 h6# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "17"]
+[White "Generic Chess Bot #1000000 (by: Anthony)"]
+[Black "HekMate (by: Maddisch)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e5 2. d3 Qf6 3. Nf3 Qd6 4. e4 Qe6 5. d4 exd4 6. Nxd4 Qe5 7. f4 Qd6 8. Ncb5 Qb4+ 9. c3 Qc5 10. Nf3 Qc6 11. Qd4 Ne7 12. Ne5 f6 13. Nxc6 Na6 14. Nxe7 Bxe7 15. b4 Bxb4 16. cxb4 Rf8 17. Nc3 Rf7 18. Bxa6 bxa6 19. Nd5 d6 20. Qd1 Be6 21. Nc3 Rd7 22. Nb1 Re7 23. Kd2 Bxa2 24. Rxa2 Rxe4 25. Re1 d5 26. Rxa6 O-O-O 27. Qg4+ Rd7 28. Rxa7 Rd4+ 29. Kc2 Rc4+ 30. Kd3 Rd4+ 31. Kxd4 f5 32. Qxf5 c5+ 33. bxc5 Kb8 34. Rxd7 h6 35. Rxg7 h5 36. Re3 h4 37. Rf7 h3 38. Rg7 hxg2 39. Qh7 g1=Q 40. Qh8# 1-0

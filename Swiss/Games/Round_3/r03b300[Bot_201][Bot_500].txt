@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "2"]
+[White "charge forward v1 (by: steel chair)"]
+[Black "WitwerMacher (by: Yannik Bleilinger)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 Na6 2. g4 Rb8 3. f4 Ra8 4. e4 Nc5 5. d4 Nxe4 6. c4 Ng3 7. b4 Nxh1 8. a4 e5 9. dxe5 Bxb4+ 10. Nc3 Bxc3+ 11. Bd2 Qxh4+ 12. Ke2 Qf2+ 13. Kd3 Qd4+ 14. Ke2 Qf2+ 15. Kd3 Qd4+ 16. Kc2 Bxa1 17. e6 Qb2+ 18. Kd3 Nf2+ 19. Ke2 Nxd1 20. exf7+ Kxf7 21. g5 Nc3+ 22. Kf3 Qxd2 23. g6+ hxg6 24. f5 gxf5 25. c5 Qd5+ 26. Kf4 Qd4+ 27. Kxf5 Rh5# 0-1

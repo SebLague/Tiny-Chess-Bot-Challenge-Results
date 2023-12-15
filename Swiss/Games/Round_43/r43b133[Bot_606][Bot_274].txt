@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "42"]
+[White "ConniBot (by: connorf25)"]
+[Black "BoringBot (by: Carson Bates)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Illegal move"]
+
+1. Nf3 f6 2. Na3 e6 3. Nb5 e5 4. Nc3 d5 5. e3 d4 6. exd4 exd4 7. Bb5+ c6 8. Qe2+ Ne7 9. Qd3 dxc3 10. dxc3 cxb5 11. Qxb5+ Nec6 12. Be3 h5 13. Qa4 g5 14. Kf1 g4 15. Re1 b5 16. Bb6+ Ne7 17. Qxb5+ Bd7 18. Qa5 Qxb6 19. Qxb6 axb6 20. Nd4 Rxa2 21. c4 Rxb2 22. h3 gxh3 23. gxh3 Nc6 24. Nxc6 Bxc6 25. Rg1 Rxc2 26. Rg3 Rxc4 27. Rge3 Bb5 28. Kg1 Kf7 29. Rb3 Bd7 30. Rxb6 Bxh3 31. Rb8 Rg8+ 32. Kh2 Rh4 33. Rxe7+ Kxe7 34. Rb4 Rg2+ 0-1

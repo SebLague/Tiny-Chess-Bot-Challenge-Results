@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "18"]
+[White "Hippo (by: MonteDegro)"]
+[Black "StallerBot (by: Ean)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. d4 Nf6 2. Qd3 Ng4 3. Nc3 g6 4. h3 Bg7 5. hxg4 d5 6. Nf3 a6 7. e4 c6 8. Bf4 Bxg4 9. exd5 h5 10. Be5 Rh7 11. Qc4 Qxd5 0-1

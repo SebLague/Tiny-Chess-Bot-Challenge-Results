@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "57"]
+[White "simpleval (portmonteau of simple eval) (by: hokurou)"]
+[Black "Chessy (by: SebastianB)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 b5 2. g4 Bb7 3. Rh2 Qc8 4. f4 Nh6 5. g5 Ng4 6. Rh3 e6 7. d4 Bb4+ 8. Nc3 Bxc3+ 9. bxc3 c5 10. h5 Qc6 11. a3 f6 12. Bd2 Ba6 13. Bc1 d5 14. Nf3 e5 15. f5 fxg5 16. Bxg5 e4 17. Ng1 Qc8 18. Bh4 e3 19. Nf3 Bb7 20. Ng5 b4 21. a4 bxc3 22. a5 Qxf5 23. Bg2 c4 24. Bg3 Nd7 25. Bc7 Qf2# 0-1

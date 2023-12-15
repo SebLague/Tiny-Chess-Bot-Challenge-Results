@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "50"]
+[White "CheatingBot (by: wischi)"]
+[Black "Queen's Gam-bot (by: Mateo Saldivar (ZiroDev))"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Na3 d6 2. Rb1 c5 3. Ra1 g6 4. Rb1 Bh3 5. Ra1 Bc8 6. Rb1 Bh3 7. Ra1 Qb6 8. Rb1 c4 9. Ra1 Be6 10. Rb1 Bg4 11. Ra1 Be6 12. Rb1 Bh3 13. Ra1 c3 14. Rb1 Kd7 15. Ra1 Kc6 16. Rb1 Kd7 17. Ra1 Kc6 18. Rb1 Kd7 1/2-1/2

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "Sore Loser Bot (by: Techno)"]
+[Black "StockShrimp (by: Diplomancer)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. c3 e5 2. b3 d5 3. Nh3 Qh4 4. a3 Bxh3 5. b4 Bf5 6. h3 Bxb1 7. Ra2 Bxa2 8. Qc2 Bc4 9. e3 Bxf1 10. Bb2 Bxg2 11. e4 Bxh1 12. Qb1 Bxe4 13. Bc1 Bxb1 14. d4 Qxh3 15. Bg5 Qxc3+ 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "14"]
+[White "GoblinArmy (by: TheChroniclerDelta)"]
+[Black "Achilles Random (by: Achilles)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 e6 2. d4 Qf6 3. b3 Qxf3 4. a3 Qe4 5. d5 Qxc2 6. e4 Qxc1 7. f3 Qxb1 8. dxe6 Bb4+ 9. axb4 Qxe4+ 10. Qe2 Qxb4+ 11. Qd2 Qxb3 12. exd7+ Nxd7 13. Qxd7+ Bxd7 14. Rxa7 Rxa7 15. Rg1 Qe3+ 16. Be2 Ra1# 0-1

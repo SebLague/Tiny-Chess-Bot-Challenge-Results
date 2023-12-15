@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "52"]
+[White "HopeBot (by: Chinmay Krishna)"]
+[Black "BettyBot (by: Thomas / TGhost)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 Na6 2. Qg4 Rb8 3. h4 Ra8 4. Bb5 Nb8 5. d4 c6 6. Bd3 d5 7. Qh5 Nf6 8. Qe5 Ng4 9. Qf4 Qd6 10. Nf3 Qxf4 11. exf4 Kd8 12. Nc3 Kc7 13. Ng5 f5 14. h5 Kb6 15. Bd2 Bd7 16. b4 Kc7 17. a4 Kb6 18. Ke2 Kc7 19. Rab1 Kc8 20. Ra1 Kc7 21. Nf3 Kd6 22. a5 Ke6 23. h6 Nxh6 24. Ke3 Ng4+ 25. Ke2 Nh6 26. a6 bxa6 27. g4 Nxg4 28. Ne5 Kf6 29. Rac1 Rg8 30. Rxh7 Ke6 31. Rg1 Bc8 32. f3 Nxe5 33. fxe5 Kf7 34. Rh5 Ke8 35. Bf4 Be6 36. Na4 Kd7 37. Nc5+ Kc7 38. Nxe6+ Kd7 39. Bxf5 Kc8 40. Nxf8+ Kb7 41. Ne6 Kb6 42. Nxg7 a5 43. c3 Rd8 44. Ne6 Rd7 45. Nc5 Rc7 46. Rg6 axb4 47. cxb4 Kb5 48. Bd2 Kc4 49. Rh4 Kb5 50. Rg1 Kb6 51. Rh8 a6 52. Kf2 Kb5 53. Bd3+ Kb6 54. Nxa6 Nxa6 55. Rxa8 Nxb4 56. Bxb4 Kb7 57. Rh8 Ka7 58. f4 Kb6 59. Bc5+ Ka5 60. Ra1# 1-0

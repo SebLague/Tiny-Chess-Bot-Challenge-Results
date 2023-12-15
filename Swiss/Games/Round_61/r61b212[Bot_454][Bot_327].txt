@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "60"]
+[White "The Mad King (by: Coding With Avaclava)"]
+[Black "FunBot (by: Paul Spooner AKA Dudecon)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 c6 2. h3 h6 3. h4 b6 4. Ke2 Ba6+ 5. Ke1 c5 6. g4 d5 7. a3 e6 8. h5 g5 9. Bg2 Ne7 10. c3 e5 11. Qa4+ Nbc6 12. Qxa6 Ng8 13. f3 Nb8 14. Qb5+ Qd7 15. d3 Qxb5 16. Kd1 Qxd3+ 17. Ke1 f6 18. b3 Ne7 19. a4 a6 20. Na3 Qxc3+ 21. Ke2 Qxa1 22. Nc2 Qxc1 23. Nh3 Qxc2+ 24. Ke1 Qxg2 25. Kd1 Qxh1+ 26. Kd2 Qxh3 27. Kc1 Qxf3 28. Kc2 Qxg4 29. Kb1 Qxh5 30. Kb2 Nc8 31. Kb1 f5 32. Kc2 e4 33. Kd2 g4 34. Kc2 a5 35. Kb2 g3 36. Ka1 Na6 37. Kb2 Nd6 38. Kc1 g2 39. b4 g1=Q+ 40. Kd2 axb4 41. Kc2 Qxe3 42. Kb2 c4 43. Kb1 b3 44. Kb2 Nb8 45. Ka3 Qc3 46. a5 Rxa5# 0-1

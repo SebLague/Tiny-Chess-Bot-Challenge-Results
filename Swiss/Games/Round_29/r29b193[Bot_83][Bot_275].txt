@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "28"]
+[White "Trixie (by: ts-manuel)"]
+[Black "Simple Minimax (by: Sidewinder7)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. c3 e6 2. Qb3 Qh4 3. Qb5 a6 4. Qb3 b5 5. Nf3 Qh5 6. Kd1 Bd6 7. Ke1 Bb7 8. Ng1 Bd5 9. c4 Be4 10. Nc3 Bc6 11. Kd1 e5 12. Ke1 e4 13. Nh3 e3 14. dxe3 Kd8 15. Kd1 Qf5 16. Ke1 b4 17. Nd1 a5 18. Bd2 a4 19. Qd3 Qxd3 20. exd3 a3 21. b3 Be5 22. Rb1 d6 23. Bxb4 Na6 24. Bxa3 Nb4 25. Bxb4 Rxa2 26. Ng5 Ke8 27. Rc1 Ra8 28. Rc2 Ne7 29. Kd2 Nf5 30. Ke1 Kd7 31. Nxf7 Ke7 32. Nxe5 Ke6 33. Nxc6 Nxe3 34. fxe3 Rhg8 35. Ba5 Kd7 36. Bxc7 Kxc6 37. Bxd6 Ra1 38. Be5 Ra5 39. Bc3 Ra7 40. Bd4 Ra5 41. Bc3 Ra7 42. Bd2 g6 43. Bc1 Ra1 44. Kd2 Rga8 45. Ke1 Rxc1 46. Rxc1 Kc7 47. Kd2 Kc6 48. Ke1 Kc7 49. e4 h5 50. Kd2 g5 51. Ke1 g4 52. Be2 g3 53. hxg3 h4 54. Rxh4 Kb6 55. Rc2 Kc5 56. Rh2 Ra7 57. Bh5 Kb4 58. Rb2 Ka3 59. Kf1 Rg7 60. Kf2 Rg5 61. Kf3 Rg7 62. Kf2 Rg5 63. g4 Rg7 64. Ke1 Rd7 65. Kd2 Rc7 66. Kc1 Re7 67. Kb1 Kb4 68. Kc1 Kc5 69. Rf2 Kd6 70. Kb1 Ra7 71. Kb2 Kc6 72. Kb1 Ra5 73. Nb2 Ra7 74. Kc2 Rc7 75. Kb1 Kb7 76. Ka1 Rd7 77. Kb1 Kc7 78. Kc1 Kb7 79. Kb1 Kc7 80. Ka1 Kb7 81. Kb1 1/2-1/2

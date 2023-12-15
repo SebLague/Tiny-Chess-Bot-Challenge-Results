@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "58"]
+[White "SFN v 2.0 (by: SFN)"]
+[Black "dumbot (by: slothinahat)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 e6 2. Nc3 a5 3. a4 h5 4. b3 Ba3 5. Qd2 Bxc1 6. Nd5 Bxd2+ 7. Kd1 exd5 8. c3 Bxc3 9. Nh3 Bxa1 10. Kc2 Bxd4 11. Rg1 Bxf2 12. Nf4 Bxg1 13. Ng6 fxg6 14. g4 Bxh2 15. Kd1 hxg4 16. e3 Nh6 17. Bh3 gxh3 18. Ke2 Ke7 19. Kd3 Ke8 20. e4 dxe4+ 21. Kc2 d5 22. Kb2 Qh4 23. Kc2 Qg5 24. Kb1 c6 25. Ka2 Ra6 26. Kb1 Ke7 27. b4 axb4 28. a5 Rxa5 29. Kc2 Bg4 30. Kb2 Rd8 31. Kb3 Kf6 32. Kc2 Bg3 33. Kb3 Ke6 34. Kc2 Bh5 35. Kb2 Ke5 36. Kb1 b5 37. Kc2 Rh8 38. Kb2 Kd4 39. Kb1 Bf2 40. Kc2 Nf7 41. Kb2 Kd3 42. Kb3 Nd6 43. Kb2 b3 44. Kb1 Qg3 45. Kb2 Nc8 46. Kc1 Bd4 47. Kb1 Qg1# 0-1

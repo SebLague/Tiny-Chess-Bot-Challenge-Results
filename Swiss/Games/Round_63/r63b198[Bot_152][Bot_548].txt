@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "62"]
+[White "Attempts to win (by: Taylor Lineman)"]
+[Black "PAtATtO (by: Willem Paternotte)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 g6 2. Rh3 Bh6 3. Rb3 d6 4. Na3 Bxd2+ 5. Kxd2 h6 6. Qe1 Qd7 7. Qd1 d5 8. Qe1 Qd6 9. Nb5 Qf4+ 10. Kc3 d4+ 11. Nxd4 Qxh4 12. Bd2 a6 13. Ndf3 Qf6+ 14. Ne5 Qxe5+ 15. Kd3 Bf5+ 16. Kc4 Qe4+ 17. Kc5 Nd7# 0-1

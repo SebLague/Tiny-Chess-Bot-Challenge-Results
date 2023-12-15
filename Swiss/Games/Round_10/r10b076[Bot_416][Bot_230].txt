@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "9"]
+[White "ReturnOfTheQueen (by: Staicu Ciprian)"]
+[Black ":3 (by: Lauri Räsänen)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. g3 e5 2. Bg2 Bc5 3. Nc3 Nf6 4. Nf3 e4 5. Ng5 Bxf2+ 6. Kf1 Bd4 7. Bxe4 h6 8. d3 hxg5 9. Bxg5 d6 10. Bg2 c5 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "25"]
+[White "Hello there (by: Crazyfly072)"]
+[Black "EvilerBot (by: Noah)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 e6 2. Nf3 Qe7 3. Bf4 c5 4. Kd2 Nc6 5. Bg5 Kd8 6. Bxe7+ Ncxe7 7. Kd3 f6 8. Kc4 a6 9. Kxc5 d6+ 10. Kxd6 Nd5# 0-1

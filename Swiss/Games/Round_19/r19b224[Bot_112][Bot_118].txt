@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "18"]
+[White "Saubstauga (by: Dominik)"]
+[Black "BotThatLikesToPlayChess™ (by: Gary Dale)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. h4 b6 2. g4 Bb7 3. Rh3 Qc8 4. f4 Kd8 5. d4 Ke8 6. c4 Kd8 7. b4 Ke8 8. a4 Kd8 9. h5 Ke8 10. g5 Kd8 11. f5 Ke8 12. b5 Kd8 13. e3 Ke8 14. Ne2 Kd8 15. Nf4 a6 16. Nd3 d5 17. Ne5 Qxf5 18. Nc3 Qe6 19. Nf3 axb5 20. axb5 Rxa1 21. Bd2 Rxd1+ 22. Kf2 Rxf1+ 23. Kg3 Rxf3+ 24. Kh4 Rxh3# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "36"]
+[White "Maximillian Stalebot (by: hilovids)"]
+[Black "The Soggy Biscuit (by: Brandon Curington)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Na3 e5 2. Rb1 Bd6 3. Ra1 Qf6 4. Rb1 Qxf2+ 5. Kxf2 Bc5+ 6. Ke1 Bf2+ 7. Kxf2 e4 8. Ke1 d5 9. Kf2 e3+ 10. Ke1 exd2+ 11. Kxd2 Bf5 12. Ke1 Be4 13. Kd2 Bd3 14. Ke1 Be4 15. Kd2 d4 16. Ke1 Bd5 17. Kd2 Be4 18. Ke1 Bd5 19. Kd2 Be4 1/2-1/2

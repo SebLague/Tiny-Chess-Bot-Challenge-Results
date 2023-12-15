@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "21"]
+[White "CrystalBowl (by: Daugsilius)"]
+[Black "Baloo-D (by: Dimitri)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e6 2. Rb1 c6 3. d4 Be7 4. Bd2 Bb4 5. Ra1 Kf8 6. a3 Ba5 7. Bf4 Ke7 8. Qd3 Qb6 9. Kd2 Qxb2 10. Qxh7 Qxc3+ 11. Kd1 Qe1# 0-1

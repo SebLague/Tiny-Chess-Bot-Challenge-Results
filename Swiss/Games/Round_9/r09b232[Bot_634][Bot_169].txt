@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "8"]
+[White "AeroBot (by: vakqDev)"]
+[Black "TalkChess (by: Thomas Jahn, Mike Sherwin, Dmitry Shechtman)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. a4 Nc6 2. Nh3 Nf6 3. d3 d5 4. b3 e5 5. Bg5 Bf5 6. c3 Bc5 7. Na3 O-O 8. Bh4 Re8 9. Nc4 dxc4 10. g3 Qd5 11. Qc2 Qxh1 12. d4 Bxc2 13. Ng5 exd4 14. Ra3 Bxa3 15. Nh3 Kf8 16. bxc4 Qxh2 17. f3 dxc3 18. a5 Kg8 19. c5 Kf8 20. e3 Qd2# 0-1

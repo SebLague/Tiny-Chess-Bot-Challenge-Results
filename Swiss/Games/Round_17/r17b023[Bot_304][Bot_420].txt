@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "16"]
+[White "SemiroseBot (by: Semirose)"]
+[Black "NostradamusChessNN (by: _Mus)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. exd5 Nf6 3. Nf3 Nxd5 4. d4 Bg4 5. c4 Nf6 6. Nc3 Nc6 7. Be3 g6 8. Be2 Bg7 9. d5 Bxf3 10. gxf3 Ne5 11. O-O O-O 12. f4 Ned7 13. Bf3 b6 14. Bd4 h5 15. Qc2 Rc8 16. Nb5 a6 17. Na7 Ra8 18. Nc6 Qe8 19. Rae1 e6 20. dxe6 fxe6 21. Ne5 Nxe5 22. Bxa8 Ned7 23. Bc6 Qf7 24. Qe2 Bh6 25. Qxe6 Bxf4 26. Qxf7+ Kxf7 27. b4 Bd6 28. Bc3 h4 29. h3 Rg8 30. Re3 Bf4 31. Re2 Bd6 32. Bb7 c5 33. Rd1 Bf4 34. Bxa6 cxb4 35. Bxb4 Ne5 36. Kg2 Nc6 37. Bc3 Rd8 38. Rxd8 Nxd8 39. c5 Nd7 40. Bc4+ Kf8 41. Bb5 Nxc5 42. Re8+ Kf7 43. Rxd8 g5 44. Kf3 Bc7 45. Rh8 Bf4 46. Rh6 Ne6 47. Kg4 Nc5 48. Kf5 Bh2 49. Rxb6 Kg8 50. Bd4 Nd7 51. Bxd7 Bf4 52. Be6+ Kf8 53. Bc5+ Bd6 54. Bxd6+ Kg7 55. Rb7+ Kh6 56. Bf8+ Kh5 57. Bf7# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "27"]
+[White "HalfWit (by: Steven Christy)"]
+[Black "King Shuffler (by: Team Thursday)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. b3 Na6 2. f4 e6 3. Nf3 Qf6 4. d4 Bb4+ 5. Kf2 Kd8 6. Ke3 Ne7 7. g4 Nd5+ 8. Ke4 Bc3 9. f5 Bxa1 10. Qd3 Nab4 11. Qd2 Nxa2 12. fxe6 Qxe6+ 13. Ne5 Nf6+ 14. Kf3 Nxc1 15. Qxc1 Bxd4 16. c3 Bxe5 17. e3 Qc6+ 18. e4 Qxe4+ 19. Kf2 Nxg4+ 20. Kg1 Qf5 21. Qe1 Bxh2+ 22. Rxh2 Qc5+ 23. Kg2 Ne3+ 24. Kf3 Nxf1 25. Qxf1 Qf5+ 26. Ke3 Re8+ 27. Kd2 Qxf1 28. Na3 Qf4+ 29. Kd1 Qxh2 30. Nc2 d6 31. Nd4 Bg4+ 32. Ne2 Rxe2 33. b4 Qh1# 0-1

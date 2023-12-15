@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "6"]
+[White "BadBot (by: Daniel)"]
+[Black "Depth2 (by: David Montealegre)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 Nc6 2. a3 Ne5 3. Qg4 Nxg4 4. d4 N8f6 5. Nc3 Ng8 6. Ba6 bxa6 7. h3 N4f6 8. Nge2 Rb8 9. Rh2 h6 10. f4 e6 11. Ra2 Ne7 12. Ng3 Nc6 13. Nf5 exf5 14. Kd1 Ne7 15. Ke1 g6 16. Rh1 d6 17. Kd1 Nd7 18. Kd2 h5 19. Ke2 f6 20. Na4 Nd5 21. Kf1 Ne7 22. Ke1 Nc6 23. Nc3 Ke7 24. Rg1 a5 25. Ne4 Ke8 26. Nxf6+ Ke7 27. Kf2 Nb6 28. Ng4 fxg4 29. Kf1 gxh3 30. b4 axb4 31. e4 Nxd4 32. g4 Nxc2 33. gxh5 Nxa3 34. Re2 gxh5 35. Reg2 Nac4 36. Rh1 a6 37. Rhg1 d5 38. Rg5 dxe4 39. Rf5 Bxf5 40. Rg2 c6 41. Ba3 Nxa3 42. Rg7+ Kf6 43. Rc7 Bc5 44. Rh7 Qd1# 0-1

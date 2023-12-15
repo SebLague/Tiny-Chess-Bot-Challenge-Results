@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "4"]
+[White "The Terminator (by: Ryan Murphy)"]
+[Black "Black Magic (by: Josh Odom)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 Nf6 2. e3 e5 3. Nf3 Nc6 4. Bc4 e4 5. Ng5 d5 6. Bb5 Bd6 7. O-O Bxh2+ 8. Kxh2 Ng4+ 9. Kg1 Qxg5 10. Be2 Qh4 11. Nb5 Qh2# 0-1

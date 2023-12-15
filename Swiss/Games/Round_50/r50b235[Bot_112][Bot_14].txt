@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "49"]
+[White "Saubstauga (by: Dominik)"]
+[Black "simpleval (portmonteau of simple eval) (by: hokurou)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. h4 h5 2. f4 f5 3. d4 d5 4. b4 b5 5. g3 g6 6. e3 e6 7. Bxb5+ Ke7 8. a4 Nh6 9. a5 Ng8 10. c3 Nh6 11. Nh3 Ng8 12. Ng5 Nh6 13. Nh3 Ng8 14. Ng5 Nh6 15. Nh3 1/2-1/2

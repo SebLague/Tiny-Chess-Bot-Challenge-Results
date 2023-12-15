@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "28"]
+[White "Sambot (by: Sam)"]
+[Black "Metis (by: krox)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e6 2. Rb1 Bb4 3. Nf3 Nc6 4. Rg1 Qf6 5. Ne4 Qf5 6. Neg5 h6 7. e4 Qg6 8. h4 hxg5 9. Nxg5 Rxh4 10. f4 Rxf4 11. a3 Qxg5 12. Qe2 Qc5 13. g3 Rf6 14. Rg2 Qxc2 15. Ra1 Bxd2+ 16. Qxd2 Qxe4+ 17. Qe3 Qd5 18. Re2 Rf3 19. Qg1 Nd4 20. Rd2 Qe5+ 21. Kd1 Nb3 22. Rb1 Nxd2 23. Bxd2 Qf5 24. Bd3 Qxd3 25. Rc1 Rf1+ 26. Qxf1 Qxf1+ 27. Kc2 Qg2 28. Re1 Qxg3 29. Kd1 Nf6 30. Be3 b6 31. Re2 Qf3 32. Kd2 Ne4+ 33. Kd1 Ba6 34. Kc1 Bd3 35. Re1 Qg2 36. Bf2 Qxf2 37. Rxe4 Qc2# 0-1

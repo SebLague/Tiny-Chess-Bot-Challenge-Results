@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "40"]
+[White "LadyLuckGuidesMyMinMaxSearch (by: MrPelluke)"]
+[Black "Sore Loser Bot (by: Techno)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Timeout"]
+
+1. b3 b6 2. f3 e5 3. h3 g6 4. g4 Ba6 5. Bg2 Ne7 6. Rh2 Bxe2 7. b4 g5 8. Bf1 Rg8 9. c3 Bc4 10. Bg2 Ng6 11. h4 Qf6 12. Bb2 Ne7 13. Qb3 Bxb3 14. a4 Nf5 15. b5 Nd4 16. Bh1 Qe7 17. Rf2 Na6 18. Ba3 Rc8 19. a5 Nb4 20. Rg2 d6 21. hxg5 c6 22. Nh3 Kd7 23. g6 Ke6 24. Ng5+ 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "Strikeeaglechess (by: Strikeeaglechase)"]
+[Black "BalanceBot (by: vuT)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 h5 2. Be2 g5 3. d4 Bg7 4. Bxg5 Bxd4 5. Qxd4 Rh6 6. Bxh6 Nc6 7. Qg7 Nxh6 8. Qh8+ Ng8 9. Qxg8# 1-0

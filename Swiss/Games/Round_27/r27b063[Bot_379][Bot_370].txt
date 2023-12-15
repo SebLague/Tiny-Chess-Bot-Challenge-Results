@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "26"]
+[White "BIG CHUMPER V6.0 (by: Pedro Contipelli)"]
+[Black "TuroChampEx (by: code<metas>)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 Nf6 2. Nf3 e6 3. e4 Nc6 4. d4 d6 5. h4 a5 6. a4 Bd7 7. e5 Ng4 8. exd6 Bxd6 9. h5 O-O 10. d5 exd5 11. Qxd5 Nf6 12. Qc4 Re8+ 13. Be3 Ng4 14. Kd2 Nxe3 15. fxe3 Ne5 16. Qh4 Nxf3+ 17. gxf3 Bc5 18. Bd3 Bxe3+ 19. Kd1 Qxh4 20. Rxh4 Bc6 21. Rh3 Rad8 22. Ne2 Rd6 23. b3 Rf6 24. f4 Bxf4 25. Nxf4 Rxf4 26. Rb1 Rf6 27. Rh4 Rfe6 28. Kd2 g5 29. Rd4 Bf3 30. Rg1 Re5 31. Rh4 Be2 32. Rh2 Bxd3 33. cxd3 b5 34. axb5 Rxb5 35. d4 Rd5 36. Re2 Rxe2+ 37. Kxe2 Kg7 38. Rf1 Rxd4 39. Rf5 Kh6 40. Rxf7 Rb4 41. Rxc7 Rxb3 42. Rc5 Kxh5 43. Rxa5 Rh3 44. Rf5 Kh4 45. Rd5 h6 46. Rd4+ Kh5 47. Rd8 Rh1 48. Rd3 Rc1 49. Rh3+ Kg6 50. Rb3 Rc6 51. Rf3 Re6+ 52. Kd1 Re4 53. Rd3 Ra4 54. Rd6+ Kh5 55. Rd2 Rf4 56. Rh2+ Kg6 57. Rc2 Re4 58. Rc6+ Kh5 59. Rf6 Re3 60. Ra6 Rf3 61. Re6 Rf2 62. Re3 Rf1+ 63. Re1 Rxe1+ 64. Kxe1 Kh4 65. Kd2 Kg3 66. Kd3 h5 67. Ke2 g4 68. Ke1 Kh2 69. Kd2 g3 70. Kc2 g2 71. Kd3 g1=Q 72. Kc2 Qf2+ 73. Kb1 Qf4 74. Kb2 h4 75. Kc2 Qd4 76. Kb3 h3 77. Kc2 Kg3 78. Kb3 h2 79. Kc2 Kf2 80. Kb3 h1=Q 81. Ka2 Ke1 82. Kb3 Kd1 83. Ka2 Kc1 84. Kb3 Kb1 85. Ka3 Ka1 86. Kb3 Qb1+ 87. Ka3 Qc1+ 88. Kb3 Qcd1+ 89. Ka3 Qe1 90. Kb3 Kb1 91. Ka3 Kc1 92. Kb3 Kd1 93. Ka2 Kc2 94. Ka3 Kb1 95. Kb3 Ka1 96. Kc2 Qb1# 0-1

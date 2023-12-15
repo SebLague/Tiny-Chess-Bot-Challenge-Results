@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "45"]
+[White "NameGoesThere's bot (by: NameGoesThere)"]
+[Black "SimpleBot (by: :LMProgramming)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. e4 c6 2. d4 Qa5+ 3. Ke2 Qb5+ 4. Ke3 Qg5+ 5. Ke2 Qg4+ 6. Ke3 Qxd1 7. Bc4 Qxc2 8. Bf1 Qxc1+ 9. Ke2 Qc2+ 10. Ke3 Qxb2 11. f4 Qxa1 12. Nd2 Qxa2 13. Ndf3 Qa3+ 14. Ke2 Qa2+ 15. Ke3 Qa3+ 16. Ke2 Qa2+ 17. Ke3 1/2-1/2

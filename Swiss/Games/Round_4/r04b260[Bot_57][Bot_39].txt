@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "3"]
+[White "Obi (by: Carson Ouckama)"]
+[Black "Blind Bot (by: Moonwalker3)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nc6 2. e4 Nf6 3. Qg4 Nxg4 4. f4 Nxd4 5. h4 Nxc2+ 6. Kd2 Nxa1 7. a4 Nf6 8. e5 Ne4+ 9. Kd3 Nc5+ 10. Kd4 Ne6+ 11. Kd5 Rb8 12. f5 Ra8 13. fxe6 dxe6+ 14. Kc5 Rb8 15. Bb5+ c6 16. Be2 Ra8 17. g4 Rb8 18. g5 Ra8 19. h5 Rb8 20. Bf4 Ra8 21. Nf3 Rb8 22. Rh4 Ra8 23. Rg4 Rb8 24. Nc3 Ra8 25. b4 Rb8 26. Kc4 Ra8 27. Ne4 Rb8 28. Nc5 b6 29. Ne4 Ba6+ 30. Kc3 Bxe2 31. Nh4 Bxg4 32. Kc4 Bxh5 33. Nd6+ exd6 34. exd6 Be2+ 35. Kd4 Nc2+ 36. Ke5 Bd3 37. d7+ Kxd7 38. Nf5 exf5 39. Bc1 Qc7# 0-1

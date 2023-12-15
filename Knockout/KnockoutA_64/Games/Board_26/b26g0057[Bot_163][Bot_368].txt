@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Knockout 64"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "-1"]
+[White "Grenouille (by: mcngnt)"]
+[Black "Chip (by: Evan)"]
+[Result "1-0"]
+[TimeControl "30+0.1"]
+[Termination "Checkmate"]
+
+1. c4 e5 2. Nc3 d6 3. g3 f5 4. d4 e4 5. f3 Nf6 6. Bg2 exf3 7. Nxf3 Be7 8. d5 c6 9. O-O cxd5 10. cxd5 O-O 11. Nd4 Ng4 12. e4 Bf6 13. exf5 Bxd4+ 14. Qxd4 Rxf5 15. Bf4 g5 16. h3 Ne5 17. Be3 h6 18. Ne4 Na6 19. g4 Rxf1+ 20. Rxf1 Nc7 21. Nf6+ Kh8 22. h4 Ne8 23. hxg5 hxg5 24. Bxg5 Bd7 25. Qf4 Qb6+ 26. Kh1 Bxg4 27. Qh2+ Bh3 28. Qxh3+ Kg7 29. Qh7+ Kf8 30. Nd7# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "10"]
+[White "RayBot (by: Shahriar Rayed)"]
+[Black "Electric Shockwave Gambit (by: Valentin)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 Nf6 2. Qf3 Nc6 3. b3 d6 4. Bb5 Qd7 5. Ne2 a6 6. Ba4 b5 7. Bxb5 axb5 8. Nbc3 Bb7 9. a4 b4 10. Nd5 Nxd5 11. Qxd5 Na5 12. Qd3 Bxg2 13. Rg1 Bc6 14. Nf4 d5 15. Bb2 f6 16. Nh5 Kf7 17. Rg3 g6 18. Nf4 Rg8 19. Rh3 h6 20. Rg3 g5 21. Nh5 f5 22. f4 g4 23. Rg1 Bb7 24. Qb5 Qxb5 25. axb5 c6 26. bxc6 Nxc6 27. Rxa8 Bxa8 28. Kf2 e6 29. Nf6 Rg6 30. Ra1 Bb7 31. Nd7 Be7 32. Ne5+ Nxe5 33. Bxe5 Bc6 34. Ra6 Bb5 35. Rb6 Be8 36. Rb7 Kf8 37. Rb8 Rg8 38. d3 h5 39. Ke1 h4 40. c3 g3 41. hxg3 h3 42. Kf2 h2 43. Kg2 Rxg3+ 44. Kxh2 Rxe3 45. cxb4 Rxd3 46. Rb6 Rxb3 47. Rxe6 Rxb4 48. Bf6 Bc5 49. Be5 Bd7 50. Ra6 Ke7 51. Rg6 Be6 52. Rg2 Bd4 53. Bxd4 Rxd4 54. Kg3 Re4 55. Rh2 Re3+ 56. Kf2 d4 57. Rg2 Bd5 58. Rg3 Rxg3 59. Kxg3 Ke6 60. Kf2 Bb3 61. Ke2 Bc4+ 62. Kf2 Kd5 63. Kf3 Bb5 64. Kf2 Ke4 65. Ke1 Ke3 66. Kd1 d3 67. Kc1 d2+ 68. Kc2 Bd7 69. Kb2 d1=Q 70. Ka3 Kd3 71. Ka2 Kc3 72. Ka3 Qa1# 0-1

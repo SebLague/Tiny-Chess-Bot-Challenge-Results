@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "55"]
+[White "KU_AI_BOT (by: Daniel Johnson)"]
+[Black "Beancounting_pawnpusher (by: Arnt Veenstra)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 d5 2. d4 dxe4 3. Nc3 f5 4. Bf4 a5 5. Bb5+ c6 6. Bc4 b5 7. Bxg8 Rxg8 8. Qh5+ g6 9. Qh4 h5 10. Nge2 b4 11. Bxb8 bxc3 12. Be5 cxb2 13. Rb1 Qb6 14. a3 e6 15. Qg5 Bxa3 16. O-O a4 17. Bf6 Qb5 18. Qe3 Qb4 19. Bg5 Kd7 20. Rfd1 Qf8 21. Bh6 Qd6 22. Bf4 Qe7 23. Bg5 Qb4 24. h4 Bb7 25. Bh6 Rh8 26. Bg7 Rh7 27. d5 Rxg7 28. dxe6+ Kxe6 29. Nf4+ Kf7 30. Rd7+ Kf6 31. Rd3 Qc4 32. Rxa3 Qb4 33. c3 Qxa3 34. Qd4+ Kf7 35. Nxh5 gxh5 36. Qd7+ Kf6 37. Qd4+ Kg6 38. Qe3 Kh7 39. Qf4 Bc8 40. Kh2 Qa2 41. Qd2 Qxb1 42. Qe2 Rg4 43. Qc4 Rxh4+ 44. Kg3 Qd3+ 45. Qxd3 Rg4+ 46. Kh2 exd3 47. f3 Rg5 48. f4 Rg4 49. Kg1 b1=Q+ 50. Kf2 Qc2+ 51. Ke1 Qe2# 0-1

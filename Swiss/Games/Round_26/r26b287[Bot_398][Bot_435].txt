@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "25"]
+[White "ChessGPT (by: DeepGoldenCrown)"]
+[Black "røhgryd me' fløe made in China (by: TSDT-Silly)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g3 a6 2. d3 a5 3. e4 e6 4. Nc3 Na6 5. f3 a4 6. Nxa4 Nh6 7. Bxh6 Qf6 8. Bxg7 Qf5 9. exf5 Bd6 10. Bxh8 Nb8 11. fxe6 Rxa4 12. Kd2 f5 13. Kc1 Ke7 14. exd7 Ra5 15. dxc8=Q f4 16. Qxb8 Rb5 17. Kb1 Bc5 18. Kc1 h5 19. Kb1 Bb4 20. Kc1 Rb6 21. Kb1 Rc6 22. Qxb7 Bc3 23. Qxc6 Bb4 24. Kc1 Be1 25. Kb1 Kf8 26. Qxe1 Kg8 27. Qxc7 Kf8 28. Qg7# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "55"]
+[White "Love (by: Avila)"]
+[Black "ConvolutedBot (by: pwahs)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 d5 2. c4 dxc4 3. e3 b5 4. a4 c6 5. axb5 Be6 6. Qa4 Qb6 7. Nc3 a6 8. bxc6 Nf6 9. Bxc4 Bxc4 10. c7+ Nc6 11. Qxc4 e6 12. Rxa6 Qxc7 13. Rxa8+ Kd7 14. Nf3 Qb7 15. Qa4 Kc7 16. Ne5 Nxe5 17. dxe5 Nd5 18. Qa5+ Qb6 19. Nxd5+ exd5 20. Ra7+ Kc6 21. Qa4+ Kc5 22. Bd2 Qb8 23. Ra6 Qb6 24. Qd4+ Kc6 25. Qxb6+ Kd7 26. Qb7+ Ke8 27. Ra8# 1-0

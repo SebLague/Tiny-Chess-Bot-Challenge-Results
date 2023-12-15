@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "4"]
+[White "Average Chess bot (by: )"]
+[Black "Stickleback2 (by: Brent Mardell)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. d4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 Nf6 6. e5 Nd5 7. c4 Nde7 8. c5 d5 9. Rb1 O-O 10. Nf3 f6 11. exf6 gxf6 12. Bb2 Nf5 13. Kd2 Bd7 14. Kc1 Re8 15. Ra1 Qe7 16. g4 Nh6 17. Rg1 Nf7 18. Qd2 Ng5 19. Qf4 e5 20. dxe5 Ne6 21. Qxf6 Qxc5 22. Ng5 Qe7 23. Nxe6 Bxe6 24. Qxe7 Rxe7 25. Bb5 Rf7 26. Rg2 a6 27. Bxc6 bxc6 28. g5 Rf3 29. Kd1 Rd8 30. Bd4 Rf4 31. Be3 Re4 32. Bd2 Rd7 33. f4 Rd4 34. g6 Kg7 35. gxh7+ Kxh7 36. Rg5 Rg7 37. Rxg7+ Kxg7 38. Rb1 Ra4 39. Rb7 Kg8 40. Rxc7 Rxa3 41. Rxc6 Bd7 42. Rg6+ Kh7 43. e6 Ra1+ 44. Bc1 Kxg6 45. exd7 Ra4 46. d8=Q Rd4+ 47. Ke1 Re4+ 48. Kf1 Kh7 49. Qh4+ Kg7 50. Qg5+ Kh8 51. Bb2+ d4 52. Qf6+ Kg8 53. Qg6+ Kf8 54. Ba3+ Re7 55. f5 d3 56. f6 d2 57. fxe7# 1-0

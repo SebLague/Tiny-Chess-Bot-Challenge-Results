@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "34"]
+[White "The Chotic bot (by: EV3L1N)"]
+[Black "Just Alright... Kinda... (JAK) (by: Joshnaks)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. g4 a5 2. b4 axb4 3. d3 Ra4 4. Nh3 Ra5 5. Ng1 Ra4 6. Bh6 Nxh6 7. Nf3 Nxg4 8. d4 Ra5 9. Bh3 Nf6 10. Nfd2 Ra4 11. f4 Ra5 12. d5 Rxd5 13. Nf3 Rxd1+ 14. Kf2 Rxh1 15. f5 Rd1 16. Ne5 Ne4+ 17. Ke3 Nc5 18. Nc3 Rxa1 19. Kd2 bxc3+ 20. Kxc3 Na4+ 21. Kd2 Rxa2 22. Nc6 Nxc6 23. f6 exf6 24. Bf1 Rb2 25. Bh3 Bb4+ 26. Kc1 Ra2 27. Bg2 Ra1# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "50"]
+[White "QuaviverBot (by: CantWontDo)"]
+[Black "BackupBotCuzIDeletedPreviousGoodOne (by: _deeznuts420)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. c4 e6 2. Qc2 Ke7 3. Nf3 Kd6 4. Qd3+ Kc5 5. b4+ Kxb4 6. Qa3+ Kxc4 7. e4# 1-0

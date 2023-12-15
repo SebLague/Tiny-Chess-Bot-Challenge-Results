@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "41"]
+[White "ScholarsBot (by: magic216)"]
+[Black "Kaan's Majestic Gentlemen (by: Level 0 Kaan)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e6 2. Bc4 e5 3. Qh5 Qh4 4. Qxf7+ Kd8 5. Qxf8# 1-0

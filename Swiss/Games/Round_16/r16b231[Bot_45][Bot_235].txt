@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "15"]
+[White "HopeBot (by: Chinmay Krishna)"]
+[Black "Goldibot (by: Ben)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 f6 2. Qg4 e5 3. Bc4 Ne7 4. Ne2 c5 5. a4 h5 6. Qf3 e4 7. Qxe4 f5 8. Qe5 f4 9. exf4 Qa5 10. h4 d5 11. Bxd5 Nd7 12. Kf1 Nxe5 13. fxe5 Nxd5 14. Ke1 c4 15. Nec3 Nf4 16. Nb5 Nxg2+ 17. Ke2 Bd7 18. d4 Bg4+ 19. Kf1 Bf3 20. Kg1 Qe1+ 21. Kh2 Qa5 22. Kg1 a6 23. N5c3 Ne1 24. Rh3 Bg2 25. Rg3 Bc6 26. Rxg7 Bxg7 27. Ne4 Nf3+ 28. Kh1 Bxe4 29. Kg2 Nxd4+ 30. Kf1 Bxc2 31. Ra3 Bxb1 32. Bd2 Qxd2 33. Kg2 Be4+ 34. Kh2 Bxe5+ 35. Rg3 Qxf2+ 36. Kh3 Qxg3# 0-1

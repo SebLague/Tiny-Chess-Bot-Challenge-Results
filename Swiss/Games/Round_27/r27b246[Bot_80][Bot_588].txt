@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "26"]
+[White "Knightmare (by: Miguel Piedrafita)"]
+[Black "Mobilibot (by: Gabriel N.)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 e5 2. Nb5 Qh4 3. Nxa7 Rxa7 4. Rb1 Bb4 5. a3 Ra6 6. axb4 d5 7. Nf3 Qxb4 8. Nxe5 Bg4 9. h4 Ne7 10. c4 d4 11. Nxg4 Kd7 12. h5 Nf5 13. h6 Ne3 14. fxe3 dxe3 15. hxg7 Rg8 16. Nxe3 h5 17. Rxh5 f5 18. Nxf5 Qxc4 19. Kf2 Qf4+ 20. Ke1 Qxf5 21. Rxf5 Rxg7 22. Kf2 Rg4 23. Ke1 c5 24. Rxc5 Nc6 25. Rxc6 Rxc6 26. Kf2 Rf6+ 27. Ke1 Rg3 28. Ra1 Ra6 29. Rxa6 bxa6 30. Kf2 Rg4 31. Ke1 Rf4 32. Qc2 Ke7 33. Kd1 Rxf1# 0-1

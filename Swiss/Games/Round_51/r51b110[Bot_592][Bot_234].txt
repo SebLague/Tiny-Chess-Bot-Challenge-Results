@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "50"]
+[White "Chark Bot (by: Team Chark V1)"]
+[Black "Shallow Blue (by: Mikolaj W)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. Qf3 Nf6 3. Ne2 e6 4. d4 Ng8 5. Nd2 g6 6. d5 Nb8 7. Qc3 f6 8. dxe6 dxe6 9. Nf4 Bh6 10. Nf3 c6 11. Bc4 Qd6 12. Nd3 Nd7 13. O-O Bxc1 14. Rfxc1 Ne7 15. Rd1 b5 16. e5 Nxe5 17. Ndxe5 Qb8 18. Ng4 bxc4 19. Qxf6 Rg8 20. Nfe5 Rf8 21. Rd8+ Kxd8 22. Qxf8+ Kc7 23. Qxe7+ Bd7 24. Qxd7+ Kb6 25. Qxc6+ Ka5 26. Nxc4+ Kb4 27. a3# 1-0

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "27"]
+[White "Reaper (by: thesharpestknife)"]
+[Black "TacTxs (by: Mitch)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nf3 Nf6 2. Nc3 d5 3. d4 Ne4 4. Qd3 Nxc3 5. Qxc3 Nc6 6. Ne5 Nxe5 7. dxe5 f6 8. Bf4 c6 9. h4 d4 10. Qg3 Bf5 11. O-O-O Qd5 12. exf6 gxf6 13. a4 e5 14. Bd2 Qa2 15. Bg5 Bb4 16. c3 dxc3 17. Qxc3 Qb1+ 18. Kd2 O-O-O 19. Ke1 Bxc3+ 20. bxc3 Rxd1# 0-1

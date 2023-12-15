@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "38"]
+[White "Average Chess bot (by: )"]
+[Black "Astolfo (by: Illuminate)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 Bb4 5. d5 Ne7 6. Qd3 Ng6 7. Nd2 c6 8. dxc6 dxc6 9. Nf3 Bxc3+ 10. bxc3 Bg4 11. c4 O-O 12. Qxd8 Raxd8 13. Ba3 Rfe8 14. Nd2 Nf4 15. Rb1 Rd7 16. Bb2 Red8 17. Bxe5 Rxd2 18. f3 Nxg2+ 19. Bxg2 Rxg2 20. Bxf6 gxf6 21. fxg4 Rd4 22. Rxb7 Rxe4+ 23. Kd1 Rd4+ 24. Kc1 Rxc4 25. Rb8+ Kg7 26. Rb2 Rcxg4 27. h3 Rg1+ 28. Rxg1 Rxg1+ 29. Kd2 Ra1 30. Kc3 Rh1 31. Rb7 Rxh3+ 32. Kb2 a5 33. Rb6 a4 34. Ra6 a3+ 35. Rxa3 Rxa3 36. Kc1 Rxa2 37. Kd1 f5 38. Kd2 f4 39. Kd3 Ra3+ 40. Ke2 Rc3 41. Kf2 Kf6 42. Ke2 Rxc2+ 43. Kd1 f3 44. Kxc2 f2 45. Kb3 f1=Q 46. Kb4 Qd3 47. Kc5 Qc3+ 48. Kb6 Ke5 49. Kc7 Ke6 50. Kb8 Kd7 51. Kb7 Qb3+ 52. Ka7 Kc7 53. Ka6 Qa3# 0-1

@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "55"]
+[White "PecanPie (by: PecanPie)"]
+[Black "Reaper (by: thesharpestknife)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 Nf6 2. Bf4 h6 3. e3 g5 4. Bg3 d6 5. Nc3 Nc6 6. d5 Ne5 7. Bxe5 dxe5 8. Nf3 e4 9. Bb5+ Bd7 10. Bxd7+ Qxd7 11. Ne5 Qd6 12. Qd4 Qb6 13. Qa4+ c6 14. dxc6 bxc6 15. Nxc6 Qxb2 16. Ne5+ Kd8 17. Rd1+ Kc8 18. Qc6+ Kb8 19. Rd8# 1-0

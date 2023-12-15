@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "37"]
+[White "SaveBot (or, "winning bot" as an alternative) (by: Rudy)"]
+[Black "TrainedLikeTeamy (by: TeamDman)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Repetition"]
+
+1. Na3 e6 2. Rb1 Bb4 3. Ra1 d6 4. Rb1 h5 5. Ra1 b5 6. Nxb5 Qf6 7. Nxd6+ cxd6 8. Rb1 Qf3 9. Nxf3 Kf8 10. Ra1 Nc6 11. Rb1 Rb8 12. Ra1 Rb5 13. Rb1 Ke7 14. Ra1 g6 15. Rb1 g5 16. Nxg5 Kf8 17. Nxe6+ fxe6 18. Ra1 Kf7 19. Rb1 Nb8 20. Ra1 Nc6 21. Rb1 Nb8 22. Ra1 Nc6 1/2-1/2

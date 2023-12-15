@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "35"]
+[White "Peeter 1 (by: Gouuu)"]
+[Black "MobiBot 4.2 (by: Michael)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e3 e5 2. d4 e4 3. b3 Qg5 4. c3 Nc6 5. b4 a5 6. a3 axb4 7. cxb4 Bxb4+ 8. Nd2 Bc3 9. Ra2 Nb4 10. axb4 Rxa2 11. Qb3 Bxd2+ 12. Bxd2 Ra1+ 13. Ke2 Qb5+ 14. Qd3 Qxd3# 0-1

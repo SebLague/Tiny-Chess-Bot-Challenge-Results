@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "48"]
+[White "InfuehrDaniel MCTS (by: Daniel Infuehr)"]
+[Black "Mirror Bot (by: JuNi)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Stalemate"]
+
+1. e3 e6 2. Qg4 Qg5 3. Qxg5 Bb4 4. Qxg7 h6 5. a3 a6 6. Qe5 Bd6 7. Qxh8 Be7 8. Bd3 Bd6 9. Ra2 Ra7 10. Kd1 Kd8 11. Qxg8+ Bf8 12. Bg6 b5 13. Bh5 d6 14. Qxf7 Rb7 15. b4 Rb6 16. d4 d5 17. Ke2 c6 18. Qe8+ Kc7 19. Qxf8 Bd7 20. Kd1 Be8 21. Bxe8 Kb7 22. Qf7+ Ka8 23. Ne2 Rb7 24. Qg8 Rb6 25. Qxe6 c5 26. Qe5 Re6 27. Qxe6 Ka7 28. Kd2 Nd7 29. Qf7 cxb4 30. Qxd7+ Kb6 31. axb4 h5 32. h3 h4 33. Rb2 a5 34. bxa5+ Ka6 35. Kd1 b4 36. Qd8 Kb7 37. c3 b3 38. Kd2 Ka6 39. Rxb3 Ka7 40. Kd1 Ka6 41. Ke1 Ka7 42. Kd2 Ka6 43. Kd1 Ka7 44. Ra3 Ka6 45. Ke1 Ka7 46. Kd2 Kb7 47. Kc2 Ka7 48. Kb2 Kb7 49. Rd1 Ka7 50. Kc2 Kb7 51. Kd2 Ka7 52. Kd3 Kb7 53. Kc2 Ka7 54. Kb2 Kb7 55. Ka2 Ka7 56. Ka1 Ka6 57. Re1 Ka7 58. Ka2 Kb7 59. Kb2 Ka6 60. Kc2 Kb7 61. Kd1 Ka7 62. Kd2 Ka6 63. Kd3 Ka7 64. Rg1 Ka6 65. Kc2 Kb7 66. Kd1 Ka6 67. Kd2 Kb7 68. Ke1 Ka6 69. Kd1 Kb7 70. Kc2 Ka6 71. Kb2 Kb7 72. Ka2 Ka7 73. Rd1 Ka6 74. Ka1 Kb7 75. Rf1 Ka7 76. Ka2 Kb7 77. Kb2 Ka6 78. Kc2 Ka7 79. Kd1 Ka6 80. Ke1 Kb7 81. Kd2 Ka7 82. Kc2 Ka6 83. Kd1 Kb7 84. Ke1 Ka6 85. Rg1 Ka7 86. Rh1 Ka6 87. Kd1 Kb7 88. Kd2 Ka7 89. Qc8 1/2-1/2

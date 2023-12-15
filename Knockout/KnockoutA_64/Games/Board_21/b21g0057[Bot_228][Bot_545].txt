@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Knockout 64"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "-1"]
+[White "Buildabot (by: Buildasaurus)"]
+[Black "Sven (by: Theodor)"]
+[Result "1-0"]
+[TimeControl "30+0.1"]
+[Termination "Checkmate"]
+
+1. c4 e5 2. Nc3 d6 3. g3 f5 4. d4 e4 5. f3 Nf6 6. Bg2 Qe7 7. Bg5 exf3 8. Nxf3 Nc6 9. O-O h6 10. Nd5 Qf7 11. Bxf6 gxf6 12. Nh4 Bg7 13. Qd2 f4 14. Rxf4 O-O 15. Raf1 Be6 16. Nxf6+ Bxf6 17. Rxf6 Qxf6 18. Rxf6 Rxf6 19. d5 Bd7 20. dxc6 Bxc6 21. Qd4 Rf7 22. Qg4+ Kh8 23. Qg6 Rh7 24. Qf6+ Kg8 25. Nf5 Bxg2 26. Kxg2 d5 27. cxd5 c6 28. d6 Rf8 29. Nxh6+ Rxh6 30. Qxh6 Rf7 31. Qe6 Kg7 32. d7 Rf8 33. Qe7+ Kg8 34. Qxf8+ Kxf8 35. d8=Q+ Kf7 36. Qd7+ Kf6 37. Qxb7 Ke5 38. Qxc6 Kd4 39. Qd7+ Ke4 40. Qxa7 Kd5 41. b4 Kc6 42. Qb8 Kd7 43. b5 Ke6 44. Qe8+ Kd5 45. b6 Kd4 46. b7 Kd5 47. b8=Q Kc4 48. Qeb5+ Kd4 49. Q8e5# 1-0

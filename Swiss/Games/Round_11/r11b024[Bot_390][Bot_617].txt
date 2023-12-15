@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "10"]
+[White "BuiltCleverBot (by: Scott Ward)"]
+[Black "Hydra (by: ReiedLaw)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. Bb5 Bd6 5. d4 exd4 6. Nxd4 Nxd4 7. Qxd4 O-O 8. O-O Re8 9. Bg5 Be5 10. Qc4 c6 11. Ba4 b5 12. Nxb5 cxb5 13. Qxb5 Rb8 14. Bxf6 Qxf6 15. Qa5 Rxb2 16. Rfb1 Rb6 17. c3 Bxc3 18. Qxa7 Ra6 19. Qc5 Bxa1 20. Bb3 Bd4 21. Qc2 Qe5 22. Bd5 Rf6 23. Rf1 Ba6 24. Bc4 Bxf2+ 25. Qxf2 Rxf2 26. Bxa6 Rxa2 27. Rd1 Qxe4 28. Bf1 Qe3+ 29. Kh1 Rea8 30. Bc4 Ra1 31. Rf1 R8a2 32. Bxf7+ Kh8 33. Bc4 Qf2 34. Be2 Rxf1+ 35. Bxf1 Qxf1# 0-1

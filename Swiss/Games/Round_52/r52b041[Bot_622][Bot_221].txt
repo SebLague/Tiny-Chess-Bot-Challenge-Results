@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "51"]
+[White "R2D2 (by: Andrei Taropa)"]
+[Black "Spaghetto (by: Skae (Francesco))"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nc6 2. d4 d5 3. Bb5 dxe4 4. d5 a6 5. Bxc6+ bxc6 6. dxc6 Qxd1+ 7. Kxd1 e5 8. f3 Be6 9. fxe4 O-O-O 10. Bd2 Ne7 11. Kc1 Nxc6 12. Nf3 Bd6 13. Nc3 Rhe8 14. Ng5 h6 15. Nxe6 fxe6 16. Na4 Kb8 17. Rf1 Rf8 18. Rxf8 Rxf8 19. Be1 Rf1 20. Kd1 Rg1 21. g3 Nd4 22. Rb1 Rg2 23. c4 Rxh2 24. c5 Be7 25. a3 Rg2 26. b4 Ra2 27. Nc3 Rxa3 28. Kc1 Kc8 29. Kb2 Rb3+ 30. Ka2 Rxb1 31. Kxb1 Kd7 32. g4 Bg5 33. Kb2 Ke7 34. Na4 Kf6 35. Nc3 g6 36. Nb1 h5 37. gxh5 gxh5 38. Kc3 h4 39. Kd3 h3 40. Bg3 Nf3 41. Nc3 Bf4 42. Ne2 Kg5 43. c6 Kg4 44. Nxf4 exf4 45. b5 axb5 46. Bf2 h2 47. Kc3 h1=Q 48. Kb3 Qa1 49. Kb4 Nd2 50. Kxb5 Qf1+ 51. Ka4 Qc4+ 52. Ka3 Qb3# 0-1

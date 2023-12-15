@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "42"]
+[White "Version 8 (by: Whoever)"]
+[Black "tom (by: Christopher Hosken & Thomas Lower)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 h5 2. d4 f5 3. exf5 e5 4. dxe5 g5 5. Qd4 d5 6. Bb5+ c6 7. Kf1 cxb5 8. b3 a5 9. Nc3 b6 10. Nxb5 h4 11. g4 hxg3 12. hxg3 Rxh1 13. g4 a4 14. Bd2 axb3 15. axb3 Rxa1+ 16. Qxa1 d4 17. Qa7 Ne7 18. Qxb8 d3 19. Bxg5 Bg7 20. Qa8 Rh8 21. Ke1 d2+ 22. Ke2 d1=Q+ 23. Ke3 Nxf5+ 24. gxf5 Qxg5+ 25. f4 Qgd8 26. Qc6+ Bd7 27. Qg6+ Kf8 28. Qg4 Qxg4 29. Kd4 Qe7 30. Kd5 Bxb5 31. c3 Qxg1 32. b4 Bh6 33. e6 Bxf4 34. Ke4 Qd6 35. f6 Qc7 36. Kf3 Qd6 37. Ke4 Be8 38. b5 Bxb5 39. Kf3 Qc7 40. Ke4 Be8 41. Kd3 b5 42. Ke2 Qxc3 43. e7+ Kg8 44. f7+ Bxf7 45. e8=Q+ Kh7 46. Qxf7+ Kh6 47. Qxf4+ Kg7 48. Qf1 Qxf1+ 49. Kxf1 Kf6 50. Kg1 Ke5 51. Kf1 Kd4 52. Kg1 Ke3 53. Kf1 b4 54. Kg1 Rg8+ 55. Kh1 Kf2 56. Kh2 Rh8# 0-1

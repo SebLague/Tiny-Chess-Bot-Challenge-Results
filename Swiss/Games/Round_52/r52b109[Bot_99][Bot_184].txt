@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "51"]
+[White "Sambot (by: Sam)"]
+[Black "Chessinator 3000 (by: )"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e6 2. Rb1 Nc6 3. Nb5 a6 4. Na3 Qh4 5. Nf3 Qg4 6. Rg1 Nf6 7. c3 h5 8. Nc2 Bd6 9. h4 O-O 10. a3 b6 11. b3 Bb7 12. g3 Kh7 13. Ng5+ Qxg5 14. hxg5 Ne7 15. gxf6 gxf6 16. e3 Kh6 17. Be2 f5 18. Bxh5 a5 19. b4 axb4 20. Nxb4 Be4 21. d3 Bb7 22. e4+ Kg7 23. exf5 exf5 24. Nc2 Nd5 25. Qd2 Rfe8+ 26. Be2 f6 27. Qh6+ Kf7 28. Qh7+ Ke6 29. Nd4+ Ke5 30. Qxf5# 1-0

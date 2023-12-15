@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "22"]
+[White "BigBrainBot (by: Leo)"]
+[Black "simple chess bot (by: 4a0I)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 e6 2. e4 Bb4+ 3. Bd2 Bxd2+ 4. Qxd2 Qh4 5. Bd3 Nc6 6. Qc3 Qg5 7. Kf1 Qc1+ 8. Ke2 Nf6 9. d5 Ne7 10. dxe6 fxe6 11. Qe5 Ng6 12. Qc3 Nf4+ 13. Kf3 Nxd3 14. cxd3 Qd1+ 15. Kf4 Qg4+ 16. Ke3 Qxg2 17. Qxc7 Ng4+ 18. Ke2 Qxf2+ 19. Kd1 Ne3+ 20. Kc1 Qe1# 0-1

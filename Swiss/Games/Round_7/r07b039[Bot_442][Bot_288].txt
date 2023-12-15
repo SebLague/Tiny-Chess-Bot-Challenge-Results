@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "6"]
+[White "Tarch (by: Taras Vuk)"]
+[Black "Running Bot (by: Chris Pontius)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. d4 c6 2. Nf3 f6 3. g3 c5 4. d5 e6 5. c4 Qb6 6. Bg2 Qb4+ 7. Nbd2 exd5 8. cxd5 Ne7 9. e4 f5 10. O-O fxe4 11. a3 Qb6 12. Nxe4 Nf5 13. Re1 Be7 14. d6 O-O 15. Qd5+ Kh8 16. dxe7 Nxe7 17. Qxc5 Qxc5 18. Nxc5 Nbc6 19. Bf4 b6 20. Nb3 a6 21. Bd6 Rf7 22. Ne5 Nxe5 23. Rxe5 Ra7 24. Bd5 Rf8 25. Rxe7 Bb7 26. Rxd7 Bxd5 27. Rxa7 Rd8 28. Bc7 Ra8 29. Rxa8+ Bxa8 30. Rd1 g5 31. Rd8+ Kg7 32. Rxa8 Kg6 33. Rxa6 Kf5 34. Bxb6 Ke4 35. Be3 Kd3 36. Nd4 h5 37. Rg6 h4 38. g4 h3 39. Rxg5 Ke4 40. Rh5 Kd3 41. g5 Kc4 42. Rxh3 Kd5 43. g6 Ke5 44. g7 Kd5 45. g8=Q+ Kc5 46. Rh7 Kd6 47. Qe6+ Kc5 48. b4# 1-0

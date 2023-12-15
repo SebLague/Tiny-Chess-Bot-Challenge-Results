@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "60"]
+[White "Mobilibot (by: Gabriel N.)"]
+[Black "SatanBot (by: odin7053@discord)"]
+[Result "1-0"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 b6 2. Qh5 c6 3. Ba6 Bxa6 4. d3 Bb7 5. Bf4 Ba6 6. Nc3 Bb7 7. Nf3 Bc8 8. Ke2 a6 9. a4 e6 10. Bd6 Bxd6 11. Ne5 Bf8 12. Qxf7# 1-0

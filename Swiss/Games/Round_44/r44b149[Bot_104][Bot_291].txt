@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "43"]
+[White "Toribot (by: Yujan Subedi)"]
+[Black "Tim (by: Bob)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. f3 e6 2. g3 Bc5 3. f4 Bxg1 4. e3 Bxh2 5. Kf2 Bxg3+ 6. Kxg3 g5 7. Bh3 gxf4+ 8. exf4 Nh6 9. d4 b6 10. Qf1 Rg8+ 11. Kh2 Bb7 12. Rg1 Rxg1 13. Kxg1 Qh4 14. Be3 Qg3+ 15. Bg2 Qxe3+ 16. Kh1 Bxg2+ 17. Kxg2 Qxd4 18. Qc1 Qe4+ 19. Kh3 Qf3+ 20. Kh2 Ng4+ 21. Kg1 Qf2+ 22. Kh1 Qh2# 0-1

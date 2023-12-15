@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "57"]
+[White "EvilerBot (by: Noah)"]
+[Black "Blind Bot (by: Moonwalker3)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. b4 Nc6 2. b5 Nd4 3. g4 Nxb5 4. f3 Nd4 5. h3 Nc6 6. Ba3 e6 7. Bxf8 Qh4# 0-1

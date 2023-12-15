@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "0"]
+[White "Bad Player (by: Geopardgame)"]
+[Black "InsufficientBot (by: Sep)"]
+[Result "1/2-1/2"]
+[TimeControl "60+0.1"]
+[Termination "Stalemate"]
+
+1. b4 e6 2. f3 Bxb4 3. h4 Qxh4+ 4. g3 Qxh1 5. g4 Qxf3 6. Bg2 Bxd2+ 7. Qxd2 Qxg4 8. Qa5 Qxe2+ 9. Nxe2 Kd8 10. Bd2 e5 11. Qd5 f5 12. Nf4 exf4 13. Bh3 a5 14. Qe4 fxe4 15. Bb4 axb4 16. Be6 dxe6 17. Kf2 Rxa2 18. Kf1 Rxa1 19. Kg1 Rxb1+ 20. Kg2 Bd7 21. c4 bxc3 22. Kh3 c5 23. Kg2 Rb6 24. Kh1 Ba4 25. Kg2 Rb2+ 26. Kf1 f3 27. Ke1 Bb5 28. Kd1 f2 29. Kc1 g6 30. Kd1 Nf6 31. Kc1 Na6 32. Kd1 Nb4 33. Kc1 Nd3+ 34. Kd1 Re8 1/2-1/2

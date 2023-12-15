@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "34"]
+[White "SimpleBearSearch (by: PizzasBear)"]
+[Black "ReturnOfTheQueen (by: Staicu Ciprian)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Nc3 e6 2. a3 Nc6 3. e3 Qg5 4. Nf3 Qh5 5. Be2 Qg4 6. O-O Bd6 7. Nd4 Qh4 8. Nxc6 Qxh2# 0-1

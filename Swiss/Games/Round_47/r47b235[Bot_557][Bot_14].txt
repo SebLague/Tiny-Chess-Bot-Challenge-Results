@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "46"]
+[White "Achilles Random (by: Achilles)"]
+[Black "simpleval (portmonteau of simple eval) (by: hokurou)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. Na3 h5 2. e3 h4 3. Qg4 d6 4. Qxc8 Qxc8 5. Nf3 f5 6. Rb1 c5 7. Nxh4 Rxh4 8. Ke2 g5 9. d4 a5 10. dxc5 dxc5 11. f3 e5 12. b4 a4 13. bxc5 Qxc5 14. Rxb7 Na6 15. Nc4 Rxc4 16. h3 Rxc2+ 17. Ke1 Rxc1+ 18. Ke2 Qc2# 0-1

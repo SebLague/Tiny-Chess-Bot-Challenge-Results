@@ -1,0 +1,11 @@
+[Event "Tiny Bot Challenge: Open Swiss"]
+[Site "Seb's Laptop"]
+[Date "October 2023"]
+[Round "31"]
+[White "Squeedo (by: David Giesegh)"]
+[Black "OppToss (by: Jan Stachurski)"]
+[Result "0-1"]
+[TimeControl "60+0.1"]
+[Termination "Checkmate"]
+
+1. e4 Nf6 2. Nc3 Nc6 3. Bb5 e5 4. Nf3 Bd6 5. Bxc6 dxc6 6. d4 exd4 7. Nxd4 Be5 8. Nf5 Qxd1+ 9. Nxd1 Nxe4 10. Nfe3 Be6 11. f3 Nc5 12. a4 Rf8 13. O-O Rd8 14. Rf2 f5 15. Bd2 f4 16. Ng4 Bd4 17. Bc3 Bxf2+ 18. Ndxf2 Rf7 19. Ne5 Rf5 20. Ne4 Nxe4 21. fxe4 Rg5 22. a5 Bh3 23. g4 fxg3 24. a6 bxa6 25. Nxc6 Rd6 26. Nxa7 g2 27. b4 Kf7 28. Be1 Rd4 29. Bg3 Rxb4 30. Bf4 Rf5 31. exf5 Rxf4 32. Nc6 Kf8 33. c3 g6 34. Nd4 Kg8 35. Nf3 Rxf3 36. fxg6 a5 37. gxh7+ Kg7 38. h8=Q+ Kxh8 39. c4 a4 40. c5 a3 41. Re1 Rf1+ 42. Rxf1 gxf1=R# 0-1
