@@ -1,0 +1,629 @@
+Calculated from swiss and knockout games using BayesElo. Thanks to Gediminas Masaitas (an author of smol.cs).
+Ratings are adjusted to Boychesser = 2772 as measured in CCRL Blitz https://www.computerchess.org.uk/ccrl/404/
+Note: bots are ranked here by their rating value, not by their placement in the tournament.
+
+Rank Name                                                                     Elo    +    - games score oppo. draws
+   1 Boychesser (by: MinusKelvin, Analog Hors, Anon, Algorhythm, Daniel Ke)  2772   11   11  3072   72%  2591   30%
+   2 smol.cs (by: Gediminas Masaitis, Goh CJ)                                2693   11   11  3072   53%  2650   32%
+   3 Kinglet (by: Skolin + World + Abyss)                                    2661   13   13  2048   59%  2573   29%
+   4 Tyrant's V9 (by: Tyrant)                                                2656   19   19  1024   62%  2533   28%
+   5 Rigel (by: Antares (Github: Alex2262))                                  2630   19   19  1024   50%  2606   28%
+   6 InfuehrDaniel (by: InfuehrDaniel)                                       2607   29   29   512   67%  2438   25%
+   7 FloppyChess 4.2 (by: Omsk)                                              2607   19   19  1024   64%  2472   39%
+   8 drip leab (by: JeffLegendPower, AtadOfAChad, Gonumen, KevinStriker)     2602   13   13  2048   44%  2626   33%
+   9 Thunker Weed (by: American Jeff)                                        2580   19   19  1024   53%  2521   29%
+  10 Uranium (by: iudwgerte)                                                 2572   29   29   512   56%  2457   24%
+  11 John (by: Marcin)                                                       2572   29   29   512   67%  2400   24%
+  12 Sardine (by: Broxholme)                                                 2554   28   28   512   59%  2442   28%
+  13 Velocity++ (by: Tisajokt)                                               2528   31   31   512   46%  2502   20%
+  14 Ace V1.0.0 (by: Atad)                                                   2516   27   27   512   57%  2430   32%
+  15 TinyHugeBot (by: Popax21 & atpx8)                                       2513   27   27   512   54%  2451   31%
+  16 Sentinel (by: Arandomnoob)                                              2485   30   30   512   52%  2374   17%
+  17 Onion (by: Nathan Woloshyn)                                             2471   41   41   256   61%  2341   23%
+  18 Cosmos (by: Gonumen)                                                    2456   43   43   256   63%  2257   25%
+  19 Magnuth Carlthen (by: wolfuhfuh)                                        2439   45   45   256   58%  2247   20%
+  20 Leonidas (by: DeveloperPaul123)                                         2375   47   47   256   48%  2315   19%
+  21 BoyaChess v5 (by: ArxelBlw)                                             2360   44   44   256   57%  2250   18%
+  22 Nathe-Bot (by: NatheSpike)                                              2357   46   46   256   48%  2330   20%
+  23 Buildabot (by: Buildasaurus)                                            2352   46   46   256   54%  2225   17%
+  24 ErwanF (by: ErwanF)                                                     2340   44   44   256   48%  2308   21%
+  25 wahtye (by: Nico)                                                       2337   45   45   256   47%  2309   19%
+  26 Algernon (by: White Mouse)                                              2329   44   44   256   36%  2434   24%
+  27 KurentPosition (by: JaPa)                                               2302   48   48   256   46%  2288   16%
+  28 FomBot (by: fominvic81)                                                 2299   44   44   256   39%  2365   20%
+  29 Grenouille (by: mcngnt)                                                 2297   49   49   256   42%  2349   18%
+  30 TunaTactician (by: Ben)                                                 2288   46   46   256   33%  2434   20%
+  31 NNBot (by: Jamie Whiting)                                               2246   57   57   128   48%  2220   23%
+  32 Capybara (by: Matěj Fencl)                                              2245   47   47   256   37%  2364   13%
+  33 myte (by: sparemind)                                                    2225   56   56   128   48%  2224   27%
+  34 LoevBot (by: Loev06)                                                    2202   50   50   144   53%  2147   36%
+  35 Folke (by: Folke)                                                       2183   47   47   272   28%  2440   19%
+  36 King Gambot IV (by: ToTheAnd (aka toanth))                              2172   84   84   128   32%  2310   11%
+  37 Scarlet (by: ZTS439)                                                    2162   67   67   128   31%  2290   14%
+  38 SemiroseBot (by: Semirose)                                              2139  103  103    64   53%  2088    3%
+  39 Mr. JB73 (by: Name: Francisco Gaspar      Nickname: James Bond)         2139   61   61   128   41%  2144   20%
+  40 NightBot (by: Matthias Kruis)                                           2136   75   75   128   32%  2294    7%
+  41 LynchBot (by: Gary Lynch)                                               2125   75   75   128   30%  2281   12%
+  42 Midnight Oil (by: Danny Boy)                                            2088   62   62   128   41%  2139   13%
+  43 Valibot (by: Valentin)                                                  2078   99   99    64   54%  2034    8%
+  44 Euphoria (by: Andrew Merrill)                                           2076   84   84   128   29%  2295    9%
+  45 kesslbot (by: kesslwovv)                                                2072   89   89   128   29%  2281    2%
+  46 Tarch (by: Taras Vuk)                                                   2063   82   82   128   29%  2283   10%
+  47 MiniMagnus (by: Erik Fast)                                              2030   99   99    64   53%  1999    9%
+  48 Electric Shockwave Gambit (by: Valentin)                                2001   87   87   128   28%  2278    5%
+  49 Andiefietebel (by: Xenymor)                                             1996   91   91   128   29%  2254    9%
+  50 gml16 (by: gml16)                                                       1991   90   90   128   27%  2318    5%
+  51 SimplerBot (by: Rick Schaffer)                                          1986   96   96    64   53%  1949    6%
+  52 Chip (by: Evan)                                                         1980   68   68   128   35%  2095   21%
+  53 timecat-mini (by: Gourab Ghosh)                                         1967   73   73   128   32%  2115   13%
+  54 Grogros (by: Grobert)                                                   1953   72   72   128   30%  2140   10%
+  55 Dream (by: Saharsh)                                                     1950   73   73   128   30%  2122    8%
+  56 RigidBot (by: Mathias Elgaard)                                          1942  100  100    64   53%  1914    6%
+  57 Lxna (V4) (by: Ludovic Debever (Lxdovic))                               1937   91   91   128   27%  2298    7%
+  58 Spaghetto (by: Skae (Francesco))                                        1928   95   95   128   28%  2309    7%
+  59 The Grandiloquent Intelligentsia... (by: Giles Corey)                   1913   93   93   128   27%  2239    5%
+  60 Love (by: Avila)                                                        1911   96   96    64   53%  1840    9%
+  61 Golden_Chess_Requiem (by: Dhruv S)                                      1897   96   96    64   53%  1851   16%
+  62 Astolfo (by: Illuminate)                                                1892   82   82   128   29%  2122    2%
+  63 Sky-Bot (by: Sky64Redstone)                                             1884   77   77   128   31%  2043   11%
+  64 PecanPie (by: PecanPie)                                                 1878   93   93    64   54%  1835   11%
+  65 Hrustco Bot (by: migrin)                                                1872   96   96   128   27%  2256    4%
+  66 Scouty (by: Fioume)                                                     1868   78   78   128   30%  2069   13%
+  67 Zambroni V.4.1.4 (by: JoeyZeeeeeee)                                     1862   96   96    64   54%  1814   11%
+  68 Miluva v2 [2550] (by: Möhrchen (Thilo M.))                              1856  101  101    64   53%  1832    6%
+  69 AugsBot (by: Augs)                                                      1854   87   87   128   29%  2143   11%
+  70 Black Magic (by: Josh Odom)                                             1844   88   88   128   29%  2117    4%
+  71 Average Chess bot (by: )                                                1825   94   94    64   54%  1809    8%
+  72 r├╕hgryd me' fl├╕e  (by: TSDT)                                          1821   92   92    64   54%  1790   14%
+  73 Sweet ╬╢ 985 (by: Sweet)                                                1820   92   92   128   28%  2160    4%
+  74 Strikeeaglechess (by: Strikeeaglechase)                                 1818   99   99    64   53%  1790    9%
+  75 NostradamusChessNN (by: _Mus)                                           1817   92   92    64   54%  1769    8%
+  76 Susolly (by: Rookie)                                                    1812   93   93    64   54%  1771   14%
+  77 DeltaWeakness (by: Johan Zetterlund)                                    1810   96   96    64   54%  1768    8%
+  78 MapBot (by: Map)                                                        1809   88   88    64   53%  1826   25%
+  79 YDepth (by: Jerome Engelbrecht)                                         1804   95   95    64   53%  1763    9%
+  80 Ben's Bot (by: Ben Clingenpeel)                                         1780   93   93    64   54%  1733   11%
+  81 Sven (by: Theodor)                                                      1775   89   89   128   28%  2055    5%
+  82 HikuBot (by: Hikushii)                                                  1772   94   94    64   54%  1712   14%
+  83 Comet (by: Flynow10)                                                    1768   92   92    64   54%  1747   11%
+  84 Plumbo (by: Luca Voros)                                                 1765   83   83    64   53%  1722   34%
+  85 Quantum (by: devLIPEr)                                                  1762   97   97    64   53%  1747    6%
+  86 AelChess (by: A├½ldrexan)                                               1746   92   92    64   54%  1696   11%
+  87 Hydra (by: ReiedLaw)                                                    1717   94   94    64   53%  1719    6%
+  88 Game Tech Explained Bot (by: Game Tech Explained)                       1713   95   95    64   54%  1678   11%
+  89 Cheriny (by: bombard1004)                                               1708   91   91    64   54%  1652   17%
+  90 TacTxs (by: Mitch)                                                      1708   96   96    64   53%  1672    6%
+  91 Mulch Winnums (by: Feeding Plants)                                      1705   89   89    64   53%  1693   25%
+  92 RayBot (by: Shahriar Rayed)                                             1700  101  101    64   54%  1650    8%
+  93 Wyrm (by: Finian P.)                                                    1696   92   92    64   54%  1674   11%
+  94 DarnBot (by: Darn)                                                      1693   99   99    64   54%  1660    8%
+  95 OppToss (by: Jan Stachurski)                                            1687   91   91    64   54%  1636   11%
+  96 DoTungDuong (by: new9xboy)                                              1678   92   92    64   53%  1633   13%
+  97 Deerobot (by: Hugo Ingelsson)                                           1676   91   91    64   53%  1641   13%
+  98 CompressionBot (by: Nathan George)                                      1671   93   93   128   28%  2021    4%
+  99 R2D2 (by: Andrei Taropa)                                                1643   95   95    64   52%  1630    8%
+ 100 Baby Squid (by: Jonas Tyroller)                                         1641   98   98    64   52%  1625   11%
+ 101 Vast V2 (by: Joseph Pasfield)                                           1641   88   88    64   54%  1610   23%
+ 102 ConvolutedBot (by: pwahs)                                               1633   92   92    64   53%  1583    6%
+ 103 penny trader (by: ranger6777)                                           1625   95   95    64   54%  1584    5%
+ 104 fuxy (by: nadavfux)                                                     1600   95   95    64   53%  1537   13%
+ 105 Guppy (by: Simply In Dev)                                               1596   92   92    64   53%  1551   13%
+ 106 MilkMindV1 (by: Josiah Jordan )                                         1595   92   92    64   53%  1565   13%
+ 107 LIA Chess (by: Patrick und Jannik)                                      1587   87   87    64   53%  1557   16%
+ 108 OrneryFellow (by: David M. B.)                                          1580   93   93    64   53%  1537    9%
+ 109 Turochamp (Modern) (by: P Rivero)                                       1579   91   91    64   54%  1552   14%
+ 110 Tiny Chess Duck (by: rocketduck_m07)                                    1575   93   93    64   53%  1537    6%
+ 111 whitecap ≡ƒîè (by: Bryn and Josh)                                       1572   95   95    64   52%  1543   11%
+ 112 200 Tokens Monstrosity (by: ErwanF)                                     1569   88   88    64   53%  1538   19%
+ 113 Valkyrie (by: Skelecat)                                                 1560   89   89    64   52%  1541   14%
+ 114 Reaper (by: thesharpestknife)                                           1557   96   96    64   53%  1546    6%
+ 115 Corrosiver (by: )                                                       1547   92   92    64   54%  1516    8%
+ 116 Guppy (by: Rowburt)                                                     1526   89   89    64   52%  1498   11%
+ 117 The Grandma (by: TimFW)                                                 1522   90   90    64   52%  1507   14%
+ 118 GulcarBot (by: Gulcar)                                                  1521   92   92    64   52%  1483   11%
+ 119 Minirose V2.23 (by: Tamplite Siphron Kents)                             1486   91   91    64   53%  1447    6%
+ 120 Metis (by: krox)                                                        1485   95   95    64   54%  1459    5%
+ 121 KunoVonHagenBot (by: Jakob)                                             1473   91   91    64   53%  1430   16%
+ 122 FetaCheese_Bot (by: Dimitris Dallas)                                    1467   92   92    64   52%  1442    8%
+ 123 Paradox Bot (by: Kekz)                                                  1457   93   93    64   54%  1395   14%
+ 124 Mini Lapdok (by: Lapdok)                                                1457   90   90    64   52%  1422   11%
+ 125 BuiltCleverBot (by: Scott Ward)                                         1446   89   89    64   54%  1400    8%
+ 126 Oh stupid one (by: Io)                                                  1446   86   86    64   53%  1418   16%
+ 127 TLMChessBot [v1-1250] (by: Möhrchen (Thilo))                            1438   91   91   128   27%  1942    5%
+ 128 Ookttahbahblah (by: PhilipK)                                            1436   94   94    64   53%  1387    3%
+ 129 Culke (by: Colin Schepers)                                              1430   86   86    64   52%  1398   14%
+ 130 Guppy (by: Steven He)                                                   1426   94   94    64   52%  1398    6%
+ 131 Yangbot V1 (by: Cyang946)                                               1425   92   92    64   53%  1385    9%
+ 132 BarschBot (by: Bobitsmagic)                                             1419   90   90    64   53%  1387    9%
+ 133 LazyBot (by: Tim de Jong)                                               1418   89   89    64   53%  1389    9%
+ 134 czechmayte (by: dotpy/jayden van zuydam)                                1417   91   91    64   53%  1393   13%
+ 135 Look Ma, No Piece Square Table (by: DegaLaman)                          1417   94   94    64   53%  1383   13%
+ 136 LunarBot (by: LunarTech)                                                1414   92   92    64   52%  1387    3%
+ 137 CalcCheck (by: CowSoCool37)                                             1412   97   97    64   52%  1393    8%
+ 138 James (by: Aedan Smith)                                                 1409   93   93    64   52%  1407   11%
+ 139 TuroChampEx (by: code<metas>)                                           1392   94   94    64   53%  1385   13%
+ 140 FENcer (by: Shlynz)                                                     1388   94   94    64   52%  1417    8%
+ 141 DLComp2 (by: DawnLamp8)                                                 1387   85   85    64   52%  1368   14%
+ 142 EpsilonCheck (by: aymco)                                                1385   92   92    64   54%  1351    8%
+ 143 πé╖πé│πâ£πââπâê14≡ƒÆÇ≡ƒÜü≡ƒÿöΓ£è (by: Grande Dorgas)                    1357   91   91    64   52%  1344    8%
+ 144 the mater (by: )                                                        1355   92   92    64   52%  1347    5%
+ 145 BIG CHUMPER V6.0 (by: Pedro Contipelli)                                 1348   92   92    64   52%  1355    9%
+ 146 Timepinch (by: Artour)                                                  1346   89   89    64   53%  1292    9%
+ 147 NIWTFWD (by: J&J Cervenan)                                              1345   86   86    64   52%  1338   27%
+ 148 Zui Bot (by: Zui)                                                       1344   86   86    64   53%  1307    9%
+ 149 simple chess bot (by: 4a0I)                                             1343   89   89    64   52%  1369   20%
+ 150 Nautilus (by: Sherlock)                                                 1341   97   97    64   52%  1292    2%
+ 151 ImpossiBot (by: StefanDeSterke)                                         1328   91   91    64   52%  1312   11%
+ 152 Stephanee (by: Elijah Bradshaw)                                         1325   90   90    64   52%  1305   14%
+ 153 KBot (by: Kristian Mischke)                                             1322   90   90    64   52%  1309    9%
+ 154 ChessButt2 (by: Matt Suhay)                                             1318   81   81    64   52%  1320   42%
+ 155 Bongcloud Bot (by: lurendrei)                                           1318   92   92    64   52%  1293   14%
+ 156 SlowMo (by: Bit!)                                                       1312   84   84    64   52%  1297   36%
+ 157 LeMaire (by: Beaud Rémi and Mechulam Antoine)                           1300   88   88    64   52%  1270   11%
+ 158 PlinkBot (by: superplink)                                               1298   89   89    64   52%  1281    9%
+ 159 Goldfinch (by: ATG)                                                     1293   82   82    64   54%  1264   45%
+ 160 Scorraccio possente (by: Diego campione)                                1292   85   85    64   52%  1285   13%
+ 161 farindk (by: Dirk Farin)                                                1282   91   91    64   52%  1288   14%
+ 162 ItBeatMyFriend (by: Sanfordpox)                                         1280   88   88    64   53%  1276    9%
+ 163 Stickleback2 (by: Brent Mardell)                                        1279   88   88    64   53%  1268    9%
+ 164 Squeedo (by: David Giesegh)                                             1276   89   89    64   52%  1264   14%
+ 165 CarlitosDarwin (by: Mateo Marenco)                                      1261   85   85    64   53%  1233   19%
+ 166 Bruteforcer (by: SiestaGuru)                                            1260   84   84    64   52%  1264   19%
+ 167 Supertask-Time-Troubles (by: TimFW)                                     1255   92   92    64   52%  1239    8%
+ 168 HubertusChess (by: Oristur)                                             1247   88   88    64   52%  1243    8%
+ 169 Chessburger Bot (by: )                                                  1243   93   93    64   52%  1209   11%
+ 170 Running Bot (by: Chris Pontius)                                         1237   85   85    64   54%  1212   20%
+ 171 SSComp1 (by: ShadowStar019)                                             1233   86   86    64   52%  1216   11%
+ 172 josh-chess (by: )                                                       1232   89   89    64   53%  1210   13%
+ 173 mini_yoda (by: Dane Smith)                                              1230   87   87    64   52%  1204   11%
+ 174 Shenanigator (by: Gary Wawn)                                            1221   86   86    64   52%  1229   16%
+ 175 One-Line Chess (by: Kaydon Sloan)                                       1209   77   77    64   52%  1211   48%
+ 176 Marreco (by: Tutz)                                                      1200   91   91    64   53%  1193    3%
+ 177 Shallow Blue (by: Mikolaj W)                                            1189   88   88    64   52%  1194    5%
+ 178 CrimesAgainstDotNet (by: Reckoner (Robyn))                              1171   89   89    64   51%  1176    8%
+ 179 BoringBot (by: Carson Bates)                                            1164   88   88    64   53%  1152   16%
+ 180 Beancounting_pawnpusher (by: Arnt Veenstra)                             1157   86   86    64   52%  1148    9%
+ 181 Quinn (by: Pierre Girardeau)                                            1150   89   89    64   52%  1132    8%
+ 182 MintMax (by: weasel)                                                    1146   85   85    64   52%  1137   13%
+ 183 AlphaBetaZero (by: MV974)                                               1143   83   83    64   52%  1149   17%
+ 184 LetMeAlive (by: MrQui)                                                  1143   79   79    64   52%  1134   27%
+ 185 Sven (by: Erik & Pascal)                                                1141   83   83    64   52%  1124   16%
+ 186 NotQuiteRandomGamblerAndPruner (by: Taco Olmer)                         1135   84   84    64   54%  1150   27%
+ 187 YAMMB  (by: Dovakin7)                                                   1131   84   84    64   52%  1117   16%
+ 188 Knightmare v2 (by: Default/IHasBone)                                    1131   87   87    64   52%  1138    6%
+ 189 :3 (by: Lauri R├ñs├ñnen)                                                1129   79   79    64   52%  1146   55%
+ 190 Chark Bot V2 (by: Team Chark)                                           1124   89   89    64   52%  1143   13%
+ 191 J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J         1120   83   83    64   51%  1142   20%
+ 192 Rodders (by: Chipperphilly)                                             1119   83   83    64   52%  1138   19%
+ 193 The Seeker (by: Lucas Pellegrinelli)                                    1119   88   88    64   51%  1142    8%
+ 194 Chess Bot (by: M)                                                       1116   81   81    64   52%  1127   30%
+ 195 Headless Chicken (by: Nat)                                              1110   82   82    64   51%  1140   17%
+ 196 Dried Cod (by: Josh & Laurin)                                           1106   90   90    64   52%  1105    5%
+ 197 Respect (by: Noah)                                                      1091   82   82    64   51%  1108   23%
+ 198 BigBrainBot (by: Leo)                                                   1089   76   76    64   52%  1105   44%
+ 199 applemethod-orz (by: RedBlackTree)                                      1085   84   84    64   51%  1087   14%
+ 200 Botje9000 (by: StarJay)                                                 1081   73   73    64   52%  1085   50%
+ 201 Phoenix Chess (by: Mat(t)hias)                                          1080   78   78    64   52%  1115   36%
+ 202 unicorn (by: kai)                                                       1077   85   85    64   52%  1075   16%
+ 203 nimbot (by: )                                                           1076   83   83    64   50%  1113   19%
+ 204 Sambot (by: Sam)                                                        1074   86   86    64   52%  1084    6%
+ 205 Flaeskesteg (by: Jechto)                                                1071   83   83    64   50%  1074   16%
+ 206 Chark Bot (by: Team Chark V1)                                           1069   83   83    64   52%  1048   16%
+ 207 MattWBot (by: Matt W)                                                   1064   87   87    64   52%  1055    9%
+ 208 TinyNoTimeToCodeChessEngine (by: )                                      1060   85   85    64   52%  1057   16%
+ 209 Bob (by: Evan Leach)                                                    1053   83   83    64   51%  1063   14%
+ 210 vinctus (by: vinctus)                                                   1048   73   73    64   52%  1062   50%
+ 211 Optimus (by: Adt)                                                       1041   81   81    64   52%  1068   25%
+ 212 LoserNotDrawer (by: Piele)                                              1041   82   82    64   52%  1038   19%
+ 213 damlamen (by: Bora)                                                     1041   85   85    64   51%  1035   11%
+ 214 bLouBot (by: cmdrsigsegv)                                               1040   81   81    64   52%  1073   22%
+ 215 MobiBot 4.2 (by: Michael)                                               1038   84   84    64   52%  1033   13%
+ 216 BasicAlphaBeta (by: ThonyDragon)                                        1037   83   83    64   52%  1028    9%
+ 217 QuaviverBot (by: CantWontDo)                                            1027   84   84    64   52%  1008   17%
+ 218 Turochamp (Faithful) (by: P Rivero)                                     1026   81   81    64   52%  1039   19%
+ 219 JazzBot (by: SpoXe)                                                     1022   81   81    64   51%  1040   23%
+ 220 Chessi (by: Will D)                                                     1020   80   80    64   51%  1024   17%
+ 221 K53YK53Y (by: KszyKszy)                                                 1011   88   88    64   50%  1030    6%
+ 222 ItBeatsMe (by: Soma Nyiro)                                              1009   77   77    64   50%  1015   34%
+ 223 PAN (by: PAN)                                                           1008   74   74    64   50%  1033   53%
+ 224 British Sandstorm (by: britboy3456)                                     1006   84   84    64   52%  1005   13%
+ 225 SummerBoty (by: Thomas)                                                  999   74   74    64   51%  1014   39%
+ 226 Lamorran (by: Morra)                                                     997   76   76    64   52%  1018   36%
+ 227 Boht (by: Tex)                                                           994   82   82    64   51%   998   17%
+ 228 ReturnOfTheQueen (by: Staicu Ciprian)                                    994   78   78    64   52%  1011   19%
+ 229 Chessinator 3000 (by: )                                                  994   86   86    64   51%  1009   11%
+ 230 jebChess (by: jibux)                                                     993   80   80    64   51%  1004   20%
+ 231 SimpleMCTS (by: GinoPerrotta)                                            993   80   80    64   51%  1012   14%
+ 232 Negative Depth (by: Zolt├ín K├╝rti)                                      993   87   87    64   51%   990    8%
+ 233 NotHuman (by: Sixteen)                                                   990   78   78    64   51%  1033   23%
+ 234 WhiteTide (by: b.maroti)                                                 987   78   78    64   52%  1008   25%
+ 235 Fool's Silver (by: Ethan Latymer (Sozius))                               984   84   84    64   51%  1015   14%
+ 236 Anarchy Bot (by: Malcolm)                                                984   74   74    64   50%   986   44%
+ 237 roboleon v4.1 bugfixed (by: CLEC)                                        982   78   78    64   50%   989   28%
+ 238 SybBot (by: Sybsuper)                                                    980   86   86    64   52%   996   14%
+ 239 Pharouk (by: Pydjama)                                                    978   82   82    64   50%   994   31%
+ 240 KU_AI_BOT (by: Daniel Johnson)                                           974   77   77    64   51%   969   30%
+ 241 maff-chess (by: Filip)                                                   968   82   82    64   50%   972   19%
+ 242 devi1.02 (by: )                                                          962   77   77    64   50%   996   28%
+ 243 BetterThanRandom (by: Frederik)                                          960   75   75    64   52%   960   31%
+ 244 MyFirstChessEngine (by: Jake Forsey)                                     958   78   78    64   52%   973   27%
+ 245 Reckless Ragnar (by: Magn├║s  ├ü. Magn├║sson)                            940   77   77    64   51%   936   36%
+ 246 Albertron (by: Vadim and Yazeed)                                         939   78   78    64   51%   962   23%
+ 247 Stocksalmon (by: Lukasb1b4b)                                             937   73   73    64   51%   941   42%
+ 248 Rules_Of_Thumb (by: Goose)                                               936   77   77    64   50%   962   19%
+ 249 noobot v1 (by: Arshia)                                                   935   79   79    64   52%   920   23%
+ 250 epik chess mastah (by: sten)                                             931   77   77    64   50%   929   25%
+ 251 BackupBotCuzIDeletedPreviousGoodOne (by: _deeznuts420)                   924   78   78    64   52%   906   25%
+ 252 Lord Chester of Ply5 (by: PatrickTalksALot)                              917   78   78    64   51%   906   23%
+ 253 Octobot (by: Andrea Colognese)                                           915   80   80    64   51%   933   20%
+ 254 NinjaBot (by: Jinan Dangor)                                              913   77   77    64   51%   931   23%
+ 255 S├╕rensen's Minimax (by: Victor)                                         913   73   73    64   50%   929   38%
+ 256 GPTGenerated (by: athibaul)                                              910   74   74    64   50%   901   41%
+ 257 SimpleMinds (by: Karl Jungtow)                                           910   75   75    64   52%   907   28%
+ 258 BlueBat (by: Peter)                                                      909   73   73    64   51%   914   33%
+ 259 Vito (by: Tjuli)                                                         907   76   76    64   51%   910   23%
+ 260 SimpleBearSearch (by: PizzasBear)                                        906   79   79    64   50%   903   25%
+ 261 ConniBot (by: connorf25)                                                 902   68   68    64   52%   886   63%
+ 262 NotSure (by: Dave)                                                       901   73   73    64   52%   874   55%
+ 263 Shielded Minibot (by: Sesen)                                             899   84   84    64   51%   893   11%
+ 264 Annihilator (by: Wiechciu)                                               899   78   78    64   51%   896   23%
+ 265 Basil (by: torbenikum)                                                   897   85   85    64   49%   909    5%
+ 266 Minerva (by: Leo)                                                        897   73   73    64   49%   907   48%
+ 267 Jack (by: Antonio P)                                                     897   75   75    64   52%   890   25%
+ 268 Maple (by: Austin)                                                       896   79   79    64   50%   900   19%
+ 269 LesMoutons (by: Beaud Rémi and Mechulam Antoine)                         894   79   79    64   50%   930   19%
+ 270 Minimaxibon v1 (by: NotSureWhyThisWorks)                                 893   71   71    64   51%   896   48%
+ 271 Generic Chess Bot #1000000 (by: Anthony)                                 891   72   72    64   50%   886   38%
+ 272 Average Joe (by: Visiorex)                                               885   76   76    64   50%   893   28%
+ 273 NotThatBad (by: GMPrakhar)                                               884   68   68    64   51%   884   61%
+ 274 Francis 2.0 (by: cyprus327)                                              877   86   86    64   49%   880    2%
+ 275 Michael's Bot (by: MichaelW)                                             875   68   68    64   51%   869   77%
+ 276 tybot (by: Tylyr1)                                                       874   77   77    64   50%   897   38%
+ 277 Mazin (by: saraqael)                                                     872   83   83    64   49%   883    8%
+ 278 CosmoDMBot (by: CosmoDM)                                                 871   84   84    64   50%   846    9%
+ 279 Jormungandr (but scuffed) (by: CptShini)                                 871   79   79    64   50%   898   25%
+ 280 TalkChess (by: Thomas Jahn, Mike Sherwin, Dmitry Shechtman)              868   80   80    64   51%   865   17%
+ 281 Baloo-D (by: Dimitri)                                                    868   83   83    64   52%   894   16%
+ 282 Robérto (by: Nia)                                                        868   82   82    64   50%   875   13%
+ 283 Blitztron (by: Cameron Dugan)                                            867   82   82    64   50%   888    9%
+ 284 jmcgbot (by: jmcg)                                                       867   80   80    64   52%   859   22%
+ 285 1o1 (by: Pavan Manish)                                                   863   72   72    64   51%   859   45%
+ 286 Super-Centre (by: Lev and Yoaz)                                          863   75   75    64   50%   867   38%
+ 287 Stockbrot (by: Steaky)                                                   862   82   82    64   50%   879   22%
+ 288 Der wilde Kaiser (by: Headyyy1337)                                       860   75   75    64   49%   874   36%
+ 289 ColégramBot (by: Colégram)                                               857   82   82    64   49%   880   17%
+ 290 MrMeow (by: Loca1Gh0st)                                                  856   75   75    64   50%   862   31%
+ 291 Toribot (by: Yujan Subedi)                                               855   74   74    64   49%   875   30%
+ 292 pnathan (by: pnathan)                                                    855   69   69    64   51%   843   70%
+ 293 Butter robot (by: DODIK)                                                 852   72   72    64   50%   868   44%
+ 294 Big Carl (by: Nathaniel D)                                               850   75   75    64   50%   861   31%
+ 295 StackFish (by: battlecoder)                                              849   81   81    64   50%   884   16%
+ 296 StockShrimp (by: Diplomancer)                                            847   73   73    64   50%   843   41%
+ 297 CompressTable (by: JacobAndSam)                                          844   76   76    64   48%   862   34%
+ 298 abariba (by: abariba)                                                    843   76   76    64   51%   848   27%
+ 299 Jbot (by: KaraokeCzar)                                                   838   73   73    64   49%   850   45%
+ 300 Peeter 1 (by: Gouuu)                                                     835   80   80    64   50%   863   16%
+ 301 ThinkerBot5000 (by: Bear)                                                832   76   76    64   50%   837   34%
+ 302 Itty Bitty Botty (by: Connor Cahoon)                                     829   84   84    64   49%   845    5%
+ 303 taylornpeter_chess_sl (by: taylornpeter)                                 829   79   79    64   51%   837   14%
+ 304 Natrix (by: Pouek_)                                                      828   74   74    64   49%   862   39%
+ 305 Indian_Liver (by: MDM)                                                   826   71   71    64   52%   811   52%
+ 306 CombEaredSkink (by: Deepfriedice)                                        826   77   77    64   50%   812   22%
+ 307 BlindfoldBot (by: Mk-0)                                                  825   74   74    64   50%   832   38%
+ 308 Exceptionally mid (by: Evan Rogerson)                                    821   79   79    64   48%   842   19%
+ 309 BOTvinnik (by: Paul Smooth)                                              820   77   77    64   50%   829   28%
+ 310 The Terminator (by: Ryan Murphy)                                         813   73   73    64   50%   835   41%
+ 311 Bob (by: Victor)                                                         805   73   73    64   51%   816   42%
+ 312 Max-Max-Bot (by: Tejas)                                                  802   76   76    64   49%   805   23%
+ 313 Poisoned_Offerings (by: N8)                                              801   74   74    64   51%   809   30%
+ 314 Butter Bot, the bot with the butter on him (by: siued)                   798   80   80    64   51%   788   14%
+ 315 Rubber Ducky (by: Jo├½l)                                                 794   80   80    64   49%   833   20%
+ 316 Marvin (by: Kerem Bekmez)                                                788   71   71    64   50%   794   56%
+ 317 Tim (by: Bob)                                                            786   74   74    64   50%   814   44%
+ 318 Igris (by: Deathfile78)                                                  784   75   75    64   50%   780   25%
+ 319 Ccookie (by: Ccookie)                                                    781   81   81    64   49%   816   11%
+ 320 Elf-1200 (by: Elliot Throop)                                             777   78   78    64   49%   793   20%
+ 321 CyberPawn (by: PotatosDispenser)                                         776   82   82    64   48%   775   22%
+ 322 Hershel (by: Nolan)                                                      775   72   72    64   49%   820   55%
+ 323 BasicBot (by: Phnx)                                                      771   82   82    64   50%   765   16%
+ 324 SepukuBot (by: Madhu)                                                    768   77   77    64   50%   762   19%
+ 325 WitwerMacher (by: Yannik Bleilinger)                                     768   85   85    64   49%   775   14%
+ 326 King Shuffler (by: Team Thursday)                                        767   78   78    64   49%   791   20%
+ 327 Sir Checkmates-A-Lot (by: Felix)                                         765   84   84    64   48%   796    8%
+ 328 Cirno the Smartest (by: Toffee)                                          765   74   74    64   51%   779   39%
+ 329 Basic Bot (by: G0ldSt0ne)                                                764   82   82    64   50%   789    9%
+ 330 BitBlunderer (by: Till Zemann (GitHub: https://github.com/till2 :D))     763   77   77    64   48%   780   25%
+ 331 Chemibot (by: Mike Chemi)                                                759   76   76    64   49%   768   23%
+ 332 AUR Chessbot (by: Soul Senshi)                                           758   74   74    64   50%   775   44%
+ 333 Lundqvision (by: paper98)                                                758   80   80    64   49%   795   20%
+ 334 Quinchessential (by: Isaac Sterling)                                     757   75   75    64   48%   789   34%
+ 335 TheGriefer (by: evgiz0r)                                                 756   83   83    64   48%   799    6%
+ 336 Lila (by: Outer Cloud)                                                   753   75   75    64   49%   775   30%
+ 337 Goldibot (by: Ben)                                                       751   75   75    64   51%   745   27%
+ 338 LiL Scoot (by: Scoutamass)                                               745   78   78    64   49%   735   20%
+ 339 Epimetheus (by: George Bland)                                            744   78   78    64   48%   764   20%
+ 340 Stale (by: Noah)                                                         741   68   68    64   48%   775   61%
+ 341 Foresight (by: Saihaj)                                                   741   80   80    64   48%   757    9%
+ 342 KnightMare (by: Dom)                                                     740   74   74    64   48%   756   47%
+ 343 StallerBot (by: Ean)                                                     740   77   77    64   49%   747   23%
+ 344 KnightToE4 (by: Tree)                                                    738   74   74    64   50%   752   34%
+ 345 Hammerhead (by: mhart)                                                   735   77   77    64   49%   763   30%
+ 346 MaterFromRadiatorSprings (by: Markus Grand Petersen)                     734   84   84    64   49%   744    2%
+ 347 ILVM (by: Wincent01)                                                     733   76   76    64   48%   767   34%
+ 348 SmallSearchAll (by: QuarksandAces (YT))                                  732   78   78    64   49%   737   14%
+ 349 Terrible Bot (by: readerbij)                                             728   74   74    64   49%   761   33%
+ 350 CapivaraBot (by: Danilo Luiz Rheinheimer)                                728   73   73    64   48%   746   42%
+ 351 DARKCIDER-9000 (by: Alfie Elliott )                                      717   81   81    64   48%   747   14%
+ 352 AlaskaBot (by: Arttu Halonen)                                            711   79   79    64   49%   720   14%
+ 353 Saint Charles Bot (by: DATA USP)                                         704   75   75    64   49%   746   30%
+ 354 Pawntress (by: N1kkj)                                                    704   76   76    64   49%   712   23%
+ 355 RichyRoo (by: devrichgg)                                                 692   79   79    64   49%   728   14%
+ 356 quick and dirty (by: Rafael)                                             691   70   70    64   48%   711   50%
+ 357 Captain Botvious (by: Selim Sheta)                                       688   79   79    64   48%   765   20%
+ 358 Lol! Wont Win (by: Sanjay)                                               684   83   83    64   49%   702   23%
+ 359 Compact Scholar's mate (by: Chris)                                       684   73   73    64   49%   690   36%
+ 360 Pawnish Punisher (by: Leon)                                              681   67   67    64   48%   707   59%
+ 361 AchillesAlpha (by: Achilles)                                             680   78   78    64   49%   703   20%
+ 362 MinimaxAttackerBot5000 (by: ChrisCat123)                                 680   69   69    64   48%   687   59%
+ 363 WhateverBot (by: Alec Holden)                                            677   77   77    64   48%   702   20%
+ 364 Shadow's Unfinished Bot (by: shadowcage72)                               674   76   76    64   48%   689   28%
+ 365 EndgameEnigma (by: jostflo)                                              673   76   76    64   48%   683   22%
+ 366 C++IsBetterThanC# (by: Samo)                                             670   76   76    64   48%   678   31%
+ 367 OrionChessEngine (by: Maarten Peels)                                     669   79   79    64   48%   689   19%
+ 368 DeadlineNightmare (by: Trololp)                                          667   70   70    64   47%   695   53%
+ 369 RP Bot (by: Matt Enad (RobProductions))                                  662   76   76    64   48%   695   23%
+ 370 GreGory (by: Kokken)                                                     659   80   80    64   48%   693   11%
+ 371 Concrete (by: Jewel)                                                     658   77   77    64   48%   694   20%
+ 372 HopeBot (by: Chinmay Krishna)                                            657   79   79    64   48%   665   22%
+ 373 BettyBot (by: Thomas / TGhost)                                           649   70   70    64   48%   679   53%
+ 374 Freedom_Fighter v.83 (by: Kongo Landwalker)                              647   73   73    64   48%   671   36%
+ 375 Ragdoll's Ragdoll (by: Ragdoll)                                          645   79   79    64   48%   658   16%
+ 376 HalfWit (by: Steven Christy)                                             644   73   73    64   49%   653   39%
+ 377 MiaKBotv4.4 (by: Mia Kellett)                                            643   79   79    64   48%   670   22%
+ 378 Simple Minimax (by: Sidewinder7)                                         640   77   77    64   48%   663   27%
+ 379 ABadBot (by: Lucas)                                                      637   79   79    64   48%   667   25%
+ 380 Blindo (by: MS)                                                          635   77   77    64   48%   657   23%
+ 381 BaddieBot (by: Domic)                                                    634   77   77    64   48%   652   20%
+ 382 SimpleBot (by: Tim Zollner)                                              633   88   88    64   48%   666    2%
+ 383 FINCh (by: AMCR Studios (Heather Costello & Tesseract King))             629   76   76    64   48%   657   25%
+ 384 the (not so) wise bot of (not so great) insight (by: TheUnknown1050)     627   69   69    64   48%   660   58%
+ 385 Thulium (by: Valentin POQUET)                                            626   72   72    64   48%   646   39%
+ 386 Gen-Eric (by: Pressgoal)                                                 617   75   75    64   47%   649   28%
+ 387 Garbage Bot (by: Big Nerd)                                               613   80   80    64   48%   659    9%
+ 388 shitbot1 (by: Dan)                                                       611   75   75    64   49%   639   39%
+ 389 MrTimmy (by: Youknowwho8782)                                             607   83   83    64   48%   635   14%
+ 390 BotThatLikesToPlayChessΓäó (by: Gary Dale)                               607   80   80    64   48%   630   14%
+ 391 Trixie (by: ts-manuel)                                                   604   72   72    64   49%   631   45%
+ 392 Two Day Bot (by: )                                                       604   77   77    64   48%   654   23%
+ 393 Monte Carlos Little Brother (by: Giorgio)                                603   72   72    64   48%   630   48%
+ 394 At least 2 IQ (by: Evan Finnigan)                                        599   70   70    64   48%   647   45%
+ 395 5KindsOfChessplayers (by: Hulululu)                                      598   70   70    64   48%   626   50%
+ 396 Fishstock (by: Jess Baut & Hans)                                         597   71   71    64   48%   623   44%
+ 397 GM Manneken pis (by: Broguld)                                            596   73   73    64   48%   636   42%
+ 398 WingBot (by: Benjamin Iserman)                                           589   74   74    64   48%   624   31%
+ 399 WhyAmIABot (by: Levi)                                                    589   72   72    64   48%   624   36%
+ 400 3D.Opening Bot (by: Mark Grennan)                                        588   76   76    64   48%   630   27%
+ 401 GOYO Bot v1.1.2 (by: Goyo)                                               585   72   72    64   48%   599   39%
+ 402  as a nickname if possible or necessary. Thanks!)                        581   80   80    64   47%   623   19%
+ 403 Stoccafisso (by: Riccardo D'Incau)                                       578   75   75    64   48%   627   34%
+ 404 Chessy (by: SebastianB)                                                  578   76   76    64   48%   622   27%
+ 405 The Visionary (by: Hulululu)                                             578   81   81    64   47%   607    9%
+ 406 Paroch (by: Bronson)                                                     577   79   79    64   48%   602    9%
+ 407 Depth2 (by: David Montealegre)                                           571   76   76    64   48%   577   27%
+ 408 SBFB (by: David)                                                         569   76   76    64   46%   626   20%
+ 409 FunBot (by: Paul Spooner AKA Dudecon)                                    568   73   73    64   46%   606   33%
+ 410 Myopia (by: danegraphics)                                                566   69   69    64   48%   587   52%
+ 411 Terminus (by: Slayer8274)                                                565   72   72    64   46%   601   39%
+ 412 PAtATtO (by: Willem Paternotte)                                          565   73   73    64   48%   576   33%
+ 413 Prince of Persia (by: flabbet)                                           563   78   78    64   47%   623   22%
+ 414 AIsaac (by: Isaac Ellwood)                                               560   72   72    64   46%   611   48%
+ 415 letmeout (by: randomtestfive)                                            560   77   77    64   49%   577   20%
+ 416 offtensive Crane (by: Joao Santos)                                       556   75   75    64   47%   581   25%
+ 417 Sleepy panda bot (by: Quinten F)                                         552   77   77    64   47%   579   25%
+ 418 Aron's engine (by: Aron Martens)                                         551   63   63    64   47%   583   91%
+ 419 Chessica (by: Nicky Kitchingman)                                         550   79   79    64   47%   591   19%
+ 420 Obi (by: Carson Ouckama)                                                 549   80   80    64   48%   569   13%
+ 421 Blind Bot (by: Moonwalker3)                                              547   78   78    64   48%   573   16%
+ 422 Some rules bot (by: qumquat)                                             545   76   76    64   48%   574   23%
+ 423 Chessetor, Destroyer of Boards (by: Badoobicus)                          544   80   80    64   48%   580   11%
+ 424 Arctiform's Bot (by: Arctiform)                                          541   74   74    64   47%   610   28%
+ 425 Single Player (by: Salty Scientist)                                      537   74   74    64   47%   573   28%
+ 426 xXBotXx (by: Nova & Professor Sexy)                                      534   73   73    64   48%   567   30%
+ 427 Thrower (by: EZDragon)                                                   525   80   80    64   48%   573   14%
+ 428 Blizzard (by: Aurora)                                                    525   71   71    64   48%   562   42%
+ 429 CrystalBowl (by: Daugsilius)                                             525   82   82    64   45%   560   13%
+ 430 TBbot (by: TBMPFW)                                                       524   76   76    64   46%   561   27%
+ 431 lowEloBrain (by: bbb908)                                                 521   79   79    64   47%   562   16%
+ 432 Hippo (by: MonteDegro)                                                   521   90   90    64   47%   578    0%
+ 433 ItPlaysBetterThanMe (by: RB)                                             518   76   76    64   47%   562   19%
+ 434 More Recursion! (by: Bden)                                               516   76   76    64   45%   559   25%
+ 435 NoTimeLeft (by: F&F)                                                     510   76   76    64   45%   560   22%
+ 436 ExtremelyShortsighted (by: CJS)                                          510   77   77    64   47%   539   16%
+ 437 No Brain but Hungry (by: Pete)                                           508   78   78    64   47%   538   13%
+ 438 HekMate (by: Maddisch)                                                   506   73   73    64   48%   545   36%
+ 439 Attempts to win (by: Taylor Lineman)                                     506   72   72    64   47%   541   44%
+ 440 Better than my maker :p (by: Bobinou)                                    502   72   72    64   48%   523   39%
+ 441 tom (by: Christopher Hosken & Thomas Lower)                              497   77   77    64   48%   512   14%
+ 442 The Mad King (by: Coding With Avaclava)                                  494   73   73    64   46%   557   36%
+ 443 notBlue (by: RedRRVJ)                                                    493   77   77    64   47%   520   16%
+ 444 Caissa Alexander (by: Ephraim225)                                        490   76   76    64   47%   527   25%
+ 445 holcak-bot (by: Petr Hol─ì├ík)                                           487   76   76    64   48%   506   27%
+ 446 DeepDumb (by: OutdoorsyEngineer)                                         483   77   77    64   46%   526   23%
+ 447 Whatevs (by: KingPRS)                                                    479   66   66    64   46%   528   73%
+ 448 Stickleback (by: Brent Mardell)                                          477   75   75    64   47%   524   25%
+ 449 SlothBot (by: 0xFF)                                                      473   91   91    64   45%   536    3%
+ 450 Mobilibot (by: Gabriel N.)                                               469   75   75    64   48%   533   27%
+ 451 EatingAndBeingEaten (by: GameBoy19 und Pete877)                          464   77   77    64   48%   494   11%
+ 452 NameGoesThere's bot (by: NameGoesThere)                                  464   75   75    64   46%   509   27%
+ 453 simpleval (portmonteau of simple eval) (by: hokurou)                     462   73   73    64   47%   488   31%
+ 454 The Fisher (by: Unodus)                                                  460   77   77    64   46%   508   17%
+ 455 OneHundredAndEighty (by: Tom R.)                                         458   71   71    64   46%   497   39%
+ 456 SimpleBot (by: :LMProgramming)                                           458   73   73    64   45%   520   34%
+ 457 Clyde (by: Evan)                                                         456   75   75    64   46%   497   27%
+ 458 Single Player (by: Loeka)                                                455   77   77    64   46%   494   14%
+ 459 StevenBot (by: Steven)                                                   455   73   73    64   46%   504   39%
+ 460 Version 8 (by: Whoever)                                                  453   69   69    64   47%   509   53%
+ 461 IDK What I Was Doing (by: Yajwin Grover)                                 451   65   65    64   45%   504   81%
+ 462 Wee fella (by: Samm)                                                     450   76   76    64   48%   460   30%
+ 463 Mischievous bot (by: Guigui)                                             449   75   75    64   46%   491   33%
+ 464 Traderino (by: BenLS)                                                    447   78   78    64   46%   508   11%
+ 465 Simpleton.01 (by: Bee)                                                   447   73   73    64   47%   465   34%
+ 466 ShallowBot (by: Vaggelis Softsis)                                        442   67   67    64   46%   471   64%
+ 467 evilbot v2 (by: aria1400)                                                434   77   77    64   45%   497   22%
+ 468 EvilerBot (by: Noah)                                                     426   76   76    64   46%   458   20%
+ 469 BotTheBuilder (by: Stelio Dalakas)                                       425   70   70    64   46%   470   48%
+ 470 Trogdor (by: Zaph)                                                       422   73   73    64   48%   461   36%
+ 471 Crazy? I was crazy once. They Locked me in a room. A rubber roo...       418   64   64    64   45%   450   72%
+ 472 Why Use Full Brain (by: JustAdy)                                         416   72   72    64   46%   453   36%
+ 473 SmoothBrainBot (by: zeqzero)                                             410   66   66    64   47%   443   63%
+ 474 SatanBot (by: odin7053@discord)                                          407   74   74    64   45%   449   31%
+ 475 BC the simpel (by: Beamcrafter)                                          405   70   70    64   46%   457   45%
+ 476 ONE MOVE TO RULE THEM ALL (by: b4ux1t3)                                  398   75   75    64   45%   466   22%
+ 477 Saubstauga (by: Dominik)                                                 397   71   71    64   47%   446   41%
+ 478 BadMeetsEvil (by: Nathan)                                                397   79   79    64   46%   443   11%
+ 479 Achilles Random (by: Achilles)                                           397   75   75    64   46%   441   23%
+ 480 DotBot (by: Jonas // dotwalking)                                         395   64   64    64   47%   418   75%
+ 481 EldenBot (by: Ghost_Dev_84)                                              393   73   73    64   45%   456   34%
+ 482 TinyLispChessBot (by: tr00)                                              392   62   62    64   46%   451   92%
+ 483 Just Alright... Kinda... (JAK) (by: Joshnaks)                            389   77   77    64   47%   424   25%
+ 484 Anty (by: Emanuele Sorce)                                                387   74   74    64   45%   441   28%
+ 485 Malina (by: Tadeam)                                                      386   70   70    64   46%   442   42%
+ 486 DrunkBot (by: rootNico)                                                  385   76   76    64   45%   477   23%
+ 487 RedVallium (by: Piotr Bo┼╝ek)                                            377   75   75    64   46%   434   27%
+ 488 Kaan's Majestic Gentlemen (by: Level 0 Kaan)                             377   71   71    64   47%   414   41%
+ 489 Hungry For Mates (by: Bisque)                                            377   72   72    64   45%   426   42%
+ 490 Trash LITE (by: kachim2)                                                 376   78   78    64   45%   445   14%
+ 491 fun  (by: nathan09)                                                      375   71   71    64   46%   430   33%
+ 492 NoNameBot (by: Gamerninja)                                               374   73   73    64   45%   420   27%
+ 493 PrincessAtta (by: Bowser Bowering and Allyn Lloyd)                       369   70   70    64   46%   412   45%
+ 494 Error 404 (by: Minionana)                                                369   73   73    64   45%   440   31%
+ 495 ChessGPT (by: DeepGoldenCrown)                                           367   74   74    64   45%   402   31%
+ 496 LPS (by: fhyyBy2)                                                        366   73   73    64   45%   424   31%
+ 497 NotSoEvilBot (by: AntVil)                                                366   69   69    64   47%   402   44%
+ 498 SYSMER (by: YannM)                                                       365   70   70    64   46%   447   42%
+ 499 evilRatBot (by: Only_Mayonnaise)                                         360   68   68    64   45%   402   47%
+ 500 'Knight'mare (by: AGentW29)                                              358   70   70    64   46%   407   39%
+ 501 The Red Crayon (by: Daniel L.)                                           354   78   78    64   44%   467   34%
+ 502 chaos bot (by: zer0)                                                     351   72   72    64   46%   389   33%
+ 503 DumBot (by: Viruj)                                                       348   66   66    64   45%   431   69%
+ 504 dumber (by: daw._.dev)                                                   346   70   70    64   45%   420   47%
+ 505 AeroBot (by: vakqDev)                                                    344   77   77    64   45%   411   16%
+ 506 Matey (by: Conor)                                                        344   66   66    64   46%   393   70%
+ 507 UncatchableSpaghettiMonster (by: drlundberg)                             341   70   70    64   45%   409   42%
+ 508 Shadow (by: Zaid Alas4)                                                  341   71   71    64   45%   408   39%
+ 509 DrawMachine (by: Rune)                                                   339   71   71    64   46%   370   42%
+ 510 dumbot (by: slothinahat)                                                 338   71   71    64   44%   405   38%
+ 511 Swag Messiah (by: )                                                      338   79   79    64   42%   404   50%
+ 512 Hopeless Bot (by: Nepiceo)                                               337   70   70    64   45%   382   44%
+ 513 Hot Garbage (by: CT424)                                                  336   72   72    64   45%   385   34%
+ 514 EvilMirror (by: Hagan Gray)                                              325   65   65    64   45%   375   64%
+ 515 MinimalBot (by: GreenSalad_)                                             323   68   68    64   44%   378   50%
+ 516 Greedy-Dumb-Bot (by: TrangML)                                            321   71   71    64   46%   366   39%
+ 517 #enpassant4ever (by: trueberryless)                                      320   70   70    64   45%   379   41%
+ 518 DoesTheBotNameHasACharacterLimitBecauseIAmSureThisCanGetInteres...       320   71   71    64   44%   380   44%
+ 519 pawnHater300 (by: hakrackete)                                            320   68   68    64   45%   361   47%
+ 520 HERO-bot (by: ELEMENTLHERO)                                              317   73   73    64   45%   397   31%
+ 521 Shakki botti (by: bobq)                                                  317   69   69    64   45%   353   48%
+ 522 Blundering Baggins (by: kooleerv)                                        316   71   71    64   45%   357   44%
+ 523 ABot (by: August)                                                        312   70   70    64   44%   389   44%
+ 524 GoblinArmy (by: TheChroniclerDelta)                                      309   68   68    64   45%   360   50%
+ 525 PracticeBot (by: liamkc)                                                 309   69   69    64   45%   362   42%
+ 526 Bongcloud enthusiast (by: CreeperXD)                                     307   70   70    64   44%   357   38%
+ 527 Bob (by: Kökényesi Attila (UltraGeek))                                   305   72   72    64   44%   366   34%
+ 528 CopyBot (by: bull313)                                                    304   67   67    64   44%   361   53%
+ 529 AttackBot (by: Kai Tabuchi (9 Years Old))                                301   68   68    64   44%   356   53%
+ 530 Knightmare (by: Miguel Piedrafita)                                       301   66   66    64   45%   347   64%
+ 531 (confus) (by: Leg3nd)                                                    297   73   73    64   45%   359   30%
+ 532 PrayForMeBot (by: Jo├úo)                                                 296   70   70    64   45%   372   42%
+ 533 MirrorBot (by: Jackk)                                                    295   66   66    64   44%   357   59%
+ 534 Scared (by: Guillem)                                                     295   65   65    64   45%   347   67%
+ 535 CCCP (by: not mario)                                                     289   66   66    64   45%   332   53%
+ 536 ScholarsBot (by: magic216)                                               289   82   82    64   44%   333    9%
+ 537 Cheatos (by: Jeroen)                                                     288   62   62    64   44%   336   81%
+ 538 Monster Queen (by: Andro 65)                                             287   68   68    64   45%   334   45%
+ 539 charge forward v1 (by: steel chair)                                      279   72   72    64   45%   335   33%
+ 540 CopyCat (by: ADI)                                                        273   68   68    64   45%   345   45%
+ 541 CEO grindset board meeting (by: Burnzy <3)                               272   65   65    64   45%   319   61%
+ 542 Celluar Automaton Iterated (by: Pix)                                     261   65   65    64   44%   322   63%
+ 543 TeacherBot (by: qumquat)                                                 258   73   73    64   45%   321   33%
+ 544 One step at a time except sometimes (by: Parborway)                      257   64   64    64   45%   314   70%
+ 545 broken bot (by: Raj Gaurav)                                              252   69   69    64   45%   299   42%
+ 546 Aggressive Fool (by: ZZKer (she/her pronouns))                           250   66   66    64   44%   309   56%
+ 547 DD9's chess bot (by: DigestDig9)                                         250   70   70    64   44%   349   44%
+ 548 Mr. Racism (by: 89o)                                                     246   63   63    64   44%   304   75%
+ 549 Bob (Looser) (by: Flo)                                                   246   71   71    64   45%   293   36%
+ 550 Hello there (by: Crazyfly072)                                            246   62   62    64   44%   293   81%
+ 551 SFN v 2.0 (by: SFN)                                                      245   66   66    64   43%   292   55%
+ 552 THE CATS BOT OMG!!!!!!!!!!!!!!!!! (by: THE CATS)                         243   65   65    64   45%   289   59%
+ 553 nadjBot (by: Arman N)                                                    242   62   62    64   45%   280   80%
+ 554 FancyDefenceFence (by: FancyDefenceFenceFan)                             241   67   67    64   44%   318   56%
+ 555 En Croissant (by: Lethal Chicken)                                        239   62   62    64   43%   286   83%
+ 556 DareWitch (by: mdrwsh)                                                   235   62   62    64   44%   276   75%
+ 557 GenericBoringbot (by: Kayinth)                                           234   67   67    64   43%   307   58%
+ 558 Good Bot Bad Bot (But Really, Both Are Terrible Bots, Also This...       234   65   65    64   43%   313   64%
+ 559 InfuehrDaniel MCTS (by: Daniel Infuehr)                                  232   83   83    64   42%   316    3%
+ 560 crapus bottus (by: h1387xd)                                              232   68   68    64   44%   283   47%
+ 561 NotVeryGood (by: Jesse)                                                  230   64   64    64   44%   279   66%
+ 562 Queen's Gam-bot (by: Mateo Saldivar (ZiroDev))                           230   66   66    64   42%   285   63%
+ 563 SimpleGuy (by: Kurt St)                                                  229   64   64    64   42%   302   75%
+ 564 Holy hell (by: Tyler Branscombe & Austin Daniel)                         222   68   68    64   44%   296   47%
+ 565 THE KING HAS COOTIES! (by: Jackattack1031)                               221   67   67    64   44%   268   47%
+ 566 Aggrobot (by: CHECKERCE)                                                 220   62   62    64   43%   279   83%
+ 567  as an alternative) (by: Rudy)                                           218   62   62    64   42%   274   78%
+ 568 InsufficientBot (by: Sep)                                                213   63   63    64   44%   260   72%
+ 569 Botty_Bot (by: Roboticmadness)                                           211   65   65    64   44%   254   66%
+ 570 TrainedLikeTeamy (by: TeamDman)                                          209   62   62    64   43%   258   80%
+ 571 BadBot (by: Daniel)                                                      209   68   68    64   42%   269   56%
+ 572 Phi plays Chess (a.k.a. Zobrist's Golden... (by: Wolfpack 104)           207   67   67    64   44%   257   53%
+ 573 AngryPiece (by: FlamingSquid)                                            206   63   63    64   43%   279   77%
+ 574 The Soggy Biscuit (by: Brandon Curington)                                206   66   66    64   44%   278   53%
+ 575 en passant bot (by: julie)                                               206   66   66    64   45%   243   58%
+ 576 ScaredyBot (by: Jacob Sweeten)                                           205   65   65    64   42%   271   72%
+ 577 Cirrus v0.1 (by: Bbrainstormer)                                          202   62   62    64   44%   247   78%
+ 578 PacifistBot (by: Noano01)                                                199   68   68    64   44%   255   50%
+ 579 Mirror Bot (by: JuNi)                                                    197   63   63    64   43%   244   73%
+ 580 Bobobot (by: Lino)                                                       196   66   66    64   43%   261   58%
+ 581 Pacifist (by: JubilantJanitor)                                           196   64   64    64   43%   257   77%
+ 582 TimsBot (by: Thomas Dvorak)                                              193   65   65    64   43%   239   61%
+ 583 The Copycat (by: castur_)                                                192   62   62    64   43%   250   73%
+ 584 CheatingBot (by: wischi)                                                 192   63   63    64   43%   271   80%
+ 585 BalanceBot (by: vuT)                                                     190   62   62    64   44%   251   75%
+ 586 The Martyr (by: Latobius)                                                189   62   62    64   43%   243   73%
+ 587 Asymptotically optimal (by: Graham Gayler)                               186   63   63    64   44%   230   72%
+ 588 Pancake (by: EaglePancake)                                               186   66   66    64   42%   253   56%
+ 589 The Chotic bot (by: EV3L1N)                                              186   67   67    64   43%   225   52%
+ 590 Memelord (by: Alex Kubanek)                                              183   63   63    64   43%   263   73%
+ 591 Little Brother (by: J-Square)                                            181   61   61    64   44%   207   81%
+ 592 r├╕hgryd me' fl├╕e made in China (by: TSDT-Silly)                        181   63   63    64   43%   228   73%
+ 593 Turtle (by: Geezmo)                                                      179   62   62    64   44%   224   78%
+ 594 One Line and a Dream (by: Sliderlo)                                      179   65   65    64   43%   236   61%
+ 595 DeepScaredyBot (by: Jacob Sweeten)                                       179   63   63    64   44%   208   75%
+ 596 PixelArtist (sort of) (by: Ludovic Debever (Lxdovic))                    177   64   64    64   44%   228   72%
+ 597 Wandering King (by: Elliott D)                                           177   64   64    64   44%   197   72%
+ 598 BongCloudBot (by: Ben)                                                   175   63   63    64   43%   224   77%
+ 599 Maximillian Stalebot (by: hilovids)                                      174   64   64    64   43%   219   73%
+ 600 RandomUnoptimisedBot (by: Zhanybek)                                      168   69   69    64   44%   201   44%
+ 601 GoodBot (by: Fiera42)                                                    166   65   65    64   42%   201   63%
+ 602 Planck Bot (by: LadyOfSpades)                                            165   64   64    64   43%   209   67%
+ 603 Betelchess (by: VY Canis Majoris (also special thanks to Gurren          165   64   64    64   44%   202   72%
+ 604 TeddyBearBot (by: mathabs)                                               163   62   62    64   43%   229   80%
+ 605 Smiley (by: Orniflyer)                                                   160   66   66    64   43%   200   64%
+ 606 SWaP (Stucked With a Piece) (by: Esprit Orgue)                           159   61   61    64   43%   209   80%
+ 607 Failbot (by: deltagiac)                                                  152   65   65    64   43%   195   67%
+ 608 Bad Player (by: Geopardgame)                                             151   67   67    64   43%   175   55%
+ 609 Splinter (by: Fungi Forrest & Fedora Noah)                               151   67   67    64   43%   147   64%
+ 610 The Peaceful King (by: Sam Lefforge)                                     140   65   65    64   42%   152   69%
+ 611 LadyLuckGuidesMyMinMaxSearch (by: MrPelluke)                             101   71   71    64   41%    97   48%
+ 612 GenerousBoi (by: Uls)                                                    101   73   73    64   41%    83   47%
+ 613 One-Man Army (by: Brodie Eaton)                                           91   77   77    64   43%    90   33%
+ 614 Search 1.0 (by: Rayansh)                                                  76   77   77    64   42%    48   34%
+ 615 Sore Loser Bot (by: Techno)                                                4   95   95    64   41%    46    8%
+ 616 Edbd (by: Ahmad)                                                        -272  130  130    64   41%  -183    0%
+ 617 Funko Bot (by: Sky Sherwood)                                            -357  137  137    64   41%  -207    0%
+ 618 Reverie VI (by: Jakub Skop)                                             -774   99   99    64   34%  -495    0%
+ 619 Tony (by: Schming)                                                      -785   96   96    64   36%  -531    0%
+ 620 BadAppleBot (by: Loev06)                                                -795   99   99    64   33%  -492    0%
+ 621 TheAlmightyEndBoss (by: Thom De M.)                                     -797   96   96    64   34%  -549    0%
+ 622 PanicKing (by: Andy Mitchell)                                           -806   96   96    64   34%  -540    0%
+ 623 bl├Ñ gr├╕' med r├╕g b├ªrr (by: TSDT - F)                                -824   95   95    64   34%  -561    0%
+ 624 WorstBotEverMade (by: Tumpa)                                            -846   93   93    64   33%  -551    0%
