@@ -1,7 +1,7 @@
 namespace auto_Bot_626;
 // Bot name: drip leab
 // The authors are in no particular order
-// Authors: JeffLegendPower (discord id: jefflegendpower)
+// Authors: Ishaan Goyal, a.k.a. JeffLegendPower (discord id: jefflegendpower)
 // AtadOfAChad (discord id: atadofachadgladbadradsadmadlad)
 // Gonumen (discord id: Gonumen#9433)
 // KevinStriker (discord id: kevinstriker)
